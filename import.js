@@ -1,6 +1,8 @@
 const fs = require(`fs`).promises;
 const mysql = require(`mysql`);
 const path = require(`path`);
+const striptags = require(`striptags`);
+const yaml = require(`js-yaml`);
 
 const connection = mysql.createConnection({
   host: `localhost`,
@@ -43,12 +45,21 @@ const createArticlePath = result => {
   return path.join(sectionPath, fileName).toLowerCase();
 };
 
+const getFrontmatter = article => {
+  const title = striptags(article.title);
+  return yaml.dump({
+    title
+  });
+};
+
 const handleResult = result => {
   const { articles: article } = result;
   const articlePath = createArticlePath(result);
   console.log(articlePath);
+  const frontmatter = getFrontmatter(article);
+
   const fileContent = `---
----
+${frontmatter}---
 
 ${article.body}
 `;
