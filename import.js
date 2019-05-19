@@ -38,7 +38,7 @@ const createSectionPath = result => {
 const createArticlePath = result => {
   const sectionPath = createSectionPath(result);
   const { articles: article } = result;
-  const fileName = `${article.permalink}.md`;
+  const fileName = `${article.permalink}.html`;
 
   return path.join(sectionPath, fileName).toLowerCase();
 };
