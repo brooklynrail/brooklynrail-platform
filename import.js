@@ -21,14 +21,20 @@ const sql = `
   WHERE issues.published = 1
 `;
 
-const createSectionPath = result => {
-  const { sections: section, issues: issue } = result;
+const createIssuePath = issue => {
   // two-digit
   const month = issue.month.toString().padStart(2, `0`);
 
   return path
-    .join(__dirname, `content`, issue.year.toString(), month, section.permalink)
+    .join(__dirname, `content`, issue.year.toString(), month)
     .toLowerCase();
+};
+
+const createSectionPath = result => {
+  const { sections: section } = result;
+  const issuePath = createIssuePath(result.issue);
+
+  return path.join(issuePath, section.permalink).toLowerCase();
 };
 
 const createArticlePath = result => {
@@ -46,10 +52,8 @@ const getFrontmatter = article => {
   });
 };
 
-const handleResult = result => {
+const createArticle = result => {
   const { articles: article } = result;
-  const articlePath = createArticlePath(result);
-  console.log(articlePath);
   const frontmatter = getFrontmatter(article);
 
   const fileContent = `---
@@ -58,11 +62,16 @@ ${frontmatter}---
 ${article.body}
 `;
 
+  const articlePath = createArticlePath(result);
+  console.log(articlePath);
+
+  return fs.writeFile(articlePath, fileContent);
+};
+
+const handleResult = result => {
   const sectionPath = createSectionPath(result);
   fs.mkdir(sectionPath, { recursive: true })
-    .then(() => {
-      return fs.writeFile(articlePath, fileContent);
-    })
+    .then(() => createArticle(result))
     .catch(err => {
       throw err;
     });
