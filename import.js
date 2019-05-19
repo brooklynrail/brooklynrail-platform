@@ -1,3 +1,4 @@
+const fs = require(`fs`).promises;
 const mysql = require(`mysql`);
 const path = require(`path`);
 
@@ -20,22 +21,51 @@ const sql = `
   LIMIT 10
 `;
 
-connection.query({ sql, nestTables: true }, (error, results) => {
-  if (error) throw error;
+const createSectionPath = result => {
+  const { sections: section, issues: issue } = result;
 
-  results.forEach(result => {
-    const { articles: article, sections: section, issues: issue } = result;
-    const fileName = `${article.permalink}.md`;
-    const articlePath = path.join(
+  return path
+    .join(
       __dirname,
       `content`,
       issue.year.toString(),
       issue.month.toString(),
-      section.permalink,
-      fileName
-    );
-    console.log(articlePath);
-  });
+      section.permalink
+    )
+    .toLowerCase();
+};
 
+const createArticlePath = result => {
+  const sectionPath = createSectionPath(result);
+  const { articles: article } = result;
+  const fileName = `${article.permalink}.md`;
+
+  return path.join(sectionPath, fileName).toLowerCase();
+};
+
+const handleResult = result => {
+  const { articles: article } = result;
+  const articlePath = createArticlePath(result);
+  console.log(articlePath);
+  const fileContent = `---
+---
+
+${article.body}
+`;
+
+  const sectionPath = createSectionPath(result);
+  fs.mkdir(sectionPath, { recursive: true })
+    .then(() => {
+      return fs.writeFile(articlePath, fileContent);
+    })
+    .catch(err => {
+      throw err;
+    });
+};
+
+connection.query({ sql, nestTables: true }, (error, results) => {
+  if (error) throw error;
+
+  results.forEach(handleResult);
   connection.end();
 });
