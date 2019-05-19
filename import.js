@@ -19,21 +19,15 @@ const sql = `
   INNER JOIN sections
   ON articles.section_id = sections.id
   WHERE issues.published = 1
-  ORDER BY articles.created_at DESC
-  LIMIT 10
 `;
 
 const createSectionPath = result => {
   const { sections: section, issues: issue } = result;
+  // two-digit
+  const month = issue.month.toString().padStart(2, `0`);
 
   return path
-    .join(
-      __dirname,
-      `content`,
-      issue.year.toString(),
-      issue.month.toString(),
-      section.permalink
-    )
+    .join(__dirname, `content`, issue.year.toString(), month, section.permalink)
     .toLowerCase();
 };
 
