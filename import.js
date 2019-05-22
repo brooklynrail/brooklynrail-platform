@@ -31,8 +31,8 @@ const createIssuePath = issue => {
 };
 
 const createSectionPath = result => {
-  const { sections: section } = result;
-  const issuePath = createIssuePath(result.issue);
+  const { issues: issue, sections: section } = result;
+  const issuePath = createIssuePath(issue);
 
   return path.join(issuePath, section.permalink).toLowerCase();
 };
