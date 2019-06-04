@@ -11,6 +11,8 @@ To use:
 
 ## Importing content
 
+The repository already contains a subset of the articles under `content/`, but if you want modify [the import script](import.js) to bring in more data:
+
 1. Install Node.js.
 1. Start the database from [the main site](https://github.com/brooklynrail/brooklynrail) directory.
 
