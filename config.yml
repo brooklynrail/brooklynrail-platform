@@ -1,0 +1,19 @@
+title                   : "The Brooklyn Rail"
+baseURL                 : "/"
+languageCode            : "en-us"
+theme                   : "brooklynrail"
+themesDir               : "./themes"
+MetaDataFormat          : "yaml"
+DefaultContentLanguage  : "en"
+SectionPagesMenu        : "main"
+Paginate                : 20
+googleAnalytics         : ""
+enableRobotsTXT         : true
+enableEmoji             : true
+enableGitInfo           : true
+buildFuture             : true
+
+# HUGO will not build pages in the following folders
+ignoreFiles:
+  - "^_template"
+  - "content/_archived/*"
