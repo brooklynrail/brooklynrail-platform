@@ -1,0 +1,13 @@
+
+name : "The Brooklyn Rail"
+license : "MIT"
+licenselink : ""
+description : "The foundation of the Brooklyn Rail"
+homepage : "https://brooklynrail.org"
+tags : ["website"]
+features : ["events"]
+min_version : 0.0.1
+
+author:
+  - name : "Jeremy Zilar"
+  - homepage : "https://github.com/jeremyzilar"
