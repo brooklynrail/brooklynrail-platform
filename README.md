@@ -1,6 +1,12 @@
-# Hugo test
+[![Netlify Status](https://api.netlify.com/api/v1/badges/db6c835f-87e3-47c4-8f4d-53b4af3c6be8/deploy-status)](https://app.netlify.com/sites/brooklynrail/deploys)
 
-To use:
+---
+
+# The Brooklyn Rail
+https://brooklynrail.org
+
+
+## Install
 
 1. [Install Hugo.](https://gohugo.io/getting-started/quick-start/#step-1-install-hugo)
 1. Start the server.
