@@ -1,5 +1,6 @@
 node_modules/
 /public/
+/resources/
 themes/brooklynrail/static/dist/
 themes/brooklynrail/static/fonts/merriweather/
 themes/brooklynrail/static/fonts/source-sans-pro/
