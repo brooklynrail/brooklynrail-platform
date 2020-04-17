@@ -20,7 +20,7 @@
   "scripts": {
     "local-build": "gulp build && gulp watch",
     "hugo": "hugo serve",
-    "federalist": "gulp build-assets",
+    "netlify": "gulp build && hugo build",
     "start": "npm-run-all --parallel local-build hugo",
     "test:pa11y": "pa11y-ci --config .pa11yci"
   },
