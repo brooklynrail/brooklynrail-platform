@@ -1,0 +1,41 @@
+{{ define "main" }}
+
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="grid-col-12">
+
+      <article class="">
+
+        <header class="">
+          <p class="kicker">
+            {{with .CurrentSection }}
+              <a href="{{ .Permalink }}" title="{{ . }}">{{ .Title | upper }}</a>
+            {{end}}
+          </p>
+          <h1>
+            {{- .Title -}}
+          </h1>
+
+          {{/* Hugo uses Go's date formatting is set by example. Here are two formats */}}
+          <time class="" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+            {{- .Date.Format "January 2, 2006" -}}
+          </time>
+
+        </header>
+
+        <section class="">
+          {{- .Content -}}
+          {{- partial "tags.html" . -}}
+        </section>
+
+        <aside>
+          {{- partial "menu-contextual.html" . -}}
+        </aside>
+
+      </article>
+
+    </div>
+  </div>
+</div>
+
+{{ end }}
