@@ -18,10 +18,10 @@
   },
   "main": "gulpfile.js",
   "scripts": {
-    "local-build": "gulp build && gulp watch",
-    "hugo": "hugo serve",
+    "local-assets": "gulp build && gulp watch",
+    "local-build": "hugo serve",
     "netlify": "gulp build && hugo build",
-    "start": "npm-run-all --parallel local-build hugo",
+    "start": "npm-run-all --parallel local-assets local-build",
     "test:pa11y": "pa11y-ci --config .pa11yci"
   },
   "dependencies": {
