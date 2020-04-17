@@ -13,7 +13,18 @@ enableEmoji             : true
 enableGitInfo           : true
 buildFuture             : true
 
-# HUGO will not build pages in the following folders
+
+# HUGO will ignore pages in the following folders
 ignoreFiles:
   - "^_template"
   - "content/_archived/*"
+
+permalinks:
+  article               : ":year/:month/:day/:slug/"
+  events                : "event/:year/:month/:day/:slug/"
+
+outputs:
+  home: ["HTML","RSS", "JSON"]
+  section: ["HTML","RSS", "JSON"]
+  page: ["HTML", "JSON"]
+  taxonomy: ["HTML","RSS", "JSON"]
