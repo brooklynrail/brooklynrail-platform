@@ -36,10 +36,10 @@ PATHS
 */
 
 // USWDS source directory
-const USWDS_SRC  = "./themes/brooklynrail/src/scss/uswds";
+const USWDS_SRC  = "./themes/brooklynrail/assets/scss/uswds";
 
 // Project Sass source directory
-const PROJECT_SASS_SRC = "./themes/brooklynrail/src/scss";
+const PROJECT_SASS_SRC = "./themes/brooklynrail/assets/scss";
 
 // Images destination
 const IMG_DEST = "./themes/brooklynrail/static/img/uswds";
