@@ -28,3 +28,9 @@ outputs:
   section: ["HTML","RSS", "JSON"]
   page: ["HTML", "JSON"]
   taxonomy: ["HTML","RSS", "JSON"]
+
+.params:
+  events_count: 20
+  articles_count: 20
+  mainSections:
+    - events
