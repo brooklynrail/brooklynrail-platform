@@ -129,6 +129,8 @@ gulp.task("watch-sass", function() {
 
 gulp.task("watch", gulp.series("build-sass", "watch-sass"));
 
-gulp.task("build", gulp.series("build-sass"));
+gulp.task("copy", gulp.series("copy-uswds-js"));
+
+gulp.task("build", gulp.series("build-sass", "copy"));
 
 gulp.task("default", gulp.series("watch"));
