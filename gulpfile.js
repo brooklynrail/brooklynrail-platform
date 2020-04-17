@@ -42,13 +42,13 @@ const USWDS_SRC  = "./themes/brooklynrail/src/scss/uswds";
 const PROJECT_SASS_SRC = "./themes/brooklynrail/src/scss";
 
 // Images destination
-const IMG_DEST = "./themes/brooklynrail/static/img";
+const IMG_DEST = "./themes/brooklynrail/static/img/uswds";
 
 // Fonts destination
 const FONTS_DEST = "./themes/brooklynrail/static/fonts";
 
 // Javascript destination
-const JS_DEST = "./themes/brooklynrail/src/js";
+const JS_DEST = "./themes/brooklynrail/static/dist";
 
 // Compiled CSS destination
 const CSS_DEST = "./themes/brooklynrail/static/dist";
@@ -82,6 +82,7 @@ gulp.task("copy-uswds-js", () => {
   return gulp.src(`${uswds}/js/**/**`).pipe(gulp.dest(`${JS_DEST}`));
 });
 
+
 gulp.task("build-sass", function(done) {
   var plugins = [
     // Autoprefix
@@ -91,7 +92,7 @@ gulp.task("build-sass", function(done) {
   ];
   return (
     gulp
-      .src([`${PROJECT_SASS_SRC}/*.scss`])
+      .src([`${PROJECT_SASS_SRC}/**/*.scss`])
       .pipe(sourcemaps.init({ largeFile: true }))
       .pipe(
         sass.sync({
