@@ -4,8 +4,12 @@
   {{ partial "head.html" . }}
 
   <body class="{{ $.Param "body_classes"  | default "" }}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
+    <a class="usa-skipnav" href="#main-content">Skip to main content</a>
 
-    {{ block "header" . }}{{ partialCached "header.html" . }}{{ end }}
+    {{ block "header" . }}
+      {{ partialCached "header.html" . }}
+      {{ partialCached "main-nav.html" . }}
+    {{ end }}
 
     {{ block "main" . }}{{ end }}
 
