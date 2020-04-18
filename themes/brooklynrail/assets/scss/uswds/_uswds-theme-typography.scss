@@ -122,14 +122,14 @@ names to something more descriptive.
 */
 
 $theme-typeface-tokens: (
-  example-serif-token: (
-    display-name: "Example Serif Display Name",
-    cap-height: 364px
+  untitled-serif: (
+    display-name: 'Untitled Serif',
+    cap-height: 324px,
   ),
-  example-sans-token: (
-    display-name: "Example Sans Display Name",
-    cap-height: 364px
-  )
+  untitled-sans: (
+    display-name: 'Untitled Sans',
+    cap-height: 357px,
+  ),
 );
 
 /*
@@ -167,10 +167,10 @@ $theme-font-type-lang: false;
 $theme-font-type-mono: "roboto-mono";
 
 // sans-serif
-$theme-font-type-sans: "public-sans";
+$theme-font-type-sans:  'untitled-sans';
 
 // serif
-$theme-font-type-serif: "merriweather";
+$theme-font-type-serif: 'untitled-serif';
 
 /*
 ----------------------------------------
@@ -198,8 +198,8 @@ $theme-font-cond-custom-stack: false;
 $theme-font-icon-custom-stack: false;
 $theme-font-lang-custom-stack: false;
 $theme-font-mono-custom-stack: false;
-$theme-font-sans-custom-stack: false;
-$theme-font-serif-custom-stack: false;
+$theme-font-sans-custom-stack:  -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+$theme-font-serif-custom-stack: Georgia,Cambria,Times New Roman,Times,serif;
 
 /*
 ----------------------------------------
@@ -259,12 +259,64 @@ $theme-font-serif-custom-src: (
 ----------------------------------------
 */
 
+$theme-font-serif-custom-src: (
+  dir: 'untitled-serif',
+  roman: (
+    100: false,
+    200: false,
+    300: false,
+    400: 'UntitledSerifWeb-Regular',
+    500: 'UntitledSerifWeb-Medium',
+    600: false,
+    700: 'UntitledSerifWeb-Bold',
+    800: false,
+    900: false,
+  ),
+  italic: (
+    100: false,
+    200: false,
+    300: false,
+    400: 'UntitledSerifWeb-RegularItalic',
+    500: 'UntitledSerifWeb-MediumItalic',
+    600: false,
+    700: 'UntitledSerifWeb-BoldItalic',
+    800: false,
+    900: false,
+  ),
+);
+
+$theme-font-sans-custom-src: (
+  dir: 'untitled-sans',
+  roman: (
+    100: false,
+    200: 'UntitledSansWeb-Light',
+    300: false,
+    400: 'UntitledSansWeb-Regular',
+    500: 'UntitledSansWeb-Medium',
+    600: false,
+    700: 'UntitledSansWeb-Bold',
+    800: false,
+    900: 'UntitledSansWeb-Black',
+  ),
+  italic: (
+    100: false,
+    200: 'UntitledSansWeb-LightItalic',
+    300: false,
+    400: 'UntitledSansWeb-RegularItalic',
+    500: 'UntitledSansWeb-MediumItalic',
+    600: false,
+    700: 'UntitledSansWeb-BoldItalic',
+    800: false,
+    900: 'UntitledSansWeb-BlackItalic',
+  ),
+);
+
 $theme-font-cond-custom-src: false;
 $theme-font-icon-custom-src: false;
 $theme-font-lang-custom-src: false;
 $theme-font-mono-custom-src: false;
-$theme-font-sans-custom-src: false;
-$theme-font-serif-custom-src: false;
+$theme-font-sans-custom-src:   $theme-font-sans-custom-src;
+$theme-font-serif-custom-src:  $theme-font-serif-custom-src;
 
 /*
 ----------------------------------------
@@ -284,8 +336,8 @@ tokens.
 */
 
 $theme-font-role-ui: "sans";
-$theme-font-role-heading: "serif";
-$theme-font-role-body: "sans";
+$theme-font-role-heading: "sans";
+$theme-font-role-body: "serif";
 $theme-font-role-code: "mono";
 $theme-font-role-alt: "serif";
 
@@ -319,13 +371,13 @@ Or use `false` for unneeded weights.
 ----------------------------------------
 */
 
-$theme-font-weight-thin: false;
-$theme-font-weight-light: 300;
-$theme-font-weight-normal: 400;
-$theme-font-weight-medium: false;
-$theme-font-weight-semibold: false;
-$theme-font-weight-bold: 700;
-$theme-font-weight-heavy: false;
+$theme-font-weight-thin:          100;
+$theme-font-weight-light:         200;
+$theme-font-weight-normal:        400;
+$theme-font-weight-medium:        500;
+$theme-font-weight-semibold:      false;
+$theme-font-weight-bold:          700;
+$theme-font-weight-heavy:         900;
 
 // If USWDS is generating your @font-face rules,
 // should we generate all available weights
