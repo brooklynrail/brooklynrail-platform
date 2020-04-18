@@ -1,0 +1,45 @@
+// Common type elements
+
+// ====================================================
+// Links with border bottom
+// In some cases, it is better to apply `border-bottom` to the button or link vs having it apply the underline
+
+// Example:
+// <a class="u-white" href="" title=""><span class="u">Donate</span></a>
+
+// - u-primary (dotted, red-50v)
+// - u-primary-dotted
+// - u-black
+// - u-white
+a.u-primary {
+  @include u-text('no-underline');
+  &:hover{
+    span.u{
+      @include u-border-bottom('2px', 'solid', 'primary');
+    }
+  }
+}
+a.u-primary-dotted {
+  @include u-text('no-underline');
+  &:hover{
+    span.u{
+      @include u-border-bottom('2px', 'dotted', 'primary');
+    }
+  }
+}
+a.u-black {
+  @include u-text('no-underline');
+  &:hover{
+    span.u{
+      @include u-border-bottom('2px', 'solid', 'black');
+    }
+  }
+}
+a.u-white {
+  @include u-text('no-underline');
+  &:hover{
+    span.u{
+      @include u-border-bottom('2px', 'solid', 'white');
+    }
+  }
+}
