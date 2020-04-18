@@ -7,11 +7,9 @@
 
     {{ block "header" . }}{{ partialCached "header.html" . }}{{ end }}
 
-    <main id="main-content" class="" role="main">
-      {{ block "main" . }}{{ end }}
-    </main>
+    {{ block "main" . }}{{ end }}
 
-    {{ block "footer" . }}{{ partialCached "site-footer.html" . }}{{ end }}
+    {{ block "footer" . }}{{ partialCached "footer.html" . }}{{ end }}
 
     {{ block "scripts" . }}{{ partialCached "scripts.html" . }}{{ end }}
 

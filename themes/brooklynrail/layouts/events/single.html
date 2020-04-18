@@ -1,38 +1,56 @@
 {{ define "main" }}
 
-<div class="grid-container">
-  <div class="grid-row">
-    <div class="grid-col-12">
 
-      <article class="">
 
-        <header class="">
+<div class="usa-section">
+  <div class="grid-container">
+    <div class="grid-row">
+      <div class="grid-col-12 tablet:grid-col-8">
+
+        <main class="usa-layout-docs__main desktop:grid-col-9 usa-prose usa-layout-docs" id="main-content" role="main">
+
+          {{with .CurrentSection }}
           <p class="kicker">
-            {{with .CurrentSection }}
-              <a href="{{ .Permalink }}" title="{{ . }}">{{ .Title | upper }}</a>
-            {{end}}
+            <a href="{{ .Permalink }}" title="{{ . }}">{{ .Title | upper }}</a>
           </p>
+          {{end}}
+
+          {{- with .Params.Title -}}
           <h1>
-            {{- .Title -}}
+            {{- . -}}
           </h1>
+          {{- end -}}
 
+          {{- with .Params.Deck -}}
+          <p class="deck usa-intro">
+            {{- . -}}
+          </p>
+          {{- end -}}
+
+
+          {{- with .Date -}}
           {{/* Hugo uses Go's date formatting is set by example. Here are two formats */}}
-          <time class="" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
-            {{- .Date.Format "January 2, 2006" -}}
+          <time class="" datetime="{{ .Format "2006-01-02T15:04:05Z07:00" }}">
+            {{- .Format "January 2, 2006" -}}
           </time>
+          {{- end -}}
 
-        </header>
 
-        <section class="">
-          {{- .Content -}}
+          {{- with .Content -}}
+          <div class="usa-prose">
+            {{- . -}}
+          </div>
+          {{- end -}}
+
           {{- partial "tags.html" . -}}
-        </section>
 
-        <aside>
-          {{- partial "menu-contextual.html" . -}}
-        </aside>
+        </main>
 
-      </article>
+      </div>
+
+      <div class="grid-col-12 tablet:grid-col-4">
+        <button class="usa-button usa-button--big" type="button" name="button">Register</button>
+      </div>
 
     </div>
   </div>
