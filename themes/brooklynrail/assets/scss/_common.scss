@@ -1,45 +1,125 @@
 // Common type elements
 
-// ====================================================
+
+.hidden{
+  @include u-display('none');
+}
+
+// ===========================
 // Links with border bottom
 // In some cases, it is better to apply `border-bottom` to the button or link vs having it apply the underline
 
 // Example:
-// <a class="u-white" href="" title=""><span class="u">Donate</span></a>
+// <a class="u-white" href="" title=""><span>Donate</span></a>
 
 // - u-primary (dotted, red-50v)
 // - u-primary-dotted
 // - u-black
 // - u-white
 a.u-primary {
+  @include u-text('primary', !important);
   @include u-text('no-underline');
   &:hover{
-    span.u{
+    span{
       @include u-border-bottom('2px', 'solid', 'primary');
     }
   }
 }
 a.u-primary-dotted {
+  @include u-text('primary', !important);
   @include u-text('no-underline');
   &:hover{
-    span.u{
+    span{
       @include u-border-bottom('2px', 'dotted', 'primary');
     }
   }
 }
 a.u-black {
+  @include u-text('black', !important);
   @include u-text('no-underline');
   &:hover{
-    span.u{
+    span{
       @include u-border-bottom('2px', 'solid', 'black');
     }
   }
 }
 a.u-white {
+  @include u-text('white', !important);
   @include u-text('no-underline');
   &:hover{
-    span.u{
+    span{
       @include u-border-bottom('2px', 'solid', 'white');
     }
   }
+}
+
+// ===========================
+// Rail Buttons
+.btn{
+  @extend .usa-button;
+  @include u-margin(0);
+  &:hover{
+    @include u-bg('primary');
+  }
+}
+
+.btn-lg{
+  @extend .usa-button--big;
+  @include u-font('sans', 'md');
+  @include u-text('medium');
+  &:hover{
+    @include u-bg('primary');
+  }
+}
+
+
+// ===========================
+// Rail Section
+// This provides a class for page sections in the Rail, that extends the use of .usa-section
+
+section.rail-section{
+  @extend .usa-section;
+}
+
+// ===========================
+// Content
+// extends the use of .usa-prose
+.content{
+  @extend .usa-prose;
+}
+
+// ===========================
+// Page header content
+// Used for the title, kicker, date, etc...
+header.content{
+  @include u-margin-bottom(5);
+
+  // Kicker
+  .kicker{
+    @include u-font('sans', 'sm');
+    @include u-text('medium');
+  }
+
+  // Headline / Title
+  h1{
+    @include u-margin(0);
+  }
+
+  // Deck
+  // extends the use of .usa-intro
+  .deck{
+    @extend .usa-intro;
+    @include u-margin(0);
+    @include u-font('sans', 'xl');
+    @include u-text('light');
+  }
+
+
+}
+
+// ===========================
+// Section
+.section{
+  @include u-font('sans', 'sm');
+  @include u-text('medium');
 }
