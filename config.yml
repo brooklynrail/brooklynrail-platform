@@ -21,7 +21,7 @@ ignoreFiles:
 
 permalinks:
   article               : ":year/:month/:day/:slug/"
-  events                : "event/:year/:month/:day/:slug/"
+  events                : "events/:year/:month/:day/:slug/"
 
 outputs:
   home: ["HTML","RSS", "JSON"]
