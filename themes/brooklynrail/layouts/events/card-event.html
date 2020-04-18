@@ -1,0 +1,11 @@
+<div class="card-event content">
+
+  {{ $featured_image := .Params.featured_image }}
+
+  <h2><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h2>
+
+  {{ with .Params.Summary }}
+    <p>{{ . }}</p>
+  {{ end }}
+
+</div>
