@@ -29,7 +29,7 @@
     {{- end -}}
   {{- end -}}
 
-  {{/* Add to Calendar CSS */}}
+  {{/* Add to Calendar */}}
   {{- if eq .Section "events" -}}
   {{ "<!-- Add to Calendar CSS -->" | safeHTML }}
   <link href="{{- "dist/add-to-cal.css" | absURL -}}" rel="stylesheet" type="text/css">
