@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "gulp build && hugo --gc --minify -b $DEPLOY_URL"
+command = "gulp build && hugo --gc --minify -b $URL"
 
 [context.production.environment]
 HUGO_VERSION = "0.69.0"
