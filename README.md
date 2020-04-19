@@ -1,19 +1,19 @@
+<img src="https://venice.brooklynrail.org/assets/img/brooklyn-rail-logo-2019-outline-red.svg" alt="Brooklyn Logo"/>
+---
+# The Brooklyn Rail
+https://brooklynrail.org
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/db6c835f-87e3-47c4-8f4d-53b4af3c6be8/deploy-status)](https://app.netlify.com/sites/brooklynrail/deploys)
 
 ---
 
-# The Brooklyn Rail
-https://brooklynrail.org
-
-
-## Install
+## Install and run locally
 
 1. [Install Hugo.](https://gohugo.io/getting-started/quick-start/#step-1-install-hugo)
-1. Start the server.
+1. Run `npm install`
+1. Run `npm start`
 
-   ```sh
-   hugo server
-   ```
+---
 
 ## Importing content
 
