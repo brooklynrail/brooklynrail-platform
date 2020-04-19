@@ -32,4 +32,4 @@ HUGO_ENABLEGITINFO = "true"
 [[headers]]
   for = "/*"
     [headers.values]
-    Access-Control-Allow-Origin = "brooklynrail.org"
+    Access-Control-Allow-Origin = "https://brooklynrail.org"
