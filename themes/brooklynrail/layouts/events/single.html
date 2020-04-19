@@ -149,9 +149,22 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
     <div class="grid-container">
       <div class="grid-row">
         <div class="grid-col-12 tablet:grid-col-9">
+
+          {{- with .Summary -}}
+          <div class="summary content">
+            <p>{{- . | markdownify -}}</p>
+          </div>
+          {{- end -}}
+
           {{- with .Content -}}
           <div class="content">
             {{- . -}}
+          </div>
+          {{- end -}}
+
+          {{- with .Params.event_platform -}}
+          <div class="event-copy content">
+            {{- partial "event-copy" . | markdownify -}}
           </div>
           {{- end -}}
 

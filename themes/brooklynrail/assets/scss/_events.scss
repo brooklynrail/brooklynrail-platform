@@ -5,6 +5,34 @@
 // Single Event page styles
 .event{
 
+  section{
+    .summary{
+      @include u-font('sans', 'lg');
+      p{
+        @include u-margin-bottom(4);
+        @include u-padding-bottom(4);
+        @include u-text('normal');
+        @include u-border-bottom('1px', 'solid', 'gray-20');
+      }
+    }
+    .content.event-copy{
+      @include u-margin-y(5);
+      @include u-padding-y(3);
+      @include u-padding-x(3);
+      @include u-display('inline-block');
+      @include u-radius('sm');
+      @include u-bg('gray-3');
+      @include u-font('sans', 'md');
+      h2{
+        @include u-font('sans', 'lg');
+        @include u-text('medium');
+      }
+      strong{
+        @include u-text('medium');
+      }
+    }
+  }
+
   // Event page header
   header {
     @include u-padding-y(5);
@@ -29,6 +57,9 @@
 
       .actions{
         @include u-margin-y(3);
+        .btn{
+          @include u-margin-right('05');
+        }
         .btn-register{
           @include u-text('uppercase');
           @include u-bg('blue-warm-80v');
@@ -41,8 +72,10 @@
           @include u-text('gray-80');
           @include u-line-height('sans', 2);
           @include u-border(0);
+          @include u-border('2px', 'solid', 'gray-5');
           &:hover{
             @include u-bg('gray-10');
+            @include u-border('2px', 'solid', 'gray-10');
             @include u-text('no-underline');
           }
           .atc_node{
