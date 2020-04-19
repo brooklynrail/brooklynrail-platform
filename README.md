@@ -16,7 +16,7 @@ This is a new version of https://brooklynrail.org that runs on [Hugo](https://go
 **Preview URL:** https://brooklynrail.netlify.app/
 
 
-### Install Hugo 0.66.0
+### Install Hugo 0.69.0
 
 [Read the HUGO quickstart guide »](https://gohugo.io/getting-started/quick-start/)
 
