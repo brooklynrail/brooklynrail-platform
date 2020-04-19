@@ -3,28 +3,46 @@
 {{/* This sets $future_event to true or false */}}
 {{- $future_event := (time .Params.end_date).After now -}}
 
-{{- $start_date := .Params.date -}}
-{{- $end_date := .Params.end_date -}}
+{{/* ==========================
+DATE Variables
+The following variables transform dates and times for the event `start_date` and `end_date` and set them for use in the event page.
+
+NOTE:
+- `.Date` is recognized by HUGO as an official date
+- `.Params.end_date` is a string that needs to be converted to a date (still confused by this)
+*/}}
+{{- $start_date := .Date -}}
+{{- $end_date := (time .Params.end_date) -}}
 {{- $event_start_date := dateFormat "Monday, January 2, 2006" (time $start_date) -}}
-{{- $event_start_time := dateFormat "3:04 p.m." (time $start_date) -}}
+{{- $event_start_time := dateFormat "3:04 PM" (time $start_date) -}}
+{{- $event_start_time_pt := dateFormat "3:04 PM" ((time $start_date).Add ( -3 | duration "hour" )) -}}
 {{- $event_start_date_ISO := dateFormat "2006-01-02T15:04:05Z07:00" (time $start_date) -}}
 {{- $event_start_date_cal := dateFormat "2006-01-02 03:04 PM" (time $start_date) -}}
 {{- $event_end_date := dateFormat "Monday, January 2, 2006" (time $end_date) -}}
-{{- $event_end_time := dateFormat "3:04 p.m." (time $end_date) -}}
+{{- $event_end_time := dateFormat "3:04 PM" (time $end_date) -}}
+{{- $event_end_time_pt := dateFormat "3:04 PM" ((time $end_date).Add ( -3 | duration "hour" )) -}}
 {{- $event_end_date_ISO := dateFormat "2006-01-02T15:04:05Z07:00" (time $end_date) -}}
 {{- $event_end_date_cal := dateFormat "2006-01-02 03:04 PM" (time $end_date) -}}
+{{- $event_duration := (time $end_date).Sub (time $start_date) -}}
 {{- $event_url := (print "\n\nEvent Page: https:" .Permalink) -}}
 {{- $event_title := (print .Title .Params.deck )| markdownify -}}
 {{- $event_desc := $.Params.summary | default $.Site.Params.description | markdownify -}}
 {{- $event_description := (print $event_desc $event_url) -}}
 {{- $event_location := .Params.venue.venue_name -}}
 
+
+
 <section class="rail-section event">
   <div class="grid-container">
     <div class="grid-row">
       <div class="grid-col-12 tablet:grid-col-9">
 
-        <main class="content" id="main-content" role="main">
+        {{/*
+        Events use the `h-event` Microformat classnames
+        http://microformats.org/wiki/h-event
+        The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-location`, `p-summary`, and the other h-event property class names define properties of the h-event.
+        */}}
+        <main class="content h-event" id="main-content" role="main">
 
           {{ with .CurrentSection }}
           <p class="section">
@@ -32,7 +50,8 @@
           </p>
           {{ end }}
 
-          <header class="content h-event">
+
+          <header class="content">
 
             {{ with .Params.kicker }}
             <p class="kicker">
@@ -56,11 +75,13 @@
             <div class="event-date">
               {{/* Start Date */}}
               <time class="dt-start" datetime="{{- $event_start_date_ISO -}}">{{- $event_start_date -}}</time>
+
+              {{/* Hidden: This completes the `dt-end` value for the `h-event` microformat */}}
               <span class="hidden"> to <time class="dt-end" datetime="{{- $event_end_date_ISO -}}">{{- $event_end_date -}}</time></span>
             </div>
 
             <div class="event-time">
-              <p>{{- $event_start_time }} – {{ $event_end_time }} ET</p>
+              <p>{{- $event_start_time }} ET / {{ $event_start_time_pt }} PT</p>
             </div>
 
             {{- end -}}
