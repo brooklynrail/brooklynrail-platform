@@ -70,6 +70,8 @@
           @include u-bg('gray-5');
           @include u-radius('sm');
           @include u-text('gray-80');
+          @include u-text('medium');
+          @include u-font('sans', 'sm');
           @include u-line-height('sans', 2);
           @include u-border(0);
           @include u-border('2px', 'solid', 'gray-5');
