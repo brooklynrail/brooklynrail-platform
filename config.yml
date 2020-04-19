@@ -24,14 +24,31 @@ permalinks:
   article               : ":year/:month/:day/:slug/"
   events                : "events/:year/:month/:day/:slug/"
 
-outputs:
-  home: ["HTML","RSS", "JSON"]
-  section: ["HTML","RSS", "JSON"]
-  page: ["HTML", "JSON"]
-  taxonomy: ["HTML","RSS", "JSON"]
 
 .params:
   events_count: 20
   articles_count: 20
-  mainSections:
-    - events
+
+menu:
+  primary:
+    
+    - Name            : "&#8810; Current Issue"
+      Identifier      : "home"
+      URL             : "/"
+      Weight          : 1
+    - Name            : "Events"
+      Identifier      : "events"
+      URL             : "/events/"
+      Weight          : 2
+    - Name            : "Store"
+      Identifier      : "store"
+      URL             : "https://shop.brooklynrail.org/"
+      Weight          : 3
+    - Name            : "Newsletter"
+      Identifier      : "newsletter"
+      URL             : "/newsletter/"
+      Weight          : 4
+    - Name            : "About"
+      Identifier      : "about"
+      URL             : "/about/"
+      Weight          : 4

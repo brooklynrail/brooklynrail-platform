@@ -4,11 +4,10 @@
       <div class="grid-col-12">
         <div class="nav">
           <ul>
-            <li><a class="u-primary" href="" title=""><span>Current Issue</span></a></li>
-            <li><a class="u-primary" href="#" title=""><span>Events</span></a></li>
-            <li><a class="u-primary" href="#" title=""><span>About the Rail</span></a></li>
-            <li><a class="u-primary" href="#" title=""><span>Subscribe</span></a></li>
-            <li><a class="u-primary" href="#" title=""><span>Store</span></a></li>
+          {{- $currentNode := . -}}
+          {{- range .Site.Menus.primary -}}
+            <li><a class="u-primary {{ if or ($currentNode.IsMenuCurrent "primary" .) ($currentNode.HasMenuCurrent "primary" .) }} current{{- end -}}" href="{{- .URL -}}" title="{{- .Name -}}"><span>{{- .Name | markdownify -}}</span></a></li>
+          {{- end -}}
             <li class="donate"><a class="u-white" href="" title=""><span>Donate</span></a></li>
           </ul>
         </div>
