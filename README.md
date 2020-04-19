@@ -34,7 +34,7 @@ hugo version
 If Hugo has released a new version, but brooklynrail.org hasn't upgraded to that version, you may get errors when building locally. It’s possible to use Homebrew to download a previous version of Hugo. To do that follow these instructions: [Using Legecy Versions of the Hugo Static Site Generator](https://www.fernandomc.com/posts/brew-install-legacy-hugo-site-generator/)
 
 
-#### Setup
+### Setup
 
 Once the prerequisites are installed, [clone the repository](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) to your local machine. Then navigate to the project folder in your terminal and run:
 
@@ -44,7 +44,8 @@ npm install
 
 This will install all of the Node dependencies needed to run your Hugo environment. This may take a little while!
 
-#### Local Development
+
+### Local Development
 
 Running the local development server is as simple as running:
 
