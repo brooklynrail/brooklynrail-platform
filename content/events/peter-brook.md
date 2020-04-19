@@ -18,7 +18,7 @@ event_platform:
   - youtube_live
 
 # Featured Image (for social media)
-featured_image: "https://brooklynrail-web.imgix.net/article_image/image/26742/kalpakjian.jpg??w=440&q=80&fit=max"
+featured_image: "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F98460586%2F250527606728%2F1%2Foriginal.20200410-204950?h=2000&w=720&auto=format%2Ccompress&q=75&sharp=10&s=8649b025d9637aa49fc1c6759d7c09ee"
 
 ---
 
