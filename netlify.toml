@@ -30,6 +30,6 @@ HUGO_VERSION = "0.69.0"
 HUGO_ENABLEGITINFO = "true"
 
 [[headers]]
-  for = "/dist/*"
+  for = "/*"
     [headers.values]
     Access-Control-Allow-Origin = "brooklynrail.org"
