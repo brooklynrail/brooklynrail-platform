@@ -4,67 +4,73 @@
 
 // Single Event page styles
 .event{
-  
+
   // Event page header
-  header.content{
+  header {
+    @include u-padding-y(5);
 
-    .event-date{
-      @include u-margin-top(5);
-    }
-    .event-date,
-    .event-time,
-    .location{
-      @include u-font('sans', 'lg');
-      @include u-text('medium');
-    }
-    .event-time,
-    .location{
-      @include u-text('light');
-      p{
-        @include u-margin(0);
+    .content{
+      .event-date{
+        @include u-margin-top(5);
       }
-    }
-
-    .actions{
-      @include u-margin-y(3);
-      .btn-register{
-        @include u-text('uppercase');
-        @include u-bg('blue-warm-80v');
-        @include u-border('2px', 'solid', 'blue-warm-80v');
+      .event-date,
+      .event-time,
+      .location{
+        @include u-font('sans', 'lg');
+        @include u-text('medium');
       }
-      .addeventatc{
-        @include u-padding(2);
-        @include u-bg('gray-5');
-        @include u-radius('sm');
-        @include u-text('gray-80');
-        &:hover{
-          @include u-bg('gray-10');
-          @include u-text('no-underline');
+      .event-time,
+      .location{
+        @include u-text('light');
+        p{
+          @include u-margin(0);
         }
-        .atc_node{
-          &:hover{
-            @include u-text('no-underline');
-            @include u-border-bottom('2px', 'solid', 'gray-80');
-            span{
+      }
 
+      .actions{
+        @include u-margin-y(3);
+        .btn-register{
+          @include u-text('uppercase');
+          @include u-bg('blue-warm-80v');
+          @include u-border('2px', 'solid', 'blue-warm-80v');
+        }
+        .addeventatc{
+          @include u-padding(2);
+          @include u-bg('gray-5');
+          @include u-radius('sm');
+          @include u-text('gray-80');
+          @include u-line-height('sans', 2);
+          @include u-border(0);
+          &:hover{
+            @include u-bg('gray-10');
+            @include u-text('no-underline');
+          }
+          .atc_node{
+            &:hover{
+              @include u-text('no-underline');
+              @include u-border-bottom('2px', 'solid', 'gray-80');
+              span{
+
+              }
             }
           }
         }
       }
-    }
-    .coming-soon{
-      @include u-padding-y('05');
-      @include u-padding-x('105');
-      @include u-display('inline-block');
-      @include u-bg('gold-10v');
-      @include u-radius('sm');
-      @include u-font('sans', 'md');
-      @include u-text('medium');
-      span{
-        @include u-text('light');
+      .coming-soon{
+        @include u-padding-y('05');
+        @include u-padding-x('105');
+        @include u-display('inline-block');
+        @include u-bg('gold-10v');
+        @include u-radius('sm');
+        @include u-font('sans', 'md');
+        @include u-text('medium');
+        span{
+          @include u-text('light');
+        }
       }
     }
-
+    .featured_image{
+      // @include u-width('mobile');
+    }
   }
-
 }

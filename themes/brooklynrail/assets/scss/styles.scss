@@ -73,6 +73,7 @@
 
 
 @import "common";     // Common type styles
+@import "content";    // Content type styles
 
 @import "header";     // Site-wide header
 @import "main-nav";   // Site-wide navigation
@@ -80,4 +81,4 @@
 @import "events";     // events
 
 // Cards
-@import "cards/card-event"; 
+@import "cards/card-event";
