@@ -44,7 +44,7 @@ The following variables transform dates and times for the event `start_date` and
 
           {{- if .Params.Title -}}
           <h2 class="p-name">
-            <a href="{{ .Permalink }}" title="{{- .Title -}}">{{- .Title | markdownify -}}</a>
+            <a href="{{ .RelPermalink }}" title="{{- .Title -}}">{{- .Title | markdownify -}}</a>
           </h2>
           {{- end -}}
 
@@ -91,7 +91,7 @@ The following variables transform dates and times for the event `start_date` and
         {{- $featured_image := .Params.featured_image -}}
         {{- if $featured_image -}}
         <div class="media featured_image">
-          <a href="{{ .Permalink }}" title="{{- .Title -}}"><img src="{{- $featured_image -}}" alt="{{- .Title -}}"></a>
+          <a href="{{ .RelPermalink }}" title="{{- .Title -}}"><img src="{{- $featured_image -}}" alt="{{- .Title -}}"></a>
         </div>
         {{- end -}}
       </div>

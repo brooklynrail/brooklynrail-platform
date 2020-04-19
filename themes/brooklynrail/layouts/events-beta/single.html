@@ -51,7 +51,7 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
 
         {{ with .CurrentSection }}
         <p class="section">
-          <a class="u-primary" href="{{ .Permalink }}" title="{{ . }}"><span>All {{ .Title }}</span></a>
+          <a class="u-primary" href="{{ .RelPermalink }}" title="{{ . }}"><span>All {{ .Title }}</span></a>
         </p>
         {{ end }}
       </div>
