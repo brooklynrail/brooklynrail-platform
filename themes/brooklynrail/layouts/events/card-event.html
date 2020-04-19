@@ -74,20 +74,14 @@ The following variables transform dates and times for the event `start_date` and
           </div>
           {{- end -}}
 
-          {{- with .Params.registration_url -}}
           <div class="actions">
+          {{- with .Params.registration_url -}}
             {{/* Registration button */}}
             <a class="u-white" href="{{- . -}}" title="Register"><button class="btn btn-lg btn-register" type="button" name="register"><span>Register</span></button></a>
-
-            <a class="u-black" href="{{- . -}}" title="View event details"><button class="btn btn-lg btn-event" type="button" name="event"><span>View event</span></button></a>
-
+          {{ end }}
+            <a class="u-black" href="{{- .Permalink -}}" title="View event details"><button class="btn btn-lg btn-event" type="button" name="event"><span>View event</span></button></a>
           </div>
-          {{- else -}}
-          <div class="actions">
-            {{/* Coming soon */}}
-            <p class="coming-soon">Registration coming soon. <span>Dates and times might change.</span></p>
-          </div>
-          {{- end -}}
+
 
         </div>
       </div>
