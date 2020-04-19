@@ -54,6 +54,21 @@ a.u-white {
 }
 
 // ===========================
+// Headings
+
+h2{
+  a{
+    @include u-text('no-underline');
+    @include u-text('black');
+    &:hover{
+      @include u-text('underline');
+    }
+  }
+}
+
+
+
+// ===========================
 // Rail Buttons
 .btn{
   @extend .usa-button;

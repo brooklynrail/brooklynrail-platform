@@ -1,11 +1,54 @@
-<div class="card-event content">
+{{/* ==========================
+DATE Variables
+The following variables transform dates and times for the event `start_date` and `end_date` and set them for use in the event page. */}}
 
-  {{ $featured_image := .Params.featured_image }}
+{{- $start_date := .Date -}}
+{{- $end_date := (time .Params.end_date) -}}
+{{- $event_start_date := dateFormat "Monday, January 2, 2006" (time $start_date) -}}
+{{- $event_start_time := dateFormat "3:04 PM" (time $start_date) -}}
+{{- $event_start_time_pt := dateFormat "3:04 PM" ((time $start_date).Add ( -3 | duration "hour" )) -}}
+{{- $event_start_date_ISO := dateFormat "2006-01-02T15:04:05Z07:00" (time $start_date) -}}
+{{- $event_end_date := dateFormat "Monday, January 2, 2006" (time $end_date) -}}
+{{- $event_end_time := dateFormat "3:04 PM" (time $end_date) -}}
+{{- $event_end_time_pt := dateFormat "3:04 PM" ((time $end_date).Add ( -3 | duration "hour" )) -}}
+{{- $event_end_date_ISO := dateFormat "2006-01-02T15:04:05Z07:00" (time $end_date) -}}
 
-  <h2><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h2>
 
-  {{ with .Params.Summary }}
-    <p>{{ . }}</p>
-  {{ end }}
 
-</div>
+<section class="card-event h-event">
+
+  <div class="grid-row">
+    <div class="grid-col-12 tablet:grid-col-8">
+
+      <header class="content">
+        <h2 class="p-name"><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h2>
+
+        {{- with .Params.Deck -}}
+        <p class="deck">
+          {{- . -}}
+        </p>
+        {{- end -}}
+
+        {{- if $event_start_date -}}
+        <div class="event-date">
+          {{/* Start Date */}}
+          <time class="dt-start" datetime="{{- $event_start_date_ISO -}}">{{- $event_start_date -}}</time>
+
+          {{/* Hidden: This completes the `dt-end` value for the `h-event` microformat */}}
+          <span class="hidden"> to <time class="dt-end" datetime="{{- $event_end_date_ISO -}}">{{- $event_end_date -}}</time></span>
+        </div>
+
+        <div class="event-time">
+          <p>{{- $event_start_time }} ET / {{ $event_start_time_pt }} PT</p>
+        </div>
+        {{- end -}}
+      </header>
+
+    </div>
+    <div class="grid-col-12 tablet:grid-col-4">
+      image
+      {{ $featured_image := .Params.featured_image }}
+    </div>
+  </div>
+
+</section>

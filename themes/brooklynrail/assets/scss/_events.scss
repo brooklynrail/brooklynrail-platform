@@ -1,9 +1,13 @@
-.event{
+// Common event styles
 
+
+
+// Single Event page styles
+.event{
+  
   // Event page header
   header.content{
 
-    // Event start and end date
     .event-date{
       @include u-margin-top(5);
     }

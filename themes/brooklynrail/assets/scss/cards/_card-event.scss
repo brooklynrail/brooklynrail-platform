@@ -1,0 +1,9 @@
+.card-event{
+  @extend .event;
+  
+  header.content{
+    .event-date{
+      @include u-margin-top(0);
+    }
+  }
+}
