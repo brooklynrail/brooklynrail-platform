@@ -1,5 +1,7 @@
 <img src="https://venice.brooklynrail.org/assets/img/brooklyn-rail-logo-2019-outline-red.svg" alt="Brooklyn Logo"/>
+
 ---
+
 # The Brooklyn Rail
 https://brooklynrail.org
 
