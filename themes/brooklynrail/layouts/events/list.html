@@ -1,62 +1,60 @@
 {{ define "main" }}
-<div class="grid-container">
-  <div class="grid-row">
-    <div class="grid-col-12">
 
-      <article class="">
-        {{ .Content }}
-      </article>
+<section class="rail-section">
+  <div class="grid-container">
+    <div class="grid-row">
+      <div class="grid-col-12">
 
-    {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
-    {{/* Create a variable with that section to use in multiple places. */}}
-    {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
-    {{/* Check to see if the section is defined for ranging through it */}}
-    {{ $section_count := len $section }}
-    {{ if ge $section_count 1 }}
-      {{/* Derive the section name  */}}
-      {{ $section_name := index (.Site.Params.mainSections) 0 }}
+        <article class="content">
+          {{ .Content }}
+        </article>
 
-      <div class="">
-        {{/* Use $section_name to get the section title. Use "with" to only show it if it exists */}}
-        {{ with .Site.GetPage "section" $section_name }}
-          <h1>
-            {{ $.Param "recent_copy" | default (i18n "recentTitle" .) }}
-          </h1>
-        {{ end }}
+      {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
+      {{/* Create a variable with that section to use in multiple places. */}}
+      {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
+      {{/* Check to see if the section is defined for ranging through it */}}
+      {{ $section_count := len $section }}
+      {{ if ge $section_count 1 }}
+        {{/* Derive the section name  */}}
+        {{ $section_name := index (.Site.Params.mainSections) 0 }}
 
-        {{ $n_events := $.Param "events_count" | default 10 }}
+        <div class="">
 
-        <section class="">
-          {{/* Range through the first $n_events items of the section */}}
-          {{ range (first $n_events $section) }}
-            <div class="">
-              {{ partial "summary-with-image.html" . }}
-            </div>
+          {{ $n_events := $.Param "events_count" | default 10 }}
+
+          <section class="">
+            {{/* Range through the first $n_events items of the section */}}
+            {{ range (first $n_events $section) }}
+              <div class="">
+                {{ .Render "card-event"}}
+              </div>
+            {{ end }}
+          </section>
+
+          {{ if ge $section_count (add $n_events 1) }}
+          <section class="">
+            <h1>{{ i18n "more" }}</h1>
+            {{/* Now, range through the next four after the initial $n_events items. Nest the requirements, "after" then "first" on the outside */}}
+            {{ range (first 4 (after $n_events $section))  }}
+              <h2 class="">
+                <a href="{{ .URL }}" class="">
+                  {{ .Title }}
+                </a>
+              </h2>
+            {{ end }}
+
+            {{/* As above, Use $section_name to get the section title, and URL. Use "with" to only show it if it exists */}}
+            {{ with .Site.GetPage "section" $section_name }}
+              <a href="{{ .URL }}" class="">{{ i18n "allTitle" . }}</a>
+            {{ end }}
+          </section>
           {{ end }}
-        </section>
 
-        {{ if ge $section_count (add $n_events 1) }}
-        <section class="">
-          <h1>{{ i18n "more" }}</h1>
-          {{/* Now, range through the next four after the initial $n_events items. Nest the requirements, "after" then "first" on the outside */}}
-          {{ range (first 4 (after $n_events $section))  }}
-            <h2 class="">
-              <a href="{{ .URL }}" class="">
-                {{ .Title }}
-              </a>
-            </h2>
-          {{ end }}
-
-          {{/* As above, Use $section_name to get the section title, and URL. Use "with" to only show it if it exists */}}
-          {{ with .Site.GetPage "section" $section_name }}
-            <a href="{{ .URL }}" class="">{{ i18n "allTitle" . }}</a>
-          {{ end }}
-        </section>
-        {{ end }}
-
+        </div>
+      {{ end }}
       </div>
-    {{ end }}
     </div>
   </div>
-</div>
+</section>
+
 {{ end }}
