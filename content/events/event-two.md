@@ -5,7 +5,7 @@ summary: "TKTK"
 host: "Host Name"
 event_organizer: "The Brooklyn Rail"
 registration_url: TKTK
-date: 2020-04-16T13:00:00-04:00
+date: 2020-04-16T11:00:00-04:00
 end_date: 2020-04-16T14:00:00-04:00
 
 # Event platform (zoom, youtube_live, instagram_live, igtv)
