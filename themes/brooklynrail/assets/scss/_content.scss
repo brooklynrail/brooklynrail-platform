@@ -72,7 +72,7 @@ header .content{
   // Kicker
   .kicker{
     @include u-margin-bottom(1);
-    @include u-font('sans', 'xs');
+    @include u-font('sans', 'sm');
     @include u-text('normal');
     @include u-text('uppercase');
     @include u-text('red-50v');
