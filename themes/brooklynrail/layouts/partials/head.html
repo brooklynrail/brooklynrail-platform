@@ -19,7 +19,12 @@
 
   {{ "<!-- CSS -->" | safeHTML }}
   {{/* Base styles */}}
+  {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
+  <link rel="stylesheet" href="https://brooklynrail.netlify.app/" type="text/css" media='all' />
+  {{ else }}
   <link rel="stylesheet" href='{{- "dist/styles.css" | absURL -}}' type="text/css" media='all' />
+  {{ end }}
+  
   {{/* Custom CSS — needs to be included before the base styles */}}
   {{- if $.Params.css -}}
     {{- range $.Params.css -}}
