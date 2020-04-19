@@ -6,6 +6,8 @@
   <body class="{{ $.Param "body_classes"  | default "" }}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
     <a class="usa-skipnav" href="#main-content">Skip to main content</a>
 
+    <div class="paper">
+
     {{ block "header" . }}
       {{ partialCached "header.html" . }}
       {{ partialCached "main-nav.html" . }}
@@ -15,6 +17,8 @@
 
     {{ block "footer" . }}{{ partialCached "footer.html" . }}{{ end }}
 
+    </div>
+    
     {{ block "scripts" . }}{{ partialCached "scripts.html" . }}{{ end }}
 
   </body>
