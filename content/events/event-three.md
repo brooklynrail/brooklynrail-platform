@@ -1,4 +1,5 @@
 ---
+kicker: "New Social Environment"
 title: "Event Three"
 deck: "TKTK"
 summary: "TKTK"
