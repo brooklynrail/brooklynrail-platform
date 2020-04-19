@@ -1,0 +1,65 @@
+// Content
+
+// ===========================
+// Content
+// extends the use of .usa-prose
+.content{
+  @extend .usa-prose;
+
+  // ===========================
+  // Headings
+
+  // Headline / Title
+  h1{
+    @include u-display('none');
+  }
+
+  h2{
+    a{
+      @include u-text('no-underline');
+      @include u-text('black');
+      &:hover{
+        @include u-text('underline');
+      }
+    }
+  }
+}
+
+
+// ===========================
+// Page header content
+// Used for the title, kicker, date, etc...
+header .content{
+
+  // Headline / Title
+  h1{
+    @include u-display('block');
+  }
+
+  h2{
+    @include u-margin(0);
+  }
+
+  // Kicker
+  .kicker{
+    @include u-margin-bottom(1);
+    @include u-font('sans', 'xs');
+    @include u-text('normal');
+    @include u-text('uppercase');
+    @include u-text('red-50v');
+  }
+
+  // Headline / Title
+  h1{
+    @include u-margin(0);
+  }
+
+  // Deck
+  // extends the use of .usa-intro
+  .deck{
+    @extend .usa-intro;
+    @include u-margin(0);
+    @include u-font('sans', 'xl');
+    @include u-text('light');
+  }
+}

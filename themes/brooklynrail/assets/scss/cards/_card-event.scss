@@ -1,0 +1,27 @@
+.card-event{
+  @extend .event;
+  @include u-margin-bottom(3);
+
+  header .content{
+    h2{
+      @include u-font('sans', 'xl');
+    }
+    .deck{
+      @include u-font('sans', 'lg');
+    }
+    .event-date{
+      @include u-margin-top(2);
+      @include u-font('sans', 'md');
+    }
+    .event-time{
+      @include u-font('sans', 'md');
+    }
+    .actions{
+      .btn-event{
+        @include u-bg('white');
+        @include u-border('2px', 'solid', 'blue-warm-80v');
+        @include u-text('blue-warm-80v');
+      }
+    }
+  }
+}

@@ -1,12 +1,13 @@
 ---
-title: "Event Two"
+kicker: "New Social Environment"
+title: "Event Three"
 deck: "TKTK"
 summary: "TKTK"
 host: "Host Name"
 event_organizer: "The Brooklyn Rail"
 registration_url: TKTK
-date: 2020-04-16T13:00:00-04:00
-end_date: 2020-04-16T14:00:00-04:00
+date: 2020-04-30T13:00:00-04:00
+end_date: 2020-04-30T14:00:00-04:00
 
 # Event platform (zoom, youtube_live, instagram_live, igtv)
 event_platform:

@@ -54,6 +54,21 @@ a.u-white {
 }
 
 // ===========================
+// Headings
+
+h2{
+  a{
+    @include u-text('no-underline');
+    @include u-text('black');
+    &:hover{
+      @include u-text('underline');
+    }
+  }
+}
+
+
+
+// ===========================
 // Rail Buttons
 .btn{
   @extend .usa-button;
@@ -81,41 +96,7 @@ section.rail-section{
   @extend .usa-section;
 }
 
-// ===========================
-// Content
-// extends the use of .usa-prose
-.content{
-  @extend .usa-prose;
-}
 
-// ===========================
-// Page header content
-// Used for the title, kicker, date, etc...
-header.content{
-  @include u-margin-bottom(5);
-
-  // Kicker
-  .kicker{
-    @include u-font('sans', 'sm');
-    @include u-text('medium');
-  }
-
-  // Headline / Title
-  h1{
-    @include u-margin(0);
-  }
-
-  // Deck
-  // extends the use of .usa-intro
-  .deck{
-    @extend .usa-intro;
-    @include u-margin(0);
-    @include u-font('sans', 'xl');
-    @include u-text('light');
-  }
-
-
-}
 
 // ===========================
 // Section

@@ -14,13 +14,20 @@ NOTE:
 {{- $start_date := .Date -}}
 {{- $end_date := (time .Params.end_date) -}}
 {{- $event_start_date := dateFormat "Monday, January 2, 2006" (time $start_date) -}}
-{{- $event_start_time := dateFormat "3:04 PM" (time $start_date) -}}
-{{- $event_start_time_pt := dateFormat "3:04 PM" ((time $start_date).Add ( -3 | duration "hour" )) -}}
+{{- $event_start_time := dateFormat "3:04" (time $start_date) -}}
+{{- $event_start_time_suffix := dateFormat "PM" (time $start_date) -}}
+{{- $event_start_time_suffix := replace $event_start_time_suffix "PM" "p.m." -}}
+{{- $event_start_time_suffix := replace $event_start_time_suffix "AM" "a.m." -}}
+
+{{- $event_start_time_pt := dateFormat "3:04" ((time $start_date).Add ( -3 | duration "hour" )) -}}
 {{- $event_start_date_ISO := dateFormat "2006-01-02T15:04:05Z07:00" (time $start_date) -}}
 {{- $event_start_date_cal := dateFormat "2006-01-02 03:04 PM" (time $start_date) -}}
 {{- $event_end_date := dateFormat "Monday, January 2, 2006" (time $end_date) -}}
-{{- $event_end_time := dateFormat "3:04 PM" (time $end_date) -}}
-{{- $event_end_time_pt := dateFormat "3:04 PM" ((time $end_date).Add ( -3 | duration "hour" )) -}}
+{{- $event_end_time := dateFormat "3:04" (time $end_date) -}}
+{{- $event_end_time_suffix := dateFormat "PM" (time $end_date) -}}
+{{- $event_end_time_suffix := replace $event_end_time_suffix "PM" "p.m." -}}
+{{- $event_end_time_suffix := replace $event_end_time_suffix "AM" "a.m." -}}
+{{- $event_end_time_pt := dateFormat "3:04" ((time $end_date).Add ( -3 | duration "hour" )) -}}
 {{- $event_end_date_ISO := dateFormat "2006-01-02T15:04:05Z07:00" (time $end_date) -}}
 {{- $event_end_date_cal := dateFormat "2006-01-02 03:04 PM" (time $end_date) -}}
 {{- $event_duration := (time $end_date).Sub (time $start_date) -}}
@@ -32,42 +39,47 @@ NOTE:
 
 
 
-<section class="rail-section event">
+{{/*
+Events use the `h-event` Microformat classnames
+http://microformats.org/wiki/h-event
+The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-location`, `p-summary`, and the other h-event property class names define properties of the h-event.
+*/}}
+<main class="content event h-event" id="main-content" role="main">
+
   <div class="grid-container">
     <div class="grid-row">
-      <div class="grid-col-12 tablet:grid-col-9">
+      <div class="grid-col-12">
 
-        {{/*
-        Events use the `h-event` Microformat classnames
-        http://microformats.org/wiki/h-event
-        The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-location`, `p-summary`, and the other h-event property class names define properties of the h-event.
-        */}}
-        <main class="content h-event" id="main-content" role="main">
+        {{ with .CurrentSection }}
+        <p class="section">
+          <a class="u-primary" href="{{ .Permalink }}" title="{{ . }}"><span>All {{ .Title }}</span></a>
+        </p>
+        {{ end }}
+      </div>
+    </div>
+  </div>
 
-          {{ with .CurrentSection }}
-          <p class="section">
-            <a class="u-primary" href="{{ .Permalink }}" title="{{ . }}"><span>All {{ .Title }}</span></a>
-          </p>
-          {{ end }}
+  <header>
+    <div class="grid-container">
+      <div class="grid-row">
+        <div class="grid-col-12 tablet:grid-col-9">
 
-
-          <header class="content">
-
-            {{ with .Params.kicker }}
+          <div class="content">
+            {{- with .Params.kicker -}}
             <p class="kicker">
-              {{ . }}
+              {{- . -}}
             </p>
-            {{ end }}
+            {{- end -}}
 
             {{- with .Params.Title -}}
             <h1 class="p-name">
-              {{- . -}}
+              {{- . | markdownify -}}
             </h1>
             {{- end -}}
 
             {{- with .Params.Deck -}}
             <p class="deck">
-              {{- . -}}
+              {{- . | markdownify -}}
             </p>
             {{- end -}}
 
@@ -81,7 +93,7 @@ NOTE:
             </div>
 
             <div class="event-time">
-              <p>{{- $event_start_time }} ET / {{ $event_start_time_pt }} PT</p>
+              <p>{{- $event_start_time }}{{ $event_start_time_suffix }} ET / {{ $event_start_time_pt }}{{ $event_start_time_suffix }} PT</p>
             </div>
 
             {{- end -}}
@@ -114,13 +126,29 @@ NOTE:
               {{/* Coming soon */}}
               <p class="coming-soon">Registration coming soon. <span>Dates and times might change.</span></p>
             </div>
-
             {{- end -}}
 
-          </header>
+          </div>
+        </div>
 
+        <div class="grid-col-12 tablet:grid-col-3">
+          {{/* Featured Image */}}
+          {{- $featured_image := .Params.featured_image -}}
+          {{- if $featured_image -}}
+          <div class="media featured_image">
+            <img src="{{- $featured_image -}}" alt="">
+          </div>
+          {{- end -}}
+        </div>
 
+      </div>
+    </div>
+  </header>
 
+  <section>
+    <div class="grid-container">
+      <div class="grid-row">
+        <div class="grid-col-12 tablet:grid-col-9">
           {{- with .Content -}}
           <div class="content">
             {{- . -}}
@@ -128,19 +156,9 @@ NOTE:
           {{- end -}}
 
           {{- partial "tags.html" . -}}
-
-        </main>
-
       </div>
-
-      <div class="grid-col-12 tablet:grid-col-3">
-
-      </div>
-
     </div>
-  </div>
-</section>
+  </section>
 
-
-
+</main>
 {{ end }}
