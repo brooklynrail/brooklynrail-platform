@@ -29,6 +29,15 @@
     {{- end -}}
   {{- end -}}
 
+  {{/* Add to Calendar */}}
+  {{- if eq .Section "events" -}}
+  {{ "<!-- Add to Calendar CSS -->" | safeHTML }}
+  <link href="{{- "dist/add-to-cal.css" | absURL -}}" rel="stylesheet" type="text/css">
+  {{ "<!-- Add to Calendar JS -->" | safeHTML }}
+  <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
+  {{- end -}}
+
+
   {{ block "favicon" . }}
     {{ partialCached "site-favicon.html" . }}
   {{ end }}

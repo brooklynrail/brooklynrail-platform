@@ -1,6 +1,4 @@
 .main-nav{
-  // @include u-padding-y(1);
-
   .nav{
     @include u-padding-y(1);
     @include u-border-y('2px', 'dotted', 'black');
@@ -30,7 +28,6 @@
           @include u-bg('primary');
           @include u-padding-x('205');
           @include u-radius('sm');
-          @include u-text('white');
         }
       }
     }
