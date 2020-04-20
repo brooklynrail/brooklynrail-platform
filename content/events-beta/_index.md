@@ -5,5 +5,3 @@ aliases:
   - /event/
 
 ---
-
-All events text
