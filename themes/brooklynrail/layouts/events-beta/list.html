@@ -1,29 +1,22 @@
 {{ define "main" }}
 <div class="grid-container">
-  <div class="grid-row">
+  <div class="grid-row grid-gap-4">
     <div class="grid-col-12">
 
       {{ .Content }}
 
-      {{- range .Data.Pages.Reverse -}}
-      {{- $now := now.Format "2006-01-02" -}}
-      {{- $start := .Date.Format "2006-01-02" -}}
+      {{/* Future Events ===========================  */}}
+      {{- $events := where $.Site.RegularPages.Reverse  "Section" "events-beta" -}}
 
-      {{- if .Params.End_date -}}
-        {{- $end := dateFormat "2006-01-02" .Params.End_date -}}
-        {{- if or (ge $start $now) (ge $end $now) -}}
-          {{- if .Params.registration_url -}}
-            {{- .Render "card-event" -}}
-          {{- end -}}
-        {{- end -}}
+      {{/* gets the # of news items to display from the config.yml */}}
+      {{- $events_count := .Site.Params.events_count -}}
 
-        {{- else if ge $start $now -}}
-          {{- if .Params.registration_url -}}
-            {{- .Render "card-event" -}}
-          {{- end -}}
-        {{- end -}}
-      {{- end -}}
-
+      {{ $paginator := .Paginate ($events) }}
+      <div class="stream content">
+        {{ range $paginator.Pages }}
+          {{- .Render "card-event" -}}
+        {{ end }}
+      </div>
 
     </div>
   </div>

@@ -9,8 +9,8 @@
     <div class="paper">
 
     {{ block "header" . }}
-      {{ partialCached "header.html" . }}
-      {{ partialCached "main-nav.html" . }}
+      {{ partial "header.html" . }}
+      {{ partial "main-nav.html" . }}
     {{ end }}
 
     {{ block "main" . }}{{ end }}
@@ -18,7 +18,7 @@
     {{ block "footer" . }}{{ partialCached "footer.html" . }}{{ end }}
 
     </div>
-    
+
     {{ block "scripts" . }}{{ partialCached "scripts.html" . }}{{ end }}
 
   </body>
