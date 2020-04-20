@@ -31,24 +31,8 @@ permalinks:
 
 menu:
   primary:
-    
+
     - Name            : "&#8810; Current Issue"
       Identifier      : "home"
       URL             : "/"
       Weight          : 1
-    - Name            : "Events"
-      Identifier      : "events"
-      URL             : "/events/"
-      Weight          : 2
-    - Name            : "Store"
-      Identifier      : "store"
-      URL             : "https://shop.brooklynrail.org/"
-      Weight          : 3
-    - Name            : "Newsletter"
-      Identifier      : "newsletter"
-      URL             : "/newsletter/"
-      Weight          : 4
-    - Name            : "About"
-      Identifier      : "about"
-      URL             : "/about/"
-      Weight          : 4
