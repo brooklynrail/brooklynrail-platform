@@ -1,6 +1,15 @@
 // Common event styles
 
 
+.stream {
+  .day{
+    @include u-margin-top(5);
+    @include u-padding-y('05');
+    @include u-border-top('2px', 'solid', 'black');
+    @include u-font('sans', 'lg');
+    @include u-text('light');
+  }
+}
 
 // Single Event page styles
 .event{

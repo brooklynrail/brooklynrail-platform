@@ -60,15 +60,6 @@
 // Used for the title, kicker, date, etc...
 header .content{
 
-  // Headline / Title
-  h1{
-    @include u-display('block');
-  }
-
-  h2{
-    @include u-margin(0);
-  }
-
   // Kicker
   .kicker{
     @include u-margin-bottom(1);
@@ -82,6 +73,11 @@ header .content{
   h1{
     @include u-margin(0);
     @include u-margin-bottom('05');
+    @include u-display('block');
+  }
+
+  h2{
+    @include u-margin(0);
   }
 
   // Deck

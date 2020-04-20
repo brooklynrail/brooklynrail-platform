@@ -1,13 +1,13 @@
 .card-event{
   @extend .event;
-  @include u-margin-bottom(3);
 
   header .content{
+    @include u-padding-y(0);
     h2{
       @include u-font('sans', 'xl');
     }
     .deck{
-      @include u-font('sans', 'lg');
+      @include u-font('sans', 'xl');
     }
     .event-date{
       @include u-margin-top(2);
