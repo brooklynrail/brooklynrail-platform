@@ -3,7 +3,6 @@ baseURL                 : "/"
 languageCode            : "en-us"
 theme                   : "brooklynrail"
 themesDir               : "./themes"
-MetaDataFormat          : "yaml"
 DefaultContentLanguage  : "en"
 SectionPagesMenu        : "main"
 Paginate                : 20
@@ -13,25 +12,35 @@ enableEmoji             : true
 enableGitInfo           : true
 buildFuture             : true
 relativeURLs            : true
-
+refLinksNotFoundURL     : https://brooklynrail.org/events-beta/
+pluralizelisttitles     : false
 
 # HUGO will ignore pages in the following folders
 ignoreFiles:
-  - "^_template"
   - "content/_archived/*"
 
+# Permalink Configuration
 permalinks:
   article               : ":year/:month/:day/:slug/"
   events                : "events/:year/:month/:day/:slug/"
 
-
+# Site Parameters
 .params:
+  issue: "May 2020"
+  description: "Critical Perspectives on Art, Politics, and Culture"
+  tagline: "Independent and Free"
   events_count: 20
   articles_count: 20
 
+# Sitemap
+sitemap:
+  changefreq            : "daily"
+  priority              : 1
+  filename              : "sitemap.xml"
+
+# Main Site navigation
 menu:
   primary:
-
     - Name            : "&#8810; Current Issue"
       Identifier      : "home"
       URL             : "/"
