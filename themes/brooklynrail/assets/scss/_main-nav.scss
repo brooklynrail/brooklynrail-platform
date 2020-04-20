@@ -10,10 +10,14 @@
         @include u-text('medium');
         @include u-text('primary');
         a{
-          @include u-padding-y('105');
-          @include u-padding-x('105');
+          @include u-padding-y(1);
+          @include u-padding-x(1);
           @include u-text('primary');
           @include u-display('inline-block');
+          @include at-media('tablet') {
+            @include u-padding-y('105');
+            @include u-padding-x('105');
+          }
         }
         &:first-child{
           a{
@@ -26,8 +30,15 @@
         @include u-text('uppercase');
         a{
           @include u-bg('primary');
-          @include u-padding-x('205');
+          @include u-padding-x(2);
+          @include u-padding-y(1);
+          @include u-font('sans', 'sm');
           @include u-radius('sm');
+          @include at-media('tablet') {
+            @include u-padding-y('105');
+            @include u-padding-x('205');
+            @include u-font('sans', 'md');
+          }
         }
       }
     }
