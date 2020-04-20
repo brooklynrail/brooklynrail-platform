@@ -81,6 +81,7 @@ header .content{
   // Headline / Title
   h1{
     @include u-margin(0);
+    @include u-margin-bottom('05');
   }
 
   // Deck
@@ -89,6 +90,7 @@ header .content{
     @extend .usa-intro;
     @include u-margin(0);
     @include u-font('sans', 'xl');
+    @include u-line-height('sans', 2);
     @include u-text('light');
   }
 }
