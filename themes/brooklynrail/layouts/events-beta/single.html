@@ -48,9 +48,8 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
   <div class="grid-container">
     <div class="grid-row">
       <div class="grid-col-12">
-
         {{ with .CurrentSection }}
-        <p class="section">
+        <p class="breadcrumb">
           <a class="u-primary" href="{{ .RelPermalink }}" title="{{ . }}"><span>All {{ .Title }}</span></a>
         </p>
         {{ end }}
