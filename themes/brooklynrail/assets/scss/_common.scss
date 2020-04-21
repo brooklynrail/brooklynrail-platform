@@ -73,15 +73,31 @@ h2{
 .btn{
   @extend .usa-button;
   @include u-margin(0);
+  @include u-text('medium');
   &:hover{
     @include u-bg('primary');
   }
 }
 
+.btn-xs{
+  @extend .btn;
+  @include u-margin(0);
+  @include u-padding-y('05');
+  @include u-padding-x('105');
+  @include u-font('sans', 'xs');
+}
+
+.btn-sm{
+  @extend .btn;
+  @include u-margin(0);
+  @include u-padding-y(1);
+  @include u-padding-x(2);
+  @include u-font('sans', 'sm');
+}
+
 .btn-lg{
   @extend .usa-button--big;
   @include u-font('sans', 'md');
-  @include u-text('medium');
   &:hover{
     @include u-bg('primary');
   }
