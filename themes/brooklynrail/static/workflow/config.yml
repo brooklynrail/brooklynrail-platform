@@ -13,6 +13,8 @@ logo_url: https://brooklynrail.org/images/dist/brooklynrail-logo-red.png
 backend:
   name: github
   repo: brooklynrail/brooklynrail-platform
+  site_domain: brooklynrail.netlify.com
+  base_url: https://api.netlify.com
   open_authoring: true # accept contributions (forks) from GitHub users
   branch: master
   squash_merges: true # squash all commits into a single commit when the PR is merged
@@ -39,12 +41,109 @@ slug:
   clean_accents: true
 
 # Localhost Editing
-# uses the local proxy server port
+# uses the local proxy server port set in the `npx netlify-cms-proxy-server` command
+# (see the workflow script in packages.json)
 local_backend:
-  url: http://localhost:1313/api/v1
+  url: http://localhost:8081/api/v1
 
+
+
+
+
+
+# ==============================================
 # Content Collections
 collections:
+
+
+  # Events =======================
+  - name: "events-beta" # Used in routes, e.g., /admin/collections/blog
+    label: "Events" # Used in the UI
+    label_singular: "Event"
+    description: "TKTK"
+    folder: "content/events-beta" # path to the folder where files are stored
+    path: '{{year}}/{{year}}-{{month}}-{{day}}-{{slug}}' # custom file path
+    create: true # Allow users to create new documents in this collection
+    identifier_field: display_name # sets the field that is used to create the slug
+    slug: "{{slug}}"
+
+    # Field Settings
+    # - label     — the title that will appear above the field in the editor
+    # - name      — this is the key that will be used in the front matter
+    # - widget    — the type of field — See https://www.netlifycms.org/docs/widgets/ for all types
+    # - required  — all fields are required by default unless you include `required: false`
+    # - hint  — this is the helper text that occurrs below the field.
+
+    fields: # The fields for each document, usually in front matter
+
+      - label: "Display Name"
+        name: "display_name"
+        widget: "string"
+        hint: "TKTK"
+
+      - label: "First Name"
+        name: "first_name"
+        widget: "string"
+        hint: "TKTK"
+
+      - label: "Last Name"
+        name: "last_name"
+        widget: "string"
+        hint: "TKTK"
+
+      - label: "Pronoun"
+        name: "pronoun"
+        widget: "string"
+        hint: "TKTK"
+        required: false
+
+      - label: "Email"
+        name: "email"
+        widget: "string"
+        hint: "TKTK"
+        required: false
+
+      - label: "Bio"
+        name: "bio"
+        widget: "text"
+        hint: "TKTK"
+        required: false
+
+      - label: "Bio URL"
+        name: "bio_url"
+        widget: "text"
+        hint: "Provide a full URL to where people can learn more about your work."
+        required: false
+
+      - label: "Twitter"
+        name: "twitter"
+        widget: "string"
+        hint: "Enter your username without the @ handle [e.g. brooklynrail]"
+        required: false
+
+      - label: "Facebook"
+        name: "facebook"
+        widget: "string"
+        required: false
+
+      - label: "Instagram"
+        name: "instagram"
+        widget: "string"
+        required: false
+
+      - label: "Linkedin"
+        name: "linkedIn"
+        widget: "string"
+        required: false
+
+      - label: "YouTube"
+        name: "youtube"
+        widget: "string"
+        required: false
+
+
+
+
 
   # AUTHORS =======================
   - name: "authors" # Used in routes, e.g., /admin/collections/blog

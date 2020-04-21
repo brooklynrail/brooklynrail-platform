@@ -20,8 +20,9 @@
   "scripts": {
     "local-assets": "gulp build && gulp watch",
     "local-build": "hugo serve",
+    "workflow": "npx netlify-cms-proxy-server",
     "netlify": "gulp build && hugo build",
-    "start": "npm-run-all --parallel local-assets local-build",
+    "start": "npm-run-all --parallel local-assets local-build workflow",
     "test:pa11y": "pa11y-ci --config .pa11yci"
   },
   "dependencies": {
