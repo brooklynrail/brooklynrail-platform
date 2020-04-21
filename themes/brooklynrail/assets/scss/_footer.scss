@@ -1,0 +1,44 @@
+// Footer
+footer#footer{
+  @include u-margin-top(2);
+  @include u-padding-top(5);
+  @include u-padding-bottom(5);
+  @include u-text('white');
+  @include u-bg('blue-90');
+  @include u-font('sans', 'md');
+
+  .logo{
+    @include u-margin-bottom(1);
+    @include u-width('mobile');
+  }
+  .sub-head{
+    @include u-margin(0);
+    @include u-margin-bottom(3);
+    @include u-font('sans', 'md');
+  }
+
+  h5{
+    @include u-margin-top(0);
+    @include u-margin-bottom('105');
+    @include u-font('sans', 'sm');
+    @include u-text('bold');
+  }
+  ul{
+    @include add-list-reset;
+    li{
+      @include u-margin-bottom(1);
+      @include u-text('light');
+    }
+  }
+  a{
+    @include u-color('white');
+    @include u-text('no-underline');
+    &:hover{
+      @include u-text('underline');
+    }
+  }
+  .copyright{
+    @include u-font('sans', 'xs');
+    @include u-text('light');
+  }
+}
