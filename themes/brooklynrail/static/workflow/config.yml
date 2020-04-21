@@ -2,7 +2,7 @@ display_url: https://brooklynrail.org
 site_url: https://brooklynrail.org
 
 # logo_url — sets the logo in the /admin
-logo_url: https://brooklynrail.org/images/dist/brooklynrail.-logo-red.png
+logo_url: https://brooklynrail.org/images/dist/brooklynrail-logo-red.png
 
 # Backend and connections
 backend:
