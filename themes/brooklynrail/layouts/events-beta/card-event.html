@@ -32,68 +32,81 @@ The following variables transform dates and times for the event `start_date` and
 
 <section class="card-event h-event">
   <header>
-    <div class="grid-row">
-      <div class="grid-col-12 tablet:grid-col-9">
-        <div class="content">
+    <div class="grid-row grid-gap-4">
 
-          {{- with .Params.kicker -}}
-          <p class="kicker">
-            {{- . -}}
-          </p>
-          {{- end -}}
+      <div class="grid-col-12 tablet:grid-col-9 tablet:order-2">
 
-          {{- if .Params.Title -}}
-          <h2 class="p-name">
-            <a href="{{ .RelPermalink }}" title="{{- .Title -}}">{{- .Title | markdownify -}}</a>
-          </h2>
-          {{- end -}}
+        <div class="grid-row">
+          <div class="grid-col-10">
+            <div class="content">
 
-          {{- with .Params.Deck -}}
-          <p class="deck">
-            {{- . | markdownify -}}
-          </p>
-          {{- end -}}
+              {{- with .Params.kicker -}}
+              <p class="kicker">
+                {{- . -}}
+              </p>
+              {{- end -}}
 
-          {{- with .Params.Summary -}}
-          <div class="summary content">
-            <p>{{- . | markdownify -}}</p>
+              {{- if .Params.Title -}}
+              <h2 class="p-name">
+                <a href="{{ .RelPermalink }}" title="{{- .Title -}}">{{- .Title | markdownify -}}</a>
+              </h2>
+              {{- end -}}
+
+              {{- with .Params.Deck -}}
+              <p class="deck">
+                {{- . | markdownify -}}
+              </p>
+              {{- end -}}
+
+              {{- with .Params.Summary -}}
+              <div class="summary content">
+                <p>{{- . | markdownify -}}</p>
+              </div>
+              {{- end -}}
+
+            </div>
           </div>
-          {{- end -}}
+
+          <div class="grid-col-2">
+            {{/* Featured Image */}}
+            {{- $featured_image := .Params.featured_image -}}
+            {{- if $featured_image -}}
+            <div class="media featured_image">
+              <a href="{{ .RelPermalink }}" title="{{- .Title -}}"><img src="{{- $featured_image -}}" alt="{{- .Title -}}"></a>
+            </div>
+            {{- end -}}
+          </div>
+
+        </div>
+
+      </div>
+
+      <div class="grid-col-12 tablet:grid-col-3 tablet:order-1">
+
+        <div class="content">
 
           {{- if $event_start_date -}}
           <div class="event-date">
             {{/* Start Date */}}
-            <time class="dt-start" datetime="{{- $event_start_date_ISO -}}">{{- $event_start_date -}}</time>
+            <time class="dt-start" datetime="{{- $event_start_date_ISO -}}">{{- .Date.Format "Monday, January 2" -}}</time>
 
             {{/* Hidden: This completes the `dt-end` value for the `h-event` microformat */}}
             <span class="hidden"> to <time class="dt-end" datetime="{{- $event_end_date_ISO -}}">{{- $event_end_date -}}</time></span>
           </div>
 
           <div class="event-time">
-            <p>{{- $event_start_time }}{{ $event_start_time_suffix }} ET / {{ $event_start_time_pt }}{{ $event_start_time_suffix }} PT</p>
+            <p>{{- $event_start_time }} {{ $event_start_time_suffix }} ET</p>
           </div>
           {{- end -}}
 
           <div class="actions">
           {{- with .Params.registration_url -}}
             {{/* Registration button */}}
-            <a class="u-white" href="{{- . -}}" title="Register"><button class="btn btn-lg btn-register" type="button" name="register"><span>Register</span></button></a>
+            <a class="u-white" href="{{- . -}}" title="Register"><button class="btn btn btn-register" type="button" name="register"><span>Register</span></button></a>
           {{ end }}
-            <a class="u-black" href="{{- .RelPermalink -}}" title="View event details"><button class="btn btn-lg btn-event" type="button" name="event"><span>View event</span></button></a>
           </div>
 
-
         </div>
-      </div>
-
-      <div class="grid-col-12 tablet:grid-col-3">
-        {{/* Featured Image */}}
-        {{- $featured_image := .Params.featured_image -}}
-        {{- if $featured_image -}}
-        <div class="media featured_image">
-          <a href="{{ .RelPermalink }}" title="{{- .Title -}}"><img src="{{- $featured_image -}}" alt="{{- .Title -}}"></a>
-        </div>
-        {{- end -}}
       </div>
 
     </div>

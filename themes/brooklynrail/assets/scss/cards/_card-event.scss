@@ -1,27 +1,40 @@
 .card-event{
   @extend .event;
+  @include u-margin-y(0);
+  @include u-padding-y('205');
+  @include u-border-top('2px','black', 'dotted');
 
-  header .content{
+  header {
     @include u-padding-y(0);
-    h2{
-      @include u-font('sans', 'xl');
-    }
-    .deck{
-      @include u-font('sans', 'xl');
-    }
-    .event-date{
-      @include u-margin-top(2);
-      @include u-font('sans', 'md');
-    }
-    .event-time{
-      @include u-font('sans', 'md');
-    }
-    .actions{
-      .btn-event{
-        @include u-bg('white');
-        @include u-border('2px', 'solid', 'blue-warm-80v');
-        @include u-text('blue-warm-80v');
+    .content{
+      @include u-padding-y(0);
+      h2{
+        @include u-font('sans', 'lg');
+      }
+      .deck{
+        @include u-font('sans', 'lg');
+      }
+      .summary{
+        @include u-font('sans', 'md');
+      }
+      .event-date{
+        @include u-margin-top(0);
+        @include u-font('sans', 'md');
+      }
+      .event-time{
+        @include u-font('sans', 'md');
+      }
+      .actions{
+        .btn-event{
+          @include u-bg('white');
+          @include u-border('2px', 'solid', 'blue-warm-80v');
+          @include u-text('blue-warm-80v');
+        }
       }
     }
+  }
+  &:first-child{
+    // @include u-margin-top(0);
+    @include u-border-top(0);
   }
 }
