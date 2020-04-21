@@ -27,6 +27,7 @@
   "dependencies": {
     "js-yaml": "^3.13.1",
     "mysql": "^2.17.1",
+    "netlify-cms": "^2.10.46",
     "striptags": "^3.1.1"
   },
   "devDependencies": {
