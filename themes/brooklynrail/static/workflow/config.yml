@@ -64,7 +64,7 @@ collections:
     folder: "content/events-beta" # path to the folder where files are stored
     path: '{{year}}/{{year}}-{{month}}-{{day}}-{{slug}}' # custom file path
     create: true # Allow users to create new documents in this collection
-    identifier_field: display_name # sets the field that is used to create the slug
+    identifier_field: title # sets the field that is used to create the slug
     slug: "{{slug}}"
 
     # Field Settings
@@ -76,70 +76,94 @@ collections:
 
     fields: # The fields for each document, usually in front matter
 
-      - label: "Display Name"
-        name: "display_name"
-        widget: "string"
-        hint: "TKTK"
-
-      - label: "First Name"
-        name: "first_name"
-        widget: "string"
-        hint: "TKTK"
-
-      - label: "Last Name"
-        name: "last_name"
-        widget: "string"
-        hint: "TKTK"
-
-      - label: "Pronoun"
-        name: "pronoun"
+      - label: "Kicker"
+        name: "kicker"
         widget: "string"
         hint: "TKTK"
         required: false
 
-      - label: "Email"
-        name: "email"
+      - label: "Event Title"
+        name: "title"
+        widget: "string"
+        hint: "TKTK"
+
+      - label: "Deck"
+        name: "deck"
         widget: "string"
         hint: "TKTK"
         required: false
 
-      - label: "Bio"
-        name: "bio"
-        widget: "text"
+      - label: "Summary"
+        name: "summary"
+        widget: "string"
+        hint: "TKTK"
+
+      - label: "Event Host"
+        name: "event_host"
+        widget: "string"
         hint: "TKTK"
         required: false
 
-      - label: "Bio URL"
-        name: "bio_url"
-        widget: "text"
-        hint: "Provide a full URL to where people can learn more about your work."
+      - label: "Event Organizer"
+        name: "event_organizer"
+        widget: "string"
+        hint: "TKTK"
         required: false
 
-      - label: "Twitter"
-        name: "twitter"
+      - label: "Event Sponsor"
+        name: "event_sponsor"
         widget: "string"
-        hint: "Enter your username without the @ handle [e.g. brooklynrail]"
+        hint: "TKTK"
         required: false
 
-      - label: "Facebook"
-        name: "facebook"
+      - label: "Registration URL"
+        name: "registration_url"
         widget: "string"
+        hint: "TKTK"
         required: false
 
-      - label: "Instagram"
-        name: "instagram"
+      - label: "YouTube ID"
+        name: "youtube_id"
         widget: "string"
+        hint: "TKTK"
         required: false
 
-      - label: "Linkedin"
-        name: "linkedIn"
+      - label: "YouTube Playlist ID"
+        name: "youtube_playlist_id"
         widget: "string"
+        hint: "TKTK"
         required: false
 
-      - label: "YouTube"
-        name: "youtube"
-        widget: "string"
+      - label: "Start time"
+        name: "start_date"
+        widget: "datetime"
+        dateFormat: "YYYY-MM-DD" # e.g. 24.12.2021
+        timeFormat: "HH:mm" # e.g. 21:07
+        format: "YYYY-MM-DD HH:mm:00 -0500"
+
+      - label: "End time"
+        name: "end_date"
+        widget: "datetime"
+        dateFormat: "YYYY-MM-DD" # e.g. 24.12.2021
+        timeFormat: "HH:mm" # e.g. 21:07
+        format: "YYYY-MM-DD HH:mm:00 -0500"
+
+      - label: "Event Platform"
+        name: "event_platform"
+        widget: "select"
+        multiple: true
+        options: ["zoom", "youtube", "instagram_live", "igtv"]
+        hint: "TKTK"
         required: false
+
+      - label: "Featured Images"
+        name: "featured_images"
+        widget: 'list'
+        fields:
+          - { label: 'Image URL', name: 'img_url', widget: 'string' }
+
+
+
 
 
 
