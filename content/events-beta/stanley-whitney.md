@@ -2,7 +2,7 @@
 kicker: "The New Social Environment"
 title: "Stanley Whitney"
 deck: "with Tom McGlynn"
-summary: "Artist **Stanley Whitney** and host **Tom McGlynn**, Arts Editor at the Brooklyn Rail to discuss creative life in the context of our new social reality."
+summary: "Artist **Stanley Whitney** and host **Tom McGlynn**, Arts Editor at the Brooklyn Rail discuss creative life in the context of our new social reality."
 event_host: "The Brooklyn Rail"
 event_organizer: "The Brooklyn Rail"
 event_sponsor: ""

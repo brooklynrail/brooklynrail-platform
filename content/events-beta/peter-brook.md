@@ -2,7 +2,7 @@
 kicker: "The New Social Environment"
 title: "Peter Brook"
 deck: "with Karen Brooks Hopkins and Bryan Doerries"
-summary: "Join us for a live conversation with special guest **Peter Brook** and hosts **Karen Brooks Hopkins** and **Bryan Doerries** to discuss creative life in the context of our new social reality, followed by a poetry reading."
+summary: "Special guest **Peter Brook** and hosts **Karen Brooks Hopkins** and **Bryan Doerries** discuss creative life in the context of our new social reality."
 event_host: "The Brooklyn Rail"
 event_organizer: "The Brooklyn Rail"
 event_sponsor: ""
