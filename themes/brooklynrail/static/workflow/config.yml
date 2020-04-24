@@ -159,8 +159,14 @@ collections:
       - label: "Featured Images"
         name: "featured_images"
         widget: 'list'
+        hint: "Upload images through the OLD RAIL admin"
+        required: false
         fields:
           - { label: 'Image URL', name: 'img_url', widget: 'string' }
+
+      - label: "Event Copy"
+        name: "body"
+        widget: 'markdown'
 
 
 
