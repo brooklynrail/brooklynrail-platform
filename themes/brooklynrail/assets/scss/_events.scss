@@ -1,5 +1,13 @@
 // Common event styles
 
+.events{
+  section{
+    .heading{
+      @include u-font('serif', '2xl');
+      @include u-text('light');
+    }
+  }
+}
 
 .stream {
   .day{
@@ -49,19 +57,23 @@
     .content{
       .event-date{
         @include u-margin-top(5);
-      }
-      .event-date,
-      .event-time,
-      .location{
         @include u-font('sans', 'lg');
         @include u-text('medium');
+        time{
+          @include u-margin-right(2);
+          @include u-text('medium');
+        }
+        .event-time{
+          @include u-text('light');
+          @include u-margin(0);
+          @include u-display('inline');
+        }
       }
-      .event-time,
+
       .location{
         @include u-text('light');
-        p{
-          @include u-margin(0);
-        }
+        @include u-margin(0);
+        @include u-font('sans', 'lg');
       }
 
       .actions{
