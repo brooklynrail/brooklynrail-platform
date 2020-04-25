@@ -13,29 +13,8 @@ NOTE:
 */}}
 {{- $start_date := .Date -}}
 {{- $end_date := (time .Params.end_date) -}}
-{{- $event_start_date := dateFormat "Monday, January 2, 2006" (time $start_date) -}}
-{{- $event_start_time := dateFormat "3:04" (time $start_date) -}}
-{{- $event_start_time_suffix := dateFormat "PM" (time $start_date) -}}
-{{- $event_start_time_suffix := replace $event_start_time_suffix "PM" "p.m." -}}
-{{- $event_start_time_suffix := replace $event_start_time_suffix "AM" "a.m." -}}
+{{- $future_event := (time .Params.end_date).After now -}}
 
-{{- $event_start_time_pt := dateFormat "3:04" ((time $start_date).Add ( -3 | duration "hour" )) -}}
-{{- $event_start_date_ISO := dateFormat "2006-01-02T15:04:05Z07:00" (time $start_date) -}}
-{{- $event_start_date_cal := dateFormat "2006-01-02 03:04 PM" (time $start_date) -}}
-{{- $event_end_date := dateFormat "Monday, January 2, 2006" (time $end_date) -}}
-{{- $event_end_time := dateFormat "3:04" (time $end_date) -}}
-{{- $event_end_time_suffix := dateFormat "PM" (time $end_date) -}}
-{{- $event_end_time_suffix := replace $event_end_time_suffix "PM" "p.m." -}}
-{{- $event_end_time_suffix := replace $event_end_time_suffix "AM" "a.m." -}}
-{{- $event_end_time_pt := dateFormat "3:04" ((time $end_date).Add ( -3 | duration "hour" )) -}}
-{{- $event_end_date_ISO := dateFormat "2006-01-02T15:04:05Z07:00" (time $end_date) -}}
-{{- $event_end_date_cal := dateFormat "2006-01-02 03:04 PM" (time $end_date) -}}
-{{- $event_duration := (time $end_date).Sub (time $start_date) -}}
-{{- $event_url := (print "\n\nEvent Page: https:" .Permalink) -}}
-{{- $event_title := (print .Title .Params.deck )| markdownify -}}
-{{- $event_desc := $.Params.summary | default $.Site.Params.description | markdownify -}}
-{{- $event_description := (print $event_desc $event_url) -}}
-{{- $event_location := .Params.venue.venue_name -}}
 
 
 {{/*
@@ -81,49 +60,56 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
             </p>
             {{- end -}}
 
-            {{- if $event_start_date -}}
+
+            {{- if .Date -}}
             <div class="event-date">
               {{/* Start Date */}}
-              <time class="dt-start" datetime="{{- $event_start_date_ISO -}}">{{- $event_start_date -}}</time>
+              <time class="dt-start" datetime="{{- dateFormat "2006-01-02T15:04:05Z07:00" (time $start_date) -}}">{{- dateFormat "Monday, January 2, 2006" (time $start_date) -}}</time>
 
               {{/* Hidden: This completes the `dt-end` value for the `h-event` microformat */}}
-              <span class="hidden"> to <time class="dt-end" datetime="{{- $event_end_date_ISO -}}">{{- $event_end_date -}}</time></span>
-            </div>
+              <span class="hidden"> to <time class="dt-end" datetime="{{- dateFormat "2006-01-02T15:04:05Z07:00" (time $end_date) -}}">{{- dateFormat "Monday, January 2, 2006" (time $end_date) -}}</time></span>
 
-            <div class="event-time">
-              <p>{{- $event_start_time }}{{ $event_start_time_suffix }} ET / {{ $event_start_time_pt }}{{ $event_start_time_suffix }} PT</p>
+              <p class="event-time">
+                {{- dateFormat "3:04" (time $start_date) }}&nbsp;
+                {{- $event_start_time_suffix := dateFormat "PM" (time $start_date) -}}
+                {{- $event_start_time_suffix := replace $event_start_time_suffix "PM" "p.m." -}}
+                {{- $event_start_time_suffix := replace $event_start_time_suffix "AM" "a.m." -}}
+                {{- $event_start_time_suffix -}}&nbsp;ET&nbsp;/&nbsp;
+                {{- $event_end_time_suffix := dateFormat "PM" (time $end_date) -}}
+                {{- $event_end_time_suffix := replace $event_end_time_suffix "PM" "p.m." -}}
+                {{- $event_end_time_suffix := replace $event_end_time_suffix "AM" "a.m." -}}
+                {{ dateFormat "3:04" ((time $start_date).Add ( -3 | duration "hour" )) -}}&nbsp;{{- $event_end_time_suffix -}}&nbsp;PT</p>
             </div>
-
             {{- end -}}
 
             {{/* location */}}
             {{- with .Params.event_platform }}
-              <span class="location p-location">Online</span>
+              <p class="location p-location">Online</p>
             {{- end -}}
 
 
-            {{- with .Params.registration_url -}}
+            {{- if eq $future_event true -}}
             <div class="actions">
-              {{/* Registration button */}}
-              <a class="u-white" href="{{- . -}}" title="Register"><button class="btn btn-lg btn-register" type="button" name="register"><span>Register</span></button></a>
+              {{- with .Params.registration_url -}}
+                {{/* Registration button */}}
+                <a class="u-white" href="{{- . -}}" title="Register"><button class="btn btn-lg btn-register" type="button" name="register"><span>Register</span></button></a>
 
-              {{/* Add to Calendar */}}
-              <div title="Add to Calendar" class="addeventatc" data-styling="none">
-                <i class="far fa-calendar-plus"></i> <span>Add to Calendar</span>
-                <span class="start">{{- $event_start_date -}}</span>
-                <span class="end">{{- $event_end_date -}}</span>
-                <span class="timezone">America/New_York</span>
-                <span class="title">{{- $event_title -}}</span>
-                <span class="description">{{- htmlUnescape $event_description | safeHTML -}}</span>
-                <span class="alarm_reminder">15</span>
+                {{/* Add to Calendar */}}
+                <div title="Add to Calendar" class="addeventatc" data-styling="none">
+                  <i class="far fa-calendar-plus"></i> <span>Add to Calendar</span>
+                  <span class="start">{{- dateFormat "2006-01-02 03:04 PM" (time $start_date) -}}</span>
+                  <span class="end">{{- dateFormat "2006-01-02 03:04 PM" (time $end_date) -}}</span>
+                  <span class="timezone">America/New_York</span>
+                  <span class="title">{{- (print $.Params.Title $.Params.deck )| markdownify -}}</span>
+                  <span class="description">{{- htmlUnescape (print $.Params.summary (print "\n\nEvent Page: https:" $.Permalink)) | safeHTML -}}</span>
+                  <span class="alarm_reminder">15</span>
+                </div>
+
+              {{- else -}}
+                {{/* Coming soon */}}
+                <p class="coming-soon">Registration coming soon. <span>Dates and times might change.</span></p>
+              {{- end -}}
               </div>
-
-            </div>
-            {{- else -}}
-            <div class="actions">
-              {{/* Coming soon */}}
-              <p class="coming-soon">Registration coming soon. <span>Dates and times might change.</span></p>
-            </div>
             {{- end -}}
 
           </div>
