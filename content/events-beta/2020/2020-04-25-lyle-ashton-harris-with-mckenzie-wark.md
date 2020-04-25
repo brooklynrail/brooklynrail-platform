@@ -11,6 +11,7 @@ date: 2020-04-27 13:00:00 -0500
 end_date: 2020-04-27 14:00:00 -0500
 event_platform:
   - zoom
+  - youtube
 featured_images:
   - img_url: https://brooklynrail-web.imgix.net/article_image/image/23068/Bui-Harris-1.jpg?w=600&q=80&fit=max
 ---
