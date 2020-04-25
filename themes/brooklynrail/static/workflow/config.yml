@@ -13,7 +13,7 @@ logo_url: https://brooklynrail.org/images/dist/brooklynrail-logo-red.png
 backend:
   name: github
   repo: brooklynrail/brooklynrail-platform
-  site_domain: brooklynrail.org
+  site_domain: brooklynrail.netlify.com
   base_url: https://api.netlify.com
   open_authoring: true # accept contributions (forks) from GitHub users
   branch: master
