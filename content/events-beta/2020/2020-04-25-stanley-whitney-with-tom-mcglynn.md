@@ -12,6 +12,8 @@ date: 2020-04-20 13:00:00 -0500
 end_date: 2020-04-20 14:00:00 -0500
 event_platform:
   - zoom
+featured_images:
+  - img_url: https://brooklynrail-web.imgix.net/article_image/image/24689/whitney-stanley-2-finalweb.jpg?w=440&q=80&fit=max
 ---
 ## The New Social Environment
 
