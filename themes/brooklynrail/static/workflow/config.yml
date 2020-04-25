@@ -84,30 +84,41 @@ collections:
 
       - label: "Event Title"
         name: "title"
-        widget: "string"
+        minimal: true
+        widget: "markdown"
+        buttons: ['italic']
+        editorComponents: ['']
         hint: "TKTK"
 
       - label: "Deck"
         name: "deck"
-        widget: "string"
+        minimal: true
+        widget: "markdown"
+        buttons: ['italic']
+        editorComponents: ['']
         hint: "TKTK"
         required: false
 
       - label: "Summary"
         name: "summary"
-        widget: "string"
+        minimal: true
+        widget: "markdown"
+        buttons: ['bold','italic']
+        editorComponents: ['']
         hint: "TKTK"
 
       - label: "Event Host"
         name: "event_host"
         widget: "string"
         hint: "TKTK"
+        default: "The Brooklyn Rail"
         required: false
 
       - label: "Event Organizer"
         name: "event_organizer"
         widget: "string"
         hint: "TKTK"
+        default: "The Brooklyn Rail"
         required: false
 
       - label: "Event Sponsor"
@@ -135,7 +146,7 @@ collections:
         required: false
 
       - label: "Start time"
-        name: "start_date"
+        name: "date"
         widget: "datetime"
         dateFormat: "YYYY-MM-DD" # e.g. 24.12.2021
         timeFormat: "HH:mm" # e.g. 21:07
@@ -147,6 +158,7 @@ collections:
         dateFormat: "YYYY-MM-DD" # e.g. 24.12.2021
         timeFormat: "HH:mm" # e.g. 21:07
         format: "YYYY-MM-DD HH:mm:00 -0500"
+        required: false
 
       - label: "Event Platform"
         name: "event_platform"
@@ -154,6 +166,7 @@ collections:
         multiple: true
         options: ["zoom", "youtube", "instagram_live", "igtv"]
         hint: "TKTK"
+        default: "zoom"
         required: false
 
       - label: "Featured Images"
@@ -167,6 +180,7 @@ collections:
       - label: "Event Copy"
         name: "body"
         widget: 'markdown'
+        required: false
 
 
 
