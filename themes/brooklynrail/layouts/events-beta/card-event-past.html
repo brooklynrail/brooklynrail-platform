@@ -1,0 +1,69 @@
+{{/* ==========================
+DATE Variables
+The following variables transform dates and times for the event `start_date` and `end_date` and set them for use in the event page. */}}
+
+{{- $start_date := .Date -}}
+{{- $end_date := (time .Params.end_date) -}}
+{{- $event_start_date := dateFormat "Monday, January 2, 2006" (time $start_date) -}}
+{{- $event_start_time := dateFormat "3:04" (time $start_date) -}}
+{{- $event_start_time_suffix := dateFormat "PM" (time $start_date) -}}
+{{- $event_start_time_suffix := replace $event_start_time_suffix "PM" "p.m." -}}
+{{- $event_start_time_suffix := replace $event_start_time_suffix "AM" "a.m." -}}
+
+{{- $event_start_time_pt := dateFormat "3:04" ((time $start_date).Add ( -3 | duration "hour" )) -}}
+{{- $event_start_date_ISO := dateFormat "2006-01-02T15:04:05Z07:00" (time $start_date) -}}
+{{- $event_start_date_cal := dateFormat "2006-01-02 03:04 PM" (time $start_date) -}}
+{{- $event_end_date := dateFormat "Monday, January 2, 2006" (time $end_date) -}}
+{{- $event_end_time := dateFormat "3:04" (time $end_date) -}}
+{{- $event_end_time_suffix := dateFormat "PM" (time $end_date) -}}
+{{- $event_end_time_suffix := replace $event_end_time_suffix "PM" "p.m." -}}
+{{- $event_end_time_suffix := replace $event_end_time_suffix "AM" "a.m." -}}
+{{- $event_end_time_pt := dateFormat "3:04" ((time $end_date).Add ( -3 | duration "hour" )) -}}
+{{- $event_end_date_ISO := dateFormat "2006-01-02T15:04:05Z07:00" (time $end_date) -}}
+{{- $event_end_date_cal := dateFormat "2006-01-02 03:04 PM" (time $end_date) -}}
+{{- $event_duration := (time $end_date).Sub (time $start_date) -}}
+{{- $event_url := (print "\n\nEvent Page: https:" .Permalink) -}}
+{{- $event_title := (print .Title .Params.deck )| markdownify -}}
+{{- $event_desc := $.Params.summary | default $.Site.Params.description | markdownify -}}
+{{- $event_description := (print $event_desc $event_url) -}}
+{{- $event_location := .Params.venue.venue_name -}}
+
+
+
+<section class="card-event-past h-event">
+  <header>
+
+    <div class="content">
+
+      {{- with .Params.kicker -}}
+      <p class="kicker">
+        {{- . -}}
+      </p>
+      {{- end -}}
+
+      {{- if .Params.Title -}}
+      <h2 class="p-name">
+        <a href="{{ .RelPermalink }}" title="{{- .Title -}}">{{- .Title | markdownify -}}</a>
+      </h2>
+      {{- end -}}
+
+      {{- with .Params.Deck -}}
+      <p class="deck">
+        {{- . | markdownify -}}
+      </p>
+      {{- end -}}
+
+    </div>
+  </header>
+
+  {{/* Featured Image */}}
+  {{- $featured_images := .Params.featured_images -}}
+  <div class="card_cover">
+    {{- range $index, $featured_image := first 1 $featured_images -}}
+    <div class="card_cover_img">
+      <img src="{{- $featured_image.img_url -}}" alt="{{- .Title -}}">
+    </div>
+    {{- end -}}
+  </div>
+
+</section>

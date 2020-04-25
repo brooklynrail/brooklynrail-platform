@@ -1,0 +1,84 @@
+.card-event-past{
+  @extend .event;
+
+  // Background Gradient — for when there's no image
+  @include u-bg('gray-warm-10');
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#e6e6e2+35,fdb8ae+100 */
+  background: #e6e6e2; /* Old browsers */
+  background: -moz-linear-gradient(-45deg,  #e6e6e2 35%, #fdb8ae 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(-45deg,  #e6e6e2 35%,#fdb8ae 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(135deg,  #e6e6e2 35%,#fdb8ae 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e6e6e2', endColorstr='#fdb8ae',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+  @include u-margin(0);
+  @include u-margin-bottom(4);
+  @include u-position('relative');
+  @include u-minh('mobile-lg');
+  @include u-display('flex');
+  @include u-flex('row');
+  @include u-flex('align-end');
+  @include u-z(0);
+  header {
+    // @include u-display('none');
+    @include u-bg('gray-warm-90');
+    @include u-z(100);
+    @include u-width('full');
+    @include u-padding(2);
+    .content{
+      @include u-padding-y(0);
+      .kicker{
+        @include u-font('sans', 'xs');
+      }
+      h2{
+        @include u-font('sans', 'lg');
+        @include u-text('thin');
+        a{
+          @include u-text('white');
+        }
+      }
+      .deck{
+        @include u-font('sans', 'lg');
+      }
+      .summary{
+        @include u-font('sans', 'xs');
+      }
+      .event-date{
+        @include u-margin-top(0);
+        @include u-font('sans', 'md');
+      }
+      .event-time{
+        @include u-font('sans', 'md');
+      }
+      .actions{
+        .btn-event{
+          @include u-bg('white');
+          @include u-border('2px', 'solid', 'blue-warm-80v');
+          @include u-text('blue-warm-80v');
+        }
+      }
+    }
+  }
+  &:first-child{
+    // @include u-margin-top(0);
+    @include u-border-top(0);
+  }
+
+  .card_cover{
+    @include u-position('absolute');
+    @include u-top(0);
+    @include u-left(0);
+    @include u-height('full');
+    @include u-width('full');
+  }
+  .card_cover_img{
+    @include u-position('relative');
+    @include u-height('full');
+    @include u-width('full');
+    overflow: hidden;
+    img{
+      object-fit: cover;
+      @include u-height('full');
+      @include u-width('full');
+    }
+  }
+}
