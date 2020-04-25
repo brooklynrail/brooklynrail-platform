@@ -13,22 +13,27 @@
   {{/* Reverses the order of the events, so the next event is at the top */}}
   {{- $future_events := $future_events.Reverse -}}
 
+
+<main class="content events" id="main-content" role="main">
+
   {{- if $future_events -}}
-  <div class="grid-container">
-    <div class="grid-row grid-gap-4">
-      <div class="grid-col-12">
+  <section>
+    <div class="grid-container">
+      <div class="grid-row grid-gap-4">
+        <div class="grid-col-12">
 
-        <h2>Upcoming Events</h2>
-        {{/* Paginates the events if there are more than X (set in config.yml) */}}
-        <div class="stream content">
-          {{- range (.Paginate ( $future_events )).Pages -}}
-            {{- .Render "card-event" -}}
-          {{- end -}}
+          <h2 class="heading">Upcoming Events</h2>
+          {{/* Paginates the events if there are more than X (set in config.yml) */}}
+          <div class="stream content">
+            {{- range (.Paginate ( $future_events )).Pages -}}
+              {{- .Render "card-event" -}}
+            {{- end -}}
+          </div>
+
         </div>
-
       </div>
     </div>
-  </div>
+  </section>
 
   {{- end -}}
 
@@ -38,23 +43,26 @@
   {{- $past_events := where $events ".Date.Unix" "<" now.Unix -}}
 
   {{- if $past_events -}}
+  <section>
+    <div class="grid-container">
 
-  <div class="grid-container">
+      <div class="grid-row">
+        <div class="grid-col-12">
+          <h2 class="heading">Past Events</h2>
+        </div>
+      </div>
 
-    <div class="grid-row">
-      <div class="grid-col-12">
-        <h2>Past Events</h2>
+      <div class="grid-row mobile-lg:grid-gap-2 tablet:grid-gap-4 desktop:grid-gap-6">
+        {{- range $past_events -}}
+          <div class="grid-col-12 mobile-lg:grid-col-6 tablet-lg:grid-col-4">
+            {{- .Render "card-event-past" -}}
+          </div>
+        {{- end -}}
       </div>
     </div>
-
-    <div class="grid-row mobile-lg:grid-gap-2 tablet:grid-gap-4 desktop:grid-gap-6">
-      {{- range $past_events -}}
-        <div class="grid-col-12 mobile-lg:grid-col-6 tablet-lg:grid-col-4">
-          {{- .Render "card-event-past" -}}
-        </div>
-      {{- end -}}
-    </div>
-  </div>
+  </section>
   {{- end -}}
+
+</main>
 
 {{ end }}
