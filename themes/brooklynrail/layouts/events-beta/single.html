@@ -1,7 +1,5 @@
 {{ define "main" }}
 
-{{/* This sets $future_event to true or false */}}
-{{- $future_event := (time .Params.end_date).After now -}}
 
 {{/* ==========================
 DATE Variables
@@ -13,6 +11,7 @@ NOTE:
 */}}
 {{- $start_date := .Date -}}
 {{- $end_date := (time .Params.end_date) -}}
+{{/* This sets $future_event to true or false */}}
 {{- $future_event := (time .Params.end_date).After now -}}
 
 

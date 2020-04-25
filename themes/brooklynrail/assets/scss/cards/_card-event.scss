@@ -8,6 +8,9 @@
     @include u-padding-y(0);
     .content{
       @include u-padding-y(0);
+      .kicker{
+        @include u-font('sans', 'xs');
+      }
       h2{
         @include u-font('sans', 'lg');
       }
@@ -15,15 +18,26 @@
         @include u-font('sans', 'lg');
       }
       .summary{
-        @include u-font('sans', 'md');
+        @include u-margin-top(1);
+        @include u-font('sans', 'sm');
+        strong{
+          @include u-text('medium');
+        }
       }
       .event-date{
         @include u-margin-top(0);
+        @include u-margin-bottom('205');
         @include u-font('sans', 'md');
+        .event-time{
+          @include u-margin-top(0);
+          @include u-font('sans', 'sm');
+        }
       }
-      .event-time{
-        @include u-font('sans', 'md');
+
+      .location{
+        @include u-font('sans', '2xs');
       }
+
       .actions{
         .btn-event{
           @include u-bg('white');

@@ -1,10 +1,12 @@
 // Common event styles
 
+// ====================================
+// Events Section page styles
 .events{
   section{
     .heading{
-      @include u-font('serif', '2xl');
-      @include u-text('light');
+      @include u-font('serif', '3xl');
+      @include u-text('thin');
     }
   }
 }
@@ -19,6 +21,7 @@
   }
 }
 
+// ====================================
 // Single Event page styles
 .event{
 
@@ -50,6 +53,7 @@
     }
   }
 
+  // ====================================
   // Event page header
   header {
     @include u-padding-y(5);
