@@ -32,38 +32,10 @@
 // Single Event page styles
 .event{
 
-  section{
-    .summary{
-      @include u-font('sans', 'lg');
-      p{
-        @include u-margin-bottom(4);
-        @include u-padding-bottom(4);
-        @include u-text('normal');
-        @include u-border-bottom('1px', 'solid', 'gray-20');
-      }
-    }
-    .content.event-copy{
-      @include u-margin-y(5);
-      @include u-padding-y(2);
-      @include u-padding-x(2);
-      @include u-display('inline-block');
-      @include u-radius('sm');
-      @include u-bg('gray-3');
-      @include u-font('sans', 'sm');
-      h2{
-        @include u-font('sans', 'md');
-        @include u-text('medium');
-      }
-      strong{
-        @include u-text('medium');
-      }
-    }
-  }
-
-  // ====================================
-  // Event page header
+  // Single Event Page / Header
   header {
     @include u-padding-y(5);
+    @include u-bg('gray-40');
 
     .content{
       .event-details{
@@ -143,6 +115,35 @@
     }
     .featured_image{
       // @include u-width('mobile');
+    }
+  }
+
+  section{
+    .summary{
+      @include u-font('sans', 'lg');
+      p{
+        @include u-margin-bottom(4);
+        @include u-padding-bottom(4);
+        @include u-text('normal');
+        @include u-border-bottom('1px', 'solid', 'gray-20');
+      }
+    }
+
+    .event-logistics{
+      @include u-margin-y(5);
+      @include u-padding-y(2);
+      @include u-padding-x(2);
+      @include u-display('inline-block');
+      @include u-radius('sm');
+      @include u-bg('gray-3');
+      @include u-font('sans', 'sm');
+      h2{
+        @include u-font('sans', 'md');
+        @include u-text('medium');
+      }
+      strong{
+        @include u-text('medium');
+      }
     }
   }
 }
