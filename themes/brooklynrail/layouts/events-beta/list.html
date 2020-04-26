@@ -43,7 +43,7 @@
   {{- $past_events := where $events ".Date.Unix" "<" now.Unix -}}
 
   {{- if $past_events -}}
-  <section>
+  <section class="past_events">
     <div class="grid-container">
 
       <div class="grid-row">

@@ -10,6 +10,9 @@
       @include u-text('thin');
     }
   }
+  .past_events{
+    @include u-margin-top(5);
+  }
 }
 
 .stream {
