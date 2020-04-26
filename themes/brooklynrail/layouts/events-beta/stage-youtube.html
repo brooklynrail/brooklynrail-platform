@@ -1,0 +1,15 @@
+{{- if .Params.youtube_id -}}
+<section class="stage">
+  <div class="grid-container">
+    <div class="grid-row">
+      <div class="grid-col-12">
+        <div class="video-box">
+          <div class="youtube-player">
+            <iframe src="https://www.youtube.com/embed/{{- .Params.youtube_id -}}?autoplay=1" frameborder="0" allowfullscreen="1"></iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{- end -}}

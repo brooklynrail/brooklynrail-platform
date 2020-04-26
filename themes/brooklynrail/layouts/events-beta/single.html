@@ -84,10 +84,9 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
               {{- with .Params.event_platform }}
                 <p class="location p-location">Online</p>
               {{- end -}}
-              
+
             </div>
             {{- end -}}
-
 
 
             {{- if eq $future_event true -}}
@@ -130,6 +129,12 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
       </div>
     </div>
   </header>
+
+  {{/* PAST EVENT / Video  -------------------- */}}
+  {{/* If is NOT a Future Event (Past event) */}}
+  {{- if eq $future_event false -}}
+    {{- .Render "stage-youtube" -}}
+  {{- end -}}
 
   <section>
     <div class="grid-container">

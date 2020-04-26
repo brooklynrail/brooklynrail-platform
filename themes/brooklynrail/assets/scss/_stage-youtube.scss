@@ -1,0 +1,13 @@
+.stage{
+  @include u-margin-bottom(5);
+  .video-box{
+    @include u-bg('gray-warm-10');
+    @include u-padding('05');
+    @include at-media('mobile-lg') {
+      @include u-padding('105');
+    }
+    @include at-media('tablet-lg') {
+      @include u-padding('205');
+    }
+  }
+}

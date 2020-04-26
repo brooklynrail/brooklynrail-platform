@@ -71,17 +71,19 @@
 // @import "uswds-theme-custom-styles";
 
 
-@import "paper";      // The background of the Page
+@import "paper";              // The background of the Page
 
-@import "common";     // Common type styles
-@import "content";    // Content type styles
+@import "common";             // Common type styles
+@import "content";            // Content type styles
 
-@import "header";     // Site-wide header
-@import "main-nav";   // Site-wide navigation
+@import "header";             // Site-wide header
+@import "main-nav";           // Site-wide navigation
 
-@import "footer";     // Site-wide Footer
+@import "footer";             // Site-wide Footer
 
-@import "events";     // events
+@import "events";             // events
+@import "stage-youtube";      // stage-youtube
+@import "video";              // video
 
 // Cards
 @import "cards/card-event";
