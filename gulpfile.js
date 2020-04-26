@@ -41,6 +41,9 @@ const USWDS_SRC  = "./themes/brooklynrail/assets/scss/uswds";
 // Project Sass source directory
 const PROJECT_SASS_SRC = "./themes/brooklynrail/assets/scss";
 
+// Project JS source directory
+const PROJECT_JS_SRC = "./themes/brooklynrail/assets/js";
+
 // Vendor CSS source directory
 const VENDOR_CSS_SRC = "./themes/brooklynrail/assets/vendor";
 
@@ -89,6 +92,10 @@ gulp.task("copy-vendor-css", () => {
   return gulp.src(`${VENDOR_CSS_SRC}/**/*.css`).pipe(gulp.dest(`${CSS_DEST}`));
 });
 
+gulp.task("copy-js", () => {
+  return gulp.src(`${PROJECT_JS_SRC}/**/*.js`).pipe(gulp.dest(`${CSS_DEST}`));
+});
+
 gulp.task("build-sass", function(done) {
   var plugins = [
     // Autoprefix
@@ -131,9 +138,10 @@ gulp.task(
 
 gulp.task("watch-sass", function() {
   gulp.watch(`${PROJECT_SASS_SRC}/**/*.scss`, gulp.series("build-sass"));
+  gulp.watch(`${PROJECT_JS_SRC}/**/*.js`, gulp.series("copy-js", "build-sass"));
 });
 
-gulp.task("copy", gulp.series("copy-uswds-js", "copy-vendor-css"));
+gulp.task("copy", gulp.series("copy-js", "copy-uswds-js", "copy-vendor-css"));
 
 gulp.task("watch", gulp.series("build-sass", "copy", "watch-sass"));
 
