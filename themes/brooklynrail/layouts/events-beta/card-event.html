@@ -41,7 +41,7 @@ The following variables transform dates and times for the event `start_date` and
 
       </div>
 
-      <div class="grid-col-12 tablet:grid-col-2 tablet:order-1">
+      <div class="grid-col-12 tablet:grid-col-3 tablet:order-1">
         <div class="content">
 
           {{- if .Date -}}
@@ -79,11 +79,14 @@ The following variables transform dates and times for the event `start_date` and
       </div>
 
       <div class="grid-col-12 tablet:grid-col-2 tablet:order-3">
-        <div class="actions">
-        {{- with .Params.registration_url -}}
-          {{/* Registration button */}}
-          <a class="u-white" href="{{- . -}}" title="Register"><button class="btn btn btn-register" type="button" name="register"><span>Register</span></button></a>
-        {{ end }}
+        <div class="content">
+          <div class="actions">
+            <a class="u-primary" href="{{- .RelPermalink -}}" title="View Event"><button class="btn btn-event" type="button" name="view"><span>View Event</span></button></a>
+          {{- with .Params.registration_url -}}
+            {{/* Registration button */}}
+            <a class="u-white hidden" href="{{- . -}}" title="Register"><button class="btn btn btn-register" type="button" name="register"><span>Register</span></button></a>
+          {{ end }}
+          </div>
         </div>
       </div>
 

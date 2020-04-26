@@ -31,7 +31,7 @@
         @include u-font('sans', 'sm');
         .event-time{
           @include u-margin-top(0);
-          @include u-font('sans', '2xs');
+          @include u-font('sans', 'xs');
         }
       }
 
@@ -44,6 +44,12 @@
           @include u-bg('white');
           @include u-border('2px', 'solid', 'blue-warm-80v');
           @include u-text('blue-warm-80v');
+          @include u-width('full');
+          &:hover{
+            span{
+              @include u-border-bottom('2px', 'solid', 'blue-warm-80v');
+            }
+          }
         }
       }
     }
