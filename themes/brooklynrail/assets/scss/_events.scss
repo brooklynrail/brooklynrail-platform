@@ -5,6 +5,7 @@
 .events{
   section{
     .heading{
+      @include u-margin-y(2);
       @include u-font('serif', '3xl');
       @include u-text('thin');
     }

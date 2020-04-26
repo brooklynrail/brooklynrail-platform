@@ -9,9 +9,10 @@
     .content{
       @include u-padding-y(0);
       .kicker{
-        @include u-font('sans', 'xs');
+        @include u-font('sans', '2xs');
       }
       h2{
+        @include u-text('bold');
         @include u-font('sans', 'lg');
       }
       .deck{
@@ -27,10 +28,10 @@
       .event-date{
         @include u-margin-top(0);
         @include u-margin-bottom('205');
-        @include u-font('sans', 'md');
+        @include u-font('sans', 'sm');
         .event-time{
           @include u-margin-top(0);
-          @include u-font('sans', 'sm');
+          @include u-font('sans', '2xs');
         }
       }
 
