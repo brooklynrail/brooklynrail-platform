@@ -1,6 +1,7 @@
 .card-event-past{
   @extend .event;
 
+
   // Background Gradient — for when there's no image
   @include u-bg('gray-warm-10');
   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#e6e6e2+35,fdb8ae+100 */
@@ -14,40 +15,44 @@
   @include u-margin-bottom(4);
   @include u-position('relative');
   @include u-minh('mobile-lg');
+  @include at-media('tablet-lg') {
+    @include u-minh('mobile-lg');
+  }
   @include u-display('flex');
   @include u-flex('row');
   @include u-flex('align-end');
   @include u-z(0);
+
+
   header {
-    // @include u-display('none');
     @include u-bg('gray-warm-90');
     @include u-z(100);
     @include u-width('full');
-    @include u-padding(2);
+    @include u-padding('105');
+    @include at-media('tablet-lg') {
+      @include u-padding(2);
+    }
     .content{
       @include u-padding-y(0);
+      @include u-text('white');
+
       .kicker{
+        @include u-margin-bottom('05');
         @include u-font('sans', 'xs');
       }
       h2{
         @include u-font('sans', 'lg');
         @include u-text('thin');
-        a{
-          @include u-text('white');
-        }
       }
       .deck{
         @include u-font('sans', 'lg');
       }
-      .summary{
-        @include u-font('sans', 'xs');
-      }
-      .event-date{
-        @include u-margin-top(0);
-        @include u-font('sans', 'md');
-      }
-      .event-time{
-        @include u-font('sans', 'md');
+      .event-details{
+        @include u-margin-top(2);
+        @include u-font('sans', '2xs');
+        time{
+          @include u-text('thin');
+        }
       }
       .actions{
         .btn-event{
@@ -69,6 +74,7 @@
     @include u-left(0);
     @include u-height('full');
     @include u-width('full');
+    @include u-z('bottom');
   }
   .card_cover_img{
     @include u-position('relative');
