@@ -7,6 +7,7 @@ summary: Special guest **Peter Brook** and hosts **Karen Brooks Hopkins** and
 event_host: The Brooklyn Rail
 event_organizer: The Brooklyn Rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-26-peter-brook-tickets-102427515456
+youtube_id: ppNJeb6-dJI
 youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
 date: 2020-04-21 13:00:00 -0500
 end_date: 2020-04-21 14:00:00 -0500
