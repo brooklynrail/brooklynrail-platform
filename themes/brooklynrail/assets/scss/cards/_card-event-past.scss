@@ -26,20 +26,24 @@
 
   header {
     @include u-bg('gray-warm-90');
+    @include u-minh('card');
     @include u-z(100);
     @include u-width('full');
     @include u-padding('105');
     @include at-media('tablet-lg') {
-      @include u-padding(2);
+      @include u-padding('105');
     }
     .content{
       @include u-padding-y(0);
       @include u-text('white');
 
       .kicker{
-        @include u-margin-bottom('05');
         @include u-font('sans', 'xs');
+        @include at-media('tablet-lg') {
+          @include u-font('sans', '2xs');
+        }
       }
+
       h2{
         @include u-font('sans', 'lg');
         @include u-text('thin');
