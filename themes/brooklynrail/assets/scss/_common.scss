@@ -73,7 +73,13 @@ h2{
 .btn{
   @extend .usa-button;
   @include u-margin(0);
+  @include u-padding-y('105');
+  @include u-padding-x('05');
   @include u-text('medium');
+  @include u-font('sans', 'xs');
+  @include at-media('tablet-lg') {
+    @include u-font('sans', 'md');
+  }
   &:hover{
     @include u-bg('primary');
   }

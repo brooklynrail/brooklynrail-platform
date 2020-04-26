@@ -61,7 +61,7 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
 
 
             {{- if .Date -}}
-            <div class="event-date">
+            <div class="event-details">
               {{/* Start Date */}}
               <time class="dt-start" datetime="{{- dateFormat "2006-01-02T15:04:05Z07:00" (time $start_date) -}}">{{- dateFormat "Monday, January 2, 2006" (time $start_date) -}}</time>
 
@@ -77,14 +77,17 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
                 {{- $event_end_time_suffix := dateFormat "PM" (time $end_date) -}}
                 {{- $event_end_time_suffix := replace $event_end_time_suffix "PM" "p.m." -}}
                 {{- $event_end_time_suffix := replace $event_end_time_suffix "AM" "a.m." -}}
-                {{ dateFormat "3:04" ((time $start_date).Add ( -3 | duration "hour" )) -}}&nbsp;{{- $event_end_time_suffix -}}&nbsp;PT</p>
+                {{ dateFormat "3:04" ((time $start_date).Add ( -3 | duration "hour" )) -}}&nbsp;{{- $event_end_time_suffix -}}&nbsp;PT
+              </p>
+
+              {{/* location */}}
+              {{- with .Params.event_platform }}
+                <p class="location p-location">Online</p>
+              {{- end -}}
+              
             </div>
             {{- end -}}
 
-            {{/* location */}}
-            {{- with .Params.event_platform }}
-              <p class="location p-location">Online</p>
-            {{- end -}}
 
 
             {{- if eq $future_event true -}}

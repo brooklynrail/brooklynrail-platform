@@ -7,9 +7,9 @@ The following variables transform dates and times for the event `start_date` and
 
 <section class="card-event h-event">
   <header>
-    <div class="grid-row grid-gap-4">
-
-      <div class="grid-col-12 tablet:grid-col-7 tablet:order-2">
+    <div class="grid-row tablet-lg:grid-gap-4">
+      {{/* Content */}}
+      <div class="grid-col-12 tablet-lg:grid-col-6 desktop:grid-col-7 tablet-lg:order-2">
 
         <div class="content">
 
@@ -31,21 +31,21 @@ The following variables transform dates and times for the event `start_date` and
           </p>
           {{- end -}}
 
-          {{- with .Params.Summary -}}
+          {{- if .Params.Summary -}}
           <div class="summary content">
-            <p>{{- . | markdownify -}}</p>
+            <p>{{- .Params.Summary | markdownify -}}&nbsp;<a href="{{- .RelPermalink -}}" title="{{- .Title -}}">Details »</a></p>
           </div>
           {{- end -}}
 
         </div>
 
       </div>
-
-      <div class="grid-col-12 tablet:grid-col-3 tablet:order-1">
+      {{/* Date */}}
+      <div class="grid-col-8 tablet-lg:grid-col-3 desktop:grid-col-3 tablet-lg:order-1">
         <div class="content">
 
           {{- if .Date -}}
-          <div class="event-date">
+          <div class="event-details">
             {{/* Start Date */}}
             <time class="dt-start" datetime="{{- dateFormat "2006-01-02T15:04:05Z07:00" (time $start_date) -}}">{{- dateFormat "Monday, January 2" (time $start_date) -}}</time>
 
@@ -61,27 +61,29 @@ The following variables transform dates and times for the event `start_date` and
               {{- $event_start_time_suffix_pt := dateFormat "PM" ((time $start_date).Add ( -3 | duration "hour" )) -}}
               {{- $event_start_time_suffix_pt := replace $event_start_time_suffix_pt "PM" "p.m." -}}
               {{- $event_start_time_suffix_pt := replace $event_start_time_suffix_pt "AM" "a.m." -}}
-              {{ dateFormat "3:04" ((time $start_date).Add ( -3 | duration "hour" )) -}}&nbsp;{{- $event_start_time_suffix_pt -}}&nbsp;Pacific</p>
+              {{ dateFormat "3:04" ((time $start_date).Add ( -3 | duration "hour" )) -}}&nbsp;{{- $event_start_time_suffix_pt -}}&nbsp;Pacific
+            </p>
+
+            {{/* location */}}
+            {{- $event_platforms := .Params.event_platform -}}
+            {{- if $event_platforms -}}
+              <p class="location p-location">
+              {{- range $key, $event_platform := $event_platforms -}}
+                {{- if ne $key 0 }}, {{ end }}<strong>{{ index $.Site.Data.event_platforms $event_platform }}</strong>
+              {{- end -}}
+              </p>
+            {{- end -}}
           </div>
           {{- end -}}
 
-          {{/* location */}}
-          {{- $event_platforms := .Params.event_platform -}}
-          {{- if $event_platforms -}}
-            <p class="location p-location">
-            {{- range $key, $event_platform := $event_platforms -}}
-              {{- if ne $key 0 }}, {{ end }}<strong>{{ index $.Site.Data.event_platforms $event_platform }}</strong>
-            {{- end -}}
-            </p>
-          {{- end -}}
 
         </div>
       </div>
-
-      <div class="grid-col-12 tablet:grid-col-2 tablet:order-3">
+      {{/* Button */}}
+      <div class="grid-col-4 tablet-lg:grid-col-3 desktop:grid-col-2 tablet-lg:order-3">
         <div class="content">
           <div class="actions">
-            <a class="u-primary" href="{{- .RelPermalink -}}" title="View Event"><button class="btn btn-event" type="button" name="view"><span>View Event</span></button></a>
+            <a class="u-primary" href="{{- .RelPermalink -}}" title="View Event"><button class="btn btn-md btn-event" type="button" name="view"><span>View Event</span></button></a>
           {{- with .Params.registration_url -}}
             {{/* Registration button */}}
             <a class="u-white hidden" href="{{- . -}}" title="Register"><button class="btn btn btn-register" type="button" name="register"><span>Register</span></button></a>

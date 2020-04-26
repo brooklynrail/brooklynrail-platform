@@ -6,8 +6,11 @@
   section{
     .heading{
       @include u-margin-y(2);
-      @include u-font('serif', '3xl');
+      @include u-font('serif', 'xl');
       @include u-text('thin');
+      @include at-media('tablet-lg') {
+        @include u-font('serif', '3xl');
+      }
     }
   }
   .past_events{
@@ -63,7 +66,7 @@
     @include u-padding-y(5);
 
     .content{
-      .event-date{
+      .event-details{
         @include u-margin-top(5);
         @include u-font('sans', 'lg');
         @include u-text('medium');
@@ -76,13 +79,13 @@
           @include u-margin(0);
           @include u-display('inline');
         }
+        .location{
+          @include u-text('light');
+          @include u-margin(0);
+          @include u-font('sans', 'lg');
+        }
       }
 
-      .location{
-        @include u-text('light');
-        @include u-margin(0);
-        @include u-font('sans', 'lg');
-      }
 
       .actions{
         @include u-margin-y(3);
@@ -93,6 +96,11 @@
           @include u-text('uppercase');
           @include u-bg('blue-warm-80v');
           @include u-border('2px', 'solid', 'blue-warm-80v');
+          &:hover{
+            @include u-bg('gray-10');
+            @include u-border('2px', 'solid', 'gray-10');
+            @include u-text('no-underline');
+          }
         }
         .addeventatc{
           @include u-padding(2);

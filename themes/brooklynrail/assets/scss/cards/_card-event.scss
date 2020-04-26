@@ -9,10 +9,13 @@
     .content{
       @include u-padding-y(0);
       .kicker{
-        @include u-font('sans', '2xs');
+        @include u-font('sans', 'xs');
+        @include at-media('tablet-lg') {
+          @include u-font('sans', '2xs');
+        }
       }
       h2{
-        @include u-text('bold');
+        @include u-text('medium');
         @include u-font('sans', 'lg');
       }
       .deck{
@@ -20,26 +23,43 @@
       }
       .summary{
         @include u-margin-top(1);
-        @include u-font('sans', 'sm');
+        @include u-font('sans', 'xs');
+        @include at-media('tablet-lg') {
+          @include u-font('sans', 'sm');
+        }
         strong{
           @include u-text('medium');
         }
+        a{
+          @include u-text('primary');
+        }
       }
-      .event-date{
-        @include u-margin-top(0);
-        @include u-margin-bottom('205');
+      .event-details{
+        @include u-margin-top(2);
+        @include at-media('tablet-lg') {
+          @include u-margin-y(0);
+        }
         @include u-font('sans', 'sm');
         .event-time{
-          @include u-margin-top(0);
-          @include u-font('sans', 'xs');
+          @include u-margin-top('05');
+          @include u-display('block');
+          @include u-font('sans', '2xs');
+          @include at-media('tablet-lg') {
+            @include u-font('sans', 'sm');
+          }
+        }
+        .location{
+          @include u-margin-top(1);
+          @include u-font('sans', '2xs');
         }
       }
 
-      .location{
-        @include u-font('sans', '2xs');
-      }
 
       .actions{
+        @include u-margin-top(2);
+        @include at-media('tablet-lg') {
+          @include u-margin-y(3);
+        }
         .btn-event{
           @include u-bg('white');
           @include u-border('2px', 'solid', 'blue-warm-80v');
