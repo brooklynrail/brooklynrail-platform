@@ -80,9 +80,12 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
                 {{ dateFormat "3:04" ((time $start_date).Add ( -3 | duration "hour" )) -}}&nbsp;{{- $event_end_time_suffix -}}&nbsp;PT
               </p>
 
-              {{/* location */}}
-              {{- with .Params.event_platform }}
-                <p class="location p-location">Online</p>
+              {{/* If is NOT a Future Event (Past event) */}}
+              {{- if eq $future_event true -}}
+                {{/* location */}}
+                {{- with .Params.event_platform }}
+                  <p class="location p-location">Online</p>
+                {{- end -}}
               {{- end -}}
 
             </div>
@@ -139,13 +142,19 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
   <section>
     <div class="grid-container">
       <div class="grid-row">
-        <div class="grid-col-12 tablet:grid-col-9">
-
-          {{- with .Summary -}}
-          <div class="summary content">
-            <p>{{- . | markdownify -}}</p>
-          </div>
+        <div class="grid-col-12">
+          {{- with .Params.summary -}}
+            <p class="summary">{{- . | markdownify -}}</p>
           {{- end -}}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="grid-container">
+      <div class="grid-row">
+        <div class="grid-col-12 tablet:grid-col-9">
 
           {{- with .Content -}}
           <div class="content">

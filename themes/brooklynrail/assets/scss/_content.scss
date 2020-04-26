@@ -15,14 +15,29 @@
   }
 
   h2{
+    @include u-margin-top(5);
+    @include u-font('sans', 'xl');
+    @include u-text('bold');
     a{
       @include u-text('no-underline');
-      @include u-text('black');
       &:hover{
         @include u-text('underline');
       }
     }
   }
+
+  h3{
+    @include u-margin-top(7);
+    @include u-font('sans', 'lg');
+    @include u-text('bold');
+    a{
+      @include u-text('no-underline');
+      &:hover{
+        @include u-text('underline');
+      }
+    }
+  }
+
 
   // ===========================
   // Code

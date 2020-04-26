@@ -89,7 +89,7 @@ h2{
   @include u-margin(0);
   @include u-padding-y('105');
   @include u-padding-x('05');
-  @include u-text('medium');
+  @include u-text('normal');
   @include u-font('sans', 'xs');
   @include at-media('tablet-lg') {
     @include u-font('sans', 'md');
@@ -118,6 +118,8 @@ h2{
 .btn-lg{
   @extend .usa-button--big;
   @include u-font('sans', 'md');
+  @include u-padding-y(2);
+  @include u-padding-x('205');
   &:hover{
     @include u-bg('primary');
   }

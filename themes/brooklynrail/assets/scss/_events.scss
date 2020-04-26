@@ -35,7 +35,6 @@
   // Single Event Page / Header
   header {
     @include u-padding-y(5);
-    @include u-bg('gray-40');
 
     .content{
       .event-details{
@@ -68,11 +67,6 @@
           @include u-text('uppercase');
           @include u-bg('blue-warm-80v');
           @include u-border('2px', 'solid', 'blue-warm-80v');
-          &:hover{
-            @include u-bg('gray-10');
-            @include u-border('2px', 'solid', 'gray-10');
-            @include u-text('no-underline');
-          }
         }
         .addeventatc{
           @include u-padding(2);
@@ -120,12 +114,13 @@
 
   section{
     .summary{
-      @include u-font('sans', 'lg');
-      p{
-        @include u-margin-bottom(4);
-        @include u-padding-bottom(4);
-        @include u-text('normal');
-        @include u-border-bottom('1px', 'solid', 'gray-20');
+      @include u-font('sans', 'xl');
+      @include u-margin-bottom(4);
+      @include u-padding-4(4);
+      @include u-text('light');
+      @include u-border-bottom('1px', 'solid', 'gray-20');
+      strong{
+        @include u-text('medium');
       }
     }
 
@@ -138,6 +133,7 @@
       @include u-bg('gray-3');
       @include u-font('sans', 'sm');
       h2{
+        @include u-margin-top(0);
         @include u-font('sans', 'md');
         @include u-text('medium');
       }
