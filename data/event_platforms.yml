@@ -1,4 +1,12 @@
-youtube: "YouTube LIVE"
-zoom: "Zoom"
-instagram: "Instagram"
-igtv: "Instagram TV"
+youtube:
+  name: 'YouTube'
+  icon: '<i class="fab fa-youtube"></i>'
+zoom:
+  name: 'Zoom'
+  icon: '<i class="fas fa-video"></i>'
+instagram:
+  name: "Instagram LIVE"
+  icon: '<i class="fab fa-instagram"></i>'
+igtv:
+  name: "Instagram TV"
+  icon: '<i class="fab fa-instagram-square"></i>'
