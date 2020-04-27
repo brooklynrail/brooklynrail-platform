@@ -146,6 +146,7 @@
     .summary{
       @include u-font('sans', 'sm');
       @include u-margin-top(0);
+      @include u-margin-bottom(4);
       @include u-padding-y(2);
       @include u-text('light');
       @include u-border-bottom('1px', 'solid', 'gray-20');
