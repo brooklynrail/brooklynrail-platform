@@ -1,21 +1,5 @@
 {{ define "main" }}
 
-
-{{/* ==========================
-DATE Variables
-The following variables transform dates and times for the event `start_date` and `end_date` and set them for use in the event page.
-
-NOTE:
-- `.Date` is recognized by HUGO as an official date
-- `.Params.end_date` is a string that needs to be converted to a date (still confused by this)
-*/}}
-{{- $start_date := .Date -}}
-{{- $end_date := (time .Params.end_date) -}}
-{{/* This sets $future_event to true or false */}}
-{{- $future_event := (time .Params.end_date).After now -}}
-
-
-
 {{/*
 Events use the `h-event` Microformat classnames
 http://microformats.org/wiki/h-event
@@ -60,8 +44,17 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
             {{- end -}}
 
 
+            {{/* NOTE:
+            - `.Date` is recognized by HUGO as an official date
+            - `.Params.end_date` is a string that needs to be converted to a date (still confused by this)
+            */}}
+            {{- $start_date := .Date -}}
+            {{- $end_date := (time .Params.end_date) -}}
+            {{/* This sets $future_event to true or false */}}
+            {{- $future_event := (time .Params.end_date).After now -}}
             {{- if .Date -}}
             <div class="event-details">
+              <i class="far fa-calendar"></i>&nbsp;
               {{/* Start Date */}}
               <time class="dt-start" datetime="{{- dateFormat "2006-01-02T15:04:05Z07:00" (time $start_date) -}}">{{- dateFormat "Monday, January 2, 2006" (time $start_date) -}}</time>
 
@@ -69,15 +62,15 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
               <span class="hidden"> to <time class="dt-end" datetime="{{- dateFormat "2006-01-02T15:04:05Z07:00" (time $end_date) -}}">{{- dateFormat "Monday, January 2, 2006" (time $end_date) -}}</time></span>
 
               <p class="event-time">
-                {{- dateFormat "3:04" (time $start_date) }}&nbsp;
+                {{- dateFormat "3:04" (time $start_date) -}}&nbsp;
                 {{- $event_start_time_suffix := dateFormat "PM" (time $start_date) -}}
                 {{- $event_start_time_suffix := replace $event_start_time_suffix "PM" "p.m." -}}
                 {{- $event_start_time_suffix := replace $event_start_time_suffix "AM" "a.m." -}}
-                {{- $event_start_time_suffix -}}&nbsp;ET&nbsp;/&nbsp;
-                {{- $event_end_time_suffix := dateFormat "PM" (time $end_date) -}}
-                {{- $event_end_time_suffix := replace $event_end_time_suffix "PM" "p.m." -}}
-                {{- $event_end_time_suffix := replace $event_end_time_suffix "AM" "a.m." -}}
-                {{ dateFormat "3:04" ((time $start_date).Add ( -3 | duration "hour" )) -}}&nbsp;{{- $event_end_time_suffix -}}&nbsp;PT
+                {{- $event_start_time_suffix -}}&nbsp;Eastern <span>/</span>
+                {{ $event_start_time_suffix_pt := dateFormat "PM" ((time $start_date).Add ( -3 | duration "hour" )) -}}
+                {{- $event_start_time_suffix_pt := replace $event_start_time_suffix_pt "PM" "p.m." -}}
+                {{- $event_start_time_suffix_pt := replace $event_start_time_suffix_pt "AM" "a.m." -}}
+                {{ dateFormat "3:04" ((time $start_date).Add ( -3 | duration "hour" )) -}}&nbsp;{{- $event_start_time_suffix_pt -}}&nbsp;Pacific
               </p>
 
               {{/* If is NOT a Future Event (Past event) */}}

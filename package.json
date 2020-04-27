@@ -26,9 +26,10 @@
     "test:pa11y": "pa11y-ci --config .pa11yci"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.0",
     "js-yaml": "^3.13.1",
-    "mysql": "^2.17.1",
-    "netlify-cms": "^2.10.46",
+    "mysql": "^2.18.1",
+    "netlify-cms": "^2.10.47",
     "striptags": "^3.1.1"
   },
   "devDependencies": {
@@ -37,13 +38,13 @@
     "gulp-notify": "^3.2.0",
     "gulp-postcss": "^8.0.0",
     "gulp-replace": "^1.0.0",
-    "gulp-sass": "^4.0.2",
+    "gulp-sass": "^4.1.0",
     "gulp-sourcemaps": "^2.6.5",
     "i": "^0.3.6",
     "npm": "^6.14.4",
     "npm-run-all": "^4.1.5",
     "postcss-csso": "^4.0.0",
-    "sass": "^1.26.3",
+    "sass": "^1.26.5",
     "uswds": "^2.6.0",
     "uswds-gulp": "github:uswds/uswds-gulp"
   }

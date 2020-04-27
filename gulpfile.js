@@ -96,6 +96,15 @@ gulp.task("copy-js", () => {
   return gulp.src(`${PROJECT_JS_SRC}/**/*.js`).pipe(gulp.dest(`${CSS_DEST}`));
 });
 
+gulp.task("copy-fontawesome_css", () => {
+  return gulp.src('./node_modules/@fortawesome/fontawesome-free/css/**/**').pipe(gulp.dest('./themes/brooklynrail/static/dist/fontawesome/css'));
+});
+
+gulp.task("copy-fontawesome_webfonts", () => {
+  return gulp.src('./node_modules/@fortawesome/fontawesome-free/webfonts/**/**').pipe(gulp.dest('./themes/brooklynrail/static/dist/fontawesome/webfonts'));
+});
+
+
 gulp.task("build-sass", function(done) {
   var plugins = [
     // Autoprefix
@@ -141,10 +150,10 @@ gulp.task("watch-sass", function() {
   gulp.watch(`${PROJECT_JS_SRC}/**/*.js`, gulp.series("copy-js", "build-sass"));
 });
 
-gulp.task("copy", gulp.series("copy-js", "copy-uswds-js", "copy-vendor-css"));
+gulp.task("copy-assets", gulp.series("copy-fontawesome_webfonts", "copy-fontawesome_css", "copy-uswds-js", "copy-vendor-css"));
 
-gulp.task("watch", gulp.series("build-sass", "copy", "watch-sass"));
+gulp.task("watch", gulp.series("build-sass", "copy-js", "watch-sass"));
 
-gulp.task("build", gulp.series("build-sass", "copy"));
+gulp.task("build", gulp.series("build-sass", "copy-assets"));
 
 gulp.task("default", gulp.series("watch"));

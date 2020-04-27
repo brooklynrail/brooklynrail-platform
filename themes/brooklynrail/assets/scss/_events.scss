@@ -46,7 +46,7 @@
           @include u-text('medium');
         }
         .event-time{
-          @include u-text('light');
+          @include u-text('thin');
           @include u-margin(0);
           @include u-display('inline');
         }
@@ -116,7 +116,7 @@
     .summary{
       @include u-font('sans', 'xl');
       @include u-margin-bottom(4);
-      @include u-padding-4(4);
+      @include u-padding-y(4);
       @include u-text('light');
       @include u-border-bottom('1px', 'solid', 'gray-20');
       strong{

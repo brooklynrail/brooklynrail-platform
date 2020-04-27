@@ -2,23 +2,22 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   {{/* NOTE: the Site's title, and if there is a page title, that is set too */}}
-  <title>{{ block "title" . }}{{ .Site.Title }} {{ with .Params.Title }} | {{ . }}{{ end }}{{ end }}</title>
+  <title>{{- block "title" . -}}{{- .Site.Title }} {{ with .Params.Title }} | {{ . }}{{ end }}{{ end }}</title>
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
 
   <meta name="viewport" content="width=device-width,minimum-scale=1">
 
-  {{ .Hugo.Generator }}
+  {{ .Hugo.Generator -}}
   {{/* NOTE: For Production make sure you add `HUGO_ENV="production"` before your build command */}}
-  {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
-    <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
-  {{ else }}
-    <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
-  {{ end }}
+  {{- if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
+  <meta NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+  {{- else }}
+  <meta NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+  {{- end }}
 
-
+  {{/* Base CSS styles */}}
   {{ "<!-- CSS -->" | safeHTML }}
-  {{/* Base styles */}}
   <link rel="stylesheet" href='{{- "dist/styles.css" | absURL -}}' type="text/css" media='all' />
   {{/* Custom CSS — needs to be included before the base styles */}}
   {{- if $.Params.css -}}
@@ -28,26 +27,25 @@
       <link rel="stylesheet" media="all" href="{{- $path -}}" type="text/css"/>
     {{- end -}}
   {{- end -}}
-
-
   {{/* Add to Calendar */}}
   {{- if and (eq .Section "events-beta") (eq .Kind "page") -}}
   {{ "<!-- Add to Calendar CSS -->" | safeHTML }}
   <link href="{{- "dist/add-to-cal.css" | absURL -}}" rel="stylesheet" type="text/css">
   {{ "<!-- Add to Calendar JS -->" | safeHTML }}
   <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
-  {{- end -}}
-
+  {{- end }}
+  {{ "<!-- Font Awesome -->" | safeHTML }}
+  <link href="{{- "dist/fontawesome/css/all.min.css" | absURL -}}" rel="stylesheet" type="text/css">
 
   {{ block "favicon" . }}
     {{ partialCached "site-favicon.html" . }}
   {{ end }}
 
 
-  {{ if .RSSLink }}
-    <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
-    <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
-  {{ end }}
+  {{- with .OutputFormats.Get "RSS" -}}
+    <link href="{{- .RelPermalink -}}" rel="alternate" type="application/rss+xml" title="{{- $.Site.Title -}}" />
+    <link href="{{- .RelPermalink -}}" rel="feed" type="application/rss+xml" title="{{- $.Site.Title -}}" />
+  {{- end -}}
 
   {{/* NOTE: These Hugo Internal Templates can be found starting at https://github.com/spf13/hugo/blob/master/tpl/tplimpl/template_embedded.go#L158 */}}
   {{- template "_internal/opengraph.html" . -}}
