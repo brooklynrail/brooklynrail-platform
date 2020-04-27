@@ -89,6 +89,10 @@ header .content{
     @include u-margin(0);
     @include u-margin-bottom('05');
     @include u-display('block');
+    @include u-font('sans', 'xl');
+    @include at-media('tablet-lg') {
+      @include u-font('sans', '2xl');
+    }
   }
 
   h2{

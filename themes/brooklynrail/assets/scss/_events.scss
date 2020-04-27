@@ -34,7 +34,10 @@
 
   // Single Event Page / Header
   header {
-    @include u-padding-y(5);
+    @include u-padding-y('205');
+    @include at-media('tablet') {
+      @include u-padding-y(5);
+    }
 
     .event-details{
       @include u-margin-top(3);
@@ -46,10 +49,20 @@
       }
       .event-time{
         @include u-text('thin');
-        @include u-margin(0);
-        @include u-display('inline');
+        @include u-margin-top('05');
+        @include u-margin-left(3);
+        @include u-display('block');
+        @include u-font('sans', 'sm');
         span{
-          @include u-margin-x('05');
+          @include u-margin-x('2px');
+        }
+        @include at-media('tablet') {
+          @include u-margin(0);
+          @include u-font('sans', 'md');
+          @include u-display('inline');
+          span{
+            @include u-margin-x('05');
+          }
         }
       }
       .location{
@@ -115,14 +128,17 @@
 
   section{
     .summary{
-      @include u-font('sans', 'lg');
+      @include u-font('sans', 'sm');
       @include u-margin-top(0);
-      @include u-margin-bottom(4);
-      @include u-padding-y(4);
+      @include u-padding-y(2);
       @include u-text('light');
       @include u-border-bottom('1px', 'solid', 'gray-20');
       strong{
         @include u-text('medium');
+      }
+      @include at-media('tablet') {
+        @include u-padding-y(4);
+        @include u-font('sans', 'lg');
       }
     }
 

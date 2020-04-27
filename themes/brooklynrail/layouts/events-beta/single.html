@@ -132,16 +132,24 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
     {{- .Render "stage-youtube" -}}
   {{- end -}}
 
+  {{- with .Params.summary -}}
+  <section>
+    <div class="grid-container">
+      <div class="grid-row">
+        <div class="grid-col-12">
+          <div class="content">
+            <p class="summary">{{- . | markdownify -}}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  {{- end -}}
+
   <section>
     <div class="grid-container">
       <div class="grid-row">
         <div class="grid-col-12 tablet:grid-col-9">
-
-          {{- with .Params.summary -}}
-          <div class="content">
-            <p class="summary">{{- . | markdownify -}}</p>
-          </div>
-          {{- end -}}
 
           {{- with .Content -}}
           <div class="content">
