@@ -65,11 +65,27 @@
           }
         }
       }
-      .location{
-        @include u-text('light');
-        @include u-margin(0);
-        @include u-font('sans', 'lg');
+
+      .event_platforms{
+        @include u-margin-top(2);
+        @include u-display('none');
+        p{
+          @include u-margin(0);
+          @include u-margin-bottom('2px');
+          @include u-margin-right('05');
+          @include u-padding-y('2px');
+          @include u-font('sans', 'sm');
+          @include u-text('normal');
+          @include u-display('inline-block');
+          span{
+            i{
+              // @include u-text('blue-70v');
+            }
+          }
+        }
       }
+
+
     }
 
 

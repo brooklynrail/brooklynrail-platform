@@ -12,8 +12,6 @@ end_date: 2020-04-28 14:00:00 -0500
 event_platform:
   - zoom
   - youtube
-  - instagram
-  - igtv
 featured_images:
   - img_url: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F99205246%2F250527606728%2F1%2Foriginal.20200421-204356?h=2000&w=720&auto=format%2Ccompress&q=75&sharp=10&s=41ed5b545656746c0654796ed2e73e9f
 ---

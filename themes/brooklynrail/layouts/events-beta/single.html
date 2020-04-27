@@ -73,11 +73,20 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
                 {{ dateFormat "3:04" ((time $start_date).Add ( -3 | duration "hour" )) -}}&nbsp;{{- $event_start_time_suffix_pt -}}&nbsp;Pacific
               </p>
 
+
               {{/* If is NOT a Future Event (Past event) */}}
               {{- if eq $future_event true -}}
                 {{/* location */}}
-                {{- with .Params.event_platform }}
-                  <p class="location p-location">Online</p>
+                {{- $event_platform_data := $.Site.Data.event_platforms -}}
+                {{- $event_platforms := .Params.event_platform -}}
+                {{- if $event_platforms -}}
+                <div class="event_platforms p-location">
+                  {{- range $i, $e := $event_platforms -}}
+                    {{- $platform := index $event_platform_data $e -}}
+                    {{/* {{- if ne $i 0 }}, {{ end }} */}}
+                    <p class="{{- $e -}}"><span>{{- $platform.icon | safeHTML -}}&nbsp;{{- $platform.name -}}</span></p>
+                  {{- end -}}
+                </div>
                 {{- end -}}
               {{- end -}}
 
