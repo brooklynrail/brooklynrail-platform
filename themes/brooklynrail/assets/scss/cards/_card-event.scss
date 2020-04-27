@@ -48,9 +48,35 @@
             @include u-font('sans', 'sm');
           }
         }
-        .location{
+
+        .event_platforms{
           @include u-margin-top(1);
-          @include u-font('sans', '2xs');
+          p{
+            @include u-margin(0);
+            @include u-margin-bottom('2px');
+            @include u-padding-y('2px');
+            @include u-font('sans', '3xs');
+            @include u-text('normal');
+            @include u-display('inline-block');
+            span{
+              @include u-padding-y('2px');
+              @include u-padding-x(1);
+              @include u-radius('pill');
+              // Background Gradient — for when there's no image
+              /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f0f0ec+55,fde0db+100 */
+              background: #f0f0ec; /* Old browsers */
+              background: -moz-linear-gradient(-45deg,  #f0f0ec 55%, #fde0db 100%); /* FF3.6-15 */
+              background: -webkit-linear-gradient(-45deg,  #f0f0ec 55%,#fde0db 100%); /* Chrome10-25,Safari5.1-6 */
+              background: linear-gradient(135deg,  #f0f0ec 55%,#fde0db 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+              filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0f0ec', endColorstr='#fde0db',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+
+
+              i{
+                @include u-text('blue-70v');
+              }
+            }
+          }
         }
       }
 

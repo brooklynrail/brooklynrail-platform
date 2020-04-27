@@ -4,12 +4,19 @@
 
   // Background Gradient — for when there's no image
   @include u-bg('gray-warm-10');
-  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#e6e6e2+35,fdb8ae+100 */
-  background: #e6e6e2; /* Old browsers */
-  background: -moz-linear-gradient(-45deg,  #e6e6e2 35%, #fdb8ae 100%); /* FF3.6-15 */
-  background: -webkit-linear-gradient(-45deg,  #e6e6e2 35%,#fdb8ae 100%); /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(135deg,  #e6e6e2 35%,#fdb8ae 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e6e6e2', endColorstr='#fdb8ae',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f5f6f7+50,fde0db+100 */
+  background: #f5f6f7; /* Old browsers */
+  background: -moz-linear-gradient(-45deg,  #f5f6f7 50%, #fde0db 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(-45deg,  #f5f6f7 50%,#fde0db 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(135deg,  #f5f6f7 50%,#fde0db 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f5f6f7', endColorstr='#fde0db',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+
+
+
+
+
+
 
   @include u-margin(0);
   @include u-margin-bottom(4);
