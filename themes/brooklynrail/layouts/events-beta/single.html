@@ -135,19 +135,13 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
   <section>
     <div class="grid-container">
       <div class="grid-row">
-        <div class="grid-col-12">
-          {{- with .Params.summary -}}
-            <p class="summary">{{- . | markdownify -}}</p>
-          {{- end -}}
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section>
-    <div class="grid-container">
-      <div class="grid-row">
         <div class="grid-col-12 tablet:grid-col-9">
+
+          {{- with .Params.summary -}}
+          <div class="content">
+            <p class="summary">{{- . | markdownify -}}</p>
+          </div>
+          {{- end -}}
 
           {{- with .Content -}}
           <div class="content">
@@ -155,10 +149,13 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
           </div>
           {{- end -}}
 
-          {{- with .Params.event_platform -}}
-          <div class="content event-logistics">
-            {{- partial "event-logistics" . | markdownify -}}
-          </div>
+          {{/* If is NOT a Future Event (Past event) */}}
+          {{- if eq $future_event true -}}
+            {{- with .Params.event_platform -}}
+            <div class="content event-logistics">
+              {{- partial "event-logistics" . | markdownify -}}
+            </div>
+            {{- end -}}
           {{- end -}}
 
           {{- partial "tags.html" . -}}

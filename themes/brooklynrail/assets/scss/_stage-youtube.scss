@@ -1,7 +1,7 @@
 .stage{
-  @include u-margin-bottom(5);
+  @include u-margin-bottom(2);
   .video-box{
-    @include u-bg('gray-warm-10');
+    @include u-bg('gray-warm-5');
     @include u-padding('05');
     @include at-media('mobile-lg') {
       @include u-padding('105');
