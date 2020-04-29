@@ -20,10 +20,10 @@
             <!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
             <button
               class="btn btn-lg btn-donate"
-              id="checkout-button-sku_H0ySSCaxoRNJi8"
+              id="checkout-button-sku_HBaYgiIyVJH0Ks"
               role="link"
             >
-              <span>Donate $250</span>
+              <span>Donate $1</span>
             </button>
 
             <div id="error-message"></div>
@@ -32,12 +32,12 @@
             (function() {
               var stripe = Stripe('pk_live_etssu1WTxk1CFKZuGX9lBQOU00YxJbQofX');
 
-              var checkoutButton = document.getElementById('checkout-button-sku_H0ySSCaxoRNJi8');
+              var checkoutButton = document.getElementById('checkout-button-sku_HBaYgiIyVJH0Ks');
               checkoutButton.addEventListener('click', function () {
                 // When the customer clicks on the button, redirect
                 // them to Checkout.
                 stripe.redirectToCheckout({
-                  items: [{sku: 'sku_H0ySSCaxoRNJi8', quantity: 1}],
+                  items: [{sku: 'sku_HBaYgiIyVJH0Ks', quantity: 1}],
 
                   // Do not rely on the redirect to the successUrl for fulfilling
                   // purchases, customers may not always reach the success_url after
