@@ -12,7 +12,7 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
       <div class="grid-col-12">
         {{ with .CurrentSection }}
         <p class="breadcrumb">
-          <a class="u-primary" href="{{ .RelPermalink }}" title="{{ . }}"><span>All {{ .Title }}</span></a>
+          <a class="u-primary" href="{{ .RelPermalink }}" title="{{ . }}"><i class="fas fa-arrow-left"></i> <span>All {{ .Title }}</span></a>
         </p>
         {{ end }}
       </div>
