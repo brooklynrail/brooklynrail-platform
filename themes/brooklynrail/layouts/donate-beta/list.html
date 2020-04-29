@@ -66,6 +66,69 @@
   </section>
 
 
+  <section>
+    <div class="grid-container">
+      <div class="grid-row grid-gap-4">
+        <div class="grid-col-12">
+
+          <form class="usa-form" id="donate-form">
+            <fieldset class="usa-fieldset">
+              {{/* <legend class="usa-legend">Donate</legend> */}}
+              <label class="usa-label" for="title">Amount <span class="usa-hint"></span></label>
+              <input class="usa-input" type="number" min="0" placeholder="$1" id="giving-amount" />
+
+              <button class="btn btn-lg" id="giving-button">Donate</button>
+            </fieldset>
+          </form>
+
+
+          <script src="https://code.jquery.com/jquery-3.4.1.min.js" crossorigin="anonymous"></script>
+
+          {{/* <script src="https://js.stripe.com/v3/"></script> */}}
+          <script type="text/javascript">
+            var errorText = "Failed. You have not been charged.";
+
+            document.addEventListener("DOMContentLoaded", function(event) {
+              var submitButton = document.getElementById("giving-button");
+
+              var stripe = Stripe("${process.env.STRIPE_PUBLISHABLE_TEST}");
+
+              var form = document.getElementById("donate-form");
+              form.addEventListener("submit", function(event) {
+                  event.preventDefault();
+                  const buttonText = submitButton.innerText;
+                  submitButton.innerText = "Working...";
+
+                  var data = {
+                      amount: document.getElementById("giving-amount").valueAsNumber * 100,
+                  };
+
+                  // create stripe session
+                  $.ajax({
+                      type: "POST",
+                      url: "/.netlify/functions/get_checkout_session/",
+                      data: JSON.stringify(data),
+                      success: function(data) {
+                          switch (data.status) {
+                              case "session-created":
+                                  stripe
+                                      .redirectToCheckout({
+                                          sessionId: data.sessionId
+                                      })
+                                      .then(function(result) {
+                                          submitButton.innerText = result.error.message;
+                                      });
+                                  break;
+                              default:
+                                  submitButton.innerText = errorText;
+                          }
+                      },
+                      dataType: "json"
+                  });
+              });
+            });
+          </script>
+
 </main>
 
 {{ end }}
