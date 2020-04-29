@@ -1,5 +1,7 @@
 .header{
   @include u-padding-y('105');
+
+
   .sub-head{
     @include u-margin-y(0);
     @include u-margin-top('05');
@@ -7,22 +9,45 @@
     @include u-text('medium');
     @include u-text('gray-90');
     @include u-text('uppercase');
-    // @include u-text('justify');
+    font-size: 3.5vw;
+    text-rendering: optimizeLegibility;
+    .issue{
+      @include u-display('none');
+    }
+    & > .bullet{
+      @include u-margin-x(1);
+      @include u-display('none');
+    }
+    & > .bullet ~ .bullet{
+      @include u-display('inline');
+    }
+
+    @include at-media('mobile-lg') {
+      font-size: 2.7vw;
+      .issue{
+        @include u-display('inline');
+      }
+      & > .bullet{
+        @include u-margin-x(1);
+        @include u-display('inline');
+      }
+  	}
+
     @include at-media('tablet') {
       @include u-display('flex');
       @include u-flex('justify');
-  		@include u-font('sans', 'lg');
-      @include u-text('left');
-  	}
-
-    span{
-      // @include u-display('block');
-      @include at-media('tablet') {
-        // @include u-display('inline');
+      font-size: 1.8vw;
+      span{
+        white-space: nowrap;
       }
-    }
-    .bullet{
-      @include u-margin-x(1);
+      .bullet{
+      }
+  	}
+    @include at-media('desktop-lg') {
+      @include u-font('sans', 'lg');
+      span{
+        white-space: nowrap;
+      }
     }
   }
 }

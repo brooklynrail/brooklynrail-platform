@@ -7,15 +7,17 @@
         <a class="" href="/" accesskey="1" title="Home" aria-label="{{ .Site.Title }}">
           <img src="{{- "img/brooklynrail-logo-outline-red.svg" | absURL -}}" alt="{{- .Site.Title -}} Logo" />
         </a>
-
-        <p class="sub-head">
-          <span>{{- with .Site.Params.issue -}}{{- . -}}{{- else -}}April 2020{{- end -}}</span>
+      </div>
+    </div>
+    <div class="grid-row">
+      <div class="grid-col-fill">
+        <div class="sub-head">
+          <span class="issue">{{- with .Site.Params.issue -}}{{- . -}}{{- else -}}April 2020{{- end -}}</span>
           <span class="bullet">&#8226;</span>
-          <span>{{- with .Site.Params.description -}}{{- . -}}{{- else -}}Critical Perspectives on Art, Politics, and Culture{{- end -}}</span>
+          <span class="t1">{{- with .Site.Params.description -}}{{- . -}}{{- else -}}Critical Perspectives on Art, Politics, and Culture{{- end -}}</span>
           <span class="bullet">&#8226;</span>
-          <span>{{- with .Site.Params.tagline -}}{{- . -}}{{- else -}}Independent and Free{{- end -}}</span>
-        </p>
-        
+          <span class="t2">{{- with .Site.Params.tagline -}}{{- . -}}{{- else -}}Independent and Free{{- end -}}</span>
+        </div>
       </div>
     </div>
   </div>
