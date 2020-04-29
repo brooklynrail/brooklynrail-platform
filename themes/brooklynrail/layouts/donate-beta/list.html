@@ -1,0 +1,71 @@
+{{- define "main" -}}
+
+  {{- with .Content -}}
+    {{- . -}}
+  {{- end -}}
+
+
+<main class="content events" id="main-content" role="main">
+
+  <section>
+    <div class="grid-container">
+      <div class="grid-row grid-gap-4">
+        <div class="grid-col-12">
+
+          <h2 class="heading">Donate</h2>
+          <div class="stream content">
+            <!-- Load Stripe.js on your website. -->
+            <script src="https://js.stripe.com/v3"></script>
+
+            <!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
+            <button
+              class="btn btn-lg btn-donate"
+              id="checkout-button-sku_HBStYMOImKloAl"
+              role="link"
+            >
+              <span>Donate</span>
+            </button>
+
+            <div id="error-message"></div>
+
+            <script>
+            (function() {
+              var stripe = Stripe('pk_live_etssu1WTxk1CFKZuGX9lBQOU00YxJbQofX');
+
+              var checkoutButton = document.getElementById('checkout-button-sku_HBStYMOImKloAl');
+              checkoutButton.addEventListener('click', function () {
+                // When the customer clicks on the button, redirect
+                // them to Checkout.
+                stripe.redirectToCheckout({
+                  items: [{sku: 'sku_HBStYMOImKloAl', quantity: 1}],
+
+                  // Do not rely on the redirect to the successUrl for fulfilling
+                  // purchases, customers may not always reach the success_url after
+                  // a successful payment.
+                  // Instead use one of the strategies described in
+                  // https://stripe.com/docs/payments/checkout/fulfillment
+                  successUrl: 'https://brooklynrail.org/success',
+                  cancelUrl: 'https://brooklynrail.org/canceled',
+                })
+                .then(function (result) {
+                  if (result.error) {
+                    // If `redirectToCheckout` fails due to a browser or network
+                    // error, display the localized error message to your customer.
+                    var displayError = document.getElementById('error-message');
+                    displayError.textContent = result.error.message;
+                  }
+                });
+              });
+            })();
+            </script>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+</main>
+
+{{ end }}
