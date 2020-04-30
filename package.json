@@ -30,6 +30,7 @@
     "js-yaml": "^3.13.1",
     "mysql": "^2.18.1",
     "netlify-cms": "^2.10.47",
+    "netlify-lambda": "^1.6.3",
     "stripe": "^8.47.1",
     "striptags": "^3.1.1"
   },
