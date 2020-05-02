@@ -79,32 +79,28 @@ collections:
       - label: "Kicker"
         name: "kicker"
         widget: "string"
+        default: "The New Social Environment"
         hint: "TKTK"
         required: false
 
       - label: "Event Title"
         name: "title"
         minimal: true
-        widget: "markdown"
-        buttons: ['italic']
-        editorComponents: ['']
+        widget: "string"
         hint: "TKTK"
 
       - label: "Deck"
         name: "deck"
         minimal: true
-        widget: "markdown"
-        buttons: ['italic']
-        editorComponents: ['']
+        widget: "string"
         hint: "TKTK"
         required: false
 
       - label: "Summary"
         name: "summary"
         minimal: true
-        widget: "markdown"
-        buttons: ['bold','italic']
-        editorComponents: ['']
+        widget: "string"
+        default: "Artist **NAME_NAME** with writer **NAME_NAME**, discuss creative life in the context of our new social reality."
         hint: "TKTK"
 
       - label: "Event Host"
@@ -142,6 +138,7 @@ collections:
       - label: "YouTube Playlist ID"
         name: "youtube_playlist_id"
         widget: "string"
+        default: "PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY"
         hint: "TKTK"
         required: false
 
@@ -156,7 +153,8 @@ collections:
         name: "end_date"
         widget: "datetime"
         dateFormat: "YYYY-MM-DD" # e.g. 24.12.2021
-        timeFormat: "HH:mm" # e.g. 21:07
+        timeFormat: "HH:00" # e.g. 21:07
+        default: true
         format: "YYYY-MM-DD HH:mm:00 -0500"
         required: false
 
@@ -166,7 +164,7 @@ collections:
         multiple: true
         options: ["zoom", "youtube", "instagram_live", "igtv"]
         hint: "TKTK"
-        default: "zoom"
+        default: ["zoom"]
         required: false
 
       - label: "Featured Images"
@@ -181,9 +179,6 @@ collections:
         name: "body"
         widget: 'markdown'
         required: false
-
-
-
 
 
 
