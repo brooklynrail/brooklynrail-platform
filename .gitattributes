@@ -1,0 +1,6 @@
+content/media/**/*.png filter=lfs diff=lfs merge=lfs -text
+content/media/**/*.gif filter=lfs diff=lfs merge=lfs -text
+content/media/**/*.jpg filter=lfs diff=lfs merge=lfs -text
+content/media/**/*.jpeg filter=lfs diff=lfs merge=lfs -text
+content/media/**/*.svg filter=lfs diff=lfs merge=lfs -text
+content/media/**/*.mp4 filter=lfs diff=lfs merge=lfs -text
