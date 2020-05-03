@@ -31,6 +31,7 @@
     "mysql": "^2.18.1",
     "netlify-cms": "^2.10.47",
     "netlify-lambda": "^1.6.3",
+    "netlify-lm-plugin": "^1.0.0",
     "stripe": "^8.47.1",
     "striptags": "^3.1.1"
   },
