@@ -15,6 +15,7 @@ event_platform:
 featured_images:
   - img_url: https://brooklynrail-web.imgix.net/article_image/image/24689/whitney-stanley-2-finalweb.jpg?w=440&q=80&fit=max
 ---
+
 ## The New Social Environment
 
 Dearest Readers and Friends,
