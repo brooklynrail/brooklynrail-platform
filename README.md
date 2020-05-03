@@ -74,6 +74,16 @@ Local development is powered by BrowserSync, to allow rapid development through:
 - Automatic page reloads when content is changed
 
 
+### Netlify CLI
+[Netlify's command line interface](https://docs.netlify.com/cli/get-started/#installation) (CLI) lets you deploy sites or configure continuous deployment straight from the command line.
+
+To install Netlify CLI, make sure you have Node.js version 8 or higher, then run this command from any directory in your terminal:
+
+```
+npm install netlify-cli -g
+```
+[Learn more »](https://docs.netlify.com/cli/get-started/#installation)
+
 ---
 
 ## Importing content
