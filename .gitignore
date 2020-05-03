@@ -4,6 +4,3 @@ node_modules/
 themes/brooklynrail/static/dist/
 themes/brooklynrail/static/fonts/merriweather/
 themes/brooklynrail/static/fonts/source-sans-pro/
-
-# Local Netlify folder
-.netlify
