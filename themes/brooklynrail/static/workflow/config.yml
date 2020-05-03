@@ -11,7 +11,7 @@ logo_url: https://brooklynrail.org/images/dist/brooklynrail-logo-red.png
 
 # Backend and connections
 backend:
-  name: github
+  name: git-gateway
   repo: brooklynrail/brooklynrail-platform
   site_domain: brooklynrail.netlify.com
   base_url: https://api.netlify.com
@@ -48,16 +48,13 @@ local_backend:
 
 
 
-
-
-
 # ==============================================
 # Content Collections
 collections:
 
 
-  # Events =======================
-  - name: "events-beta" # Used in routes, e.g., /admin/collections/blog
+  # EVENTS Collection =======================
+  - name: "events-beta" # Used in routes, e.g., /workflow/collections/blog
     label: "Events" # Used in the UI
     label_singular: "Event"
     description: "TKTK"
@@ -74,7 +71,7 @@ collections:
     # - required  — all fields are required by default unless you include `required: false`
     # - hint  — this is the helper text that occurrs below the field.
 
-    fields: # The fields for each document, usually in front matter
+    fields: # The fields for each document, usually in frontmatter
 
       - label: "Kicker"
         name: "kicker"
@@ -184,8 +181,8 @@ collections:
 
 
 
-  # AUTHORS =======================
-  - name: "authors" # Used in routes, e.g., /admin/collections/blog
+  # AUTHORS Collection =======================
+  - name: "authors" # Used in routes, e.g., /workflow/collections/blog
     label: "Authors" # Used in the UI
     label_singular: 'Author'
     description: "TKTK"
@@ -202,7 +199,7 @@ collections:
     # - required  — all fields are required by default unless you include `required: false`
     # - hint  — this is the helper text that occurrs below the field.
 
-    fields: # The fields for each document, usually in front matter
+    fields: # The fields for each document, usually in frontmatter
 
       - label: "Display Name"
         name: "display_name"
@@ -268,3 +265,60 @@ collections:
         name: "youtube"
         widget: "string"
         required: false
+
+
+  # MEDIA Collection =======================
+  - name: "media" # Used in routes, e.g., /workflow/collections/blog
+    label: "Media" # Used in the UI
+    label_singular: 'Media'
+    description: "TKTK"
+    folder: "content/media" # path to the folder where files are stored
+    create: true # Allow users to create new documents in this collection
+    identifier_field: name # sets the field that is used to create the slug
+    slug: "{{year}}/{{month}}/{{slug}}"
+
+    fields: # The fields for each document, usually in frontmatter
+
+      - label: "Media"
+        name: "media"
+        widget: "image"
+        hint: "TKTK"
+        prompt: true
+        media_library:
+          config:
+            multiple: true
+        fields:
+          - label: "Names"
+            name: "names"
+            widget: "string"
+            hint: "TKTK"
+
+
+      - label: "Name"
+        name: "name"
+        widget: "string"
+        hint: "TKTK"
+
+      - label: "Image Alt"
+        name: "alt"
+        widget: "string"
+        hint: "TKTK"
+
+      - label: "Image Caption"
+        name: "caption"
+        widget: "string"
+        hint: "TKTK"
+        required: false
+
+      - label: "Image Credit"
+        name: "credit"
+        widget: "string"
+        hint: "TKTK"
+        required: false
+
+      - label: "Date"
+        name: "date"
+        widget: "datetime"
+        dateFormat: "YYYY-MM-DD" # e.g. 24.12.2021
+        timeFormat: "HH:mm" # e.g. 21:07
+        format: "YYYY-MM-DD HH:mm:00 -0500"
