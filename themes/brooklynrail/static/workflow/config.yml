@@ -24,7 +24,7 @@ backend:
     delete: 'Delete {{collection}} "{{slug}}"'
     uploadMedia: 'Upload "{{path}}"'
     deleteMedia: 'Delete "{{path}}"'
-    openAuthoring: '{{message}}, {{author-login}}'
+    openAuthoring: "{{message}}, {{author-login}}"
 
 # Enables the NetlifyCMS editorial workflow tools
 publish_mode: editorial_workflow
@@ -46,20 +46,16 @@ slug:
 local_backend:
   url: http://localhost:8081/api/v1
 
-
-
 # ==============================================
 # Content Collections
 collections:
-
-
   # EVENTS Collection =======================
   - name: "events-beta" # Used in routes, e.g., /workflow/collections/blog
     label: "Events" # Used in the UI
     label_singular: "Event"
     description: "TKTK"
     folder: "content/events-beta" # path to the folder where files are stored
-    path: '{{year}}/{{year}}-{{month}}-{{day}}-{{slug}}' # custom file path
+    path: "{{year}}/{{year}}-{{month}}-{{day}}-{{slug}}" # custom file path
     create: true # Allow users to create new documents in this collection
     identifier_field: title # sets the field that is used to create the slug
     slug: "{{slug}}"
@@ -72,7 +68,6 @@ collections:
     # - hint  — this is the helper text that occurrs below the field.
 
     fields: # The fields for each document, usually in frontmatter
-
       - label: "Kicker"
         name: "kicker"
         widget: "string"
@@ -166,28 +161,24 @@ collections:
 
       - label: "Featured Images"
         name: "featured_images"
-        widget: 'list'
+        widget: "list"
         hint: "Upload images through the OLD RAIL admin"
         required: false
         fields:
-          - { label: 'Image URL', name: 'img_url', widget: 'string' }
+          - { label: "Image URL", name: "img_url", widget: "string" }
 
       - label: "Event Copy"
         name: "body"
-        widget: 'markdown'
+        widget: "markdown"
         required: false
-
-
-
-
 
   # AUTHORS Collection =======================
   - name: "authors" # Used in routes, e.g., /workflow/collections/blog
     label: "Authors" # Used in the UI
-    label_singular: 'Author'
+    label_singular: "Author"
     description: "TKTK"
     folder: "content/authors" # path to the folder where files are stored
-    path: '{{slug}}/_index' # custom file path
+    path: "{{slug}}/_index" # custom file path
     create: true # Allow users to create new documents in this collection
     identifier_field: display_name # sets the field that is used to create the slug
     slug: "{{slug}}"
@@ -200,7 +191,6 @@ collections:
     # - hint  — this is the helper text that occurrs below the field.
 
     fields: # The fields for each document, usually in frontmatter
-
       - label: "Display Name"
         name: "display_name"
         widget: "string"
@@ -266,11 +256,10 @@ collections:
         widget: "string"
         required: false
 
-
   # MEDIA Collection =======================
   - name: "media" # Used in routes, e.g., /workflow/collections/blog
     label: "Media" # Used in the UI
-    label_singular: 'Media'
+    label_singular: "Media"
     description: "TKTK"
     folder: "content/media" # path to the folder where files are stored
     create: true # Allow users to create new documents in this collection
@@ -278,7 +267,6 @@ collections:
     slug: "{{year}}-{{month}}-{{slug}}"
 
     fields: # The fields for each document, usually in frontmatter
-
       - label: "Media"
         name: "media"
         widget: "image"
@@ -292,7 +280,6 @@ collections:
             name: "names"
             widget: "string"
             hint: "TKTK"
-
 
       - label: "Name"
         name: "name"
