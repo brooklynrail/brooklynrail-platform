@@ -12,8 +12,6 @@ date: 2020-04-22 13:00:00 -0500
 end_date: 2020-04-22 14:00:00 -0500
 event_platform:
   - zoom
-featured_images:
-  - img_url: https://venice.brooklynrail.org/assets/media/rail-venice-courtyard.png
 ---
 ## The New Social Environment
 
