@@ -42,10 +42,12 @@ The following variables transform dates and times for the event `start_date` and
   <div class="card_cover">
     {{- $featured_images := .Params.featured_images -}}
     {{- if $featured_images -}}
-      {{- range $img_name := first 1 $featured_images -}}
+      {{- range $media := first 1 $featured_images -}}
       <div class="card_cover_img">
-        {{- $thisimg := index $.Site.Data.media ($img_name | lower) -}}
-        <img src="{{- $thisimg.media -}}" alt="">
+        {{- if $media -}}
+          {{- $thisimg :=  index $.Site.Data.media ($media.media | lower) -}}
+          <img src="{{- $thisimg.media -}}" alt="">
+        {{- end -}}
       </div>
       {{- end -}}
     {{- end -}}
