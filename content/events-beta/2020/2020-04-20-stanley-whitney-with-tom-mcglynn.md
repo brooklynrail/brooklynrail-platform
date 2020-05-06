@@ -13,7 +13,7 @@ end_date: 2020-04-20 14:00:00 -0500
 event_platform:
   - zoom
 featured_images:
-  - the-ocean
+  - media: 2020-05-stanley-whitney
 ---
 
 ## The New Social Environment
