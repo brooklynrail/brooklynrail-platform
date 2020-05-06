@@ -13,7 +13,6 @@ date: 2020-04-21 13:00:00 -0500
 end_date: 2020-04-21 14:00:00 -0500
 event_platform:
   - zoom
-
 ---
 ## The New Social Environment
 
