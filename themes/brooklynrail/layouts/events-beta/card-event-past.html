@@ -46,7 +46,7 @@ The following variables transform dates and times for the event `start_date` and
       <div class="card_cover_img">
         {{- if $media -}}
           {{- $thisimg :=  index $.Site.Data.media ($media.media | lower) -}}
-          <img src="{{- $thisimg.media -}}" alt="">
+          <img src="{{- $thisimg.media | absURL -}}" alt="">
         {{- end -}}
       </div>
       {{- end -}}
