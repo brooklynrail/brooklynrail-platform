@@ -11,7 +11,7 @@ logo_url: https://brooklynrail.org/images/dist/brooklynrail-logo-red.png
 
 # Backend and connections
 backend:
-  name: github
+  name: git-gateway
   repo: brooklynrail/brooklynrail-platform
   site_domain: brooklynrail.netlify.com
   base_url: https://api.netlify.com
