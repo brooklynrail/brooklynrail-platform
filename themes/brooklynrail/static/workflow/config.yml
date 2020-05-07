@@ -11,7 +11,7 @@ logo_url: https://brooklynrail.org/images/dist/brooklynrail-logo-red.png
 
 # Backend and connections
 backend:
-  name: github
+  name: git-gateway
   repo: brooklynrail/brooklynrail-platform
   site_domain: brooklynrail.netlify.com
   base_url: https://api.netlify.com
@@ -159,13 +159,22 @@ collections:
         default: ["zoom"]
         required: false
 
+
       - label: "Featured Images"
         name: "featured_images"
         widget: "list"
         hint: "Upload images through the OLD RAIL admin"
         required: false
         fields:
-          - { label: "Image URL", name: "img_url", widget: "string" }
+          - label: "Media"
+            name: "media"
+            widget: "relation"
+            collection: "media"
+            searchFields: ["media", "title"]
+            valueField: "{{slug}}"
+            required: false
+            displayFields: ["media"]
+
 
       - label: "Event Copy"
         name: "body"
@@ -261,11 +270,13 @@ collections:
     label: "Media" # Used in the UI
     label_singular: "Media"
     description: "TKTK"
-    folder: "content/media" # path to the folder where files are stored
-    path: "{{year}}/{{month}}/{{slug}}"
+    folder: "data/media/" # path to the folder where files are stored
+    # path: "{{year}}/{{month}}"
+    extension: "yml"
     create: true # Allow users to create new documents in this collection
-    identifier_field: name # sets the field that is used to create the slug
-    slug: "{{slug}}"
+    identifier_field: title # sets the field that is used to create the slug
+    slug: "{{year}}-{{month}}-{{slug}}"
+    summary: "{{title}} ({{year}}-{{month}})"
 
     fields: # The fields for each document, usually in frontmatter
       - label: "Media"
@@ -276,14 +287,9 @@ collections:
         media_library:
           config:
             multiple: true
-        fields:
-          - label: "Names"
-            name: "names"
-            widget: "string"
-            hint: "TKTK"
 
-      - label: "Name"
-        name: "name"
+      - label: "Image title"
+        name: "title"
         widget: "string"
         hint: "TKTK"
 
