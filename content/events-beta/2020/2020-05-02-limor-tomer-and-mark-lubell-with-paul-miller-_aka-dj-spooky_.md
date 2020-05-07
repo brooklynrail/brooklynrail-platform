@@ -7,6 +7,7 @@ event_host: The Brooklyn Rail
 event_organizer: The Brooklyn Rail
 event_sponsor: ""
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-35-limor-tomer-and-mark-lubell-tickets-103547760138
+youtube_id: xhDUsL1O3sI
 youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
 date: 2020-05-04 13:00:00 -0500
 end_date: 2020-05-04 14:00:00 -0500
