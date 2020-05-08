@@ -10,24 +10,8 @@ The following variables transform dates and times for the event `start_date` and
 
     {{/* Featured Image */}}
     <div class="card_cover">
-      {{- $featured_images := .Params.featured_images -}}
-      {{- if $featured_images -}}
-
-        {{- range $media := first 1 $featured_images -}}
-        <div class="card_cover_img">
-          {{- if $media -}}
-            {{- $thisimg := index $.Site.Data.media ($media.media | lower) -}}
-            <img src="{{- $thisimg.media | absURL -}}?nf_resize=smartcrop&w=300&h=150" alt="">
-          {{- end -}}
-        </div>
-        {{- end -}}
-
-      {{- else -}}
-
-        {{- if .Params.youtube_id -}}
-        <div class="card_cover_img youtube-player" data-id="{{- .Params.youtube_id -}}" data-link="{{- .Permalink -}}"></div>
-        {{- end -}}
-
+      {{- if .Params.youtube_id -}}
+      <div class="card_cover_img youtube-card" data-id="{{- .Params.youtube_id -}}" data-link="{{- .Permalink -}}"></div>
       {{- end -}}
     </div>
 
