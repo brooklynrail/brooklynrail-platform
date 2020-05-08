@@ -1,8 +1,19 @@
 /* Light YouTube Embeds by @labnol */
 /* Web: http://labnol.org/?p=27941 */
 
-document.addEventListener("DOMContentLoaded", function() {
-	console.log('video');
+console.log('video');
+if( document.readyState !== 'loading' ) {
+	console.log( 'document was not ready, place code here' );
+  prep_video_card();
+} else {
+  document.addEventListener('DOMContentLoaded', function () {
+    console.log( 'document was not ready, place code here' );
+    prep_video_card();
+  });
+}
+
+
+function prep_video_card(){
 	var div, n,
 		v = document.getElementsByClassName("youtube-player");
 		c = document.getElementsByClassName("youtube-card");
@@ -19,7 +30,7 @@ document.addEventListener("DOMContentLoaded", function() {
 		div.innerHTML = youtube_card(c[n].dataset.id);
 		c[n].appendChild(div);
 	}
-});
+}
 
 function youtube_card(id) {
 	var thumb = '<img src="https://i.ytimg.com/vi/'+id+'/maxresdefault.jpg">';
