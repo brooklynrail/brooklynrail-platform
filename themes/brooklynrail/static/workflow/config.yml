@@ -27,7 +27,7 @@ backend:
     openAuthoring: "{{message}}, {{author-login}}"
 
 # Enables the NetlifyCMS editorial workflow tools
-publish_mode: editorial_workflow
+# publish_mode: editorial_workflow
 
 # Media / Images
 # This is where media will be stored in the repo
