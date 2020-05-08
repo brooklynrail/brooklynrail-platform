@@ -1,6 +1,7 @@
 /* Light YouTube Embeds by @labnol */
 /* Web: http://labnol.org/?p=27941 */
 
+console.log('video');
 document.addEventListener("DOMContentLoaded", function() {
 	var div, n,
 		v = document.getElementsByClassName("youtube-player");
