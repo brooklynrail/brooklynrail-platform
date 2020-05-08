@@ -6,6 +6,7 @@ summary: Artist **Lyle Ashton Harris** and writer and scholar **McKenzie Wark**
 event_host: The Brooklyn Rail
 event_organizer: The Brooklyn Rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-30-lyle-ashton-harris-mckenzie-wark-tickets-103168923026
+youtube_id: BolVK2GKS18
 youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
 date: 2020-04-27 13:00:00 -0500
 end_date: 2020-04-27 14:00:00 -0500
