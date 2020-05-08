@@ -74,22 +74,6 @@
   }
 
   .card_cover{
-    // @include u-position('absolute');
-    // @include u-top(0);
-    // @include u-left(0);
-    // @include u-height('full');
-    // @include u-width('full');
-    // @include u-z('bottom');
-  }
-  .card_cover_img{
-    // @include u-position('relative');
-    // @include u-height('full');
-    // @include u-width('full');
-    // overflow: hidden;
-    // img{
-    //   object-fit: cover;
-    //   @include u-height('full');
-    //   @include u-width('full');
-    // }
+    @include u-height('card');
   }
 }
