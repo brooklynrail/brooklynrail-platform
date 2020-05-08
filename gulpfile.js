@@ -150,7 +150,7 @@ gulp.task("watch-sass", function() {
   gulp.watch(`${PROJECT_JS_SRC}/**/*.js`, gulp.series("copy-js", "build-sass"));
 });
 
-gulp.task("copy-assets", gulp.series("copy-fontawesome_webfonts", "copy-fontawesome_css", "copy-uswds-js", "copy-vendor-css"));
+gulp.task("copy-assets", gulp.series("copy-js", "copy-fontawesome_webfonts", "copy-fontawesome_css", "copy-uswds-js", "copy-vendor-css"));
 
 gulp.task("watch", gulp.series("build-sass", "copy-js", "watch-sass"));
 
