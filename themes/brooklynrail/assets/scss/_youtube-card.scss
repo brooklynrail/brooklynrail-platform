@@ -1,0 +1,44 @@
+.youtube-card{
+  @include u-margin(0);
+  div{
+    @include u-margin(0);
+    @include u-height('card');
+    @include u-position('relative');
+    img {
+      @include u-height('card');
+      @include u-width('full');
+      object-fit: cover;
+    }
+
+    .play {
+      // @include u-display('none');
+      @include u-left(1);
+      @include u-bottom(1);
+      @include u-text('indigo-warm-10');
+      @include u-text('center');
+      @include u-width(6);
+      @include u-height(6);
+      @include u-radius('md');
+      background-color: rgba(0, 0, 0, .75); // #18161d - indigo-warm-90
+      transition: background-color .2s;
+      @include u-border('gray-20', 'solid', '1px');
+      @include u-position('absolute');
+      cursor: pointer;
+    }
+    .play::after {
+      @include u-position('relative');
+      @include u-top('105');
+      @include u-left('2px');
+      content: " ";
+      @include u-display('inline-block');
+      @include u-width(0);
+      @include u-height(0);
+      border-style: solid;
+      border-width: 11px 0 11px 20px;
+      border-color: transparent transparent transparent #fff;
+    }
+    &:hover .play{
+      background-color: rgba(229, 34, 7, .85); // red-50v #e52207
+    }
+  }
+}

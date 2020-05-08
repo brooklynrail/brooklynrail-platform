@@ -1,0 +1,19 @@
+.youtube-player {
+  @include u-margin(0);
+  @include u-position('relative');
+  padding-bottom: 56.23%;
+  /* Use 75% for 4:3 videos */
+  @include u-height(0);
+  overflow: hidden;
+  @include u-maxw('full');
+  @include u-bg('indigo-warm-90');
+  iframe {
+    @include u-position('absolute');
+    @include u-top(0);
+    @include u-left(0);
+    @include u-width('full');
+    @include u-height('full');
+    z-index: 100;
+    background: transparent;
+  }
+}
