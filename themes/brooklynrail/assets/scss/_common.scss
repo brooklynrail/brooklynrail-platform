@@ -60,8 +60,8 @@ a.u-white {
 a.overlay{
   display:contents;
   @include u-text('no-underline');
-  .hover{
-    &:hover{
+  &:hover{
+    .hover{
       @include u-text('underline');
     }
   }
