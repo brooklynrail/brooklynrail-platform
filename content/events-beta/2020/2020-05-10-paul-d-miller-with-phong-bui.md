@@ -24,4 +24,4 @@ We believe it is more important than ever to engage in alternative modes of soci
 
 **In the _Rail_**
 
-/ [The Rebirth of DJ Spooky] (https://brooklynrail.org/2004/09/music/the-rebirth-of-dj-spooky)
+-   [The Rebirth of DJ Spooky] (https://brooklynrail.org/2004/09/music/the-rebirth-of-dj-spooky) (Sept 2004)
