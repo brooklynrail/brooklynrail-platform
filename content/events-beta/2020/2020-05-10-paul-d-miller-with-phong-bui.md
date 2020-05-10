@@ -1,14 +1,14 @@
 ---
 kicker: The New Social Environment
-title: Paul D. Miller with Phong Bui
-summary: Multimedia Artist **Paul D. Miller** with host **Phong Bui**, discuss
-  creative life in the context of our new social reality.
+title: Chuck Smith with Phong Bui
+summary: Filmmaker **Chiuck Smith** with host **Phong Bui**, discuss creative
+  life in the context of our new social reality.
 event_host: The Brooklyn Rail
 event_organizer: The Brooklyn Rail
-youtube_id: nHy9DzoktpU
+youtube_id: xMh-SMqMoTw
 youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
-date: 2020-05-10 10:41:00 -0500
-end_date: true
+date: 2020-03-20 13:00:00 -0500
+end_date: 2020-03-20 14:00:00 -0500
 event_platform:
   - zoom
 ---
@@ -18,7 +18,7 @@ In response to the imminent crisis of the COVID-19 pandemic the _Brooklyn Rail_ 
 
 We believe it is more important than ever to engage in alternative modes of social participation.
 
-**Paul D. Miller, aka DJ Spooky,** is a composer, multimedia artist, and writer whose work immerses audiences in a blend of genres, global culture, and environmental and social issues. Miller has collaborated with an array of recording artists, including Metallica, Chuck D, Steve Reich, and Yoko Ono. His 2018 album, DJ Spooky Presents: Phantom Dancehall, debuted at #3 on Billboard Reggae.
+**Chuck Smith** is the filmmaker behind Barbara _Rubin & the Exploding NY Underground_ and _Forrest Bess: Key to the Riddle_.
 
 **Phong Bui** is Publisher and Artistic Director of the _Brooklyn Rail_.
 
