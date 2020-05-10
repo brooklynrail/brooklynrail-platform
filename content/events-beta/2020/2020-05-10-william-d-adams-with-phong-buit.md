@@ -1,6 +1,6 @@
 ---
 kicker: The New Social Environment
-title: William D. Adams with Phong Buit
+title: William D. Adams with Phong Bui
 deck: ""
 summary: Artist **William D. Adams** with writer **Phong Bui**, discuss creative
   life in the context of our new social reality.
