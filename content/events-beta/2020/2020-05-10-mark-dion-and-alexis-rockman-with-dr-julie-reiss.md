@@ -9,8 +9,8 @@ event_organizer: The Brooklyn Rail
 event_sponsor: Sperone Westwater Gallery
 youtube_id: VK_KILcCD-U&list
 youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
-date: 2020-04-13 13:00:00 -0500
-end_date: 2020-04-13 14:00:00 -0500
+date: 2020-04-10 13:00:00 -0500
+end_date: 2020-04-10 14:00:00 -0500
 event_platform:
   - zoom
 ---
