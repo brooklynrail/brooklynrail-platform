@@ -7,8 +7,8 @@ event_host: The Brooklyn Rail
 event_organizer: The Brooklyn Rail
 youtube_id: 0K-Cm0_tD7o
 youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
-date: 2020-05-10 11:55:00 -0500
-end_date: true
+date: 2020-05-10 13:00:00 -0500
+end_date: 2020-05-10 14:00:00 -0500
 event_platform:
   - zoom
 ---
