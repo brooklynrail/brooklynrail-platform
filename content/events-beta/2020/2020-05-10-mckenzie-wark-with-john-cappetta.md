@@ -1,14 +1,13 @@
 ---
 kicker: The New Social Environment
 title: McKenzie Wark with John Cappetta
-summary: Scholar **McKenzie Wark** with writer **John Cappetta**, discuss
-  creative life in the context of our new social reality.
+summary: Scholar **McKenzie Wark** with writer **John Cappetta**, discuss creative life in the context of our new social reality.
 event_host: The Brooklyn Rail
 event_organizer: The Brooklyn Rail
 youtube_id: ex59SJJw6Bs
 youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
-date: 2020-05-10 10:11:00 -0500
-end_date: true
+date: 2020-03-26 13:00:00 -0500
+end_date: 2020-03-26 14:00:00 -0500
 event_platform:
   - zoom
 ---
