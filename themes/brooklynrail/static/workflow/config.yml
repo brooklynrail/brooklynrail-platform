@@ -173,7 +173,7 @@ collections:
             searchFields: ["media", "title"]
             valueField: "{{slug}}"
             required: false
-            displayFields: ["media"]
+            displayFields: ["{{title}} — {{date}}"]
 
 
       - label: "Event Copy"
