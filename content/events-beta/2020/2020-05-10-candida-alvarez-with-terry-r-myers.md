@@ -12,6 +12,8 @@ end_date: 2020-03-24 14:00:00 -0500
 event_platform:
   - zoom
 ---
+
+
 Dearest Readers and Friends,
 
 In response to the imminent crisis of the COVID-19 pandemic the _Brooklyn Rail_ has shifted our operations online. Under these new circumstances, we remain dedicated to supporting our community of readers, writers, and artists.
