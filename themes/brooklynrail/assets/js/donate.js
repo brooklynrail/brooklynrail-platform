@@ -1,15 +1,14 @@
 jQuery(document).ready(function($) {
 	console.log('ready');
 	var errorText = "Failed. You have not been charged.";
-
+	console.log('YO');
 	// look out for submit events on the form
 	document.addEventListener("DOMContentLoaded", function(event) {
 		console.log('listening');
 		var submitButton = document.getElementById("giving-button");
-
 		var stripe = Stripe("STRIPE_PUBLISHABLE_TEST");
 
-		var form = document.getElementById("payment-form");
+		var form = document.getElementById("donate-form");
 		form.addEventListener("submit", function(event) {
 			event.preventDefault();
 			const buttonText = submitButton.innerText;
