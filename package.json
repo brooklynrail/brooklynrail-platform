@@ -19,9 +19,9 @@
   "main": "gulpfile.js",
   "scripts": {
     "local-assets": "gulp build && gulp watch",
-    "local-build": "hugo serve",
+    "local-build": "netlify-lambda && node -p 'process.env' && hugo serve",
     "workflow": "npx netlify-cms-proxy-server",
-    "netlify": "gulp build && netlify-lambda && netlify_functions && hugo build",
+    "netlify": "gulp build && netlify-lambda && hugo --gc --minify",
     "start": "npm-run-all --parallel local-assets local-build workflow",
     "test:pa11y": "pa11y-ci --config .pa11yci"
   },
