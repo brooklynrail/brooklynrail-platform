@@ -1,48 +1,54 @@
+// Serverless Stripe Dontate form
+// https://www.deanmontgomery.com/2019/09/18/building-a-serverless-donate-form/
+// Example: https://github.com/monty5811/donate-form
+
+// Environment variables:
+// - STRIPE_PUBLISHABLE
+// - STRIPE_PUBLISHABLE_TEST
+// - STRIPE_SECRET
+// - STRIPE_SECRET_TEST
+
 jQuery(document).ready(function($) {
-	console.log('ready');
 	var errorText = "Failed. You have not been charged.";
-	console.log('YO');
+
 	// look out for submit events on the form
-	document.addEventListener("DOMContentLoaded", function(event) {
-		console.log('listening');
-		var submitButton = document.getElementById("giving-button");
-		var stripe = Stripe("process.env.STRIPE_PUBLISHABLE_TEST");
+	var submitButton = document.getElementById("giving-button");
+	var stripe = Stripe("process.env.STRIPE_PUBLISHABLE_TEST");
+	var form = document.getElementById("donate-form");
 
-		var form = document.getElementById("donate-form");
-		form.addEventListener("submit", function(event) {
-			event.preventDefault();
-			const buttonText = submitButton.innerText;
-			submitButton.innerText = "Working...";
+	$('#giving-button').click(function(e){
+		e.preventDefault();
+		const buttonText = submitButton.innerText;
+		submitButton.innerText = "Working...";
 
-			var data = {
-				amount: document.getElementById("giving-amount").valueAsNumber * 100,
-			};
+		var data = {
+			amount: document.getElementById("giving-amount").valueAsNumber * 100,
+		};
+		console.log(data);
 
-			// create a stripe session by talking to our netlify function
-			$.ajax({
-				type: "POST",
-				url: "./netlify_functions/get_checkout_session/",
-				data: JSON.stringify(data),
-				success: function(data) {
-					// we got a response from our netlify function:
-					switch (data.status) {
-						case "session-created":
-							// it worked - send the user to checkout:
-							stripe
-								.redirectToCheckout({
-									sessionId: data.sessionId
-								})
-								.then(function(result) {
-									submitButton.innerText = result.error.message;
-								});
-							break;
-						default:
-							submitButton.innerText = errorText;
-					}
-				},
-				dataType: "json"
-			});
+		// create a stripe session by talking to our netlify function
+		$.ajax({
+			type: "POST",
+			url: "/netlify_functions/get_checkout_session.js",
+			data: JSON.stringify(data),
+			success: function(data) {
+				// we got a response from our netlify function:
+				switch (data.status) {
+					case "session-created":
+						// it worked - send the user to checkout:
+						stripe
+							.redirectToCheckout({
+								sessionId: data.sessionId
+							})
+							.then(function(result) {
+								submitButton.innerText = result.error.message;
+							});
+						break;
+					default:
+						submitButton.innerText = errorText;
+				}
+			},
+			dataType: "json"
 		});
 	});
-
 });

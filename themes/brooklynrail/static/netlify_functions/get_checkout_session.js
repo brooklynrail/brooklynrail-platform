@@ -1,3 +1,13 @@
+// Serverless Stripe Dontate form
+// https://www.deanmontgomery.com/2019/09/18/building-a-serverless-donate-form/
+// Example: https://github.com/monty5811/donate-form
+
+// Environment variables:
+// - STRIPE_PUBLISHABLE
+// - STRIPE_PUBLISHABLE_TEST
+// - STRIPE_SECRET
+// - STRIPE_SECRET_TEST
+
 const stripe = require("stripe")(process.env.STRIPE_SECRET_TEST); // get from ENV
 
 const headers = {
