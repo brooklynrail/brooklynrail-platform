@@ -6,7 +6,7 @@ jQuery(document).ready(function($) {
 	document.addEventListener("DOMContentLoaded", function(event) {
 		console.log('listening');
 		var submitButton = document.getElementById("giving-button");
-		var stripe = Stripe("STRIPE_PUBLISHABLE_TEST");
+		var stripe = Stripe("process.env.STRIPE_PUBLISHABLE_TEST");
 
 		var form = document.getElementById("donate-form");
 		form.addEventListener("submit", function(event) {
