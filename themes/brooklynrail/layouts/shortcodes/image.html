@@ -1,0 +1,30 @@
+{{- $data := (.Get "data") -}}
+{{- $image := index $.Site.Data.media $data -}}
+{{- $size := (.Get "size") -}}
+
+
+{{- with $image -}}
+  {{- template "figure" (dict "image" . "size" $size )  -}}
+{{- end -}}
+
+
+{{/* Template: figure */}}
+{{- define "figure" -}}
+  {{- $size := .size -}}
+  {{- with .image -}}
+  <figure class="media media-{{- $size -}}">
+    <img src="{{- .media -}}" alt="{{- .Alt -}}">
+    {{- with .caption -}}
+      {{- template "figcaption" (dict "caption" . )  -}}
+    {{- end -}}
+  </figure>
+  {{- end -}}
+{{- end -}}
+
+
+{{/* Template: figcaption */}}
+{{- define "figcaption" -}}
+  {{- with .caption -}}
+    <figcaption>{{- . | markdownify -}}</a></figcaption>
+  {{- end -}}
+{{- end -}}
