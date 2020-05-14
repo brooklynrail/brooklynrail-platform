@@ -24,6 +24,7 @@ jQuery(document).ready(function($) {
 		var data = {
 			amount: document.getElementById("giving-amount").valueAsNumber * 100,
 		};
+		var dataJson = JSON.stringify(data);
 		console.log(data);
 
 		// create a stripe session by talking to our netlify function
@@ -31,7 +32,10 @@ jQuery(document).ready(function($) {
 		$.ajax({
 			type: "POST",
 			url: "/.netlify/functions/get_checkout_session/",
-			data: JSON.stringify(data),
+			data: dataJson,
+			error: function(e) {
+    		console.log(e);
+  		},
 			success: function(data) {
 				console.log(data);
 				console.log('success');
