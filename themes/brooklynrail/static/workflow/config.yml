@@ -81,52 +81,52 @@ collections:
         name: "title"
         minimal: true
         widget: "string"
-        hint: "TKTK"
+        hint: "Keep it short and topical, no acronyms."
 
       - label: "Deck"
         name: "deck"
         minimal: true
         widget: "string"
-        hint: "TKTK"
+        hint: "A continuation of the headline, without repeating it. Think of this as the sentence you'd most like to tweet. You need to be able to read it outloud in a single breath."
         required: false
 
       - label: "Summary"
         name: "summary"
         minimal: true
         widget: "string"
-        default: "Artist **NAME_NAME** with writer **NAME_NAME**, discuss creative life in the context of our new social reality."
-        hint: "TKTK"
+        default: ""
+        hint: "One-sentence description of the event. _(e.g. Artist [Name] with writer [Name], discuss creative life in the context of our new social reality.)_"
+
+      - label: "Event Sponsor"
+        name: "event_sponsor"
+        widget: "string"
+        hint: "The name of the sponsor, no links."
+        required: false
 
       - label: "Event Host"
         name: "event_host"
         widget: "string"
-        hint: "TKTK"
+        hint: "The organizization that is responsible for the content of the talk (usually The Brooklyn Rail)"
         default: "The Brooklyn Rail"
         required: false
 
       - label: "Event Organizer"
         name: "event_organizer"
         widget: "string"
-        hint: "TKTK"
+        hint: "The organizization that is responsible for the production of the talk (usually The Brooklyn Rail)."
         default: "The Brooklyn Rail"
-        required: false
-
-      - label: "Event Sponsor"
-        name: "event_sponsor"
-        widget: "string"
-        hint: "TKTK"
         required: false
 
       - label: "Registration URL"
         name: "registration_url"
         widget: "string"
-        hint: "TKTK"
+        hint: "A link to Eventbrite, or where our readers are being asked to register. (e.g. https://www.eventbrite.com/...)"
         required: false
 
       - label: "YouTube ID"
         name: "youtube_id"
         widget: "string"
-        hint: "TKTK"
+        hint: "The YouTube ID is the string of characters between the `v=` and the `&` in the video URL. (e.g. `3FKyVeipMss`)"
         required: false
 
       - label: "YouTube Playlist ID"
@@ -165,7 +165,7 @@ collections:
       - label: "Featured Images"
         name: "featured_images"
         widget: "list"
-        hint: "Upload images through the OLD RAIL admin"
+        hint: "These are the images that will show up in social media."
         required: false
         fields:
           - label: "Media"
