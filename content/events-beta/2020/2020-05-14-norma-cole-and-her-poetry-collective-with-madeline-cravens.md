@@ -1,6 +1,6 @@
 ---
 kicker: The New Social Environment
-title: Norma Cole and her Poetry Collective
+title: Norma Cole with her Poetry Collective
 deck: With Dale Martin Smith, Susan Briante, Will Alexander, Laura Moriarty,
   Farid Matuk, Susan Gevirtz, Steve Seidenberg, Erín Moure, and Aaron Shurin.
 summary: Poet and April 2020 Guest Critic Norma Cole joins the _Rail_'s
