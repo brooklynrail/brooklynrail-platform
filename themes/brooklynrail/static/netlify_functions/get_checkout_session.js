@@ -33,8 +33,8 @@ exports.handler = function(event, context, callback) {
   // we need to provide a couple of redirect urls:
   stripe.checkout.sessions.create(
     {
-      success_url: "https://brooklynrail.netlify.com/success",
-      cancel_url: "https://brooklynrail.netlify.com/cancel",
+      success_url: "https://brooklynrail.netlify.app/success",
+      cancel_url: "https://brooklynrail.netlify.app/cancel",
       payment_method_types: ["card"],
       billing_address_collection: "required",
       payment_method_types: ["card"],
