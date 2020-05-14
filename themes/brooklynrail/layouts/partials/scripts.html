@@ -2,7 +2,7 @@
 <script async="true" src="{{- "dist/uswds.min.js" | absURL -}}"></script>
 <script async="true" src="{{- "dist/video.js" | absURL -}}"></script>
 
-{{- if and (eq .Section "donate-beta") (eq .Kind "page") -}}
+{{ if eq .Section "donate-beta" }}
 <script src="https://js.stripe.com/v3/"></script>
 <script src="{{- "dist/donate.js" | absURL -}}"></script>
-{{- end -}}
+{{ end }}
