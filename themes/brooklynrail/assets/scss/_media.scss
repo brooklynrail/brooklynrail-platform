@@ -1,0 +1,41 @@
+// Media
+
+.media{
+  @include u-margin(0);
+  figcaption{
+    @include u-padding-x('05');
+    @include u-font('sans', '3xs');
+    @include u-text('gray-60');
+    @include at-media('tablet-lg') {
+      @include u-font('sans', '2xs');
+    }
+  }
+}
+
+.media-sm{
+  @include u-width('card');
+}
+
+.media-md{
+  @include u-margin-top(2);
+  @include u-margin-left(2);
+  @include u-margin-bottom('105');
+  @include u-float('right');
+  @include u-width('card');
+  @include at-media('mobile-lg') {
+    @include u-margin-left(4);
+    @include u-margin-bottom(3);
+    @include u-width('card-lg');
+  }
+  @include at-media('tablet-lg') {
+    @include u-width('mobile');
+  }
+}
+
+.media-lg{
+  @include u-width('tablet-lg');
+}
+
+.media-xl{
+  @include u-width('tablet-lg');
+}

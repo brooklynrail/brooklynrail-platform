@@ -75,6 +75,7 @@
 
 @import "common";             // Common type styles
 @import "content";            // Content type styles
+@import "media";            // Content type styles
 
 @import "header";             // Site-wide header
 @import "main-nav";           // Site-wide navigation
@@ -84,7 +85,7 @@
 @import "events";             // events
 @import "stage-youtube";      // stage-youtube
 @import "youtube-card";
-@import "youtube-player";     
+@import "youtube-player";
 
 // Cards
 @import "cards/card-event";
