@@ -1,5 +1,6 @@
 [build]
 publish = "public"
+functions = "netlify_functions"
 command = "gulp build && hugo --gc --minify -b $URL"
 
 [context.production.environment]
