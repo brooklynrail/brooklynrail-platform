@@ -1,13 +1,10 @@
 /* Light YouTube Embeds by @labnol */
 /* Web: http://labnol.org/?p=27941 */
 
-console.log('video');
 if( document.readyState !== 'loading' ) {
-	console.log( 'document was not ready, place code here' );
   prep_video_card();
 } else {
   document.addEventListener('DOMContentLoaded', function () {
-    console.log( 'document was not ready, place code here' );
     prep_video_card();
   });
 }
