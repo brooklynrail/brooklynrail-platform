@@ -29,7 +29,7 @@ jQuery(document).ready(function($) {
 		// create a stripe session by talking to our netlify function
 		$.ajax({
 			type: "POST",
-			url: "/netlify_functions/get_checkout_session.js",
+			url: "/.netlify/functions/get_checkout_session/",
 			data: JSON.stringify(data),
 			success: function(data) {
 				console.log(data);
