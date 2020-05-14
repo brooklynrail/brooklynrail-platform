@@ -13,7 +13,7 @@ jQuery(document).ready(function($) {
 
 	// look out for submit events on the form
 	var submitButton = document.getElementById("giving-button");
-	var stripe = Stripe("process.env.STRIPE_PUBLISHABLE_TEST");
+	var stripe = Stripe("pk_test_ykFiEaft3Qg1H0Wew5lXhDvM00jXCg2uo5");
 	var form = document.getElementById("donate-form");
 
 	$('#giving-button').click(function(e){
