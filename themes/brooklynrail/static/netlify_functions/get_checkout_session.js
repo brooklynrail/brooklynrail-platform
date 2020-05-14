@@ -8,7 +8,7 @@
 // - STRIPE_SECRET
 // - STRIPE_SECRET_TEST
 
-const stripe = require("stripe")(process.env.STRIPE_SECRET_TEST); // get from ENV
+const stripe = require("stripe")(process.env.STRIPE_SECRET); // get from ENV
 
 const headers = {
   "Access-Control-Allow-Origin": "*",
