@@ -1,7 +1,7 @@
 [build]
   publish = "public"
   command = "gulp build && netlify-lambda && node -p 'process.env' && hugo --gc --minify -b $URL"
-  functions = "netlify_functions"
+  functions = "./netlify_functions"
 
 [context.production.environment]
 HUGO_VERSION = "0.69.0"
