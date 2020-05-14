@@ -31,7 +31,7 @@ jQuery(document).ready(function($) {
 		console.log('ajax');
 		$.ajax({
 			type: "POST",
-			url: "/.netlify/functions/get_checkout_session/",
+			url: "https://brooklynrail.netlify.app/.netlify/functions/get_checkout_session/",
 			data: dataJson,
 			error: function(e) {
     		console.log(e);
