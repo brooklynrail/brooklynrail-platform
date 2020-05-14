@@ -32,6 +32,8 @@ jQuery(document).ready(function($) {
 			url: "/netlify_functions/get_checkout_session.js",
 			data: JSON.stringify(data),
 			success: function(data) {
+				console.log(data);
+				console.log('success');
 				// we got a response from our netlify function:
 				switch (data.status) {
 					case "session-created":
