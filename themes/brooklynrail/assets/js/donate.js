@@ -1,10 +1,12 @@
 jQuery(document).ready(function($) {
-
+	console.log('ready');
 	var errorText = "Failed. You have not been charged.";
 
 	// look out for submit events on the form
 	document.addEventListener("DOMContentLoaded", function(event) {
+		console.log('listening');
 		var submitButton = document.getElementById("giving-button");
+
 		var stripe = Stripe("STRIPE_PUBLISHABLE_TEST");
 
 		var form = document.getElementById("payment-form");
@@ -20,7 +22,7 @@ jQuery(document).ready(function($) {
 			// create a stripe session by talking to our netlify function
 			$.ajax({
 				type: "POST",
-				url: "/netlify/get_checkout_session/",
+				url: "./netlify/get_checkout_session/",
 				data: JSON.stringify(data),
 				success: function(data) {
 					// we got a response from our netlify function:

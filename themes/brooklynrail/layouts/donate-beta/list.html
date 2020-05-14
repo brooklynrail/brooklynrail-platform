@@ -19,15 +19,10 @@
               {{/* <legend class="usa-legend">Donate</legend> */}}
               <label class="usa-label" for="title">Amount <span class="usa-hint"></span></label>
               <input class="usa-input" type="number" min="0" placeholder="$25" id="giving-amount" />
-
               <button class="btn btn-lg" id="giving-button">Donate</button>
             </fieldset>
           </form>
 
-
-          <script src="https://code.jquery.com/jquery-3.4.1.min.js" crossorigin="anonymous"></script>
-          <script src="https://js.stripe.com/v3/"></script>
-          <script async="true" src="{{- "dist/donate.js" | absURL -}}"></script>
         </div>
       </div>
     </div>
