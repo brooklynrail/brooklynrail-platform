@@ -16,13 +16,7 @@ const headers = {
 };
 
 exports.handler = function(event, context, callback) {
-  console.log('callback');
-  console.log(callback);
-  console.log('context');
-  console.log(context);
-  console.log('event');
-  console.log(event);
-  console.log(event.body);
+
   // some error checking:
   if (event.httpMethod !== "POST" || !event.body) {
     callback(null, {

@@ -25,20 +25,16 @@ jQuery(document).ready(function($) {
 			amount: document.getElementById("giving-amount").valueAsNumber * 100,
 		};
 		var dataJson = JSON.stringify(data);
-		console.log(data);
 
 		// create a stripe session by talking to our netlify function
-		console.log('ajax');
 		$.ajax({
 			type: "POST",
-			url: "https://brooklynrail.netlify.app/.netlify/functions/get_checkout_session/",
+			url: "https://brooklynrail.netlify.app/.netlify/functions/get_checkout_session",
 			data: dataJson,
 			error: function(e) {
     		console.log(e);
   		},
 			success: function(data) {
-				console.log(data);
-				console.log('success');
 				// we got a response from our netlify function:
 				switch (data.status) {
 					case "session-created":
