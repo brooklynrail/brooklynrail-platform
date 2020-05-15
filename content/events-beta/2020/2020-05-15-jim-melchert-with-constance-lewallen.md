@@ -3,7 +3,7 @@ title: Jim Melchert with Constance Lewallen
 summary: Artist Jim Melchert and curator Constance Lewallen discuss creative
   life in the context of our new social reality.
 date: 2020-05-18 13:00:00 -0500
-end_date: 2020-05-20 14:00
+end_date: 2020-05-20 14:00:00 -0500
 collections:
   - the-new-social-environment
 event_host: The Brooklyn Rail

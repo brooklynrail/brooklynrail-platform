@@ -2,8 +2,8 @@
 title: Matvey Levenstein with Jason Rosenfeld
 summary: Painter Matvey Levenstein and art historian Jason Rosenfeld discuss
   creative life in the context of our new social reality.
-date: 2020-05-20 13:00
-end_date: 2020-05-20 14:00
+date: 2020-05-20 13:00:00 -0500
+end_date: 2020-05-20 14:00:00 -0500
 collections:
   - the-new-social-environment
 event_sponsor: Kasmin Gallery
