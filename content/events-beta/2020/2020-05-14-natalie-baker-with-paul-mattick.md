@@ -1,17 +1,17 @@
 ---
-collections:
-  - the-new-social-environment
 title: Natalie Baker with Paul Mattick
 summary: Security Studies professor Natalie Baker and the _Rail_'s Field Notes
   editor Paul Mattick discuss creative life in the context of our new social
   reality.
+date: 2020-04-07 13:00:00 -0500
+end_date: 2020-04-07 14:00:00 -0500
+collections:
+  - the-new-social-environment
 event_host: The Brooklyn Rail
 event_organizer: The Brooklyn Rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-16-natalie-baker-tickets-101906133990#
 youtube_id: F3Q4M3Pmnw4
 youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
-date: 2020-05-14 17:28:00 -0500
-end_date: 2020-05-14 17:28:00 -0500
 event_platform:
   - zoom
   - youtube
