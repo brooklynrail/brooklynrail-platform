@@ -4,7 +4,7 @@ summary: Artist William D. Adams and the _Brooklyn Rail_’s publisher Phong Bui
   discuss creative life in the context of our new social reality.
 collections:
   - the-new-social-environment
-event_sponsor: Sikkema Jenkins & Co
+event_sponsor: Sikkema Jenkins & Co.
 event_host: The Brooklyn Rail
 event_organizer: The Brooklyn Rail
 youtube_id: SkSYOyb1dQ0
