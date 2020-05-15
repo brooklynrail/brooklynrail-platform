@@ -1,32 +1,28 @@
 ---
+title: Mark Dion and Alexis Rockman with Dr. Julie Reiss
+summary: Artists Mark Dion and Alexis Rockman and art historian Dr. Julie Reiss
+  discuss creative life in the context of our new social reality.
 collections:
   - the-new-social-environment
-title: Mark Dion and Alexis Rockman with Dr. Julie Reiss
-summary: Artists **Mark Dion** and **Alexis Rockman** with host their host art
-  historian **Dr. Julie Reiss**, discuss creative life in the context of our new
-  social reality.
+event_sponsor: Sperone Westwater Gallery
 event_host: The Brooklyn Rail
 event_organizer: The Brooklyn Rail
-event_sponsor: Sperone Westwater Gallery
-youtube_id: VK_KILcCD-U&list
+youtube_id: VK_KILcCD-U
 youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
 date: 2020-04-10 13:00:00 -0500
 end_date: 2020-04-10 14:00:00 -0500
 event_platform:
   - zoom
+  - youtube
 ---
 
-Dearest Readers and Friends,
 
-In response to the COVID-19 pandemic the Brooklyn Rail has shifted our operations online. Under these new circumstances, we remain dedicated to supporting our community of readers, writers, and artists.
-
-We believe it is more important than ever to engage in alternative modes of social participation.
 
 This Social Environment is supported by  [Sperone Westwater Gallery](https://www.speronewestwater.com/). We are deeply grateful for their support of the _Brooklyn Rail_ and our community.
 
-**Mark Dion**  is an artist whose work examines the ways in which dominant ideologies and public institutions shape our understanding of history, knowledge, and the natural world. His work has been exhibited widely, solo exhibitions include Mark Dion: Follies, at Storm King Sculpture Park (2019), Misadventures of a 21st Century Naturalist at the Institute of Contemporary Art Boston (2017), Mark Dion: The Academy of Things at The Academy of Fine Arts Design in Dresden, Germany (2014), The Macabre Treasury at Museum Het Domein in Sittard, The Netherlands (2013), among others. Dion has received numerous awards, including the ninth annual Larry Aldrich Foundation Award (2001) The Joan Mitchell Foundation Award (2007) and the Smithsonian American Art Museum's Lucida Art Award (2008). He is a professor at Columbia University.
+**Mark Dion**  is an artist whose work examines the ways in which dominant ideologies and public institutions shape our understanding of history, knowledge, and the natural world. His work has been exhibited widely, solo exhibitions include *Mark Dion: Follies*, at Storm King Sculpture Park (2019), *Misadventures of a 21st Century Naturalist* at the Institute of Contemporary Art Boston (2017), *Mark Dion: The Academy of Things* at The Academy of Fine Arts Design in Dresden, Germany (2014), *The Macabre Treasury* at Museum Het Domein in Sittard, The Netherlands (2013), among others. Dion has received numerous awards, including the ninth annual Larry Aldrich Foundation Award (2001) The Joan Mitchell Foundation Award (2007) and the Smithsonian American Art Museum's Lucida Art Award (2008). He is a professor at Columbia University.
 
-**Alexis Rockman**  is a painter of landscapes and ecological concerns. His work has been shown widely, Notable solo museum exhibitions include the recent touring exhibition “Alexis Rockman: The Great Lakes Cycle” at Grand Rapids Art Museum (2018) and “Alexis Rockman: Manifest Destiny” at the Brooklyn Museum (2004).
+**Alexis Rockman**  is a painter of landscapes and ecological concerns. His work has been shown widely, Notable solo museum exhibitions include the recent touring exhibition *Alexis Rockman: The Great Lakes Cycle* at Grand Rapids Art Museum (2018) and *Alexis Rockman: Manifest Destiny* at the Brooklyn Museum (2004).
 
 **Dr. Julie Reiss** is an art historian who directs a Master's program at Christie's Education. Julie has presented papers and chaired panels on issues related to art and climate change at conferences including the College Art Association and the Conference for the Council for European Studies. She is the author of  _From Margin to Center: The Spaces of Installation Art_  (1999) and the editor of  _Art, Theory and Practice in the Anthropocene_  (2018).
 
