@@ -70,12 +70,7 @@ collections:
     # - hint  — this is the helper text that occurrs below the field.
 
     fields: # The fields for each document, usually in frontmatter
-      - label: "Kicker"
-        name: "kicker"
-        widget: "string"
-        default: "The New Social Environment"
-        hint: "TKTK"
-        required: false
+
 
       - label: "Event Title"
         name: "title"
@@ -97,6 +92,12 @@ collections:
         default: ""
         hint: "One-sentence description of the event. _(e.g. Artist [Name] with writer [Name], discuss creative life in the context of our new social reality.)_"
 
+      - label: "Event Copy"
+        name: "body"
+        widget: "markdown"
+        editorComponents: ["image"]
+        required: false
+
       - label: "Collections"
         name: "collections"
         widget: "relation"
@@ -105,6 +106,7 @@ collections:
         searchFields: ["title"]
         valueField: "{{slug}}"
         displayFields: ["{{title}}"]
+        default: ["the-new-social-environment"]
         hint: "Select the collections this event should be included in."
         required: false
 
@@ -188,13 +190,6 @@ collections:
             valueField: "{{slug}}"
             required: false
             displayFields: ["{{title}} — {{date}}"]
-
-
-      - label: "Event Copy"
-        name: "body"
-        widget: "markdown"
-        editorComponents: ["image"]
-        required: false
 
 
   # AUTHORS Collection =======================
