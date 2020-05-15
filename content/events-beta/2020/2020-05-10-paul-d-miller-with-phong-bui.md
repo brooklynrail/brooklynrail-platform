@@ -1,7 +1,7 @@
 ---
 title: Chuck Smith with Phong Bui
-summary: Filmmaker Chuck Smith and host Phong Bui discuss creative life in the
-  context of our new social reality.
+summary: Filmmaker Chuck Smith and the _Brooklyn Rail's_ publisher Phong Bui
+  discuss creative life in the context of our new social reality.
 collections:
   - the-new-social-environment
 event_host: The Brooklyn Rail
