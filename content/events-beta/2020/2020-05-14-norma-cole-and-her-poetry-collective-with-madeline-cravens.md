@@ -1,14 +1,14 @@
 ---
-collections:
-  - the-new-social-environment
 title: Norma Cole with her Poetry Collective
 deck: Dale Martin Smith, Susan Briante, Will Alexander, Laura Moriarty, Farid
   Matuk, Susan Gevirtz, Steve Seidenberg, Erín Moure, and Aaron Shurin.
 summary: Poet and April 2020 Guest Critic Norma Cole joins the _Rail_'s
   Development and Outreach Associate Madeline Cravens for a poetry feast
-  featuring readinds from With Dale Martin Smith, Susan Briante, Will Alexander,
+  featuring readings from Dale Martin Smith, Susan Briante, Will Alexander,
   Laura Moriarty, Farid Matuk, Susan Gevirtz, Steve Seidenberg, Erín Moure, and
   Aaron Shurin.
+collections:
+  - the-new-social-environment
 event_host: The Brooklyn Rail
 event_organizer: The Brooklyn Rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-32-norma-cole-tickets-103249839048#
