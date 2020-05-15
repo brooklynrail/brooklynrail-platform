@@ -10,7 +10,7 @@ registration_url: https://www.eventbrite.com/e/the-new-social-environment-16-nat
 youtube_id: F3Q4M3Pmnw4
 youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
 date: 2020-05-14 17:28:00 -0500
-end_date: true
+end_date: 2020-05-14 17:28:00 -0500
 event_platform:
   - zoom
   - youtube

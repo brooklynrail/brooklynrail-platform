@@ -14,7 +14,7 @@ registration_url: https://www.eventbrite.com/e/the-new-social-environment-32-nor
 youtube_id: zCUUig-HAQA
 youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
 date: 2020-04-29 13:00:00 -0500
-end_date: true
+end_date: 2020-04-29 14:00:00 -0500
 event_platform:
   - zoom
   - youtube

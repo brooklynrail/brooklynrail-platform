@@ -8,7 +8,7 @@ event_organizer: The Brooklyn Rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-13-gina-telaroli-and-dan-sullivan-tickets-101363264252#
 youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
 date: 2020-04-02 13:00:00 -0500
-end_date: true
+end_date: 2020-04-02 14:00:00 -0500
 event_platform:
   - zoom
 ---

@@ -31,12 +31,6 @@ The following variables transform dates and times for the event `start_date` and
       </h2>
       {{- end -}}
 
-      {{- with .Params.Deck -}}
-      <p class="deck">
-        {{- . | markdownify -}}
-      </p>
-      {{- end -}}
-
       {{- if .Date -}}
       <div class="event-details">
         {{/* Start Date */}}
