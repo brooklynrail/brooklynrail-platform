@@ -15,6 +15,6 @@ event_platform:
   - zoom
   - youtube
 ---
-**Charles Bernstein**'s most recent book is *Near/Miss*, from the University of Chicago Press.
+**Charles Bernstein**’s most recent book is *Near/Miss*, from the University of Chicago Press.
 
 **Phong Bui** is Publisher and Artistic Director of the *Brooklyn Rail*.
