@@ -1,8 +1,8 @@
 ---
 title: Bryan Doerries with Lucas Kane and Shadi Ghaheri
-summary: Writer-director Bryan Doerries, director-choreographer Shadi Ghaheri,
-  and theater maker Lucas Kane discuss creative life in the context of our new
-  social reality.
+summary: Writer and director Bryan Doerries with director and choreographer
+  Shadi Ghaheri and theater maker Lucas Kane, discuss creative life in the
+  context of our new social reality.
 date: 2020-04-16 13:00:00 -0500
 end_date: 2020-04-16 14:00:00 -0500
 collections:
