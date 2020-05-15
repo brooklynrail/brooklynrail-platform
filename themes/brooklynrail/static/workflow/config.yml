@@ -98,6 +98,24 @@ collections:
         editorComponents: ["image"]
         required: false
 
+      - label: "Start time"
+        name: "date"
+        widget: "datetime"
+        dateFormat: "YYYY-MM-DD" # e.g. 2021-11.23
+        timeFormat: "HH:mm" # e.g. 21:00
+        format: "YYYY-MM-DD HH:mm:00 -0500"
+        default: "2020-05-20 13:00"
+        hint: "The start date and time of the event (Note: uses a 24hr clock, e.g. 13:00)"
+
+      - label: "End time"
+        name: "end_date"
+        widget: "datetime"
+        dateFormat: "YYYY-MM-DD" # e.g. 2021-11.23
+        timeFormat: "HH:mm" # e.g. 21:00
+        format: "YYYY-MM-DD HH:mm:00 -0500"
+        default: "2020-05-20 14:00"
+        hint: "The end date and time of the event (Note: uses a 24hr clock, e.g. 14:00)"
+
       - label: "Collections"
         name: "collections"
         widget: "relation"
@@ -149,22 +167,6 @@ collections:
         options: ["the-new-social-environment"]
         hint: "Select the YouTube playlist where you can find this video"
         default: ["the-new-social-environment"]
-        required: false
-
-      - label: "Start time"
-        name: "date"
-        widget: "datetime"
-        dateFormat: "YYYY-MM-DD" # e.g. 24.12.2021
-        timeFormat: "HH:mm" # e.g. 21:07
-        format: "YYYY-MM-DD HH:mm:00 -0500"
-
-      - label: "End time"
-        name: "end_date"
-        widget: "datetime"
-        dateFormat: "YYYY-MM-DD" # e.g. 24.12.2021
-        timeFormat: "HH:00" # e.g. 21:07
-        default: true
-        format: "YYYY-MM-DD HH:mm:00 -0500"
         required: false
 
       - label: "Event Platform"
