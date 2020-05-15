@@ -131,9 +131,12 @@ collections:
 
       - label: "YouTube Playlist ID"
         name: "youtube_playlist_id"
-        widget: "string"
-        default: "PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY"
-        hint: "TKTK"
+        widget: "select"
+        multiple: true
+        options: ["the-new-social-environment"]
+        hint: "Select the YouTube playlist where you can find this video"
+        default: ["the-new-social-environment"]
+
         required: false
 
       - label: "Start time"
@@ -160,7 +163,6 @@ collections:
         hint: "TKTK"
         default: ["zoom"]
         required: false
-
 
       - label: "Featured Images"
         name: "featured_images"
