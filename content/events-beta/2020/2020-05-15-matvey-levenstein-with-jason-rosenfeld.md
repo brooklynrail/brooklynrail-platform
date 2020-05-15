@@ -6,6 +6,7 @@ date: 2020-05-20 13:00
 end_date: 2020-05-20 14:00
 collections:
   - the-new-social-environment
+event_sponsor: Kasmin Gallery
 event_host: The Brooklyn Rail
 event_organizer: The Brooklyn Rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-49-matvey-levenstein-tickets-105304600896
