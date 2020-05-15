@@ -1,5 +1,6 @@
 ---
-kicker: The New Social Environment
+collections:
+  - the-new-social-environment
 title: Peter Brook with Karen Brooks Hopkins and Bryan Doerries
 summary: Special guest **Peter Brook** and hosts **Karen Brooks Hopkins** and
   **Bryan Doerries** discuss creative life in the context of our new social

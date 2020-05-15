@@ -1,5 +1,6 @@
 ---
-kicker: The New Social Environment
+collections:
+  - the-new-social-environment
 title: Norma Cole with her Poetry Collective
 deck: Dale Martin Smith, Susan Briante, Will Alexander, Laura Moriarty, Farid
   Matuk, Susan Gevirtz, Steve Seidenberg, Erín Moure, and Aaron Shurin.

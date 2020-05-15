@@ -1,5 +1,6 @@
 ---
-kicker: The New Social Environment
+collections:
+  - the-new-social-environment
 title: RoseLee Goldberg with Paul D. Miller
 summary: Founding Director/Chief Curator of the Performa Biennial **RoseLee
   Goldberg** with writer and musician **Paul D. Miller**, discuss creative life

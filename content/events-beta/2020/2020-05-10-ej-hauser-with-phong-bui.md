@@ -1,5 +1,6 @@
 ---
-kicker: The New Social Environment
+collections:
+  - the-new-social-environment
 title: EJ Hauser with Phong Bui
 summary: Artist **EJ HauserE** with host **Phong Bui**, discuss creative life in
   the context of our new social reality.

@@ -1,5 +1,6 @@
 ---
-kicker: The New Social Environment
+collections:
+  - the-new-social-environment
 title: Mark Dion and Alexis Rockman with Dr. Julie Reiss
 summary: Artists **Mark Dion** and **Alexis Rockman** with host their host art
   historian **Dr. Julie Reiss**, discuss creative life in the context of our new

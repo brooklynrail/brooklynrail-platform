@@ -1,5 +1,6 @@
 ---
-kicker: The New Social Environment
+collections:
+  - the-new-social-environment
 title: Julian Schnabel with Phong Bui
 summary: Artist **Julian Schnabel** with the _Brooklyn Rail's_ publisher **Phong
   Bui**, discuss creative life in the context of our new social reality.

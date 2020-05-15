@@ -1,5 +1,6 @@
 ---
-kicker: The New Social Environment
+collections:
+  - the-new-social-environment
 title: Dr. Vandana Shiva with Lauren Bon
 summary: Join us for a live conversation with special guest Dr. Vandana Shiva
   and Lauren Bon of Metabolic Studio to discuss creative life in the context of

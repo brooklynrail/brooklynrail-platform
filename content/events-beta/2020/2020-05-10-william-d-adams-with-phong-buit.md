@@ -1,7 +1,8 @@
 ---
-kicker: The New Social Environment
+collections:
+  - the-new-social-environment
 title: William D. Adams with Phong Bui
-deck: ""
+
 summary: Artist **William D. Adams** with writer **Phong Bui**, discuss creative
   life in the context of our new social reality.
 event_host: The Brooklyn Rail

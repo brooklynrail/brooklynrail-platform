@@ -1,5 +1,6 @@
 ---
-kicker: The New Social Environment
+collections:
+  - the-new-social-environment
 title: Adam Walker with George Grella
 summary: Concert flautist **Adam Walker** with host **George Grella**, discuss
   creative life in the context of our new social reality.

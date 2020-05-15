@@ -24,6 +24,13 @@ permalinks:
   article               : ":year/:month/:day/:slug/"
   events                : "events/:year/:month/:day/:slug/"
 
+# Taxonomies 
+taxonomies:
+  collection: collections
+  people: people
+  orgs: org
+
+
 # Site Parameters
 .params:
   issue: "May 2020"

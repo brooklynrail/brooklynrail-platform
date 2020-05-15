@@ -1,5 +1,6 @@
 ---
-kicker: The New Social Environment
+collections:
+  - the-new-social-environment
 title: Limor Tomer and Mark Lubell with Paul Miller, _aka DJ Spooky_
 summary: "**Limor Tomer** and **Mark Lubell** with **Paul Miller, _aka DJ
   Spooky_** , discuss creative life in the context of our new social reality."

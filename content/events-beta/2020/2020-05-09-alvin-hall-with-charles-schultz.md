@@ -1,5 +1,6 @@
 ---
-kicker: The New Social Environment
+collections:
+  - the-new-social-environment
 title: Alvin Hall with Charles Schultz
 summary: Author **Alvin Hall** with the _Brooklyn Rail's_ managing editor
   **Charles Schultz**, discuss creative life in the context of our new social

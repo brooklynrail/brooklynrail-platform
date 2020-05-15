@@ -1,5 +1,6 @@
 ---
-kicker: The New Social Environment
+collections:
+  - the-new-social-environment
 title: Lauren Bon with Phong Bui
 summary: Artist **Lauren Bon** with **Phong Bui**, Publisher of the Brooklyn
   Rail discuss creative life in the context of our new social reality.

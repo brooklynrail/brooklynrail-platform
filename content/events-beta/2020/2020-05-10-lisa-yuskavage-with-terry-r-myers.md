@@ -1,5 +1,6 @@
 ---
-kicker: The New Social Environment
+collections:
+  - the-new-social-environment
 title: Lisa Yuskavage with Terry R. Myers
 summary: Painter **Lis Yuskavage** with host **Terry R. Myers**, discuss
   creative life in the context of our new social reality.

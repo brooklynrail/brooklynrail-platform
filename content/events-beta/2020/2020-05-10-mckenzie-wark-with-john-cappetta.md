@@ -1,5 +1,6 @@
 ---
-kicker: The New Social Environment
+collections:
+  - the-new-social-environment
 title: McKenzie Wark with John Cappetta
 summary: Scholar **McKenzie Wark** with writer **John Cappetta**, discuss creative life in the context of our new social reality.
 event_host: The Brooklyn Rail

@@ -97,6 +97,17 @@ collections:
         default: ""
         hint: "One-sentence description of the event. _(e.g. Artist [Name] with writer [Name], discuss creative life in the context of our new social reality.)_"
 
+      - label: "Collections"
+        name: "collections"
+        widget: "relation"
+        multiple: true
+        collection: "collections"
+        searchFields: ["title"]
+        valueField: "{{slug}}"
+        displayFields: ["{{title}}"]
+        hint: "Select the collections this event should be included in."
+        required: false
+
       - label: "Event Sponsor"
         name: "event_sponsor"
         widget: "string"
@@ -136,7 +147,6 @@ collections:
         options: ["the-new-social-environment"]
         hint: "Select the YouTube playlist where you can find this video"
         default: ["the-new-social-environment"]
-
         required: false
 
       - label: "Start time"
@@ -277,7 +287,7 @@ collections:
     label_singular: "Media"
     description: "TKTK"
     folder: "data/media/" # path to the folder where files are stored
-    # path: "{{year}}/{{month}}"
+    path: "{{year}}/{{month}}"
     extension: "yml"
     create: true # Allow users to create new documents in this collection
     identifier_field: title # sets the field that is used to create the slug
@@ -322,3 +332,39 @@ collections:
         dateFormat: "YYYY-MM-DD" # e.g. 24.12.2021
         timeFormat: "HH:mm" # e.g. 21:07
         format: "YYYY-MM-DD HH:mm:00 -0500"
+
+
+
+  # Collections Collection =======================
+  # NOTE: the word "collection" is being used in the RAIL site as a replacement for section. It is also a word to describe a grouping of content in Netlify CMS.
+
+  - name: "collections" # Used in routes, e.g., /workflow/collections/blog
+    label: "Collections" # Used in the UI
+    label_singular: "Collection"
+    description: "A group of similar content."
+    folder: "content/collections" # path to the folder where files are stored
+    path: "{{slug}}/_index" # custom file path
+    create: true # Allow users to create new documents in this collection
+    identifier_field: title # sets the field that is used to create the slug
+    slug: "{{slug}}"
+
+    fields: # The fields for each document, usually in frontmatter
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        hint: "TKTK"
+
+      - label: "Deck"
+        name: "deck"
+        widget: "string"
+        hint: "TKTK"
+
+      - label: "Summary"
+        name: "summary"
+        widget: "string"
+        hint: "TKTK"
+
+      - label: "YouTube Playlist ID"
+        name: "youtube_playlist_id"
+        widget: "string"
+        hint: "TKTK"

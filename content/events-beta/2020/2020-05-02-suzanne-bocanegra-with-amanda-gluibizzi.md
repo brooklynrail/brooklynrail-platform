@@ -1,5 +1,6 @@
 ---
-kicker: The New Social Environment
+collections:
+  - the-new-social-environment
 title: Suzanne Bocanegra with Amanda Gluibizzi
 summary: Join us for a live conversation with special guest Suzanne Bocanegra
   and host Amanda Gluibizzi to discuss creative life in the context of our new

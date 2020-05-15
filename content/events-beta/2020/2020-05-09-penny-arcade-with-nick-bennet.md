@@ -1,5 +1,6 @@
 ---
-kicker: The New Social Environment
+collections:
+  - the-new-social-environment
 title: Penny Arcade with Nick Bennet
 summary: Artist **Penny Arcade** with writer **Nick Bennet**, discuss creative
   life in the context of our new social reality.

@@ -1,5 +1,6 @@
 ---
-kicker: The New Social Environment
+collections:
+  - the-new-social-environment
 title: Charles Bernstein with Phong Bui
 summary: Poet **Charles Bernstein** with host **Phong Bui**, discuss creative
   life in the context of our new social reality.

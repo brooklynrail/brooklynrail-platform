@@ -1,5 +1,6 @@
 ---
-kicker: The New Social Environment
+collections:
+  - the-new-social-environment
 title: Cecily Brown with Jason Rosenfeld
 summary: Painter **Cecily Brown** with writer **Jason Rosenfeld**, discuss
   creative life in the context of our new social reality.

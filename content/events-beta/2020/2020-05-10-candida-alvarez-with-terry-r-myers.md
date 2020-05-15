@@ -1,5 +1,6 @@
 ---
-kicker: The New Social Environment
+collections:
+  - the-new-social-environment
 title: Candida Alvarez with Terry R. Myers
 summary: Painter **Candida Alvarez** with critic **Terry R. Myers**, discuss
   creative life in the context of our new social reality.

@@ -1,5 +1,6 @@
 ---
-kicker: The New Social Environment
+collections:
+  - the-new-social-environment
 title: Stanley Whitney with Tom McGlynn
 summary: Artist **Stanley Whitney** and host **Tom McGlynn**, Arts Editor at the
   Brooklyn Rail discuss creative life in the context of our new social reality.

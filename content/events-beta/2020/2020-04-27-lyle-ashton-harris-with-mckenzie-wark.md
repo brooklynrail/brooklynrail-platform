@@ -1,5 +1,6 @@
 ---
-kicker: The New Social Environment
+collections:
+  - the-new-social-environment
 title: Lyle Ashton Harris with McKenzie Wark
 summary: Artist **Lyle Ashton Harris** and writer and scholar **McKenzie Wark**
   discuss creative life in the context of our new social reality.

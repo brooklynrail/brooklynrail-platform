@@ -1,7 +1,8 @@
 ---
-kicker: The New Social Environment
+collections:
+  - the-new-social-environment
 title: Ann Lauterbach with Anselm Berrigan
-deck: ""
+
 summary: Poet **Ann Lauterbach** with the _Rail's_  poetry editor **Anselm
   Berrigan**, discuss creative life in the context of our new social reality.
 event_host: The Brooklyn Rail

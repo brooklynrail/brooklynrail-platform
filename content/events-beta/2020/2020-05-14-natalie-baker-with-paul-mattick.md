@@ -1,5 +1,6 @@
 ---
-kicker: The New Social Environment
+collections:
+  - the-new-social-environment
 title: Natalie Baker with Paul Mattick
 summary: Security Studies professor Natalie Baker and the _Rail_'s Field Notes
   editor Paul Mattick discuss creative life in the context of our new social

@@ -1,5 +1,6 @@
 ---
-kicker: The New Social Environment
+collections:
+  - the-new-social-environment
 title: Paul Soulellis with Megan N. Liberty
 summary: Artist and educator **Paul Soulellis** with _RAIL_ editor **Megan N.
   Liberty** discuss creative life in the context of our new social reality.

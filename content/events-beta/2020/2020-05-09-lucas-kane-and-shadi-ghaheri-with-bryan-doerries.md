@@ -1,5 +1,6 @@
 ---
-kicker: The New Social Environment
+collections:
+  - the-new-social-environment
 title: Lucas Kane and Shadi Ghaheri with Bryan Doerries
 summary: Theater maker **Lucas Kane** and writer and director **Shadi Ghaheri**
   with **Bryan Doerries**, discuss creative life in the context of our new

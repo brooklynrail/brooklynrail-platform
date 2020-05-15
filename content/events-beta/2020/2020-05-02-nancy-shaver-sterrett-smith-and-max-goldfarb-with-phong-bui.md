@@ -1,5 +1,6 @@
 ---
-kicker: The New Social Environment
+collections:
+  - the-new-social-environment
 title: Nancy Shaver, Sterrett Smith, and Max Goldfarb with Phong Bui
 summary: Join us for a live conversation with special guests Nancy Shaver,
   Sterrett Smith, and Max Goldfarb with Phong Bui, publisher of the _Rail_ to

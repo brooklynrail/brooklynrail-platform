@@ -1,5 +1,6 @@
 ---
-kicker: The New Social Environment
+collections:
+  - the-new-social-environment
 title: Jessamine Batario with Phong Bui
 summary: Art Historian **Jessamine Batario** with host **Phong Bui**, discuss
   creative life in the context of our new social reality.

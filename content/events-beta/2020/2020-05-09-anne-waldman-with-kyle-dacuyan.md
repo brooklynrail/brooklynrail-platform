@@ -1,5 +1,6 @@
 ---
-kicker: The New Social Environment
+collections:
+  - the-new-social-environment
 title: Anne Waldman with Kyle Dacuyan
 summary: Poet **Anne Waldman** with poet **Kyle Dacuyan** discuss creative life
   in the context of our new social reality.

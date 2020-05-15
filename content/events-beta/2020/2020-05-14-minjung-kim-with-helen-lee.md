@@ -1,5 +1,6 @@
 ---
-kicker: The New Social Environment
+collections:
+  - the-new-social-environment
 title: Minjung Kim with Helen Lee
 summary: Artist Minjung Kim and _Rail_ board member Helen Lee discuss creative
   life in the context of our new social reality.

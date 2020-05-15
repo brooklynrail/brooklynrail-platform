@@ -1,5 +1,6 @@
 ---
-kicker: The New Social Environment
+collections:
+  - the-new-social-environment
 title: Steve Silberman with Raymond Foye
 summary: Join us for a live conversation with special guest Steve Silberman and
   host Raymond Foye to discuss creative life in the context of our new social

@@ -1,5 +1,6 @@
 ---
-kicker: The New Social Environment
+collections:
+  - the-new-social-environment
 title: Dorothea Rockburne with Phyllis Tuchman
 summary: Artist **Dorothea Rockburne** and writer, curator **Phyllis Tuchman**
   discuss creative life in the context of our new social reality.
