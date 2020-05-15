@@ -1,6 +1,6 @@
 ---
 title: Gina Telaroli and Dan Sullivan
-summary: The _Rail_'s Film Editors Gina Telaroli and Dan Sullivan discuss
+summary: The _Rail_’s Film Editors Gina Telaroli and Dan Sullivan discuss
   creative life in the context of our new social reality.
 collections:
   - the-new-social-environment
