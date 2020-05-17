@@ -31,7 +31,7 @@ backend:
 
 # Media / Images
 # This is where media will be stored in the repo
-media_folder: "static/media"
+media_folder: "/static/media/{{year}}/{{month}}/"
 # Path for uploaded media on the live site
 public_folder: "/media"
 
@@ -55,8 +55,7 @@ collections:
     label_singular: "Event"
     description: "TKTK"
     folder: "content/events-beta" # path to the folder where files are stored
-    media_folder: "static/media"
-    public_folder: "/media"
+    media_folder: "/static/media/{{year}}/{{month}}/"
     path: "{{year}}/{{year}}-{{month}}-{{day}}-{{slug}}" # custom file path
     create: true # Allow users to create new documents in this collection
     identifier_field: title # sets the field that is used to create the slug
@@ -70,8 +69,6 @@ collections:
     # - hint  — this is the helper text that occurrs below the field.
 
     fields: # The fields for each document, usually in frontmatter
-
-
       - label: "Event Title"
         name: "title"
         minimal: true
@@ -284,17 +281,20 @@ collections:
     label_singular: "Media"
     description: "TKTK"
     folder: "data/media/" # path to the folder where files are stored
-    path: "{{year}}/{{month}}"
+    media_folder: "/static/media/{{year}}/{{month}}/"
+    public_folder: "/media"
+    path: "{{year}}/{{month}}/{{slug}}"
     extension: "yml"
     create: true # Allow users to create new documents in this collection
     identifier_field: title # sets the field that is used to create the slug
-    slug: "{{year}}-{{month}}-{{slug}}"
+    slug: "{{title}}"
     summary: "{{title}} ({{year}}-{{month}})"
 
     fields: # The fields for each document, usually in frontmatter
       - label: "Media"
         name: "media"
         widget: "image"
+        filename: "{{title}}"
         hint: "TKTK"
         prompt: true
         media_library:
