@@ -1,9 +1,41 @@
+{{/*
+
+Image Shortcode
+{{< image media="2020/05/jim-melchert" size="md" >}}
+*/}}
+
+{{/* Gets the `media` data from the image shortcode */}}
 {{- $media := (.Get "media" | lower) -}}
-{{- $size := (.Get "size") -}}
+
+{{/* Gets the page data for this media in `/content/media` */}}
 {{- $image := .Site.GetPage "page" (print "media/" $media) -}}
 
+{{/* Gets the specified `size` of the image from the shortcode */}}
+{{- $size := (.Get "size") -}}
+
+
+{{/*
+Set the width of the images based on size.
+We'll pass these values into the query string at the end of the image URL.
+Netlify will crop the images to these widths
+https://docs.netlify.com/large-media/transform-images/#examples
+*/}}
+{{- $width := "1000" -}}
+{{- if eq $size "sm" -}}
+  {{- $width = "150" -}}
+{{- else if eq $size "md" -}}
+  {{- $width = "300" -}}
+{{- else if eq $size "lg" -}}
+  {{- $width = "600" -}}
+{{- else if eq $size "xl" -}}
+  {{- $width = "900" -}}
+{{- end -}}
+
+
+{{/* Checks for the image,
+then passes the image data to the figure template */}}
 {{- with $image -}}
-  {{- template "figure" (dict "image" . "size" $size )  -}}
+  {{- template "figure" (dict "image" . "size" $size "width" $width )  -}}
 {{- end -}}
 
 
@@ -11,9 +43,10 @@
 {{- define "figure" -}}
   {{- $size := .size -}}
   {{- $image := .image -}}
+  {{- $width := .width -}}
 
   <figure class="media media-{{- $size -}}">
-    <img src="{{- $image.Params.media -}}" alt="{{- $image.Params.alt -}}">
+    <img src="{{- $image.Params.media -}}?nf_resize=fit&w={{- $width -}}" alt="{{- $image.Params.alt -}}">
     {{- with $image.Params.caption -}}
       {{- template "figcaption" (dict "caption" . )  -}}
     {{- end -}}
