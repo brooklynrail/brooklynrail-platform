@@ -24,6 +24,7 @@ The following variables transform dates and times for the event `start_date` and
       {{/* {{ $collections_taxonomy }} */}}
 
 
+      {{/* Collection */}}
       {{- if .Params.collections -}}
         <p class="kicker">
         {{- range $collection := (.GetTerms "collections") -}}

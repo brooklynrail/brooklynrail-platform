@@ -13,10 +13,15 @@ The following variables transform dates and times for the event `start_date` and
 
         <div class="content">
 
-          {{- with .Params.kicker -}}
-          <p class="kicker">
-            {{- . -}}
-          </p>
+          {{/* Collection */}}
+          {{- if .Params.collections -}}
+            <p class="kicker">
+            {{- range $collection := (.GetTerms "collections") -}}
+              {{/* Gets the Topics page */}}
+              {{- $collection := $.Site.GetPage (printf "/%s/%s" "collections" $collection.Title) -}}
+              {{- $collection.Title -}}
+            {{- end -}}
+            </p>
           {{- end -}}
 
           {{- if .Params.Title -}}
@@ -70,7 +75,7 @@ The following variables transform dates and times for the event `start_date` and
 
             {{- if $event_platforms -}}
             <div class="event_platforms p-location">
-              <p><i class="fas fa-tv"></i>&nbsp;<i class="fas fa-headphones"></i>&nbsp;  
+              <p><i class="fas fa-tv"></i>&nbsp;<i class="fas fa-headphones"></i>&nbsp;
               {{ range $i, $e := $event_platforms -}}
                 {{- $platform := index $event_platform_data $e -}}
                 {{- if ne $i 0 }}, {{ end }}

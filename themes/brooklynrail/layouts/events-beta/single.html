@@ -25,10 +25,16 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
         <div class="grid-col-12 tablet:grid-col-9">
 
           <div class="content">
-            {{- with .Params.kicker -}}
-            <p class="kicker">
-              {{- . -}}
-            </p>
+
+            {{/* Collection */}}
+            {{- if .Params.collections -}}
+              <p class="kicker">
+              {{- range $collection := (.GetTerms "collections") -}}
+                {{/* Gets the Topics page */}}
+                {{- $collection := $.Site.GetPage (printf "/%s/%s" "collections" $collection.Title) -}}
+                {{- $collection.Title -}}
+              {{- end -}}
+              </p>
             {{- end -}}
 
             {{- with .Params.Title -}}
