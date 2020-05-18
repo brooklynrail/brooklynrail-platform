@@ -24,22 +24,29 @@ CMS.registerEditorComponent({
   ],
 
   // Pattern to identify a block as being an instance of this component
-  pattern: /{{< image data=\"(\S+)\" >}}/,
+  pattern: /{{< image media=\"(\S+)\" size=\"(\S+)\" >}}/,
   // Function to extract data elements from the regexp match
   fromBlock: function(match) {
+    console.log('match');
+    console.log(match);
+    console.log(match[1]);
+    console.log(match[2]);
     return {
-      id: match[1]
+      image: match[1],
+      size: match[2]
     };
   },
   // Function to create a text block from an instance of this component
   toBlock: function(obj) {
-    return '{{< image data="' + obj.image + '" size="'+obj.size+'" >}}';
+    console.log('obj');
+    console.log(obj);
+    return '{{< image media="' + obj.image + '" size="'+obj.size+'" >}}';
   },
   // Preview output for this component. Can either be a string or a React component
   // (component gives better render performance)
   toPreview: function(obj) {
     return (
-      '<img class="youtube" src="http://img.youtube.com/vi/' + obj.id + '/mqdefault.jpg" alt="Youtube Video"/>'
+      '<img class="youtube" src="http://img.youtube.com/vi/' + obj.image + '/mqdefault.jpg" alt="Youtube Video"/>'
     );
   }
 });

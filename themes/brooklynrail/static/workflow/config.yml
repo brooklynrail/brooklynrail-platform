@@ -286,11 +286,11 @@ collections:
     label: "Media" # Used in the UI
     label_singular: "Media"
     description: "TKTK"
-    folder: "data/media/" # path to the folder where files are stored
+    folder: "content/media/" # path to the folder where files are stored
     media_folder: "/static/media"
     public_folder: "/media"
     path: "{{year}}/{{month}}/{{slug}}"
-    extension: "yml"
+    extension: "md"
     create: true # Allow users to create new documents in this collection
     identifier_field: title # sets the field that is used to create the slug
     slug: "{{title}}"

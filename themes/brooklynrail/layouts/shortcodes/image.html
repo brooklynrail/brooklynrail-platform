@@ -1,7 +1,6 @@
-{{- $data := (.Get "data") -}}
-{{- $image := index $.Site.Data.media $data -}}
+{{- $media := (.Get "media" | lower) -}}
 {{- $size := (.Get "size") -}}
-
+{{- $image := .Site.GetPage "page" (print "media/" $media) -}}
 
 {{- with $image -}}
   {{- template "figure" (dict "image" . "size" $size )  -}}
@@ -11,14 +10,14 @@
 {{/* Template: figure */}}
 {{- define "figure" -}}
   {{- $size := .size -}}
-  {{- with .image -}}
+  {{- $image := .image -}}
+
   <figure class="media media-{{- $size -}}">
-    <img src="{{- .media -}}" alt="{{- .Alt -}}">
-    {{- with .caption -}}
+    <img src="{{- $image.Params.media -}}" alt="{{- $image.Params.alt -}}">
+    {{- with $image.Params.caption -}}
       {{- template "figcaption" (dict "caption" . )  -}}
     {{- end -}}
   </figure>
-  {{- end -}}
 {{- end -}}
 
 
