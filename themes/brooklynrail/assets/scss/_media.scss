@@ -2,6 +2,7 @@
 
 .media{
   @include u-margin(0);
+  @include clearfix;
   figcaption{
     @include u-padding-x('05');
     @include u-font('sans', '3xs');
