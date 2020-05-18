@@ -37,9 +37,9 @@ backend:
 # ====================================
 # Media
 # Where media will be stored in the repo
-media_folder: "/static/media"
+media_folder: "/static/media/files"
 # Path for uploaded media on the live site
-public_folder: "/media"
+public_folder: "/media/files"
 
 
 # ====================================
@@ -68,7 +68,6 @@ collections:
     label_singular: "Event"
     description: "TKTK"
     folder: "content/events-beta" # path to the folder where files are stored
-    # media_folder: "/static/media/{{year}}/{{month}}/"
     path: "{{year}}/{{year}}-{{month}}-{{day}}-{{slug}}" # custom file path
     create: true # Allow users to create new documents in this collection
     identifier_field: title # sets the field that is used to create the slug
@@ -287,9 +286,9 @@ collections:
     label_singular: "Media"
     description: "TKTK"
     folder: "content/media/" # path to the folder where files are stored
-    media_folder: "/static/media"
-    public_folder: "/media"
-    path: "{{year}}/{{month}}/{{slug}}"
+    media_folder: "/static/media/files/"
+    public_folder: "/media/files/"
+    path: "/{{year}}/{{month}}/{{slug}}"
     extension: "md"
     create: true # Allow users to create new documents in this collection
     identifier_field: title # sets the field that is used to create the slug
