@@ -1,8 +1,8 @@
 ---
 title: Dr. Vandana Shiva with Lauren Bon
-summary: Join us for a live conversation with special guest Dr. Vandana Shiva
-  and Lauren Bon of Metabolic Studio to discuss creative life in the context of
-  our new social reality.
+summary: Physicist and social activist Dr. Vandana Shiva with artist Lauren Bon
+  of Metabolic Studio to discuss creative life in the context of our new social
+  reality.
 date: 2020-05-07 13:00:00 -0500
 end_date: 2020-05-07 14:00:00 -0500
 collections:
