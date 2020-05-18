@@ -1,22 +1,25 @@
 ---
-collections:
-  - the-new-social-environment
 title: Dr. Vandana Shiva with Lauren Bon
 summary: Join us for a live conversation with special guest Dr. Vandana Shiva
   and Lauren Bon of Metabolic Studio to discuss creative life in the context of
   our new social reality.
-event_host: Metabolic Studio
-event_organizer: The Brooklyn Rail
-event_sponsor: ""
-registration_url: https://www.eventbrite.com/e/the-new-social-environment-38-dr-vandana-shiva-tickets-103929722598
-youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
 date: 2020-05-07 13:00:00 -0500
 end_date: 2020-05-07 14:00:00 -0500
+collections:
+  - the-new-social-environment
+event_sponsor: ""
+event_host: Metabolic Studio
+event_organizer: The Brooklyn Rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-38-dr-vandana-shiva-tickets-103929722598
+youtube_id: S1m2UoksXkA
+youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
 event_platform:
   - zoom
 featured_images:
-  - media: 2020-05-dr-vandana-shiva
+  - media: 2020/05/dr-vandana-shiva
 ---
+{{< image media="2020/05/dr-vandana-shiva" size="md" >}}
+
 **Dr. Vandana Shiva**  is an Indian physicist and social activist. Shiva founded the Research Foundation for Science, Technology, and Natural Resource Policy (RFSTN), an organization devoted to developing sustainable methods of agriculture, in 1982.
 
 She received a master’s degree in the philosophy of science from Guelph University, Ontario, in 1976. She earned her a doctorate from the department of philosophy at the University of Western Ontario in 1978. Shiva developed an interest in environmentalism during a visit home, where she discovered that a favourite childhood forest had been cleared and a stream drained so that an apple orchard could be planted. After completing her degrees, Shiva returned to India, where she worked for the Indian Institute of Science and the Indian Institute of Management. In 1982 she founded RFSTN, later renamed the Research Foundation for Science, Technology and Ecology (RFSTE).
