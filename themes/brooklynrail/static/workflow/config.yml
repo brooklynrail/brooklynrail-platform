@@ -1,20 +1,27 @@
 # The Brooklyn Rail / Editing Workflow
 # https://brooklynrail.org/workflow
 
-# ====================================
 
+# ====================================
 display_url: https://brooklynrail.org
 site_url: https://brooklynrail.org
 
 # logo_url — sets the logo in the admin
 logo_url: https://brooklynrail.org/images/dist/brooklynrail-logo-red.png
 
-# Backend and connections
+
+# ====================================
+# Account settings
 backend:
   name: git-gateway
   repo: brooklynrail/brooklynrail-platform
   site_domain: brooklynrail.netlify.com
   base_url: https://api.netlify.com
+
+
+  # ====================================
+  # Workflow -- NetlifyCMS editorial workflow tools
+  # publish_mode: editorial_workflow
   open_authoring: false # accept contributions (forks) from GitHub users
   branch: master
   squash_merges: true # squash all commits into a single commit when the PR is merged
@@ -26,19 +33,22 @@ backend:
     deleteMedia: 'Delete "{{path}}"'
     openAuthoring: "{{message}}, {{author-login}}"
 
-# Enables the NetlifyCMS editorial workflow tools
-# publish_mode: editorial_workflow
 
-# Media / Images
-# This is where media will be stored in the repo
-media_folder: "/static/media/{{year}}/{{month}}/"
+# ====================================
+# Media
+# Where media will be stored in the repo
+media_folder: "/static/media"
 # Path for uploaded media on the live site
 public_folder: "/media"
 
+
+# ====================================
+# Configuration
 # slug — sets how filenames for entries are created and sanitized.
 slug:
   encoding: "unicode"
   clean_accents: true
+
 
 # Localhost Editing
 # uses the local proxy server port set in the `npx netlify-cms-proxy-server` command
@@ -46,10 +56,13 @@ slug:
 local_backend:
   url: http://localhost:8081/api/v1
 
-# ==============================================
-# Content Collections
+# ====================================
+# Collections
 collections:
-  # EVENTS Collection =======================
+
+
+  # ====================================
+  # Events
   - name: "events-beta" # Used in routes, e.g., /workflow/collections/blog
     label: "Events" # Used in the UI
     label_singular: "Event"
@@ -60,13 +73,8 @@ collections:
     create: true # Allow users to create new documents in this collection
     identifier_field: title # sets the field that is used to create the slug
     slug: "{{slug}}"
-
-    # Field Settings
-    # - label     — the title that will appear above the field in the editor
-    # - name      — this is the key that will be used in the front matter
-    # - widget    — the type of field — See https://www.netlifycms.org/docs/widgets/ for all types
-    # - required  — all fields are required by default unless you include `required: false`
-    # - hint  — this is the helper text that occurrs below the field.
+    editor:
+      preview: false
 
     fields: # The fields for each document, usually in frontmatter
       - label: "Event Title"
@@ -191,7 +199,8 @@ collections:
             displayFields: ["{{title}} — {{date}}"]
 
 
-  # AUTHORS Collection =======================
+  # ====================================
+  # Authors
   - name: "authors" # Used in routes, e.g., /workflow/collections/blog
     label: "Authors" # Used in the UI
     label_singular: "Author"
@@ -201,13 +210,6 @@ collections:
     create: true # Allow users to create new documents in this collection
     identifier_field: display_name # sets the field that is used to create the slug
     slug: "{{slug}}"
-
-    # Field Settings
-    # - label     — the title that will appear above the field in the editor
-    # - name      — this is the key that will be used in the front matter
-    # - widget    — the type of field — See https://www.netlifycms.org/docs/widgets/ for all types
-    # - required  — all fields are required by default unless you include `required: false`
-    # - hint  — this is the helper text that occurrs below the field.
 
     fields: # The fields for each document, usually in frontmatter
       - label: "Display Name"
@@ -275,7 +277,10 @@ collections:
         widget: "string"
         required: false
 
-  # MEDIA Collection =======================
+
+  # ====================================
+  # Media
+
   - name: "media" # Used in routes, e.g., /workflow/collections/blog
     label: "Media" # Used in the UI
     label_singular: "Media"
@@ -289,6 +294,8 @@ collections:
     identifier_field: title # sets the field that is used to create the slug
     slug: "{{title}}"
     summary: "{{title}} ({{year}}-{{month}})"
+    editor:
+      preview: false
 
     fields: # The fields for each document, usually in frontmatter
       - label: "Media"
@@ -331,9 +338,9 @@ collections:
         format: "YYYY-MM-DD HH:mm:00 -0500"
 
 
-
-  # Collections Collection =======================
-  # NOTE: the word "collection" is being used in the RAIL site as a replacement for section. It is also a word to describe a grouping of content in Netlify CMS.
+  # ====================================
+  # Collections
+  # NOTE: the word "collection" is being used in the RAIL site as a replacement for section. It is also a word to describe a grouping of content in Netlify CMS. In this case, the specific name of the collection is 'collections'.
 
   - name: "collections" # Used in routes, e.g., /workflow/collections/blog
     label: "Collections" # Used in the UI
