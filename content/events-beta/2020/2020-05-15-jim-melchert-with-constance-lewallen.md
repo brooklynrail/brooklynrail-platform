@@ -28,6 +28,8 @@ Melchert was born in New Bremen, Ohio, in 1930 and received degrees from Princet
 * [Jim Melchert (Critics Page), Nov 2017](https://brooklynrail.org/2017/11/criticspage/Jim-Melchert)
 
 
+---
+
 
 {{< image media="2020/05/constance-lewallen" size="md" >}}
 
