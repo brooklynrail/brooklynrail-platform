@@ -68,11 +68,12 @@ collections:
     label_singular: "Event"
     description: "TKTK"
     folder: "content/events-beta" # path to the folder where files are stored
-    media_folder: "/static/media/{{year}}/{{month}}/"
+    # media_folder: "/static/media/{{year}}/{{month}}/"
     path: "{{year}}/{{year}}-{{month}}-{{day}}-{{slug}}" # custom file path
     create: true # Allow users to create new documents in this collection
     identifier_field: title # sets the field that is used to create the slug
     slug: "{{slug}}"
+    summary: "{{title}} ({{year}}-{{month}}-{{day}})"
     editor:
       preview: false
 
@@ -286,7 +287,7 @@ collections:
     label_singular: "Media"
     description: "TKTK"
     folder: "data/media/" # path to the folder where files are stored
-    media_folder: "/static/media/{{year}}/{{month}}/"
+    media_folder: "/static/media"
     public_folder: "/media"
     path: "{{year}}/{{month}}/{{slug}}"
     extension: "yml"
@@ -301,7 +302,6 @@ collections:
       - label: "Media"
         name: "media"
         widget: "image"
-        filename: "{{title}}"
         hint: "TKTK"
         prompt: true
         media_library:
