@@ -5,8 +5,10 @@ title: Steve Silberman with Raymond Foye
 summary: Join us for a live conversation with special guest Steve Silberman and
   host Raymond Foye to discuss creative life in the context of our new social
   reality.
-event_host: The Brooklyn Rail
-event_organizer: The Brooklyn Rail
+event_producer:
+  - the-brooklyn-rail
+event_organizer:
+  - the-brooklyn-rail
 event_sponsor: Derek Eller Gallery
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-36-nancy-shaver-sterrett-smith-max-goldfarb-tickets-103921162996
 youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY

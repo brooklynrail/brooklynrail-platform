@@ -6,8 +6,10 @@ date: 2020-05-01 13:00:00 -0500
 end_date: 2020-05-01 14:00:00 -0500
 collections:
   - the-new-social-environment
-event_host: The Brooklyn Rail
-event_organizer: The Brooklyn Rail
+event_producer:
+  - the-brooklyn-rail
+event_organizer:
+  - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-34-raha-raissnia-tickets-103262043552#
 youtube_id: G2H2N5WDTIs
 youtube_playlist_id:

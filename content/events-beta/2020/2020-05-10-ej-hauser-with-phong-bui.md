@@ -6,8 +6,10 @@ date: 2020-03-18 13:00:00 -0500
 end_date: 2020-03-18 14:00:00 -0500
 collections:
   - the-new-social-environment
-event_host: The Brooklyn Rail
-event_organizer: The Brooklyn Rail
+event_producer:
+  - the-brooklyn-rail
+event_organizer:
+  - the-brooklyn-rail
 youtube_id: 0K-Cm0_tD7o
 youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
 event_platform:

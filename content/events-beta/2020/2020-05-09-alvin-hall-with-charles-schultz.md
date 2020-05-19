@@ -4,8 +4,10 @@ summary: Author Alvin Hall and the _Brooklyn Rail_’s managing editor Charles
   Schultz discuss creative life in the context of our new social reality.
 collections:
   - the-new-social-environment
-event_host: The Brooklyn Rail
-event_organizer: The Brooklyn Rail
+event_producer:
+  - the-brooklyn-rail
+event_organizer:
+  - the-brooklyn-rail
 youtube_id: 8GhSP4NbGO8
 youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
 date: 2020-04-15 13:00:00 -0500

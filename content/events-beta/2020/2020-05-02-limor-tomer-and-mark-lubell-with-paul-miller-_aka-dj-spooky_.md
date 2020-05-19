@@ -4,8 +4,10 @@ collections:
 title: Limor Tomer and Mark Lubell with Paul Miller, _aka DJ Spooky_
 summary: "**Limor Tomer** and **Mark Lubell** with **Paul Miller, _aka DJ
   Spooky_** , discuss creative life in the context of our new social reality."
-event_host: The Brooklyn Rail
-event_organizer: The Brooklyn Rail
+event_producer:
+  - the-brooklyn-rail
+event_organizer:
+  - the-brooklyn-rail
 event_sponsor: ""
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-35-limor-tomer-and-mark-lubell-tickets-103547760138
 youtube_id: xhDUsL1O3sI

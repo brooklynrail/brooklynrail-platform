@@ -4,8 +4,10 @@ summary: Poet and essayist Erica Hunt and poet Charles Bernstein discuss
   creative life in the context of our new social reality.
 collections:
   - the-new-social-environment
-event_host: The Brooklyn Rail
-event_organizer: The Brooklyn Rail
+event_producer:
+  - the-brooklyn-rail
+event_organizer:
+  - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-10-erica-hunt-tickets-101359222162#
 youtube_id: 3IQ20uavlhg
 youtube_playlist_id:

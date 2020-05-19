@@ -5,8 +5,10 @@ title: Hettie Jones with Bob Holman
 summary: Poet Hettie Jones and _Rail_ contributor Bob Holman discuss creative
   life in the context of our new social reality.
 event_sponsor: Spoonbill and Sugartown Booksellers
-event_host: The Brooklyn Rail
-event_organizer: The Brooklyn Rail
+event_producer:
+  - the-brooklyn-rail
+event_organizer:
+  - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-24-hettie-jones-tickets-102384705410#
 youtube_id: e6La1gzUrAo
 youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY

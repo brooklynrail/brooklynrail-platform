@@ -4,8 +4,10 @@ collections:
 title: Stanley Whitney with Tom McGlynn
 summary: Artist **Stanley Whitney** and host **Tom McGlynn**, Arts Editor at the
   Brooklyn Rail discuss creative life in the context of our new social reality.
-event_host: The Brooklyn Rail
-event_organizer: The Brooklyn Rail
+event_producer:
+  - the-brooklyn-rail
+event_organizer:
+  - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-25-stanley-whitney-tickets-102899067882
 youtube_id: 8DfOqvOKIyw
 youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY

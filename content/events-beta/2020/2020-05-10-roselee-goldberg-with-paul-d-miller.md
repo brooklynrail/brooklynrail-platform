@@ -5,8 +5,10 @@ summary: Founding Director/Chief Curator of the Performa Biennial RoseLee
   context of our new social reality.
 collections:
   - the-new-social-environment
-event_host: The Brooklyn Rail
-event_organizer: The Brooklyn Rail
+event_producer:
+  - the-brooklyn-rail
+event_organizer:
+  - the-brooklyn-rail
 youtube_id: ONyakzC0VbQ
 youtube_playlist_id:
   - the-new-social-environment

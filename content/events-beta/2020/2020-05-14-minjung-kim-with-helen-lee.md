@@ -4,8 +4,10 @@ collections:
 title: Minjung Kim with Helen Lee
 summary: Artist Minjung Kim and _Rail_ board member Helen Lee discuss creative
   life in the context of our new social reality.
-event_host: The Brooklyn Rail
-event_organizer: The Brooklyn Rail
+event_producer:
+  - the-brooklyn-rail
+event_organizer:
+  - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-28-minjung-kim-tickets-102721909998#
 youtube_id: f92s9oLBOYc
 youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY

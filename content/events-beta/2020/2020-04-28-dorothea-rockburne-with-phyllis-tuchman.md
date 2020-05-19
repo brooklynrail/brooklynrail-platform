@@ -4,8 +4,10 @@ collections:
 title: Dorothea Rockburne with Phyllis Tuchman
 summary: Artist **Dorothea Rockburne** and writer, curator **Phyllis Tuchman**
   discuss creative life in the context of our new social reality.
-event_host: The Brooklyn Rail
-event_organizer: The Brooklyn Rail
+event_producer:
+  - the-brooklyn-rail
+event_organizer:
+  - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-30-lyle-ashton-harris-mckenzie-wark-tickets-103168923026
 youtube_id: FRwnafMlqdA
 youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY

@@ -9,8 +9,10 @@ summary: Poet and April 2020 Guest Critic Norma Cole joins the _Rail_'s
   Aaron Shurin.
 collections:
   - the-new-social-environment
-event_host: The Brooklyn Rail
-event_organizer: The Brooklyn Rail
+event_producer:
+  - the-brooklyn-rail
+event_organizer:
+  - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-32-norma-cole-tickets-103249839048#
 youtube_id: zCUUig-HAQA
 youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY

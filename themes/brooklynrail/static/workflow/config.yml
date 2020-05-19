@@ -121,6 +121,13 @@ collections:
         default: "2020-05-20 14:00"
         hint: "The end date and time of the event (Note: uses a 24hr clock, e.g. 14:00)"
 
+      - label: "Series number"
+        name: "series"
+        widget: "number"
+        valueType: "int"
+        min: 1
+        required: false
+
       - label: "Collections"
         name: "collections"
         widget: "relation"
@@ -135,23 +142,38 @@ collections:
 
       - label: "Event Sponsor"
         name: "event_sponsor"
-        widget: "string"
-        hint: "The name of the sponsor, no links."
-        required: false
-
-      - label: "Event Host"
-        name: "event_host"
-        widget: "string"
-        hint: "The organizization that is responsible for the content of the talk (usually The Brooklyn Rail)"
-        default: "The Brooklyn Rail"
+        widget: "relation"
+        multiple: true
+        collection: "organizations"
+        searchFields: ["name", "short_desc"]
+        valueField: "{{slug}}"
+        displayFields: ["{{name}}"]
+        default: ["the-brooklyn-rail"]
+        hint: "Select the organizations that are sponsoring this event."
         required: false
 
       - label: "Event Organizer"
         name: "event_organizer"
-        widget: "string"
-        hint: "The organizization that is responsible for the production of the talk (usually The Brooklyn Rail)."
-        default: "The Brooklyn Rail"
+        widget: "relation"
+        multiple: true
+        collection: "organizations"
+        searchFields: ["name", "short_desc"]
+        valueField: "{{slug}}"
+        displayFields: ["{{name}}"]
+        default: ["the-brooklyn-rail"]
+        hint: "Select the organizations that should be credited pulling togther the content of the talk."
         required: false
+
+      - label: "Event Producer"
+        name: "event_producer"
+        widget: "relation"
+        multiple: true
+        collection: "organizations"
+        searchFields: ["name", "short_desc"]
+        valueField: "{{slug}}"
+        displayFields: ["{{name}}"]
+        default: ["the-brooklyn-rail"]
+        hint: "Select the organization that should be credited with producing the event."
 
       - label: "Registration URL"
         name: "registration_url"
@@ -165,21 +187,12 @@ collections:
         hint: "The YouTube ID is the string of characters between the `v=` and the `&` in the video URL. (e.g. `3FKyVeipMss`)"
         required: false
 
-      - label: "YouTube Playlist ID"
-        name: "youtube_playlist_id"
-        widget: "select"
-        multiple: true
-        options: ["the-new-social-environment"]
-        hint: "Select the YouTube playlist where you can find this video"
-        default: ["the-new-social-environment"]
-        required: false
-
       - label: "Event Platform"
         name: "event_platform"
         widget: "select"
         multiple: true
         options: ["zoom", "youtube", "instagram_live", "igtv"]
-        hint: "TKTK"
+        hint: "Zoom, youtube, instagram_live, igtv"
         default: ["zoom"]
         required: false
 
@@ -198,84 +211,6 @@ collections:
             required: false
             displayFields: ["{{title}} — {{date}}"]
 
-
-  # ====================================
-  # Authors
-  - name: "authors" # Used in routes, e.g., /workflow/collections/blog
-    label: "Authors" # Used in the UI
-    label_singular: "Author"
-    description: "TKTK"
-    folder: "content/authors" # path to the folder where files are stored
-    path: "{{slug}}/_index" # custom file path
-    create: true # Allow users to create new documents in this collection
-    identifier_field: display_name # sets the field that is used to create the slug
-    slug: "{{slug}}"
-
-    fields: # The fields for each document, usually in frontmatter
-      - label: "Display Name"
-        name: "display_name"
-        widget: "string"
-        hint: "TKTK"
-
-      - label: "First Name"
-        name: "first_name"
-        widget: "string"
-        hint: "TKTK"
-
-      - label: "Last Name"
-        name: "last_name"
-        widget: "string"
-        hint: "TKTK"
-
-      - label: "Pronoun"
-        name: "pronoun"
-        widget: "string"
-        hint: "TKTK"
-        required: false
-
-      - label: "Email"
-        name: "email"
-        widget: "string"
-        hint: "TKTK"
-        required: false
-
-      - label: "Bio"
-        name: "bio"
-        widget: "text"
-        hint: "TKTK"
-        required: false
-
-      - label: "Bio URL"
-        name: "bio_url"
-        widget: "text"
-        hint: "Provide a full URL to where people can learn more about your work."
-        required: false
-
-      - label: "Twitter"
-        name: "twitter"
-        widget: "string"
-        hint: "Enter your username without the @ handle [e.g. brooklynrail]"
-        required: false
-
-      - label: "Facebook"
-        name: "facebook"
-        widget: "string"
-        required: false
-
-      - label: "Instagram"
-        name: "instagram"
-        widget: "string"
-        required: false
-
-      - label: "Linkedin"
-        name: "linkedIn"
-        widget: "string"
-        required: false
-
-      - label: "YouTube"
-        name: "youtube"
-        widget: "string"
-        required: false
 
 
   # ====================================
@@ -346,7 +281,7 @@ collections:
     label_singular: "Collection"
     description: "A group of similar content."
     folder: "content/collections" # path to the folder where files are stored
-    path: "{{slug}}/_index" # custom file path
+    path: "{{slug}}" # custom file path
     create: true # Allow users to create new documents in this collection
     identifier_field: title # sets the field that is used to create the slug
     slug: "{{slug}}"
@@ -371,3 +306,136 @@ collections:
         name: "youtube_playlist_id"
         widget: "string"
         hint: "TKTK"
+
+
+  # ====================================
+  # People
+
+  - name: "people" # Used in routes, e.g., /workflow/collections/blog
+    label: "People" # Used in the UI
+    label_singular: "People"
+    description: "People in the Rail community"
+    folder: "content/people" # path to the folder where files are stored
+    path: "{{slug}}" # custom file path
+    create: true # Allow users to create new documents in this collection
+    identifier_field: name # sets the field that is used to create the slug
+    slug: "{{slug}}"
+
+    fields: # The fields for each document, usually in frontmatter
+      - label: "Display Name"
+        name: "name"
+        widget: "string"
+        hint: "TKTK"
+
+      - label: "First Name"
+        name: "first_name"
+        widget: "string"
+        hint: "TKTK"
+        required: false
+
+      - label: "Last Name"
+        name: "last_name"
+        widget: "string"
+        hint: "TKTK"
+        required: false
+
+      - label: "Pronouns"
+        name: "pronouns"
+        widget: "string"
+        hint: "TKTK"
+        required: false
+
+      - label: "Short Bio"
+        name: "short_bio"
+        widget: "text"
+        hint: "TKTK"
+        required: false
+
+      - label: "Email"
+        name: "email"
+        widget: "string"
+        hint: "TKTK"
+        required: false
+
+      - label: "Website"
+        name: "website"
+        widget: "string"
+        hint: "TKTK"
+        required: false
+
+      - label: "Twitter"
+        name: "twitter"
+        widget: "string"
+        hint: "Enter your username without the @ handle [e.g. brooklynrail]"
+        required: false
+
+      - label: "Facebook"
+        name: "facebook"
+        widget: "string"
+        required: false
+
+      - label: "Instagram"
+        name: "instagram"
+        widget: "string"
+        required: false
+
+      - label: "Linkedin"
+        name: "linkedIn"
+        widget: "string"
+        required: false
+
+      - label: "YouTube"
+        name: "youtube"
+        widget: "string"
+        required: false
+
+
+
+  # ====================================
+  # Organizations
+
+  - name: "organizations" # Used in routes, e.g., /workflow/collections/blog
+    label: "Organizations" # Used in the UI
+    label_singular: "Organization"
+    description: "Organizations in the Rail community"
+    folder: "content/organizations" # path to the folder where files are stored
+    path: "{{slug}}" # custom file path
+    create: true # Allow users to create new documents in this collection
+    identifier_field: name # sets the field that is used to create the slug
+    slug: "{{slug}}"
+
+    fields: # The fields for each document, usually in frontmatter
+      - label: "Organization Name"
+        name: "name"
+        widget: "string"
+        hint: "TKTK"
+
+      - label: "Short description"
+        name: "short_desc"
+        widget: "text"
+        hint: "TKTK"
+        required: false
+
+      - label: "Primary Email"
+        name: "email"
+        widget: "string"
+        hint: "TKTK"
+        required: false
+
+      - label: "Website"
+        name: "website"
+        widget: "string"
+        hint: "TKTK"
+        required: false
+
+      - label: "Instagram"
+        name: "instagram"
+        widget: "string"
+        hint: "TKTK"
+        required: false
+
+      - label: "Twitter"
+        name: "twitter"
+        widget: "string"
+        hint: "TKTK"
+        required: false

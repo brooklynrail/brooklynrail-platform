@@ -4,8 +4,10 @@ summary: Painter Cecily Brown and writer Jason Rosenfeld discuss creative life
   in the context of our new social reality.
 collections:
   - the-new-social-environment
-event_host: The Brooklyn Rail
-event_organizer: The Brooklyn Rail
+event_producer:
+  - the-brooklyn-rail
+event_organizer:
+  - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-12-cecily-brown-tickets-101364568152#
 youtube_id: JQrWIVTLSr8
 youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY

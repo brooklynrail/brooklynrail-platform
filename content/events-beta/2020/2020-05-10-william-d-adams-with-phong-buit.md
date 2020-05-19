@@ -5,8 +5,10 @@ summary: Artist William D. Adams and the _Brooklyn Rail_’s publisher Phong Bui
 collections:
   - the-new-social-environment
 event_sponsor: Sikkema Jenkins & Co.
-event_host: The Brooklyn Rail
-event_organizer: The Brooklyn Rail
+event_producer:
+  - the-brooklyn-rail
+event_organizer:
+  - the-brooklyn-rail
 youtube_id: SkSYOyb1dQ0
 youtube_playlist_id:
   - the-new-social-environment

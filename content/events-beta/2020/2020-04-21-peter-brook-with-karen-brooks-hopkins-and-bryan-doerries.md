@@ -5,8 +5,10 @@ title: Peter Brook with Karen Brooks Hopkins and Bryan Doerries
 summary: Special guest **Peter Brook** and hosts **Karen Brooks Hopkins** and
   **Bryan Doerries** discuss creative life in the context of our new social
   reality.
-event_host: The Brooklyn Rail
-event_organizer: The Brooklyn Rail
+event_producer:
+  - the-brooklyn-rail
+event_organizer:
+  - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-26-peter-brook-tickets-102427515456
 youtube_id: ppNJeb6-dJI
 youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY

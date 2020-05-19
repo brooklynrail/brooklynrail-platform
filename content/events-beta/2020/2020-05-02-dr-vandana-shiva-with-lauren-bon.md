@@ -6,7 +6,7 @@ summary: Join us for a live conversation with special guest Dr. Vandana Shiva
   and Lauren Bon of Metabolic Studio to discuss creative life in the context of
   our new social reality.
 event_host: Metabolic Studio
-event_organizer: The Brooklyn Rail
+event_organizer: Metabolic Studio
 event_sponsor: ""
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-38-dr-vandana-shiva-tickets-103929722598
 youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY

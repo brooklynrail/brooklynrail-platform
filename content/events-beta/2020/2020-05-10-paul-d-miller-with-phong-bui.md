@@ -4,8 +4,10 @@ summary: Filmmaker Chuck Smith and the _Brooklyn Rail's_ publisher Phong Bui
   discuss creative life in the context of our new social reality.
 collections:
   - the-new-social-environment
-event_host: The Brooklyn Rail
-event_organizer: The Brooklyn Rail
+event_producer:
+  - the-brooklyn-rail
+event_organizer:
+  - the-brooklyn-rail
 youtube_id: xMh-SMqMoTw
 youtube_playlist_id:
   - the-new-social-environment
