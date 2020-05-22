@@ -2,22 +2,22 @@
 title: Norma Cole with her Poetry Collective
 deck: Dale Martin Smith, Susan Briante, Will Alexander, Laura Moriarty, Farid
   Matuk, Susan Gevirtz, Steve Seidenberg, Erín Moure, and Aaron Shurin.
-summary: Poet and April 2020 Guest Critic Norma Cole joins the _Rail_'s
+summary: Poet and April 2020 Guest Critic Norma Cole joins the _Rail_’s
   Development and Outreach Associate Madeline Cravens for a poetry feast
   featuring readings from Dale Martin Smith, Susan Briante, Will Alexander,
   Laura Moriarty, Farid Matuk, Susan Gevirtz, Steve Seidenberg, Erín Moure, and
   Aaron Shurin.
-collections:
-  - the-new-social-environment
-event_producer:
-  - the-brooklyn-rail
-event_organizer:
-  - the-brooklyn-rail
-registration_url: https://www.eventbrite.com/e/the-new-social-environment-32-norma-cole-tickets-103249839048#
-youtube_id: zCUUig-HAQA
-youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
 date: 2020-04-29 13:00:00 -0500
 end_date: 2020-04-29 14:00:00 -0500
+collections:
+  - the-new-social-environment
+event_organizer:
+  - the-brooklyn-rail
+event_producer:
+  - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-32-norma-cole-tickets-103249839048#
+youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
+youtube_id: zCUUig-HAQA
 event_platform:
   - zoom
   - youtube
@@ -49,4 +49,4 @@ Cole’s various awards include a fellowship from the Foundation for Contemporar
 
 **Aaron Shurin** is Professor Emeritus in the University of San Francisco’s MFA Writing Program. He is the author of 14 books of poetry and prose, most recently *The Blue Absolute* from Nightboat Books.
 
-**Madeleine Cravens**, the *Brooklyn Rail'*s Development and Outreach Associate, moderates this conversation**.** In Fall 2020, Madeleine will be the Max Ritvo Poetry Fellow at Columbia University.
+**Madeleine Cravens**, the *Brooklyn Rail*’s Development and Outreach Associate, moderates this conversation**.** In Fall 2020, Madeleine will be the Max Ritvo Poetry Fellow at Columbia University.
