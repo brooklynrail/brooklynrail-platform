@@ -25,12 +25,12 @@ Bob is a contributor of the *Brooklyn Rail*. His two new books, *The Unspoken* a
 
 **In the Rail:**
 
-* [EDITOR'S NOTE, April 2015](https://brooklynrail.org/2015/04/editorsmessage/holman-editors-note)
-* [TRIBUTE TO PAUL GULIELMETTI, April 2006](https://brooklynrail.org/2006/04/art/tribute-to-paul-gulielmetti)
-* [SAMUEL JABLON & STEFAN BONDELL with BOB HOLMAN, April 2015](https://brooklynrail.org/2015/04/criticspage/samuel-jablon-stefan-bondell-with-bob-holman)
-* [NIKHIL MELNECHUK with BOB HOLMAN, April 2015](https://brooklynrail.org/2015/04/criticspage/nikhil-melnechuk-with-bob-holman)
-* [PHONG BUI with BOB HOLMAN, April 2015](https://brooklynrail.org/2015/04/criticspage/phong-bui-with-bob-holman)
-* [THE HAMMER OF JUSTICE, April 2015](https://brooklynrail.org/2015/04/criticspage/the-hammer-of-justice)
-* [ALASKA LANGUAGE ODYSSEY, by BOB HOLMAN](https://brooklynrail.org/2018/06/poetry/Alaska-Odyssey)
-* [TWO, by BOB HOLMAN](https://brooklynrail.org/2020/02/poetry/two-holman)
-* [ALASKA ODYSSEY ESSAY, by BOB HOLMAN](https://brooklynrail.org/2018/06/poetry/Alaska-Odyssey-Essay)
+* [Editor's Note,](https://brooklynrail.org/2015/04/editorsmessage/holman-editors-note) April 2015
+* [Tribute to Paul Gulielmetti,](https://brooklynrail.org/2006/04/art/tribute-to-paul-gulielmetti) April 2006
+* [Samuel Jablon & Stefan Bondell in Conversation with Bob Holman,](https://brooklynrail.org/2015/04/criticspage/samuel-jablon-stefan-bondell-with-bob-holman) April 2015
+* [Nikhil Melnechuk in Conversation with Bob Holman,](https://brooklynrail.org/2015/04/criticspage/nikhil-melnechuk-with-bob-holman) April 2015
+* [Phong Bui in Conversation with Bob Holman,](https://brooklynrail.org/2015/04/criticspage/phong-bui-with-bob-holman) April 2015
+* [The Hammer of Justice, ](https://brooklynrail.org/2015/04/criticspage/the-hammer-of-justice)April 2015
+* [Alaska Language Odyssey,](https://brooklynrail.org/2018/06/poetry/Alaska-Odyssey) June 2018
+* [Two,](https://brooklynrail.org/2020/02/poetry/two-holman) February 2020
+* [Alaska Odyssey Essay,](https://brooklynrail.org/2018/06/poetry/Alaska-Odyssey-Essay) June 2018
