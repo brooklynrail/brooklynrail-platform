@@ -354,8 +354,8 @@ collections:
       - label: "Short Bio"
         name: "short_bio"
         widget: "text"
-        pattern: ['.{10,240}', "Must have between 10-240 characters"]
-        hint: "Add a short description of the person, no more than 240 characters.. Do not use the person's name in the short bio."
+        pattern: ['^.{0,240}$', "Short bio needs to be less than240 characters"]
+        hint: "Add a short description of the person without using their name. [Max 240 characters]"
         required: false
 
       - label: "Email"
