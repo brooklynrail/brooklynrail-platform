@@ -1,28 +1,29 @@
 ---
-collections:
-  - the-new-social-environment
 title: Hettie Jones with Bob Holman
 summary: Poet Hettie Jones and _Rail_ contributor Bob Holman discuss creative
   life in the context of our new social reality.
-event_sponsor: Spoonbill and Sugartown Booksellers
-event_producer:
-  - the-brooklyn-rail
-event_organizer:
-  - the-brooklyn-rail
-registration_url: https://www.eventbrite.com/e/the-new-social-environment-24-hettie-jones-tickets-102384705410#
-youtube_id: e6La1gzUrAo
-youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
 date: 2020-04-17 13:00:00 -0500
 end_date: 2020-04-17 14:00:00 -0500
+collections:
+  - the-new-social-environment
+event_sponsor:
+  - spoonbill-sugartown-booksellers
+event_organizer:
+  - the-brooklyn-rail
+event_producer:
+  - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-24-hettie-jones-tickets-102384705410#
+youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
+youtube_id: e6La1gzUrAo
 event_platform:
   - zoom
   - youtube
 ---
-This conversation is sponsored by  [Spoonbill & Sugartown Booksellers](https://www.spoonbillbooks.com/). Support Spoonbill by donating to their GoFundMe [here](https://www.gofundme.com/f/spoonbill-love).
 
-**Hettie Jones** is an American poet. She has written 23 books that include a memoir of the Beat Generation, three volumes of poetry, and publications for children and young adults, including _The Trees Stand Shining_ and _Big Star Fallin' Mama: Five Women in Black Music_.
 
-Jones is a longtime editor and has taught poetry, fiction, and memoir at many universities, including Penn State University, NYU, the 92nd Street Y, University of Wyoming, and Parsons School of Design. Jones is a former chair of the PEN Prison Writing Committee, and from 1989 to 2002 she ran a writing workshop at the New York State Correctional Facility for Women at Bedford Hills, which included inmate Judy Clark as a student. This workshop hailed as inspiration for Jones’s nationally distributed collection, _Aliens At The Border_. Jones also co-authored a memoir for Rita Marley, widow of Bob Marley. More recently, Jones has received grants to begin a writing program on Manhattan's Lower East Side at the Lower East Side Girls Club Center for Community. Her book, _Love, H_, a selection from 40 years of correspondence with the sculptor Helene Dorn, was published by Duke University Press in October 2016.
+**Hettie Jones** is an American poet. She has written 23 books that include a memoir of the Beat Generation, three volumes of poetry, and publications for children and young adults, including *The Trees Stand Shining* and *Big Star Fallin' Mama: Five Women in Black Music*.
+
+Jones is a longtime editor and has taught poetry, fiction, and memoir at many universities, including Penn State University, NYU, the 92nd Street Y, University of Wyoming, and Parsons School of Design. Jones is a former chair of the PEN Prison Writing Committee, and from 1989 to 2002 she ran a writing workshop at the New York State Correctional Facility for Women at Bedford Hills, which included inmate Judy Clark as a student. This workshop hailed as inspiration for Jones’s nationally distributed collection, *Aliens At The Border*. Jones also co-authored a memoir for Rita Marley, widow of Bob Marley. More recently, Jones has received grants to begin a writing program on Manhattan's Lower East Side at the Lower East Side Girls Club Center for Community. Her book, *Love, H*, a selection from 40 years of correspondence with the sculptor Helene Dorn, was published by Duke University Press in October 2016.
 
 **Bob Holman** is a contributor of the *Rail*. Among his contributions are:
 
@@ -35,3 +36,7 @@ Jones is a longtime editor and has taught poetry, fiction, and memoir at many un
 * [ALASKA LANGUAGE ODYSSEY](https://brooklynrail.org/2018/06/poetry/Alaska-Odyssey), by BOB HOLMAN
 * [TWO](https://brooklynrail.org/2020/02/poetry/two-holman), by BOB HOLMAN
 * [ALASKA ODYSSEY ESSAY](https://brooklynrail.org/2018/06/poetry/Alaska-Odyssey-Essay), by BOB HOLMAN
+
+
+
+This conversation is sponsored by  [Spoonbill & Sugartown Booksellers](https://www.spoonbillbooks.com/). Support Spoonbill by donating to their GoFundMe [here](https://www.gofundme.com/f/spoonbill-love).
