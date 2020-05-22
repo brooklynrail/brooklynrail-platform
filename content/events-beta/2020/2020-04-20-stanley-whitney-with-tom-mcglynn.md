@@ -1,7 +1,7 @@
 ---
 title: Stanley Whitney with Tom McGlynn
-summary: Artist **Stanley Whitney** and host **Tom McGlynn**, Arts Editor at the
-  Brooklyn Rail discuss creative life in the context of our new social reality.
+summary: Artist Stanley Whitney and Tom McGlynn, Arts Editor at the *Brooklyn
+  Rail* discuss creative life in the context of our new social reality.
 date: 2020-04-20 13:00:00 -0500
 end_date: 2020-04-20 14:00:00 -0500
 collections:
