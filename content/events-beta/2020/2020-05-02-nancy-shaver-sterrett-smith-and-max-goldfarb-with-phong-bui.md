@@ -15,6 +15,7 @@ event_producer:
   - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-36-nancy-shaver-sterrett-smith-max-goldfarb-tickets-103921162996
 youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
+youtube_id: dYeY1aAEGqE
 event_platform:
   - zoom
 ---
