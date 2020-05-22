@@ -15,17 +15,17 @@ registration_url: https://www.eventbrite.com/e/the-new-social-environment-50-chr
 event_platform:
   - zoom
 ---
-**Chris Martin** is a contemporary American abstract painter. His wide range of material and imagery is drawn from Buddhist mandalas, the landscapes of the Catskills, and the legacy of Abstract Expressionism. Martin’s works attempt to deal with the psychological internalizations of spirituality and memory, using formalism in a way similar to both Alfred Jensen and Thomas Nozkowski. The artist regularly incorporates unconventional materials into his work, such as textiles, glitter, and vinyl records, as evidenced in Sweet Dreams (2nd Pillow Painting) (2009), a canvas where six affixed pillows are covered in bight neon paint. Born in 1954 in Washington, D.C., he studied at the School of Visual Arts in New York and Yale University. He is the recipient of numerous awards and honors, including a 2002 Guggenheim fellowship, 1999 Pollock-Krasner Foundation Award, and two National Endowment for Arts fellowships. The artist lives and works in Brooklyn, NY. Martin’s works are in the collections of the Albright Knox Art Gallery in Buffalo, the High Museum of Art in Atlanta, the Museum of Contemporary Art in Chicago, and the San Francisco Museum of Modern Art, among others. ([Source](<http://www.artnet.com/artists/chris-martin/>)[)](http://www.artnet.com/artists/chris-martin/)
+**Chris Martin** is a contemporary American abstract painter. His wide range of material and imagery is drawn from Buddhist mandalas, the landscapes of the Catskills, and the legacy of Abstract Expressionism. Martin’s works attempt to deal with the psychological internalizations of spirituality and memory, using formalism in a way similar to both Alfred Jensen and Thomas Nozkowski. The artist regularly incorporates unconventional materials into his work, such as textiles, glitter, and vinyl records, as evidenced in Sweet Dreams (2nd Pillow Painting) (2009), a canvas where six affixed pillows are covered in bight neon paint. Born in 1954 in Washington, D.C., he studied at the School of Visual Arts in New York and Yale University. He is the recipient of numerous awards and honors, including a 2002 Guggenheim fellowship, 1999 Pollock-Krasner Foundation Award, and two National Endowment for Arts fellowships. The artist lives and works in Brooklyn, NY. Martin’s works are in the collections of the Albright Knox Art Gallery in Buffalo, the High Museum of Art in Atlanta, the Museum of Contemporary Art in Chicago, and the San Francisco Museum of Modern Art, among others. ([Source](http://www.artnet.com/artists/chris-martin/)[)](http://www.artnet.com/artists/chris-martin/)
 
 **In the Rail:**
 
-* [Chris Martin with Craig Olson](https://brooklynrail.org/2008/02/art/chris-martin-08)
-* [Chris Martin (by Alan Gilbert)](https://brooklynrail.org/2018/04/artseen/CHRIS-MARTIN_APRIL18)
-* [Chris Martin (by Phong Bui)](https://brooklynrail.org/2014/11/artseen/chris-martin-nov14)
-* [Bill Jensen with Chris Martin](https://brooklynrail.org/2007/02/art/bill-jensen)
-* [Chris Martin Works on Paper](https://brooklynrail.org/2009/03/artseen/chris-martin-works-on-paper)
-* [Katherine Bradford with Chris Martin and Peter Acheson](https://brooklynrail.org/2007/05/art/katherine-bradford-with-chris)
-* [Chris Martin (by John Yau)](https://brooklynrail.org/2005/10/artseen/chris-martin)
+* [Chris Martin in Conversation with Craig Olson](https://brooklynrail.org/2008/02/art/chris-martin-08) February 2008
+* [Chris Martin ](https://brooklynrail.org/2018/04/artseen/CHRIS-MARTIN_APRIL18)by Alan Gilbert, April 2018
+* [Chris Martin; "Unified Field of Unexpected Radiance"](https://brooklynrail.org/2014/11/artseen/chris-martin-nov14) by Phong Bui, November 2014
+* [Bill Jensen in Conversation with Chris Martin](https://brooklynrail.org/2007/02/art/bill-jensen) February 2007
+* [Chris Martin Works on Paper](https://brooklynrail.org/2009/03/artseen/chris-martin-works-on-paper) by John Yau, March 2009
+* [Katherine Bradford in Conversation with Chris Martin and Peter Acheson](https://brooklynrail.org/2007/05/art/katherine-bradford-with-chris) May 2007
+* [Chris Martin ](https://brooklynrail.org/2005/10/artseen/chris-martin) by John Yau, October 2005
 
 Chris Martin is also a contributor of the Rail. For a full list of Chris’s contributions, visit [this page](https://brooklynrail.org/contributor/chris-martin). [](https://brooklynrail.org/contributor/chris-martin)
 
