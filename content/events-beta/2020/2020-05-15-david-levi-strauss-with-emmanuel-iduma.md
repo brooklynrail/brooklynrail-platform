@@ -1,8 +1,8 @@
 ---
 title: David Levi Strauss with Emmanuel Iduma
-summary: "**David Levi Strauss** and **Emmanual Iduma** discuss **Levi
-  Strauss’s** new book, *Co-Illusion: Dispatches from the End of Communication*
-  (MIT Press, 2020).⁠"
+summary: "Writers David Levi Strauss and Emmanual Iduma discuss Levi Strauss’s
+  new book, *Co-Illusion: Dispatches from the End of Communication* (MIT Press,
+  2020).⁠"
 date: 2020-04-24 13:00:00 -0500
 end_date: 2020-04-24 14:00:00 -0500
 collections:
