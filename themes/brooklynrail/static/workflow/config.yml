@@ -260,9 +260,15 @@ collections:
 
       - label: "Image Credit"
         name: "credit"
-        widget: "string"
-        hint: "TKTK"
+        widget: "relation"
+        multiple: true
+        collection: "people"
+        searchFields: ["name"]
+        valueField: "{{slug}}"
+        displayFields: ["{{name}}"]
+        hint: "This is the person who will receive credit as the author of the image."
         required: false
+
 
       - label: "Date"
         name: "date"
@@ -313,7 +319,7 @@ collections:
 
   - name: "people" # Used in routes, e.g., /workflow/collections/blog
     label: "People" # Used in the UI
-    label_singular: "People"
+    label_singular: "Person"
     description: "People in the Rail community"
     folder: "content/people" # path to the folder where files are stored
     path: "{{slug}}" # custom file path
@@ -363,29 +369,19 @@ collections:
         hint: "TKTK"
         required: false
 
+      - label: "Instagram"
+        name: "instagram"
+        widget: "string"
+        required: false
+
       - label: "Twitter"
         name: "twitter"
         widget: "string"
         hint: "Enter your username without the @ handle [e.g. brooklynrail]"
         required: false
 
-      - label: "Facebook"
-        name: "facebook"
-        widget: "string"
-        required: false
-
-      - label: "Instagram"
-        name: "instagram"
-        widget: "string"
-        required: false
-
       - label: "Linkedin"
         name: "linkedIn"
-        widget: "string"
-        required: false
-
-      - label: "YouTube"
-        name: "youtube"
         widget: "string"
         required: false
 
