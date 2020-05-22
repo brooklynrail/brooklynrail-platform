@@ -24,9 +24,4 @@ event_platform:
 
 **In the Rail:**
 
-* \[What is Criticism, Now?](<**In the Rail:**
-
-  * [THE DEATH ISSUE](https://brooklynrail.org/2020/02/editorsmessage/The-Death-Issue) by Alvin Hall>) by David Levi Strauss
-* [](https://brooklynrail.org/2020/02/editorsmessage/The-Death-Issue)\[](<**In the Rail:**
-
-  * [THE DEATH ISSUE](https://brooklynrail.org/2020/02/editorsmessage/The-Death-Issue) by Alvin Hall>)[The Promise of Mutability](https://brooklynrail.org/2016/12/criticspage/the-promise-of-mutability) by Emmanuel Iduma
+* [The Promise of Mutability](https://brooklynrail.org/2016/12/criticspage/the-promise-of-mutability) by Emmanuel Iduma
