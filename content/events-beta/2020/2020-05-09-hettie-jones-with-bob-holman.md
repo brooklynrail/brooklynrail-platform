@@ -6,7 +6,8 @@ date: 2020-04-17 13:00:00 -0500
 end_date: 2020-04-17 14:00:00 -0500
 collections:
   - the-new-social-environment
-event_sponsor: Spoonbill and Sugartown Booksellers
+event_sponsor:
+  - spoonbill-sugartown-booksellers
 event_organizer:
   - the-brooklyn-rail
 event_producer:
