@@ -221,8 +221,8 @@ collections:
     label_singular: "Media"
     description: "TKTK"
     folder: "content/media/" # path to the folder where files are stored
-    media_folder: "/static/media/files/"
-    public_folder: "/media/files/"
+    media_folder: "/static/media/files"
+    public_folder: "/media/files"
     path: "/{{year}}/{{month}}/{{slug}}"
     extension: "md"
     create: true # Allow users to create new documents in this collection
