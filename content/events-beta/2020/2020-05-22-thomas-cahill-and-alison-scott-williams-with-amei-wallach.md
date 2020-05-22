@@ -9,7 +9,7 @@ series: ""
 collections:
   - the-new-social-environment
 event_sponsor:
-  - the-brooklyn-rail
+  - studio-in-a-school
 event_organizer:
   - the-brooklyn-rail
 event_producer:
@@ -19,8 +19,6 @@ event_platform:
   - zoom
   - youtube
 ---
-We'd like to thank **[Studio in a School](https://studioinaschool.org/)** for supporting today's conversation.
-
 **Thomas Cahill** is the President of Studio Institute. He has devoted his professional life to the art of teaching art, working with hundreds of visual artists at Studio in a School where he served as the first Executive Director. Under Mr. Cahill’s leadership, Studio Institute shares tested innovations, visual arts curricula, classroom program models, professional development models, arts internships, research grants, and assessment methods with arts and educational communities nationwide.
 
 Mr. Cahill received his B.F.A. in Painting from the School of Visual Arts and an M.A., Arts and Humanities Education, from New York University,Steinhardt School of Education. In May of 2008, Mr. Cahill received an Honorary Doctorate Degree from Pratt Institute.
@@ -28,8 +26,6 @@ Mr. Cahill received his B.F.A. in Painting from the School of Visual Arts and an
 **In the Rail:**
 
 * [THOMAS CAHILL with Phong Bui](https://brooklynrail.org/2013/02/art/thomas-cahill-with-phong-bui) 
-
-
 
 **Alison Scott-Williams** is the President of Studio in a School, NYC. Previously, she was Vice President of Arts Education for The New Jersey Performing Arts Center (NJPAC). Alison is an arts education leader with a commitment to cultivating talent in emerging artists and building community. Alison leads a team that serves more than 90,000 children and teachers annually through performances, training, and residencies in Northern New Jersey. Prior to joining the NJPAC, Alison performed a series of influential leadership roles for The Juilliard School in New York City. She made an impact as Associate Vice President for Diversity and Campus Life, a dual role that balanced diversity leadership with comprehensive oversight for the Educational Outreach, Residence Life, International Student and Student Affairs departments. Prior to her position at Juilliard, Alison provided leadership for strategic planning and program management as Director of Programs and Admission for Sherwood Conservatory of Music and placed music programs in various Chicago schools and communities. Alison was a participant in the American Express Leadership Institute and holds a Master of Science in Higher Education Administration from Baruch College, Master of Music in Voice Performance from the Manhattan School of Music, and Master of Arts in Opera Theater and Bachelor of Music in Voice Performance from Oberlin Conservatory.
 
@@ -41,4 +37,6 @@ Mr. Cahill received his B.F.A. in Painting from the School of Visual Arts and an
 
 Amei Wallach is an Editor-at-large at the *Rail* and was the Guest Critic in November 2013.
 
-To see a full list of Amei's contributions, visit [this page](<https://brooklynrail.org/contributor/amei-wallach>).
+To see a full list of Amei's contributions, visit [this page](https://brooklynrail.org/contributor/amei-wallach).
+
+We'd like to thank **[Studio in a School](https://studioinaschool.org/)** for supporting today's conversation.
