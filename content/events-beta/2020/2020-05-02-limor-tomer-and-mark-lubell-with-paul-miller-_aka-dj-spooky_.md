@@ -1,7 +1,7 @@
 ---
 title: Limor Tomer and Mark Lubell with Paul Miller, _aka DJ Spooky_
-summary: "**Limor Tomer** and **Mark Lubell** with **Paul Miller, _aka DJ
-  Spooky_** , discuss creative life in the context of our new social reality."
+summary: Limor Tomer and Mark Lubell with Paul Miller, aka DJ Spooky, discuss
+  creative life in the context of our new social reality.
 date: 2020-05-04 13:00:00 -0500
 end_date: 2020-05-04 14:00:00 -0500
 collections:
