@@ -1,26 +1,24 @@
 ---
 title: Paul Soulellis with Megan N. Liberty
-summary: Artist and educator Paul Soulellis with _RAIL_ editor Megan N. Liberty
+summary: Artist and educator Paul Soulellis with _Rail_ editor Megan N. Liberty
   discuss creative life in the context of our new social reality.
 date: 2020-05-11 13:00:00 -0500
 end_date: 2020-05-11 14:00:00 -0500
 collections:
   - the-new-social-environment
-event_producer:
-  - the-brooklyn-rail
 event_organizer:
+  - the-brooklyn-rail
+event_producer:
   - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-40-paul-soulellis-tickets-104539552616
 youtube_id: qquizePhf1c
-youtube_playlist_id:
-  - the-new-social-environment
 event_platform:
   - zoom
 featured_images:
   - media: 2020/05/paul-soulellis
+youtube_playlist_id:
+  - the-new-social-environment
 ---
-
-
 {{< image media="2020/05/paul-soulellis" size="md" >}}
 
 \
