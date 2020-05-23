@@ -166,6 +166,17 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
       <div class="grid-row">
         <div class="grid-col-12 desktop:grid-col-10">
 
+          {{/* Collection */}}
+          {{- if .Params.collections -}}
+          <div class="content">
+            {{- range $collection := (.GetTerms "collections") -}}
+              {{/* Gets the Topics page */}}
+              {{- $collection := $.Site.GetPage (printf "/%s/%s" "collections" $collection.Title) -}}
+              <p class="collection"><strong>{{- $collection.Title -}}</strong> — {{ $collection.Summary -}}</p>
+            {{- end -}}
+          </div>
+          {{- end -}}
+
           {{- with .Content -}}
           <div class="content">
             {{- . -}}
