@@ -302,16 +302,19 @@ collections:
         name: "deck"
         widget: "string"
         hint: "TKTK"
+        required: false
 
       - label: "Summary"
         name: "summary"
         widget: "string"
         hint: "TKTK"
+        required: false
 
       - label: "YouTube Playlist ID"
         name: "youtube_playlist_id"
         widget: "string"
         hint: "TKTK"
+        required: false
 
 
   # ====================================
