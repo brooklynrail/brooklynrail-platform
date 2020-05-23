@@ -220,7 +220,7 @@ collections:
     label: "Media" # Used in the UI
     label_singular: "Media"
     description: "TKTK"
-    folder: "content/media/" # path to the folder where files are stored
+    folder: "content/media" # path to the folder where files are stored
     media_folder: "/static/media/files"
     public_folder: "/media/files"
     path: "/{{year}}/{{month}}/{{slug}}"
@@ -238,6 +238,7 @@ collections:
         widget: "image"
         hint: "TKTK"
         prompt: true
+        required: false
         media_library:
           config:
             multiple: true
