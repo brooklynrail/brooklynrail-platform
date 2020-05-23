@@ -5,10 +5,12 @@ summary: Painter Chris Martin and writer and _Rail_ editor Raymond Foye discuss
 date: 2020-05-25 13:00:00 -0500
 end_date: 2020-05-25 14:00:00 -0500
 series: 50
-collections: []
+collections:
+  - the-new-social-environment
 event_sponsor:
   - the-brooklyn-rail
-event_organizer: []
+event_organizer:
+  - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-50-chris-martin-tickets-105971962994
