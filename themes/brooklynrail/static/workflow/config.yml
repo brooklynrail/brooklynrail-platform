@@ -223,7 +223,7 @@ collections:
     folder: "content/media" # path to the folder where files are stored
     media_folder: "/static/media/files"
     public_folder: "/media/files"
-    path: "/{{year}}/{{month}}/{{slug}}"
+    path: "{{year}}/{{month}}/{{slug}}"
     extension: "md"
     create: true # Allow users to create new documents in this collection
     identifier_field: title # sets the field that is used to create the slug
