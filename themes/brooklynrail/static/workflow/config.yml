@@ -148,7 +148,6 @@ collections:
         searchFields: ["name", "short_desc"]
         valueField: "{{slug}}"
         displayFields: ["{{name}}"]
-        default: ["the-brooklyn-rail"]
         hint: "Select the organizations that are sponsoring this event."
         required: false
 
@@ -161,7 +160,7 @@ collections:
         valueField: "{{slug}}"
         displayFields: ["{{name}}"]
         default: ["the-brooklyn-rail"]
-        hint: "Select the organizations that should be credited pulling togther the content of the talk."
+        hint: "Default 'The Brooklyn Rail', otherwise select the organizations that should be credited pulling togther the content of the talk."
         required: false
 
       - label: "Event Producer"
@@ -173,7 +172,7 @@ collections:
         valueField: "{{slug}}"
         displayFields: ["{{name}}"]
         default: ["the-brooklyn-rail"]
-        hint: "Select the organization that should be credited with producing the event."
+        hint: "Default 'The Brooklyn Rail', otherwise select the organization that should be credited with producing the event."
 
       - label: "Registration URL"
         name: "registration_url"
