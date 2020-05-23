@@ -16,6 +16,9 @@ event_producer:
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-50-chris-martin-tickets-105971962994
 event_platform:
   - zoom
+featured_images:
+  - media: 2020/05/chris-martin
+  - media: 2020/05/raymond-foye
 ---
 {{< image media="2020/05/chris-martin" size="md" >}}
 
