@@ -91,13 +91,15 @@
 
     .actions{
       @include u-margin-y(3);
-      .btn{
+      @include u-display('flex');
+      a{
         @include u-margin-right('05');
       }
       .btn-register{
         @include u-text('uppercase');
-        @include u-bg('blue-warm-80v');
-        @include u-border('2px', 'solid', 'blue-warm-80v');
+        @include u-bg('black');
+        @include u-bg('black');
+        @include u-border('2px', 'solid', 'black');
       }
       .addeventatc{
         @include u-padding(2);
@@ -156,6 +158,25 @@
         @include u-text('thin');
         @include u-font('sans', 'xl');
       }
+    }
+
+    .collection{
+      @include u-margin-bottom(3);
+      @include u-padding(2);
+      @include u-text('center');
+      @include u-radius('md');
+      @include u-border('1px','gray-20','solid');
+      @include u-font('sans', 'sm');
+      @include u-bg('gray-warm-10');
+      /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#d7e6f4+20,fcc5bd+100&0.5+0,0.5+100 */
+      background: -moz-linear-gradient(-45deg,  rgba(215,230,244,0.5) 0%, rgba(215,230,244,0.5) 20%, rgba(252,197,189,0.5) 100%); /* FF3.6-15 */
+      background: -webkit-linear-gradient(-45deg,  rgba(215,230,244,0.5) 0%,rgba(215,230,244,0.5) 20%,rgba(252,197,189,0.5) 100%); /* Chrome10-25,Safari5.1-6 */
+      background: linear-gradient(135deg,  rgba(215,230,244,0.5) 0%,rgba(215,230,244,0.5) 20%,rgba(252,197,189,0.5) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+      filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#80d7e6f4', endColorstr='#80fcc5bd',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+    }
+
+    .content{
+      @include u-font('sans', 'md');
     }
 
     .event-logistics{

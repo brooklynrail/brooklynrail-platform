@@ -63,8 +63,8 @@
       .actions{
         .btn-event{
           @include u-bg('white');
-          @include u-border('2px', 'solid', 'blue-warm-80v');
-          @include u-text('blue-warm-80v');
+          @include u-border('2px', 'solid', 'black');
+          @include u-text('black');
         }
       }
     }
