@@ -93,9 +93,7 @@
       @include u-margin-y(3);
       @include u-display('flex');
 
-      @include u-bg('red-10');
       .register{
-        @include u-bg('red-20');
         @include u-margin-right('05');
         flex-basis: 100%;
         @include at-media('mobile-lg') {
