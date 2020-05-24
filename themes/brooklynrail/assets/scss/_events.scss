@@ -92,23 +92,44 @@
     .actions{
       @include u-margin-y(3);
       @include u-display('flex');
-      a{
+
+      @include u-bg('red-10');
+      .register{
+        @include u-bg('red-20');
         @include u-margin-right('05');
-      }
-      .btn-register{
-        @include u-text('uppercase');
-        @include u-bg('black');
-        @include u-bg('black');
-        @include u-border('2px', 'solid', 'black');
+        flex-basis: 100%;
+        @include at-media('mobile-lg') {
+          flex-basis: auto;
+        }
+        .btn-register{
+          @include u-text('uppercase');
+          @include u-bg('black');
+          @include u-bg('black');
+          @include u-border('2px', 'solid', 'black');
+          @include u-padding-x('105');
+          @include at-media('mobile-lg') {
+            @include u-padding-x('205');
+          }
+        }
       }
       .addeventatc{
+        @include u-margin-left('05');
+        flex-basis: 100%;
+        @include at-media('mobile-lg') {
+          flex-basis: auto;
+        }
         @include u-padding(2);
+        @include u-padding-x('105');
+        @include at-media('mobile-lg') {
+          @include u-padding-x('205');
+        }
         @include u-bg('gray-5');
         @include u-radius('sm');
         @include u-text('gray-80');
         @include u-text('medium');
+        @include u-text('center');
         @include u-font('sans', 'sm');
-        @include u-line-height('sans', 2);
+        @include u-line-height('sans', 1);
         @include u-border(0);
         @include u-border('2px', 'solid', 'gray-5');
         &:hover{

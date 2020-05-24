@@ -117,7 +117,10 @@ h2{
 
 .btn-lg{
   @extend .usa-button--big;
-  @include u-font('sans', 'md');
+  @include u-font('sans', 'sm');
+  @include at-media('tablet-lg') {
+    @include u-font('sans', 'md');
+  }
   @include u-padding-y(2);
   @include u-padding-x('205');
   &:hover{
