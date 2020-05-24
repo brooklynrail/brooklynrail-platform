@@ -145,11 +145,10 @@
   }
 
   section{
+
     .summary{
-      @include u-font('sans', 'sm');
       @include u-margin(0);
-      @include u-padding-y(2);
-      @include u-text('light');
+      @include u-padding-y(0);
       strong{
         @include u-text('medium');
       }
