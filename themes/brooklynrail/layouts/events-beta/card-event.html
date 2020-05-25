@@ -11,41 +11,37 @@ The following variables transform dates and times for the event `start_date` and
       {{/* Content */}}
       <div class="grid-col-12 tablet-lg:grid-col-6 desktop:grid-col-7 tablet-lg:order-2">
 
-        <div class="content">
-
-          {{/* Collection */}}
-          {{- if .Params.collections -}}
-            <p class="kicker">
-            {{- with .Params.series -}}
-              <span class="series"><span>#{{- . -}}</span></span>
-            {{- end -}}
-            {{- range $collection := (.GetTerms "collections") -}}
-              {{/* Gets the Topics page */}}
-              {{- $collection := $.Site.GetPage (printf "/%s/%s" "collections" $collection.Title) -}}
-              <span>{{- $collection.Title -}}</span>
-            {{- end -}}
-            </p>
+        {{/* Kicker + Collections */}}
+        {{- if .Params.collections -}}
+          <p class="kicker">
+          {{- range $collection := (.GetTerms "collections") -}}
+            {{/* Gets the Topics page */}}
+            {{- $collection := $.Site.GetPage (printf "/%s/%s" "collections" $collection.Title) -}}
+            <span class="collection">{{- $collection.Title -}}</span>
           {{- end -}}
-
-          {{- if .Params.Title -}}
-          <h2 class="p-name">
-            <a href="{{ .RelPermalink }}" title="{{- .Title -}}">{{- .Title | markdownify -}}</a>
-          </h2>
+          {{- with .Params.series -}}
+            <span class="series"><span>#{{- . -}}</span></span>
           {{- end -}}
-
-          {{- with .Params.Deck -}}
-          <p class="deck">
-            {{- . | markdownify -}}
           </p>
-          {{- end -}}
+        {{- end -}}
 
-          {{- if .Params.Summary -}}
-          <div class="summary content">
-            <p>{{- .Params.Summary | markdownify -}}&nbsp;<a href="{{- .RelPermalink -}}" title="{{- .Title -}}">Details »</a></p>
-          </div>
-          {{- end -}}
+        {{- if .Params.Title -}}
+        <h2 class="p-name">
+          <a href="{{ .RelPermalink }}" title="{{- .Title -}}">{{- .Title | markdownify -}}</a>
+        </h2>
+        {{- end -}}
 
+        {{- with .Params.Deck -}}
+        <p class="deck">
+          {{- . | markdownify -}}
+        </p>
+        {{- end -}}
+
+        {{- if .Params.Summary -}}
+        <div class="summary content">
+          <p>{{- .Params.Summary | markdownify -}}&nbsp;<a href="{{- .RelPermalink -}}" title="{{- .Title -}}">Details »</a></p>
         </div>
+        {{- end -}}
 
       </div>
       {{/* Date */}}

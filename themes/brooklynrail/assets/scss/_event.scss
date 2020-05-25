@@ -11,10 +11,11 @@
       @include u-padding-y(0);
     }
 
+    // Kicker
     .kicker{
       @include u-text('center');
-      @include u-flex('justify-center');
     }
+
     h1{
       @include u-text('center');
       @include u-line-height('sans', 2);

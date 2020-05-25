@@ -1,39 +1,40 @@
 .card-event{
-  @extend .event;
+  // @extend .event;
   @include u-margin-y(0);
   @include u-padding-y('205');
   @include u-border-top('2px','black', 'dotted');
 
   header {
     @include u-padding-y(0);
+    .kicker{
+      @include u-margin-bottom('05');
+      @include u-font('sans', 'xs');
+    }
+    h2{
+      @include u-margin(0);
+      @include u-text('medium');
+      @include u-font('sans', 'lg');
+    }
+    .deck{
+      @include u-font('sans', 'lg');
+    }
+    .summary{
+      @include u-margin-top(1);
+      @include u-font('sans', 'xs');
+      @include at-media('tablet-lg') {
+        @include u-font('sans', 'sm');
+      }
+      strong{
+        @include u-text('medium');
+      }
+      a{
+        @include u-text('primary');
+      }
+    }
+
     .content{
       @include u-padding-y(0);
-      .kicker{
-        @include u-font('sans', 'xs');
-        @include at-media('tablet-lg') {
-          @include u-font('sans', '2xs');
-        }
-      }
-      h2{
-        @include u-text('medium');
-        @include u-font('sans', 'lg');
-      }
-      .deck{
-        @include u-font('sans', 'lg');
-      }
-      .summary{
-        @include u-margin-top(1);
-        @include u-font('sans', 'xs');
-        @include at-media('tablet-lg') {
-          @include u-font('sans', 'sm');
-        }
-        strong{
-          @include u-text('medium');
-        }
-        a{
-          @include u-text('primary');
-        }
-      }
+
       .event-details{
         @include u-margin-top(2);
         @include at-media('tablet-lg') {
