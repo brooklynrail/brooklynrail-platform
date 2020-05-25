@@ -2,14 +2,11 @@
 DATE Variables
 The following variables transform dates and times for the event `start_date` and `end_date` and set them for use in the event page. */}}
 
-{{- $start_date := .Date -}}
-{{- $end_date := (time .Params.end_date) -}}
-
 <section class="card-event h-event">
   <header>
-    <div class="grid-row tablet-lg:grid-gap-4">
-      {{/* Content */}}
-      <div class="grid-col-12 tablet-lg:grid-col-6 desktop:grid-col-7 tablet-lg:order-2">
+
+    <div class="grid-row">
+      <div class="grid-col-12 tablet-lg:grid-col-6">
 
         {{/* Kicker + Collections */}}
         {{- if .Params.collections -}}
@@ -43,67 +40,73 @@ The following variables transform dates and times for the event `start_date` and
         </div>
         {{- end -}}
 
-      </div>
-      {{/* Date */}}
-      <div class="grid-col-8 tablet-lg:grid-col-3 desktop:grid-col-3 tablet-lg:order-1">
-        <div class="content">
+        {{/* NOTE:
+        - `.Date` is recognized by HUGO as an official date
+        - `.Params.end_date` is a string that needs to be converted to a date (still confused by this)
+        */}}
+        {{- $start_date := .Date -}}
+        {{- $end_date := (time .Params.end_date) -}}
+        {{/* This sets $future_event to true or false */}}
+        {{- $future_event := (time .Params.end_date).After now -}}
+        {{- if .Date -}}
 
-          {{- if .Date -}}
-          <div class="event-details">
-            {{/* Start Date */}}
-            <time class="dt-start" datetime="{{- dateFormat "2006-01-02T15:04:05Z07:00" (time $start_date) -}}">{{- dateFormat "Monday, January 2" (time $start_date) -}}</time>
+        <div class="event-details">
+          <i class="far fa-calendar"></i>&nbsp;
+          {{/* Start Date */}}
+          <time class="dt-start" datetime="{{- dateFormat "2006-01-02T15:04:05Z07:00" (time $start_date) -}}">{{- dateFormat "Monday, January 2" (time $start_date) -}}</time>
 
-            {{/* Hidden: This completes the `dt-end` value for the `h-event` microformat */}}
-            <span class="hidden"> to <time class="dt-end" datetime="{{- dateFormat "2006-01-02T15:04:05Z07:00" (time $end_date) -}}">{{- dateFormat "Monday, January 2, 2006" (time $end_date) -}}</time></span>
+          {{/* Hidden: This completes the `dt-end` value for the `h-event` microformat */}}
+          <span class="hidden"> to <time class="dt-end" datetime="{{- dateFormat "2006-01-02T15:04:05Z07:00" (time $end_date) -}}">{{- dateFormat "Monday, January 2" (time $end_date) -}}</time></span>
 
-            <p class="event-time">
-              {{- dateFormat "3:04" (time $start_date) -}}&nbsp;
-              {{- $event_start_time_suffix := dateFormat "PM" (time $start_date) -}}
-              {{- $event_start_time_suffix := replace $event_start_time_suffix "PM" "p.m." -}}
-              {{- $event_start_time_suffix := replace $event_start_time_suffix "AM" "a.m." -}}
-              {{- $event_start_time_suffix -}}&nbsp;Eastern<br/>
-              {{- $event_start_time_suffix_pt := dateFormat "PM" ((time $start_date).Add ( -3 | duration "hour" )) -}}
-              {{- $event_start_time_suffix_pt := replace $event_start_time_suffix_pt "PM" "p.m." -}}
-              {{- $event_start_time_suffix_pt := replace $event_start_time_suffix_pt "AM" "a.m." -}}
-              {{ dateFormat "3:04" ((time $start_date).Add ( -3 | duration "hour" )) -}}&nbsp;{{- $event_start_time_suffix_pt -}}&nbsp;Pacific
-            </p>
+          <p class="event-time">
+            {{- dateFormat "3:04" (time $start_date) -}}&nbsp;
+            {{- $event_start_time_suffix := dateFormat "PM" (time $start_date) -}}
+            {{- $event_start_time_suffix := replace $event_start_time_suffix "PM" "p.m." -}}
+            {{- $event_start_time_suffix := replace $event_start_time_suffix "AM" "a.m." -}}
+            {{- $event_start_time_suffix -}}&nbsp;Eastern <span>/</span>
+            {{ $event_start_time_suffix_pt := dateFormat "PM" ((time $start_date).Add ( -3 | duration "hour" )) -}}
+            {{- $event_start_time_suffix_pt := replace $event_start_time_suffix_pt "PM" "p.m." -}}
+            {{- $event_start_time_suffix_pt := replace $event_start_time_suffix_pt "AM" "a.m." -}}
+            {{ dateFormat "3:04" ((time $start_date).Add ( -3 | duration "hour" )) -}}&nbsp;{{- $event_start_time_suffix_pt -}}&nbsp;Pacific
+          </p>
 
+          {{/* If is NOT a Future Event (Past event) */}}
+          {{- if eq $future_event true -}}
             {{/* location */}}
             {{- $event_platform_data := $.Site.Data.event_platforms -}}
             {{- $event_platforms := .Params.event_platform -}}
-
             {{- if $event_platforms -}}
             <div class="event_platforms p-location">
-              <p><i class="fas fa-tv"></i>&nbsp;<i class="fas fa-headphones"></i>&nbsp;
-              {{ range $i, $e := $event_platforms -}}
+              {{- range $i, $e := $event_platforms -}}
                 {{- $platform := index $event_platform_data $e -}}
-                {{- if ne $i 0 }}, {{ end }}
-                <span class="{{- $e -}}">{{- $platform.name -}}</span>
+                <p class="{{- $e -}}"><span>On {{ $platform.name -}}</span></p>
               {{- end -}}
-              </p>
             </div>
             {{- end -}}
-
-          </div>
           {{- end -}}
 
+        </div>
+        {{- end -}}
 
-        </div>
+
       </div>
-      {{/* Button */}}
-      <div class="grid-col-4 tablet-lg:grid-col-3 desktop:grid-col-2 tablet-lg:order-3">
-        <div class="content">
-          <div class="actions">
-            <a class="u-primary" href="{{- .RelPermalink -}}" title="View Event"><button class="btn btn-md btn-event" type="button" name="view"><span>View Event</span></button></a>
-          {{- with .Params.registration_url -}}
-            {{/* Registration button */}}
-            <a class="u-white hidden" href="{{- . -}}" title="Register"><button class="btn btn btn-register" type="button" name="register"><span>Register</span></button></a>
-          {{ end }}
-          </div>
+
+      <div class="grid-col-12 tablet-lg:grid-col-6">
+        {{/* Speaker Images */}}
+        {{- if .Params.speaker_images -}}
+        <div class="speaker_images">
+        {{- range $speaker_image := .Params.speaker_images -}}
+          {{/* Gets the page data for this media in `/content/media` */}}
+          {{- $image := $.Site.GetPage "page" (printf "/%s/%s" "media" $speaker_image.media) -}}
+          {{- with $image -}}
+            {{- template "figure" (dict "image" . "size" "xs" "width" "100" ) -}}
+          {{- end -}}
+        {{- end -}}
         </div>
+        {{- end -}}
       </div>
 
     </div>
-  </header>
 
+  </header>
 </section>

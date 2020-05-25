@@ -37,7 +37,6 @@
         @include at-media('tablet') {
           @include u-margin-right(2);
         }
-        @include u-text('medium');
       }
       .event-time{
         @include u-text('thin');

@@ -1,24 +1,33 @@
 .card-event{
-  // @extend .event;
   @include u-margin-y(0);
   @include u-padding-y('205');
-  @include u-border-top('2px','black', 'dotted');
+  @include at-media('tablet') {
+    @include u-padding-y(3);
+  }
+  @include u-border-top('1px','gray-40', 'dotted');
 
   header {
     @include u-padding-y(0);
     .kicker{
       @include u-margin-bottom('05');
-      @include u-font('sans', 'xs');
+      @include u-font('sans', '2xs');
+      @include at-media('tablet') {
+        @include u-font('sans', '2xs');
+      }
     }
     h2{
       @include u-margin(0);
-      @include u-text('medium');
+      @include u-text('light');
       @include u-font('sans', 'lg');
+      strong{
+        @include u-text('normal');
+      }
     }
     .deck{
       @include u-font('sans', 'lg');
     }
     .summary{
+      @include u-display('none');
       @include u-margin-top(1);
       @include u-font('sans', 'xs');
       @include at-media('tablet-lg') {
@@ -32,60 +41,54 @@
       }
     }
 
-    .content{
-      @include u-padding-y(0);
-
-      .event-details{
-        @include u-margin-top(2);
-        @include at-media('tablet-lg') {
-          @include u-margin-y(0);
+    .event-details{
+      @include u-margin-top(2);
+      @include u-font('sans', 'sm');
+      @include u-text('medium');
+      @include at-media('tablet') {
+      }
+      time{
+        @include u-margin-right(0);
+        @include at-media('tablet') {
+          @include u-margin-right(2);
         }
-        @include u-font('sans', 'sm');
-        .event-time{
-          @include u-margin-top('05');
-          @include u-margin-x('1px');
-          @include u-display('block');
-          @include u-font('sans', '2xs');
-          @include u-line-height('sans', 4);
-          @include at-media('tablet-lg') {
-            @include u-font('sans', 'sm');
-          }
-        }
-
-        .event_platforms{
-          @include u-margin-top(1);
-          @include u-display('block');
-          p{
-            @include u-margin-x('2px');
-            @include u-font('sans', '2xs');
-            @include u-text('gray-70');
-            @include u-text('thin');
-            @include u-text('italic');
-          }
-        }
-
       }
 
-
-      .actions{
-        @include u-margin-top(2);
-        @include at-media('tablet-lg') {
-          @include u-margin-y(3);
+      .event-time{
+        @include u-margin-y('05');
+        @include u-margin-x('1px');
+        @include u-display('block');
+        @include u-text('light');
+        @include u-font('sans', 'xs');
+        @include u-line-height('sans', 4);
+        @include at-media('tablet') {
+          @include u-font('sans', 'sm');
+          @include u-display('inline');
         }
-        .btn-event{
-          @include u-bg('white');
-          @include u-border('2px', 'solid', 'black');
-          @include u-text('black');
-          @include u-width('full');
-          &:hover{
-            span{
-              @include u-border-bottom('2px', 'solid', 'black');
-            }
-          }
+      }
+
+      .event_platforms{
+        @include u-display('block');
+        p{
+          @include u-margin-y('05');
+          @include u-margin-x('2px');
+          @include u-text('gray-70');
+          @include u-text('light');
+          @include u-text('italic');
         }
       }
     }
+
+    .speaker_images{
+      @include u-display('flex');
+      .media{
+        @include u-margin-right(1);
+        @include u-width(10);
+      }
+    }
+
   }
+
   &:first-child{
     // @include u-margin-top(0);
     @include u-border-top(0);

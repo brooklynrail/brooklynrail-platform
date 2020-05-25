@@ -14,24 +14,24 @@
   {{- $future_events := $future_events.Reverse -}}
 
 
-<main class="content events" id="main-content" role="main">
+<main class="events" id="main-content" role="main">
 
   {{- if $future_events -}}
   <section>
     <div class="grid-container">
       <div class="grid-row grid-gap-4">
         <div class="grid-col-12">
-
           <h2 class="heading">Upcoming Events</h2>
-          {{/* Paginates the events if there are more than X (set in config.yml) */}}
-          <div class="stream content">
-            {{- range (.Paginate ( $future_events )).Pages -}}
-              {{- .Render "card-event" -}}
-            {{- end -}}
-          </div>
-
         </div>
       </div>
+
+      {{/* Paginates the events if there are more than X (set in config.yml) */}}
+      <div class="stream">
+        {{- range (.Paginate ( $future_events )).Pages -}}
+          {{- .Render "card-event" -}}
+        {{- end -}}
+      </div>
+
     </div>
   </section>
 
