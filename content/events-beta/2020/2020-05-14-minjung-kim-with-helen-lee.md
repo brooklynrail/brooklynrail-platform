@@ -16,8 +16,7 @@ end_date: 2020-04-23 14:00:00 -0500
 event_platform:
   - zoom
   - youtube
-featured_images:
-  - {}
+
 ---
 
 

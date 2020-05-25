@@ -13,7 +13,7 @@ event_producer:
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-38-dr-vandana-shiva-tickets-103929722598
 event_platform:
   - zoom
-featured_images:
+speaker_images:
   - media: 2020-05-dr-vandana-shiva
 youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
 ---

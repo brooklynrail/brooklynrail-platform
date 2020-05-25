@@ -15,7 +15,7 @@ youtube_id: gmQ5ickBTbA
 event_platform:
   - zoom
   - youtube
-featured_images:
+speaker_images:
   - media: 2020/05/jim-melchert
 youtube_playlist_id:
   - the-new-social-environment

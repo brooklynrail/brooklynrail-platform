@@ -5,14 +5,14 @@ Events use the `h-event` Microformat classnames
 http://microformats.org/wiki/h-event
 The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-location`, `p-summary`, and the other h-event property class names define properties of the h-event.
 */}}
-<main class="content event h-event" id="main-content" role="main">
+<main class="event h-event" id="main-content" role="main">
 
   <div class="grid-container">
     <div class="grid-row">
       <div class="grid-col-12">
         {{ with .CurrentSection }}
         <p class="breadcrumb">
-          <a class="u-primary" href="{{ .RelPermalink }}" title="{{ . }}"><i class="fas fa-arrow-left"></i> <span>All {{ .Title }}</span></a>
+          <a class="u-black" href="{{ .RelPermalink }}" title="{{ . }}"><i class="fas fa-arrow-left"></i> <span>All {{ .Title }}</span></a>
         </p>
         {{ end }}
       </div>
@@ -21,123 +21,123 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
 
   <header>
     <div class="grid-container">
+
       <div class="grid-row">
-        <div class="grid-col-12 tablet:grid-col-9">
+        <div class="grid-col-12">
 
-          <div class="content">
-
-            {{/* Collection */}}
-            {{- if .Params.collections -}}
-              <p class="kicker">
-              {{- range $collection := (.GetTerms "collections") -}}
-                {{/* Gets the Topics page */}}
-                {{- $collection := $.Site.GetPage (printf "/%s/%s" "collections" $collection.Title) -}}
-                {{- $collection.Title -}}
-              {{- end -}}
-              </p>
+          {{/* Kicker + Collections */}}
+          {{- if .Params.collections -}}
+            <p class="kicker">
+            {{- range $collection := (.GetTerms "collections") -}}
+              {{/* Gets the Topics page */}}
+              {{- $collection := $.Site.GetPage (printf "/%s/%s" "collections" $collection.Title) -}}
+              <span class="collection">{{- $collection.Title -}}</span>
             {{- end -}}
-
-            {{- with .Params.Title -}}
-            <h1 class="p-name">
-              {{- . | markdownify -}}
-            </h1>
+            {{- with .Params.series -}}
+              <span class="series"><span>#{{- . -}}</span></span>
             {{- end -}}
-
-            {{- with .Params.Deck -}}
-            <p class="deck">
-              {{- . | markdownify -}}
             </p>
-            {{- end -}}
+          {{- end -}}
 
 
-            {{/* NOTE:
-            - `.Date` is recognized by HUGO as an official date
-            - `.Params.end_date` is a string that needs to be converted to a date (still confused by this)
-            */}}
-            {{- $start_date := .Date -}}
-            {{- $end_date := (time .Params.end_date) -}}
-            {{/* This sets $future_event to true or false */}}
-            {{- $future_event := (time .Params.end_date).After now -}}
-            {{- if .Date -}}
-            <div class="event-details">
-              <i class="far fa-calendar"></i>&nbsp;
-              {{/* Start Date */}}
-              <time class="dt-start" datetime="{{- dateFormat "2006-01-02T15:04:05Z07:00" (time $start_date) -}}">{{- dateFormat "Monday, January 2, 2006" (time $start_date) -}}</time>
+          {{- with .Params.Title -}}
+          <h1 class="p-name">
+            {{- . | markdownify -}}
+          </h1>
+          {{- end -}}
 
-              {{/* Hidden: This completes the `dt-end` value for the `h-event` microformat */}}
-              <span class="hidden"> to <time class="dt-end" datetime="{{- dateFormat "2006-01-02T15:04:05Z07:00" (time $end_date) -}}">{{- dateFormat "Monday, January 2, 2006" (time $end_date) -}}</time></span>
+          {{- with .Params.Deck -}}
+          <p class="deck">
+            {{- . | markdownify -}}
+          </p>
+          {{- end -}}
 
-              <p class="event-time">
-                {{- dateFormat "3:04" (time $start_date) -}}&nbsp;
-                {{- $event_start_time_suffix := dateFormat "PM" (time $start_date) -}}
-                {{- $event_start_time_suffix := replace $event_start_time_suffix "PM" "p.m." -}}
-                {{- $event_start_time_suffix := replace $event_start_time_suffix "AM" "a.m." -}}
-                {{- $event_start_time_suffix -}}&nbsp;Eastern <span>/</span>
-                {{ $event_start_time_suffix_pt := dateFormat "PM" ((time $start_date).Add ( -3 | duration "hour" )) -}}
-                {{- $event_start_time_suffix_pt := replace $event_start_time_suffix_pt "PM" "p.m." -}}
-                {{- $event_start_time_suffix_pt := replace $event_start_time_suffix_pt "AM" "a.m." -}}
-                {{ dateFormat "3:04" ((time $start_date).Add ( -3 | duration "hour" )) -}}&nbsp;{{- $event_start_time_suffix_pt -}}&nbsp;Pacific
-              </p>
-
-
-              {{/* If is NOT a Future Event (Past event) */}}
-              {{- if eq $future_event true -}}
-                {{/* location */}}
-                {{- $event_platform_data := $.Site.Data.event_platforms -}}
-                {{- $event_platforms := .Params.event_platform -}}
-                {{- if $event_platforms -}}
-                <div class="event_platforms p-location">
-                  {{- range $i, $e := $event_platforms -}}
-                    {{- $platform := index $event_platform_data $e -}}
-                    {{/* {{- if ne $i 0 }}, {{ end }} */}}
-                    <p class="{{- $e -}}"><span>{{- $platform.icon | safeHTML -}}&nbsp;{{- $platform.name -}}</span></p>
-                  {{- end -}}
-                </div>
-                {{- end -}}
-              {{- end -}}
-
-            </div>
-            {{- end -}}
-
-
-            {{- if eq $future_event true -}}
-            <div class="actions">
-              {{- with .Params.registration_url -}}
-                {{/* Registration button */}}
-                <a class="u-white register" href="{{- . -}}" title="Register"><button class="btn btn-lg btn-register" type="button" name="register"><span>Register</span></button></a>
-
-                {{/* Add to Calendar */}}
-                <div title="Add to Calendar" class="addeventatc" data-styling="none">
-                  <i class="far fa-calendar-plus"></i> <span>Add to Calendar</span>
-                  <span class="start">{{- dateFormat "2006-01-02 03:04 PM" (time $start_date) -}}</span>
-                  <span class="end">{{- dateFormat "2006-01-02 03:04 PM" (time $end_date) -}}</span>
-                  <span class="timezone">America/New_York</span>
-                  <span class="title">{{- (print $.Params.Title $.Params.deck )| markdownify -}}</span>
-                  <span class="description">{{- htmlUnescape (print $.Params.summary (print "\n\nEvent Page: https:" $.Permalink)) | safeHTML -}}</span>
-                  <span class="alarm_reminder">15</span>
-                </div>
-
-              {{- else -}}
-                {{/* Coming soon */}}
-                <p class="coming-soon">Registration coming soon. <span>Dates and times might change.</span></p>
-              {{- end -}}
-              </div>
-            {{- end -}}
-
-          </div>
         </div>
+      </div>
 
-        <div class="grid-col-12 tablet:grid-col-3">
-          {{/* Featured Image */}}
-          {{- $featured_image := .Params.featured_image -}}
-          {{- if $featured_image -}}
-          <div class="media featured_image">
-            <img src="{{- $featured_image -}}" alt="">
+      <div class="grid-row">
+        <div class="grid-col-12">
+          {{/* NOTE:
+          - `.Date` is recognized by HUGO as an official date
+          - `.Params.end_date` is a string that needs to be converted to a date (still confused by this)
+          */}}
+          {{- $start_date := .Date -}}
+          {{- $end_date := (time .Params.end_date) -}}
+          {{/* This sets $future_event to true or false */}}
+          {{- $future_event := (time .Params.end_date).After now -}}
+          {{- if .Date -}}
+
+          <div class="event-details">
+            <i class="far fa-calendar"></i>&nbsp;
+            {{/* Start Date */}}
+            <time class="dt-start" datetime="{{- dateFormat "2006-01-02T15:04:05Z07:00" (time $start_date) -}}">{{- dateFormat "Monday, January 2, 2006" (time $start_date) -}}</time>
+
+            {{/* Hidden: This completes the `dt-end` value for the `h-event` microformat */}}
+            <span class="hidden"> to <time class="dt-end" datetime="{{- dateFormat "2006-01-02T15:04:05Z07:00" (time $end_date) -}}">{{- dateFormat "Monday, January 2, 2006" (time $end_date) -}}</time></span>
+
+            <p class="event-time">
+              {{- dateFormat "3:04" (time $start_date) -}}&nbsp;
+              {{- $event_start_time_suffix := dateFormat "PM" (time $start_date) -}}
+              {{- $event_start_time_suffix := replace $event_start_time_suffix "PM" "p.m." -}}
+              {{- $event_start_time_suffix := replace $event_start_time_suffix "AM" "a.m." -}}
+              {{- $event_start_time_suffix -}}&nbsp;Eastern <span>/</span>
+              {{ $event_start_time_suffix_pt := dateFormat "PM" ((time $start_date).Add ( -3 | duration "hour" )) -}}
+              {{- $event_start_time_suffix_pt := replace $event_start_time_suffix_pt "PM" "p.m." -}}
+              {{- $event_start_time_suffix_pt := replace $event_start_time_suffix_pt "AM" "a.m." -}}
+              {{ dateFormat "3:04" ((time $start_date).Add ( -3 | duration "hour" )) -}}&nbsp;{{- $event_start_time_suffix_pt -}}&nbsp;Pacific
+            </p>
+
+
+            {{/* If is NOT a Future Event (Past event) */}}
+            {{- if eq $future_event true -}}
+              {{/* location */}}
+              {{- $event_platform_data := $.Site.Data.event_platforms -}}
+              {{- $event_platforms := .Params.event_platform -}}
+              {{- if $event_platforms -}}
+              <div class="event_platforms p-location">
+                {{- range $i, $e := $event_platforms -}}
+                  {{- $platform := index $event_platform_data $e -}}
+                  {{/* {{- if ne $i 0 }}, {{ end }} */}}
+                  <p class="{{- $e -}}"><span>{{- $platform.icon | safeHTML -}}&nbsp;{{- $platform.name -}}</span></p>
+                {{- end -}}
+              </div>
+              {{- end -}}
+            {{- end -}}
+
           </div>
           {{- end -}}
         </div>
-
       </div>
+
+      <div class="grid-row">
+        <div class="grid-col-12">
+
+          {{- if eq $future_event true -}}
+          <div class="actions">
+            {{- with .Params.registration_url -}}
+              {{/* Registration button */}}
+              <a class="u-white register" href="{{- . -}}" title="Register"><button class="btn btn-lg btn-register" type="button" name="register"><span>Register</span></button></a>
+
+              {{/* Add to Calendar */}}
+              <div title="Add to Calendar" class="addeventatc" data-styling="none">
+                <span>Add to Calendar</span>
+                <span class="start">{{- dateFormat "2006-01-02 03:04 PM" (time $start_date) -}}</span>
+                <span class="end">{{- dateFormat "2006-01-02 03:04 PM" (time $end_date) -}}</span>
+                <span class="timezone">America/New_York</span>
+                <span class="title">{{- (print $.Params.Title $.Params.deck )| markdownify -}}</span>
+                <span class="description">{{- htmlUnescape (print $.Params.summary (print "\n\nEvent Page: https:" $.Permalink)) | safeHTML -}}</span>
+                <span class="alarm_reminder">15</span>
+              </div>
+
+            {{- else -}}
+              {{/* Coming soon */}}
+              <p class="coming-soon">Registration coming soon. <span>Dates and times might change.</span></p>
+            {{- end -}}
+            </div>
+          {{- end -}}
+        </div>
+      </div>
+
     </div>
   </header>
 
@@ -147,14 +147,24 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
     {{- .Render "stage-youtube" -}}
   {{- end -}}
 
-  {{- with .Params.summary -}}
+  {{- if .Params.summary -}}
   <section>
-    <div class="grid-container">
+    <div class="grid-container grid-container-desktop-lg">
+
       <div class="grid-row">
         <div class="grid-col-12">
-          <div class="content">
-            <p class="summary">{{- . | markdownify -}}</p>
+          {{/* Speaker Images */}}
+          {{- if .Params.speaker_images -}}
+          <div class="speaker_images">
+          {{- range $speaker_image := .Params.speaker_images -}}
+            {{/* Gets the page data for this media in `/content/media` */}}
+            {{- $image := $.Site.GetPage "page" (printf "/%s/%s" "media" $speaker_image.media) -}}
+            {{- with $image -}}
+              {{- template "figure" (dict "image" . "size" "sm" "width" "100" ) -}}
+            {{- end -}}
+          {{- end -}}
           </div>
+          {{- end -}}
         </div>
       </div>
     </div>
@@ -162,27 +172,59 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
   {{- end -}}
 
   <section>
-    <div class="grid-container">
+    <div class="grid-container grid-container-tablet-lg">
+
       <div class="grid-row">
-        <div class="grid-col-12 desktop:grid-col-10">
+        <div class="grid-col-12">
 
+          {{- $event_organizer := "" -}}
+          {{- if .Params.event_organizer -}}
+          {{- $event_organizer = ($.Site.GetPage (printf "/%s/%s" "organizations" (index (.Params.event_organizer) 0))) -}}
+          {{- end -}}
 
-          {{- with .Content -}}
-          <div class="content">
-            {{- . -}}
+          {{- $event_producer := "" -}}
+          {{- if .Params.event_producer -}}
+          {{- $event_producer = ($.Site.GetPage (printf "/%s/%s" "organizations" (index (.Params.event_producer) 0))) -}}
+          {{- end -}}
+
+          {{- $sponsor_copy := $.Site.Data.sponsor_copy.sponsored -}}
+          {{ $copy := (index ($sponsor_copy | shuffle | first 1) 0) }}
+
+          {{- $event_collection := index (.Params.collections) 0 -}}
+          {{- $event_collection = $.Site.GetPage (printf "/%s/%s" "collections" $event_collection) -}}
+
+          {{- if .Params.event_sponsor -}}
+          <div class="sponsor">
+            {{- $event_sponsor := ($.Site.GetPage (printf "/%s/%s" "organizations" (index (.Params.event_sponsor) 0))) -}}
+            This talk
+            {{ with $event_sponsor }}
+            is {{ $copy.phrase }} our friends at <a class="u-dotted" href="{{ .Params.website }}" title="{{ .Params.name }}"><span>{{ .Params.name }}</span></a> and <br/>
+            {{ end -}}
+            {{- if eq $event_organizer $event_producer }}
+              is organized and produced by <a class="u-dotted" href="{{ $event_producer.Params.website }}" title="{{ $event_producer.Params.name }}"><span>{{ $event_producer.Params.name }}</span></a>.
+            {{- else }}
+              is organized by <a class="u-dotted" href="{{ $event_organizer.Params.website }}" title="{{ $event_organizer.Params.name }}"><span>{{ $event_organizer.Params.name }}</span></a> and produced by <a class="u-dotted" href="{{ $event_producer.Params.website }}" title="{{ $event_producer.Params.name }}"><span>{{ $event_producer.Params.name }}</span></a>.
+            {{- end }}
+            Learn how <a href="{{- "donate-beta" | absURL -}}" title="Donate"><span>you can donate</span></a>.
           </div>
           {{- end -}}
 
-          {{/* Collection */}}
-          {{- if .Params.collections -}}
+
           <div class="content">
-            {{- range $collection := (.GetTerms "collections") -}}
-              {{/* Gets the Topics page */}}
-              {{- $collection := $.Site.GetPage (printf "/%s/%s" "collections" $collection.Title) -}}
-              <p class="collection"><strong>{{- $collection.Title -}}</strong> — {{ $collection.Summary -}}</p>
+
+            <h2>In this talk</h2>
+            <p class="summary">{{- .Params.summary | markdownify -}}</p>
+
+            {{- .Content -}}
+
+            {{/* Sponsored Collection */}}
+            {{- if .Params.collections -}}
+              <p class="collection">
+                <strong>{{- $event_collection.Title -}}</strong> — {{ $event_collection.Summary -}}
+              </p>
             {{- end -}}
+
           </div>
-          {{- end -}}
 
           {{/* If is NOT a Future Event (Past event) */}}
           {{- if eq $future_event true -}}

@@ -14,7 +14,7 @@ registration_url: https://www.eventbrite.com/e/the-new-social-environment-25-sta
 youtube_id: 8DfOqvOKIyw
 event_platform:
   - zoom
-featured_images:
+speaker_images:
   - media: 2020-05-stanley-whitney
 youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
 ---
@@ -31,6 +31,6 @@ youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
 * [Stanley Whitney: Untitled '10, by Craig Olson](https://brooklynrail.org/2010/02/artseen/stanley-whitney-untitled-10)
 * [Stanley Whitney: Sketchbook, by Megan N. Liberty](https://brooklynrail.org/2017/11/art_books/STANLEY-WHITNEY-Drawings)
 
-**Tom McGlynn**  is an artist, writer, and independent curator based in the N.Y.C. area. His work is represented in the permanent collections of the Whitney Museum, the Museum of Modern Art, and the Cooper-Hewitt National Design Museum of the Smithsonian. He is the director of Beautiful Fields, an organization dedicated to socially-engaged curatorial projects, and is also currently a visiting lecturer at Parsons/the New School. 
+**Tom McGlynn**  is an artist, writer, and independent curator based in the N.Y.C. area. His work is represented in the permanent collections of the Whitney Museum, the Museum of Modern Art, and the Cooper-Hewitt National Design Museum of the Smithsonian. He is the director of Beautiful Fields, an organization dedicated to socially-engaged curatorial projects, and is also currently a visiting lecturer at Parsons/the New School.
 
 **[Tom McGlynn in the *Rail*](<https://brooklynrail.org/contributor/tom-mcglynn>).**

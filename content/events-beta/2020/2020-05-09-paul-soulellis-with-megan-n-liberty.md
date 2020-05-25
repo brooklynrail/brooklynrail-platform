@@ -14,7 +14,7 @@ registration_url: https://www.eventbrite.com/e/the-new-social-environment-40-pau
 youtube_id: qquizePhf1c
 event_platform:
   - zoom
-featured_images:
+speaker_images:
   - media: 2020/05/paul-soulellis
 youtube_playlist_id:
   - the-new-social-environment

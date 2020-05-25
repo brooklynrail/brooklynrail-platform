@@ -16,10 +16,13 @@ The following variables transform dates and times for the event `start_date` and
           {{/* Collection */}}
           {{- if .Params.collections -}}
             <p class="kicker">
+            {{- with .Params.series -}}
+              <span class="series"><span>#{{- . -}}</span></span>
+            {{- end -}}
             {{- range $collection := (.GetTerms "collections") -}}
               {{/* Gets the Topics page */}}
               {{- $collection := $.Site.GetPage (printf "/%s/%s" "collections" $collection.Title) -}}
-              {{- $collection.Title -}}
+              <span>{{- $collection.Title -}}</span>
             {{- end -}}
             </p>
           {{- end -}}

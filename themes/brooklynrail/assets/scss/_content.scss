@@ -30,6 +30,7 @@
     @include u-margin-top(7);
     @include u-font('sans', 'lg');
     @include u-text('bold');
+    @include u-display('inline-block');
     a{
       @include u-text('no-underline');
       &:hover{
@@ -70,25 +71,44 @@
 }
 
 hr{
-  @include u-margin-y(5);
+  @include u-margin-top(5, !important);
+  @include u-margin-bottom(5);
   @include u-margin-x(0);
-  @include u-border-top('1px', 'gray-30', 'solid');
-  @include u-maxw('tablet');
+  @include u-border-top('1px', 'gray-20', 'solid');
+  // @include u-maxw('tablet');
   clear:both;
 }
 
 // ===========================
 // Page header content
 // Used for the title, kicker, date, etc...
-header .content{
+header{
 
   // Kicker
   .kicker{
     @include u-margin-bottom(1);
-    @include u-font('sans', 'sm');
+    @include u-font('sans', 'md');
     @include u-text('normal');
     @include u-text('uppercase');
-    @include u-text('red-50v');
+    @include u-text('indigo-warm-60v');
+    @include u-display('flex');
+    @include u-flex('align-center');
+    .series{
+      @include u-margin-left(2);
+      @include u-circle(8);
+      @include u-width(8);
+      @include u-height(8);
+      @include u-text('center');
+      @include u-text('medium');
+      @include u-text('indigo-warm-70v');
+      @include u-border('2px', 'dotted', 'indigo-warm-70v');
+      @include u-display('flex');
+      @include u-flex('align-center');
+      span{
+        @include u-text('center');
+        @include u-width('full');
+      }
+    }
   }
 
   // Headline / Title

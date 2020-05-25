@@ -1,7 +1,7 @@
 ---
 name: Art Cake
-short_desc: Art Cake is an organization dedicated toproviding space for production
+short_desc: An organization dedicated to providing space for production.
 email: info@artcake.org
-website: artcake.org
-twitter: "@ArtCake_nyc"
+website: https://artcake.org
+twitter: "ArtCake_nyc"
 ---
