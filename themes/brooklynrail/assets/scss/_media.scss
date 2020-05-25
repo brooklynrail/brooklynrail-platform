@@ -21,7 +21,10 @@
 }
 
 .media-sm{
-  @include u-width('card-lg');
+  @include u-width(15);
+  @include at-media('mobile-lg') {
+    @include u-width('card-lg');
+  }
 }
 
 .media-md {

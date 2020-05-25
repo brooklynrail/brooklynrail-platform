@@ -5,7 +5,7 @@
 
   // Single Event Page / Header
   header {
-    @include u-margin-bottom(2);
+    // @include u-margin-bottom(2);
     @include u-padding-y('205');
     @include at-media('tablet') {
       @include u-padding-y(0);
@@ -17,6 +17,9 @@
     }
     h1{
       @include u-text('center');
+      @include u-line-height('sans', 2);
+      @include u-position('relative');
+      @include u-z(100);
     }
 
     .deck{
@@ -29,13 +32,19 @@
       @include u-text('medium');
       @include u-text('center');
       time{
-        @include u-margin-right(2);
+        @include u-margin-right(0);
+        @include at-media('tablet') {
+          @include u-margin-right(2);
+        }
         @include u-text('medium');
       }
       .event-time{
         @include u-text('thin');
         @include u-margin-top('05');
-        @include u-margin-left(3);
+        @include u-margin-left(0);
+        @include at-media('tablet') {
+          @include u-margin-left(3);
+        }
         @include u-display('block');
         @include u-font('sans', 'sm');
         span{
@@ -75,7 +84,10 @@
 
 
     .actions{
-      @include u-margin-y(3);
+      @include u-margin-y(1);
+      @include at-media('tablet') {
+        @include u-margin-y(3);
+      }
       @include u-display('flex');
       @include u-flex('justify-center');
 
@@ -155,27 +167,49 @@
       @include u-flex('justify-center');
       .media{
         @include u-padding-x(1);
+        @include u-width('card-lg');
       }
     }
 
     .summary{
-      @include u-margin-bottom('205');
+      @include u-margin-bottom(3);
       @include u-font('sans', 'lg');
+      @include u-text('light');
     }
 
     .sponsor{
       @include u-padding-y(2);
-      @include u-padding-x(3);
-      @include u-radius('md');
+      @include u-padding-x(1);
+      @include u-radius('lg');
       @include u-text('center');
+      @include u-text('light');
       @include u-bg('gray-warm-3');
-      @include u-font('sans', 'sm');
-      @include u-line-height('sans', 5);
+      @include u-font('sans', '2xs');
+      @include u-line-height('sans', 4);
+      @include at-media('tablet') {
+        @include u-padding-x(3);
+        @include u-line-height('sans', 5);
+        @include u-font('sans', 'sm');
+      }
+      p{
+        @include u-margin-y(0);
+        &:last-child{
+          @include u-margin-top(1);
+        }
+      }
+      .copy-donate{
+        @include u-display('block');
+        @include at-media('tablet') {
+          @include u-display('inline');
+        }
+      }
       a{
+        @include u-text('normal');
         @include u-text('no-underline');
         @include u-text('indigo-warm-60v');
+        white-space: nowrap;
         span{
-          @include u-border-bottom('2px', 'dotted', 'indigo-warm-60v');
+          @include u-border-bottom('1px', 'dotted', 'indigo-warm-60v');
         }
       }
     }

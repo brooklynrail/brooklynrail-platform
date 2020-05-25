@@ -196,16 +196,17 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
           {{- if .Params.event_sponsor -}}
           <div class="sponsor">
             {{- $event_sponsor := ($.Site.GetPage (printf "/%s/%s" "organizations" (index (.Params.event_sponsor) 0))) -}}
-            This talk
+            <p>This talk
             {{ with $event_sponsor }}
-            is {{ $copy.phrase }} our friends at <a class="u-dotted" href="{{ .Params.website }}" title="{{ .Params.name }}"><span>{{ .Params.name }}</span></a> and <br/>
+            is {{ $copy.phrase }} our friends at <a class="u-dotted" href="{{ .Params.website }}" title="{{ .Params.name }}"><span>{{ .Params.name }}</span></a> and
             {{ end -}}
             {{- if eq $event_organizer $event_producer }}
               is organized and produced by <a class="u-dotted" href="{{ $event_producer.Params.website }}" title="{{ $event_producer.Params.name }}"><span>{{ $event_producer.Params.name }}</span></a>.
             {{- else }}
               is organized by <a class="u-dotted" href="{{ $event_organizer.Params.website }}" title="{{ $event_organizer.Params.name }}"><span>{{ $event_organizer.Params.name }}</span></a> and produced by <a class="u-dotted" href="{{ $event_producer.Params.website }}" title="{{ $event_producer.Params.name }}"><span>{{ $event_producer.Params.name }}</span></a>.
             {{- end }}
-            Learn how <a href="{{- "donate-beta" | absURL -}}" title="Donate"><span>you can donate</span></a>.
+            </p>
+            <p class="copy-donate">Learn how <a href="{{- "donate-beta" | absURL -}}" title="Donate"><span>you can donate</span></a> {{ ":sparkles:" | emojify -}}{{- ":rainbow:" | emojify -}}</p>
           </div>
           {{- end -}}
 
