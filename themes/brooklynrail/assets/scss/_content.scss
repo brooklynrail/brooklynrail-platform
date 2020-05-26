@@ -96,7 +96,7 @@ header{
       @include u-font('sans', 'md');
     }
     .collection{
-      @include u-margin-x('2px');
+      @include u-margin-right('2px');
     }
     .series{
       @include u-margin-left(1);

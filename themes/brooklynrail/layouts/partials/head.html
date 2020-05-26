@@ -27,13 +27,15 @@
       <link rel="stylesheet" media="all" href="{{- $path -}}" type="text/css"/>
     {{- end -}}
   {{- end -}}
+
   {{/* Add to Calendar */}}
-  {{- if and (eq .Section "events-beta") (eq .Kind "page") -}}
+  {{- if and (eq .Section "events-beta") -}}
   {{ "<!-- Add to Calendar CSS -->" | safeHTML }}
   <link href="{{- "dist/add-to-cal.css" | absURL -}}" rel="stylesheet" type="text/css">
   {{ "<!-- Add to Calendar JS -->" | safeHTML }}
   <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
   {{- end }}
+
   {{ "<!-- Font Awesome -->" | safeHTML }}
   <link href="{{- "dist/fontawesome/css/all.min.css" | absURL -}}" rel="stylesheet" type="text/css">
 

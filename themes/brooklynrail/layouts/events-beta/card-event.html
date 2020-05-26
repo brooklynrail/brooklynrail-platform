@@ -6,7 +6,7 @@ The following variables transform dates and times for the event `start_date` and
   <header>
 
     <div class="grid-row">
-      <div class="grid-col-12 tablet-lg:grid-col-6">
+      <div class="grid-col-12">
 
         {{/* Kicker + Collections */}}
         {{- if .Params.collections -}}
@@ -69,29 +69,9 @@ The following variables transform dates and times for the event `start_date` and
             {{- $event_start_time_suffix_pt := replace $event_start_time_suffix_pt "AM" "a.m." -}}
             {{ dateFormat "3:04" ((time $start_date).Add ( -3 | duration "hour" )) -}}&nbsp;{{- $event_start_time_suffix_pt -}}&nbsp;Pacific
           </p>
-
-          {{/* If is NOT a Future Event (Past event) */}}
-          {{- if eq $future_event true -}}
-            {{/* location */}}
-            {{- $event_platform_data := $.Site.Data.event_platforms -}}
-            {{- $event_platforms := .Params.event_platform -}}
-            {{- if $event_platforms -}}
-            <div class="event_platforms p-location">
-              {{- range $i, $e := $event_platforms -}}
-                {{- $platform := index $event_platform_data $e -}}
-                <p class="{{- $e -}}"><span>On {{ $platform.name -}}</span></p>
-              {{- end -}}
-            </div>
-            {{- end -}}
-          {{- end -}}
-
         </div>
         {{- end -}}
 
-
-      </div>
-
-      <div class="grid-col-12 tablet-lg:grid-col-6">
         {{/* Speaker Images */}}
         {{- if .Params.speaker_images -}}
         <div class="speaker_images">
@@ -104,6 +84,29 @@ The following variables transform dates and times for the event `start_date` and
         {{- end -}}
         </div>
         {{- end -}}
+
+        <div class="actions">
+          {{- with .Params.registration_url -}}
+            {{/* Registration button */}}
+            <a class="u-white register" href="{{- $.Permalink -}}" title="More details"><button class="btn btn-sm btn-register" type="button" name="register"><span>Details</span></button></a>
+
+            {{/* Add to Calendar */}}
+            <div title="Add to Calendar" class="addeventatc" data-styling="none">
+              <span>Add to Calendar</span>
+              <span class="start">{{- dateFormat "2006-01-02 03:04 PM" (time $start_date) -}}</span>
+              <span class="end">{{- dateFormat "2006-01-02 03:04 PM" (time $end_date) -}}</span>
+              <span class="timezone">America/New_York</span>
+              <span class="title">{{- (print $.Params.Title $.Params.deck )| markdownify -}}</span>
+              <span class="description">{{- htmlUnescape (print $.Params.summary (print "\n\nEvent Page: https:" $.Permalink)) | safeHTML -}}</span>
+              <span class="alarm_reminder">15</span>
+            </div>
+
+          {{- else -}}
+            {{/* Coming soon */}}
+            <p class="coming-soon">Registration coming soon. <span>Dates and times might change.</span></p>
+          {{- end -}}
+        </div>
+
       </div>
 
     </div>

@@ -8,28 +8,34 @@
 
   header {
     @include u-padding-y(0);
+
     .kicker{
       @include u-margin-bottom('05');
+      @include u-text('center');
       @include u-font('sans', '2xs');
       @include at-media('tablet') {
-        @include u-font('sans', '2xs');
+        @include u-font('sans', 'xs');
       }
     }
+
     h2{
       @include u-margin(0);
-      @include u-text('light');
+      @include u-text('medium');
+      @include u-text('center');
       @include u-font('sans', 'lg');
       strong{
-        @include u-text('normal');
+        @include u-text('medium');
       }
     }
     .deck{
       @include u-font('sans', 'lg');
+      @include u-text('center');
     }
     .summary{
       @include u-display('none');
       @include u-margin-top(1);
       @include u-font('sans', 'xs');
+      @include u-text('center');
       @include at-media('tablet-lg') {
         @include u-font('sans', 'sm');
       }
@@ -42,10 +48,12 @@
     }
 
     .event-details{
-      @include u-margin-top(2);
-      @include u-font('sans', 'sm');
+      @include u-margin-y('105');
+      @include u-font('sans', '2xs');
       @include u-text('medium');
+      @include u-text('center');
       @include at-media('tablet') {
+        @include u-font('sans', 'sm');
       }
       time{
         @include u-margin-right(0);
@@ -59,7 +67,7 @@
         @include u-margin-x('1px');
         @include u-display('block');
         @include u-text('light');
-        @include u-font('sans', 'xs');
+        @include u-font('sans', '2xs');
         @include u-line-height('sans', 4);
         @include at-media('tablet') {
           @include u-font('sans', 'sm');
@@ -67,30 +75,63 @@
         }
       }
 
-      .event_platforms{
-        @include u-display('block');
-        p{
-          @include u-margin-y('05');
-          @include u-margin-x('2px');
-          @include u-text('gray-70');
-          @include u-text('light');
-          @include u-text('italic');
+    }
+
+    .speaker_images{
+      @include u-margin-y(1);
+      @include u-display('flex');
+      @include u-flex('justify-center');
+      @include at-media('tablet'){
+        // @include u-flex('justify-start');
+      }
+      .media{
+        @include u-margin-right(1);
+        &:last-child{
+          @include u-margin-right(0);
         }
       }
     }
 
-    .speaker_images{
+    .actions{
+      @include u-margin-top(1);
       @include u-display('flex');
-      .media{
+      @include u-flex('justify-center');
+      .register{
         @include u-margin-right(1);
-        @include u-width(10);
+        .btn-register{
+          @include u-bg('white');
+          @include u-text('indigo-warm-70v');
+          @include u-border('2px', 'solid', 'indigo-warm-70v');
+        }
+      }
+      .addeventatc{
+        @extend .btn;
+        @include u-margin(0);
+        @include u-padding-y(1);
+        @include u-padding-x(2);
+        @include u-font('sans', 'sm');
+        @include u-bg('gray-5');
+        @include u-radius('sm');
+        @include u-text('gray-80');
+        @include u-border('2px', 'solid', 'gray-5');
+        &:hover{
+          @include u-bg('gray-10');
+          @include u-text('gray-80');
+          @include u-border('2px', 'solid', 'gray-10');
+          @include u-text('no-underline');
+        }
+        .atc_node{
+          &:hover{
+            @include u-text('no-underline');
+            @include u-border-bottom('2px', 'solid', 'gray-80');
+          }
+        }
       }
     }
 
   }
 
   &:first-child{
-    // @include u-margin-top(0);
     @include u-border-top(0);
   }
 }

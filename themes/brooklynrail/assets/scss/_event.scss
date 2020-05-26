@@ -21,6 +21,9 @@
       @include u-line-height('sans', 2);
       @include u-position('relative');
       @include u-z(100);
+      strong{
+        @include u-text('bold');
+      }
     }
 
     .deck{
@@ -99,7 +102,6 @@
         }
         .btn-register{
           @include u-text('uppercase');
-          @include u-bg('black');
           @include u-bg('indigo-warm-70v');
           @include u-border('2px', 'solid', 'indigo-warm-70v');
           @include u-padding-x('105');
@@ -137,9 +139,6 @@
           &:hover{
             @include u-text('no-underline');
             @include u-border-bottom('2px', 'solid', 'gray-80');
-            span{
-
-            }
           }
         }
       }
