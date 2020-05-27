@@ -2,8 +2,9 @@
 // Events Section page styles
 .events{
   section{
+    @include u-padding-top(5);
     .heading{
-      @include u-margin-y(2);
+      @include u-margin-bottom(4);
       @include u-font('serif', 'xl');
       @include u-text('thin');
       @include u-text('center');
@@ -12,9 +13,6 @@
       }
     }
   }
-  .past_events{
-    @include u-margin-top(5);
-  }
 }
 
 .stream {
@@ -22,4 +20,7 @@
 
 .past_events{
   @include u-bg('gray-90');
+  .heading{
+    @include u-text('white');
+  }
 }

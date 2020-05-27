@@ -39,7 +39,7 @@ The following variables transform dates and times for the event `start_date` and
       {{- if .Date -}}
       <div class="event-details">
         {{/* Start Date */}}
-        <time class="dt-start" datetime="{{- dateFormat "2006-01-02T15:04:05Z07:00" (time $start_date) -}}">{{- dateFormat "Monday, January 2" (time $start_date) -}}</time>
+        <time class="dt-start" datetime="{{- dateFormat "2006-01-02T15:04:05Z07:00" (time $start_date) -}}">{{- dateFormat "Monday, January 2, 2006" (time $start_date) -}}</time>
       </div>
       {{- end -}}
     </header>

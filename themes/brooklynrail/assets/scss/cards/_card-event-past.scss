@@ -1,13 +1,14 @@
-.card-event-past{
+section.card-event-past{
   @extend .event;
-
   @include u-margin(0);
+  @include u-padding(0);
   @include u-margin-bottom(4);
 
   .overlay *{
     @include u-text('white');
   }
   header {
+    @include u-padding-top(1);
     @include u-bg('transparent');
     @include u-minh('card');
     @include u-z(100);
@@ -26,8 +27,13 @@
     h2{
       @include u-margin-top(0);
       @include u-font('sans', 'lg');
-      @include u-text('thin');
+      @include u-line-height('sans', 2);
+      @include u-text('medium');
+      strong{
+        @include u-text('medium');
+      }
     }
+
     .deck{
       @include u-font('sans', 'lg');
     }
