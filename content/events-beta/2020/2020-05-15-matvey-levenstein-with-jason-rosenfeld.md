@@ -17,6 +17,8 @@ youtube_playlist_id:
 event_platform:
   - zoom
   - youtube
+speaker_images:
+  - media: 2020/05/matvey-levenstein-portrait
 ---
 We'd like to thank **[Kasmin Gallery](https://www.kasmingallery.com/)** for supporting this conversation. We are deeply grateful for their support of the Brooklyn Rail and our community.
 
