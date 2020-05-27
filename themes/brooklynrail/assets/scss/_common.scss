@@ -111,8 +111,8 @@ h2{
   @extend .btn;
   @include u-margin(0);
   @include u-padding-y(1);
-  @include u-padding-x(2);
-  @include u-font('sans', 'sm');
+  @include u-padding-x('105');
+  @include u-font('sans', 'xs');
 }
 
 .btn-lg{

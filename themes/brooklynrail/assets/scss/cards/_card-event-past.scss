@@ -1,71 +1,49 @@
 .card-event-past{
   @extend .event;
 
-
-  // Background Gradient — for when there's no image
-  @include u-bg('gray-warm-10');
-  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#d7e6f4+20,fcc5bd+100 */
-  background: #d7e6f4; /* Old browsers */
-  background: -moz-linear-gradient(-45deg,  #d7e6f4 20%, #fcc5bd 100%); /* FF3.6-15 */
-  background: -webkit-linear-gradient(-45deg,  #d7e6f4 20%,#fcc5bd 100%); /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(135deg,  #d7e6f4 20%,#fcc5bd 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d7e6f4', endColorstr='#fcc5bd',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
-
-
-
   @include u-margin(0);
   @include u-margin-bottom(4);
-  // @include u-position('relative');
-  // @include u-minh('mobile-lg');
-  // @include at-media('tablet-lg') {
-  //   @include u-minh('mobile-lg');
-  // }
-  // @include u-display('flex');
-  // @include u-flex('row');
-  // @include u-flex('align-end');
-  // @include u-z(0);
 
-
+  .overlay *{
+    @include u-text('white');
+  }
   header {
-    @include u-bg('gray-warm-90');
+    @include u-bg('transparent');
     @include u-minh('card');
     @include u-z(100);
     @include u-width('full');
-    @include u-padding('105');
     @include at-media('tablet-lg') {
-      @include u-padding('105');
     }
-    .content{
-      @include u-padding-y(0);
-      @include u-text('white');
-
-      .kicker{
-        @include u-font('sans', 'xs');
-        @include at-media('tablet-lg') {
-          @include u-font('sans', '2xs');
-        }
+    .kicker{
+      @include u-margin-bottom('05');
+      @include u-text('left');
+      @include u-font('sans', 'xs');
+      @include at-media('tablet-lg') {
+        @include u-font('sans', '2xs');
       }
+    }
 
-      h2{
-        @include u-font('sans', 'lg');
+    h2{
+      @include u-margin-top(0);
+      @include u-font('sans', 'lg');
+      @include u-text('thin');
+    }
+    .deck{
+      @include u-font('sans', 'lg');
+    }
+    .event-details{
+      @include u-margin-top(2);
+      @include u-font('sans', '2xs');
+      @include u-text('left');
+      time{
         @include u-text('thin');
       }
-      .deck{
-        @include u-font('sans', 'lg');
-      }
-      .event-details{
-        @include u-margin-top(2);
-        @include u-font('sans', '2xs');
-        time{
-          @include u-text('thin');
-        }
-      }
-      .actions{
-        .btn-event{
-          @include u-bg('white');
-          @include u-border('2px', 'solid', 'black');
-          @include u-text('black');
-        }
+    }
+    .actions{
+      .btn-event{
+        @include u-bg('white');
+        @include u-border('2px', 'solid', 'black');
+        @include u-text('black');
       }
     }
   }
@@ -75,6 +53,16 @@
   }
 
   .card_cover{
+    @include u-margin-bottom('105');
     @include u-height('card');
+    // Background Gradient — for when there's no image
+    @include u-bg('gray-warm-10');
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#d7e6f4+20,fcc5bd+100 */
+    background: #d7e6f4; /* Old browsers */
+    background: -moz-linear-gradient(-45deg,  #d7e6f4 20%, #fcc5bd 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(-45deg,  #d7e6f4 20%,#fcc5bd 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(135deg,  #d7e6f4 20%,#fcc5bd 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d7e6f4', endColorstr='#fcc5bd',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
   }
 }

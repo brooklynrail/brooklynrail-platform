@@ -5,8 +5,7 @@
 
   // Single Event Page / Header
   header {
-    // @include u-margin-bottom(2);
-    @include u-padding-y('205');
+    @include u-padding-y(4);
     @include at-media('tablet') {
       @include u-padding-y(0);
     }
@@ -155,9 +154,6 @@
         @include u-text('light');
       }
     }
-  }
-
-  section{
 
     .speaker_images{
       @include u-margin-y('105');
@@ -169,6 +165,12 @@
         @include u-width('card-lg');
       }
     }
+
+  }
+
+  section{
+
+
 
     .summary{
       @include u-margin-bottom(3);

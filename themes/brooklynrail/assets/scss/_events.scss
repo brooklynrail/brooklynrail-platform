@@ -6,6 +6,7 @@
       @include u-margin-y(2);
       @include u-font('serif', 'xl');
       @include u-text('thin');
+      @include u-text('center');
       @include at-media('tablet-lg') {
         @include u-font('serif', '3xl');
       }
@@ -17,4 +18,8 @@
 }
 
 .stream {
+}
+
+.past_events{
+  @include u-bg('gray-90');
 }

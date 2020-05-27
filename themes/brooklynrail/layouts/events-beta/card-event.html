@@ -6,7 +6,41 @@ The following variables transform dates and times for the event `start_date` and
   <header>
 
     <div class="grid-row">
-      <div class="grid-col-12">
+      <div class="grid-col-12 tablet:grid-col-3">
+
+        {{/* NOTE:
+        - `.Date` is recognized by HUGO as an official date
+        - `.Params.end_date` is a string that needs to be converted to a date (still confused by this)
+        */}}
+        {{- $start_date := .Date -}}
+        {{- $end_date := (time .Params.end_date) -}}
+        {{/* This sets $future_event to true or false */}}
+        {{- $future_event := (time .Params.end_date).After now -}}
+        {{- if .Date -}}
+
+        <div class="event-details">
+          {{/* Start Date */}}
+          <time class="dt-start" datetime="{{- dateFormat "2006-01-02T15:04:05Z07:00" (time $start_date) -}}">{{- dateFormat "Monday, January 2" (time $start_date) -}}</time>
+
+          {{/* Hidden: This completes the `dt-end` value for the `h-event` microformat */}}
+          <span class="hidden"> to <time class="dt-end" datetime="{{- dateFormat "2006-01-02T15:04:05Z07:00" (time $end_date) -}}">{{- dateFormat "Monday, January 2" (time $end_date) -}}</time></span>
+
+          <p class="event-time">
+            {{- dateFormat "3:04" (time $start_date) -}}&nbsp;
+            {{- $event_start_time_suffix := dateFormat "PM" (time $start_date) -}}
+            {{- $event_start_time_suffix := replace $event_start_time_suffix "PM" "p.m." -}}
+            {{- $event_start_time_suffix := replace $event_start_time_suffix "AM" "a.m." -}}
+            {{- $event_start_time_suffix -}}&nbsp;ET </br>
+            {{ $event_start_time_suffix_pt := dateFormat "PM" ((time $start_date).Add ( -3 | duration "hour" )) -}}
+            {{- $event_start_time_suffix_pt := replace $event_start_time_suffix_pt "PM" "p.m." -}}
+            {{- $event_start_time_suffix_pt := replace $event_start_time_suffix_pt "AM" "a.m." -}}
+            {{ dateFormat "3:04" ((time $start_date).Add ( -3 | duration "hour" )) -}}&nbsp;{{- $event_start_time_suffix_pt -}}&nbsp;PT
+          </p>
+        </div>
+        {{- end -}}
+
+      </div>
+      <div class="grid-col-12 tablet:grid-col-6">
 
         {{/* Kicker + Collections */}}
         {{- if .Params.collections -}}
@@ -34,56 +68,8 @@ The following variables transform dates and times for the event `start_date` and
         </p>
         {{- end -}}
 
-        {{- if .Params.Summary -}}
-        <div class="summary content">
-          <p>{{- .Params.Summary | markdownify -}}&nbsp;<a href="{{- .RelPermalink -}}" title="{{- .Title -}}">Details »</a></p>
-        </div>
-        {{- end -}}
-
-        {{/* NOTE:
-        - `.Date` is recognized by HUGO as an official date
-        - `.Params.end_date` is a string that needs to be converted to a date (still confused by this)
-        */}}
-        {{- $start_date := .Date -}}
-        {{- $end_date := (time .Params.end_date) -}}
-        {{/* This sets $future_event to true or false */}}
-        {{- $future_event := (time .Params.end_date).After now -}}
-        {{- if .Date -}}
-
-        <div class="event-details">
-          <i class="far fa-calendar"></i>&nbsp;
-          {{/* Start Date */}}
-          <time class="dt-start" datetime="{{- dateFormat "2006-01-02T15:04:05Z07:00" (time $start_date) -}}">{{- dateFormat "Monday, January 2" (time $start_date) -}}</time>
-
-          {{/* Hidden: This completes the `dt-end` value for the `h-event` microformat */}}
-          <span class="hidden"> to <time class="dt-end" datetime="{{- dateFormat "2006-01-02T15:04:05Z07:00" (time $end_date) -}}">{{- dateFormat "Monday, January 2" (time $end_date) -}}</time></span>
-
-          <p class="event-time">
-            {{- dateFormat "3:04" (time $start_date) -}}&nbsp;
-            {{- $event_start_time_suffix := dateFormat "PM" (time $start_date) -}}
-            {{- $event_start_time_suffix := replace $event_start_time_suffix "PM" "p.m." -}}
-            {{- $event_start_time_suffix := replace $event_start_time_suffix "AM" "a.m." -}}
-            {{- $event_start_time_suffix -}}&nbsp;Eastern <span>/</span>
-            {{ $event_start_time_suffix_pt := dateFormat "PM" ((time $start_date).Add ( -3 | duration "hour" )) -}}
-            {{- $event_start_time_suffix_pt := replace $event_start_time_suffix_pt "PM" "p.m." -}}
-            {{- $event_start_time_suffix_pt := replace $event_start_time_suffix_pt "AM" "a.m." -}}
-            {{ dateFormat "3:04" ((time $start_date).Add ( -3 | duration "hour" )) -}}&nbsp;{{- $event_start_time_suffix_pt -}}&nbsp;Pacific
-          </p>
-        </div>
-        {{- end -}}
-
-        {{/* Speaker Images */}}
-        {{- if .Params.speaker_images -}}
-        <div class="speaker_images">
-        {{- range $speaker_image := .Params.speaker_images -}}
-          {{/* Gets the page data for this media in `/content/media` */}}
-          {{- $image := $.Site.GetPage "page" (printf "/%s/%s" "media" $speaker_image.media) -}}
-          {{- with $image -}}
-            {{- template "figure" (dict "image" . "size" "xs" "width" "100" ) -}}
-          {{- end -}}
-        {{- end -}}
-        </div>
-        {{- end -}}
+      </div>
+      <div class="grid-col-12 tablet:grid-col-3">
 
         <div class="actions">
           {{- with .Params.registration_url -}}
@@ -106,10 +92,7 @@ The following variables transform dates and times for the event `start_date` and
             <p class="coming-soon">Registration coming soon. <span>Dates and times might change.</span></p>
           {{- end -}}
         </div>
-
       </div>
-
     </div>
-
   </header>
 </section>

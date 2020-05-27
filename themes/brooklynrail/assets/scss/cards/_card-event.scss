@@ -9,57 +9,14 @@
   header {
     @include u-padding-y(0);
 
-    .kicker{
-      @include u-margin-bottom('05');
-      @include u-text('center');
-      @include u-font('sans', '2xs');
-      @include at-media('tablet') {
-        @include u-font('sans', 'xs');
-      }
-    }
-
-    h2{
-      @include u-margin(0);
-      @include u-text('medium');
-      @include u-text('center');
-      @include u-font('sans', 'lg');
-      strong{
-        @include u-text('medium');
-      }
-    }
-    .deck{
-      @include u-font('sans', 'lg');
-      @include u-text('center');
-    }
-    .summary{
-      @include u-display('none');
-      @include u-margin-top(1);
-      @include u-font('sans', 'xs');
-      @include u-text('center');
-      @include at-media('tablet-lg') {
-        @include u-font('sans', 'sm');
-      }
-      strong{
-        @include u-text('medium');
-      }
-      a{
-        @include u-text('primary');
-      }
-    }
-
     .event-details{
-      @include u-margin-y('105');
       @include u-font('sans', '2xs');
       @include u-text('medium');
-      @include u-text('center');
       @include at-media('tablet') {
         @include u-font('sans', 'sm');
       }
       time{
         @include u-margin-right(0);
-        @include at-media('tablet') {
-          @include u-margin-right(2);
-        }
       }
 
       .event-time{
@@ -70,27 +27,33 @@
         @include u-font('sans', '2xs');
         @include u-line-height('sans', 4);
         @include at-media('tablet') {
-          @include u-font('sans', 'sm');
-          @include u-display('inline');
-        }
-      }
-
-    }
-
-    .speaker_images{
-      @include u-margin-y(1);
-      @include u-display('flex');
-      @include u-flex('justify-center');
-      @include at-media('tablet'){
-        // @include u-flex('justify-start');
-      }
-      .media{
-        @include u-margin-right(1);
-        &:last-child{
-          @include u-margin-right(0);
+          @include u-font('sans', 'xs');
         }
       }
     }
+
+
+
+    .kicker{
+      @include u-margin-bottom('05');
+      @include u-font('sans', '2xs');
+      @include at-media('tablet') {
+        @include u-font('sans', 'xs');
+      }
+    }
+
+    h2{
+      @include u-margin(0);
+      @include u-text('medium');
+      @include u-font('sans', 'lg');
+      strong{
+        @include u-text('medium');
+      }
+    }
+    .deck{
+      @include u-font('sans', 'lg');
+    }
+
 
     .actions{
       @include u-margin-top(1);
@@ -108,8 +71,8 @@
         @extend .btn;
         @include u-margin(0);
         @include u-padding-y(1);
-        @include u-padding-x(2);
-        @include u-font('sans', 'sm');
+        @include u-padding-x('105');
+        @include u-font('sans', 'xs');
         @include u-bg('gray-5');
         @include u-radius('sm');
         @include u-text('gray-80');

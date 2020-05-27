@@ -44,7 +44,7 @@
 
   {{- if $past_events -}}
   <section class="past_events">
-    <div class="grid-container">
+    <div class="grid-container grid-container-widescreen">
 
       <div class="grid-row">
         <div class="grid-col-12">
@@ -52,7 +52,7 @@
         </div>
       </div>
 
-      <div class="grid-row mobile-lg:grid-gap-2 tablet:grid-gap-4 desktop:grid-gap-4">
+      <div class="grid-row mobile-lg:grid-gap-2 tablet:grid-gap-4">
         {{- range $past_events -}}
           <div class="grid-col-12 mobile-lg:grid-col-6 tablet-lg:grid-col-4 desktop-lg:grid-col-3">
             {{- .Render "card-event-past" -}}
