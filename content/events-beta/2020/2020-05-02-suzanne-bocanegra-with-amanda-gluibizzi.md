@@ -18,6 +18,9 @@ youtube_id: p438dlNoUsI
 event_platform:
   - zoom
   - youtube
+speaker_images:
+  - media: 2020/05/suzanne-bocanegra-photo
+  - media: 2020/05/amanda-gluibizzi-portrait
 ---
 **Suzanne Bocanegra** employs theater to interrogate the history and practice of visual art, using large-scale video, performance and installation, as well as collage, sculpture and painting. Solo shows of Bocanegra's work include Wardrobe Test, Art Cake, Brooklyn (2019); Poorly Watched Girls, Fabric Workshop and Museum, Philadelphia(2018); and I Write the Songs, Tang Museum, Saratoga Springs, NY (2010; traveled to SITE Santa Fe, N.M. 2011). Her performances have been presented at the Museum of Modern Art (2010), Carnegie Museum of Art (2013), Hammer Museum (2013), Mitchell Center for the Arts, Houston (2011,15,17), UCLA’s Center for the Art of Performance (2018), Brooklyn Academy of Music’s Next Wave Festival (2013,2017), Wexner Center, Ohio (2010,17), Pulitzer Arts Foundation(2019), Fisher Center at Bard College (2018), Danspace Project (2014), Chicago Arts Club (2016), American Dance Institute (2016) among others. In 2020 Bocanegra received both the Robert Rauschenberg award from the Foundation for Contemporary Arts and a Guggenheim Foundation fellowship. She is currently working on a performance co-commissioned by the Metropolitan Museum of Art, the Center for the Art of Performance at UCLA and the Institute of Contemporary Art in Boston, about the largest Renaissance tapestry owned by the Met, titled Honor.
 
