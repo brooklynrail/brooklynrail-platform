@@ -16,6 +16,10 @@ youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
 youtube_id: xhDUsL1O3sI
 event_platform:
   - zoom
+speaker_images:
+  - media: 2020/05/mark-lubell-portrait
+  - media: 2020/05/limor-tomer
+  - media: 2020/05/paul-d-miller
 ---
 **Limor Tomer** has led The Metropolitan Museum of Art’s Live Arts program for 8 years, during which time she completely transformed the program into a world leader in museum-based performance. As General Manager, Live Arts, she curates, commissions, produces, and presents groundbreaking performances, both in the Museum’s 700-seat auditorium and its galleries and public spaces. Performances reach over 100,000 visitors annually, over 500,000 online, and have garnered consistent critical and audience praise. She regularly gives presentations on museum-based performance art around the world and leads workshops with museums nationally and internationally. Limor holds two degrees from The Juilliard School and an Honorary Doctorate from Manhattan School of Music. She was honored by ETHEL, So Percussion, and ASCAP for her work in adventurous programming, she teaches Entrepreneurship in creative production at The New School, and serves on the National Curatorial Council of The Hermitage Artist Retreat. 
 
