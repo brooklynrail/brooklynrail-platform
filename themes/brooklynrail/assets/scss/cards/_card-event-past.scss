@@ -63,12 +63,12 @@ section.card-event-past{
     @include u-height('card');
     // Background Gradient — for when there's no image
     @include u-bg('gray-warm-10');
-    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#d7e6f4+20,fcc5bd+100 */
-    background: #d7e6f4; /* Old browsers */
-    background: -moz-linear-gradient(-45deg,  #d7e6f4 20%, #fcc5bd 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(-45deg,  #d7e6f4 20%,#fcc5bd 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(135deg,  #d7e6f4 20%,#fcc5bd 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d7e6f4', endColorstr='#fcc5bd',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
-
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#a1d3ff+25,f2938c+100 */
+    background: rgb(161,211,255); /* Old browsers */
+    background: -moz-linear-gradient(-45deg,  rgba(161,211,255,1) 25%, rgba(242,147,140,1) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(-45deg,  rgba(161,211,255,1) 25%,rgba(242,147,140,1) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(135deg,  rgba(161,211,255,1) 25%,rgba(242,147,140,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a1d3ff', endColorstr='#f2938c',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
   }
+
 }
