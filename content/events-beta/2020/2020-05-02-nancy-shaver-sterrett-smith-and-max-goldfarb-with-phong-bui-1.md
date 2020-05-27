@@ -17,6 +17,9 @@ youtube_id: rNOICBIiK24
 event_platform:
   - zoom
   - youtube
+speaker_images:
+  - media: 2020/05/steve-silberman-portrait
+  - media: 2020/05/raymond-foye
 ---
 **Steve Silberman** is an award-winning science writer and the author of the New York Times best-selling NeuroTribes: The Legacy of Autism and the Future of Neurodiversity, which unearths the secret history of autism, and features an introduction by the late neurologist/author Oliver Sacks. Among many other major awards, the book received the Samuel Johnson Prize for Non-Fiction—the first popular science book to win the prize in its 17-year history—and is now translated into 16 languages. Silberman's articles on science, music, art, and culture have appeared in Wired, the New Yorker, the MIT Technology Review, Nature, The Believer, Salon, Shambhala Sun, and many other publications. As a young man, Silberman worked as a teaching assistant to poet Allen Ginsberg. He also coproduced the Grateful Dead's box set So Many Roads (1965-1995), which was Rolling Stone's Box Set of the Year. His Twitter feed is [@stevesilberman](https://twitter.com/stevesilberman), and he lives with his husband Keith Karraker in San Francisco.\
 \
