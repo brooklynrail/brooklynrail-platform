@@ -6,17 +6,19 @@ date: 2020-05-01 13:00:00 -0500
 end_date: 2020-05-01 14:00:00 -0500
 collections:
   - the-new-social-environment
-event_producer:
-  - the-brooklyn-rail
 event_organizer:
   - the-brooklyn-rail
+event_producer:
+  - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-34-raha-raissnia-tickets-103262043552#
-youtube_id: G2H2N5WDTIs
 youtube_playlist_id:
   - the-new-social-environment
+youtube_id: G2H2N5WDTIs
 event_platform:
   - zoom
   - youtube
+speaker_images:
+  - media: 2020/05/raha-raissnia-portrait
 ---
 “I have to tell you, I learned filmmaking more from painters and musicians than from filmmakers," director Béla Tarr has confessed. Reversing his cue, **Raha Raissnia** learned to paint from filmmakers and musicians rather than painters. Years spent at Anthology Film Archives left her well-versed in the cinematic avant-garde, and her projection performances often involve collaborations with experimental musicians Aki Onda and Charles Curtis. Above all, Raissnia’s work aspires to the temporal and experiential condition of music—suggestive, ambiguous, abstract.
 
