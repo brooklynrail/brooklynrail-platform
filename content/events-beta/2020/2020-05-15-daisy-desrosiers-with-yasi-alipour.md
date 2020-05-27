@@ -17,6 +17,8 @@ youtube_id: gT6-yc365Co
 event_platform:
   - zoom
   - youtube
+speaker_images:
+  - media: 2020/05/daisy-desrosiers-portrait-by-phong-bui
 ---
 **Daisy Desrosiers** is an independent curator and researcher based in Montreal. Desrosiers is the inaugural Director of Artist Programs at the Lunder Institute for American Art at Colby College. She is an interdisciplinary art historian and independent curator. Her thesis concerns the cultural, post-colonial, and material implications of the use of sugar in contemporary art. In 2018, she was the inaugural recipient of the Nicholas Fox Weber curatorial fellowship, affiliated with the Glucksman Museum (Cork, Ireland), as well as a curatorial fellow-in-residence at Art in General (Brooklyn, NY).
 
