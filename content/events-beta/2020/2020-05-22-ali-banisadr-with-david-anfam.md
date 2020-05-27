@@ -18,6 +18,9 @@ youtube_id: NN2K8uLUQ1Y
 event_platform:
   - zoom
   - youtube
+speaker_images:
+  - media: 2020/05/ali-banisadr-portrait
+  - media: 2020/05/david-anfam-portrait
 ---
 
 
