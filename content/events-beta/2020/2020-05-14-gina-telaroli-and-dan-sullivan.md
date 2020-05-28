@@ -2,18 +2,21 @@
 title: Gina Telaroli and Dan Sullivan
 summary: The _Rail_’s Film Editors Gina Telaroli and Dan Sullivan discuss
   creative life in the context of our new social reality.
+date: 2020-04-02 13:00:00 -0500
+end_date: 2020-04-02 14:00:00 -0500
 collections:
   - the-new-social-environment
-event_producer:
-  - the-brooklyn-rail
 event_organizer:
+  - the-brooklyn-rail
+event_producer:
   - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-13-gina-telaroli-and-dan-sullivan-tickets-101363264252#
 youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
-date: 2020-04-02 13:00:00 -0500
-end_date: 2020-04-02 14:00:00 -0500
 event_platform:
   - zoom
+speaker_images:
+  - media: 2020/05/gina-telaroli-portrait
+  - media: 2020/05/dan-sullivan-portrait
 ---
 **Dan Sullivan**  is a curator and writer based in New York City. In addition to editing the  *Brooklyn Rail*’s film section, Sullivan is a programmer for Film at Lincoln Center.
 
