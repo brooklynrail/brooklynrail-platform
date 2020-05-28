@@ -2,20 +2,22 @@
 title: Cecily Brown with Jason Rosenfeld
 summary: Painter Cecily Brown and writer Jason Rosenfeld discuss creative life
   in the context of our new social reality.
-collections:
-  - the-new-social-environment
-event_producer:
-  - the-brooklyn-rail
-event_organizer:
-  - the-brooklyn-rail
-registration_url: https://www.eventbrite.com/e/the-new-social-environment-12-cecily-brown-tickets-101364568152#
-youtube_id: JQrWIVTLSr8
-youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
 date: 2020-04-01 13:00:00 -0500
 end_date: 2020-04-01 14:00:00 -0500
+collections:
+  - the-new-social-environment
+event_organizer:
+  - the-brooklyn-rail
+event_producer:
+  - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-12-cecily-brown-tickets-101364568152#
+youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
+youtube_id: JQrWIVTLSr8
 event_platform:
   - zoom
   - youtube
+speaker_images:
+  - media: 2020/05/cecily-brown
 ---
 **Cecily Brown** is a painter, born in London who lives and works in New York.
 
