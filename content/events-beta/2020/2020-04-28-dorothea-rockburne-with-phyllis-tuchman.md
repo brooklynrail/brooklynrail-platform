@@ -16,6 +16,8 @@ youtube_id: FRwnafMlqdA
 event_platform:
   - zoom
   - youtube
+speaker_images:
+  - media: 2020/05/dorthea-rockburne-portrait
 ---
 **Dorothea Rockburne** is an artist, born in Montréal, who lives and works in New York. Most recently, she had a solo show installed for long-term view at Dia:Beacon in 2018.
 
