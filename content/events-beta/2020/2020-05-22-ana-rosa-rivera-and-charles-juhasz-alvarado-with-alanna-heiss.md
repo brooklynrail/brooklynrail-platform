@@ -15,6 +15,7 @@ event_organizer:
 event_producer:
   - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-53-ana-rosa-rivera-and-charles-juhasz-alvarado-tickets-106264606298
+youtube_id: 75djt9IS2Sg
 event_platform:
   - zoom
 ---
