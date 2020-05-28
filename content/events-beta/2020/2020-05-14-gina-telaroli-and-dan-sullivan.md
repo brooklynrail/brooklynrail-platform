@@ -15,8 +15,8 @@ youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
 event_platform:
   - zoom
 speaker_images:
-  - media: 2020/05/gina-telaroli-portrait
   - media: 2020/05/dan-sullivan-portrait
+  - media: 2020/05/gina-telaroli-portrait-2
 ---
 **Dan Sullivan**  is a curator and writer based in New York City. In addition to editing the  *Brooklyn Rail*’s film section, Sullivan is a programmer for Film at Lincoln Center.
 
