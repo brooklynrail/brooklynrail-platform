@@ -7,16 +7,18 @@ date: 2020-04-07 13:00:00 -0500
 end_date: 2020-04-07 14:00:00 -0500
 collections:
   - the-new-social-environment
-event_producer:
-  - the-brooklyn-rail
 event_organizer:
   - the-brooklyn-rail
+event_producer:
+  - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-16-natalie-baker-tickets-101906133990#
-youtube_id: F3Q4M3Pmnw4
 youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
+youtube_id: F3Q4M3Pmnw4
 event_platform:
   - zoom
   - youtube
+speaker_images:
+  - media: 2020/05/natalie-baker-portrait
 ---
 **Natalie Baker** (she/her) is an Assistant Professor of Security Studies at Sam Houston State University in Texas. She has conducted a number of research projects focused on security issues broadly, ranging from the Ebola scare in the US to the aftermath of Hurricane Katrina in New Orleans. Her work rests in the intersections of security, sociology, science and technology studies, media studies, and critical theory.
 
