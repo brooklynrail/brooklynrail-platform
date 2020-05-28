@@ -5,6 +5,7 @@ summary: "Musicians and activists Jesse Paris Smith and Rebecca Foon, with
   context of our new social reality. "
 date: 2020-05-27 13:00:00 -0500
 end_date: 2020-05-27 14:00:00 -0500
+series: 52
 collections:
   - the-new-social-environment
 event_sponsor:
@@ -14,6 +15,7 @@ event_organizer:
 event_producer:
   - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-52-rebecca-foon-and-jesse-paris-smith-tickets-106128697792
+youtube_id: JSX0VCbd5pU
 event_platform:
   - zoom
 ---
