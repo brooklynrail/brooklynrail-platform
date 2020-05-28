@@ -16,6 +16,8 @@ youtube_id: BolVK2GKS18
 event_platform:
   - zoom
   - youtube
+speaker_images:
+  - media: 2020/05/lyle-ashton-harris
 ---
 **Lyle Ashton Harris** has cultivated a diverse artistic practice ranging from photography and collage to installation and performance art. His work explores intersections between the personal and the political, examining the impact of ethnicity, gender, and desire on the contemporary social and cultural dynamic. Born in the Bronx, New York, raised in Dar es Salaam, Tanzania, and New York, Harris obtained a Bachelor of Arts degree from Wesleyan University, a Master of Fine Arts degree from the California Institute of the Arts, and attended the Whitney Museum of American Art Independent Study Program. Harris is represented in the permanent collections of MoMA, the Metropolitan Museum of Art, the Guggenheim Museum, and the Whitney Museum of American Art, among others. Harris has also presented performances at a range of venues, most recently at Volksbühne Grüner Salon sponsored by KW Institute for Contemporary Art, Berlin in 2019. Harris is a Professor of Art at New York University and lives in New York. ([source](<https://www.lyleashtonharris.com/about/>))
 
