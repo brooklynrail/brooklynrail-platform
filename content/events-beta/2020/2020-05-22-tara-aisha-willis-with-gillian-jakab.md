@@ -18,6 +18,8 @@ youtube_id: B73OEQkTYas
 event_platform:
   - zoom
   - youtube
+speaker_images:
+  - media: 2020/05/tara-aisha-willis
 ---
 
 
