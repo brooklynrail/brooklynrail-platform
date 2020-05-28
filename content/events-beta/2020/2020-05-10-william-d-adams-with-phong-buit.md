@@ -1,21 +1,23 @@
 ---
-title: William D. Adams with Phong Bui
 summary: Artist William D. Adams and the _Brooklyn Rail_’s publisher Phong Bui
   discuss creative life in the context of our new social reality.
+event_organizer:
+  - the-brooklyn-rail
+youtube_playlist_id:
+  - the-new-social-environment
+title: William D. Adams with Phong Bui
+date: 2020-04-13 13:00:00 -0500
+end_date: 2020-04-13 14:00:00 -0500
 collections:
   - the-new-social-environment
 event_sponsor: Sikkema Jenkins & Co.
 event_producer:
   - the-brooklyn-rail
-event_organizer:
-  - the-brooklyn-rail
 youtube_id: SkSYOyb1dQ0
-youtube_playlist_id:
-  - the-new-social-environment
-date: 2020-04-13 13:00:00 -0500
-end_date: 2020-04-13 14:00:00 -0500
 event_platform:
   - zoom
+speaker_images:
+  - media: 2020/05/william-d-adams-portrait
 ---
 We'd like to thank  [Sikkema Jenkins & Co](https://www.sikkemajenkinsco.com/)  for supporting this conversation. Check out their current exhibitions [here](https://www.sikkemajenkinsco.com/current-exhibitions).
 
