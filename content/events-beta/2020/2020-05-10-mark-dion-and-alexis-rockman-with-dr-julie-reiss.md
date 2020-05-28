@@ -18,7 +18,6 @@ event_platform:
   - youtube
 speaker_images:
   - media: 2020/05/alexis-rockman-portrait
-  - media: 2020/05/mark-dion-portrait
 ---
 
 
