@@ -1,20 +1,22 @@
 ---
-title: Julian Schnabel with Phong Bui
 summary: Artist Julian Schnabel and the _Brooklyn Rail's_ publisher Phong Bui
   discuss creative life in the context of our new social reality.
+event_organizer:
+  - the-brooklyn-rail
+youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
+title: Julian Schnabel with Phong Bui
+date: 2020-04-03 13:00:00 -0500
+end_date: 2020-04-03 14:00:00 -0500
 collections:
   - the-new-social-environment
 event_producer:
   - the-brooklyn-rail
-event_organizer:
-  - the-brooklyn-rail
 youtube_id: wc_cCLWgQkw
-youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
-date: 2020-04-03 13:00:00 -0500
-end_date: 2020-04-03 14:00:00 -0500
 event_platform:
   - zoom
   - youtube
+speaker_images:
+  - media: 2020/05/julian-schnabel
 ---
 **Julian Schnabel**  is an artist and filmmaker based in New York, his most recent solo show of paintings, The Patch of Blue the Prisoner Calls the Sky, opened at Pace Gallery in March. His films include  _At Eternity’s Gate_  (2018) and  _Miral_  (2010), among others.
 
