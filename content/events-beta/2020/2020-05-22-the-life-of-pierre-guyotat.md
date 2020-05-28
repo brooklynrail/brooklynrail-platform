@@ -18,6 +18,8 @@ youtube_id: DFg-TGHCGUY
 event_platform:
   - zoom
   - youtube
+speaker_images:
+  - media: 2020/05/donatien-grau-portrait
 ---
 **Noura Wedell** is a writer, scholar, translator, and an editor for *Semiotext(e)*. She edited *Investigations: the Expanded Field of Writing in the Works of Robert Morris* (Presses Universitaires de Lyon, 2015), and has translated six books, including theoretical texts by Toni Negri and Guy Hocquenghem, and three autobiographical narratives by Pierre Guyotat. She has also published a book of poetry, *Odd Directions* (Opera Prima, 2009). Currently she teaches at the Roski School of Art and Design at the University of Southern California, Los Angeles. ([Source](https://lareviewofbooks.org/contributor/noura-wedell/))
 
