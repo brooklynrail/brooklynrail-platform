@@ -1,21 +1,23 @@
 ---
-title: Ann Lauterbach with Anselm Berrigan
 summary: Poet Ann Lauterbach and the _Rail's_  Poetry Editor Anselm Berrigan
   discuss creative life in the context of our new social reality.
+event_organizer:
+  - the-brooklyn-rail
+youtube_playlist_id:
+  - the-new-social-environment
+title: Ann Lauterbach with Anselm Berrigan
+date: 2020-04-08 13:00:00 -0500
+end_date: 2020-04-08 14:00:00 -0500
 collections:
   - the-new-social-environment
 event_producer:
   - the-brooklyn-rail
-event_organizer:
-  - the-brooklyn-rail
 youtube_id: Xy1vBXmdxLo
-youtube_playlist_id:
-  - the-new-social-environment
-date: 2020-04-08 13:00:00 -0500
-end_date: 2020-04-08 14:00:00 -0500
 event_platform:
   - zoom
   - youtube
+speaker_images:
+  - media: 2020/05/ann-lauterbach
 ---
 
 **Ann Lauterbach**  (she/her) has published ten collections of poetry, most recently Spell (Penguin, 2018). Her prose has been collected in *The Night Sky: Writings on the Poetics of Experience* (Viking, 2006); *The Given & The Chosen*; and *Saint Petersburg Notebook*. She has written on artists Joe Brainard, Jessica Stockholder, Taylor Davis, Kenji Fujita and Cheyney Thompson, among others, and for the exhibition *Whole Fragment* at the Sheppard Fine Arts Gallery in Reno, Nevada. Lauterbach has received fellowships from the Ingram Merrill Foundation, the Guggenheim Foundation and the John D. and Catherine T. MacArthur Foundation. Her 2009 collection, *Or to Begin Again*, was nominated for a National Book Award. She has been, since 1990, co-Chair of Writing in the interdisciplinary Milton Avery School of the Arts and, since 1997, Ruth and David Schwab II Professor of Languages and Literature, at Bard College. She lives in Germantown, New York.
