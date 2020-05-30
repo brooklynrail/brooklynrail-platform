@@ -8,19 +8,19 @@ series: 50
 collections:
   - the-new-social-environment
 event_sponsor:
-  - art-cake
+  - the-brooklyn-rail
 event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-50-chris-martin-tickets-105971962994
+youtube_id: Icqsyt3guv4
 event_platform:
   - zoom
 speaker_images:
   - media: 2020/05/chris-martin
   - media: 2020/05/raymond-foye
 ---
-
 {{< image media="2020/05/chris-martin" size="sm" >}}
 
 **Chris Martin** is a contemporary American abstract painter. His wide range of material and imagery is drawn from Buddhist mandalas, the landscapes of the Catskills, and the legacy of Abstract Expressionism. Martin’s works attempt to deal with the psychological internalizations of spirituality and memory, using formalism in a way similar to both Alfred Jensen and Thomas Nozkowski. The artist regularly incorporates unconventional materials into his work, such as textiles, glitter, and vinyl records, as evidenced in Sweet Dreams (2nd Pillow Painting) (2009), a canvas where six affixed pillows are covered in bight neon paint.
@@ -39,7 +39,7 @@ Born in 1954 in Washington, D.C., he studied at the School of Visual Arts in New
 
 Chris Martin is also a contributor of the Rail. [See all contributions](https://brooklynrail.org/contributor/chris-martin).
 
----
+- - -
 
 {{< image media="2020/05/raymond-foye" size="sm" >}}
 

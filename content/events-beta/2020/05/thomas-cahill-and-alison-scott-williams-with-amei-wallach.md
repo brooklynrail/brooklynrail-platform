@@ -1,11 +1,11 @@
 ---
-title: Thomas Cahill and Alison Scott-Williams with Amei Wallach
+title: Alison Scott-Williams and Thomas Cahill with Amei Wallach
 summary: Studio Institute President Thomas Cahill and Studio in a School NYC
   President Alison Scott-Williams with art critic Amei Wallach, discuss creative
   life in the context of our new social reality.
 date: 2020-05-21 13:00:00 -0500
 end_date: 2020-05-21 14:00:00 -0500
-series: ""
+series: 48
 collections:
   - the-new-social-environment
 event_sponsor:
@@ -15,9 +15,11 @@ event_organizer:
 event_producer:
   - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-48-thomas-cahill-alison-scott-williams-tickets-105539158464#
+youtube_id: jxnvHZ5AUSE
 event_platform:
   - zoom
-  - youtube
+speaker_images:
+  - media: 2020/05/thomas-cahill-portrait
 ---
 **Thomas Cahill** is the President of Studio Institute. He has devoted his professional life to the art of teaching art, working with hundreds of visual artists at Studio in a School where he served as the first Executive Director. Under Mr. Cahill’s leadership, Studio Institute shares tested innovations, visual arts curricula, classroom program models, professional development models, arts internships, research grants, and assessment methods with arts and educational communities nationwide.
 

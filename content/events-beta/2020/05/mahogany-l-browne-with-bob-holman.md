@@ -1,7 +1,7 @@
 ---
-title: Writer **Mahogany L. Browne** and poet **Bob Holman**
-summary: Writer **Mahogany L. Browne** and poet **Bob Holman** discuss creative
-  life in the context of our new social reality.
+title: Writer Mahogany L. Browne and poet Bob Holman
+summary: Writer Mahogany L. Browne and poet Bob Holman discuss creative life in
+  the context of our new social reality.
 date: 2020-05-26 13:00:00 -0500
 end_date: 2020-05-26 14:00:00 -0500
 series: 51
@@ -14,10 +14,12 @@ event_organizer:
 event_producer:
   - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-51-mahogany-l-browne-tickets-106432442300
+youtube_id: SqMYQ5LTRbw
 event_platform:
   - zoom
 speaker_images:
   - media: 2020/05/mahogany-l-browne-portrait
+  - media: 2020/05/bob-holman-portrait
 ---
 **Mahogany L. Browne** is a writer, organizer & educator. Executive Director of Bowery Poetry Club & Artistic Director of Urban Word NYC & Poetry Coordinator at St. Francis College. Browne has received fellowships from Agnes Gund, Air Serenbe, Cave Canem, Poets House, Mellon Research & Rauschenberg. She is the author of Woke: A Young Poets Call to Justice, Woke Baby & Black Girl Magic (Macmillan), Kissing Caskets (Yes Yes Books) & Dear Twitter (Penmanship Books). She is also the founder of the Woke Baby Book Fair (a nationwide diversity literature campaign) & as an Arts for Justice grantee, is completing her first book of essays on mass incarceration, investigating its impact on women and children. She lives in Brooklyn, NY.
 

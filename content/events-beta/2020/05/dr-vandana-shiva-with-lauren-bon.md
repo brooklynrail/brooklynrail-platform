@@ -11,11 +11,13 @@ event_organizer: Metabolic Studio
 event_producer:
   - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-38-dr-vandana-shiva-tickets-103929722598
+youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
+youtube_id: S1m2UoksXkA
 event_platform:
   - zoom
 speaker_images:
   - media: 2020-05-dr-vandana-shiva
-youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
+  - {}
 ---
 **Dr. Vandana Shiva**  is an Indian physicist and social activist. Shiva founded the Research Foundation for Science, Technology, and Natural Resource Policy (RFSTN), an organization devoted to developing sustainable methods of agriculture, in 1982.
 

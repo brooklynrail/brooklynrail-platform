@@ -68,7 +68,7 @@ collections:
     label_singular: "Event"
     description: "TKTK"
     folder: "content/events-beta" # path to the folder where files are stored
-    path: "{{year}}/{{year}}-{{month}}-{{day}}-{{slug}}" # custom file path
+    path: "{{year}}/{{month}}/{{slug}}" # custom file path
     create: true # Allow users to create new documents in this collection
     identifier_field: title # sets the field that is used to create the slug
     slug: "{{slug}}"
@@ -109,7 +109,6 @@ collections:
         dateFormat: "YYYY-MM-DD" # e.g. 2021-11.23
         timeFormat: "HH:mm" # e.g. 21:00
         format: "YYYY-MM-DD HH:mm:00 -0500"
-        default: "2020-05-20 13:00"
         hint: "The start date and time of the event (Note: uses a 24hr clock, e.g. 13:00)"
 
       - label: "End time"
@@ -118,7 +117,6 @@ collections:
         dateFormat: "YYYY-MM-DD" # e.g. 2021-11.23
         timeFormat: "HH:mm" # e.g. 21:00
         format: "YYYY-MM-DD HH:mm:00 -0500"
-        default: "2020-05-20 14:00"
         hint: "The end date and time of the event (Note: uses a 24hr clock, e.g. 14:00)"
 
       - label: "Series number"
