@@ -8,6 +8,7 @@ youtube_playlist_id:
 title: William D. Adams with Phong Bui
 date: 2020-04-13 13:00:00 -0500
 end_date: 2020-04-13 14:00:00 -0500
+series: 20
 collections:
   - the-new-social-environment
 event_sponsor: Sikkema Jenkins & Co.

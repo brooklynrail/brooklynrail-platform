@@ -4,6 +4,7 @@ summary: Painter Cecily Brown and writer Jason Rosenfeld discuss creative life
   in the context of our new social reality.
 date: 2020-04-01 13:00:00 -0500
 end_date: 2020-04-01 14:00:00 -0500
+series: 12
 collections:
   - the-new-social-environment
 event_organizer:
@@ -11,11 +12,11 @@ event_organizer:
 event_producer:
   - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-12-cecily-brown-tickets-101364568152#
-youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
+
 youtube_id: JQrWIVTLSr8
 event_platform:
   - zoom
-  - youtube
+
 speaker_images:
   - media: 2020/05/cecily-brown
 ---

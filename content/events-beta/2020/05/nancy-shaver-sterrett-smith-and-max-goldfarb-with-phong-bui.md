@@ -5,6 +5,7 @@ summary: Artists Nancy Shaver, Sterrett Smith, and Max Goldfarb, collectively
   life in the context of our new social reality.
 date: 2020-05-05 13:00:00 -0500
 end_date: 2020-05-05 14:00:00 -0500
+series: 36
 collections:
   - the-new-social-environment
 event_sponsor:
@@ -14,7 +15,7 @@ event_organizer:
 event_producer:
   - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-36-nancy-shaver-sterrett-smith-max-goldfarb-tickets-103921162996
-youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
+
 youtube_id: dYeY1aAEGqE
 event_platform:
   - zoom
@@ -29,7 +30,7 @@ Nancy Shaver has a solo exhibition with Sterrett Smith, and Max Goldfarb at **De
 \
 **Sterrett Smith** studied painting with Jim Gahagan, a great American colorist who directed the Hans Hoffman School, at Goddard College and graduated from the San Francisco Art Institute with a BFA in painting in 1980, where she studied with Hassel Smith, Franklin Williams, Robert Hudson, and Angela Davis. She also studied in San Francisco with Helen Palmer, Diane DiPrima, Ian Grand, and Charles Ponce in the training of the intuition, the Kabbalah, and Somatic Knowledge. She was part of the group of artists and poets in Jess and Robert Duncan's household and Diane DiPrima's circle. She has been painting and making sculptures ever since. She lives with her husband, the writer David Levi Strauss, in the Hudson Valley, where she is currently working in the studio, and growing a wide variety of fruits, berries and greens.\
 \
-**In the Rail:** 
+**In the Rail:**
 
 * *[Premonition of Barrel Bombs (Syria)](https://brooklynrail.org/2016/04/criticspage/premonition-of-barrel-bombs-syria),* April 2016
 

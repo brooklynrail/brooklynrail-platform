@@ -4,11 +4,10 @@ summary: Painter Ali Banisadr and scholar David Anfam discuss creative life in
   the context of our new social reality.
 date: 2020-05-13 13:00:00 -0500
 end_date: 2020-05-13 14:00:00 -0500
-series: ""
+series: 42
 collections:
   - the-new-social-environment
-event_sponsor:
-  - the-brooklyn-rail
+event_sponsor: []
 event_organizer:
   - the-brooklyn-rail
 event_producer:
@@ -17,7 +16,6 @@ registration_url: https://www.eventbrite.com/e/the-new-social-environment-42-ali
 youtube_id: NN2K8uLUQ1Y
 event_platform:
   - zoom
-  - youtube
 speaker_images:
   - media: 2020/05/ali-banisadr-portrait
   - media: 2020/05/david-anfam-portrait

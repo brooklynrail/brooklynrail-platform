@@ -17,7 +17,7 @@ registration_url: https://www.eventbrite.com/e/the-new-social-environment-11-tar
 youtube_id: B73OEQkTYas
 event_platform:
   - zoom
-  - youtube
+
 speaker_images:
   - media: 2020/05/tara-aisha-willis
 ---

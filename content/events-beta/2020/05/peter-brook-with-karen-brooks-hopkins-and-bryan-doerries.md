@@ -5,6 +5,7 @@ summary: Special guest **Peter Brook** and hosts **Karen Brooks Hopkins** and
   reality.
 date: 2020-04-21 13:00:00 -0500
 end_date: 2020-04-21 14:00:00 -0500
+series: 26
 collections:
   - the-new-social-environment
 event_organizer:
@@ -12,7 +13,7 @@ event_organizer:
 event_producer:
   - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-26-peter-brook-tickets-102427515456
-youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
+
 youtube_id: ppNJeb6-dJI
 event_platform:
   - zoom

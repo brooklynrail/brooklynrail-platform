@@ -5,7 +5,7 @@ summary: Scholar Noura Wedell, philosopher Catherine Malabou, painter Paul
   and creative life in the context of our new social reality.
 date: 2020-05-14 13:00:00 -0500
 end_date: 2020-05-14 14:00:00 -0500
-series: ""
+series: 43
 collections:
   - the-new-social-environment
 event_sponsor: []
@@ -17,7 +17,6 @@ registration_url: https://www.eventbrite.com/e/the-new-social-environment-43-the
 youtube_id: DFg-TGHCGUY
 event_platform:
   - zoom
-  - youtube
 speaker_images:
   - media: 2020/05/donatien-grau-portrait
 ---

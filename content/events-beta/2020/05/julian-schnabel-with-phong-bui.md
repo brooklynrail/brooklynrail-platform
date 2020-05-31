@@ -3,10 +3,10 @@ summary: Artist Julian Schnabel and the _Brooklyn Rail's_ publisher Phong Bui
   discuss creative life in the context of our new social reality.
 event_organizer:
   - the-brooklyn-rail
-youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
 title: Julian Schnabel with Phong Bui
 date: 2020-04-03 13:00:00 -0500
 end_date: 2020-04-03 14:00:00 -0500
+series: 14
 collections:
   - the-new-social-environment
 event_producer:
@@ -14,7 +14,7 @@ event_producer:
 youtube_id: wc_cCLWgQkw
 event_platform:
   - zoom
-  - youtube
+
 speaker_images:
   - media: 2020/05/julian-schnabel
 ---

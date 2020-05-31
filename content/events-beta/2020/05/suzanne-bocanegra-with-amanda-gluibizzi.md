@@ -4,6 +4,7 @@ summary: Artist Suzanne Bocanegra and the *Rail*’s Art editor Amanda Gluibizzi
   to discuss creative life in the context of our new social reality.
 date: 2020-05-08 13:00:00 -0500
 end_date: 2020-05-08 14:00:00 -0500
+series: 39
 collections:
   - the-new-social-environment
 event_sponsor:
@@ -13,11 +14,11 @@ event_organizer:
 event_producer:
   - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-38-dr-vandana-shiva-tickets-103929722598
-youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
+
 youtube_id: p438dlNoUsI
 event_platform:
   - zoom
-  - youtube
+
 speaker_images:
   - media: 2020/05/suzanne-bocanegra-photo
   - media: 2020/05/amanda-gluibizzi-portrait

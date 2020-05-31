@@ -4,6 +4,7 @@ summary: "Artists Raha Raissnia and Andrew Lampert discuss creative life in the
   context of our new social reality. "
 date: 2020-05-01 13:00:00 -0500
 end_date: 2020-05-01 14:00:00 -0500
+series: 34
 collections:
   - the-new-social-environment
 event_organizer:
@@ -16,7 +17,7 @@ youtube_playlist_id:
 youtube_id: G2H2N5WDTIs
 event_platform:
   - zoom
-  - youtube
+
 speaker_images:
   - media: 2020/05/raha-raissnia-portrait
 ---

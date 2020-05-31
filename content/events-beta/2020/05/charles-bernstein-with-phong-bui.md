@@ -15,7 +15,7 @@ event_producer:
 youtube_id: YTdfMO9tT28
 event_platform:
   - zoom
-  - youtube
+
 speaker_images:
   - media: 2020/05/charles-bernstein-portrait
 ---

@@ -9,6 +9,7 @@ youtube_playlist_id:
 title: Bryan Doerries with Lucas Kane and Shadi Ghaheri
 date: 2020-04-16 13:00:00 -0500
 end_date: 2020-04-16 14:00:00 -0500
+series: 23
 collections:
   - the-new-social-environment
 event_producer:
@@ -16,7 +17,7 @@ event_producer:
 youtube_id: -HeH7lryCPo
 event_platform:
   - zoom
-  - youtube
+
 speaker_images:
   - media: 2020/05/bryan-doerries-portrait
 ---

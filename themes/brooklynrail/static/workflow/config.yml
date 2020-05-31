@@ -72,7 +72,7 @@ collections:
     create: true # Allow users to create new documents in this collection
     identifier_field: title # sets the field that is used to create the slug
     slug: "{{slug}}"
-    summary: "{{title}} ({{year}}-{{month}}-{{day}})"
+    summary: "{{fields.series}} {{title}} ({{year}}-{{month}}-{{day}})"
     editor:
       preview: false
 

@@ -5,6 +5,7 @@ summary: "Writers David Levi Strauss and Emmanual Iduma discuss Levi Strauss’s
   2020).⁠"
 date: 2020-04-24 13:00:00 -0500
 end_date: 2020-04-24 14:00:00 -0500
+series: 29
 collections:
   - the-new-social-environment
 event_organizer:

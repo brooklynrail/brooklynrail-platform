@@ -4,6 +4,7 @@ summary: Artist Jim Melchert and curator Constance Lewallen discuss creative
   life in the context of our new social reality.
 date: 2020-05-18 13:00:00 -0500
 end_date: 2020-05-20 14:00:00 -0500
+series: 45
 collections:
   - the-new-social-environment
 event_organizer:
@@ -11,14 +12,14 @@ event_organizer:
 event_producer:
   - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-45-jim-melchert-tickets-105250741802
+youtube_playlist_id:
+  - the-new-social-environment
 youtube_id: gmQ5ickBTbA
 event_platform:
   - zoom
-  - youtube
 speaker_images:
   - media: 2020/05/jim-melchert
-youtube_playlist_id:
-  - the-new-social-environment
+  - media: 2020/05/constance-lewallen
 ---
 {{< image media="2020/05/jim-melchert" size="md" >}}
 

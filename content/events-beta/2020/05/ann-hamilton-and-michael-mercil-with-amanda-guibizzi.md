@@ -5,10 +5,10 @@ summary: Artists Ann Hamilton and Michael Mercil, with art historian and the
   of our new social reality.
 date: 2020-05-19 13:00:00 -0500
 end_date: 2020-05-19 14:00:00 -0500
+series: 46
 collections:
   - the-new-social-environment
-event_sponsor:
-  - the-brooklyn-rail
+event_sponsor: []
 event_organizer:
   - the-brooklyn-rail
 event_producer:
@@ -17,7 +17,8 @@ registration_url: https://www.eventbrite.com/e/the-new-social-environment-46-ann
 youtube_id: hmC-futPNkE
 event_platform:
   - zoom
-  - youtube
+speaker_images:
+  - {}
 ---
 
 

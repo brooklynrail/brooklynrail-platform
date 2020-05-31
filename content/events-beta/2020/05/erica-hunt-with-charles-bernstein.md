@@ -14,9 +14,10 @@ youtube_playlist_id:
   - the-new-social-environment
 date: 2020-03-30 13:00:00 -0500
 end_date: 2020-03-30 14:00:00 -0500
+series: 10
 event_platform:
   - zoom
-  - youtube
+
 ---
 **Erica Hunt**  (she/her) is a poet, an essayist, and an educator. She is the author of several collections of poetry including Local History, Piece Logic, and Time Slips Right Before Your Eyes, as well as a collaborative text with artist, Alison Saar, called Arcade. She has taught at Brown University, Wesleyan University, and University of Pennsylvania, among others.
 

@@ -9,12 +9,12 @@ event_producer:
 event_organizer:
   - the-brooklyn-rail
 youtube_id: YzKe9DfKhTY
-youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
+
 date: 2020-03-25 13:00:00 -0500
 end_date: 2020-03-25 14:00:00 -0500
 event_platform:
   - zoom
-  - youtube
+
 ---
 **Jessamine Batario** is an Art Historian who lives in Maine. She is currently the Mellon Postdoctoral Fellow at the Lunder Institute for American Art at Colby College. Batario’s research has been supported by fellowships and grants from the Dedalus Foundation (New York), the Getty Research Institute (Los Angeles), the Vivian L. Smith Foundation at The Menil Collection (Houston), and The Graduate School (UT Austin).
 

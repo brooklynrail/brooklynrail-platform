@@ -9,9 +9,10 @@ event_producer:
 event_organizer:
   - the-brooklyn-rail
 youtube_id: x2YAAMcAxII
-youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
+
 date: 2020-04-14 13:00:00 -0500
 end_date: 2020-04-14 14:00:00 -0500
+series: 21
 event_platform:
   - zoom
 ---

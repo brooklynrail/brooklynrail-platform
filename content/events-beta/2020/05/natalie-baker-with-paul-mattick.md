@@ -5,6 +5,7 @@ summary: Security Studies professor Natalie Baker and the _Rail_'s Field Notes
   reality.
 date: 2020-04-07 13:00:00 -0500
 end_date: 2020-04-07 14:00:00 -0500
+series: 16
 collections:
   - the-new-social-environment
 event_organizer:
@@ -12,11 +13,11 @@ event_organizer:
 event_producer:
   - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-16-natalie-baker-tickets-101906133990#
-youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
+
 youtube_id: F3Q4M3Pmnw4
 event_platform:
   - zoom
-  - youtube
+
 speaker_images:
   - media: 2020/05/natalie-baker-portrait
 ---

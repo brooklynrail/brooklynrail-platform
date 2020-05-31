@@ -15,7 +15,7 @@ date: 2020-03-20 13:00:00 -0500
 end_date: 2020-03-20 14:00:00 -0500
 event_platform:
   - zoom
-  - youtube
+
 ---
 **Chuck Smith** is the filmmaker behind Barbara *Rubin & the Exploding NY Underground* and *Forrest Bess: Key to the Riddle*.
 

@@ -4,6 +4,7 @@ summary: Artist Minjung Kim and _Rail_ board member Helen Lee discuss creative
   life in the context of our new social reality.
 date: 2020-04-23 13:00:00 -0500
 end_date: 2020-04-23 14:00:00 -0500
+series: 28
 collections:
   - the-new-social-environment
 event_organizer:
@@ -11,11 +12,11 @@ event_organizer:
 event_producer:
   - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-28-minjung-kim-tickets-102721909998#
-youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
+
 youtube_id: f92s9oLBOYc
 event_platform:
   - zoom
-  - youtube
+
 speaker_images:
   - media: 2020/05/minjung-kim-portrait
 ---

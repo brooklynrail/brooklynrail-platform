@@ -4,6 +4,7 @@ summary: Poet Anne Waldman with poet Kyle Dacuyan discuss creative life in the
   context of our new social reality.
 date: 2020-05-12 13:00:00 -0500
 end_date: 2020-05-12 14:00:00 -0500
+series: 41
 collections:
   - the-new-social-environment
 event_sponsor: Virtual Label
@@ -12,7 +13,7 @@ event_organizer:
 event_producer:
   - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-41-anne-waldman-tickets-104544521478
-youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
+
 youtube_id: HN_F53N80a0
 event_platform:
   - zoom

@@ -4,6 +4,7 @@ summary: Writer Steve Silberman and *Rail* consulting editor Raymond Foye
   discuss creative life in the context of our new social reality.
 date: 2020-05-06 13:00:00 -0500
 end_date: 2020-05-06 14:00:00 -0500
+series: 37
 collections:
   - the-new-social-environment
 event_sponsor: Derek Eller Gallery

@@ -4,6 +4,7 @@ summary: Scholar Noam Chomsky and the *Rail*’s Field Notes Editor Paul Mattick
   discuss creative life in the context of our new social reality.
 date: 2020-04-30 13:00:00 -0500
 end_date: 2020-04-30 14:00:00 -0500
+series: 33
 collections:
   - the-new-social-environment
 event_producer:
@@ -16,7 +17,7 @@ youtube_playlist_id:
   - the-new-social-environment
 event_platform:
   - zoom
-  - youtube
+
 ---
 
 

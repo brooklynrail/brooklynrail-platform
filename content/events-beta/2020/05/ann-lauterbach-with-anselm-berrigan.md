@@ -8,6 +8,7 @@ youtube_playlist_id:
 title: Ann Lauterbach with Anselm Berrigan
 date: 2020-04-08 13:00:00 -0500
 end_date: 2020-04-08 14:00:00 -0500
+series: 17
 collections:
   - the-new-social-environment
 event_producer:
@@ -15,7 +16,7 @@ event_producer:
 youtube_id: Xy1vBXmdxLo
 event_platform:
   - zoom
-  - youtube
+
 speaker_images:
   - media: 2020/05/ann-lauterbach
 ---

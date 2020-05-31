@@ -3,10 +3,10 @@ summary: Artists Mark Dion and Alexis Rockman and art historian Dr. Julie Reiss
   discuss creative life in the context of our new social reality.
 event_organizer:
   - the-brooklyn-rail
-youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
 title: Mark Dion and Alexis Rockman with Dr. Julie Reiss
 date: 2020-04-10 13:00:00 -0500
 end_date: 2020-04-10 14:00:00 -0500
+series: 19
 collections:
   - the-new-social-environment
 event_sponsor: Sperone Westwater Gallery
@@ -15,7 +15,7 @@ event_producer:
 youtube_id: VK_KILcCD-U
 event_platform:
   - zoom
-  - youtube
+
 speaker_images:
   - media: 2020/05/alexis-rockman-portrait
 ---

@@ -4,6 +4,7 @@ summary: Artist Lyle Ashton Harris and writer and scholar McKenzie Wark discuss
   creative life in the context of our new social reality.
 date: 2020-04-27 13:00:00 -0500
 end_date: 2020-04-27 14:00:00 -0500
+series: 30
 collections:
   - the-new-social-environment
 event_organizer:
@@ -11,11 +12,11 @@ event_organizer:
 event_producer:
   - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-30-lyle-ashton-harris-mckenzie-wark-tickets-103168923026
-youtube_playlist_id: PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY
+
 youtube_id: BolVK2GKS18
 event_platform:
   - zoom
-  - youtube
+
 speaker_images:
   - media: 2020/05/lyle-ashton-harris
 ---
