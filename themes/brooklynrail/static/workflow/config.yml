@@ -95,7 +95,7 @@ collections:
         minimal: true
         widget: "string"
         default: ""
-        hint: "One-sentence description of the event. _(e.g. Artist [Name] with writer [Name], discuss creative life in the context of our new social reality.)_"
+        hint: "One-sentence description of the event. (e.g. Artist [Name] with writer [Name] discuss creative life in the context of our new social reality.)"
 
       - label: "Event Copy"
         name: "body"
@@ -135,7 +135,7 @@ collections:
         valueField: "{{slug}}"
         displayFields: ["{{title}}"]
         default: ["the-new-social-environment"]
-        hint: "Select the collections this event should be included in."
+        hint: "The collections this event should be included in."
         required: false
 
       - label: "Event Sponsor"
@@ -146,7 +146,7 @@ collections:
         searchFields: ["name", "short_desc"]
         valueField: "{{slug}}"
         displayFields: ["{{name}}"]
-        hint: "Select the organizations that are sponsoring this event."
+        hint: "The organizations sponsoring this event. This should not be 'The Brooklyn Rail'."
         required: false
 
       - label: "Event Organizer"
@@ -332,24 +332,24 @@ collections:
       - label: "Display Name"
         name: "name"
         widget: "string"
-        hint: "TKTK"
+        hint: "This is how the person's name will appear in bylines, credits, and other listings. [e.g. Phong H. Bui]"
 
       - label: "First Name"
         name: "first_name"
         widget: "string"
-        hint: "TKTK"
+        hint: "Please enter the person's first name, or closest approximation. This name should be how you'd address them if you were sending them an email. [e.g. Phong]"
         required: false
 
       - label: "Last Name"
         name: "last_name"
         widget: "string"
-        hint: "TKTK"
+        hint: "Please enter the person's last name, or closest approximation. [e.g. Bui]"
         required: false
 
       - label: "Pronouns"
         name: "pronouns"
         widget: "string"
-        hint: "TKTK"
+        hint: "List the pronoun(s) for this person, only if they've provided them to you. They will be displayed alongside their name. Learn more at http://mypronouns.org"
         required: false
 
       - label: "Short Bio"
@@ -362,24 +362,25 @@ collections:
       - label: "Email"
         name: "email"
         widget: "string"
-        hint: "TKTK"
+        hint: "Example `info@kasmingallery.com`"
         required: false
 
       - label: "Website"
         name: "website"
         widget: "string"
-        hint: "TKTK"
+        hint: "Enter the full URL of the organization website. Example: `http://kasmingallery.com/`"
         required: false
 
       - label: "Instagram"
         name: "instagram"
         widget: "string"
+        hint: "Enter the username without the @ handle [e.g. brooklynrail]"
         required: false
 
       - label: "Twitter"
         name: "twitter"
         widget: "string"
-        hint: "Enter your username without the @ handle [e.g. brooklynrail]"
+        hint: "Enter the username without the @ handle [e.g. brooklynrail]"
         required: false
 
       - label: "Linkedin"
@@ -411,29 +412,30 @@ collections:
       - label: "Short description"
         name: "short_desc"
         widget: "text"
-        hint: "TKTK"
+        pattern: ['^.{0,240}$', "Short bio needs to be less than 240 characters"]
+        hint: "Add a short description of the organization without using their name. [Max 240 characters]"
         required: false
 
       - label: "Primary Email"
         name: "email"
         widget: "string"
-        hint: "TKTK"
+        hint: "Example: `info@kasmingallery.com`"
         required: false
 
       - label: "Website"
         name: "website"
         widget: "string"
-        hint: "TKTK"
+        hint: "Enter the full URL of the organization website. Example: `http://kasmingallery.com/`"
         required: false
 
       - label: "Instagram"
         name: "instagram"
         widget: "string"
-        hint: "TKTK"
+        hint: "Enter the username without the @ handle [e.g. brooklynrail]"
         required: false
 
       - label: "Twitter"
         name: "twitter"
         widget: "string"
-        hint: "TKTK"
+        hint: "Enter the username without the @ handle [e.g. brooklynrail]"
         required: false
