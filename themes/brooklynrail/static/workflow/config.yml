@@ -95,7 +95,7 @@ collections:
         minimal: true
         widget: "string"
         default: ""
-        hint: "One-sentence description of the event. (e.g. Artist [Name] with writer [Name] discuss creative life in the context of our new social reality.)"
+        hint: "One-sentence description of the event. (e.g. Artist [Name] and writer [Name] discuss creative life in the context of our new social reality.)"
 
       - label: "Event Copy"
         name: "body"
