@@ -55,14 +55,26 @@
 
     .actions{
       @include u-margin-top(1);
+      @include at-media('desktop-lg') {
+        @include u-padding-left(3);
+      }
       @include u-display('flex');
-      @include u-flex('justify-center');
+      @include u-flex('justify-start');
+      @include at-media('tablet-lg') {
+        @include u-display('block');
+      }
       .register{
         @include u-margin-right(1);
+        @include at-media('tablet-lg') {
+          @include u-margin-right(0);
+        }
         .btn-register{
           @include u-bg('white');
           @include u-text('indigo-warm-70v');
           @include u-border('2px', 'solid', 'indigo-warm-70v');
+          @include at-media('tablet-lg') {
+            @include u-width('full');
+          }
         }
       }
       .addeventatc{
@@ -75,6 +87,10 @@
         @include u-radius('sm');
         @include u-text('gray-80');
         @include u-border('2px', 'solid', 'gray-5');
+        @include at-media('tablet-lg') {
+          @include u-margin-top(1);
+          @include u-width('full');
+        }
         &:hover{
           @include u-bg('gray-10');
           @include u-text('gray-80');

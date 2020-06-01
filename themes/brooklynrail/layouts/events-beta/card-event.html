@@ -5,8 +5,40 @@ The following variables transform dates and times for the event `start_date` and
 <section class="card-event h-event">
   <header>
 
-    <div class="grid-row">
-      <div class="grid-col-12 tablet:grid-col-3">
+    <div class="grid-row grid-gap-2">
+
+      <div class="grid-col-12 tablet-lg:grid-col-7 tablet-lg:order-2">
+
+        {{/* Kicker + Collections */}}
+        {{- if .Params.collections -}}
+          <p class="kicker">
+          {{- range $collection := (.GetTerms "collections") -}}
+            {{/* Gets the Topics page */}}
+            {{- $collection := $.Site.GetPage (printf "/%s/%s" "collections" $collection.Title) -}}
+            <span class="collection">{{- $collection.Title -}}</span>
+          {{- end -}}
+          {{- with .Params.series -}}
+            <span class="series"><span>#{{- . -}}</span></span>
+          {{- end -}}
+          </p>
+        {{- end -}}
+
+        {{- if .Params.Title -}}
+        <h2 class="p-name">
+          <a href="{{ .RelPermalink }}" title="{{- .Title -}}">{{- .Title | markdownify -}}</a>
+        </h2>
+        {{- end -}}
+
+        {{- with .Params.Deck -}}
+        <p class="deck">
+          {{- . | markdownify -}}
+        </p>
+        {{- end -}}
+
+      </div>
+
+
+      <div class="grid-col-12 tablet-lg:grid-col-3 tablet-lg:order-1">
 
         {{/* NOTE:
         - `.Date` is recognized by HUGO as an official date
@@ -40,36 +72,10 @@ The following variables transform dates and times for the event `start_date` and
         {{- end -}}
 
       </div>
-      <div class="grid-col-12 tablet:grid-col-6">
 
-        {{/* Kicker + Collections */}}
-        {{- if .Params.collections -}}
-          <p class="kicker">
-          {{- range $collection := (.GetTerms "collections") -}}
-            {{/* Gets the Topics page */}}
-            {{- $collection := $.Site.GetPage (printf "/%s/%s" "collections" $collection.Title) -}}
-            <span class="collection">{{- $collection.Title -}}</span>
-          {{- end -}}
-          {{- with .Params.series -}}
-            <span class="series"><span>#{{- . -}}</span></span>
-          {{- end -}}
-          </p>
-        {{- end -}}
 
-        {{- if .Params.Title -}}
-        <h2 class="p-name">
-          <a href="{{ .RelPermalink }}" title="{{- .Title -}}">{{- .Title | markdownify -}}</a>
-        </h2>
-        {{- end -}}
 
-        {{- with .Params.Deck -}}
-        <p class="deck">
-          {{- . | markdownify -}}
-        </p>
-        {{- end -}}
-
-      </div>
-      <div class="grid-col-12 tablet:grid-col-3">
+      <div class="grid-col-12 tablet-lg:grid-col-2 tablet-lg:order-last">
 
         <div class="actions">
           {{- with .Params.registration_url -}}
