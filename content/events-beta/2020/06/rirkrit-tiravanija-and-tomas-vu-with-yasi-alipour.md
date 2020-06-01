@@ -17,6 +17,9 @@ event_producer:
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-56-rirkrit-tiravanija-tomas-vu-tickets-107120083052
 event_platform:
   - zoom
+speaker_images:
+  - media: 2020/06/rirkrit-tiravanija
+  - media: 2020/06/tomas-vu
 ---
 **Rirkrit Tiravanija** was born in Buenos Aires in 1961 and was raised in Thailand, Ethiopia, and Canada. He studied at the Ontario College of Art in Toronto (1980–84), Banff Center School of Fine Arts (1984), School of the Art Institute of Chicago (1984–86), and Whitney Independent Studies Program in New York (1985–86). Since the 1990s, Tiravanija has aligned his artistic production with an ethic of social engagement, often inviting viewers to inhabit and activate his work. In one of his best-known series, begun with pad thai (1990) at the Paula Allen Gallery in New York, Tiravanija rejected traditional art objects altogether and instead cooked and served food for exhibition visitors. For his second solo exhibition in New York, held at 303 Gallery in 1992, Tiravanija filled the white rooms with stacks of cultural cast-offs, rendering the space into what seemed like a storage facility, demoting the primacy of the revered art object.
 
