@@ -58,15 +58,16 @@ The following variables transform dates and times for the event `start_date` and
           <span class="hidden"> to <time class="dt-end" datetime="{{- dateFormat "2006-01-02T15:04:05Z07:00" (time $end_date) -}}">{{- dateFormat "Monday, January 2" (time $end_date) -}}</time></span>
 
           <p class="event-time">
-            {{- dateFormat "3:04" (time $start_date) -}}&nbsp;
+            <span>{{- dateFormat "3:04" (time $start_date) -}}&nbsp;
             {{- $event_start_time_suffix := dateFormat "PM" (time $start_date) -}}
             {{- $event_start_time_suffix := replace $event_start_time_suffix "PM" "p.m." -}}
             {{- $event_start_time_suffix := replace $event_start_time_suffix "AM" "a.m." -}}
-            {{- $event_start_time_suffix -}}&nbsp;ET </br>
-            {{ $event_start_time_suffix_pt := dateFormat "PM" ((time $start_date).Add ( -3 | duration "hour" )) -}}
+            {{- $event_start_time_suffix -}}&nbsp;ET</span>
+            <span class="divider"> / </span>
+            <span>{{ $event_start_time_suffix_pt := dateFormat "PM" ((time $start_date).Add ( -3 | duration "hour" )) -}}
             {{- $event_start_time_suffix_pt := replace $event_start_time_suffix_pt "PM" "p.m." -}}
             {{- $event_start_time_suffix_pt := replace $event_start_time_suffix_pt "AM" "a.m." -}}
-            {{ dateFormat "3:04" ((time $start_date).Add ( -3 | duration "hour" )) -}}&nbsp;{{- $event_start_time_suffix_pt -}}&nbsp;PT
+            {{ dateFormat "3:04" ((time $start_date).Add ( -3 | duration "hour" )) -}}&nbsp;{{- $event_start_time_suffix_pt -}}&nbsp;PT</span>
           </p>
         </div>
         {{- end -}}

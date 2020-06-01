@@ -1,7 +1,7 @@
 .card-event{
   @include u-margin-y(0);
-  @include u-padding-y('205');
-  @include at-media('tablet') {
+  @include u-padding-y(4);
+  @include at-media('tablet-lg') {
     @include u-padding-y(3);
   }
   @include u-border-top('1px','gray-40', 'dotted');
@@ -10,9 +10,11 @@
     @include u-padding-y(0);
 
     .event-details{
+      @include u-margin-top('105');
       @include u-font('sans', '2xs');
       @include u-text('medium');
-      @include at-media('tablet') {
+      @include at-media('tablet-lg') {
+        @include u-margin-top(0);
         @include u-font('sans', 'sm');
       }
       time{
@@ -26,8 +28,20 @@
         @include u-text('light');
         @include u-font('sans', '2xs');
         @include u-line-height('sans', 4);
-        @include at-media('tablet') {
+        @include at-media('tablet-lg') {
           @include u-font('sans', 'xs');
+        }
+        span{
+          @include u-display('inline');
+          @include at-media('tablet-lg') {
+            @include u-display('block');
+          }
+        }
+        .divider{
+          @include u-display('inline');
+          @include at-media('tablet-lg') {
+            @include u-display('none');
+          }
         }
       }
     }
@@ -35,7 +49,7 @@
     .kicker{
       @include u-margin-bottom('05');
       @include u-font('sans', '2xs');
-      @include at-media('tablet') {
+      @include at-media('tablet-lg') {
         @include u-font('sans', 'xs');
       }
     }
@@ -44,6 +58,7 @@
       @include u-margin(0);
       @include u-text('medium');
       @include u-font('sans', 'lg');
+      @include u-line-height('sans', 2);
       strong{
         @include u-text('medium');
       }
@@ -87,6 +102,7 @@
         @include u-radius('sm');
         @include u-text('gray-80');
         @include u-border('2px', 'solid', 'gray-5');
+        @include u-width('auto');
         @include at-media('tablet-lg') {
           @include u-margin-top(1);
           @include u-width('full');
