@@ -17,6 +17,7 @@ registration_url: https://www.eventbrite.com/e/the-new-social-environment-55-tam
 event_platform:
   - zoom
 speaker_images:
+  - media: 2020/06/tamara-gonzales
   - media: 2020/05/raymond-foye
 ---
 **Tamara Gonzales** was born in Madera, CA in 1959 and lives in Brooklyn, NY. She received a Bachelor of Arts from Vermont College ADP in Montpelier, VT in 2005 and an Associate in Applied Science, Fine Arts from Parsons School of Design, New York, NY in 1990. Gonzales’s work has been featured in exhibitions such as Orpheus, PS1, Long Island City, NY (2007); 99¢, Jersey City Museum & Victory Hall, Jersey City, NJ (2007); Current/Undercurrent, Brooklyn Museum, Brooklyn, NY (1997); and Cool Girls, PS122, New York, NY (1996). Gonzales is a prominent participant in the community of artist-run spaces and artist-driven projects in New York City, and her work is held in public collections including the Bronx Museum of the Arts, Bronx, NY and the High Museum of Art, Atlanta, GA, and the Colby College Museum of Art. She has been awarded residencies such as Center of Contemporary Art, Andratx, Mallorca, Spain (2012); International Artists Exchange Program, Basel, Switzerland (2008); Sanskriti Kendra, New Delhi, India (2001); Yaddo, Saratoga Springs, NY (1999); and Vermont Studio Center, Johnson, VT (1997).
