@@ -243,17 +243,15 @@ collections:
       - label: "Image title"
         name: "title"
         widget: "string"
-        hint: "TKTK"
+        hint: "A descriptive title for the image"
 
       - label: "Image Alt"
         name: "alt"
-        widget: "string"
-        hint: "TKTK"
+        hint: "A drawing of artist [NAME] by Phong Bui."
 
       - label: "Image Caption"
         name: "caption"
         widget: "string"
-        hint: "TKTK"
         required: false
 
       - label: "Image Credit"
@@ -338,7 +336,6 @@ collections:
         name: "first_name"
         widget: "string"
         hint: "Please enter the person's first name, or closest approximation. This name should be how you'd address them if you were sending them an email. [e.g. Phong]"
-        required: false
 
       - label: "Last Name"
         name: "last_name"
@@ -358,6 +355,21 @@ collections:
         pattern: ['^.{0,240}$', "Short bio needs to be less than240 characters"]
         hint: "Add a short description of the person without using their name. [Max 240 characters]"
         required: false
+
+      - label: "Portrait Images"
+        name: "portraits"
+        widget: "list"
+        hint: "These are portraits of this person."
+        required: false
+        fields:
+          - label: "Media"
+            name: "media"
+            widget: "relation"
+            collection: "media"
+            searchFields: ["media", "title"]
+            valueField: "{{slug}}"
+            required: false
+            displayFields: ["{{title}} — {{date}}"]
 
       - label: "Email"
         name: "email"
