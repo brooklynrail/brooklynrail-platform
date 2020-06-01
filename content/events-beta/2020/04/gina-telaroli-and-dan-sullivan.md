@@ -12,9 +12,10 @@ event_organizer:
 event_producer:
   - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-13-gina-telaroli-and-dan-sullivan-tickets-101363264252#
-
+youtube_id: Yhl7muCQJx8
 event_platform:
   - zoom
+  - youtube
 speaker_images:
   - media: 2020/05/dan-sullivan-portrait
   - media: 2020/05/gina-telaroli
