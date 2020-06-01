@@ -14,8 +14,10 @@ event_organizer:
 event_producer:
   - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-54-david-brooks-tickets-106268479884
+youtube_id: RgA5toB3LyU
 event_platform:
   - zoom
+  - youtube
 ---
 **David Brooks** is an artist whose work considers the relationship between the individual and the built and natural environment. His work investigates how cultural concerns cannot be divorced from the natural world, while also questioning the terms under which nature is perceived and utilized. Brooks has had solo exhibitions and major projects at the Aldrich Contemporary Art Museum; Storm King Art Center; MoMA/PS1; deCordova Museum; the Dallas Contemporary; Tang Museum; Nouveau Musée National de Monaco; Galerie für Landschaftskunst, Hamburg; Nevada Museum of Art; Ballroom Marfa; and the Sculpture Center, among others. From 2011 to 2012 Brooks had *Desert Rooftops* on view in Times Square, a 5000-sq. ft. earthwork commissioned by Art Production Fund; and from 2017 to 2018 a large-scale geologic installation on Governors Island, commissioned by the Trust for Governors Island. He is the recipient of the Rome Prize, a research grant to the Ecuadorian Amazon from the Coypu Foundation, and a Smithsonian Artist Research Fellowship. Brooks lives and works between New York and New Orleans, and is a professor at NYU Gallatin.
 
