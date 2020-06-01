@@ -4,16 +4,18 @@ summary: Artist EJ Hauser and the *Brooklyn Rail*'s publisher Phong Bui discuss
   creative life in the context of our new social reality.
 date: 2020-03-18 13:00:00 -0500
 end_date: 2020-03-18 14:00:00 -0500
+series: 2
 collections:
   - the-new-social-environment
-event_producer:
-  - the-brooklyn-rail
 event_organizer:
   - the-brooklyn-rail
+event_producer:
+  - the-brooklyn-rail
 youtube_id: 0K-Cm0_tD7o
-
 event_platform:
   - zoom
+speaker_images:
+  - {}
 ---
 
 

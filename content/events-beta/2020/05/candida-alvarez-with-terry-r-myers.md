@@ -2,18 +2,20 @@
 title: Candida Alvarez with Terry R. Myers
 summary: Painter Candida Alvarez and critic Terry R. Myers discuss creative life
   in the context of our new social reality.
-collections:
-  - the-new-social-environment
-event_producer:
-  - the-brooklyn-rail
-event_organizer:
-  - the-brooklyn-rail
-youtube_id: VTISy6fwnf8
-
 date: 2020-03-24 13:00:00 -0500
 end_date: 2020-03-24 14:00:00 -0500
+series: 6
+collections:
+  - the-new-social-environment
+event_organizer:
+  - the-brooklyn-rail
+event_producer:
+  - the-brooklyn-rail
+youtube_id: VTISy6fwnf8
 event_platform:
   - zoom
+speaker_images:
+  - media: 2020/05/candida-alvarez
 ---
 **Candida Alvarez** is a Puerto Rican artist and educator from Brooklyn, NY. Her current show, Estoy Bien, is at Monique Meloche Gallery in Chicago.
 

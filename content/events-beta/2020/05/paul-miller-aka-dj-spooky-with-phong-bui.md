@@ -5,10 +5,10 @@ summary: Artist and composer Paul Miller, aka DJ Spooky, and the *Rail*'s
   reality.
 date: 2020-03-23 13:00:00 -0500
 end_date: 2020-03-23 14:00:00 -0500
+series: 5
 collections:
   - the-new-social-environment
-event_sponsor:
-  - the-brooklyn-rail
+event_sponsor: []
 event_organizer:
   - the-brooklyn-rail
 event_producer:
@@ -17,7 +17,8 @@ registration_url: https://www.eventbrite.com/e/the-new-social-environment-paul-d
 youtube_id: nHy9DzoktpU
 event_platform:
   - zoom
-
+speaker_images:
+  - media: 2020/05/paul-d-miller
 ---
 **\
 Paul D. Miller, aka DJ Spooky,**is a composer, multimedia artist, and writer whose work immerses audiences in a blend of genres, global culture, and environmental and social issues. Miller has collaborated with an array of recording artists, including Metallica, Chuck D, Steve Reich, and Yoko Ono. His 2018 album, DJ Spooky Presents: Phantom Dancehall, debuted at #3 on Billboard Reggae.

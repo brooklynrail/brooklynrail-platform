@@ -8,6 +8,7 @@ youtube_playlist_id:
 title: Lisa Yuskavage with Terry R. Myers
 date: 2020-03-27 13:00:00 -0500
 end_date: 2020-03-27 14:00:00 -0500
+series: 9
 collections:
   - the-new-social-environment
 event_producer:
@@ -15,7 +16,6 @@ event_producer:
 youtube_id: RnrmaHDzyCc
 event_platform:
   - zoom
-
 speaker_images:
   - media: 2020/05/lisa-yuskavage
 ---

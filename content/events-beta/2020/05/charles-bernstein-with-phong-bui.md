@@ -8,6 +8,7 @@ youtube_playlist_id:
 title: Charles Bernstein with Phong Bui
 date: 2020-03-19 13:00:00 -0500
 end_date: 2020-03-19 14:00:00 -0500
+series: 3
 collections:
   - the-new-social-environment
 event_producer:
@@ -15,7 +16,6 @@ event_producer:
 youtube_id: YTdfMO9tT28
 event_platform:
   - zoom
-
 speaker_images:
   - media: 2020/05/charles-bernstein-portrait
 ---
