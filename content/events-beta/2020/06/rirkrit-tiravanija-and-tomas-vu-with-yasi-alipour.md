@@ -3,7 +3,7 @@ title: Rirkrit Tiravanija and Tomas Vu with Yasi Alipour
 summary: Social engagement artists Rirkrit Tiravanija and Tomas Vu and writer
   and artist Yasi Alipour discuss creative life in the context of our new social
   reality.
-date: 2020-06-02 13:30:00 -0500
+date: 2020-06-02 13:00:00 -0500
 end_date: 2020-06-02 14:00:00 -0500
 series: 56
 collections:
