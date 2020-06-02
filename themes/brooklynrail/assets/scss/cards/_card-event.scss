@@ -10,11 +10,11 @@
     @include u-padding-y(0);
 
     .event-details{
-      @include u-margin-top('105');
+      @include u-margin-y('105');
       @include u-font('sans', '2xs');
       @include u-text('medium');
       @include at-media('tablet-lg') {
-        @include u-margin-top(0);
+        @include u-margin(0);
         @include u-font('sans', 'sm');
       }
       time{
@@ -22,29 +22,45 @@
       }
 
       .event-time{
-        @include u-margin-y('05');
+        @include u-margin(0);
+        @include u-margin-top('05');
         @include u-margin-x('1px');
         @include u-display('block');
         @include u-text('light');
         @include u-font('sans', '2xs');
-        @include u-line-height('sans', 4);
+        @include u-line-height('sans', 2);
         @include at-media('tablet-lg') {
           @include u-font('sans', 'xs');
         }
-        span{
-          @include u-display('inline');
-          @include at-media('tablet-lg') {
-            @include u-display('block');
-          }
-        }
+
         .divider{
           @include u-display('inline');
           @include at-media('tablet-lg') {
-            @include u-display('none');
+            // @include u-display('none');
           }
         }
       }
+
+      .event_platforms{
+        @include u-margin-top(1);
+        @include at-media('tablet-lg') {
+          @include u-margin-top('105');
+        }
+        @include u-text('light');
+        @include u-font('sans', '2xs');
+        p{
+          @include u-margin-y(0);
+          @include u-text('gray-60');
+          img{
+            @include u-position('relative');
+            @include u-top('1px');
+            @include u-width('105');
+          }
+        }
+      }
+
     }
+
 
     .kicker{
       @include u-margin-bottom('05');
@@ -63,8 +79,21 @@
         @include u-text('medium');
       }
     }
+
     .deck{
       @include u-font('sans', 'lg');
+    }
+
+    .sponsor{
+      @include u-margin(0);
+      @include u-margin-top(1);
+      @include u-font('sans', '2xs');
+      @include u-text('thin');
+      @include u-text('italic');
+      @include u-text('gray-60');
+      @include at-media('tablet-lg') {
+        @include u-font('sans', '2xs');
+      }
     }
 
 

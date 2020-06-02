@@ -76,7 +76,7 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
             <span class="hidden"> to <time class="dt-end" datetime="{{- dateFormat "2006-01-02T15:04:05Z07:00" (time $end_date) -}}">{{- dateFormat "Monday, January 2, 2006" (time $end_date) -}}</time></span>
 
             <p class="event-time">
-              {{- dateFormat "3:04" (time $start_date) -}}&nbsp;
+              {{- if gt $start_date.Minute 0 -}}{{- dateFormat "3:04" (time $start_date) -}}{{- else -}}{{- dateFormat "3" (time $start_date) -}}{{- end -}}&nbsp;
               {{- $event_start_time_suffix := dateFormat "PM" (time $start_date) -}}
               {{- $event_start_time_suffix := replace $event_start_time_suffix "PM" "p.m." -}}
               {{- $event_start_time_suffix := replace $event_start_time_suffix "AM" "a.m." -}}
@@ -84,7 +84,7 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
               {{ $event_start_time_suffix_pt := dateFormat "PM" ((time $start_date).Add ( -3 | duration "hour" )) -}}
               {{- $event_start_time_suffix_pt := replace $event_start_time_suffix_pt "PM" "p.m." -}}
               {{- $event_start_time_suffix_pt := replace $event_start_time_suffix_pt "AM" "a.m." -}}
-              {{ dateFormat "3:04" ((time $start_date).Add ( -3 | duration "hour" )) -}}&nbsp;{{- $event_start_time_suffix_pt -}}&nbsp;Pacific
+              {{- if gt $start_date.Minute 0 -}}{{- dateFormat "3:04" ((time $start_date).Add ( -3 | duration "hour" )) -}}{{- else -}}{{- dateFormat "3" ((time $start_date).Add ( -3 | duration "hour" )) -}}{{- end -}}&nbsp;{{- $event_start_time_suffix_pt -}}&nbsp;Pacific
             </p>
 
 
@@ -180,23 +180,22 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
           {{- $event_producer = ($.Site.GetPage (printf "/%s/%s" "organizations" (index (.Params.event_producer) 0))) -}}
           {{- end -}}
 
-          {{- $sponsor_copy := $.Site.Data.sponsor_copy.sponsored -}}
-          {{ $copy := (index ($sponsor_copy | shuffle | first 1) 0) }}
-
           {{- $event_collection := index (.Params.collections) 0 -}}
           {{- $event_collection = $.Site.GetPage (printf "/%s/%s" "collections" $event_collection) -}}
 
           {{- if .Params.event_sponsor -}}
           <div class="sponsor">
+            {{- $sponsor_copy := $.Site.Data.sponsor_copy.sponsored -}}
+            {{- $copy := (index ($sponsor_copy | shuffle | first 1) 0) -}}
             {{- $event_sponsor := ($.Site.GetPage (printf "/%s/%s" "organizations" (index (.Params.event_sponsor) 0))) -}}
-            <p>This talk
-            {{ with $event_sponsor }}
-            is {{ $copy.phrase }} our friends at <a class="u-dotted" href="{{ .Params.website }}" title="{{ .Params.name }}"><span>{{ .Params.name }}</span></a> and
+            <p>
+            {{- with $event_sponsor }}
+              {{ $copy.phrase }} our friends at <a class="u-dotted" href="{{ .Params.website }}" title="{{ .Params.name }}"><span>{{ .Params.name }}</span></a> and
             {{ end -}}
             {{- if eq $event_organizer $event_producer }}
-              is organized and produced by <a class="u-dotted" href="{{ $event_producer.Params.website }}" title="{{ $event_producer.Params.name }}"><span>{{ $event_producer.Params.name }}</span></a>.
+              organized and produced by <a class="u-dotted" href="{{ $event_producer.Params.website }}" title="{{ $event_producer.Params.name }}"><span>{{ $event_producer.Params.name }}</span></a>.
             {{- else }}
-              is organized by <a class="u-dotted" href="{{ $event_organizer.Params.website }}" title="{{ $event_organizer.Params.name }}"><span>{{ $event_organizer.Params.name }}</span></a> and produced by <a class="u-dotted" href="{{ $event_producer.Params.website }}" title="{{ $event_producer.Params.name }}"><span>{{ $event_producer.Params.name }}</span></a>.
+              organized by <a class="u-dotted" href="{{ $event_organizer.Params.website }}" title="{{ $event_organizer.Params.name }}"><span>{{ $event_organizer.Params.name }}</span></a> and produced by <a class="u-dotted" href="{{ $event_producer.Params.website }}" title="{{ $event_producer.Params.name }}"><span>{{ $event_producer.Params.name }}</span></a>.
             {{- end }}
             </p>
             <p class="copy-donate">Learn how <a href="{{- "donate-beta" | absURL -}}" title="Donate"><span>you can donate</span></a> {{ ":sparkles:" | emojify -}}{{- ":rainbow:" | emojify -}}</p>

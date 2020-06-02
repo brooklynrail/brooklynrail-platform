@@ -1,12 +1,15 @@
+# A list of platform names + icons for event listings
+# Platform icons are stored in /themes/brooklynrail/static/img/icons/
+
 youtube:
   name: 'YouTube'
-  icon: '<i class="fab fa-youtube"></i>'
+  icon: 'youtube.png'
 zoom:
   name: 'Zoom'
-  icon: '<i class="fas fa-video"></i>'
+  icon: 'zoom.png'
 instagram:
   name: "Instagram LIVE"
-  icon: '<i class="fab fa-instagram"></i>'
+  icon: 'instagram.png'
 igtv:
   name: "Instagram TV"
-  icon: '<i class="fab fa-instagram-square"></i>'
+  icon: 'instagram.png'
