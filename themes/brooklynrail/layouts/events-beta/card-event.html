@@ -93,11 +93,13 @@ The following variables transform dates and times for the event `start_date` and
             {{- range $i, $e := $event_platforms -}}
               {{- $platform := index $event_platform_data $e -}}
               {{/* {{- if ne $i 0 }}, {{ end }} */}}
-              <p class="{{- $e -}}"><span><img src="/img/icons/{{- $platform.icon | safeHTML -}}" alt="">&nbsp;{{- $platform.name -}}</span></p>
+              <p class="{{- $e -}}">
+                <span>
+                  <img src="{{- (print "/img/icons/" $platform.icon ) | absURL -}}" alt="{{ $platform.name }} Logo">&nbsp;{{- $platform.name -}}</span></p>
             {{- end -}}
           </div>
           {{- end -}}
-          
+
         </div>
 
 
