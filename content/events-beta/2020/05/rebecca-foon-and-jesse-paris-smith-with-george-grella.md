@@ -1,5 +1,5 @@
 ---
-title: Rebecca Foon and Jesse Paris Smith with George Grella
+title: Jesse Paris Smith and Rebecca Foon with George Grella
 summary: "Musicians and activists Jesse Paris Smith and Rebecca Foon, with
   musician and _Rail_ music editor George Grella, discuss creative life in the
   context of our new social reality. "
