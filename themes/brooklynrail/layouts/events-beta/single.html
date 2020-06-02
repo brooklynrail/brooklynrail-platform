@@ -184,6 +184,7 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
           {{- $event_collection := index (.Params.collections) 0 -}}
           {{- $event_collection = $.Site.GetPage (printf "/%s/%s" "collections" $event_collection) -}}
 
+          {{- if and $event_organizer $event_producer }}
           <div class="sponsor">
             <p>This talk is
             {{- if .Params.event_sponsor -}}
@@ -200,10 +201,11 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
             {{- else }}
               organized by {{ if $event_organizer.Params.website -}}<a class="u-dotted" href="{{ $event_organizer.Params.website }}" title="{{ $event_organizer.Params.name }}"><span>{{ $event_organizer.Params.name }}</span></a>{{- else -}}<span>{{- $event_organizer.Params.name -}}</span>{{- end }}
               and produced by {{ if $event_producer.Params.website -}}<a class="u-dotted" href="{{- $event_producer.Params.website -}}" title="{{- $event_producer.Params.name -}}"><span>{{- $event_producer.Params.name -}}</span></a>{{- else -}}<span>{{- $event_producer.Params.name -}}</span>{{- end -}}.
-            {{- end }}
+            {{- end -}}
             </p>
             <p class="copy-donate">Learn how <a href="{{- "donate-beta" | absURL -}}" title="Donate"><span>you can donate</span></a> {{ ":sparkles:" | emojify -}}{{- ":rainbow:" | emojify -}}</p>
           </div>
+          {{- end -}}
         </div>
       </div>
     </div>
