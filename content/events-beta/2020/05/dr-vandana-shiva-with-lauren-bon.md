@@ -7,8 +7,6 @@ end_date: 2020-05-07 14:00:00 -0500
 series: 38
 collections:
   - the-new-social-environment
-
-event_organizer: Metabolic Studio
 event_producer:
   - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-38-dr-vandana-shiva-tickets-103929722598

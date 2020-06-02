@@ -3,7 +3,7 @@ title: Rirkrit Tiravanija and Tomas Vu with Yasi Alipour
 summary: Social engagement artists Rirkrit Tiravanija and Tomas Vu and writer
   and artist Yasi Alipour discuss creative life in the context of our new social
   reality.
-date: 2020-06-02 13:00:00 -0500
+date: 2020-06-02 13:30:00 -0500
 end_date: 2020-06-02 14:00:00 -0500
 series: 56
 collections:
@@ -50,6 +50,6 @@ Yasi is also a contributor of the Rail. To see a full list of her contributions,
 
 
 
-## Today's poet: 
+## Today's poet:
 
 **Marcella Durand** — recent books include The Prospect, forthcoming from Delete Press as soon as shipping is safe again, and her translation of Michèle Métail's book-length poem, Earth's Horizons (Black Square Editions, 2020). Other publications include Rays of the Shadow (Tent Editions, 2017); Le Jardin de M. (The Garden of M.), with French translations by Olivier Brossard (joca seria, 2016); Deep Eco Pré, a collaboration with Tina Darragh, (Little Red Leaves); AREA (Belladonna); and Traffic & Weather (Futurepoem), written during a residency at the Lower Manhattan Cultural Council. She is currently working on a new book-length poem forthcoming from Black Square Editions.

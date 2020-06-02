@@ -11,7 +11,6 @@ end_date: 2020-04-13 14:00:00 -0500
 series: 20
 collections:
   - the-new-social-environment
-event_sponsor: Sikkema Jenkins & Co.
 event_producer:
   - the-brooklyn-rail
 youtube_id: SkSYOyb1dQ0

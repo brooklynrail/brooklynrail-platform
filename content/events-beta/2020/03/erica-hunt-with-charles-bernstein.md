@@ -10,8 +10,6 @@ event_organizer:
   - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-10-erica-hunt-tickets-101359222162#
 youtube_id: 3IQ20uavlhg
-youtube_playlist_id:
-  - the-new-social-environment
 date: 2020-03-30 13:00:00 -0500
 end_date: 2020-03-30 14:00:00 -0500
 series: 10

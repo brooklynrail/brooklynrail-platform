@@ -7,7 +7,8 @@ end_date: 2020-05-06 14:00:00 -0500
 series: 37
 collections:
   - the-new-social-environment
-event_sponsor: Derek Eller Gallery
+event_sponsor:
+  - derek-eller-gallery
 event_organizer:
   - the-brooklyn-rail
 event_producer:

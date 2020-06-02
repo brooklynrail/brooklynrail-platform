@@ -7,7 +7,8 @@ end_date: 2020-05-12 14:00:00 -0500
 series: 41
 collections:
   - the-new-social-environment
-event_sponsor: Virtual Label
+event_sponsor:
+  - virtual-label
 event_organizer:
   - the-brooklyn-rail
 event_producer:

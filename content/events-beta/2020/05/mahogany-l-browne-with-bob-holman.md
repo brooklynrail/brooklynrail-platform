@@ -7,8 +7,6 @@ end_date: 2020-05-26 14:00:00 -0500
 series: 51
 collections:
   - the-new-social-environment
-event_sponsor:
-  - the-brooklyn-rail
 event_organizer:
   - the-brooklyn-rail
 event_producer:

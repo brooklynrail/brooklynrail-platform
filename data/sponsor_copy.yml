@@ -1,7 +1,7 @@
-# Copy that gets used in the sponsor language.
-# Each should start with a capital letter, as if it were starting off a sentence.
+# This the copy that gets used in the sponsor language.
+# Each should start with a lower-case letter
 
 sponsored:
-  - phrase: "Sponsored by"
-  - phrase: "Supported by"
-  - phrase: "Made possible by"
+  - phrase: "sponsored by"
+  - phrase: "supported by"
+  - phrase: "made possible by"

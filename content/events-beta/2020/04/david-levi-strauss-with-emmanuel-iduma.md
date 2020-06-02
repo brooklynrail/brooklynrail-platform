@@ -13,8 +13,6 @@ event_organizer:
 event_producer:
   - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-29-david-levi-strauss-tickets-102800374688#
-youtube_playlist_id:
-  - the-new-social-environment
 youtube_id: MraYJsu8O8g
 event_platform:
   - zoom

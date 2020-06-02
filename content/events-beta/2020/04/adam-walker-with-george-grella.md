@@ -10,8 +10,6 @@ event_organizer:
   - the-brooklyn-rail
 registration_url: ""
 youtube_id: 5hO-USN4pTM
-youtube_playlist_id:
-  - the-new-social-environment
 date: 2020-04-09 13:00:00 -0500
 end_date: 2020-04-09 14:00:00 -0500
 series: 18

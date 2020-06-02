@@ -7,13 +7,11 @@ end_date: 2020-03-31 14:00:00 -0500
 series: 11
 collections:
   - the-new-social-environment
-event_sponsor:
-  - the-brooklyn-rail
 event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
-registration_url: https://www.eventbrite.com/e/the-new-social-environment-11-tara-aisha-willis-tickets-101361458852#
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-11-tara-aisha-willis-tickets-101361458852
 youtube_id: B73OEQkTYas
 event_platform:
   - zoom

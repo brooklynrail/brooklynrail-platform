@@ -3,8 +3,6 @@ summary: Poet Ann Lauterbach and the _Rail's_  Poetry Editor Anselm Berrigan
   discuss creative life in the context of our new social reality.
 event_organizer:
   - the-brooklyn-rail
-youtube_playlist_id:
-  - the-new-social-environment
 title: Ann Lauterbach with Anselm Berrigan
 date: 2020-04-08 13:00:00 -0500
 end_date: 2020-04-08 14:00:00 -0500

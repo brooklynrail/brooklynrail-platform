@@ -14,8 +14,6 @@ event_producer:
 youtube_id: 0K-Cm0_tD7o
 event_platform:
   - zoom
-speaker_images:
-  - {}
 ---
 
 

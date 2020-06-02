@@ -31,6 +31,10 @@
 
     .event-details{
       @include u-margin-top(2);
+      @include u-margin-bottom(1);
+      @include at-media('tablet') {
+        @include u-margin-bottom(3);
+      }
       @include u-font('sans', 'md');
       @include u-text('medium');
       @include u-text('center');
@@ -80,15 +84,12 @@
           }
         }
       }
-
-
     }
 
-
     .actions{
-      @include u-margin-y(1);
+      @include u-margin-bottom(1);
       @include at-media('tablet') {
-        @include u-margin-y(3);
+        @include u-margin-bottom(3);
       }
       @include u-display('flex');
       @include u-flex('justify-center');
@@ -165,7 +166,10 @@
         @include u-width('card-lg');
       }
     }
+  }
 
+  .stage{
+    @include u-padding-y(3);
   }
 
   section{

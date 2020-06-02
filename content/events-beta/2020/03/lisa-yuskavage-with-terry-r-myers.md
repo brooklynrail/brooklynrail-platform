@@ -3,8 +3,6 @@ summary: Painter Lisa Yuskavage and critic Terry R. Myers discuss creative life
   in the context of our new social reality.
 event_organizer:
   - the-brooklyn-rail
-youtube_playlist_id:
-  - the-new-social-environment
 title: Lisa Yuskavage with Terry R. Myers
 date: 2020-03-27 13:00:00 -0500
 end_date: 2020-03-27 14:00:00 -0500

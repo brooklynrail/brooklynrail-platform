@@ -9,7 +9,6 @@ end_date: 2020-04-10 14:00:00 -0500
 series: 19
 collections:
   - the-new-social-environment
-event_sponsor: Sperone Westwater Gallery
 event_producer:
   - the-brooklyn-rail
 youtube_id: VK_KILcCD-U
