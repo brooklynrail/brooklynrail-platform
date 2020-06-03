@@ -140,11 +140,23 @@ section.rail-section{
 
 // ===========================
 // Section
+main{
+  @include u-padding-y(6);
+}
+
+article{
+  header{
+    @include u-margin-bottom(6);
+    @include u-text('center');
+  }
+}
+
+// ===========================
+// Section
 .section{
   @include u-font('sans', 'sm');
   @include u-text('medium');
 }
-
 
 
 .breadcrumb{
@@ -156,5 +168,35 @@ section.rail-section{
   a{
     @include u-padding-y('05');
     @include u-radius('sm');
+  }
+}
+
+
+// ===========================
+// Forms
+form.rail-form {
+  @extend .usa-form;
+  fieldset{
+    @extend .usa-fieldset;
+    @include u-display('flex');
+    legend{
+      @extend .usa-legend;
+      @include u-margin-bottom('205');
+      @include u-font('sans', 'lg');
+      @include u-text('medium');
+    }
+    .field{
+      @include u-margin-bottom('205');
+      label{
+        @extend .usa-label;
+        @include u-margin-top(0);
+      }
+      input{
+        @extend .usa-input;
+        @include u-margin-top('05');
+        @include u-border('1px', 'solid', 'gray-20');
+        @include u-radius('sm');
+      }
+    }
   }
 }

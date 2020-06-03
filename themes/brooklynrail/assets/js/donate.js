@@ -12,17 +12,17 @@ jQuery(document).ready(function($) {
 	var errorText = "Failed. You have not been charged.";
 
 	// look out for submit events on the form
-	var submitButton = document.getElementById("giving-button");
+	var submitButton = document.getElementById("btn-donate");
 	var stripe = Stripe("pk_live_etssu1WTxk1CFKZuGX9lBQOU00YxJbQofX"); // STRIPE_PUBLISHABLE
 	var form = document.getElementById("donate-form");
 
-	$('#giving-button').click(function(e){
+	$('#btn-donate').click(function(e){
 		e.preventDefault();
 		const buttonText = submitButton.innerText;
 		submitButton.innerText = "Working...";
 
 		var data = {
-			amount: document.getElementById("giving-amount").valueAsNumber * 100,
+			amount: document.getElementById("donate-amount").valueAsNumber * 100,
 		};
 		var dataJson = JSON.stringify(data);
 

@@ -7,245 +7,241 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
 */}}
 <main class="event h-event" id="main-content" role="main">
 
-  <div class="grid-container">
-    <div class="grid-row">
-      <div class="grid-col-12">
-        {{ with .CurrentSection }}
-        <p class="breadcrumb">
-          <a class="u-black" href="{{ .RelPermalink }}" title="{{ . }}"><i class="fas fa-arrow-left"></i> <span>All {{ .Title }}</span></a>
-        </p>
-        {{ end }}
-      </div>
-    </div>
-  </div>
+  <article>
 
-  <header>
-    <div class="grid-container">
+    <header>
+      <div class="grid-container">
 
-      <div class="grid-row">
-        <div class="grid-col-12">
+        <div class="grid-row">
+          <div class="grid-col-12">
 
-          {{/* Kicker + Collections */}}
-          {{- if .Params.collections -}}
-            <p class="kicker">
-            {{- range $collection := (.GetTerms "collections") -}}
-              {{/* Gets the Topics page */}}
-              {{- $collection := $.Site.GetPage (printf "/%s/%s" "collections" $collection.Title) -}}
-              <span class="collection">{{- $collection.Title -}}</span>
-            {{- end -}}
-            {{- with .Params.series -}}
-              <span class="series"><span>#{{- . -}}</span></span>
-            {{- end -}}
+            {{ with .CurrentSection }}
+            <p class="breadcrumb">
+              <a class="u-black" href="{{ .RelPermalink }}" title="{{ . }}"><i class="fas fa-arrow-left"></i> <span>All {{ .Title }}</span></a>
             </p>
-          {{- end -}}
+            {{- end -}}
+
+            {{/* Kicker + Collections */}}
+            {{- if .Params.collections -}}
+              <p class="kicker">
+              {{- range $collection := (.GetTerms "collections") -}}
+                {{/* Gets the Topics page */}}
+                {{- $collection := $.Site.GetPage (printf "/%s/%s" "collections" $collection.Title) -}}
+                <span class="collection">{{- $collection.Title -}}</span>
+              {{- end -}}
+              {{- with .Params.series -}}
+                <span class="series"><span>#{{- . -}}</span></span>
+              {{- end -}}
+              </p>
+            {{- end -}}
 
 
-          {{- with .Params.Title -}}
-          <h1 class="p-name">
-            {{- . | markdownify -}}
-          </h1>
-          {{- end -}}
+            {{- with .Params.Title -}}
+            <h1 class="p-name">
+              {{- . | markdownify -}}
+            </h1>
+            {{- end -}}
 
-          {{- with .Params.Deck -}}
-          <p class="deck">
-            {{- . | markdownify -}}
-          </p>
-          {{- end -}}
+            {{- with .Params.Deck -}}
+            <p class="deck">
+              {{- . | markdownify -}}
+            </p>
+            {{- end -}}
 
+          </div>
+        </div>
+
+        <div class="grid-row">
+          <div class="grid-col-12">
+            {{/* NOTE:
+            - `.Date` is recognized by HUGO as an official date
+            - `.Params.end_date` is a string that needs to be converted to a date (still confused by this)
+            */}}
+            {{- $start_date := .Date -}}
+            {{- $end_date := (time .Params.end_date) -}}
+            {{/* This sets $future_event to true or false */}}
+            {{- $future_event := (time .Params.end_date).After now -}}
+            {{- if .Date -}}
+
+            <div class="event-details">
+              <i class="far fa-calendar"></i>&nbsp;
+              {{/* Start Date */}}
+              <time class="dt-start" datetime="{{- dateFormat "2006-01-02T15:04:05Z07:00" (time $start_date) -}}">{{- dateFormat "Monday, January 2, 2006" (time $start_date) -}}</time>
+
+              {{/* Hidden: This completes the `dt-end` value for the `h-event` microformat */}}
+              <span class="hidden"> to <time class="dt-end" datetime="{{- dateFormat "2006-01-02T15:04:05Z07:00" (time $end_date) -}}">{{- dateFormat "Monday, January 2, 2006" (time $end_date) -}}</time></span>
+
+              <p class="event-time">
+                {{- if gt $start_date.Minute 0 -}}{{- dateFormat "3:04" (time $start_date) -}}{{- else -}}{{- dateFormat "3" (time $start_date) -}}{{- end -}}&nbsp;
+                {{- $event_start_time_suffix := dateFormat "PM" (time $start_date) -}}
+                {{- $event_start_time_suffix := replace $event_start_time_suffix "PM" "p.m." -}}
+                {{- $event_start_time_suffix := replace $event_start_time_suffix "AM" "a.m." -}}
+                {{- $event_start_time_suffix -}}&nbsp;Eastern <span>/</span>
+                {{ $event_start_time_suffix_pt := dateFormat "PM" ((time $start_date).Add ( -3 | duration "hour" )) -}}
+                {{- $event_start_time_suffix_pt := replace $event_start_time_suffix_pt "PM" "p.m." -}}
+                {{- $event_start_time_suffix_pt := replace $event_start_time_suffix_pt "AM" "a.m." -}}
+                {{- if gt $start_date.Minute 0 -}}{{- dateFormat "3:04" ((time $start_date).Add ( -3 | duration "hour" )) -}}{{- else -}}{{- dateFormat "3" ((time $start_date).Add ( -3 | duration "hour" )) -}}{{- end -}}&nbsp;{{- $event_start_time_suffix_pt -}}&nbsp;Pacific
+              </p>
+
+
+              {{/* If is NOT a Future Event (Past event) */}}
+              {{- if eq $future_event true -}}
+                {{/* location */}}
+                {{- $event_platform_data := $.Site.Data.event_platforms -}}
+                {{- $event_platforms := .Params.event_platform -}}
+                {{- if $event_platforms -}}
+                <div class="event_platforms p-location">
+                  {{- range $i, $e := $event_platforms -}}
+                    {{- $platform := index $event_platform_data $e -}}
+                    {{/* {{- if ne $i 0 }}, {{ end }} */}}
+                    <p class="{{- $e -}}"><span>{{- $platform.icon | safeHTML -}}&nbsp;{{- $platform.name -}}</span></p>
+                  {{- end -}}
+                </div>
+                {{- end -}}
+              {{- end -}}
+
+            </div>
+            {{- end -}}
+          </div>
+        </div>
+
+        <div class="grid-row">
+          <div class="grid-col-12">
+
+            {{- if eq $future_event true -}}
+            <div class="actions">
+              {{- with .Params.registration_url -}}
+                {{/* Registration button */}}
+                <a class="u-white register" href="{{- . -}}" title="Register"><button class="btn btn-lg btn-register" type="button" name="register"><span>Register</span></button></a>
+
+                {{/* Add to Calendar */}}
+                <div title="Add to Calendar" class="addeventatc" data-styling="none">
+                  <span>Add to Calendar</span>
+                  <span class="start">{{- dateFormat "2006-01-02 03:04 PM" (time $start_date) -}}</span>
+                  <span class="end">{{- dateFormat "2006-01-02 03:04 PM" (time $end_date) -}}</span>
+                  <span class="timezone">America/New_York</span>
+                  <span class="title">{{- (print $.Params.Title $.Params.deck )| markdownify -}}</span>
+                  <span class="description">{{- htmlUnescape (print $.Params.summary (print "\n\nEvent Page: https:" $.Permalink)) | safeHTML -}}</span>
+                  <span class="alarm_reminder">15</span>
+                </div>
+
+              {{- else -}}
+                {{/* Coming soon */}}
+                <p class="coming-soon">Registration coming soon. <span>Dates and times might change.</span></p>
+              {{- end -}}
+              </div>
+            {{- end -}}
+          </div>
+        </div>
+
+        <div class="grid-row">
+          <div class="grid-col-12">
+            {{/* Speaker Images */}}
+            {{- if .Params.speaker_images -}}
+            <div class="speaker_images">
+            {{- range $speaker_image := .Params.speaker_images -}}
+              {{/* Gets the page data for this media in `/content/media` */}}
+              {{- $image := $.Site.GetPage "page" (printf "/%s/%s" "media" $speaker_image.media) -}}
+              {{- with $image -}}
+                {{- template "figure" (dict "image" . "size" "sm" "width" "300" ) -}}
+              {{- end -}}
+            {{- end -}}
+            </div>
+            {{- end -}}
+          </div>
         </div>
       </div>
+    </header>
 
-      <div class="grid-row">
-        <div class="grid-col-12">
-          {{/* NOTE:
-          - `.Date` is recognized by HUGO as an official date
-          - `.Params.end_date` is a string that needs to be converted to a date (still confused by this)
-          */}}
-          {{- $start_date := .Date -}}
-          {{- $end_date := (time .Params.end_date) -}}
-          {{/* This sets $future_event to true or false */}}
-          {{- $future_event := (time .Params.end_date).After now -}}
-          {{- if .Date -}}
+    {{/* PAST EVENT / Video  -------------------- */}}
+    {{/* If is NOT a Future Event (Past event) */}}
+    {{- if eq $future_event false -}}
+      {{- .Render "stage-youtube" -}}
+    {{- end -}}
 
-          <div class="event-details">
-            <i class="far fa-calendar"></i>&nbsp;
-            {{/* Start Date */}}
-            <time class="dt-start" datetime="{{- dateFormat "2006-01-02T15:04:05Z07:00" (time $start_date) -}}">{{- dateFormat "Monday, January 2, 2006" (time $start_date) -}}</time>
+    <section>
+      <div class="grid-container grid-container-desktop">
 
-            {{/* Hidden: This completes the `dt-end` value for the `h-event` microformat */}}
-            <span class="hidden"> to <time class="dt-end" datetime="{{- dateFormat "2006-01-02T15:04:05Z07:00" (time $end_date) -}}">{{- dateFormat "Monday, January 2, 2006" (time $end_date) -}}</time></span>
+        <div class="grid-row">
+          <div class="grid-col-12">
 
-            <p class="event-time">
-              {{- if gt $start_date.Minute 0 -}}{{- dateFormat "3:04" (time $start_date) -}}{{- else -}}{{- dateFormat "3" (time $start_date) -}}{{- end -}}&nbsp;
-              {{- $event_start_time_suffix := dateFormat "PM" (time $start_date) -}}
-              {{- $event_start_time_suffix := replace $event_start_time_suffix "PM" "p.m." -}}
-              {{- $event_start_time_suffix := replace $event_start_time_suffix "AM" "a.m." -}}
-              {{- $event_start_time_suffix -}}&nbsp;Eastern <span>/</span>
-              {{ $event_start_time_suffix_pt := dateFormat "PM" ((time $start_date).Add ( -3 | duration "hour" )) -}}
-              {{- $event_start_time_suffix_pt := replace $event_start_time_suffix_pt "PM" "p.m." -}}
-              {{- $event_start_time_suffix_pt := replace $event_start_time_suffix_pt "AM" "a.m." -}}
-              {{- if gt $start_date.Minute 0 -}}{{- dateFormat "3:04" ((time $start_date).Add ( -3 | duration "hour" )) -}}{{- else -}}{{- dateFormat "3" ((time $start_date).Add ( -3 | duration "hour" )) -}}{{- end -}}&nbsp;{{- $event_start_time_suffix_pt -}}&nbsp;Pacific
-            </p>
 
+            {{- $event_producer := "" -}}
+            {{- if .Params.event_producer -}}
+            {{- $event_producer = ($.Site.GetPage (printf "/%s/%s" "organizations" (index (.Params.event_producer) 0))) -}}
+            {{- end -}}
+
+            {{- $event_organizer := "" -}}
+            {{- if .Params.event_organizer -}}
+            {{- $event_organizer = ($.Site.GetPage (printf "/%s/%s" "organizations" (index (.Params.event_organizer) 0))) -}}
+            {{- end -}}
+
+            {{- $event_collection := index (.Params.collections) 0 -}}
+            {{- $event_collection = $.Site.GetPage (printf "/%s/%s" "collections" $event_collection) -}}
+
+            {{- if and $event_organizer $event_producer }}
+            <div class="sponsor">
+              <p>This talk is
+              {{- if .Params.event_sponsor -}}
+                {{- $sponsor_copy := $.Site.Data.sponsor_copy.sponsored -}}
+                {{- $copy := (index ($sponsor_copy | shuffle | first 1) 0) -}}
+                {{- $event_sponsor := ($.Site.GetPage (printf "/%s/%s" "organizations" (index (.Params.event_sponsor) 0))) -}}
+                {{- with $event_sponsor }}
+                  {{ $copy.phrase }} our friends at <a class="u-dotted" href="{{ .Params.website }}" title="{{ .Params.name }}"><span>{{ .Params.name }}</span></a> and
+                {{ end -}}
+              {{- end -}}
+
+              {{- if eq $event_organizer $event_producer }}
+                produced by {{ if $event_producer.Params.website -}}<a class="u-dotted" href="{{- $event_producer.Params.website -}}" title="{{- $event_producer.Params.name -}}"><span>{{- $event_producer.Params.name -}}</span></a>{{- else -}}<span>{{- $event_producer.Params.name -}}</span>{{- end -}}.
+              {{- else }}
+                organized by {{ if $event_organizer.Params.website -}}<a class="u-dotted" href="{{ $event_organizer.Params.website }}" title="{{ $event_organizer.Params.name }}"><span>{{ $event_organizer.Params.name }}</span></a>{{- else -}}<span>{{- $event_organizer.Params.name -}}</span>{{- end }}
+                and produced by {{ if $event_producer.Params.website -}}<a class="u-dotted" href="{{- $event_producer.Params.website -}}" title="{{- $event_producer.Params.name -}}"><span>{{- $event_producer.Params.name -}}</span></a>{{- else -}}<span>{{- $event_producer.Params.name -}}</span>{{- end -}}.
+              {{- end -}}
+              </p>
+              <p class="copy-donate">Learn how <a href="{{- "donate-beta" | absURL -}}" title="Donate"><span>you can donate</span></a> {{ ":sparkles:" | emojify -}}{{- ":rainbow:" | emojify -}}</p>
+            </div>
+            {{- end -}}
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div class="grid-container grid-container-tablet-lg">
+
+        <div class="grid-row">
+          <div class="grid-col-12">
+
+            <div class="content">
+
+              <h2>In this talk</h2>
+              <p class="summary">{{- .Params.summary | markdownify -}}</p>
+
+              {{- .Content -}}
+
+              {{/* Sponsored Collection */}}
+              {{- if .Params.collections -}}
+                <p class="collection">
+                  <strong>{{- $event_collection.Title -}}</strong> — {{ $event_collection.Summary -}}
+                </p>
+              {{- end -}}
+
+            </div>
 
             {{/* If is NOT a Future Event (Past event) */}}
             {{- if eq $future_event true -}}
-              {{/* location */}}
-              {{- $event_platform_data := $.Site.Data.event_platforms -}}
-              {{- $event_platforms := .Params.event_platform -}}
-              {{- if $event_platforms -}}
-              <div class="event_platforms p-location">
-                {{- range $i, $e := $event_platforms -}}
-                  {{- $platform := index $event_platform_data $e -}}
-                  {{/* {{- if ne $i 0 }}, {{ end }} */}}
-                  <p class="{{- $e -}}"><span>{{- $platform.icon | safeHTML -}}&nbsp;{{- $platform.name -}}</span></p>
-                {{- end -}}
+              {{- with .Params.event_platform -}}
+              <div class="content event-logistics">
+                {{- partial "event-logistics" . | markdownify -}}
               </div>
               {{- end -}}
             {{- end -}}
 
-          </div>
-          {{- end -}}
+            {{- partial "tags.html" . -}}
         </div>
       </div>
+    </section>
 
-      <div class="grid-row">
-        <div class="grid-col-12">
-
-          {{- if eq $future_event true -}}
-          <div class="actions">
-            {{- with .Params.registration_url -}}
-              {{/* Registration button */}}
-              <a class="u-white register" href="{{- . -}}" title="Register"><button class="btn btn-lg btn-register" type="button" name="register"><span>Register</span></button></a>
-
-              {{/* Add to Calendar */}}
-              <div title="Add to Calendar" class="addeventatc" data-styling="none">
-                <span>Add to Calendar</span>
-                <span class="start">{{- dateFormat "2006-01-02 03:04 PM" (time $start_date) -}}</span>
-                <span class="end">{{- dateFormat "2006-01-02 03:04 PM" (time $end_date) -}}</span>
-                <span class="timezone">America/New_York</span>
-                <span class="title">{{- (print $.Params.Title $.Params.deck )| markdownify -}}</span>
-                <span class="description">{{- htmlUnescape (print $.Params.summary (print "\n\nEvent Page: https:" $.Permalink)) | safeHTML -}}</span>
-                <span class="alarm_reminder">15</span>
-              </div>
-
-            {{- else -}}
-              {{/* Coming soon */}}
-              <p class="coming-soon">Registration coming soon. <span>Dates and times might change.</span></p>
-            {{- end -}}
-            </div>
-          {{- end -}}
-        </div>
-      </div>
-
-      <div class="grid-row">
-        <div class="grid-col-12">
-          {{/* Speaker Images */}}
-          {{- if .Params.speaker_images -}}
-          <div class="speaker_images">
-          {{- range $speaker_image := .Params.speaker_images -}}
-            {{/* Gets the page data for this media in `/content/media` */}}
-            {{- $image := $.Site.GetPage "page" (printf "/%s/%s" "media" $speaker_image.media) -}}
-            {{- with $image -}}
-              {{- template "figure" (dict "image" . "size" "sm" "width" "300" ) -}}
-            {{- end -}}
-          {{- end -}}
-          </div>
-          {{- end -}}
-        </div>
-      </div>
-    </div>
-  </header>
-
-  {{/* PAST EVENT / Video  -------------------- */}}
-  {{/* If is NOT a Future Event (Past event) */}}
-  {{- if eq $future_event false -}}
-    {{- .Render "stage-youtube" -}}
-  {{- end -}}
-
-
-  <section>
-    <div class="grid-container grid-container-desktop">
-
-      <div class="grid-row">
-        <div class="grid-col-12">
-
-
-          {{- $event_producer := "" -}}
-          {{- if .Params.event_producer -}}
-          {{- $event_producer = ($.Site.GetPage (printf "/%s/%s" "organizations" (index (.Params.event_producer) 0))) -}}
-          {{- end -}}
-
-          {{- $event_organizer := "" -}}
-          {{- if .Params.event_organizer -}}
-          {{- $event_organizer = ($.Site.GetPage (printf "/%s/%s" "organizations" (index (.Params.event_organizer) 0))) -}}
-          {{- end -}}
-
-          {{- $event_collection := index (.Params.collections) 0 -}}
-          {{- $event_collection = $.Site.GetPage (printf "/%s/%s" "collections" $event_collection) -}}
-
-          {{- if and $event_organizer $event_producer }}
-          <div class="sponsor">
-            <p>This talk is
-            {{- if .Params.event_sponsor -}}
-              {{- $sponsor_copy := $.Site.Data.sponsor_copy.sponsored -}}
-              {{- $copy := (index ($sponsor_copy | shuffle | first 1) 0) -}}
-              {{- $event_sponsor := ($.Site.GetPage (printf "/%s/%s" "organizations" (index (.Params.event_sponsor) 0))) -}}
-              {{- with $event_sponsor }}
-                {{ $copy.phrase }} our friends at <a class="u-dotted" href="{{ .Params.website }}" title="{{ .Params.name }}"><span>{{ .Params.name }}</span></a> and
-              {{ end -}}
-            {{- end -}}
-
-            {{- if eq $event_organizer $event_producer }}
-              produced by {{ if $event_producer.Params.website -}}<a class="u-dotted" href="{{- $event_producer.Params.website -}}" title="{{- $event_producer.Params.name -}}"><span>{{- $event_producer.Params.name -}}</span></a>{{- else -}}<span>{{- $event_producer.Params.name -}}</span>{{- end -}}.
-            {{- else }}
-              organized by {{ if $event_organizer.Params.website -}}<a class="u-dotted" href="{{ $event_organizer.Params.website }}" title="{{ $event_organizer.Params.name }}"><span>{{ $event_organizer.Params.name }}</span></a>{{- else -}}<span>{{- $event_organizer.Params.name -}}</span>{{- end }}
-              and produced by {{ if $event_producer.Params.website -}}<a class="u-dotted" href="{{- $event_producer.Params.website -}}" title="{{- $event_producer.Params.name -}}"><span>{{- $event_producer.Params.name -}}</span></a>{{- else -}}<span>{{- $event_producer.Params.name -}}</span>{{- end -}}.
-            {{- end -}}
-            </p>
-            <p class="copy-donate">Learn how <a href="{{- "donate-beta" | absURL -}}" title="Donate"><span>you can donate</span></a> {{ ":sparkles:" | emojify -}}{{- ":rainbow:" | emojify -}}</p>
-          </div>
-          {{- end -}}
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section>
-    <div class="grid-container grid-container-tablet-lg">
-
-      <div class="grid-row">
-        <div class="grid-col-12">
-
-          <div class="content">
-
-            <h2>In this talk</h2>
-            <p class="summary">{{- .Params.summary | markdownify -}}</p>
-
-            {{- .Content -}}
-
-            {{/* Sponsored Collection */}}
-            {{- if .Params.collections -}}
-              <p class="collection">
-                <strong>{{- $event_collection.Title -}}</strong> — {{ $event_collection.Summary -}}
-              </p>
-            {{- end -}}
-
-          </div>
-
-          {{/* If is NOT a Future Event (Past event) */}}
-          {{- if eq $future_event true -}}
-            {{- with .Params.event_platform -}}
-            <div class="content event-logistics">
-              {{- partial "event-logistics" . | markdownify -}}
-            </div>
-            {{- end -}}
-          {{- end -}}
-
-          {{- partial "tags.html" . -}}
-      </div>
-    </div>
-  </section>
-
+  </article>
 </main>
 {{ end }}

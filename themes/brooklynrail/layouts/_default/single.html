@@ -1,41 +1,57 @@
 {{ define "main" }}
 
-<div class="grid-container">
-  <div class="grid-row">
-    <div class="grid-col-12">
-      
-      <article class="">
+<main class="page h-event" id="main-content" role="main">
+  <article>
+    <header>
+      <div class="grid-container">
+        <div class="grid-row">
+          <div class="grid-col-12">
 
-        <header class="">
-          <p class="kicker">
-            {{with .CurrentSection }}
-              <a href="{{ .Permalink }}" title="{{ . }}">{{ .Title | upper }}</a>
-            {{end}}
-          </p>
-          <h1>
-            {{- .Title -}}
-          </h1>
+            {{/* Kicker + Collections */}}
+            {{- if .Params.collections -}}
+              <p class="kicker">
+              {{- range $collection := (.GetTerms "collections") -}}
+                {{/* Gets the Topics page */}}
+                {{- $collection := $.Site.GetPage (printf "/%s/%s" "collections" $collection.Title) -}}
+                <span class="collection">{{- $collection.Title -}}</span>
+              {{- end -}}
+              {{- with .Params.series -}}
+                <span class="series"><span>#{{- . -}}</span></span>
+              {{- end -}}
+              </p>
+            {{- end -}}
 
-          {{/* Hugo uses Go's date formatting is set by example. Here are two formats */}}
-          <time class="" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
-            {{- .Date.Format "January 2, 2006" -}}
-          </time>
+            <h1>
+              {{- if .Params.headline -}}
+                {{- .Params.headline | markdownify -}}
+              {{- else -}}
+              {{- .Params.Title | markdownify -}}
+              {{- end -}}
+            </h1>
 
-        </header>
+            {{- with .Params.Deck -}}
+            <p class="deck">
+              {{- . | markdownify -}}
+            </p>
+            {{- end -}}
 
-        <section class="">
-          {{- .Content -}}
-          {{- partial "tags.html" . -}}
-        </section>
+          </div>
+        </div>
+      </div>
+    </header>
 
-        <aside>
-          {{- partial "menu-contextual.html" . -}}
-        </aside>
+    <section>
+      <div class="grid-container">
+        <div class="grid-row">
+          <div class="grid-col-12 tablet:grid-col-8 tablet:grid-offset-2">
+            <div class="content">
+              {{- .Content -}}
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
 
-      </article>
-
-    </div>
-  </div>
-</div>
-
+  </article>
+</main>
 {{ end }}
