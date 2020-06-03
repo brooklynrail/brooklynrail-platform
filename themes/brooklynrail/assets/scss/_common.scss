@@ -153,9 +153,15 @@ article{
 
 // ===========================
 // Section
-.section{
-  @include u-font('sans', 'sm');
-  @include u-text('medium');
+section{
+
+  .summary{
+    @include u-margin(0);
+    @include u-margin-bottom(3);
+    @include u-font('sans', 'lg');
+    @include u-text('light');
+  }
+
 }
 
 

@@ -60,6 +60,52 @@ local_backend:
 # Collections
 collections:
 
+  # ====================================
+  # Pages
+  - name: "pages" # Used in routes, e.g., /workflow/collections/blog
+    label: "Pages" # Used in the UI
+    label_singular: "Page"
+    description: "TKTK"
+    folder: "content/pages" # path to the folder where files are stored
+    # path: "{{slug}}" # custom file path
+    # create: true # Allow users to create new documents in this collection
+    identifier_field: title # sets the field that is used to create the slug
+    slug: "{{slug}}"
+    summary: "{{title}}"
+    editor:
+      preview: false
+
+    fields: # The fields for each document, usually in frontmatter
+      - label: "Page Title"
+        name: "title"
+        widget: "string"
+        hint: "This is the page title that will appear in search and across the internet. Super important to make this short and topical. [e.g. Board Members]"
+
+      - label: "Headline"
+        name: "headline"
+        widget: "string"
+        hint: "This is headline that will appear on the page. It might be the same as the page title, but has the freedom to be a little more playful. [e.g. Our Wonderful Board Members]"
+
+      - label: "Deck"
+        name: "deck"
+        minimal: true
+        widget: "string"
+        hint: "A continuation of the headline, without repeating it. Think of this as the sentence you'd most like to tweet. You need to be able to read it outloud in a single breath."
+        required: false
+
+      - label: "Summary"
+        name: "summary"
+        minimal: true
+        widget: "string"
+        default: ""
+        hint: "One-sentence description of the page. Try not to repeat the headline."
+
+      - label: "Page Copy"
+        name: "body"
+        widget: "markdown"
+        editorComponents: ["image", "donate"]
+
+
 
   # ====================================
   # Events
@@ -178,7 +224,7 @@ collections:
         hint: "A link to Eventbrite, or where our readers are being asked to register. (e.g. https://www.eventbrite.com/...)"
         required: false
 
-      - label: "YouTube ID"
+      - label: "Event YouTube ID"
         name: "youtube_id"
         widget: "string"
         hint: "The YouTube ID is the string of characters between the `v=` and the `&` in the video URL. (e.g. `3FKyVeipMss`)"

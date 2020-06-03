@@ -164,14 +164,6 @@
 
   section{
 
-
-
-    .summary{
-      @include u-margin-bottom(3);
-      @include u-font('sans', 'lg');
-      @include u-text('light');
-    }
-
     .sponsor{
       @include u-padding-y(2);
       @include u-padding-x(1);
