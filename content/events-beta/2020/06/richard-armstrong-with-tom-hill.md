@@ -1,6 +1,6 @@
 ---
 title: Richard Armstrong with Tom Hill
-deck: Supported by The Hill Art Foundation
+deck: ""
 summary: Director of Solomon R. Guggenheim Museum and Foundation, Richard
   Armstrong and Tom Hill of the Hill Art Foundation will discuss how art
   institutions and museums can adapt to our new social reality
