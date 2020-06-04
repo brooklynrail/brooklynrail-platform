@@ -21,7 +21,7 @@
       @include u-width('mobile-lg');
     }
     input{
-      // @include u-width('mobile');
+      @include u-width('card-lg');
     }
   }
   .btn{
