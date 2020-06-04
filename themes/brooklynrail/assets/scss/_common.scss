@@ -197,8 +197,8 @@ form.rail-form {
     legend{
       @extend .usa-legend;
       @include u-margin-bottom('205');
-      @include u-font('sans', 'md');
-      @include u-text('medium');
+      @include u-font('serif', 'xl');
+      @include u-text('light');
     }
     // Field Group
     .group{

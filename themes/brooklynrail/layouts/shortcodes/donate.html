@@ -3,24 +3,36 @@ Donate Shortcode
 {{< donate >}}
 */}}
 
+{{/* Gets the `media` data from the image shortcode */}}
+{{- $heading := (.Get "heading" | markdownify) -}}
+{{- $placeholder := (.Get "placeholder") -}}
+{{- $value := (.Get "value") -}}
+
 <div class="shortcode-donate shortcode-donate-sm">
   <form class="rail-form" id="donate-form">
     <fieldset>
-      <legend>Donate to the Rail</legend>
-      <div class="group">
+      <div class="fields">
+        {{- if $heading -}}
+          <legend>{{- $heading -}}</legend>
+        {{- else -}}
+          <legend>Donate to the Rail</legend>
+        {{- end -}}
 
-        <div class="field">
-          <label for="donate-amount">Amount <span class="usa-hint"></span></label>
-          <div class="prefix">
-            <span>$</span>
-            <input type="number" min="0" placeholder="25" id="donate-amount" />
+        <div class="group">
+
+          <div class="field">
+            <label for="donate-amount">Amount <span class="usa-hint"></span></label>
+            <div class="prefix">
+              <span>$</span>
+              <input type="number" min="0" placeholder="{{- if $placeholder -}}{{- $placeholder -}}{{- else -}}25{{- end -}}" id="donate-amount" />
+            </div>
           </div>
-        </div>
 
-        <div class="field">
-          <button class="btn btn-md" type="button" id="btn-donate"><span>Donate</span></button>
-        </div>
+          <div class="field">
+            <button class="btn btn-md" type="button" id="btn-donate"><span>Donate</span></button>
+          </div>
 
+        </div>
       </div>
     </fieldset>
   </form>
