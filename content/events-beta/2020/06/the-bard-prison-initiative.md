@@ -16,6 +16,7 @@ event_organizer:
 event_producer:
   - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-57-bard-prison-initiative-tickets-106787851338
+youtube_id: aBAcHMV8QE0
 event_platform:
   - zoom
 ---

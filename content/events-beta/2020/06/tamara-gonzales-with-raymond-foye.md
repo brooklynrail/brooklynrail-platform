@@ -14,6 +14,7 @@ event_organizer:
 event_producer:
   - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-55-tamara-gonzales-tickets-107134837182
+youtube_id: CEP2HbvuLYI
 event_platform:
   - zoom
 speaker_images:

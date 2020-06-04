@@ -15,6 +15,7 @@ event_organizer:
 event_producer:
   - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-56-rirkrit-tiravanija-tomas-vu-tickets-107120083052
+youtube_id: o_pJ5KDM7_Q
 event_platform:
   - zoom
 speaker_images:
