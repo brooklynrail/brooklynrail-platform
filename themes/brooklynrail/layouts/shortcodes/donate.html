@@ -7,11 +7,21 @@ Donate Shortcode
   <form class="rail-form" id="donate-form">
     <fieldset>
       <legend>Donate to the Rail</legend>
-      <div class="field">
-        <label for="donate-amount">Amount <span class="usa-hint"></span></label>
-        <input type="number" min="0" placeholder="$25" id="donate-amount" />
+      <div class="group">
+
+        <div class="field">
+          <label for="donate-amount">Amount <span class="usa-hint"></span></label>
+          <div class="prefix">
+            <span>$</span>
+            <input type="number" min="0" placeholder="25" id="donate-amount" />
+          </div>
+        </div>
+
+        <div class="field">
+          <button class="btn btn-md" type="button" id="btn-donate"><span>Donate</span></button>
+        </div>
+
       </div>
-      <button class="btn btn-lg" type="button" id="btn-donate">Donate</button>
     </fieldset>
   </form>
 </div>

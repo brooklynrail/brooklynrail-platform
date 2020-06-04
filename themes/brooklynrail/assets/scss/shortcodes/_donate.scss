@@ -6,4 +6,15 @@
   @include u-radius('md');
   @include u-padding('205');
   @include u-padding-bottom(4);
+  fieldset{
+  }
+  .btn{
+    @include u-line-height('sans', 3);
+    @include u-height(5);
+    &:hover{
+      span{
+        @include u-border-bottom('2px', 'solid', 'white');
+      }
+    }
+  }
 }

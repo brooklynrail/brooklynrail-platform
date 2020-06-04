@@ -91,6 +91,7 @@ h2{
   @include u-padding-x('05');
   @include u-text('medium');
   @include u-font('sans', 'xs');
+  @include u-line-height('sans', 1);
   @include at-media('tablet-lg') {
     @include u-font('sans', 'md');
   }
@@ -113,6 +114,14 @@ h2{
   @include u-padding-y(1);
   @include u-padding-x('105');
   @include u-font('sans', 'xs');
+}
+
+.btn-md{
+  @extend .btn;
+  @include u-margin(0);
+  @include u-padding-y(1);
+  @include u-padding-x(2);
+  @include u-font('sans', 'md');
 }
 
 .btn-lg{
@@ -184,24 +193,65 @@ form.rail-form {
   @extend .usa-form;
   fieldset{
     @extend .usa-fieldset;
-    @include u-display('flex');
+    // The heading in the form
     legend{
       @extend .usa-legend;
       @include u-margin-bottom('205');
-      @include u-font('sans', 'lg');
+      @include u-font('sans', 'md');
       @include u-text('medium');
     }
+    // Field Group
+    .group{
+      @include u-display('flex');
+      @include u-flex('align-end');
+      .field{
+        @include u-margin-y(0);
+        @include u-margin-right('105');
+        &:last-child{
+          @include u-margin-right(0);
+        }
+      }
+    }
+
+    // Field
     .field{
       @include u-margin-bottom('205');
       label{
         @extend .usa-label;
         @include u-margin-top(0);
+        @include u-margin-bottom('05');
+        @include u-font('sans', 'sm');
       }
       input{
         @extend .usa-input;
-        @include u-margin-top('05');
+        @include u-margin(0);
+        @include u-padding-y(1);
+        @include u-padding-x(1);
+        @include u-height(5);
+        @include u-font('sans', 'md');
+        @include u-line-height('sans', 1);
         @include u-border('1px', 'solid', 'gray-20');
         @include u-radius('sm');
+      }
+      .prefix{
+        @include u-display('flex');
+        @include u-flex('align-center');
+        span{
+          @include u-display('block');
+          @include u-padding-y(1);
+          @include u-padding-x(1);
+          @include u-height(5);
+          @include u-bg('white');
+          @include u-font('sans', 'md');
+          @include u-line-height('sans', 1);
+          @include u-border('1px', 'solid', 'gray-20');
+          @include u-border-right(0);
+          @include u-radius('sm');
+        }
+        input{
+          @include u-border-left(0);
+          @include u-padding-left(0);
+        }
       }
     }
   }
