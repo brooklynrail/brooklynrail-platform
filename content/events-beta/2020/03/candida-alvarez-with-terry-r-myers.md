@@ -14,9 +14,10 @@ event_producer:
 youtube_id: VTISy6fwnf8
 event_platform:
   - zoom
-speaker_images:
-  - media: 2020/05/candida-alvarez
 ---
+
+{{< image media="2020/05/candida-alvarez" size="sm" >}}
+
 **Candida Alvarez** is a Puerto Rican artist and educator from Brooklyn, NY. Her current show, Estoy Bien, is at Monique Meloche Gallery in Chicago.
 
 **Terry R. Myers**  is a critic and independent curator based in Los Angeles, and an Editor-at-Large at the *Rail*.

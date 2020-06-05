@@ -17,10 +17,9 @@ youtube_id: f92s9oLBOYc
 event_platform:
   - zoom
 
-speaker_images:
-  - media: 2020/05/minjung-kim-portrait
 ---
 
+{{< image media="2020/05/minjung-kim-portrait" size="sm" >}}
 
 **Minjung Kim** is a contemporary Korean artist best known for her ink paintings by their transparency as well as her subtle formal compositions on layered paper. Committed to re-interpreting traditional Korean aesthetics, Kim employs a process-based organization of her thoughts, problems, and whims in each of her artworks. Through the repetitive work of burning and layering mulberry Hanji paper, she conveys the process of emotional healing and meditation. Often colorful and staccato, the artist describes her calligraphic work in emotional terms: “The movement, the colors, they are so calm and peaceful. They are my state of mind,” she says.
 

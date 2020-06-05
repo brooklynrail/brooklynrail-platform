@@ -15,9 +15,10 @@ youtube_id: wc_cCLWgQkw
 event_platform:
   - zoom
 
-speaker_images:
-  - media: 2020/05/julian-schnabel
 ---
+
+{{< image media="2020/05/julian-schnabel" size="sm" >}}
+
 **Julian Schnabel**  is an artist and filmmaker based in New York, his most recent solo show of paintings, The Patch of Blue the Prisoner Calls the Sky, opened at Pace Gallery in March. His films include  _At Eternity’s Gate_  (2018) and  _Miral_  (2010), among others.
 
 **Phong Bui** is Publisher and Artistic Director of the *Brooklyn Rail*.

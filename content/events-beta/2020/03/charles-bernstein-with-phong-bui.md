@@ -16,9 +16,10 @@ event_producer:
 youtube_id: YTdfMO9tT28
 event_platform:
   - zoom
-speaker_images:
-  - media: 2020/05/charles-bernstein-portrait
 ---
+
+{{< image media="2020/05/charles-bernstein-portrait" size="sm" >}}
+
 **Charles Bernstein**’s most recent book is *Near/Miss*, from the University of Chicago Press.
 
 **Phong Bui** is Publisher and Artistic Director of the *Brooklyn Rail*.

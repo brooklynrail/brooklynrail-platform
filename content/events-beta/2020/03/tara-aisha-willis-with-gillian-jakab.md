@@ -16,10 +16,10 @@ youtube_id: B73OEQkTYas
 event_platform:
   - zoom
 
-speaker_images:
-  - media: 2020/05/tara-aisha-willis
 ---
 
+
+{{< image media="2020/05/tara-aisha-willis" size="sm" >}}
 
 **Tara Aisha Willis**  is a dancer and a PhD candidate in Performance Studies at New York University. She is Associate Curator in Performance & Public Practice at the Museum of Contemporary Art Chicago.
 

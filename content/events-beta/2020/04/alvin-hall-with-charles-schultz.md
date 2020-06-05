@@ -16,9 +16,10 @@ youtube_id: 8GhSP4NbGO8
 event_platform:
   - zoom
 
-speaker_images:
-  - media: 2020/05/alvin-hall-portrait
 ---
+
+{{< image media="2020/05/alvin-hall-portrait" size="sm" >}}
+
 **Alvin Hall** is a financial educator, award-winning television and radio broadcaster, best-selling author, and art collector. His recent broadcasts include: The Green Book (BBC Radio 4), “Alvin Hall Goes Back to School” (The Takeaway, PRI with WNYC). His children's book, Show Me the Money, has been published in 20 foreign-language editions. He has performed on NPR's The Moth. Hall lives in New York City where he's completing a memoir of his childhood and his first podcast series.
 
 **In the Rail:**

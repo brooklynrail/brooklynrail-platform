@@ -14,9 +14,10 @@ event_producer:
 youtube_id: YzKe9DfKhTY
 event_platform:
   - zoom
-speaker_images:
-  - media: 2020/05/jessamine-batario
 ---
+
+{{< image media="2020/05/jessamine-batario" size="sm" >}}
+
 **Jessamine Batario** is an Art Historian who lives in Maine. She is currently the Mellon Postdoctoral Fellow at the Lunder Institute for American Art at Colby College. Batario’s research has been supported by fellowships and grants from the Dedalus Foundation (New York), the Getty Research Institute (Los Angeles), the Vivian L. Smith Foundation at The Menil Collection (Houston), and The Graduate School (UT Austin).
 
  **Phong H. Bui**  is Publisher and Artistic Director of the *Brooklyn Rail*.

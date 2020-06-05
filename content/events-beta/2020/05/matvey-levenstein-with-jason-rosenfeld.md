@@ -19,10 +19,11 @@ youtube_playlist_id:
 youtube_id: oqVZueMmy20
 event_platform:
   - zoom
-speaker_images:
-  - media: 2020/05/matvey-levenstein-portrait
 ---
+
 We'd like to thank **[Kasmin Gallery](https://www.kasmingallery.com/)** for supporting this conversation. We are deeply grateful for their support of the Brooklyn Rail and our community.
+
+{{< image media="2020/05/matvey-levenstein-portrait" size="sm" >}}
 
 **Matvey Levenstein** was born in Moscow, U.S.S.R. in 1960 and currently lives and works in New York City. Levenstein'sdelicate and exquisitely rendered paintings explore themes of history and representation. His paintings and works on paper are filtered through the most traditional painterly genres—the landscape, the still life, and the portrait—and are imbued with a distinctly literary sensitivity; they are quiet meditations on the relevance of Romanticism in the 21st Century.
 

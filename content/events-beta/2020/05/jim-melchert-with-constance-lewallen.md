@@ -17,9 +17,7 @@ youtube_playlist_id:
 youtube_id: gmQ5ickBTbA
 event_platform:
   - zoom
-speaker_images:
-  - media: 2020/05/jim-melchert
-  - media: 2020/05/constance-lewallen
+
 ---
 {{< image media="2020/05/jim-melchert" size="md" >}}
 

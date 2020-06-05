@@ -145,17 +145,6 @@
         @include u-text('light');
       }
     }
-
-    .speaker_images{
-      @include u-margin-y('105');
-      @include u-margin-bottom(3);
-      @include u-display('flex');
-      @include u-flex('justify-center');
-      .media{
-        @include u-padding-x(1);
-        @include u-width('card-lg');
-      }
-    }
   }
 
   .stage{

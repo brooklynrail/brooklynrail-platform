@@ -14,9 +14,10 @@ event_producer:
 youtube_id: RnrmaHDzyCc
 event_platform:
   - zoom
-speaker_images:
-  - media: 2020/05/lisa-yuskavage
 ---
+
+{{< image media="2020/05/lisa-yuskavage" size="sm" >}}
+
 **Lisa Yuskavage** is an American painter who lives and works in New York.
 
 **Terry R. Myers** is a critic and independent curator based in Los Angeles, and an Editor-at-Large of the *Rail*. From 1990 to 2019 he held faculty positions at Pratt Institute, Otis College of Art and Design, Art Center College of Design, California College of the Arts, the Royal College of Art in London, and the School of the Art Institute of Chicago.

@@ -15,14 +15,11 @@ registration_url: https://www.eventbrite.com/e/the-new-social-environment-40-pau
 youtube_id: qquizePhf1c
 event_platform:
   - zoom
-speaker_images:
-  - media: 2020/05/paul-soulellis
-youtube_playlist_id:
-  - the-new-social-environment
 ---
+
 {{< image media="2020/05/paul-soulellis" size="md" >}}
 
-\
+
 **Paul Soulellis** is an artist and educator based in Providence, RI. His practice includes teaching, writing, and experimental publishing, with a focus on queer methodologies and network culture. He is currently Assistant Professor of Graphic Design at the Rhode Island School of Design, and Founder/Director of  [Queer.Archive.Work](http://queer.archive.work/), a non-profit community reading room, publishing studio, and project space. Paul writes and speaks about art, design, and experimental publishing internationally, was a Design Insights speaker at the Walker Art Center in 2018, and was a featured speaker at the Eyeo Festival in 2019. He is also the founder of Library of the Printed Web, a physical archive devoted to web-to-print artists’ books, zines, and printout matter, now housed at MoMA Library in NYC.
 
 **In the Rail:**

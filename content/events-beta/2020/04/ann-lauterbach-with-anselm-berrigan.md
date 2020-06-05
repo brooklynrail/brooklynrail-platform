@@ -15,9 +15,9 @@ youtube_id: Xy1vBXmdxLo
 event_platform:
   - zoom
 
-speaker_images:
-  - media: 2020/05/ann-lauterbach
 ---
+
+{{< image media="2020/05/ann-lauterbach" size="sm" >}}
 
 **Ann Lauterbach**  (she/her) has published ten collections of poetry, most recently Spell (Penguin, 2018). Her prose has been collected in *The Night Sky: Writings on the Poetics of Experience* (Viking, 2006); *The Given & The Chosen*; and *Saint Petersburg Notebook*. She has written on artists Joe Brainard, Jessica Stockholder, Taylor Davis, Kenji Fujita and Cheyney Thompson, among others, and for the exhibition *Whole Fragment* at the Sheppard Fine Arts Gallery in Reno, Nevada. Lauterbach has received fellowships from the Ingram Merrill Foundation, the Guggenheim Foundation and the John D. and Catherine T. MacArthur Foundation. Her 2009 collection, *Or to Begin Again*, was nominated for a National Book Award. She has been, since 1990, co-Chair of Writing in the interdisciplinary Milton Avery School of the Arts and, since 1997, Ruth and David Schwab II Professor of Languages and Literature, at Bard College. She lives in Germantown, New York.
 

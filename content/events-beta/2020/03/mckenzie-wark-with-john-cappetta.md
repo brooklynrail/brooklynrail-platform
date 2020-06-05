@@ -14,12 +14,13 @@ event_producer:
 youtube_id: ex59SJJw6Bs
 event_platform:
   - zoom
-speaker_images:
-  - media: 2020/05/mckenzie-wark
 ---
+
+{{< image media="2020/05/mckenzie-wark" size="sm" >}}
+
 **McKenzie Wark**  (she/her) is a writer and scholar. She is the author of numerous books, including Reverse Cowgirl, Capital is Dead: Is this something worse?, Molecular Red: Theory of the Anthropocene, A Hacker Manifesto, among others. She teaches at the New School for Social Research and Eugene Lang College in New York City.
 
- **John Cappetta**, is the Social Media Director and a contributor at  the *Brooklyn Rail*. Their writing has also appeared in  *Civil Eats*,  *Hakai Magazine*,  *Maine the Way*, and *Sartle*.
+**John Cappetta**, is the Social Media Director and a contributor at  the *Brooklyn Rail*. Their writing has also appeared in  *Civil Eats*,  *Hakai Magazine*,  *Maine the Way*, and *Sartle*.
 
 **In the *Rail*:**
 

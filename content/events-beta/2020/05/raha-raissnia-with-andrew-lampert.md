@@ -1,7 +1,6 @@
 ---
 title: Raha Raissnia with Andrew Lampert
-summary: "Artists Raha Raissnia and Andrew Lampert discuss creative life in the
-  context of our new social reality. "
+summary: "Artists Raha Raissnia and Andrew Lampert discuss creative life in the context of our new social reality."
 date: 2020-05-01 13:00:00 -0500
 end_date: 2020-05-01 14:00:00 -0500
 series: 34
@@ -11,16 +10,15 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
-registration_url: https://www.eventbrite.com/e/the-new-social-environment-34-raha-raissnia-tickets-103262043552#
-youtube_playlist_id:
-  - the-new-social-environment
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-34-raha-raissnia-tickets-103262043552
 youtube_id: G2H2N5WDTIs
 event_platform:
   - zoom
 
-speaker_images:
-  - media: 2020/05/raha-raissnia-portrait
 ---
+
+{{< image media="2020/05/raha-raissnia-portrait" size="sm" >}}
+
 “I have to tell you, I learned filmmaking more from painters and musicians than from filmmakers," director Béla Tarr has confessed. Reversing his cue, **Raha Raissnia** learned to paint from filmmakers and musicians rather than painters. Years spent at Anthology Film Archives left her well-versed in the cinematic avant-garde, and her projection performances often involve collaborations with experimental musicians Aki Onda and Charles Curtis. Above all, Raissnia’s work aspires to the temporal and experiential condition of music—suggestive, ambiguous, abstract.
 
 Over the past decade, the artist's paintings, drawings, and films have unfolded within a permutational, self- reflexive structure. In her earlier work, the artist presented dense, architectonic black and white drawings and paintings that appeared to echo a certain postwar European abstraction. Rather than deferring to gesture, however, Raissnia orchestrated these scapes by steadily tracing a configuration of intersecting and overlapping vectors in space. In her self-titled exhibition at the gallery in 2009, a hybrid 16mm film and 35mm slide projection occupying one wall provided a glimpse into the expanded cinema practice that informs the artist’s two-dimensional work. The artist’s films, drawings, and paintings are closely imbricated: paintings are contrapuntal compositions catalyzed by film stills, transferred faintly onto the surface of the panel and elaborated upon with oil and gesso. Her films echo this archaeological process, constructed from fragments of earlier work and structured as overlapping pairs of 35mm slide and 16mm film projections. Raissnia’s drawings and collages, likewise comprised of image transfers, with Sumi ink and compressed charcoal, examine this relationship of mutual influence. All are guided by the materiality of their media.

@@ -22,9 +22,10 @@ youtube_id: zCUUig-HAQA
 event_platform:
   - zoom
 
-speaker_images:
-  - media: 2020/05/norma-cole-portrait
 ---
+
+{{< image media="2020/05/norma-cole-portrait" size="sm" >}}
+
 **Norma Cole** is a poet, painter, and translator. She was born in Toronto, Canada, and attended the University of Toronto for her BA in Modern Languages and MA in French. Her translation works include Danielle Collobert’s *Journals* (1989), Anne Portugal’s *Nude* (2001), and Fouad Gabriel Naffah’s *Mind God and the Properities Of Nitrogen* (2004). She has also edited and translated *Crosscut Universe: Writing on Writing from France* (2000), an anthology of poetry and poetics by contemporary French writers. Cole has authored various books of poetry, including *Natural Light* (2009), *Where Shadows Will: Selected Poems 1988-2008* (2009), *Spinoza in Her Youth* (2002), *The Vulgar Tongue* (2000), and *Desire & Its Double* (1998). In a review of her 1996 collection *Contrafact*, Erin Moule of Lemon Hound noted that Cole’s “meanings unfurl and gesture, resonate, play emphatic and contrapuntal gamings with language’s fluency.” Cole’s experimental work *SCOUT*, a text and image work, was released in 2005. From 2004 to 2006, Cole was the lead artist for *Collective Memory*, an installation, performance, and publication for “Poetry and its Arts: Bay area Interactions 1954-2004” commissioned by the California Historical Society in San Francisco, California.
 
 Cole’s various awards include a fellowship from the Foundation for Contemporary Arts, a Wallace Alexander Gerbode Foundation Award, Gertrude Stein Awards, the Robert D. Richardson Non-Fiction Award, and awards from the Fund for Poetry. Cole has served on the faculty of the MFA program at Otis College of Art and Design in Los Angeles. She has lived in San Francisco since 1977 and teaches at the University of San Francisco.

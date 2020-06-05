@@ -16,10 +16,10 @@ event_producer:
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-58-lynn-crawford-tickets-106823834966
 event_platform:
   - zoom
-speaker_images:
-  - media: 2020/06/lynn-crawford
-  - media: 2020/06/barry-schwabsky
 ---
+
+{{< image media="2020/06/lynn-crawford" size="sm" >}}
+
 Fiction writer and art critic **Lynn Crawford** is a founding board member of Museum of Contemporary Art Detroit (MOCAD), a 2010 Kresge Literary Arts Fellow and a 2016 Rauschenberg Writing Fellow. Her books include Solow, Blow, Fortification Resort, a series of art-related sestinas, Simply Separate People, Simply Separate People, Two, Shankus & Kitto : A Saga and her latest novel, Paula Regossy (2020. Trinosophes) Her work appears in various anthologies (Oulipo Compendium, Fetish, Brooklyn Rail, Fence) and journals (Art in America, Infinite Mile, Detroit Research, Hyperallergic, Tema Celeste, McSweeney’s, Lilies and Cannonballs, Parkett, Bookforum, Metro Times). Lynn earned a MSW from New York University and has worked in various psychiatric, community, hospital, museum and school settings. She lives with her family north of Detroit. ([http://www.lynncrawford.net](http://www.lynncrawford.net/))
 
 **In the Rail:**
@@ -27,6 +27,7 @@ Fiction writer and art critic **Lynn Crawford** is a founding board member of Mu
 * <https://brooklynrail.org/contributor/lynn-crawford>
 
 
+{{< image media="2020/06/barry-schwabsky" size="sm" >}}
 
 **Barry Schwabsky** is art critic for The Nation and co-editor of international reviews for Artforum. His recent books include*The Perpetual Guest: Art in the Unfinished Present*(Verso, 2016),*Heretics of Language*(Black Square Editions, 2017),*Landscape Painting Now*(D.A.P, 2019) and*The Observer Effect: On Contemporary Painting*(Sternberg Press, 2020). Forthcoming are a monograph on the British painter Gillian Carnegie (Lund Humphries, 2020) and a collection of poetry,*A Feeling of And*(Black Square Editions, 2021).
 

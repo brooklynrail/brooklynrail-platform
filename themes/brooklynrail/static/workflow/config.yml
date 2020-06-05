@@ -239,22 +239,6 @@ collections:
         default: ["zoom"]
         required: false
 
-      - label: "Speaker Images"
-        name: "speaker_images"
-        widget: "list"
-        hint: "These are the images of the people who will be in the talk."
-        required: false
-        fields:
-          - label: "Media"
-            name: "media"
-            widget: "relation"
-            collection: "media"
-            searchFields: ["media", "title"]
-            valueField: "{{slug}}"
-            required: false
-            displayFields: ["{{title}} — {{date}}"]
-
-
 
   # ====================================
   # Media

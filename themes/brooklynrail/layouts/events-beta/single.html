@@ -134,22 +134,6 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
           </div>
         </div>
 
-        <div class="grid-row">
-          <div class="grid-col-12">
-            {{/* Speaker Images */}}
-            {{- if .Params.speaker_images -}}
-            <div class="speaker_images">
-            {{- range $speaker_image := .Params.speaker_images -}}
-              {{/* Gets the page data for this media in `/content/media` */}}
-              {{- $image := $.Site.GetPage "page" (printf "/%s/%s" "media" $speaker_image.media) -}}
-              {{- with $image -}}
-                {{- template "figure" (dict "image" . "size" "sm" "width" "300" ) -}}
-              {{- end -}}
-            {{- end -}}
-            </div>
-            {{- end -}}
-          </div>
-        </div>
       </div>
     </header>
 

@@ -18,11 +18,13 @@ event_producer:
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-61-richard-armstrong-tickets-107708713662
 event_platform:
   - zoom
-speaker_images:
-  - media: 2020/06/richard-armstrong
-  - media: 2020/06/tom-hill
 ---
+
+{{< image media="2020/06/richard-armstrong" size="sm" >}}
+
 As Director of the Solomon R. Guggenheim Museum and Foundation since 2008, **Richard Armstrong** leads the Guggenheim Foundation and its constellation of museums, in addition to serving on the Guggenheim Foundation Board of Trustees. Previously, Armstrong was the Henry J. Heinz II Director at Carnegie Museum of Art, Pittsburgh (1996-2008). He has also held curatorial positions at Carnegie Museum of Art (1992-96), the Whitney Museum of American Art (1981- 1992), and the La Jolla Museum of Contemporary Art in California (1975-79). A native of Kansas City, Missouri, Armstrong graduated from Lake Forest College in Illinois with a BA in art history, having studied at the Université de Dijon and the Université de Paris, Sorbonne.
+
+{{< image media="2020/06/tom-hill" size="sm" >}}
 
 Over the last 30 years,**Tom Hill** has been involved in the museum world as an active board member of many art institutions across the country. He currently serves on the Executive Committee of the Board of Trustees of the Solomon R. Guggenheim Foundation, The Metropolitan Museum of Art, and Friends of the High Line. He also serves on the Board of Directors of Lincoln Center Theater, where he is Chairman Emeritus, on the Investment Committee of the Smithsonian Institution; and on the Advisory Board of Christie’s. Previously, he served as Chairman of the Board of Trustees of the Hirshhorn Museum and Sculpture Garden, on the Board of Trustees of the Nasher Sculpture Center, and as a member of the Board of Trustees at the Whitney Museum of American Art. Tom is an investor and has had a career in finance since graduating from Harvard College and Harvard Business School.
 

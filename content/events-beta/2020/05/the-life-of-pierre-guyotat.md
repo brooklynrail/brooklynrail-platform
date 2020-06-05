@@ -16,9 +16,8 @@ registration_url: https://www.eventbrite.com/e/the-new-social-environment-43-the
 youtube_id: DFg-TGHCGUY
 event_platform:
   - zoom
-speaker_images:
-  - media: 2020/05/donatien-grau-portrait
 ---
+
 **Noura Wedell** is a writer, scholar, translator, and an editor for *Semiotext(e)*. She edited *Investigations: the Expanded Field of Writing in the Works of Robert Morris* (Presses Universitaires de Lyon, 2015), and has translated six books, including theoretical texts by Toni Negri and Guy Hocquenghem, and three autobiographical narratives by Pierre Guyotat. She has also published a book of poetry, *Odd Directions* (Opera Prima, 2009). Currently she teaches at the Roski School of Art and Design at the University of Southern California, Los Angeles. ([Source](https://lareviewofbooks.org/contributor/noura-wedell/))
 
 **Catherine Malabou** is a professor in the philosophy department at the Centre for Research in Modern European Philosophy at Kingston University and of European languages and literatures and comparative literature at University of California, Irvine. She is the author of *Ontology of the Accident: An Essay on Destructive Plasticity* (2012) and *Before Tomorrow: Epigenesis and Rationality* (2016), and most recently, *Morphing Intelligence: From IQ Measurement to Artificial Brains* (2019). ([Source](https://criticalinquiry.uchicago.edu/critical_inquiry_presents_catherine_malabou_on_foucaults_last_seminars/))
@@ -30,6 +29,8 @@ speaker_images:
 * [Paul McCarthy-ism](https://brooklynrail.org/2001/05/art/paul-mccarthy-ism)
 * [Personal Private Public](https://brooklynrail.org/2019/10/artseen/Personal-Private-Public)
 * [The Liquid is the Flux](https://brooklynrail.org/2013/06/art/the-liquid-is-the-fluxpaul-mccarthy-with-jarrett-earnest)
+
+{{< image media="2020/05/donatien-grau-portrait" size="sm" >}}
 
 **Donatien Grau**  is a scholar of 19th and 20th century art, literature, and culture. He was a close collaborator of Pierre Guyotat, with whom he conceived a conversation book titled *Humains par hasard*  (Humans by Chance), on whom he has written and edited a number of publications. He is also an Editor-at-large of the *Rail*.
 

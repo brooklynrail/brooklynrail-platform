@@ -15,11 +15,13 @@ registration_url: https://www.eventbrite.com/e/the-new-social-environment-51-mah
 youtube_id: SqMYQ5LTRbw
 event_platform:
   - zoom
-speaker_images:
-  - media: 2020/05/mahogany-l-browne-portrait
-  - media: 2020/05/bob-holman-portrait
 ---
+
+{{< image media="2020/05/mahogany-l-browne-portrait" size="sm" >}}
+
 **Mahogany L. Browne** is a writer, organizer & educator. Executive Director of Bowery Poetry Club & Artistic Director of Urban Word NYC & Poetry Coordinator at St. Francis College. Browne has received fellowships from Agnes Gund, Air Serenbe, Cave Canem, Poets House, Mellon Research & Rauschenberg. She is the author of Woke: A Young Poets Call to Justice, Woke Baby & Black Girl Magic (Macmillan), Kissing Caskets (Yes Yes Books) & Dear Twitter (Penmanship Books). She is also the founder of the Woke Baby Book Fair (a nationwide diversity literature campaign) & as an Arts for Justice grantee, is completing her first book of essays on mass incarceration, investigating its impact on women and children. She lives in Brooklyn, NY.
+
+{{< image media="2020/05/bob-holman-portrait" size="sm" >}}
 
 **Bob Holman** is an American poet and poetry activist, most closely identified with the oral tradition, the spoken word, and poetry slam. As a promoter of poetry in many media, Holman has spent the last four decades working variously as an author, editor, publisher, performer, emcee of live events, director of theatrical productions, producer of films and television programs, record label executive, university professor, and archivist. He was described by Henry Louis Gates Jr. in *The New Yorker* as "the postmodern promoter who has done more to bring poetry to cafes and bars than anyone since Ferlinghetti."
 
