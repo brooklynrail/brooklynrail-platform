@@ -120,7 +120,7 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
                   <span class="start">{{- dateFormat "2006-01-02 03:04 PM" (time $start_date) -}}</span>
                   <span class="end">{{- dateFormat "2006-01-02 03:04 PM" (time $end_date) -}}</span>
                   <span class="timezone">America/New_York</span>
-                  <span class="title">{{- (print $.Params.Title $.Params.deck )| markdownify -}}</span>
+                  <span class="title">{{ (print ":zap: " $.Params.Title $.Params.deck )| markdownify -}}</span>
                   <span class="description">{{- htmlUnescape (print $.Params.summary (print "\n\nEvent Page: https:" $.Permalink)) | safeHTML -}}</span>
                   <span class="alarm_reminder">15</span>
                 </div>

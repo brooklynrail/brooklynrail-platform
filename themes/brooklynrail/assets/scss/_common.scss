@@ -169,6 +169,7 @@ section{
     @include u-margin-bottom(3);
     @include u-font('sans', 'lg');
     @include u-text('light');
+    @include u-maxw('tablet');
   }
 
 }
