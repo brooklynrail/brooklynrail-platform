@@ -3,6 +3,7 @@
 .media{
   @include u-margin(0);
   @include clearfix;
+  clear: both;
   figcaption{
     @include u-padding-x('05');
     @include u-font('sans', '3xs');
@@ -24,6 +25,9 @@
   @include u-width(15);
   @include at-media('mobile-lg') {
     @include u-width('card-lg');
+  }
+  figcaption{
+    @include u-padding-x('2px');
   }
 }
 
@@ -48,11 +52,11 @@
 
 
 .content{
-
   .media-xs{
     @include u-margin-top('05');
-    @include u-margin-right(2);
-    @include u-float('left');
+    @include u-margin-left(3);
+    @include u-margin-bottom('105');
+    @include u-float('right');
   }
   .media-sm{
     @include u-margin-top(1);
