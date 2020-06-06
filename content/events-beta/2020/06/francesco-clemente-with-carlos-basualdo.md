@@ -14,10 +14,10 @@ event_organizer:
 event_producer:
   - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-59-francesco-clemente-tickets-106991081204
+youtube_id: n95X9Mgz_dI
 event_platform:
   - zoom
 ---
-
 {{< image media="2020/06/francesco-clemente" size="sm" >}}
 
 **Francesco Clemente** is a contemporary Italian artist known for his dreamlike paintings based on esoteric themes of sexuality and spirituality. Working across oil painting, installation, and watercolor, Clemente’s works are characterized by their formal experimentation with symbols, portraiture, and the human figure. “I believe there is such a thing as an imagination shared by the different contemplative traditions,” he has said. “My goal is to collect images and references from these traditions and connect them with the emotions from the present-day, and common experiences.” Born on March 23, 1952 in Naples, Italy, he studied architecture at the University of Rome in 1970 before moving to India three years later. While abroad, he collaborated with local craftsman and painters, while also studying Hindu spiritual texts. His experience in traditional papermaking and miniature painting has had a lasting impact on his work. Relocating to New York in 1981, Clemente began collaborating with Jean-Michel Basquiat, Andy Warhol, and Allen Ginsberg. Categorized as a Neo-Expressionist during the 1980s, Clemente has largely shunned the restrictive label of movements and styles. Seeking various outlets for his creativity, in 1998 he produced around 200 original works for director Alfonso Cuaròn’s film Great Expectations. Clemente continues to live and work in New York, NY. Today, the artist’s works are held in the collections of The Museum of Modern Art in New York, the Art Institute of Chicago, the Kunstmuseum Basel, and the Tate Gallery in London, among others. (source: <http://www.artnet.com/artists/francesco-clemente/>)
@@ -30,7 +30,6 @@ event_platform:
 * [Francesco Clemente: Works 1978-2018](https://brooklynrail.org/2019/02/artseen/Francesco-Clemente-Works-1978-2018)
 
 Also included in *Tell Me Something Good* published by David Zwirner: <https://shop.brooklynrail.org/products/tell-me-something-good>
-
 
 {{< image media="2020/06/carlos-basualdo" size="sm" >}}
 

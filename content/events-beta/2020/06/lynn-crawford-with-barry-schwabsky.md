@@ -14,10 +14,10 @@ event_organizer:
 event_producer:
   - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-58-lynn-crawford-tickets-106823834966
+youtube_id: qU4GabBsDVU
 event_platform:
   - zoom
 ---
-
 {{< image media="2020/06/lynn-crawford" size="sm" >}}
 
 Fiction writer and art critic **Lynn Crawford** is a founding board member of Museum of Contemporary Art Detroit (MOCAD), a 2010 Kresge Literary Arts Fellow and a 2016 Rauschenberg Writing Fellow. Her books include Solow, Blow, Fortification Resort, a series of art-related sestinas, Simply Separate People, Simply Separate People, Two, Shankus & Kitto : A Saga and her latest novel, Paula Regossy (2020. Trinosophes) Her work appears in various anthologies (Oulipo Compendium, Fetish, Brooklyn Rail, Fence) and journals (Art in America, Infinite Mile, Detroit Research, Hyperallergic, Tema Celeste, McSweeney’s, Lilies and Cannonballs, Parkett, Bookforum, Metro Times). Lynn earned a MSW from New York University and has worked in various psychiatric, community, hospital, museum and school settings. She lives with her family north of Detroit. ([http://www.lynncrawford.net](http://www.lynncrawford.net/))
@@ -25,7 +25,6 @@ Fiction writer and art critic **Lynn Crawford** is a founding board member of Mu
 **In the Rail:**
 
 * <https://brooklynrail.org/contributor/lynn-crawford>
-
 
 {{< image media="2020/06/barry-schwabsky" size="sm" >}}
 
