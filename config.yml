@@ -49,7 +49,27 @@ sitemap:
 # Main Site navigation
 menu:
   primary:
-    - Name            : "&#8810; Current Issue"
+    - Name            : "Home"
       Identifier      : "home"
       URL             : "/"
       Weight          : 1
+
+    - Name            : "Events"
+      Identifier      : "events"
+      URL             : "/events-beta"
+      Weight          : 2
+
+    - Name            : "Store"
+      Identifier      : "store"
+      URL             : "https://shop.brooklynrail.org/"
+      Weight          : 3
+
+    - Name            : "Subscribe"
+      Identifier      : "subscribe"
+      URL             : "/subscribe"
+      Weight          : 4
+
+    - Name            : "About"
+      Identifier      : "about"
+      URL             : "/about"
+      Weight          : 5

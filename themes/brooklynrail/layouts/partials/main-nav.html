@@ -4,9 +4,19 @@
       <div class="grid-col-12">
         <div class="nav">
           <ul>
+            <li class="issue-select">
+              <select class="" name="">
+                <optgroup label="">
+                  <option value="">June 2020</option>
+                  <option value="">May 2020</option>
+                  <option value="">April 2020</option>
+                  <option value="">March 2020</option>
+                </optgroup>
+              </select>
+            </li>
           {{- $currentNode := . -}}
           {{- range .Site.Menus.primary -}}
-            <li><a class="u-primary {{ if or ($currentNode.IsMenuCurrent "primary" .) ($currentNode.HasMenuCurrent "primary" .) }} current{{- end -}}" href="{{- .URL -}}" title="{{- .Name -}}"><span>{{- .Name | markdownify -}}</span></a></li>
+            <li><a class="u-black {{ if or ($currentNode.IsMenuCurrent "primary" .) ($currentNode.HasMenuCurrent "primary" .) }} current{{- end -}}" href="{{- .URL -}}" title="{{- .Name -}}"><span>{{- .Name | markdownify -}}</span></a></li>
           {{- end -}}
             <li class="donate"><a class="u-white" href="{{- "/donate-beta" | absURL -}}" title="Donate to the Brooklyn Rail"><span>Donate</span></a></li>
           </ul>

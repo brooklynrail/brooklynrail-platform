@@ -8,15 +8,13 @@
         @include u-display('inline-block');
         @include u-font('sans', 'md');
         @include u-text('medium');
-        @include u-text('primary');
         a{
           @include u-padding-y(1);
-          @include u-padding-x(1);
-          @include u-text('primary');
+          @include u-padding-x('105');
           @include u-display('inline-block');
           @include at-media('tablet') {
             @include u-padding-y('105');
-            @include u-padding-x('105');
+            @include u-padding-x(2);
           }
         }
         &:first-child{
@@ -25,6 +23,24 @@
           }
         }
       }
+
+      .issue-select{
+        @include u-margin-right('105');
+        select{
+          @include u-padding-y(1);
+          @include u-padding-x(1);
+          @include u-font('sans', 'md');
+          @include u-border(0);
+          @include u-text('uppercase');
+          @include u-text('medium');
+          appearance: none;
+          background: url('/img/select-arrow.svg') no-repeat right center;
+          background-position-x: 133px;
+          @include u-bg('gray-5');
+          @include u-radius('sm');
+        }
+      }
+
       .donate{
         @include u-float('right');
         @include u-text('uppercase');
