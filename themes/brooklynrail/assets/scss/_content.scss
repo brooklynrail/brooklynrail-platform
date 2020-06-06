@@ -41,6 +41,12 @@
   }
 
 
+  p{
+    @include u-margin-top(0);
+    @include u-margin-bottom(3);
+  }
+
+
   // ===========================
   // Code
   code{

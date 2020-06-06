@@ -198,9 +198,11 @@
       @include u-font('sans', 'md');
     }
 
-    .content *{
-      @include u-margin-x('auto');
-      @include u-maxw('tablet');
+    .content {
+      p, ul, ol, blockquote{
+        @include u-margin-x('auto');
+        @include u-maxw('tablet');
+      }
     }
 
     .event-logistics{
