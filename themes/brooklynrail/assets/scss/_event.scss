@@ -161,23 +161,15 @@
       @include u-text('light');
       @include u-bg('gray-warm-3');
       @include u-font('sans', '2xs');
-      @include u-line-height('sans', 4);
+      @include u-line-height('sans', 3);
       @include at-media('tablet') {
         @include u-padding-x(3);
-        @include u-line-height('sans', 5);
+        @include u-line-height('sans', 3);
         @include u-font('sans', 'sm');
       }
       p{
         @include u-margin-y(0);
-        &:last-child{
-          @include u-margin-top(1);
-        }
-      }
-      .copy-donate{
-        @include u-display('block');
-        @include at-media('tablet') {
-          @include u-display('inline');
-        }
+        @include u-line-height('sans', 5);
       }
       a{
         @include u-text('normal');
@@ -198,23 +190,14 @@
       @include u-font('sans', 'md');
     }
 
-    .content {
-      p, ul, ol, blockquote{
-        @include u-margin-x('auto');
-        @include u-maxw('tablet');
-      }
-    }
-
     .event-logistics{
       @include u-margin-y(5);
       @include u-margin-x('auto');
       @include u-padding-y('205');
       @include u-padding-x('205');
-      @include u-display('block');
       @include u-radius('sm');
       @include u-bg('gray-3');
       @include u-font('sans', 'sm');
-      @include u-maxw('tablet');
       h2{
         @include u-margin-top(0);
         @include u-font('sans', 'lg');

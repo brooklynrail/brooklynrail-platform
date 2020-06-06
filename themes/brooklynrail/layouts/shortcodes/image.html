@@ -46,7 +46,7 @@ then passes the image data to the figure template */}}
   {{- $width := .width -}}
 
   <figure class="media media-{{- $size -}}">
-    <img src="{{- $image.Params.media -}}?nf_resize=fit&w={{- $width -}}" alt="{{- $image.Params.alt -}}">
+    <img src="{{- $image.Params.media -}}?nf_resize=fit&w={{- $width -}}" alt="{{- $image.Params.alt -}}" title="{{- $image.Params.alt -}}">
     {{- with $image.Params.caption -}}
       {{- template "figcaption" (dict "caption" . )  -}}
     {{- end -}}
