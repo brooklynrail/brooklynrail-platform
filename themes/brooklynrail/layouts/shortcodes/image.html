@@ -22,13 +22,13 @@ https://docs.netlify.com/large-media/transform-images/#examples
 */}}
 {{- $width := "1000" -}}
 {{- if eq $size "sm" -}}
-  {{- $width = "150" -}}
-{{- else if eq $size "md" -}}
   {{- $width = "300" -}}
+{{- else if eq $size "md" -}}
+  {{- $width = "500" -}}
 {{- else if eq $size "lg" -}}
-  {{- $width = "600" -}}
-{{- else if eq $size "xl" -}}
   {{- $width = "900" -}}
+{{- else if eq $size "xl" -}}
+  {{- $width = "1200" -}}
 {{- end -}}
 
 
