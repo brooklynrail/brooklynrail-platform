@@ -16,12 +16,14 @@
       </div>
     </div>
     <div class="grid-row">
-      <div class="grid-col-fill">
-        <div class="sub-head">
-          <span class="t1">{{- with .Site.Params.description -}}{{- . -}}{{- else -}}Critical Perspectives on Art, Politics, and Culture{{- end -}}</span>
-          <span class="bullet">&#8226;</span>
-          <span class="t2">{{- with .Site.Params.tagline -}}{{- . -}}{{- else -}}Independent and Free{{- end -}}</span>
+      <div class="grid-col-12">
+        {{/* <svg id="sub-head" viewBox="0 0 240 80" xmlns="http://www.w3.org/2000/svg"> */}}
+        <div id="sub-head">
+          <svg viewBox="0 0 1152 32">
+            <text x="0" y="25">Critical Perspectives on Art, Politics, and Culture  &nbsp;&nbsp;•&nbsp;&nbsp;  Independent and Free</text>
+          </svg>
         </div>
+
       </div>
     </div>
   </div>
