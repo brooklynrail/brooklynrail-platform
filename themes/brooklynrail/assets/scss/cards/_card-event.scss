@@ -46,11 +46,11 @@
         @include at-media('tablet-lg') {
           @include u-margin-top('105');
         }
-        @include u-text('light');
+        @include u-text('normal');
         @include u-font('sans', '2xs');
         p{
           @include u-margin-y(0);
-          @include u-text('gray-60');
+          @include u-text('gray-70');
           img{
             @include u-position('relative');
             @include u-top('1px');
