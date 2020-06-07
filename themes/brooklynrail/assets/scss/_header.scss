@@ -29,6 +29,9 @@
       @include u-display('block');
       @include u-width('full');
       @include u-height('full');
+      // fill: #fff;
+      // stroke: #000;
+      // stroke-width:2;
       @include at-media('tablet') {
       }
       text{

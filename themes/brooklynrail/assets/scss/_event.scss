@@ -5,7 +5,7 @@
 
   // Single Event Page / Header
   header {
-    @include u-margin-bottom(0);
+    @include u-margin-bottom(5);
     @include u-padding-y(4);
     @include at-media('tablet') {
       @include u-padding-y(0);
@@ -77,10 +77,7 @@
     }
 
     .actions{
-      @include u-margin-bottom(1);
-      @include at-media('tablet') {
-        @include u-margin-bottom(3);
-      }
+      @include u-margin-bottom(0);
       @include u-display('flex');
       @include u-flex('justify-center');
 
