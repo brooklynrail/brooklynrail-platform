@@ -12,7 +12,7 @@
           @include u-padding-y(1);
           @include u-padding-x('105');
           @include u-display('inline-block');
-          @include at-media('tablet') {
+          @include at-media('tablet-lg') {
             @include u-padding-y('105');
             @include u-padding-x(2);
           }
@@ -46,11 +46,13 @@
         @include u-text('uppercase');
         a{
           @include u-bg('primary');
+          @include u-margin-top('2px');
           @include u-padding-x(2);
           @include u-padding-y(1);
           @include u-font('sans', 'sm');
           @include u-radius('sm');
-          @include at-media('tablet') {
+          @include at-media('tablet-lg') {
+            @include u-margin-top(0);
             @include u-padding-y('105');
             @include u-padding-x('205');
             @include u-font('sans', 'md');

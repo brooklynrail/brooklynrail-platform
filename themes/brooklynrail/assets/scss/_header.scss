@@ -1,12 +1,23 @@
 .header{
   @include u-padding-y('105');
 
+  .logo{
+    svg{
+      @include u-width('full');
+      @include u-height('full');
+      #brooklynrail-logo{
+        fill: #fff;
+        stroke: #000;
+        stroke-width:3;
+      }
+    }
+  }
 
   .sub-head{
     @include u-margin-y(0);
     @include u-margin-top('05');
     @include u-font('sans', '3xs');
-    @include u-text('medium');
+    @include u-text('normal');
     @include u-text('gray-90');
     @include u-text('uppercase');
     font-size: 3.5vw;
@@ -36,7 +47,7 @@
     @include at-media('tablet') {
       @include u-display('flex');
       @include u-flex('justify');
-      font-size: 1.8vw;
+      font-size: 2.2vw;
       span{
         white-space: nowrap;
       }
@@ -44,7 +55,7 @@
       }
   	}
     @include at-media('desktop-lg') {
-      @include u-font('sans', 'lg');
+      font-size: 1.6rem;
       span{
         white-space: nowrap;
       }
