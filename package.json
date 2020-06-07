@@ -27,17 +27,17 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.13.0",
-    "js-yaml": "^3.13.1",
+    "js-yaml": "^3.14.0",
     "mysql": "^2.18.1",
     "netlify-cli": "^2.53.0",
-    "netlify-cms": "^2.10.47",
+    "netlify-cms": "^2.10.50",
     "netlify-lambda": "^1.6.3",
     "netlify-lm-plugin": "^1.0.0",
-    "stripe": "^8.47.1",
+    "stripe": "^8.60.0",
     "striptags": "^3.1.1"
   },
   "devDependencies": {
-    "autoprefixer": "^9.7.6",
+    "autoprefixer": "^9.8.0",
     "gulp": "^4.0.2",
     "gulp-notify": "^3.2.0",
     "gulp-postcss": "^8.0.0",
@@ -45,11 +45,11 @@
     "gulp-sass": "^4.1.0",
     "gulp-sourcemaps": "^2.6.5",
     "i": "^0.3.6",
-    "npm": "^6.14.4",
+    "npm": "^6.14.5",
     "npm-run-all": "^4.1.5",
     "postcss-csso": "^4.0.0",
-    "sass": "^1.26.5",
-    "uswds": "^2.6.0",
+    "sass": "^1.26.8",
+    "uswds": "^2.7.0",
     "uswds-gulp": "github:uswds/uswds-gulp"
   }
 }

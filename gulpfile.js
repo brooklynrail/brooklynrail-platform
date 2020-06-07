@@ -12,7 +12,6 @@ USWDS SASS GULPFILE
 */
 
 const autoprefixer = require("autoprefixer");
-const autoprefixerOptions = require("./node_modules/uswds-gulp/config/browsers");
 const csso = require("postcss-csso");
 const gulp = require("gulp");
 const pkg = require("./node_modules/uswds/package.json");
@@ -108,9 +107,12 @@ gulp.task("copy-fontawesome_webfonts", () => {
 gulp.task("build-sass", function(done) {
   var plugins = [
     // Autoprefix
-    autoprefixer(autoprefixerOptions),
+    autoprefixer({
+      cascade: false,
+      grid: true
+    }),
     // Minify
-    csso({ forceMediaMerge: false })
+    csso({ forceMediaMerge: false }),
   ];
   return (
     gulp
