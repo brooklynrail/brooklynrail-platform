@@ -16,16 +16,30 @@
   }
 
   #sub-head{
-    @include u-margin-top(1);
-    @include u-height(4);
+    @include u-margin-top('05');
+    @include u-height(2);
+    @include at-media('mobile-lg') {
+      @include u-height(3);
+    }
+    @include at-media('tablet-lg') {
+      @include u-margin-top(1);
+      @include u-height(4);
+    }
     svg{
+      @include u-display('block');
       @include u-width('full');
       @include u-height('full');
+      @include at-media('tablet') {
+      }
       text{
         @include u-font('sans', 'xl');
-        font-size:26.5px;
-        @include u-text('normal');
+        font-size:25.85px;
+        @include u-text('medium');
         @include u-text('uppercase');
+        @include at-media('mobile-lg') {
+          font-size:26.5px;
+          @include u-text('normal');
+        }
       }
     }
   }
