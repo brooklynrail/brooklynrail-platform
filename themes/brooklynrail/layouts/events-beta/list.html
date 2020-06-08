@@ -32,6 +32,41 @@
         {{- end -}}
       </div>
 
+      {{/* ======================== */}}
+      {{/* Get the list of sponsors */}}
+
+      {{/* Create an array */}}
+      {{- $sponsors := slice -}}
+      {{/* Look through all of the events that have sponsors */}}
+      {{- range (where $events ".Params.event_sponsor" "!=" nil) -}}
+
+        {{/* Get the sponsor page data and append it to $sponsors */}}
+        {{- $sponsors = $sponsors | append ($.Site.GetPage (printf "/%s/%s" "organizations" (index (.Params.event_sponsor) 0))) -}}
+
+      {{- end -}}
+
+      {{/* List out the sponsors */}}
+      <div class="grid-row">
+        <div class="grid-col-12 tablet:grid-col-8 tablet:grid-offset-2">
+          <div class="sponsors">
+            <p><strong>{{- ":heart: Our events are sponsored by: " | emojify -}}</strong>
+            {{- $sponsors := ($sponsors | uniq) -}}
+            {{- $len := (len $sponsors) -}}
+            {{- range $key, $val := ($sponsors | uniq) -}}
+              {{- with $val.Params.name -}}
+              {{- if ne $key 0 -}}, {{ end -}}
+              {{- if eq (add $key 1) $len }}
+                and
+              {{ end -}}
+              {{- $val.Params.name -}}
+              {{- end -}}
+            {{- end -}}
+            </p>
+          </div>
+        </div>
+      </div>
+
+
     </div>
   </section>
 
