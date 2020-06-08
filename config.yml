@@ -32,6 +32,15 @@ taxonomies:
   orgs: org
 
 
+outputFormats:
+  INFO:
+    baseName: info
+    mediaType: text/html
+    permalinkable: true
+
+outputs:
+  page: ["HTML", "INFO"]
+
 # Site Parameters
 .params:
   issue: "May 2020"

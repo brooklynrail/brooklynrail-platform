@@ -1,0 +1,36 @@
+{{- define "main" -}}
+{{- $permalink := replace .Permalink "/info.html" "" -}}
+
+<main class="info" id="main-content" role="main">
+
+  <section>
+    <div class="grid-container">
+      <div class="grid-row">
+        <div class="grid-col-12 tablet:grid-col-8 tablet:grid-offset-2">
+          <p class="back"><a class="u-primary" href="{{- $permalink -}}"><i class="fas fa-arrow-left"></i> <span>Back to page</span></a></p>
+          <div class="content">
+            <h1>{{- .Title -}}</h1>
+            <p>{{- .Summary -}}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="grid-container">
+      <div class="grid-row">
+        <div class="grid-col-12 tablet:grid-col-8 tablet:grid-offset-2">
+          <div class="content">
+            <h2>Twitter</h2>
+            {{- $var := (slice .Title .Summary $permalink) -}}
+            {{- partial "info-text.html" (dict "var" $var ) -}}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+</main>
+{{- end -}}

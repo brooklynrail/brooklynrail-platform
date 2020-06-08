@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="{{ $.Site.LanguageCode | default "en" }}">
+
+  {{ partial "head.html" . }}
+
+  <body class="{{ $.Param "body_classes"  | default "" }}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
+    <a class="usa-skipnav" href="#main-content">Skip to main content</a>
+
+    <div class="paper">
+
+
+    {{ block "main" . }}{{ end }}
+
+
+    </div>
+
+    {{ block "scripts" . }}{{ partialCached "scripts.html" . }}{{ end }}
+
+  </body>
+</html>
