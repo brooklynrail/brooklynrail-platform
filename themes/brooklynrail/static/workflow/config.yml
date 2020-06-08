@@ -61,53 +61,6 @@ local_backend:
 collections:
 
   # ====================================
-  # Pages
-  - name: "pages" # Used in routes, e.g., /workflow/collections/blog
-    label: "Pages" # Used in the UI
-    label_singular: "Page"
-    description: "TKTK"
-    folder: "content/pages" # path to the folder where files are stored
-    # path: "{{slug}}" # custom file path
-    # create: true # Allow users to create new documents in this collection
-    identifier_field: title # sets the field that is used to create the slug
-    slug: "{{slug}}"
-    summary: "{{title}}"
-    editor:
-      preview: false
-
-    fields: # The fields for each document, usually in frontmatter
-      - label: "Page Title"
-        name: "title"
-        widget: "string"
-        hint: "This is the page title that will appear in search and across the internet. Super important to make this short and topical. [e.g. Board Members]"
-
-      - label: "Headline"
-        name: "headline"
-        widget: "string"
-        hint: "This is headline that will appear on the page. It might be the same as the page title, but has the freedom to be a little more playful. [e.g. Our Wonderful Board Members]"
-
-      - label: "Deck"
-        name: "deck"
-        minimal: true
-        widget: "string"
-        hint: "A continuation of the headline, without repeating it. Think of this as the sentence you'd most like to tweet. You need to be able to read it outloud in a single breath."
-        required: false
-
-      - label: "Summary"
-        name: "summary"
-        minimal: true
-        widget: "string"
-        default: ""
-        hint: "One-sentence description of the page. Try not to repeat the headline."
-
-      - label: "Page Copy"
-        name: "body"
-        widget: "markdown"
-        editorComponents: ["image", "donate"]
-
-
-
-  # ====================================
   # Events
   - name: "events-beta" # Used in routes, e.g., /workflow/collections/blog
     label: "Events" # Used in the UI
@@ -239,6 +192,51 @@ collections:
         default: ["zoom"]
         required: false
 
+  # ====================================
+  # Pages
+  - name: "pages" # Used in routes, e.g., /workflow/collections/blog
+    label: "Pages" # Used in the UI
+    label_singular: "Page"
+    description: "TKTK"
+    folder: "content/pages" # path to the folder where files are stored
+    # path: "{{slug}}" # custom file path
+    # create: true # Allow users to create new documents in this collection
+    identifier_field: title # sets the field that is used to create the slug
+    slug: "{{slug}}"
+    summary: "{{title}}"
+    editor:
+      preview: false
+
+    fields: # The fields for each document, usually in frontmatter
+      - label: "Page Title"
+        name: "title"
+        widget: "string"
+        hint: "This is the page title that will appear in search and across the internet. Super important to make this short and topical. [e.g. Board Members]"
+
+      - label: "Headline"
+        name: "headline"
+        widget: "string"
+        hint: "This is headline that will appear on the page. It might be the same as the page title, but has the freedom to be a little more playful. [e.g. Our Wonderful Board Members]"
+
+      - label: "Deck"
+        name: "deck"
+        minimal: true
+        widget: "string"
+        hint: "A continuation of the headline, without repeating it. Think of this as the sentence you'd most like to tweet. You need to be able to read it outloud in a single breath."
+        required: false
+
+      - label: "Summary"
+        name: "summary"
+        minimal: true
+        widget: "string"
+        default: ""
+        hint: "One-sentence description of the page. Try not to repeat the headline."
+
+      - label: "Page Copy"
+        name: "body"
+        widget: "markdown"
+        editorComponents: ["image", "donate"]
+
 
   # ====================================
   # Media
@@ -333,13 +331,24 @@ collections:
       - label: "Summary"
         name: "summary"
         widget: "string"
-        hint: "TKTK"
+        hint: "A short description of this collection"
         required: false
 
       - label: "YouTube Playlist ID"
         name: "youtube_playlist_id"
         widget: "string"
         hint: "TKTK"
+        required: false
+
+      - label: "Sponsor"
+        name: "sponsor"
+        widget: "relation"
+        multiple: true
+        collection: "organizations"
+        searchFields: ["name", "short_desc"]
+        valueField: "{{slug}}"
+        displayFields: ["{{name}}"]
+        hint: "The organizations sponsoring this collection. This should not be 'The Brooklyn Rail'."
         required: false
 
 
