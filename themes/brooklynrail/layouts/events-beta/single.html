@@ -17,7 +17,7 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
 
             {{ with .CurrentSection }}
             <p class="breadcrumb">
-              <a class="u-black" href="{{ .RelPermalink }}" title="{{ . }}"><i class="fas fa-arrow-left"></i> <span>All {{ .Title }}</span></a>
+              <a class="u-black" href="{{ .RelPermalink }}" title="{{ . }}"><i class="fas fa-arrow-left"></i>&nbsp;<span>All {{ .Title }}</span></a>
             </p>
             {{- end -}}
 
@@ -180,7 +180,7 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
               {{- else }}
                 organized by {{ if $event_organizer.Params.website -}}<a class="u-dotted" href="{{ $event_organizer.Params.website }}" title="{{ $event_organizer.Params.name }}"><span>{{ $event_organizer.Params.name }}</span></a>{{- else -}}<span>{{- $event_organizer.Params.name -}}</span>{{- end }}
                 and produced by {{ if $event_producer.Params.website -}}<a class="u-dotted" href="{{- $event_producer.Params.website -}}" title="{{- $event_producer.Params.name -}}"><span>{{- $event_producer.Params.name -}}</span></a>{{- else -}}<span>{{- $event_producer.Params.name -}}</span>{{- end -}}.
-              {{- end }} 
+              {{- end }}
               Learn how <a href="{{- "donate-beta" | absURL -}}" title="Donate"><span>you can donate</span></a> {{ ":sparkles:" | emojify -}}{{- ":rainbow:" | emojify -}}</p>
             </div>
             {{- end -}}
