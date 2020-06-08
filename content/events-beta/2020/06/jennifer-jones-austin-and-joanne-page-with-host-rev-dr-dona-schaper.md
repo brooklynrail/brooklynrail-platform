@@ -1,5 +1,5 @@
 ---
-title: Jennifer Jones Austin and JoAnne Page with host Rev. Dr. Dona Schaper
+title: Jennifer Jones Austin and JoAnne Page with Rev. Dr. Dona Schaper
 summary: A discussion on the social and economic well-being of NY's most
   vulnerable, and leading change and strengthening the fabric of our
   communities.
