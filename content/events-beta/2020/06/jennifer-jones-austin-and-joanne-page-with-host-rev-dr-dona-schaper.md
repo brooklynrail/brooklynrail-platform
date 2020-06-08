@@ -16,11 +16,19 @@ registration_url: https://www.eventbrite.com/e/the-new-social-environment-62-joa
 event_platform:
   - zoom
 ---
+{{< image media="2020/06/jennifer-jones-austin" size="sm" >}}
+
 **Jennifer Jones Austin**, a child and family advocate, is Chief Executive Officer and Executive Director of the Federation of Protestant Welfare Agencies (FPWA), an anti-poverty, policy and advocacy organization with 170 member human services agencies operating throughout New York City. Mayor de Blasio appointed Ms. Jones Austin as Board Chair in March 2020. She has served as a Board Member since October 2014. Prior to joining FPWA, Ms. Jones Austin served as Senior Vice President of United Way NYC, Family Services Coordinator for Mayor Bloomberg, Deputy Commissioner for the NYC Administration for Children's Services; Civil Rights Deputy Bureau Chief for Attorney General Eliot Spitzer, and Vice President for LearnNow/Edison Schools Inc. Ms. Jones Austin has chaired and served on several influential boards and commissions, including serving as Co-Chair of NYC Mayor de Blasio's Transition, Chair of the NYC Procurement Policy Board, and Co-Chair of the New York State Supermarket Commission. She currently is a Board Member of the National Action Network, the New York Blood Center, the NYC Board of Correction, and the Fund for Public Housing. (<https://www1.nyc.gov/site/boc/about/jennifer-jones-austin-esq.page>)
+
+
+
+{{< image media="2020/06/joanne-page" size="sm" >}}
 
 **JoAnne Page** has more than 45 years’ experience in criminal justice, with the last 30+ at the helm of The Fortune Society, a non-profit organization that serves and advocates for formerly incarcerated individuals and people with criminal justice involvement. Her prior experience includes six years as Director of Court Operations at the Court Employment Project, now CASES, which she developed New York City’s first felony Alternative to Incarceration (ATI) program. That program is still running strong and is one of the premier ATI programs in New York City. Under Ms. Page’s stewardship, The Fortune Society has been recognized by researchers and policy makers as a pioneer in assisting former prisoners to reintegrate into society. The organization serves more than 8,000 people annually through programs including ATI, permanent, supportive and scatter site housing, mental health services, education, employment services, substance abuse treatment, counseling, family services, care management, a recovery center and HIV/AIDS health services.
 
 In 2018 JoAnne was honored by City & State New York as one of the top 50 nonprofit CEOs in New York City. In 2019 she was honored by City & State as one of the top 100 Nonprofit Power Leaders across New York State.A graduate of Yale Law School, and a former defense attorney, JoAnne Page is a frequent speaker at conferences about alternatives to incarceration, housing, and criminal justice issues.
+
+{{< image media="2020/06/rev-dr-dona-schaper" size="sm" >}}
 
 **Rev. Dr. Dona Schaper** has been Senior Minister of Judson Memorial Church since January of 2006. She was formerly at Coral Gables Congregational Church in Miami and before that at Yale University, and teaches leadership at the Hartford Seminary. As an elder, she is passionately concerned about leaving the next generation well-prepared for all they have to face. She has written over 35 books including Approaching End of Life: A Practical and Spiritual Guide (2015), Grace at Table: Small Spiritual Solutions to Large Material Problems, Solving Everything (2013), to her most recent book I Heart Francis: Letters to the Pope from an Unlikely Admirer (2016), among many others.
 
