@@ -29,6 +29,7 @@ section.card-event-past{
       @include u-font('sans', 'lg');
       @include u-line-height('sans', 2);
       @include u-text('medium');
+      @include u-text('left');
       strong{
         @include u-text('medium');
       }
