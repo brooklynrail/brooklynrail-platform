@@ -1,0 +1,57 @@
+{{ define "main" }}
+
+<main class="page" id="main-content" role="main">
+  <div class="grid-container">
+    <div class="grid-row grid-gap-4">
+      <div class="grid-col-12 tablet:grid-col-3">
+        <aside>
+
+          <nav>
+            {{ $handbook := where $.Site.RegularPages "Section" "handbook"}}
+            {{- range $handbook.GroupByParam "section" -}}
+              <h3>{{ .Key }}</h3>
+              <ul>
+              {{ range .Pages }}
+                <li><a href="{{- .Permalink -}}" title="{{- .Title -}}">{{- .Title -}}</a></li>
+              {{ end }}
+              </ul>
+            {{- end -}}
+          </nav>
+
+        </aside>
+      </div>
+
+      <div class="grid-col-12 tablet:grid-col-9">
+        <article>
+          <header>
+
+            <h1>
+              {{- if .Params.Title -}}
+                {{- .Params.Title | markdownify -}}
+              {{- end -}}
+            </h1>
+
+            {{- with .Params.Deck -}}
+            <p class="deck">
+              {{- . | markdownify -}}
+            </p>
+            {{- end -}}
+
+          </header>
+
+          <section>
+            {{- if not .Params.deck -}}
+            <p class="summary">{{- .Params.summary | markdownify -}}</p>
+            {{- end -}}
+
+            <div class="content">
+              {{- .Content -}}
+            </div>
+          </section>
+
+        </article>
+      </div>
+    </div>
+  </div>
+</main>
+{{ end }}

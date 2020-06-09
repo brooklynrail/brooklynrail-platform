@@ -153,10 +153,10 @@ main{
   @include u-padding-y(6);
 }
 
+
 article{
   header{
     @include u-margin-bottom(6);
-    @include u-text('center');
   }
 }
 

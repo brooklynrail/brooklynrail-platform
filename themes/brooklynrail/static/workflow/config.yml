@@ -490,3 +490,42 @@ collections:
         widget: "string"
         hint: "Enter the username without the @ handle [e.g. brooklynrail]"
         required: false
+
+  # ====================================
+  # Handbook
+  - name: "handbook" # Used in routes, e.g., /workflow/collections/blog
+    label: "Handbook" # Used in the UI
+    label_singular: "Handbook Page"
+    description: "A guide to operating the Rail"
+    folder: "content/handbook" # path to the folder where files are stored
+    # path: "{{slug}}" # custom file path
+    # create: true # Allow users to create new documents in this collection
+    identifier_field: title # sets the field that is used to create the slug
+    slug: "{{slug}}"
+    summary: "{{title}}"
+    editor:
+      preview: false
+
+    fields: # The fields for each document, usually in frontmatter
+      - label: "Title"
+        name: "title"
+        widget: "string"
+
+      - label: "Deck"
+        name: "deck"
+        minimal: true
+        widget: "string"
+        hint: "A continuation of the title, without repeating it. You need to be able to read it outloud in a single breath."
+        required: false
+
+      - label: "Summary"
+        name: "summary"
+        minimal: true
+        widget: "string"
+        default: ""
+        hint: "One-sentence description of the page. Think of this as the sentence you'd most like to tweet. Try not to repeat the headline."
+
+      - label: "Page Copy"
+        name: "body"
+        widget: "markdown"
+        editorComponents: ["image", "donate"]

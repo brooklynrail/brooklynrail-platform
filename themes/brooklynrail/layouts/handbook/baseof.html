@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="{{- $.Site.LanguageCode | default "en" -}}">
+
+  {{- block "head" . -}}
+    {{- partial "head.html" . -}}
+  {{- end -}}
+
+  <body class="{{- .Type }} {{ .Kind -}} {{- $.Param "body_classes"  | default "" -}}{{- with getenv "HUGO_ENV" }} {{ . -}}{{- end -}}">
+
+    <a class="usa-skipnav" href="#main-content">Skip to main content</a>
+
+    <div class="paper">
+
+    {{- block "header" . -}}
+      {{- partial "header-handbook.html" . -}}
+      {{- partial "main-nav.html" . -}}
+    {{- end -}}-
+
+    {{- block "main" . -}}{{- end -}}
+
+    {{- block "footer" . -}}{{- partialCached "footer.html" . -}}{{- end -}}
+
+    </div>
+
+    {{- block "scripts" . -}}{{- partialCached "scripts.html" . -}}{{- end -}}
+
+  </body>
+</html>

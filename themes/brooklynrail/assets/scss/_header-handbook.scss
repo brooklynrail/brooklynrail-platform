@@ -1,0 +1,68 @@
+.handbook{
+  .header{
+    @include u-padding-y('105');
+
+    .logo-box{
+      @include u-display('flex');
+    }
+
+    .logo{
+      svg{
+        @include u-width(10);
+        @include u-height(10);
+        #brooklynrail-circle-black{
+          // fill: #ccc;
+          // stroke: #000;
+          // stroke-width:3;
+          // stroke-linecap:round;
+          // stroke-dasharray:1,10;
+        }
+      }
+    }
+    #sub-head{
+      @include u-margin-top(0);
+      @include u-margin-left(3);
+      @include u-width('card-lg');
+      @include u-height('auto');
+      svg{
+        text{
+          @include u-font('sans', '3xl');
+          @include u-text('thin');
+          @include u-text('no-uppercase');
+          // stroke: red;
+          // stroke-width:3;
+        }
+      }
+    }
+  }
+  aside{
+    nav{
+      h3{
+        @include u-margin-y(0);
+        @include u-margin-bottom(1);
+        @include u-text('medium');
+        @include u-font('sans', 'md');
+      }
+      ul{
+        @include add-list-reset;
+        @include u-margin-y('05');
+        @include u-margin-bottom(3);
+        @include u-font('sans', 'sm');
+        li{
+          @include u-padding-y(1);
+          @include u-padding-left(1);
+          @include u-border-top('1px', 'solid', 'gray-20');
+          &:first-child{
+            @include u-border-top(0);
+          }
+          a{
+            @include u-text('no-underline');
+          }
+        }
+      }
+    }
+  }
+  .content{
+    @include u-font('sans', 'md');
+  }
+}

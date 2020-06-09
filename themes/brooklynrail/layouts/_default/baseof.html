@@ -1,9 +1,12 @@
 <!DOCTYPE html>
 <html lang="{{ $.Site.LanguageCode | default "en" }}">
 
-  {{ partial "head.html" . }}
+  {{- block "head" . -}}
+    {{- partial "head.html" . -}}
+  {{- end -}}
 
-  <body class="{{ $.Param "body_classes"  | default "" }}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
+  <body class="{{- .Type }} {{ .Kind -}} {{- $.Param "body_classes"  | default "" -}}{{- with getenv "HUGO_ENV" }} {{ . -}}{{- end -}}">
+
     <a class="usa-skipnav" href="#main-content">Skip to main content</a>
 
     <div class="paper">

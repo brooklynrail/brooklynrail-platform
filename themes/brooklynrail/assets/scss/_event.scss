@@ -7,6 +7,7 @@
   header {
     @include u-margin-bottom(5);
     @include u-padding-y(4);
+    @include u-text('center');
     @include at-media('tablet') {
       @include u-padding-y(0);
     }
