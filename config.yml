@@ -65,7 +65,7 @@ menu:
 
     - Name            : "Events"
       Identifier      : "events"
-      URL             : "/events-beta"
+      URL             : "/events"
       Weight          : 2
 
     - Name            : "Store"
