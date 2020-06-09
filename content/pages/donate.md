@@ -1,5 +1,5 @@
 ---
-title: Donate Beta
+title: Donate
 headline: Donate to the Rail
 deck: For over 19 years, individual donations from artists, writers, friends, and patrons have been integral to our independence.
 summary: Donate to the Brooklyn Rail
