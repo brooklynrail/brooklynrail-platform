@@ -60,12 +60,12 @@ menu:
   primary:
     - Name            : "Home"
       Identifier      : "home"
-      URL             : "/"
+      URL             : "https://brooklynrail.org"
       Weight          : 1
 
     - Name            : "Events"
       Identifier      : "events"
-      URL             : "/events"
+      URL             : "https://brooklynrail.org/events"
       Weight          : 2
 
     - Name            : "Store"
@@ -75,10 +75,10 @@ menu:
 
     - Name            : "Subscribe"
       Identifier      : "subscribe"
-      URL             : "/subscribe"
+      URL             : "https://brooklynrail.org/subscribe"
       Weight          : 4
 
     - Name            : "About"
       Identifier      : "about"
-      URL             : "/about"
+      URL             : "https://brooklynrail.org/about"
       Weight          : 5
