@@ -30,11 +30,9 @@ Over the last 30 years,**Tom Hill** has been involved in the museum world as an 
 
 Tom and his wife, Janine, opened the Hill Art Foundation, a public exhibition and education space in the heart of Chelsea, in early 2019.
 
-
-
 {{< image media="2020/05/helen-lee-portrait" size="sm" >}}
 
-**Helen Lee** has had many roles in the art world, including collector, academic, art advisor, art book editor and auction house specialist. She has worked at Christie’s, Harry N. Abrams Publishing, the Robert Miller Gallery, and for James Wolfensohn, among others. Her passion for the arts derives from her belief that art and culture provide vital means of communication across cultural and political divides. All art forms, whether through music, theater, dance, poetry or literature, help us to make sense of the world and current events and can clarify how best to move forward. Art has the power to be eternal and has the unique ability to challenge and enrich our lives daily. Helen is also a certified Hatha yoga and meditation instructor.
+**Helen Lee** has had many roles in the art world, including collector, academic, art advisor, art book editor and auction house specialist. She has worked at Christie’s, Harry N. Abrams Publishing, the Robert Miller Gallery, and for James Wolfensohn, among others. Her passion for the arts derives from her belief that art and culture provide vital means of communication across cultural and political divides. All art forms, whether through music, theater, dance, poetry or literature, help us to make sense of the world and current events and can clarify how best to move forward. Art has the power to be eternal and has the unique ability to challenge and enrich our lives daily. Helen is an advisor to the Milken Institute for their art and culture programming. She is the Chairman of the American Foundation for the Courtauld Institute or Art, where she completed her post-graduate studies.
 
 Helen is also a board member of the Brooklyn Rail.
 
