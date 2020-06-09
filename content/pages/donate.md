@@ -5,7 +5,7 @@ deck: For over 19 years, individual donations from artists, writers, friends, an
 summary: Donate to the Brooklyn Rail
 ---
 
-{{< donate heading="Help keep the RAIL independent and free for readers around the world" placeholder="52.38" value="51" >}}
+{{< donate heading="Help keep the RAIL independent and free for readers around the world" placeholder="52.00" value="52" >}}
 
 For 19 years, The Brooklyn Rail has provided New Yorkers with a free and independent forum to engage with the arts. Despite current instability and distance, we remain committed to making our journal freely available to readers each month.
 
