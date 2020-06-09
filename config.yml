@@ -22,6 +22,7 @@ ignoreFiles:
 # Permalink Configuration
 permalinks:
   articles              : ":year/:month/:day/:slug/"
+  donation              : ":slug/"
   pages                 : ":slug/"
   events                : "events/:year/:month/:day/:slug/"
 
