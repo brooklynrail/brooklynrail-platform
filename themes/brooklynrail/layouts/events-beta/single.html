@@ -181,7 +181,7 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
                 organized by {{ if $event_organizer.Params.website -}}<a class="u-dotted" href="{{ $event_organizer.Params.website }}" title="{{ $event_organizer.Params.name }}"><span>{{ $event_organizer.Params.name }}</span></a>{{- else -}}<span>{{- $event_organizer.Params.name -}}</span>{{- end }}
                 and produced by {{ if $event_producer.Params.website -}}<a class="u-dotted" href="{{- $event_producer.Params.website -}}" title="{{- $event_producer.Params.name -}}"><span>{{- $event_producer.Params.name -}}</span></a>{{- else -}}<span>{{- $event_producer.Params.name -}}</span>{{- end -}}.
               {{- end }}
-              Learn how <a href="{{- "donate-beta" | absURL -}}" title="Donate"><span>you can donate</span></a> {{ ":sparkles:" | emojify -}}{{- ":rainbow:" | emojify -}}</p>
+              Learn how <a href="{{- "donate" | absURL -}}" title="Donate"><span>you can donate</span></a> {{ ":sparkles:" | emojify -}}{{- ":rainbow:" | emojify -}}</p>
             </div>
             {{- end -}}
           </div>

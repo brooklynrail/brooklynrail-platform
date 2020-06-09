@@ -18,7 +18,7 @@
           {{- range .Site.Menus.primary -}}
             <li><a class="u-black {{ if or ($currentNode.IsMenuCurrent "primary" .) ($currentNode.HasMenuCurrent "primary" .) }} current{{- end -}}" href="{{- .URL | absURL -}}" title="{{- .Name -}}"><span>{{- .Name | markdownify -}}</span></a></li>
           {{- end -}}
-            <li class="donate"><a class="u-white" href="{{- "/donate-beta" | absURL -}}" title="Donate to the Brooklyn Rail"><span>Donate</span></a></li>
+            <li class="donate"><a class="u-white" href="{{- "/donate" | absURL -}}" title="Donate to the Brooklyn Rail"><span>Donate</span></a></li>
           </ul>
         </div>
       </div>
