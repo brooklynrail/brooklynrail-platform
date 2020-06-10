@@ -47,9 +47,9 @@
 
       {{/* List out the sponsors */}}
       <div class="grid-row">
-        <div class="grid-col-12 tablet:grid-col-8 tablet:grid-offset-2">
+        <div class="grid-col-12 tablet:grid-col-10 tablet:grid-offset-1">
           <div class="sponsors">
-            <p><strong>{{- ":heart: Our events are sponsored by: " | emojify -}}</strong>
+            <p>{{- ":heart: Our events are sponsored by: " | emojify -}}
             {{- $sponsors := ($sponsors | uniq) -}}
             {{- $len := (len $sponsors) -}}
             {{- range $key, $val := ($sponsors | uniq) -}}
@@ -58,7 +58,7 @@
               {{- if eq (add $key 1) $len }}
                 and
               {{ end -}}
-              {{- $val.Params.name -}}
+              <strong>{{- $val.Params.name -}}</strong>
               {{- end -}}
             {{- end -}}
             </p>
