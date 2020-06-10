@@ -171,15 +171,15 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
                 {{- $copy := (index ($sponsor_copy | shuffle | first 1) 0) -}}
                 {{- $event_sponsor := ($.Site.GetPage (printf "/%s/%s" "organizations" (index (.Params.event_sponsor) 0))) -}}
                 {{- with $event_sponsor }}
-                  {{ $copy.phrase }} our friends at <a class="u-dotted" href="{{ .Params.website }}" title="{{ .Params.name }}"><span>{{ .Params.name }}</span></a> and
+                  {{ $copy.phrase }} our friends at <a class="u-dotted" href="{{ .Params.website }}" title="{{ .Params.name }}"><strong><span>{{ .Params.name }}</span></strong></a> and
                 {{ end -}}
               {{- end -}}
 
               {{- if eq $event_organizer $event_producer }}
-                produced by {{ if $event_producer.Params.website -}}<a class="u-dotted" href="{{- $event_producer.Params.website -}}" title="{{- $event_producer.Params.name -}}"><span>{{- $event_producer.Params.name -}}</span></a>{{- else -}}<span>{{- $event_producer.Params.name -}}</span>{{- end -}}.
+                produced by {{ if $event_producer.Params.website -}}<a class="u-dotted" href="{{- $event_producer.Params.website -}}" title="{{- $event_producer.Params.name -}}"><strong><span>{{- $event_producer.Params.name -}}</span></strong></a>{{- else -}}<span><strong>{{- $event_producer.Params.name -}}</strong></span>{{- end -}}.
               {{- else }}
-                organized by {{ if $event_organizer.Params.website -}}<a class="u-dotted" href="{{ $event_organizer.Params.website }}" title="{{ $event_organizer.Params.name }}"><span>{{ $event_organizer.Params.name }}</span></a>{{- else -}}<span>{{- $event_organizer.Params.name -}}</span>{{- end }}
-                and produced by {{ if $event_producer.Params.website -}}<a class="u-dotted" href="{{- $event_producer.Params.website -}}" title="{{- $event_producer.Params.name -}}"><span>{{- $event_producer.Params.name -}}</span></a>{{- else -}}<span>{{- $event_producer.Params.name -}}</span>{{- end -}}.
+                organized by {{ if $event_organizer.Params.website -}}<a class="u-dotted" href="{{ $event_organizer.Params.website }}" title="{{ $event_organizer.Params.name }}"><strong><span>{{ $event_organizer.Params.name }}</span></strong></a>{{- else -}}<strong><span>{{- $event_organizer.Params.name -}}</span></strong>{{- end }}
+                and produced by {{ if $event_producer.Params.website -}}<a class="u-dotted" href="{{- $event_producer.Params.website -}}" title="{{- $event_producer.Params.name -}}"><strong><span>{{- $event_producer.Params.name -}}</span></strong></a>{{- else -}}<strong><span>{{- $event_producer.Params.name -}}</span></strong>{{- end -}}.
               {{- end }}
               Learn how <a href="{{- "donate" | absURL -}}" title="Donate"><span>you can donate</span></a> {{ ":sparkles:" | emojify -}}{{- ":rainbow:" | emojify -}}</p>
             </div>

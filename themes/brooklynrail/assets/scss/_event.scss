@@ -158,16 +158,19 @@
       @include u-text('center');
       @include u-text('light');
       @include u-bg('gray-warm-3');
-      @include u-font('sans', '2xs');
+      @include u-font('sans', 'xs');
       @include u-line-height('sans', 3);
       @include at-media('tablet') {
         @include u-padding-x(3);
         @include u-line-height('sans', 3);
-        @include u-font('sans', 'sm');
+        @include u-font('sans', 'md');
       }
       p{
         @include u-margin-y(0);
         @include u-line-height('sans', 5);
+        strong{
+          @include u-text('normal');
+        }
       }
       a{
         @include u-text('normal');
