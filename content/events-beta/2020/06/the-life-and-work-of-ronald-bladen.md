@@ -30,8 +30,6 @@ event_platform:
 * [Torkwase Dyson: 1919: Blackwater](https://brooklynrail.org/2019/11/artseen/Torkwase-Dyson-1919-Blackwater)
 * [Threads of Fire and Water and Gold](https://brooklynrail.org/2017/05/artseen/Threads-of-Fire-and-Water-and-Gold)
 
-
-
 {{< image media="2020/06/ursula-von-rydingsvard" size="sm" >}}
 
 \
@@ -44,10 +42,8 @@ event_platform:
 * [URSULA VON RYDINGSVARD: TORN (by William Corwin)](https://brooklynrail.org/2018/06/artseen/Ursula-Von-Rydingsvard-0618)
 * [LABOR INTENSITY: URSULA VON RYDINGSVARD and CLAUDIA COMTE with Kara Rooney](https://brooklynrail.org/2015/03/art/labor-intensity-ursula-von-rydingsvard-and-claudia-comte-with-kara-rooney)
 
-
-
 **Dr. Robert S. Mattison**, Marshall R. Metzgar Professor of Art History at Lafayette College, is the author of numerous books, articles, and exhibition catalogues, including Franz Kline: Coal and Steel, Robert Rauschenberg: Breaking Boundaries, Arshile Gorky: Works, and Robert Motherwell: The Formative Years. Dr. Mattison's book titled*Ronald Bladen*published by Abeville Press can be found at<https://www.abbeville.com/books/ronald-bladen-by-robert-s-mattison-783-b>
 
-**William Corwin** is a sculptor and curator based in New York City. His work has been reviewed in the Brooklyn Rail, ARTnews, Sculpture Magazine, Artcritical, and Art Monthly. In 2016, he organized I Cyborg at the Gazelli Art House in London. He currently teaches with the Meet the Met program at the Metropolitan Museum of Art and hosts a program on Clocktower Radio.
+**Will Corwin** is a sculptor and journalist from New York. He has exhibited at The Clocktower, LaMama and Geary galleries in New York, as well as galleries in London, Hamburg, Beijing and Taipei. He has written regularly for The Brooklyn Rail, Artpapers, Bomb, Artcritical, Raintaxi and Canvas and formerly for Frieze. Most recently he curated and wrote the catalog for Postwar Women at The Art Students League in New York, an exhibition of the school’s alumnae active between 1945-65, and 9th Street Club, and exhibition of Perle Fine, Helen Frankenthaler, Mercedes Matter, Grace Hartigan, Lee Krasner and Elaine Dekooning at Gazelli Art House in Mayfair. He is the editor of Formalism; Collected Essays of Saul Ostrow, to be published in 2020, and he will participate in the exhibition Anchor/Roots at the Newhouse Center for Contemporary Art at Snug Harbor Cultural Center in 2021. He is represented by Geary Contemporary.
 
 William is also an ArtSeen editor at the Rail. See all of his contributions at [https://brooklynrail.org/contributor/William-Corwin.](https://brooklynrail.org/contributor/William-Corwin)
