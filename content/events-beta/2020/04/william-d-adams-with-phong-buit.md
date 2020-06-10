@@ -11,15 +11,15 @@ end_date: 2020-04-13 14:00:00 -0500
 series: 20
 collections:
   - the-new-social-environment
+event_sponsor:
+  - sikkema-jenkins-co
 event_producer:
   - the-brooklyn-rail
 youtube_id: SkSYOyb1dQ0
 event_platform:
   - zoom
 ---
-
 We'd like to thank [Sikkema Jenkins & Co](https://www.sikkemajenkinsco.com/) for supporting this conversation. Check out their current exhibitions [here](https://www.sikkemajenkinsco.com/current-exhibitions).
-
 
 {{< image media="2020/05/william-d-adams-portrait" size="sm" >}}
 
