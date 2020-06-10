@@ -29,6 +29,7 @@
         select{
           @include u-padding-y(1);
           @include u-padding-x(1);
+          @include u-width('card');
           @include u-font('sans', 'md');
           @include u-border(0);
           @include u-text('uppercase');
