@@ -12,6 +12,7 @@ collections:
 event_sponsor:
   - the-richard-pousette-dart-foundation
 event_organizer:
+  - bard-prison-initiative
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
