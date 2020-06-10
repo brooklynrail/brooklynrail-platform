@@ -6,13 +6,13 @@ themesDir               : "./themes"
 DefaultContentLanguage  : "en"
 SectionPagesMenu        : "main"
 Paginate                : 20
-googleAnalytics         : ""
+googleAnalytics         : "UA-24931975-1"
 enableRobotsTXT         : true
 enableEmoji             : true
 enableGitInfo           : true
 buildFuture             : true
 relativeURLs            : true
-refLinksNotFoundURL     : https://brooklynrail.org/events-beta/
+refLinksNotFoundURL     : https://brooklynrail.org/
 pluralizelisttitles     : false
 
 social:
