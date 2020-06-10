@@ -15,6 +15,11 @@ relativeURLs            : true
 refLinksNotFoundURL     : https://brooklynrail.org/events-beta/
 pluralizelisttitles     : false
 
+social:
+  twitter: thebrooklynrail
+  youtube: TheBrooklynRail
+  instagram: brooklynrail
+
 # HUGO will ignore pages in the following folders
 ignoreFiles:
   - "content/_archived/*"
