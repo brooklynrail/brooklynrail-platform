@@ -5,7 +5,7 @@
 
 
 {{/* Featured image */}}
-{{- $card_filename := print "brooklynrail-card-" (index (seq 6 | shuffle) 0) -}}
+{{- $card_filename := print "/img/brooklynrail-card-" (index (seq 6 | shuffle) 0) ".png" -}}
 {{- with $card_filename }}
 <meta property="og:image" content="{{ . | absURL }}" />
 {{ end -}}
