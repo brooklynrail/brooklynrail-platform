@@ -15,11 +15,17 @@ registration_url: https://www.eventbrite.com/e/the-new-social-environment-63-nji
 event_platform:
   - zoom
 ---
+{{< image media="2020/06/njideka-akunyili-crosby" size="lg" >}}
+
 **Njideka Akunyili** was born in Enugu, Nigeria, in 1983 and currently lives and works in Los Angeles. The artist was awarded an honorary doctorate from Swarthmore College in May 2019. She is also the recipient of a 2017 MacArthur Fellowship and has received a number of awards and grants, including the Prix Canson, 2016; Next Generation honor, New Museum, 2015; Joyce Alexander Wein Artist Prize, 2015; and the James Dicke Contemporary Artist Prize, The Smithsonian American Art Museum, 2014, among others. She was an Artist in Residence at The Studio Museum in Harlem in 2011-2012.
 
 In 2020, Akunyili Crosby’s work will be shown in the third of a trilogy of solo exhibitions curated by Pulitzer Prize-winning author and critic Hilton Als at the Yale Center for British Art, New Haven, Connecticut. The show will travel to The Huntington Library, Art Collections, and Botanical Gardens, San Marino, California. In 2019, the artist participated in the 58th Venice Biennale. (Source:<https://www.davidzwirner.com/artists/njideka-akunyili-crosby/biography>)
 
 [http://www.njidekaakunyilicrosby.com](http://www.njidekaakunyilicrosby.com/)
+
+
+
+{{< image media="2020/06/jason-rosenfeld" size="sm" >}}
 
 **Jason Rosenfeld,** Ph.D., is Distinguished Chair and Professor of Art History at Marymount Manhattan College. He was co-curator of the exhibitions John Everett Millais (Tate Britain, Van Gogh Museum), Pre-Raphaelites: Victorian Avant-Garde (Tate Britain and the National Gallery of Art, Washington, D.C.), and River Crossings (Olana and Cedar Grove, Hudson and Catskill, New York). He is a Senior Writer and Editor-at-Large for the Brooklyn Rail.
 
