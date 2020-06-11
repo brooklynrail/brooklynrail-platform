@@ -1,7 +1,7 @@
 ---
-title: Chester Higgins
+title: Chester Higgins with Phong Bui
 summary: Photographer Chester Higgins will discuss their work in the context of
-  our new social reality with Phong But, publisher of the Brooklyn Rail.
+  our new social reality with Phong Bui, publisher of the Brooklyn Rail.
 date: 2020-06-18 13:00:00 -0500
 end_date: 2020-06-18 14:00:00 -0500
 series: 68
@@ -15,6 +15,7 @@ registration_url: https://www.eventbrite.com/e/the-new-social-environment-68-che
 event_platform:
   - zoom
 ---
+
 For the past five decades, artist **Chester Higgins** has been using his camera to search for the unseen — “that which is innate within all things and informs the appearance of our world.” “Unseen Spirit,” on view at Atlanta’s Arnika Dawkins Gallery through February 1, 2014, exhibits a selection of Higgins’s work from 1968 through 2012. Thirty-one black-and-white and five color photographs celebrate the photographer’s unique vision and feature images from North America, South America, and Africa.
 
 Higgins’s passion for ordinary people and the rituals that enrich our lives are prominent in this exhibition. “It is inside simple moments where I look for windows into larger meaning,” he says. “Art is an expression of the soul that gives visual definition to an experience.” The images in “Unseen Spirit” are intimate, personal scenes in which most of the subjects appear unaware of the camera. Using light, which “energizes and informs everything it touches,” Higgins gives voice to the essence of what he photographs.
