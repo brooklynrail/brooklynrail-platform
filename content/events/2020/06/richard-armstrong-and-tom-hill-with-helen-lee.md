@@ -17,6 +17,7 @@ event_organizer:
 event_producer:
   - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-61-richard-armstrong-tickets-107708713662
+youtube_id: LGUGyIkzEGg
 event_platform:
   - zoom
 ---
