@@ -27,15 +27,11 @@ Higgins’s work has culminated in exhibitions worldwide and in numerous books, 
 
 <http://chesterhiggins.com/about/>
 
-
-
 **Phong Bui** is the Publisher and Artistic Director of the*Brooklyn Rail*.
 
-<https://brooklynrail.org/contributor/phong-bui>
+In the Rail: <https://brooklynrail.org/contributor/phong-bui>
 
-<http://www.phongbui.net/index>
-
-
+Website: <http://www.phongbui.net/index>
 
 **The event will conclude with a poetry reading from Edwin Torres.**
 
