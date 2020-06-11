@@ -1,5 +1,5 @@
 ---
-title: Kyle Dacuyan with Anselm Berrigan
+title: Kyle Dacuyan and Anselm Berrigan
 summary: Poet and performer Kyle Dacuyan will discuss their work in the context
   of our new social reality with poet Anselm Berrigan of the Brooklyn Rail.
 date: 2020-06-15 13:00:00 -0500
@@ -11,7 +11,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
-registration_url: https://www.eventbrite.com/e/the-new-social-environment-65-shervone-neckles-tickets-109053429744
+registration_url: ""
 event_platform:
   - zoom
 ---
@@ -29,7 +29,7 @@ Berrigan was a New York State Foundation for the Arts Fellow in poetry in 2007 a
 
 Anselm is the Poetry Editor at the Brooklyn Rail: <https://brooklynrail.org/contributor/anselm-berrigan>
 
-**The event will conclude with a poetry reading by Kay Gabriel.**
+**The event will conclude with a poetry reading by Kay Gabriel.** 
 
 **Kay Gabriel** is a poet and essayist. She's the author of Elegy Department Spring / Candy Sonnets 1 (BOAAT Press, 2017), the recipient of fellowships from the Poetry Project and Lambda Literary, and recently completed her PhD in Classics. With Andrea Abi-Karam she's co-editing an anthology of radical trans poetics, forthcoming fall 2020 from Nightboat Books.
 
