@@ -71,7 +71,7 @@ menu:
 
     - Name            : "Events"
       Identifier      : "events"
-      URL             : "https://brooklynrail.org/events"
+      URL             : "/events"
       Weight          : 2
 
     - Name            : "Store"

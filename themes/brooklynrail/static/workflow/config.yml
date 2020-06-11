@@ -62,11 +62,11 @@ collections:
 
   # ====================================
   # Events
-  - name: "events-beta" # Used in routes, e.g., /workflow/collections/blog
+  - name: "events" # Used in routes, e.g., /workflow/collections/blog
     label: "Events" # Used in the UI
     label_singular: "Event"
     description: "TKTK"
-    folder: "content/events-beta" # path to the folder where files are stored
+    folder: "content/events" # path to the folder where files are stored
     path: "{{year}}/{{month}}/{{slug}}" # custom file path
     create: true # Allow users to create new documents in this collection
     identifier_field: title # sets the field that is used to create the slug
