@@ -1,5 +1,5 @@
 ---
-title: Kyle Dacuyan
+title: Kyle Dacuyan and Anselm Berrigan
 summary: "Poet Kyle Dacuyan will discuss their work in the context of our new
   social reality with poet Anselm Berrigan of the Brooklyn Rail. "
 date: 2020-06-15 13:00:00 -0500
