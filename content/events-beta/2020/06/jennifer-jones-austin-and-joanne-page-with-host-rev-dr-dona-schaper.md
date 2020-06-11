@@ -13,14 +13,13 @@ event_organizer:
 event_producer:
   - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-62-joanne-page-jennifer-jones-austin-tickets-108144643540
+youtube_id: gZLxm15y5ew
 event_platform:
   - zoom
 ---
 {{< image media="2020/06/jennifer-jones-austin" size="sm" >}}
 
 **Jennifer Jones Austin**, a child and family advocate, is Chief Executive Officer and Executive Director of the Federation of Protestant Welfare Agencies (FPWA), an anti-poverty, policy and advocacy organization with 170 member human services agencies operating throughout New York City. Mayor de Blasio appointed Ms. Jones Austin as Board Chair in March 2020. She has served as a Board Member since October 2014. Prior to joining FPWA, Ms. Jones Austin served as Senior Vice President of United Way NYC, Family Services Coordinator for Mayor Bloomberg, Deputy Commissioner for the NYC Administration for Children's Services; Civil Rights Deputy Bureau Chief for Attorney General Eliot Spitzer, and Vice President for LearnNow/Edison Schools Inc. Ms. Jones Austin has chaired and served on several influential boards and commissions, including serving as Co-Chair of NYC Mayor de Blasio's Transition, Chair of the NYC Procurement Policy Board, and Co-Chair of the New York State Supermarket Commission. She currently is a Board Member of the National Action Network, the New York Blood Center, the NYC Board of Correction, and the Fund for Public Housing. (<https://www1.nyc.gov/site/boc/about/jennifer-jones-austin-esq.page>)
-
-
 
 {{< image media="2020/06/joanne-page" size="sm" >}}
 
