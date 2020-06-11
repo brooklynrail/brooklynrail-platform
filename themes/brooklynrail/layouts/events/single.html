@@ -15,18 +15,9 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
         <div class="grid-row">
           <div class="grid-col-12">
 
-            <div class="hidden">
-              <p>{{- .Permalink -}}</p>
-              <p>{{- .Permalink | relURL -}}</p>
-              <p>{{- .Permalink | absURL -}}</p>
-              <p>{{- .RelPermalink -}}</p>
-              <p>{{- .RelPermalink | relURL -}}</p>
-              <p>{{- .RelPermalink | absURL -}}</p>
-            </div>
-
             {{ with .CurrentSection }}
             <p class="breadcrumb">
-              <a class="u-black" href="{{- .Permalink | absURL -}}" title="{{- . -}}"><i class="fas fa-arrow-left"></i>&nbsp;<span>All {{ .Title -}}</span></a>
+              <a class="u-black" href="{{- .Permalink | relURL -}}" title="{{- . -}}"><i class="fas fa-arrow-left"></i>&nbsp;<span>All {{ .Title -}}</span></a>
             </p>
             {{- end -}}
 

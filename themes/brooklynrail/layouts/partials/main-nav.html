@@ -207,7 +207,7 @@
             </li>
           {{- $currentNode := . -}}
           {{- range .Site.Menus.primary -}}
-            <li><a class="u-black {{ if or ($currentNode.IsMenuCurrent "primary" .) ($currentNode.HasMenuCurrent "primary" .) }} current{{- end -}}" href="{{- .URL | absURL -}}" title="{{- .Name -}}"><span>{{- .Name | markdownify -}}</span></a></li>
+            <li><a class="u-black {{ if or ($currentNode.IsMenuCurrent "primary" .) ($currentNode.HasMenuCurrent "primary" .) }} current{{- end -}}" href="{{- .URL | relURL -}}" title="{{- .Name -}}"><span>{{- .Name | markdownify -}}</span></a></li>
           {{- end -}}
             <li class="donate"><a class="u-white" href="https://brooklynrail.org/donate" title="Donate to the Brooklyn Rail"><span>Donate</span></a></li>
           </ul>
