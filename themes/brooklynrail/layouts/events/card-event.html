@@ -112,25 +112,19 @@ The following variables transform dates and times for the event `start_date` and
       <div class="grid-col-12 tablet-lg:grid-col-2 tablet-lg:order-last">
 
         <div class="actions">
-          {{- with .Params.registration_url -}}
-            {{/* Registration button */}}
-            <a class="u-white register" href="{{- $.Permalink -}}" title="More details"><button class="btn btn-sm btn-register" type="button" name="register"><span>Details</span></button></a>
+          {{/* Registration button */}}
+          <a class="u-white register" href="{{- $.Permalink -}}" title="More details"><button class="btn btn-sm btn-register" type="button" name="register"><span>Details</span></button></a>
 
-            {{/* Add to Calendar */}}
-            <div title="Add to Calendar" class="addeventatc" data-styling="none">
-              <span>Add to Calendar</span>
-              <span class="start">{{- dateFormat "2006-01-02 03:04 PM" (time $start_date) -}}</span>
-              <span class="end">{{- dateFormat "2006-01-02 03:04 PM" (time $end_date) -}}</span>
-              <span class="timezone">America/New_York</span>
-              <span class="title">{{- (print $.Params.Title $.Params.deck )| markdownify -}}</span>
-              <span class="description">{{- htmlUnescape (print $.Params.summary (print "\n\nEvent Page: https:" $.Permalink)) | safeHTML -}}</span>
-              <span class="alarm_reminder">15</span>
-            </div>
-
-          {{- else -}}
-            {{/* Coming soon */}}
-            <p class="coming-soon">Registration coming soon. <span>Dates and times might change.</span></p>
-          {{- end -}}
+          {{/* Add to Calendar */}}
+          <div title="Add to Calendar" class="addeventatc" data-styling="none">
+            <span>Add to Calendar</span>
+            <span class="start">{{- dateFormat "2006-01-02 03:04 PM" (time $start_date) -}}</span>
+            <span class="end">{{- dateFormat "2006-01-02 03:04 PM" (time $end_date) -}}</span>
+            <span class="timezone">America/New_York</span>
+            <span class="title">{{- (print $.Params.Title $.Params.deck )| markdownify -}}</span>
+            <span class="description">{{- htmlUnescape (print $.Params.summary (print "\n\nEvent Page: https:" $.Permalink)) | safeHTML -}}</span>
+            <span class="alarm_reminder">15</span>
+          </div>
         </div>
       </div>
     </div>
