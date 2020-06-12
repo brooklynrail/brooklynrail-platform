@@ -171,16 +171,16 @@ collections:
         default: ["the-brooklyn-rail"]
         hint: "Default 'The Brooklyn Rail', otherwise select the organization that should be credited with producing the event."
 
-      - label: "Registration URL"
-        name: "registration_url"
-        widget: "string"
-        hint: "A link to Eventbrite, or where our readers are being asked to register. (e.g. https://www.eventbrite.com/...)"
-        required: false
-
       - label: "Event YouTube ID"
         name: "youtube_id"
         widget: "string"
         hint: "The YouTube ID is the string of characters between the `v=` and the `&` in the video URL. (e.g. `3FKyVeipMss`)"
+        required: false
+
+      - label: "Registration URL"
+        name: "registration_url"
+        widget: "string"
+        hint: "A link to Eventbrite, or where our readers are being asked to register. (e.g. https://www.eventbrite.com/...)"
         required: false
 
       - label: "Event Platform"
@@ -190,6 +190,13 @@ collections:
         options: ["zoom", "youtube", "instagram_live", "igtv"]
         hint: "Zoom, youtube, instagram_live, igtv"
         default: ["zoom"]
+        required: false
+
+      - label: "Event Platform URL"
+        name: "event_platform_url"
+        widget: "string"
+        hint: "Enter the URL where people can join"
+        default: "https://brooklynrail.org/new-social-environment"
         required: false
 
   # ====================================
