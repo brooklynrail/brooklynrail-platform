@@ -1,7 +1,20 @@
-<meta property="og:title" content="{{ .Title }}" />
-<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}" />
-<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
-<meta property="og:url" content="{{ .Permalink }}" />
+
+{{/* If is a PAGE and is in the Events section... */}}
+{{- if and (eq .Kind "page") (eq .Section "events") -}}
+
+  <meta property="og:title" content="{{ .Title }}" />
+  {{ if .Summary -}}
+  <meta property="og:description" content="
+    {{- if .Params.series -}}#{{- .Params.series }} {{ end -}}
+    {{- .Summary -}}
+  " />
+  {{- end -}}
+
+{{ end }}
+
+<meta property="og:type" content="{{- if .IsPage -}}article{{- else -}}website{{- end -}}" />
+<meta property="og:url" content="{{- .Permalink -}}" />
+<meta property="og:site_name" content="The Brooklyn Rail">
 
 
 {{/* Featured image */}}
