@@ -17,7 +17,9 @@ event_platform:
   - zoom
 event_platform_url: https://brooklynrail.org/new-social-environment
 ---
-About the exhibition: 
+{{< image media="2020/06/guanyu-xu-the-dining-room-2018-courtesy-of-the-artist" size="sm" >}}
+
+**About the exhibition:** 
 
 Asian Artists in America is the first installment of a series of virtual exhibitions. Organized independently by curators Han Hongzheng and Chandler Allen, Within Global Isolation: Asian Artists in America brings together work by ten Asian artists across the country, including Hương Ngô, Guanyu Xu, Leonard Suryajaya, Ying Zhu, Siyuan Tan, Zhen Guo, Damien Ding, Tin Wai Wong, Weina Lee, and Toby Zeng. The exhibition is a response to the rise in discrimination towards people of Asian descent, now at its peak as a result of COVID-19. In it, we reassess work relevant to the pandemic, and prompt questions of coexistence — both on the global and local levels.​
 
