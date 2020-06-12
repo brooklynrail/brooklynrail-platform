@@ -16,7 +16,7 @@ event_platform:
   - zoom
 event_platform_url: https://brooklynrail.org/new-social-environment
 ---
-{{< image media="2020/05/kyle-decuyan-performance-photo" size="sm" >}}
+{{< image media="2020/06/portrait-of-kyle-dacuyan-by-phong-bui" size="sm" >}}
 
 **Kyle Dacuyan** writes poems and makes performance. Recent writing is in Ambit, The Offing, Social Text, and elsewhere, and he's had recent performance pieces at FringeArts, Ars Nova, and Haus für Poesie. He is the Executive Director of The Poetry Project at St. Mark's.
 
