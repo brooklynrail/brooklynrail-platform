@@ -28,10 +28,10 @@
   }
 
   h3{
-    @include u-margin-top(7);
+    @include u-margin-top(4);
+    @include u-margin-bottom('205');
     @include u-font('sans', 'lg');
     @include u-text('bold');
-    @include u-display('inline-block');
     a{
       @include u-text('no-underline');
       &:hover{
@@ -48,7 +48,7 @@
   ul,ol{
     @include u-padding-left('205');
     li{
-      @include u-margin-bottom(2);
+      @include u-margin-bottom('105');
       ol,ul{
         @include u-margin-y(1);
         @include u-margin-bottom('105');
@@ -58,8 +58,6 @@
       }
     }
   }
-
-
 }
 
 // ===========================
