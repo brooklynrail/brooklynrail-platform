@@ -1,8 +1,8 @@
 ---
 title: "Within Global Isolation: Asian Artists in America"
-summary: "Curators Hongzheng Han and Chandler Allen will discuss the first
-  installman of a series of virtual exhibitons titled, Within Global Isolation:
-  Asian Artists in America."
+summary: "Curators Han Hongzheng and Chandler Allen will discuss the first
+  installment of a series of virtual exhibitions titled, Within Global
+  Isolation: Asian Artists in America."
 date: 2020-06-19 13:00:00 -0500
 end_date: 2020-06-19 14:00:00 -0500
 series: 69
@@ -21,7 +21,7 @@ event_platform_url: https://brooklynrail.org/new-social-environment
 
 **About the exhibition:** 
 
-Asian Artists in America is the first installment of a series of virtual exhibitions. Organized independently by curators Han Hongzheng and Chandler Allen, Within Global Isolation: Asian Artists in America brings together work by ten Asian artists across the country, including Hương Ngô, Guanyu Xu, Leonard Suryajaya, Ying Zhu, Siyuan Tan, Zhen Guo, Damien Ding, Tin Wai Wong, Weina Lee, and Toby Zeng. The exhibition is a response to the rise in discrimination towards people of Asian descent, now at its peak as a result of COVID-19. In it, we reassess work relevant to the pandemic, and prompt questions of coexistence — both on the global and local levels.​
+Asian Artists in America is the first installment of a series of virtual exhibitions. Organized independently by curators **Han Hongzheng** and **Chandler Allen**, *Within Global Isolation: Asian Artists in America* brings together work by ten Asian artists across the country, including Hương Ngô, Guanyu Xu, Leonard Suryajaya, Ying Zhu, Siyuan Tan, Zhen Guo, Damien Ding, Tin Wai Wong, Weina Lee, and Toby Zeng. The exhibition is a response to the rise in discrimination towards people of Asian descent, now at its peak as a result of COVID-19. In it, we reassess work relevant to the pandemic, and prompt questions of coexistence — both on the global and local levels.​
 
 The exhibition is virtual, and has a substantial interview component, in which each artist shares their experience with COVID-19 in stories that detail the discrimination they have faced as well as hardships universal to those surviving the pandemic. These extensive interviews allow for contrasting opinions and ideas to unfold through open discussion.
 
