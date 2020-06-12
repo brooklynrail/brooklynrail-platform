@@ -15,14 +15,9 @@ registration_url: https://www.eventbrite.com/e/the-new-social-environment-68-che
 event_platform:
   - zoom
 ---
-
 For the past five decades, artist **Chester Higgins** has been using his camera to search for the unseen — “that which is innate within all things and informs the appearance of our world.” “Unseen Spirit,” on view at Atlanta’s Arnika Dawkins Gallery through February 1, 2014, exhibits a selection of Higgins’s work from 1968 through 2012. Thirty-one black-and-white and five color photographs celebrate the photographer’s unique vision and feature images from North America, South America, and Africa.
 
-Higgins’s passion for ordinary people and the rituals that enrich our lives are prominent in this exhibition. “It is inside simple moments where I look for windows into larger meaning,” he says. “Art is an expression of the soul that gives visual definition to an experience.” The images in “Unseen Spirit” are intimate, personal scenes in which most of the subjects appear unaware of the camera. Using light, which “energizes and informs everything it touches,” Higgins gives voice to the essence of what he photographs.
-
-“When I’m photographing, I feel time begin to shift between the present, the past, and the future — which is the nature of the Spirit,” he continues. “My challenge is to reveal the Spirit’s fleeting presence.” Wrestling with issues of memory, place, and identity, Higgins sees his life as a narrative and his photography as its expression. “My art gives visual expression to my personal and collective memories.”
-
-Higgins’s work has culminated in exhibitions worldwide and in numerous books, including Feeling the Spirit: Searching the World for the People of Africa and his biography Echo of the Spirit. Currently he is researching and photographing monuments and other antiquity sites along the River Nile from the 6,000-foot high mountains of Kush (modern-day Ethiopia) through Nubia (Sudan) down to the ancient land of Kemet (Egypt). In this latest project, entitled Before Genesis, Higgins narrates the story of the African beginnings of spirituality, antecedents of the Biblical world.
+Higgins’s work has culminated in exhibitions worldwide and in numerous books, including *Feeling the Spirit: Searching the World for the People of Africa* and his biography *Echo of the Spirit*. Currently he is researching and photographing monuments and other antiquity sites along the River Nile.
 
 — by Betsy Kissam
 
