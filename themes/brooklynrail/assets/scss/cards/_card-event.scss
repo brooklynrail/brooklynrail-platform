@@ -43,18 +43,16 @@
 
       .event_platforms{
         @include u-margin-top(1);
-        @include at-media('tablet-lg') {
-          @include u-margin-top('105');
-        }
         @include u-text('normal');
-        @include u-font('sans', '2xs');
+        @include u-font('sans', 'xs');
         p{
           @include u-margin-y(0);
-          @include u-text('gray-70');
+          @include u-text('gray-60');
           img{
+            @include u-margin-right('2px');
             @include u-position('relative');
-            @include u-top('1px');
-            @include u-width('105');
+            @include u-top('2px');
+            @include u-width(2);
           }
         }
       }
