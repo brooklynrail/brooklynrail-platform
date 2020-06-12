@@ -57,3 +57,13 @@ Dr. Robert S. Mattison, Marshall R. Metzgar Professor of Art History at Lafayett
 Will Corwin is a sculptor and journalist from New York. He has exhibited at The Clocktower, LaMama and Geary galleries in New York, as well as galleries in London, Hamburg, Beijing and Taipei. He has written regularly for The Brooklyn Rail, Artpapers, Bomb, Artcritical, Raintaxi and Canvas and formerly for Frieze. Most recently he curated and wrote the catalog for Postwar Women at The Art Students League in New York, an exhibition of the school’s alumnae active between 1945-65, and 9th Street Club, and exhibition of Perle Fine, Helen Frankenthaler, Mercedes Matter, Grace Hartigan, Lee Krasner and Elaine Dekooning at Gazelli Art House in Mayfair. He is the editor of Formalism; Collected Essays of Saul Ostrow, to be published in 2020, and he will participate in the exhibition Anchor/Roots at the Newhouse Center for Contemporary Art at Snug Harbor Cultural Center in 2021. He is represented by Geary Contemporary.
 
 William is also an ArtSeen editor at the Rail. [See all of his contributions »](https://brooklynrail.org/contributor/William-Corwin)
+
+
+
+\---
+
+
+
+**The event will conclude with a poetry reading by Simone White**
+
+Simone White is the author of three collections, *Dear Angel of Death*, *Of Being Dispersed*, and *House of Envy of All the World*, the poetry chapbook, *Unrest*, and the collaborative poem/painting chapbook, *Dolly*, with Kim Thomas. Her poetry and prose have been featured in publications such as *Harper's Magazine*, *BOMB Magazine*, *Chicago Review*, and *Harriet: The Blog*. Her honors include a 2017 Whiting Award in Poetry, Cave Canem Foundation fellowships, and recognition as a New American Poet for the Poetry Society of America in 2013. She has a JD from Harvard Law School, an MFA from the New School, and a PhD in English at CUNY Graduate Center.
