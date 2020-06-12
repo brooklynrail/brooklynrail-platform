@@ -56,31 +56,32 @@
           }
         }
       }
-
-      .event_platforms{
-        @include u-margin-top(2);
-        @include u-display('none');
-        p{
-          @include u-margin(0);
-          @include u-margin-bottom('2px');
-          @include u-margin-right('05');
-          @include u-padding-y('2px');
-          @include u-font('sans', 'sm');
-          @include u-text('normal');
-          @include u-display('inline-block');
-          span{
-            i{
-              // @include u-text('blue-70v');
-            }
-          }
-        }
-      }
     }
 
     .actions{
       @include u-margin-bottom(0);
       @include u-display('flex');
       @include u-flex('justify-center');
+
+      .join{
+        @include u-margin-right('05');
+        flex-basis: 100%;
+        @include at-media('mobile-lg') {
+          flex-basis: auto;
+        }
+        .btn-join{
+          @include u-bg('blue-50v');
+          @include u-border('2px', 'solid', 'blue-50v');
+          @include u-padding-x('105');
+          @include at-media('mobile-lg') {
+            @include u-padding-x('205');
+          }
+          @include u-font('sans', 'sm');
+          @include at-media('tablet-lg') {
+            @include u-font('sans', 'md');
+          }
+        }
+      }
 
       .register{
         @include u-margin-right('05');
@@ -96,6 +97,10 @@
           @include at-media('mobile-lg') {
             @include u-padding-x('205');
           }
+          @include u-font('sans', 'sm');
+          @include at-media('tablet-lg') {
+            @include u-font('sans', 'md');
+          }
         }
       }
       .addeventatc{
@@ -108,6 +113,10 @@
         @include u-padding-x('105');
         @include at-media('mobile-lg') {
           @include u-padding-x('205');
+        }
+        @include u-font('sans', 'sm');
+        @include at-media('tablet-lg') {
+          @include u-font('sans', 'md');
         }
         @include u-bg('gray-5');
         @include u-radius('sm');
@@ -131,6 +140,23 @@
         }
       }
     }
+
+    .event_platforms{
+      @include u-margin-top(2);
+      @include u-text('normal');
+      @include u-font('sans', 'sm');
+      p{
+        @include u-margin-y(0);
+        @include u-text('gray-60');
+        img{
+          @include u-margin-right('2px');
+          @include u-position('relative');
+          @include u-top('2px');
+          @include u-width(3);
+        }
+      }
+    }
+
     .coming-soon{
       @include u-padding-y('05');
       @include u-padding-x('105');
