@@ -15,8 +15,8 @@ event_producer:
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-64-the-life-and-work-of-ronald-bladen-tickets-108162553108
 event_platform:
   - zoom
+event_platform_url: https://brooklynrail.org/new-social-environment
 ---
-
 {{< image media="2020/06/x-1967–1968" size="md" >}}
 
 **Charles Ronald Wells Bladen's** artistic stance, influenced by European Constructivism, American Hard-Edge Painting, and sculptures such as Isamu Noguchi and David Smith, had stimulating effect on a circle of younger artists including Carl Andre, Donald Judd, Sol LeWitt and Lawrence Weiner, who repeatedly called him the ‘father figure’ of Minimal Art. (More about Ronald Bladen at [ronaldbladenestate.com](https://ronaldbladenestate.com/))
@@ -27,14 +27,13 @@ event_platform:
 
 {{< image media="2020/06/torkwase-dyson" size="sm" >}}
 
-[**Torkwase Dyson**](https://www.torkwasedyson.com/) is a painter whose compositions address the continuity of movement, climate change, infrastructure, and architecture. For Dyson these subjects in relationship to each other produce abstractions that explore the history and future of black spatial liberation strategies and environmental racism. Through abstract paintings, Dyson grapples with ways space is perceived and negotiated particularly by black and brown bodies. Explorations of how the body unifies, balances, and arranges itself to move through natural and built environments become both expressive and discursive structures within the work. Dyson builds the paintings slowly, accumulating washes and configuring minimal geometric elements through a process of improvisation and reflection. The paint-handling producing various surfaces using brushwork and other tools is made poetic by a juxtaposition of dense marks and scored, diagrammatic lines. This compositional rigor imbues the works with an architectural presence and optical gravity. In Dyson’s work the residue of grids and the evidence of hand moving in space creates a productive tension. This precarious arrangement along with subtle use of atmospheric color, contour lines, scale shifts in the paintings invite the eye to consider the conceptual and corporeal knowledge of space in real time.
+**[Torkwase Dyson](https://www.torkwasedyson.com/)** is a painter whose compositions address the continuity of movement, climate change, infrastructure, and architecture. For Dyson these subjects in relationship to each other produce abstractions that explore the history and future of black spatial liberation strategies and environmental racism. Through abstract paintings, Dyson grapples with ways space is perceived and negotiated particularly by black and brown bodies. Explorations of how the body unifies, balances, and arranges itself to move through natural and built environments become both expressive and discursive structures within the work. Dyson builds the paintings slowly, accumulating washes and configuring minimal geometric elements through a process of improvisation and reflection. The paint-handling producing various surfaces using brushwork and other tools is made poetic by a juxtaposition of dense marks and scored, diagrammatic lines. This compositional rigor imbues the works with an architectural presence and optical gravity. In Dyson’s work the residue of grids and the evidence of hand moving in space creates a productive tension. This precarious arrangement along with subtle use of atmospheric color, contour lines, scale shifts in the paintings invite the eye to consider the conceptual and corporeal knowledge of space in real time.
 
 **In the Rail:**
 
 * [Torkwase Dyson: Unkeeping](https://brooklynrail.org/2016/04/artseen/torkwase-dyson-unkeeping)
 * [Torkwase Dyson: 1919: Blackwater](https://brooklynrail.org/2019/11/artseen/Torkwase-Dyson-1919-Blackwater)
 * [Threads of Fire and Water and Gold](https://brooklynrail.org/2017/05/artseen/Threads-of-Fire-and-Water-and-Gold)
-
 
 ### Ursula Von Rydingsvard
 
@@ -51,7 +50,7 @@ Ursula Von Rydingsvard was born 1942 in Deensen, Germany. She has lived and work
 
 ### Dr. Robert S. Mattison
 
-Dr. Robert S. Mattison, Marshall R. Metzgar Professor of Art History at Lafayette College, is the author of numerous books, articles, and exhibition catalogues, including Franz Kline: Coal and Steel, Robert Rauschenberg: Breaking Boundaries, Arshile Gorky: Works, and Robert Motherwell: The Formative Years. Dr. Mattison's book titled "[*Ronald Bladen*](https://www.abbeville.com/books/ronald-bladen-by-robert-s-mattison-783-b)" is published by Abeville Press.
+Dr. Robert S. Mattison, Marshall R. Metzgar Professor of Art History at Lafayette College, is the author of numerous books, articles, and exhibition catalogues, including Franz Kline: Coal and Steel, Robert Rauschenberg: Breaking Boundaries, Arshile Gorky: Works, and Robert Motherwell: The Formative Years. Dr. Mattison's book titled "*[Ronald Bladen](https://www.abbeville.com/books/ronald-bladen-by-robert-s-mattison-783-b)*" is published by Abeville Press.
 
 ### Will Corwin
 
