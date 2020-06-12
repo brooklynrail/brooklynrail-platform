@@ -1,8 +1,8 @@
 ---
 title: "Within Global Isolation: Asian Artists in America"
-summary: "Artists Leonard Suryajaya, Hương Ngo, and Ying Zhu will join curators
-  Han Hongzheng and Chandler Allen to discuss work in the virtual exhibition
-  titled, Within Global Isolation: Asian Artists in America."
+summary: 'Artists Leonard Suryajaya, Hương Ngo, and Ying Zhu will join curators
+  Han Hongzheng and Chandler Allen to discuss their work in the virtual
+  exhibition, "Within Global Isolation: Asian Artists in America."'
 date: 2020-06-19 13:00:00 -0500
 end_date: 2020-06-19 14:00:00 -0500
 series: 69
