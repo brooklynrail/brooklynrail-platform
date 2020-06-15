@@ -2,7 +2,7 @@
 title: Anne Pasternak, Ben Jones, and Dan Sallick
 summary: Anne Pasternak, Ben Jones, and Dan Sallick will discuss how museums can
   be more effective as digital platforms to make art and artists' narratives
-  more accessible to a wide audience.
+  more accessible and reach wider audiences.
 date: 2020-06-16 12:00:00 -0500
 end_date: 2020-06-16 13:00:00 -0500
 series: 66
