@@ -1,5 +1,5 @@
 ---
-title: Fausta Squatriti and Choghakate Kazarian
+title: Fausta Squatriti with Choghakate Kazarian
 summary: Graphic artist and writer Fausta Squatriti will discuss their work with
   curator and art historian, Choghakate Kazarian of the Brooklyn Rail.
 date: 2020-06-17 13:00:00 -0500
@@ -14,7 +14,7 @@ event_producer:
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-67-fausta-squatriti-tickets-109405217952
 event_platform:
   - zoom
-event_platform_url: https://brooklynrail.org/new-social-environment
+event_platform_url: ""
 ---
 {{< image media="2020/06/fausta-squatriti" size="sm" >}}
 
