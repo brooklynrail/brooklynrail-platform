@@ -12,6 +12,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: 5zGawaJPzPs
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-64-the-life-and-work-of-ronald-bladen-tickets-108162553108
 event_platform:
   - zoom
@@ -58,11 +59,7 @@ Will Corwin is a sculptor and journalist from New York. He has exhibited at The 
 
 William is also an ArtSeen editor at the Rail. [See all of his contributions »](https://brooklynrail.org/contributor/William-Corwin)
 
-
-
 \---
-
-
 
 **The event will conclude with a poetry reading by Simone White**
 
