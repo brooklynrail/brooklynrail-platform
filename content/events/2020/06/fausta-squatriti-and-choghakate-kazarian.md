@@ -15,6 +15,9 @@ registration_url: https://www.eventbrite.com/e/the-new-social-environment-67-fau
 event_platform:
   - zoom
 event_platform_url: ""
+aliases:
+  - /events/2020/06/17/fausta-squatriti-and-choghakate-kazarian/
+
 ---
 {{< image media="2020/06/fausta-squatriti-headshot" size="sm" >}}
 
