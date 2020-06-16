@@ -31,6 +31,10 @@ Website: <http://www.phongbui.net/index>
 
 **The event will conclude with a poetry reading from Edwin Torres.**
 
+
+
+{{< image media="2020/06/edwin-torres-headshot" size="sm" >}}
+
 **Edwin Torres** is a bilingual, New York-based poet who's a self-proclaimed "lingualisualist" whose work is "rooted in the languages of sight and sound.” He is the author of multiple books of poetry, including Ameriscopia (University of Arizona Press, 2014), One Night: Poems for the Sleepy (Red Glass Books, 2012), and Yes Thing No Thing (Roof Books, 2010), among others.
 
 He is the recipient of poetry fellowships from the DIA Foundation, the Foundation for Contemporary Performance Art, the Kimmel Arts Center, and the New York Foundation of the Arts, among others, and has performed his poems worldwide.
