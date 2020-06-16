@@ -11,6 +11,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: 0GrvzpBiirM
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-63-njideka-akunyili-crosby-tickets-108145786960
 event_platform:
   - zoom
