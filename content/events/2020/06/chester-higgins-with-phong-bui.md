@@ -15,11 +15,7 @@ registration_url: https://www.eventbrite.com/e/the-new-social-environment-68-che
 event_platform:
   - zoom
 ---
-For the past five decades, artist **Chester Higgins** has been using his camera to search for the unseen — “that which is innate within all things and informs the appearance of our world.” “Unseen Spirit,” on view at Atlanta’s Arnika Dawkins Gallery through February 1, 2014, exhibits a selection of Higgins’s work from 1968 through 2012. Thirty-one black-and-white and five color photographs celebrate the photographer’s unique vision and feature images from North America, South America, and Africa.
-
-Higgins’s work has culminated in exhibitions worldwide and in numerous books, including *Feeling the Spirit: Searching the World for the People of Africa* and his biography *Echo of the Spirit*. Currently he is researching and photographing monuments and other antiquity sites along the River Nile.
-
-— by Betsy Kissam
+**Chester Higgins** (born November 1946) is an American photographer, [](https://en.wikipedia.org/wiki/Chester_Higgins_Jr.#cite_note-1)who was a staff photographer with *The New York Times* for more than four decades, and whose work has notably featured the life and culture of people of African descent. His photographs have over the years appeared in magazines including *Look*, *Life*, *Time*, *Newsweek*, *Fortune*, *Ebony*, *Essence* and *Black Enterprise*, and Higgins has also published several collections of his photography, among them *Black Woman* (1970), *Feeling the Spirit: Searching the World for the People of Africa* (1994), *Elder Grace: The Nobility of Aging* (2000), and *Echo of the Spirit: A Photographer’s Journey* (2004)
 
 <http://chesterhiggins.com/about/>
 
@@ -30,8 +26,6 @@ In the Rail: <https://brooklynrail.org/contributor/phong-bui>
 Website: <http://www.phongbui.net/index>
 
 **The event will conclude with a poetry reading from Edwin Torres.**
-
-
 
 {{< image media="2020/06/edwin-torres-headshot" size="sm" >}}
 
