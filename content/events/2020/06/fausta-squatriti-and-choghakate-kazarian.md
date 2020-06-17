@@ -19,7 +19,8 @@ aliases:
   - /events/2020/06/17/fausta-squatriti-and-choghakate-kazarian/
 
 ---
-{{< image media="2020/06/fausta-squatriti-headshot" size="sm" >}}
+
+{{< image media="2020/06/fausta-squatriti-headshot" size="md" >}}
 
 Since the early 1960s, **Fausta Squatriti**’s research has been divided between the visual arts and writing. She has exhibited her work in Italy and more frequently abroad, where she was also intensively engaged as a publisher of graphic art and mutlimedia between 1964 and 1986.
 
