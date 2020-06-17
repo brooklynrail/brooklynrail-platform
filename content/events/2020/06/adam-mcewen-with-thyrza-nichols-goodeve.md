@@ -29,4 +29,6 @@ Her interests range across art as a “structure of feeling”, human/nonhuman a
 
 
 
+{{< image media="2020/06/chris-martin-headshot" size="sm" >}}
+
 **Chris Martin’s** fourth book of poetry, [Things to Do in Hell](https://coffeehousepress.org/collections/new-forthcoming/products/things-to-do-in-hell), will be published by Coffee House Press in the fall and his first book of essays,May Tomorrow Be Awake: On Poetry, Autism, and Our Neurodiverse Futureis forthcoming from HarperOne. He is the recipient of grants from the Mellon Foundation, the National Endowment for the Arts, and the Minnesota Humanities Center.He is the co-founder and executive director of [Unrestricted Interest](http://www.unrestrictedinterest.com/), an organization dedicated to helping neurodivergent learners transform their lives though writing. He lives in Minneapolis, where he also teaches at Hamline University and Carleton College.
