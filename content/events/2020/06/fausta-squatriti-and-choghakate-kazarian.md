@@ -17,7 +17,6 @@ event_platform:
 event_platform_url: ""
 aliases:
   - /events/2020/06/17/fausta-squatriti-and-choghakate-kazarian/
-
 ---
 
 {{< image media="2020/06/fausta-squatriti-headshot" size="md" >}}
@@ -34,4 +33,4 @@ Choghakate is a contributor of the Brooklyn Rail: <https://brooklynrail.org/cont
 
 {{< image media="2020/06/alli-warren-headshot" size="sm" >}}
 
-[**Alli Warren** ](https://www.poetryfoundation.org/poets/alli-warren)explores themes of social, economic, and personal desire in her poems. She is the author of the poetry collections *I Love It Though*(Nightboat Books, 2017),*Don’t Go Home With Your Heart On*(Faux Press, 2014), and*Here Come the Warm Jets*(City Lights Books, 2013), winner of the Poetry Center Book Award; she is also the author of the chapbook*Moveable C*(Push Press, 2016). She has edited the literary magazine*Dreamboat*, co-curated the (New) Reading Series at 21 Grand, coedited the Poetic Labor Project, and contributed to SFMOMA’s Open Space. She lives in the Bay Area. [](https://www.poetryfoundation.org/poets/alli-warren)
+**Alli Warren** explores themes of social, economic, and personal desire in her poems. She is the author of the poetry collections *I Love It Though*(Nightboat Books, 2017), *Don’t Go Home With Your Heart On* (Faux Press, 2014), and *Here Come the Warm Jets*( City Lights Books, 2013), winner of the Poetry Center Book Award; she is also the author of the chapbook *Moveable C* (Push Press, 2016). She has edited the literary magazine *Dreamboat*, co-curated the (New) Reading Series at 21 Grand, coedited the Poetic Labor Project, and contributed to SFMOMA’s Open Space. She lives in the Bay Area. [Read more of her work »](https://www.poetryfoundation.org/poets/alli-warren)
