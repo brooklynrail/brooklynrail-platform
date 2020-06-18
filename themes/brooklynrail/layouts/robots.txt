@@ -3,7 +3,7 @@ User-agent: *
   Disallow: /info
   Disallow: /handbook
 {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
-  Disallow: /
+  Allow: /
 {{ else }}
   Disallow: /
 {{ end }}
