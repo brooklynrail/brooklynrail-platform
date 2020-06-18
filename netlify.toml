@@ -22,7 +22,6 @@
 
 
 [context.production.environment]
-  URL = "https://brooklynrail.org"
   HUGO_VERSION = "0.69.0"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
