@@ -17,6 +17,8 @@ event_platform:
   - zoom
 event_platform_url: https://brooklynrail.org/new-social-environment
 ---
+{{< image media="2020/06/max-hollein" size="sm" >}}
+
 Austrian art historian, **Max Hollein** is the director of the Metropolitan Museum of Art. Hollein previously served as Director and CEO of the Fine Arts Museums of San Francisco since July 2016. Hollein was born in Vienna in 1969 to architect Hans Hollein and Helene Hollein. He studied art history at the University of Vienna and business administration at the Vienna University of Economics. During this period, he also free-lanced for the business section of the national daily newspaper “Der Standard”. In 1995, following the successful completion of his studies with two master's degrees, one in art history and the other in business administration, he moved to New York City to take on the position of project director of exhibitions at the Solomon R. Guggenheim Museum in New York.
 
 {{< image media="2020/06/phong-bui" size="sm" >}}
