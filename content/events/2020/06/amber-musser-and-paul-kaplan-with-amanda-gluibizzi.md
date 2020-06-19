@@ -28,6 +28,4 @@ event_platform_url: www.brooklynrail.org/new-social-environment
 
 **Amanda Gluibizzi** is an ArtSeen editor at *The Brooklyn Rail.* An art historian, she is the co-director of The New Foundation for Art History and the author of *Art and Design in 1960s New York* (forthcoming).
 
-**We will close this event with a poetry reading from Cynthia Cruz.** 
-
 **Cynthia Cruz** is the author of Guidebooks for the Dead (Four Way Books, 2020), Dregs (Four Way Books, 2018), How The End Begins (Four Way Books, 2016), Wunderkammer (Four Way Books, 2014), The Glimmering Room (Four Way Books, 2012), and Ruin (Alice James, 2006). Guidebooks for the Dead, her sixth collection of poems, is forthcoming from Four Way Books in 2020. She has published poems in numerous literary journals and magazines including the New Yorker, Kenyon Review, the Paris Review, BOMB, and the Boston Review. She is the editor of an anthology of Latina poetry, Other Musics: New Latina Poetry (University of Oklahoma Press, 2019). She is the recipient of fellowships from Yaddo, the MacDowell Colony, and a Hodder fellowship from Princeton University.
