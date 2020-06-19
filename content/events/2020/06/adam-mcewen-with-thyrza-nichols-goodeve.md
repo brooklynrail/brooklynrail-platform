@@ -1,8 +1,9 @@
 ---
 title: Adam McEwen with Thyrza Nichols Goodeve
-summary: "Artist Adam McEwen will discuss their work and creative life in the
+summary: Artist Adam McEwen will discuss their work and creative life in the
   context of our new social reality with Thyrza Nichols Goodeve, senior art
-  critic of the Brooklyn Rail. "
+  critic of the Brooklyn Rail. We will conclude with a reading from poet Chris
+  Martin.
 date: 2020-06-22 13:00:00 -0500
 end_date: 2020-06-22 14:00:00 -0500
 series: 70
@@ -26,8 +27,6 @@ event_platform_url: ""
 Her interests range across art as a “structure of feeling”, human/nonhuman animal ontologies, the natural fantastic, the aesthetics of wonder, theories and practices of writing, the interview as essay, the history of modernism(s), surrealist methodologies, dystopias and utopias, and the metaphysics of technology. She has published in *The Brooklyn Rail, Art Agenda, Artforum, Art in America*, and numerous artist’s catalogs. She has a Masters in Cinema Studies from NYU, and a PhD from The History of Consciousness Program at UC Santa Cruz. She is the author of *How Like A Leaf: A Conversation with Donna Haraway* (1999) and is working on an updated forthcoming edition, and compiling her collected writings titled, *No Wound Ever Speaks for Itself: Writing, Art, Vulnerability, Conversation, Attitude* with a preface by Avital Ronell.
 
 [See Thyrza's contributions in the Rail »](https://brooklynrail.org/contributor/thyrza-nichols-goodeve)
-
-
 
 {{< image media="2020/06/chris-martin-headshot" size="sm" >}}
 
