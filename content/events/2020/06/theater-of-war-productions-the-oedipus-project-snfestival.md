@@ -17,6 +17,8 @@ event_platform_url: ""
 aliases:
   - /events/2020/06/24/theater-of-war-productions-the-oedipus-project-snfestival/
 ---
+{{< image media="2020/06/the-oedipus-project-snfestival" size="lg" >}}
+
 **The Brooklyn Rail invites you to a live performance from our friends at [Theater of War Productions](https://theaterofwar.com):**
 
 **[The Oedipus Project](https://theaterofwar.com/schedule/the-oedipus-project-snfestival)** is an innovative digital initiative by Theater of War Productions that will present acclaimed actors performing scenes from Sophocles’ Oedipus the King as a catalyst for powerful, healing online conversations about the impact of the COVID-19 pandemic upon diverse communities throughout the world. Sophocles’ ancient play, written and performed in 429 BC during the time of a plague that killed one-third of the Athenian population, is a timeless story of arrogant leadership, ignored prophecy, and a pestilence that ravages the city of Thebes. At the time the play was first performed, the audience would have been reeling in the wake of a pestilence and its economic, political, and social aftermath. Seen through this lens Oedipus the King appears to have been a powerful public health tool for helping Athenians communalize the trauma of the plague, through a story that is as relevant now as it was in its own time. [Learn more »](https://theaterofwar.com/schedule/the-oedipus-project-snfestival)
