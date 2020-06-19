@@ -1,8 +1,9 @@
 ---
 title: Max Hollein with Phong Bui
-summary: "Director of the Metropolitan Museum of Art, Max Hollein will discuss
+summary: Director of the Metropolitan Museum of Art, Max Hollein will discuss
   the role of the art museum in the context of our new social reality with Phong
-  Bui publisher of the Brooklyn Rail. "
+  Bui publisher of the Brooklyn Rail. We will conclude this event with a reading
+  from poet Sophie Robinson.
 date: 2020-06-25 20:44:00 -0500
 end_date: 2020-06-25 20:44:00 -0500
 series: 72
@@ -28,11 +29,5 @@ Austrian art historian, **Max Hollein** is the director of the Metropolitan Muse
 In the Rail: <https://brooklynrail.org/contributor/phong-bui>
 
 Website: <http://www.phongbui.net/index>
-
-
-
-**This event will conclude with a poetry reading from Sophie Robinson.** 
-
-
 
 **Sophie Robinson**’s creative and critical work has been published in Pilot, How2, Dusie and elsewhere. Longer collections include Killin' Kittenish (2006),a (2009), Lotion (2010), and The Institute of Our Love in Disrepair (2012). Her work has also been included in the anthologies Voice Recognition: 21 Poets for the 21st Century ([Bloodaxe](https://en.wikipedia.org/wiki/Bloodaxe_Books)), The Reality Street Book of Sonnets (Reality Street, 2008), and Infinite Difference: Other Poetries by U.K. Women Poets (Shearsman, 2010). Robinson was the poetry artist in residence at the [Victoria and Albert Museum](https://en.wikipedia.org/wiki/Victoria_and_Albert_Museum) in 2011 and at the University of Surrey in 2012.
