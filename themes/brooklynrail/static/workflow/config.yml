@@ -22,7 +22,7 @@ backend:
   # ====================================
   # Workflow -- NetlifyCMS editorial workflow tools
   publish_mode: editorial_workflow
-  open_authoring: false # accept contributions (forks) from GitHub users
+  # open_authoring: false # accept contributions (forks) from GitHub users
   branch: master
   squash_merges: true # squash all commits into a single commit when the PR is merged
   commit_messages:
@@ -66,7 +66,6 @@ collections:
     label: "Events" # Used in the UI
     label_singular: "Event"
     description: "TKTK"
-    publish: true
     folder: "content/events" # path to the folder where files are stored
     path: "{{year}}/{{month}}/{{slug}}" # custom file path
     create: true # Allow users to create new documents in this collection
