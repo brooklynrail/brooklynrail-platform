@@ -27,7 +27,7 @@ aliases:
 
 Translated, directed and facilitated by Bryan Doerries
 
-## **The event will follow this format:**
+### **The event will follow this format:**
 
 * The actors will read the play.
 * Four community panelists will kick off the discussion with their gut responses to what resonated with them across time
