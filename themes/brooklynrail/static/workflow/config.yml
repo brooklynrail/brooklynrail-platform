@@ -66,6 +66,7 @@ collections:
     label: "Events" # Used in the UI
     label_singular: "Event"
     description: "TKTK"
+    publish: true
     folder: "content/events" # path to the folder where files are stored
     path: "{{year}}/{{month}}/{{slug}}" # custom file path
     create: true # Allow users to create new documents in this collection
