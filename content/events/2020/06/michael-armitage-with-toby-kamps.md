@@ -15,6 +15,8 @@ event_producer:
 event_platform:
   - zoom
 ---
+{{< image media="2020/06/michael-armitage" size="sm" >}}
+
 **Michael Armitage** is a Kenyan born artist currently living and working between Nairobi and London. He received his BA in Fine Art from the Slade School of Fine Art, London in 2007 and a Postgraduate Diploma from the Royal Academy School, London in 2010.
 
 {{< image media="2020/06/toby-kamps" size="sm" >}}
