@@ -2,7 +2,7 @@
 title: Amber Musser and Paul Kaplan with Amanda Gluibizzi
 summary: Amber Musser and art historian Paul Kaplan will discuss the image of
   black Africans in European art history in a contemporary context with Amanda
-  Gluibizzi
+  Gluibizzi of the Brooklyn Rail.
 date: 2020-06-23 13:00:00 -0500
 end_date: 2020-06-23 14:00:00 -0500
 series: 71
@@ -12,6 +12,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-71-amber-musser-and-paul-kaplan-tickets-110219467394
 event_platform:
   - zoom
 event_platform_url: www.brooklynrail.org/new-social-environment
