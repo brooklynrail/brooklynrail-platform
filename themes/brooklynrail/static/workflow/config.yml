@@ -24,14 +24,14 @@ backend:
   publish_mode: editorial_workflow
   # open_authoring: false # accept contributions (forks) from GitHub users
   branch: master
-  squash_merges: true # squash all commits into a single commit when the PR is merged
-  commit_messages:
-    create: 'New {{collection}}: "{{slug}}"'
-    update: 'Update {{collection}} "{{slug}}"'
-    delete: 'Delete {{collection}} "{{slug}}"'
-    uploadMedia: 'Upload "{{path}}"'
-    deleteMedia: 'Delete "{{path}}"'
-    openAuthoring: "{{message}}, {{author-login}}"
+  # squash_merges: true # squash all commits into a single commit when the PR is merged
+  # commit_messages:
+  #   create: 'New {{collection}}: "{{slug}}"'
+  #   update: 'Update {{collection}} "{{slug}}"'
+  #   delete: 'Delete {{collection}} "{{slug}}"'
+  #   uploadMedia: 'Upload "{{path}}"'
+  #   deleteMedia: 'Delete "{{path}}"'
+  #   openAuthoring: "{{message}}, {{author-login}}"
 
 
 # ====================================
