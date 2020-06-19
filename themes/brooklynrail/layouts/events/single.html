@@ -214,12 +214,14 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
             </div>
 
             {{/* If is NOT a Future Event (Past event) */}}
-            {{- if eq $future_event true -}}
-              {{- with .Params.event_platform -}}
+            {{- if and (eq $future_event true) (in .Params.event_producer "the-brooklyn-rail") -}}
+
+              {{- if in .Params.event_platform "zoom" -}}
               <div class="content event-logistics">
                 {{- partial "event-logistics" . | markdownify -}}
               </div>
               {{- end -}}
+
             {{- end -}}
 
             {{- partial "tags.html" . -}}
