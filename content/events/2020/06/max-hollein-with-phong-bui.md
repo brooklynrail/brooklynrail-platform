@@ -16,7 +16,7 @@ event_producer:
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-73-max-hollein-tickets-110222221632
 event_platform:
   - zoom
-event_platform_url: https://brooklynrail.org/new-social-environment
+event_platform_url: ""
 ---
 {{< image media="2020/06/max-hollein" size="sm" >}}
 
