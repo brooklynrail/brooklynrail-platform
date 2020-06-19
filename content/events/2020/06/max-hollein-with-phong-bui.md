@@ -5,7 +5,7 @@ summary: Director of the Metropolitan Museum of Art, Max Hollein will discuss
   Bui publisher of the Brooklyn Rail.
 date: 2020-06-18 20:44:00 -0500
 end_date: 2020-06-18 20:44:00 -0500
-series: 73
+series: 72
 collections:
   - the-new-social-environment
 event_organizer:
