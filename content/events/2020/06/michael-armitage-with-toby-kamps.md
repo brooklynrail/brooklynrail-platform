@@ -2,7 +2,7 @@
 title: Michael Armitage with Toby Kamps
 summary: Painter Michael Armitage will discuss their work and creative life in
   the context of our new social reality with Toby Kamps, Editor-At-Large of the
-  Brooklyn Rail.
+  Brooklyn Rail. The event will conclude with a reading by poet Rindon Johnson.
 date: 2020-06-26 13:00:00 -0500
 end_date: 2020-06-26 14:00:00 -0500
 series: 73
@@ -25,3 +25,7 @@ event_platform:
 **Toby Kamps** is former director of Blaffer Museum of Art, and curator of modern and contemporary art at the Menil Collection. He is now the director of external projects at White Cube Gallery and is an Editor-at-Large for the *Brooklyn Rail*.
 
 For a full list of Toby's contributions to the Rail visit <https://brooklynrail.org/contributor/Toby-Kamps>
+
+{{< image media="2020/06/rin-johnson-headshot" size="sm" >}}
+
+**Rindon Johnson i**s an artist and writer. He is the author of Nobody Sleeps Better Than White People (Inpatient, 2016), the VR book, Meet in the Corner (Publishing-House.Me, 2017) and Shade the King (Capricious, 2017). He lives in Berlin where he is an Associate Fellow at the Universität der Künste Berlin. He studies VR.
