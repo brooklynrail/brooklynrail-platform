@@ -14,6 +14,7 @@ event_producer:
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-68-chester-higgins-tickets-109149551246
 event_platform:
   - zoom
+event_platform_url: http://brooklynrail.org/new-social-environment
 ---
 {{< image media="2020/06/chester-higgins" size="sm" >}}
 
