@@ -16,7 +16,6 @@ event_producer:
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-71-amber-musser-and-paul-kaplan-tickets-110219467394
 event_platform:
   - zoom
-event_platform_url: www.brooklynrail.org/new-social-environment
 ---
 {{< image media="2020/06/amber-musser" size="sm" >}}
 
