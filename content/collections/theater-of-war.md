@@ -1,0 +1,3 @@
+---
+title: Theater of War
+---

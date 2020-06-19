@@ -196,8 +196,15 @@ collections:
         name: "event_platform_url"
         widget: "string"
         hint: "Enter the URL where people can join"
-        default: "https://brooklynrail.org/new-social-environment"
         required: false
+
+      - label: 'Redirects'
+        name: 'aliases'
+        widget: 'list'
+        hint: "Enter the paths you want to redirect to this page. Separate multiple paths with commas. [e.g. /events/2020/06/19/example, /events/2020/06/19/example-title ]"
+        required: false
+
+
 
   # ====================================
   # Pages
