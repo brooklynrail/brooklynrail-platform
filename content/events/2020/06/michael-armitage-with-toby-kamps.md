@@ -17,7 +17,7 @@ event_platform:
 ---
 {{< image media="2020/06/michael-armitage" size="sm" >}}
 
-**Michael Armitage** is a Kenyan born artist currently living and working between Nairobi and London. He received his BA in Fine Art from the Slade School of Fine Art, London in 2007 and a Postgraduate Diploma from the Royal Academy School, London in 2010.
+**Michael Armitage** was born in 1984 in Nairobi, Kenya and lives and works in London. He received his BA in Fine Art from the Slade School of Fine Art, London (2007) and has a Postgraduate Diploma from the Royal Academy Schools, London (2010). His paintings weave multiple narratives that are drawn from historical and current news media, internet gossip, and his own ongoing recollections of Kenya, his country of birth. The visual iconography of East Africa lies at the heart of his practice: its urban and rural landscape, colonial and modern vernacular architecture, advertising hoardings, lush vegetation and varied animal life. Undermining this rich colour palette and dream-like imagery, however, is a quiet exposition of Kenya’s sometimes harsh reality: its politics, social inequalities, violence and extreme disparities in wealth. In turn, Armitage reflects on the more absurd aspects of the everyday, commenting on both society and the surrounding natural environment – evoked with a lyrical and phantasmagorical vision.
 
 {{< image media="2020/06/toby-kamps" size="sm" >}}
 
