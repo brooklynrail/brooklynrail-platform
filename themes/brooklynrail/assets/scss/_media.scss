@@ -42,11 +42,11 @@
 }
 
 .media-lg{
-  @include u-width('tablet-lg');
+  @include u-width('tablet');
 }
 
 .media-xl{
-  @include u-width('tablet-lg');
+  @include u-width('tablet');
 }
 
 
@@ -71,6 +71,14 @@
     @include u-float('right');
     @include at-media('mobile-lg') {
       @include u-margin-left(4);
+      @include u-margin-bottom(3);
+    }
+  }
+  .media-lg,
+  .media-xl{
+    @include u-margin-top(1);
+    @include u-margin-bottom('105');
+    @include at-media('mobile-lg') {
       @include u-margin-bottom(3);
     }
   }
