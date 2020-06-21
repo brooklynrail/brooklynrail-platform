@@ -1,6 +1,9 @@
 $sans-serif: "Public Sans", sans-serif !important;
 $rail-red: #e52207 !important;
 $rail-indigo: #5942d2;
+$font-weight-thin: 100 !important;
+$font-weight-light: 300 !important;
+$font-weight-bold: 700 !important;
 
 .rail-newsletter * {
   font-family: $sans-serif;
@@ -12,7 +15,7 @@ $rail-indigo: #5942d2;
     font-family: $sans-serif;
     font-size: 26px !important;
     line-height: 32px !important;
-    font-weight: 300 !important;
+    font-weight: $font-weight-light;
     letter-spacing: .02em;
     word-spacing: -.15em;
     color: #111 !important;
@@ -30,7 +33,7 @@ $rail-indigo: #5942d2;
   h5 {
     font-family: $sans-serif;
     font-size: 16px !important;
-    font-weight: 300 !important;
+    font-weight: $font-weight-light;
     line-height:24px !important;
     color: #111 !important;
   }
@@ -38,7 +41,7 @@ $rail-indigo: #5942d2;
   p {
     margin: 0 0 15px 0;
     font-family: $sans-serif;
-    font-weight: 300;
+    font-weight: $font-weight-light;
     color: #000;
     a,
     strong,
@@ -48,7 +51,7 @@ $rail-indigo: #5942d2;
   }
   .footerContainer {
     font-family: $sans-serif;
-    font-weight: 300 !important;
+    font-weight: $font-weight-light;
     color: #111 !important;
   }
   .btn{
@@ -58,7 +61,7 @@ $rail-indigo: #5942d2;
     color: #fff !important;
     border-radius:2px;
     font-size: 18px !important;
-    font-weight: 400 !important;
+    font-weight: $font-weight-light;
     background-color: $rail-red !important;
     border:2px $rail-red solid;
     text-decoration:none !important;
@@ -84,6 +87,9 @@ $rail-indigo: #5942d2;
     h2{
       margin:0 !important;
       font-family: $sans-serif;
+      font-size: 30px !important;
+      line-height: 34px !important;
+      font-weight: $font-weight-thin;
       text-align: center !important;
     }
     p{
@@ -109,7 +115,7 @@ $rail-indigo: #5942d2;
       // Collection + series number
       p.kicker{
         margin-bottom:7px;
-        font-weight: 300;
+        font-weight: $font-weight-light;
         color: $rail-indigo !important;
         text-transform: uppercase;
         text-align: center !important;
@@ -123,7 +129,7 @@ $rail-indigo: #5942d2;
       h3{
         margin-top:0;
         margin-bottom:10px;
-        font-weight: 700 !important;
+        font-weight: $font-weight-bold;
         font-family: $sans-serif;
         font-size: 25px !important;
         line-height: 30px !important;
@@ -132,11 +138,16 @@ $rail-indigo: #5942d2;
         a{
           text-decoration:none !important;
           color: #000 !important;
-          font-weight: 700 !important;
+          font-weight: $font-weight-bold;
           &:hover{
             text-decoration:underline !important;
           }
         }
+      }
+
+      .sponsor{
+        font-style:italic;
+        font-weight: $font-weight-thin;
       }
 
       .summary{
@@ -153,12 +164,12 @@ $rail-indigo: #5942d2;
         margin-bottom:18px;
         p{
           margin-bottom:2px;
-          font-weight: 200;
+          font-weight: $font-weight-thin;
           font-size: 18px !important;
           line-height: 24px !important;
         }
         .date{
-          font-weight: 600 !important;
+          font-weight: $font-weight-bold;
         }
       }
 
@@ -167,7 +178,7 @@ $rail-indigo: #5942d2;
           margin-right: 3px;
           display: inline-block;
           padding:6px 20px;
-          font-weight: 600 !important;
+          font-weight: $font-weight-bold;
           border-radius: 2px;
           background-color: none !important;
           text-decoration:none !important;
@@ -203,9 +214,9 @@ $rail-indigo: #5942d2;
       }
       .sponsorship{
         font-size: 14px !important;
-        font-weight: 300 !important;
+        font-weight: $font-weight-light;
       }
     }
-    
+
   }
 }
