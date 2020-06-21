@@ -1,3 +1,4 @@
+{{- print "<!-- " .GitInfo " -->\n\n" | safeHTML -}}
 {{- print "<!--\n" "Built on: " (now.Format "Jan 2, 2006 at 3:04pm ET") "\n" "Last modified: " (.Page.Lastmod.Format "Jan 2, 2006 at 3:04pm ET") "\nGet the code for upcoming events at: https://brooklynrail.org/events/info" "\n-->\n" | safeHTML -}}
 
 {{/* Gets all events */}}
