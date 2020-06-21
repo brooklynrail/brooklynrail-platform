@@ -76,6 +76,7 @@ collections:
       preview: false
 
     fields: # The fields for each document, usually in frontmatter
+
       - label: "Event Title"
         name: "title"
         minimal: true
@@ -201,7 +202,7 @@ collections:
       - label: 'Redirects'
         name: 'aliases'
         widget: 'list'
-        hint: "Enter the paths you want to redirect to this page. Separate multiple paths with commas. [e.g. /events/2020/06/19/example, /events/2020/06/19/example-title ]"
+        hint: "Enter the path(s) that will break when you change the title of the page or the URL. They will redirect to the new URL. Separate multiple paths with commas [e.g. /events/2020/06/19/example, /events/2020/06/19/example-title ]"
         required: false
 
 
