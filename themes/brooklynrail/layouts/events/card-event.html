@@ -40,7 +40,7 @@ The following variables transform dates and times for the event `start_date` and
           {{ $copy := (index ($sponsor_copy | shuffle | first 1) 0) }}
           {{- $event_sponsor := ($.Site.GetPage (printf "/%s/%s" "organizations" (index (.Params.event_sponsor) 0))) -}}
           {{- with $event_sponsor -}}
-          <p class="sponsor">{{ $copy.phrase }} {{ .Params.name -}}</p>
+          <p class="sponsor">This talk is {{ $copy.phrase }} {{ .Params.name -}}</p>
           {{- end -}}
         {{- end -}}
 
