@@ -25,15 +25,17 @@
 
             <h2>Newsletter</h2>
 
+            {{/* Get the events list from this partial */}}
             {{- $events := partial "info-event-list.html" . -}}
-            {{- partial "accordion" (dict "content" $events "title" "Events List Code") -}}
+            {{/* pass the $events to accordion */}}
+            {{- partial "accordion" (dict "page" . "content" $events "title" "Events List Code") -}}
 
             {{/* Get the Newsletter SCSS file `/assets/newsletter/newsletter.scss` */}}
             {{- $css := resources.GetMatch "newsletter/newsletter.scss" | toCSS -}}
             {{- $css_minified := $css | minify -}}
 
             {{/* Create the strings that make up the MailChimp CSS, then join them together. */}}
-            {{- $fonts := "<link href='https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap' rel='stylesheet'>\n" -}}
+            {{- $fonts := "<link href='https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100;0,300;0,700;1,100;1,300;1,700&display=swap' rel='stylesheet'>\n\n" -}}
 
             {{- partial "accordion" (dict "content" (printf "%s%s%s%s" $fonts "<style type='text/css'>" $css_minified.Content "</style>") "title" "Newsletter CSS (minified)") -}}
 
