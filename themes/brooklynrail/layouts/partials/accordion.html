@@ -1,0 +1,14 @@
+{{- if .content -}}
+<div class="usa-accordion usa-accordion--bordered">
+  <h3 class="usa-accordion__heading">
+    <button class="usa-accordion__button"
+      aria-expanded="false"
+      aria-controls="{{- .title | urlize -}}">
+      {{- .title -}}
+    </button>
+  </h3>
+  <div id="{{- .title | urlize -}}" class="usa-accordion__content usa-prose">
+    {{- highlight .content html "" -}}
+  </div>
+</div>
+{{- end -}}

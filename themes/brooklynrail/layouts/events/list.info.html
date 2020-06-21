@@ -1,0 +1,51 @@
+{{- define "main" -}}
+{{- $permalink := replace .Permalink "/info.html" "" -}}
+
+<main class="info" id="main-content" role="main">
+
+  <section>
+    <div class="grid-container">
+      <div class="grid-row">
+        <div class="grid-col-12 tablet:grid-col-8 tablet:grid-offset-2">
+          <p class="back"><a class="u-primary" href="{{- $permalink -}}"><i class="fas fa-arrow-left"></i>&nbsp;<span>Back to page</span></a></p>
+          <div class="content">
+            <h1>{{- .Title -}}</h1>
+            <p>{{- .Summary -}}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="grid-container">
+      <div class="grid-row">
+        <div class="grid-col-12 tablet:grid-col-8 tablet:grid-offset-2">
+          <div class="content">
+
+            <h2>Newsletter</h2>
+
+            {{- $events := partial "info-event-list.html" . -}}
+            {{- partial "accordion" (dict "content" $events "title" "Events List Code") -}}
+
+            {{/* Get the Newsletter SCSS file `/assets/newsletter/newsletter.scss` */}}
+            {{- $css := resources.GetMatch "newsletter/newsletter.scss" | toCSS -}}
+            {{- $css_minified := $css | minify -}}
+
+            {{/* Create the strings that make up the MailChimp CSS, then join them together. */}}
+            {{- $fonts := "<link href='https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap' rel='stylesheet'>\n" -}}
+
+            {{- partial "accordion" (dict "content" (printf "%s%s%s%s" $fonts "<style type='text/css'>" $css_minified.Content "</style>") "title" "Newsletter CSS (minified)") -}}
+
+            {{- partial "accordion" (dict "content" (printf "%s%s%s%s" $fonts "<style type='text/css'>" $css.Content "</style>") "title" "Newsletter CSS") -}}
+
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+</main>
+{{- end -}}

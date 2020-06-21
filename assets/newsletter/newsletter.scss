@@ -1,0 +1,211 @@
+$sans-serif: "Public Sans", sans-serif !important;
+$rail-red: #e52207 !important;
+$rail-indigo: #5942d2;
+
+.rail-newsletter * {
+  font-family: $sans-serif;
+}
+
+.rail-newsletter{
+  h2 {
+    margin-bottom:20px;
+    font-family: $sans-serif;
+    font-size: 26px !important;
+    line-height: 32px !important;
+    font-weight: 300 !important;
+    letter-spacing: .02em;
+    word-spacing: -.15em;
+    color: #111 !important;
+  }
+
+  h3{
+    margin-top:30px;
+    margin-bottom:10px;
+    font-family: $sans-serif;
+    font-size: 18px !important;
+    line-height: 24px !important;
+    color: #111 !important;
+  }
+
+  h5 {
+    font-family: $sans-serif;
+    font-size: 16px !important;
+    font-weight: 300 !important;
+    line-height:24px !important;
+    color: #111 !important;
+  }
+
+  p {
+    margin: 0 0 15px 0;
+    font-family: $sans-serif;
+    font-weight: 300;
+    color: #000;
+    a,
+    strong,
+    em{
+      font-family: $sans-serif;
+    }
+  }
+  .footerContainer {
+    font-family: $sans-serif;
+    font-weight: 300 !important;
+    color: #111 !important;
+  }
+  .btn{
+    margin:0;
+    display: inline-block !important;
+    padding:8px 30px;
+    color: #fff !important;
+    border-radius:2px;
+    font-size: 18px !important;
+    font-weight: 400 !important;
+    background-color: $rail-red !important;
+    border:2px $rail-red solid;
+    text-decoration:none !important;
+    &:hover{
+      text-decoration:underline !important;
+    }
+  }
+  .btn-sm{
+    padding:5px 15px;
+    font-size: 14px !important;
+  }
+  .btn-light{
+    color: $rail-red !important;
+    background-color: #fff !important;
+    border:2px $rail-red solid;
+  }
+
+  // Event Listings
+  .event-listing{
+    margin:0;
+    padding:20px 0;
+    border-top:1px #ccc solid;
+    h2{
+      margin:0 !important;
+      font-family: $sans-serif;
+      text-align: center !important;
+    }
+    p{
+      text-align: center !important;
+      a{
+        color:$rail-red;
+      }
+    }
+    // Event Card
+    .event * {
+      text-align: center !important;
+    }
+    .event{
+      padding:28px 0;
+      border-bottom:1px #ccc solid;
+      &:first-of-type{
+        border-top:0;
+      }
+      &:last-of-type{
+        border-bottom:0;
+      }
+
+      // Collection + series number
+      p.kicker{
+        margin-bottom:7px;
+        font-weight: 300;
+        color: $rail-indigo !important;
+        text-transform: uppercase;
+        text-align: center !important;
+        .series{
+          margin-left:12px;
+          padding-left:9px;
+          border-left:1px $rail-indigo solid;
+        }
+      }
+
+      h3{
+        margin-top:0;
+        margin-bottom:10px;
+        font-weight: 700 !important;
+        font-family: $sans-serif;
+        font-size: 25px !important;
+        line-height: 30px !important;
+        color: #000 !important;
+        // text-align: center !important;
+        a{
+          text-decoration:none !important;
+          color: #000 !important;
+          font-weight: 700 !important;
+          &:hover{
+            text-decoration:underline !important;
+          }
+        }
+      }
+
+      .summary{
+        margin:6px 0 14px 0;
+        font-family: $sans-serif;
+        // text-align: center !important;
+        line-height: 22px !important;
+        a{
+          color: $rail-red;
+        }
+      }
+
+      .event-details{
+        margin-bottom:18px;
+        p{
+          margin-bottom:2px;
+          font-weight: 200;
+          font-size: 18px !important;
+          line-height: 24px !important;
+        }
+        .date{
+          font-weight: 600 !important;
+        }
+      }
+
+      .actions{
+        a.btn{
+          margin-right: 3px;
+          display: inline-block;
+          padding:6px 20px;
+          font-weight: 600 !important;
+          border-radius: 2px;
+          background-color: none !important;
+          text-decoration:none !important;
+          border: 2px solid #3d2c9d;
+          color: #3d2c9d !important;
+          &:hover{
+            span{
+              border-bottom: 2px solid #3d2c9d;
+            }
+          }
+        }
+        a.btn-register{
+          background-color: #3d2c9d !important;
+          color: #fff !important;
+          &:hover{
+            span{
+              border-bottom: 2px solid #fff;
+            }
+          }
+        }
+      }
+    }
+
+    .meta{
+      margin:20px 0 0 0;
+      padding:20px;
+      background-color: #f6f6f2;
+      border-radius: 8px;
+      p{
+        margin-bottom: 10px;
+        font-size: 16px !important;
+        line-height: 20px !important;
+      }
+      .sponsorship{
+        font-size: 14px !important;
+        font-weight: 300 !important;
+      }
+    }
+    
+  }
+}

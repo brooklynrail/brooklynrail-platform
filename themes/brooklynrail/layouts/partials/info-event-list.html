@@ -1,0 +1,61 @@
+{{- print "<!-- Last build — " (now.Format "Jan 2, 2006 at 3:04pm ET") " -->" | safeHTML }}
+{{ print "<!-- Last modified — " (.Lastmod.Format "Jan 2, 2006 at 3:04pm ET") " -->" | safeHTML -}}
+
+{{/* Gets all events */}}
+{{- $events := where $.Site.RegularPages  "Section" "events" -}}
+
+{{/* Upcoming Events ==================== */}}
+{{/* Gets all $events with a date greater than or equal to today */}}
+{{- $future_events := where $events "Date" "ge" (now.AddDate 0 0 0) -}}
+{{/* Reverses the order of the events, so the next event is at the top */}}
+{{- $future_events := $future_events.Reverse -}}
+
+{{- if $future_events -}}
+<div class="rail-newsletter">
+  <div class="event-listing">
+    <h2>This week&#39;s conversations</h2>
+    {{ range $future_events }}
+      <div class="event">
+        {{- if .Params.collections }}
+        <p class="kicker">
+        {{- range $collection := (.GetTerms "collections") -}}
+          {{/* Gets the Topics page */}}
+          {{- $collection := $.Site.GetPage (printf "/%s/%s" "collections" $collection.Title) -}}
+          <span class="collection">{{- $collection.Title -}}</span>
+        {{- end -}}
+        {{- with .Params.series }}<span class="series"><span>#{{- . -}}</span></span>{{- end -}}
+        </p>
+        {{- end }}
+        <h3><a href="{{- .Permalink -}}" title="{{- .Params.Title -}}" target="_blank">{{- .Params.Title -}}</a></h3>
+        <p class="summary">{{- .Params.Summary -}}</p>
+        <div class="event-details">
+          {{- $start_date := .Date -}}
+          {{- $end_date := (time .Params.end_date) -}}
+          {{/* Start Date */}}
+          <p class="date">{{- dateFormat "Monday, January 2, 2006" (time $start_date) -}}</p>
+          <p class="time">{{- if gt $start_date.Minute 0 -}}{{- dateFormat "3:04" (time $start_date) -}}{{- else -}}{{- dateFormat "3" (time $start_date) -}}{{- end -}}&nbsp;
+          {{- $event_start_time_suffix := dateFormat "PM" (time $start_date) -}}
+          {{- $event_start_time_suffix := replace $event_start_time_suffix "PM" "p.m." -}}
+          {{- $event_start_time_suffix := replace $event_start_time_suffix "AM" "a.m." -}}
+          {{- $event_start_time_suffix -}}&nbsp;{{- print "Eastern" }} <span>/</span> {{ $event_start_time_suffix_pt := dateFormat "PM" ((time $start_date).Add ( -3 | duration "hour" )) -}}
+          {{- $event_start_time_suffix_pt := replace $event_start_time_suffix_pt "PM" "p.m." -}}
+          {{- $event_start_time_suffix_pt := replace $event_start_time_suffix_pt "AM" "a.m." -}}
+          {{- if gt $start_date.Minute 0 -}}{{- dateFormat "3:04" ((time $start_date).Add ( -3 | duration "hour" )) -}}{{- else -}}{{- dateFormat "3" ((time $start_date).Add ( -3 | duration "hour" )) -}}{{- end -}}&nbsp;{{- $event_start_time_suffix_pt -}}&nbsp;{{- print "Pacific" -}}</p>
+        </div>
+        <div class="actions">
+          <a class="btn btn-register" title="Register for {{ .Params.Title -}}" href="{{- .Permalink -}}" target="_blank"><span>Register</span></a>
+          <a class="btn" title="Learn more about {{ .Params.Title -}}" href="{{- .Permalink -}}" target="_blank"><span>Details</span></a>
+        </div>
+      </div>
+    {{- end -}}
+
+    <div class="meta">
+      <p>Videos of our talks are available <a href="https://brooklynrail.org/events" title="Brooklyn Rail Events">on our events page</a></p>
+      <p>&#9829; <a href="https://brooklynrail.org/donate" title="Brooklyn Rail Events">Make a donation</a> and help keep the <em>Rail</em> indepenednt and free.</p>
+      <p class="sponsorship"><em>Interested in becoming a sponsor? Reach out to Catherine Olson at <a href="mailto:catherine@brooklynrail.org?subject=Event%20Sponsorship" title="Sponsorship Inquiry">catherine@brooklynrail.org</a></em></p>
+    </div>
+
+  </div>
+</div>
+
+{{- end -}}
