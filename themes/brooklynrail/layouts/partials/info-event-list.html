@@ -1,5 +1,4 @@
-{{- print "<!-- Last build — " (now.Format "Jan 2, 2006 at 3:04pm ET") " -->" | safeHTML }}
-{{ print "<!-- Last modified — " (.Lastmod.Format "Jan 2, 2006 at 3:04pm ET") " -->" | safeHTML -}}
+{{- print "<!--\n" "Built on: " (now.Format "Jan 2, 2006 at 3:04pm ET") "\n" "Last modified: " (.Page.Lastmod.Format "Jan 2, 2006 at 3:04pm ET") "\nGet the code for upcoming events at: https://brooklynrail.org/events/info" "\n-->\n" | safeHTML -}}
 
 {{/* Gets all events */}}
 {{- $events := where $.Site.RegularPages  "Section" "events" -}}
@@ -13,7 +12,7 @@
 {{- if $future_events -}}
 <div class="rail-newsletter">
   <div class="event-listing">
-    <h2>This week&#39;s conversations</h2>
+    <h2>This week</h2>
     {{ range $future_events }}
       <div class="event">
         {{- if .Params.collections }}
@@ -28,6 +27,14 @@
         {{- end }}
         <h3><a href="{{- .Permalink -}}" title="{{- .Params.Title -}}" target="_blank">{{- .Params.Title -}}</a></h3>
         <p class="summary">{{- .Params.Summary -}}</p>
+        {{- if .Params.event_sponsor -}}
+          {{- $sponsor_copy := $.Site.Data.sponsor_copy.sponsored -}}
+          {{ $copy := (index ($sponsor_copy | shuffle | first 1) 0) }}
+          {{- $event_sponsor := ($.Site.GetPage (printf "/%s/%s" "organizations" (index (.Params.event_sponsor) 0))) -}}
+          {{- with $event_sponsor -}}
+          <p class="sponsor">This talk is {{ $copy.phrase }} {{ .Params.name -}}</p>
+          {{- end -}}
+        {{- end -}}
         <div class="event-details">
           {{- $start_date := .Date -}}
           {{- $end_date := (time .Params.end_date) -}}
