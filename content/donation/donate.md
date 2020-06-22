@@ -15,7 +15,7 @@ Our journal and programming will remain free and independent. But as a small non
 
 ---
 
-**Prefer to mail a check?** `Our mailing` address is:
+**Prefer to mail a check?** Our mailing address is:
 ```
 The Brooklyn Rail
 253 36th Street, 3rd Floor, Suite C304
