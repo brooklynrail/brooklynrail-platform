@@ -21,12 +21,16 @@ aliases:
 ---
 {{< image media="2020/06/amber-musser" size="sm" >}}
 
-**Dr. Amber Musser** has published widely on race and critical theory, queer femininities and race, race and sexuality, and queer of color critique. She has an MSt in Women's Studies from Oxford University and received her PhD in History of Science from Harvard University. She has held fellowships at New York University's Draper Program in Gender Studies and Brown University's Pembroke Center for Teaching and Research on Women. Her research has been supported by grants from the Ruth Landes Memorial Fellowship and the Arts Writers’ Grant from the Warhol Foundation. She previously taught gender studies at New York University and Washington University in St. Louis. She also writes art criticism for The Brooklyn Rail.
+**Dr. Amber Musser** PhD is Professor of American Studies at George Washington University. She writes about race, sexuality, and aesthetics. She is the author of *Sensational Flesh: Race, Power, and Masochism* (NYU Press, 2014) and *Sensual Excess: Queer Femininity and Brown Jouissance* (NYU Press, 2018). She has an MSt in Women's Studies from Oxford University and received her PhD in History of Science from Harvard University, and has held fellowships at New York University's Draper Program in Gender Studies and Brown University's Pembroke Center for Teaching and Research on Women. She also writes art criticism for the *Brooklyn Rail*.
 
 **Paul Kaplan** is a Professor of Art History at SUNY, Purchase. His doctoral dissertation examined the image of black Africans in European art up to 1520. He published The Rise of the Black Magus in Western Art, 1985 and many articles in this field. He served as Project Scholar for the artist Fred Wilson's Installation in the American Pavilion at the Venice Biennale, an exploration of the role of black Africans in Venetian art and society entitled "Speak of Me as I Am." He is also a specialist in the political iconography of Venetian Renaissance art, with particular emphasis on the works of Giorgione and Veronese.
 
 {{< image media="2020/05/amanda-gluibizzi-portrait" size="sm" >}}
 
 **Amanda Gluibizzi** is an ArtSeen editor at *The Brooklyn Rail.* An art historian, she is the co-director of The New Foundation for Art History and the author of *Art and Design in 1960s New York* (forthcoming).
+
+
+
+{{< image media="2020/06/cynthia-cruz-headshot" size="sm" >}}
 
 **Cynthia Cruz** is the author of six collections of poems: Guidebooks for the Dead (Four Way Books, 2020), Dregs (Four Way Books, 2018), How the End Begins (Four Way Books, 2016), Wunderkammer (Four Way Books, 2014), The Glimmering Room (Four Way Books, 2012) and Ruin (Alice James Books, 2006). The Melancholia of Class, her second collection of critical essays about melancholia and the working class, is forthcoming from Repeater Books in 2021. Cruz edits the interdisciplinary journal Schlag Magazine with Steven Page and teaches at the City University of New York and in the MFA Writing Program at Columbia University.
