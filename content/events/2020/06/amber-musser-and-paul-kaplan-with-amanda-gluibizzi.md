@@ -23,6 +23,10 @@ aliases:
 
 **Dr. Amber Musser** PhD is Professor of American Studies at George Washington University. She writes about race, sexuality, and aesthetics. She is the author of *Sensational Flesh: Race, Power, and Masochism* (NYU Press, 2014) and *Sensual Excess: Queer Femininity and Brown Jouissance* (NYU Press, 2018). She has an MSt in Women's Studies from Oxford University and received her PhD in History of Science from Harvard University, and has held fellowships at New York University's Draper Program in Gender Studies and Brown University's Pembroke Center for Teaching and Research on Women. She also writes art criticism for the *Brooklyn Rail*.
 
+
+
+{{< image media="2020/05/paul-d-miller" size="sm" >}}
+
 **Paul Kaplan** is a Professor of Art History at SUNY, Purchase. His doctoral dissertation examined the image of black Africans in European art up to 1520. He published The Rise of the Black Magus in Western Art, 1985 and many articles in this field. He served as Project Scholar for the artist Fred Wilson's Installation in the American Pavilion at the Venice Biennale, an exploration of the role of black Africans in Venetian art and society entitled "Speak of Me as I Am." He is also a specialist in the political iconography of Venetian Renaissance art, with particular emphasis on the works of Giorgione and Veronese.
 
 {{< image media="2020/05/amanda-gluibizzi-portrait" size="sm" >}}
