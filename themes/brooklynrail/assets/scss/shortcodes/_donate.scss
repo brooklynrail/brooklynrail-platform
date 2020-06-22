@@ -28,8 +28,11 @@
   }
   p{
     @include u-margin-bottom(0);
-    @include u-font('sans', '2xs');
+    @include u-font('sans', '3xs');
     @include u-text('base-darker');
+    @include at-media('tablet') {
+      @include u-font('sans', '2xs');
+    }
     a{
       @include u-text('primary');
     }
