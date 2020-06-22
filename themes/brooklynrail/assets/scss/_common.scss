@@ -192,13 +192,14 @@ section{
 // Forms
 form.rail-form {
   @extend .usa-form;
+  @include u-margin-bottom(2);
   fieldset{
     @extend .usa-fieldset;
     // The heading in the form
     legend{
       @extend .usa-legend;
-      @include u-margin-bottom('205');
-      @include u-font('serif', 'lg');
+      @include u-margin-bottom(2);
+      @include u-font('sans', 'lg');
       @include u-text('thin');
     }
     // Field Group
@@ -240,14 +241,17 @@ form.rail-form {
         span{
           @include u-display('block');
           @include u-padding-y(1);
-          @include u-padding-x(1);
+          @include u-padding-x('05');
+          @include u-padding-left(1);
           @include u-height(5);
           @include u-bg('white');
           @include u-font('sans', 'md');
-          @include u-line-height('sans', 1);
+          @include u-line-height('sans', 2);
           @include u-border('1px', 'solid', 'gray-20');
           @include u-border-right(0);
           @include u-radius('sm');
+          @include u-height(5);
+          white-space: nowrap;
         }
         input{
           @include u-border-left(0);
