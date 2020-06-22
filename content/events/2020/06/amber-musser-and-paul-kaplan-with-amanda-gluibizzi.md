@@ -29,4 +29,8 @@ aliases:
 
 **Amanda Gluibizzi** is an ArtSeen editor at *The Brooklyn Rail.* An art historian, she is the co-director of The New Foundation for Art History and the author of *Art and Design in 1960s New York* (forthcoming).
 
+
+
+{{< image media="2020/06/cynthia-cruz-headshot" size="sm" >}}
+
 **Cynthia Cruz** is the author of six collections of poems: Guidebooks for the Dead (Four Way Books, 2020), Dregs (Four Way Books, 2018), How the End Begins (Four Way Books, 2016), Wunderkammer (Four Way Books, 2014), The Glimmering Room (Four Way Books, 2012) and Ruin (Alice James Books, 2006). The Melancholia of Class, her second collection of critical essays about melancholia and the working class, is forthcoming from Repeater Books in 2021. Cruz edits the interdisciplinary journal Schlag Magazine with Steven Page and teaches at the City University of New York and in the MFA Writing Program at Columbia University.
