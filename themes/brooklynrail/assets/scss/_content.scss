@@ -80,9 +80,6 @@ pre {
   @include u-bg('gray-3');
   @include u-radius('sm');
   @include u-font('mono', 'sm');
-  @include at-media('tablet') {
-    @include u-font('mono', 'md');
-  }
   white-space: pre-wrap;       /* css-3 */
   white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
   white-space: -pre-wrap;      /* Opera 4-6 */
@@ -90,7 +87,6 @@ pre {
   word-wrap: break-word;       /* Internet Explorer 5.5+ */
   code{
     @include u-padding-x(0);
-    @include u-bg('transparent');
   }
 }
 
