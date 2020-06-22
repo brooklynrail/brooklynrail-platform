@@ -12,14 +12,7 @@
     @include u-maxw('none');
   }
   .fields{
-    @include u-display('flex');
-    @include u-flex('row');
-    @include u-flex('align-center');
-    @include u-flex('justify');
-    legend{
-      @include u-margin-bottom(0);
-      @include u-width('mobile-lg');
-    }
+    legend{}
     input{
       @include u-width('card-lg');
     }
@@ -31,6 +24,14 @@
       span{
         @include u-border-bottom('2px', 'solid', 'white');
       }
+    }
+  }
+  p{
+    @include u-margin-bottom(0);
+    @include u-font('sans', '2xs');
+    @include u-text('base-darker');
+    a{
+      @include u-text('primary');
     }
   }
 }
