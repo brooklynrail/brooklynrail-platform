@@ -21,7 +21,7 @@ Born in Nigeria and raised in the American Midwest, Odita’s work is also heavi
 
 {{< image media="2020/06/tom-mcglynn" size="sm" >}}
 
-**[Tom McGlynn](www.tommcglynnart.com)** is an artist, writer, and independent curator based in the NYC area. His work is represented in the permanent collections of the Whitney Museum, the Museum of Modern Art, and the Cooper-Hewitt National Design Museum of the Smithsonian. He is the director of Beautiful Fields, an organization dedicated to socially-engaged curatorial projects, and is also currently a visiting lecturer at Parsons/the New School. [](http://www.tommcglynnart.com/) 
+**[Tom McGlynn](www.tommcglynnart.com)** is an artist, writer, and independent curator based in the NYC area. His work is represented in the permanent collections of the Whitney Museum, the Museum of Modern Art, and the Cooper-Hewitt National Design Museum of the Smithsonian. He is the director of Beautiful Fields, an organization dedicated to socially-engaged curatorial projects, and is also currently a visiting lecturer at Parsons/the New School. Tom is a contributor of the Brooklyn Rail.
 
 [Follow Tom McGlynn on Instagram >>](https://www.instagram.com/tom_mcglynn/)
 
