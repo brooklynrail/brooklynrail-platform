@@ -19,6 +19,8 @@ event_platform:
 
 Born in Nigeria and raised in the American Midwest, Odita’s work is also heavily inspired by a sense of dual identity, combining aspects of Western modernity with African culture. His practice speaks to a contrast of cultures and a desire to create something new from a set of distinct parts. In this sense, his paintings, like a stitched or quilted textile, are weavings from different spaces, times and various temperaments, which convey the complexity of culture, identity, and being.
 
+{{< image media="2020/06/tom-mcglynn" size="sm" >}}
+
 **[Tom McGlynn](www.tommcglynnart.com)** is an artist, writer, and independent curator based in the NYC area. His work is represented in the permanent collections of the Whitney Museum, the Museum of Modern Art, and the Cooper-Hewitt National Design Museum of the Smithsonian. He is the director of Beautiful Fields, an organization dedicated to socially-engaged curatorial projects, and is also currently a visiting lecturer at Parsons/the New School. [](http://www.tommcglynnart.com/) 
 
 [Follow Tom McGlynn on Instagram >>](https://www.instagram.com/tom_mcglynn/)
