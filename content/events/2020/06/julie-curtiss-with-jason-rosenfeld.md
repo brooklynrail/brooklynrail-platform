@@ -26,4 +26,8 @@ event_platform:
 
 **[Jason Rosenfeld](https://brooklynrail.org/contributor/Jason-Rosenfeld)**, Ph.D., is Distinguished Chair and Professor of Art History at Marymount Manhattan College. He was co-curator of the exhibitions John Everett Millais (Tate Britain, Van Gogh Museum), Pre-Raphaelites: Victorian Avant-Garde (Tate Britain and the National Gallery of Art, Washington, D.C.), and River Crossings (Olana and Cedar Grove, Hudson and Catskill, New York). He is a Senior Writer and Editor-at-Large for the Brooklyn Rail.
 
-**The event will conclude with a poetry reading from Morgan Vo.**
+
+
+{{< image media="2020/06/morgan-vo-headshot" size="sm" >}}
+
+**Morgan Vo** is a poet and singer. Recent work has appeared in Can We Have Our Ball Back, Counter and The Recluse. He helps organize [G L O S S](https://frogs-of-gloss.github.io/yes/ "https\://frogs-of-gloss.github.io/yes/"), a .pdf press.
