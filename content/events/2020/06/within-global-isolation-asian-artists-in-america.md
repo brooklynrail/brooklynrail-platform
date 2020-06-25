@@ -12,6 +12,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: https://youtu.be/SqaPsZijg5w
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-69-within-global-isolation-tickets-109421398348
 event_platform:
   - zoom
@@ -48,8 +49,6 @@ More at [https://www.withinglobalisolation.com]([https://www.withinglobalisolati
 **Han Hongzheng** (they/them) received their MA from the Institute of Fine Arts, NYU in 2019. During their study at the IFA, Han co-foundIFA Contemporary Asia, the first pan-Asian art forum at NYU. Han is now an independent curator and art researcher working and living in NYC. Focusing on racial identities and body politics, Han’s recent curatorial works includeRunaway World 2020: Ten Chinese Artists Group Show;Beyond Borders: Art in the Post COVID Era, and so on. Han is determined to utilize their personal and educational exploration of racial identity and queerness to develop methodologies that bring exposure to under-represented artists and marginalized groups, as well as establish a sophisticated rejection of an outdated east/west academic dichotomy.
 
 **We will close the conversation with poetry reading from Brendan Lorber.**
-
-
 
 {{< image media="2020/06/brendan-lorber-headshot" size="sm" >}}
 
