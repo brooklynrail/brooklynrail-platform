@@ -13,6 +13,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: https://youtu.be/W-I9ai17Fyk
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-71-amber-jamilla-musser-and-paul-kaplan-tickets-110219467394
 event_platform:
   - zoom
@@ -26,8 +27,6 @@ aliases:
 {{< image media="2020/05/paul-d-miller" size="sm" >}}
 
 **Paul Kaplan** is Professor of Art History at Purchase College, SUNY. He is the author of *The Rise of the Black Magus in Western Art* (1985) and of numerous essays on European images of black Africans and Jews. He served as Project Scholar for the artist Fred Wilson’s “Speak of Me as I Am,” an installation in the American Pavilion at the 2003 Venice Biennale. In 2008 and 2012 he was a fellow of the Du Bois Institute for African and African American Research at Harvard University. He is a major contributor to volumes 2, 3 and 4 of Harvard University Press’s *The* *Image of the Black in Western Art* (new ed., 2010-2012). His new book, *Contraband Guides: Race, Transatlantic Culture and the Arts in the Civil War Era (*Penn State Press, 2020), extends his research into the nineteenth century and American art and literature.​
-
-
 
 {{< image media="2020/05/amanda-gluibizzi-portrait" size="sm" >}}
 
