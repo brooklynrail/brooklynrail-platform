@@ -17,6 +17,8 @@ registration_url: https://www.eventbrite.com/e/110846396556
 event_platform:
   - zoom
 ---
+{{< image media="2020/06/clifford-ross" size="sm" >}}
+
 **[Clifford Ross](http://www.cliffordross.com)** began his career as a painter and sculptor, and in 1994 became deeply involved with photography and other media. His singular goal has been to create work that relates to the sublime in nature. Using both realistic and abstract means to achieve his goals, he often develops radically new approaches to existing media. He began his well-known Hurricane Wave series in 1996, entering the surf during extreme weather, often up to his neck, while tethered to an assistant on land. His photographic techniques expanded over time, using digital methods, inkjet printing, and ultimately developing his unique method of printing on wood. Ross’ works have been exhibited in museums around the world, and are in many collections including the Museum of Modern Art, the Metropolitan Museum of Art, the Philadelphia Museum of Art, the Parrish Art Museum, the J. Paul Getty Museum, and the Museum of Fine Arts, Houston.
 
 **In the Rail:** [Artseen: Jay DeFeo, *Depicting with Abandon*, Sept 2019 ](**<https://brooklynrail.org/2019/09/artseen/Jay-Defeo-The-Language-of-Gesture>**)
