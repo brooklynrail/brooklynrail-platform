@@ -27,3 +27,7 @@ In the Rail:
 * [Threads of Fire and Water and Gold](https://brooklynrail.org/2017/05/artseen/Threads-of-Fire-and-Water-and-Gold)
 
 Associate Professor of Art History at The College of St. Rose, **[Robert R. Shane](https://www.strose.edu/faculty-bio/robert-r-shane/)** is the author of several articles and essays on contemporary art and theory, former Managing Editor of the journal *Art Criticism* published by Stony Brook University, and a regular contributor of texts on contemporary art for books published by Phaidon Press, London. His doctoral dissertation was an investigation of the work of video and performance artist Paul McCarthy, and his current book project in progress is titled *Correcting Mirrors: Shame and Strategies of Empowerment in Contemporary Women’s Art*. He presents his research at academic conferences including those of the College Art Association and The Kristeva Circle. His art criticism has been published in periodicals including *The Brooklyn Rail* and *The Shambhala Times*. Dr. Shane is increasingly engaged in curatorial projects and writes for contemporary art exhibitions.
+
+{{< image media="2020/05/suzanne-bocanegra-photo" size="sm" >}}
+
+**Gabriel Palacios** is a Tucson, Arizona based poet. His most recent work appears or is forthcoming in Fugue, DREGINALD, The Laurel Review and Poetry Northwest. He serves as an associate poetry editor at The Diagram, and as a contributing editor at The Volta.
