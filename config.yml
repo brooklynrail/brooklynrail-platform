@@ -26,10 +26,10 @@ ignoreFiles:
 
 # Permalink Configuration
 permalinks:
-  articles              : ":year/:month/:day/:slug/"
-  donation              : ":slug/"
-  pages                 : ":slug/"
-  events                : "events/:year/:month/:day/:slug/"
+  articles              : ":year/:month/:day/:filename/"
+  donation              : ":filename/"
+  pages                 : ":filename/"
+  events                : "events/:year/:month/:day/:filename/"
 
 # Taxonomies
 taxonomies:
