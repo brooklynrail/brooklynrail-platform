@@ -4,7 +4,7 @@ summary: Painter Julie Curtiss will discuss their body of work with art critic
   and art historian, Jason Rosenfeld of the Brooklyn Rail. We will conclude with
   a poetry reading from Morgan Vo.
 date: 2020-07-02 13:00:00 -0500
-end_date: 2020-06-24 14:00:00 -0500
+end_date: 2020-07-02 14:00:00 -0500
 series: 77
 collections:
   - the-new-social-environment
