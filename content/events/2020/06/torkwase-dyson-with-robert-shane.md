@@ -1,6 +1,6 @@
 ---
 title: Torkwase Dyson with Robert Shane
-summary: Artist and sculptor Torkwase Dyson will discus their body of work with
+summary: Painter and sculptor Torkwase Dyson will discus their body of work with
   art historian, Dr. Robert Shane. We will conclude with a poetry reading from
   Gabriel Palacios.
 date: 2020-06-30 13:00:00 -0500
