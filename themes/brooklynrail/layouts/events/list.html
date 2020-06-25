@@ -77,6 +77,9 @@
   {{/* Gets all $events with a date less than today */}}
   {{- $past_events := where $events ".Date.Unix" "<" now.Unix -}}
 
+  {{/* Gets only the $past_events with a youtube_id */}}
+  {{- $past_events := where $past_events ".Params.youtube_id" "!=" nil -}}
+
   {{- if $past_events -}}
   <section class="past_events">
     <div class="grid-container grid-container-widescreen">
