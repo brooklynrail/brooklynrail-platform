@@ -1,8 +1,8 @@
 ---
-title: Poetry Reading hosted by Vincent Katz
-summary: Join us for a poetry reading with Jennifer Moxley, Elaine Equi, Norma
-  Cole, Kyle Dacuyan, Patricia Spears Jones, Trace Peterson, and Jensön Olin.
-  The event will be led by poet Vincent Katz.
+title: A Collective Reading of Vincent Katz
+summary: Join us for a collective reading of Vincent Katz's "Broadway for Paul,"
+  with poets Elaine Equi, Norma Cole, Kyle Dacuyan, Patricia Spears Jones. The
+  event will be led by author and poet Vincent Katz.
 date: 2020-07-01 13:00:00 -0500
 end_date: 2020-07-01 14:00:00 -0500
 series: 76
@@ -15,7 +15,7 @@ event_producer:
 event_platform:
   - zoom
 ---
-Jennifer Moxley
+Vincent Katz
 
 Elaine Equi
 
@@ -24,9 +24,3 @@ Norma Cole
 Kyle Dacuyan
 
 Patricia Spears Jones
-
-Trace Peterson
-
-Jensön Olin
-
-Vincent Katz
