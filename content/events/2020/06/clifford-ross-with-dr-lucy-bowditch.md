@@ -28,6 +28,6 @@ event_platform:
 
 Her interest in notions of public and private is longstanding. In addition to delivering an initial conference paper “Public and Private in Light of Lingerie,” and consequently publishing an essay on the topic, she taught a course titled “Constructions of Public and Private Space” at the New School and chaired a College Art Association session with the same title. She regularly delivers conference papers on the topic. Dr. Bowditch is currently working on “Courbet in Context: Modernity, Morality, and Lingerie.”
 
-{{< image media="undefined" size="md" >}}
+{{< image media="2020/06/steven-alvarez-headshot" size="sm" >}}
 
 **Steven Alvarez**  is the author of The Codex Mojaodicus, winner of the Fence Modern Poets Prize. He has also authored the novels in verse The Pocho Codex and The Xicano Genome, both published by Editorial Paroxismo, and the chapbooks, Tonalamatl, El Segundo's Dream Notes (Letter \[r] Press), Un/documented, Kentucky (winner of the Rusty Toque Chapbook Prize), and Six Poems from the Codex Mojaodicus (winner of the Seven Kitchens Press Rane Arroyo Poetry Prize). His work has appeared in the Best Experimental Writing, Anomaly, Asymptote, Berkeley Poetry Review, Fence, MAKE, The Offing, and Waxwing. Follow Steven on Instagram @stevenpaulalvarez and Twitter @chastitellez.
