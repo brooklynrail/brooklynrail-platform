@@ -14,6 +14,10 @@
   <div class="event-listing">
     <h2>This week</h2>
     {{ range $future_events }}
+
+      {{- $permalink := .Permalink | relURL -}}
+      {{- $permalink = replace $permalink "/info.html" "" -}}
+
       <div class="event">
         {{- if .Params.collections }}
         <p class="kicker">
@@ -25,7 +29,7 @@
         {{- with .Params.series }}<span class="series"><span>#{{- . -}}</span></span>{{- end -}}
         </p>
         {{- end }}
-        <h3><a href="{{- .Permalink -}}" title="{{- .Params.Title -}}" target="_blank">{{- .Params.Title -}}</a></h3>
+        <h3><a href="{{- $permalink -}}" title="{{- .Params.Title -}}" target="_blank">{{- .Params.Title -}}</a></h3>
         <p class="summary">{{- .Params.Summary -}}</p>
         {{- if .Params.event_sponsor -}}
           {{- $sponsor_copy := $.Site.Data.sponsor_copy.sponsored -}}
@@ -50,8 +54,8 @@
           {{- if gt $start_date.Minute 0 -}}{{- dateFormat "3:04" ((time $start_date).Add ( -3 | duration "hour" )) -}}{{- else -}}{{- dateFormat "3" ((time $start_date).Add ( -3 | duration "hour" )) -}}{{- end -}}&nbsp;{{- $event_start_time_suffix_pt -}}&nbsp;{{- print "Pacific" -}}</p>
         </div>
         <div class="actions">
-          <a class="btn btn-register" title="Register for {{ .Params.Title -}}" href="{{- .Permalink -}}" target="_blank"><span>Register</span></a>
-          <a class="btn" title="Learn more about {{ .Params.Title -}}" href="{{- .Permalink -}}" target="_blank"><span>Details</span></a>
+          <a class="btn btn-register" title="Register for {{ .Params.Title -}}" href="{{- $permalink -}}" target="_blank"><span>Register</span></a>
+          <a class="btn" title="Learn more about {{ .Params.Title -}}" href="{{- $permalink -}}" target="_blank"><span>Details</span></a>
         </div>
       </div>
     {{- end -}}
