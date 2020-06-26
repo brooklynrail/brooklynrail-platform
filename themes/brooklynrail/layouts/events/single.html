@@ -180,7 +180,7 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
                 and produced by {{ if $event_producer.Params.website -}}<a class="u-dotted" href="{{- $event_producer.Params.website -}}" title="{{- $event_producer.Params.name -}}"><strong><span>{{- $event_producer.Params.name -}}</span></strong></a>{{- else -}}<strong><span>{{- $event_producer.Params.name -}}</span></strong>{{- end -}}.
               {{- end }}
               {{- if in .Params.event_producer "the-brooklyn-rail" }}
-                Learn how <a href="{{- "donate" | absURL -}}" title="Donate"><span>you can donate</span></a> {{ ":sparkles:" | emojify -}}{{- ":rainbow:" | emojify -}}
+                Learn how <a href="{{- "donate" | relURL -}}" title="Donate"><span>you can donate</span></a> {{ ":sparkles:" | emojify -}}{{- ":rainbow:" | emojify -}}
               {{- end -}}
             </p>
 
