@@ -17,6 +17,7 @@
 
       {{- $permalink := .Permalink | relURL -}}
       {{- $permalink = replace $permalink "/info.html" "" -}}
+      {{- $permalink = print "https://brooklynrail.org" $permalink -}}
 
       <div class="event">
         {{- if .Params.collections }}
