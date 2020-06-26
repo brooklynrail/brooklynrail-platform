@@ -22,6 +22,8 @@ event_platform:
 
 [*Broadway for Paul* available here >>](https://www.penguinrandomhouse.com/books/607808/broadway-for-paul-by-vincent-katz/)
 
+{{< image media="2020/06/elaine-equi" size="sm" >}}
+
 **Elaine Equi** was born in Oak Park, Illinois, in 1953. She received a BA and an MA in English from Columbia College, where she taught a poetry workshop for several years after graduating. Along with her husband, Jerome Sala, she was active in Chicago’s performance poetry scene. Equi’s first book, Federal Woman, was published in 1978 by Danaides Press. She has written over ten books of poetry, including The Intangibles (Coffee House Press, 2019); Ripple Effect: New and Selected Poems (Coffee House Press, 2007), which was shortlisted for the 2008 International Griffin Poetry Prize; and Voice-Over (Coffee House Press, 1999), chosen by Thom Gunn for the San Francisco State Poetry Award. Equi lives in New York City and teaches in the Master of Fine Arts program at The New School.
 
 {{< image media="2020/05/norma-cole-portrait" size="sm" >}}
