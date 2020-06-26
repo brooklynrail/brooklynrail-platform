@@ -1,7 +1,7 @@
 ---
 title: Clifford Ross with Dr. Lucy Bowditch
 summary: Artist and photographer Clifford Ross will discuss their work and
-  creative life int he context of our new social reality with art historian, Dr.
+  creative life in the context of our new social reality with art historian, Dr.
   Lucy Bowditch. We will conclude the event with a poetry reading from Steven
   Alvarez.
 date: 2020-06-29 13:00:00 -0500
