@@ -1,5 +1,7 @@
 {{- define "main" -}}
-{{- $permalink := replace .Permalink "/info.html" "" -}}
+{{- $permalink := .Permalink | relURL -}}
+{{- $permalink = replace $permalink "/info.html" "" -}}
+
 
 <main class="info" id="main-content" role="main">
 
