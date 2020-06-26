@@ -12,6 +12,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-76-a-collective-reading-of-vincent-katz-tickets-111030174240
 event_platform:
   - zoom
 ---
