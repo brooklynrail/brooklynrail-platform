@@ -16,6 +16,8 @@ registration_url: https://www.eventbrite.com/e/the-new-social-environment-78-odi
 event_platform:
   - zoom
 ---
+{{< image media="2020/06/odili-donald-odita" size="sm" >}}
+
 **[Odili Donald Odita](https://jackshainman.com/artists/odili_donald_odita)** (b. Engu, Nigeria in 1966; lives and works in Philadelphia, PA) is an abstract painter whose work explores color both in the figurative historical context and in the sociopolitical sense. He is best known for his large-scale canvases with kaleidoscopic patterns and vibrant hues, which he uses to reflect the human condition.For Odita, color in itself has the possibility of mirroring the complexity of the world as much as it has the potential for being distinct. In his paintings, we see color interwoven and mixed, becoming an active agent in representing the essential power that light has in identifying the entirety of our world. He thinks of his colors as agents to express thoughts, ideas, and transformational change. Much of his color selection is based on personal memories and created intuitively by hand-mixing, so that no two shades are ever repeated.
 
 Born in Nigeria and raised in the American Midwest, Odita’s work is also heavily inspired by a sense of dual identity, combining aspects of Western modernity with African culture. His practice speaks to a contrast of cultures and a desire to create something new from a set of distinct parts. In this sense, his paintings, like a stitched or quilted textile, are weavings from different spaces, times and various temperaments, which convey the complexity of culture, identity, and being.
