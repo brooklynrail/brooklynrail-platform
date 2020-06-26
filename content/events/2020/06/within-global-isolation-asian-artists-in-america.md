@@ -12,7 +12,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
-youtube_id: https://youtu.be/SqaPsZijg5w
+youtube_id: SqaPsZijg5w
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-69-within-global-isolation-tickets-109421398348
 event_platform:
   - zoom
