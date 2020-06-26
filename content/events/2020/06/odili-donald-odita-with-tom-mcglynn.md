@@ -26,4 +26,6 @@ Born in Nigeria and raised in the American Midwest, Odita’s work is also heavi
 
 [Follow Tom McGlynn on Instagram >>](https://www.instagram.com/tom_mcglynn/)
 
-**The event will conclude with a poetry reading from Mary Reilly.**
+**Mary Reilly’s** poems and translations have appeared in the New York Quarterly, Bowery Women, Soulages: A Century, and most recently the Rattapallax and Bowery Arts & Science collaborative Ghazal “[Poetry is Like Bread](https://poets.org/poem/you-1).” She is also the recipient of two Beesen Fellowships (2016, 2018) and a LeClerc (2018) for her research on contemporary French poetry.
+
+A curator at Lévy Gorvy since 2018, Reilly heads the gallery’s poetry program, commissioning poems for the exhibition catalogues and running readings. In April, she curated a series of video-poems (up now on Lévy Gorvy [social media](https://www.instagram.com/levygorvy/?hl=en)) featuring generous and exciting work by Forrest Gander, Leopoldine Core, Peter Cole, Sylvia Gorelick and more.
