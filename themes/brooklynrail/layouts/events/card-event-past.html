@@ -6,12 +6,12 @@ The following variables transform dates and times for the event `start_date` and
 {{- $end_date := (time .Params.end_date) -}}
 
 <section class="card-event-past h-event">
-  <a class="overlay" href="{{ .RelPermalink }}" title="{{- .Title -}}">
+  <a class="overlay" href="{{ .Permalink | relURL }}" title="{{- .Title -}}">
 
     {{/* Featured Image */}}
     <div class="card_cover">
       {{- if .Params.youtube_id -}}
-      <div class="card_cover_img youtube-card" data-id="{{- .Params.youtube_id -}}" data-link="{{- .Permalink -}}"></div>
+      <div class="card_cover_img youtube-card" data-id="{{- .Params.youtube_id -}}" data-link="{{- .Permalink | relURL -}}"></div>
       {{- end -}}
     </div>
 
