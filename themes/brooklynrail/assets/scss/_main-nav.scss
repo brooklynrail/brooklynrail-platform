@@ -35,7 +35,7 @@
           @include u-text('uppercase');
           @include u-text('medium');
           appearance: none;
-          background: url('/img/select-arrow.svg') no-repeat right center;
+          background: url('/material/img/select-arrow.svg') no-repeat right center;
           background-position-x: 133px;
           @include u-bg('gray-5');
           @include u-radius('sm');

@@ -90,11 +90,11 @@
 
   {{/* Base CSS styles */}}
   {{ "<!-- CSS -->" | safeHTML }}
-  <link rel="stylesheet" href='{{- "dist/styles.css" | absURL -}}' type="text/css" media='all' />
+  <link rel="stylesheet" href='{{- "material/dist/styles.css" | absURL -}}' type="text/css" media='all' />
   {{/* Custom CSS — needs to be included before the base styles */}}
   {{- if $.Params.css -}}
     {{- range $.Params.css -}}
-      {{- $path := (printf "dist/%s" .) | absURL -}}
+      {{- $path := (printf "material/dist/%s" .) | absURL -}}
       <!-- CUSTOM CSS -->
       <link rel="stylesheet" media="all" href="{{- $path -}}" type="text/css"/>
     {{- end -}}
@@ -103,13 +103,13 @@
   {{/* Add to Calendar */}}
   {{- if and (eq .Section "events") -}}
   {{ "<!-- Add to Calendar CSS -->" | safeHTML }}
-  <link href="{{- "dist/add-to-cal.css" | absURL -}}" rel="stylesheet" type="text/css">
+  <link href="{{- "material/dist/add-to-cal.css" | absURL -}}" rel="stylesheet" type="text/css">
   {{ "<!-- Add to Calendar JS -->" | safeHTML }}
   <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
   {{- end }}
 
   {{ "<!-- Font Awesome -->" | safeHTML }}
-  <link href="{{- "dist/fontawesome/css/all.min.css" | absURL -}}" rel="stylesheet" type="text/css">
+  <link href="{{- "material/dist/fontawesome/css/all.min.css" | absURL -}}" rel="stylesheet" type="text/css">
 
 
   {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
