@@ -16,6 +16,8 @@ registration_url: https://www.eventbrite.com/e/the-new-social-environment-76-a-c
 event_platform:
   - zoom
 ---
+{{< image media="2020/06/vincent-katz" size="sm" >}}
+
 **Vincent Katz** is the author of the poetry collections Southness (2016) and Swimming Home (2015) and of the book of translations, The Complete Elegies of Sextus Propertius (2004), which won a National Translation Award from the American Literary Translators Association. He is the editor of Black Mountain College: Experiment in Art (2002), and his writing on contemporary art and poetry has appeared in publications such as Apollo, Art in America, ARTnews, The Brooklyn Rail, and The Poetry Project Newsletter. As curator of the “Readings in Contemporary Poetry” series at Dia: Chelsea, Katz also edited the anthology Readings in Contemporary Poetry (Dia Art Foundation, 2017). He lives in New York City.
 
 [*Broadway for Paul* available here >>](https://www.penguinrandomhouse.com/books/607808/broadway-for-paul-by-vincent-katz/)
