@@ -25,7 +25,7 @@ The following variables transform dates and times for the event `start_date` and
 
         {{- if .Params.Title -}}
         <h2 class="p-name">
-          <a href="{{ .RelPermalink }}" title="{{- .Title -}}">{{- .Title | markdownify -}}</a>
+          <a href="{{ .Permalink | relURL }}" title="{{- .Title -}}">{{- .Title | markdownify -}}</a>
         </h2>
         {{- end -}}
 
@@ -113,7 +113,7 @@ The following variables transform dates and times for the event `start_date` and
 
         <div class="actions">
           {{/* Registration button */}}
-          <a class="u-white register" href="{{- $.Permalink -}}" title="More details"><button class="btn btn-sm btn-register" type="button" name="register"><span>Details</span></button></a>
+          <a class="u-white register" href="{{- $.Permalink | relURL -}}" title="More details"><button class="btn btn-sm btn-register" type="button" name="register"><span>Details</span></button></a>
 
           {{/* Add to Calendar */}}
           <div title="Add to Calendar" class="addeventatc" data-styling="none">
@@ -122,7 +122,7 @@ The following variables transform dates and times for the event `start_date` and
             <span class="end">{{- dateFormat "2006-01-02 03:04 PM" (time $end_date) -}}</span>
             <span class="timezone">America/New_York</span>
             <span class="title">{{- (print $.Params.Title $.Params.deck )| markdownify -}}</span>
-            <span class="description">{{- htmlUnescape (print $.Params.summary (print "\n\nEvent Page: https:" $.Permalink)) | safeHTML -}}</span>
+            <span class="description">{{- htmlUnescape (print $.Params.summary (print "\n\nEvent Page: https:" $.Permalink | relURL)) | safeHTML -}}</span>
             <span class="alarm_reminder">15</span>
           </div>
         </div>
