@@ -20,11 +20,12 @@
   functions = "themes/brooklynrail/static/netlify_functions"
 
 
-
+# Production variables
 [context.production.environment]
   HUGO_VERSION = "0.69.0"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
+  URL = "https://brooklynrail.org"
 
 [context.split1]
 command = "hugo --gc --minify --enableGitInfo"
