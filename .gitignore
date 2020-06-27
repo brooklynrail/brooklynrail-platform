@@ -1,9 +1,9 @@
 node_modules/
 /public/
 /resources/
-themes/brooklynrail/static/dist/
-themes/brooklynrail/static/fonts/merriweather/
-themes/brooklynrail/static/fonts/source-sans-pro/
+themes/brooklynrail/static/material/dist/
+themes/brooklynrail/static/material/fonts/merriweather/
+themes/brooklynrail/static/material/fonts/source-sans-pro/
 
 # Local Netlify folder
 .netlify
