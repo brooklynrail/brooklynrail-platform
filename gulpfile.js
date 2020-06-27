@@ -47,21 +47,21 @@ const PROJECT_JS_SRC = "./themes/brooklynrail/assets/js";
 const VENDOR_CSS_SRC = "./themes/brooklynrail/assets/vendor";
 
 // Images destination
-const IMG_DEST = "./themes/brooklynrail/static/img/uswds";
+const USWDS_IMG_DEST = "./themes/brooklynrail/static/material/img/uswds";
 
 // Fonts destination
-const FONTS_DEST = "./themes/brooklynrail/static/fonts";
+const FONTS_DEST = "./themes/brooklynrail/static/material/fonts";
 
 // Javascript destination
-const JS_DEST = "./themes/brooklynrail/static/dist";
+const JS_DEST = "./themes/brooklynrail/static/material/dist";
 
-// Compiled CSS destination
-const CSS_DEST = "./themes/brooklynrail/static/dist";
+// Compiled destination directory (not committed in GitHub)
+const DIST = "./themes/brooklynrail/static/material/dist";
 
 // Site CSS destination
 // Like the _site/assets/css directory in Jekyll, if necessary.
 // If using, uncomment line 106
-const SITE_CSS_DEST = "./path/to/site/css/destination";
+// const SITE_CSS_DEST = "./path/to/site/css/destination";
 
 /*
 ----------------------------------------
@@ -80,7 +80,7 @@ gulp.task("copy-uswds-fonts", () => {
 });
 
 gulp.task("copy-uswds-images", () => {
-  return gulp.src(`${uswds}/img/**/**`).pipe(gulp.dest(`${IMG_DEST}`));
+  return gulp.src(`${uswds}/img/**/**`).pipe(gulp.dest(`${USWDS_IMG_DEST}`));
 });
 
 gulp.task("copy-uswds-js", () => {
@@ -88,19 +88,19 @@ gulp.task("copy-uswds-js", () => {
 });
 
 gulp.task("copy-vendor-css", () => {
-  return gulp.src(`${VENDOR_CSS_SRC}/**/*.css`).pipe(gulp.dest(`${CSS_DEST}`));
+  return gulp.src(`${VENDOR_CSS_SRC}/**/*.css`).pipe(gulp.dest(`${DIST}`));
 });
 
 gulp.task("copy-js", () => {
-  return gulp.src(`${PROJECT_JS_SRC}/**/*.js`).pipe(gulp.dest(`${CSS_DEST}`));
+  return gulp.src(`${PROJECT_JS_SRC}/**/*.js`).pipe(gulp.dest(`${DIST}`));
 });
 
 gulp.task("copy-fontawesome_css", () => {
-  return gulp.src('./node_modules/@fortawesome/fontawesome-free/css/**/**').pipe(gulp.dest('./themes/brooklynrail/static/dist/fontawesome/css'));
+  return gulp.src('./node_modules/@fortawesome/fontawesome-free/css/**/**').pipe(gulp.dest('./themes/brooklynrail/static/material/dist/fontawesome/css'));
 });
 
 gulp.task("copy-fontawesome_webfonts", () => {
-  return gulp.src('./node_modules/@fortawesome/fontawesome-free/webfonts/**/**').pipe(gulp.dest('./themes/brooklynrail/static/dist/fontawesome/webfonts'));
+  return gulp.src('./node_modules/@fortawesome/fontawesome-free/webfonts/**/**').pipe(gulp.dest('./themes/brooklynrail/static/material/dist/fontawesome/webfonts'));
 });
 
 
@@ -132,7 +132,7 @@ gulp.task("build-sass", function(done) {
       .pipe(sourcemaps.write("."))
       // uncomment the next line if necessary for Jekyll to build properly
       //.pipe(gulp.dest(`${SITE_CSS_DEST}`))
-      .pipe(gulp.dest(`${CSS_DEST}`))
+      .pipe(gulp.dest(`${DIST}`))
   );
 });
 
