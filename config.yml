@@ -1,5 +1,5 @@
 title                   : "The Brooklyn Rail"
-baseURL                 : "/"
+baseURL                 : "https://brooklynrail.org/"
 languageCode            : "en-us"
 theme                   : "brooklynrail"
 themesDir               : "./themes"
