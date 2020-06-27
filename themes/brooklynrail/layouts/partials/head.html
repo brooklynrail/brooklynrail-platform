@@ -12,7 +12,6 @@
   {{- .Hugo.Generator -}}
 
 
-
   {{/*
   ===================================================
   Opengraph Meta Tags
@@ -46,7 +45,7 @@
   <meta property="og:url" content="{{- .Permalink -}}" />
   {{ if $.Params.youtube_id -}}<meta property='og:video' content='https://www.youtube.com/v/{{ $.Params.youtube_id }}' />{{- end }}
   {{- with $card_filename }}
-  <meta property="og:image" content="{{ . | absURL }}" />
+  <meta property="og:image" content="{{ . | relURL }}" />
   {{ end -}}
   {{ "<!-- End of Open Graph tags -->" | safeHTML }}
 
@@ -55,7 +54,7 @@
   <meta name="twitter:site" content="@TheBrooklynRail" />
   <meta name="twitter:creator" content="@TheBrooklynRail" />
   {{- with $card_filename }}
-  <meta property="twitter:image:src" content="{{ . | absURL }}" />
+  <meta property="twitter:image:src" content="{{ . | relURL }}" />
   {{ end -}}
   <meta property="twitter:title" content="{{- $meta_title | default $.Site.Title | markdownify -}}">
   <meta property="twitter:description" content="{{- $meta_description | default $.Site.Params.description | markdownify -}}">
@@ -90,11 +89,11 @@
 
   {{/* Base CSS styles */}}
   {{ "<!-- CSS -->" | safeHTML }}
-  <link rel="stylesheet" href='{{- "dist/styles.css" | absURL -}}' type="text/css" media='all' />
+  <link rel="stylesheet" href='{{- "material/dist/styles.css" | relURL -}}' type="text/css" media='all' />
   {{/* Custom CSS — needs to be included before the base styles */}}
   {{- if $.Params.css -}}
     {{- range $.Params.css -}}
-      {{- $path := (printf "dist/%s" .) | absURL -}}
+      {{- $path := (printf "material/dist/%s" .) | relURL -}}
       <!-- CUSTOM CSS -->
       <link rel="stylesheet" media="all" href="{{- $path -}}" type="text/css"/>
     {{- end -}}
@@ -103,13 +102,13 @@
   {{/* Add to Calendar */}}
   {{- if and (eq .Section "events") -}}
   {{ "<!-- Add to Calendar CSS -->" | safeHTML }}
-  <link href="{{- "dist/add-to-cal.css" | absURL -}}" rel="stylesheet" type="text/css">
+  <link href="{{- "material/dist/add-to-cal.css" | relURL -}}" rel="stylesheet" type="text/css">
   {{ "<!-- Add to Calendar JS -->" | safeHTML }}
   <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
   {{- end }}
 
   {{ "<!-- Font Awesome -->" | safeHTML }}
-  <link href="{{- "dist/fontawesome/css/all.min.css" | absURL -}}" rel="stylesheet" type="text/css">
+  <link href="{{- "material/dist/fontawesome/css/all.min.css" | relURL -}}" rel="stylesheet" type="text/css">
 
 
   {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
