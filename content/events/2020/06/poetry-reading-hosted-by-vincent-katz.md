@@ -39,7 +39,7 @@ In the Rail:
 
 **Kyle Dacuyan** writes poems and makes performance. Recent writing is in Ambit, The Offing, Social Text, and elsewhere, and he's had recent performance pieces at FringeArts, Ars Nova, and Haus für Poesie. He is the Executive Director of The Poetry Project at St. Mark's.
 
-In the Rail: [Are You There? Are We? (Guest Critic, Editor's Message), April 2019](https://brooklynrail.org/2019/04/editorsmessage/Are-You-There-Are-We)
+**In the Rail:** [Are You There? Are We? (Guest Critic, Editor's Message), April 2019](https://brooklynrail.org/2019/04/editorsmessage/Are-You-There-Are-We)
 
 {{< image media="2020/06/patricia-spears-jones" size="sm" >}}
 
