@@ -28,7 +28,7 @@ In the Rail:
 
 {{< image media="2020/06/robert-shane" size="sm" >}}
 
-Associate Professor of Art History at The College of St. Rose, **[Robert R. Shane](https://www.strose.edu/faculty-bio/robert-r-shane/)** is the author of several articles and essays on contemporary art and theory, former Managing Editor of the journal *Art Criticism* published by Stony Brook University, and a regular contributor of texts on contemporary art for books published by Phaidon Press, London. His doctoral dissertation was an investigation of the work of video and performance artist Paul McCarthy, and his current book project in progress is titled *Correcting Mirrors: Shame and Strategies of Empowerment in Contemporary Women’s Art*. He presents his research at academic conferences including those of the College Art Association and The Kristeva Circle. His art criticism has been published in periodicals including *The Brooklyn Rail* and *The Shambhala Times*. Dr. Shane is increasingly engaged in curatorial projects and writes for contemporary art exhibitions.
+**Robert R. Shane** received his Ph.D. in Art History and Criticism from Stony Brook University where he studied with Donald Kuspit. Shane's art criticism has appeared in The Brooklyn Rail and The Shambhala Times and his scholarly research has been published in the journal Hypatia. His current book project in process is Mirroring Mothers: Witnessing Maternal Subjectivity in Contemporary Art. Shane is Associate Professor of Art History at the College of Saint Rose in Albany, New York; former Managing Editor of the journal Art Criticism published by Stony Brook University; and a frequent contributor to art books published by Phaidon Press.
 
 {{< image media="2020/06/gabriel-palacios-headshot-1" size="sm" >}}
 
