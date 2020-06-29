@@ -47,4 +47,6 @@ Born in 1951 in Forrest City, Arkansas, **Patricia Spears Jones** earned her BA 
 
 {{< image media="2020/06/trace-peterson" size="sm" >}}
 
-**Trace Peterson** is a trans woman poet critic. Author of *Since I Moved In (new & revised)* (Chax Press, 2019), she is also founding editor and publisher of *EOAGH*, which has won two Lambda Literary Awards, including the first given in transgender poetry. She is coeditor of the anthology *Troubling the Line: Trans and Genderqueer Poetry and Poetics* (Nightboat Books, 2013) and *Arrive on Wave: Collected Poems of Gil Ott* (Chax Press, 2016). Peterson has taught at Yale University and the Poetry Project, and currently teaches in the Naropa Summer Writing Program and at Hunter College.
+
+
+**Jensön Olin** studied at Cambridge & Oxford before earning his MFA from Naropa University. Olin’s first publication was A VALENTINE TO FRANK O’HARA by Erudite/Fangs/Smokeproof Press. His book BLUE COLLAR HOLIDAY was a collaboration with the painter Larry Rivers & was published by Hanging Loose in 2005. Other solo publications include a book German book titled I’M WORRYING ABOUT MY HEDGE FUND along with THE PILL BOOK from Faux Press, 2008 and the book HOLD TIGHT: THE TRUCK DARLING POEMS from Hanging Loose Press in 2010. He is currently working on a manuscript called THE HUNGER NOTEBOOK: COLLECTED POEMS to be published by Tender Buttons Press. He currently lives alone in the woods of a rural town in New England.
