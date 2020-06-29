@@ -1,4 +1,18 @@
 .info{
+  header{
+    @include u-padding-y(4);
+    .back{
+      @include u-margin-bottom(4);
+      @include u-font('sans', 'md');
+    }
+    p{
+      @include u-margin(0);
+    }
+    .summary{
+      
+    }
+  }
+
   section{
     .content{
       @include u-padding-y(4);
@@ -14,10 +28,6 @@
     }
     p{
       @include u-margin(0);
-      @include u-font('sans', 'lg');
-    }
-    .back{
-      @include u-margin-bottom(4);
       @include u-font('sans', 'md');
     }
 
