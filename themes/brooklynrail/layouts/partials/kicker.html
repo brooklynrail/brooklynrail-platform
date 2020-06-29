@@ -1,0 +1,13 @@
+{{/* Kicker + Collections */}}
+{{- if .Params.collections -}}
+  <p class="kicker">
+  {{- range $collection := (.GetTerms "collections") -}}
+    {{/* Gets the Topics page */}}
+    {{- $collection := $.Site.GetPage (printf "/%s/%s" "collections" $collection.Title) -}}
+    <span class="collection">{{- $collection.Title -}}</span>
+  {{- end -}}
+  {{- with .Params.series -}}
+    <span class="series"><span>#{{- . -}}</span></span>
+  {{- end -}}
+  </p>
+{{- end -}}

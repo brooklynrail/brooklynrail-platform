@@ -21,19 +21,8 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
             </p>
             {{- end -}}
 
-            {{/* Kicker + Collections */}}
-            {{- if .Params.collections -}}
-              <p class="kicker">
-              {{- range $collection := (.GetTerms "collections") -}}
-                {{/* Gets the Topics page */}}
-                {{- $collection := $.Site.GetPage (printf "/%s/%s" "collections" $collection.Title) -}}
-                <span class="collection">{{- $collection.Title -}}</span>
-              {{- end -}}
-              {{- with .Params.series -}}
-                <span class="series"><span>#{{- . -}}</span></span>
-              {{- end -}}
-              </p>
-            {{- end -}}
+
+            {{- partial "kicker" . -}}
 
 
             {{- with .Params.Title -}}
@@ -200,7 +189,7 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
             <div class="content">
 
               <h2>In this talk</h2>
-              <p class="summary">{{- .Params.summary | markdownify -}}</p>
+              <p class="summary">{{- .Summary | markdownify -}}</p>
 
               {{- .Content -}}
 
