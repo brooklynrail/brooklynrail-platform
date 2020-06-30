@@ -36,7 +36,7 @@ In the Rail:
 
 **Kyle Dacuyan** writes poems and makes performance. Recent writing is in Ambit, The Offing, Social Text, and elsewhere, and he's had recent performance pieces at FringeArts, Ars Nova, and Haus für Poesie. He is the Executive Director of The Poetry Project at St. Mark's.
 
-**In the Rail:** [Are You There? Are We? (Guest Critic, Editor's Message), April 2019](https://brooklynrail.org/2019/04/editorsmessage/Are-You-There-Are-We)
+In the Rail**:** [Are You There? Are We? (Guest Critic, Editor's Message), April 2019](https://brooklynrail.org/2019/04/editorsmessage/Are-You-There-Are-We)
 
 {{< image media="2020/06/elaine-equi" size="sm" >}}
 
@@ -44,9 +44,11 @@ In the Rail:
 
 {{< image media="2020/06/patricia-jones-headshot-2" size="sm" >}}
 
-Born in 1951 in Forrest City, Arkansas, **Patricia Spears Jones** earned her BA at Rhodes College in 1973 and her MFA from Vermont College. Spears Jones is the author of four collections of poetry: *A Lucent Fire: New & Selected Poems* (White Pine Press, 2015), *Painkiller* (Tia Chucha Press, 2010), *Femme du Monde* (Tia Chucha Press, 2006), and *The Weather That Kills* (Coffee House Press, 1995). She has been the recipient of numerous awards, including fellowships and grants from the National Endowment for the Arts, the New York Foundation for the Arts, the Foundation for Contemporary Arts, the Goethe Institute, and the Bread Loaf Writers' Conference.A resident of New York City since the 1970s, Spears Jones currently serves as a fellow of the Black Earth Institute and has long been involved with the Poetry Project at St. Marks Church. She has taught at Cave Canem, Parsons School of Design, The New School, Sarah Lawrence College, and Naropa University, and she currently teaches at the City University of New York.
+**Patricia Spears Jones** is a poet, educator, and author of four collections of poetry: *A Lucent Fire: New & Selected Poems* (White Pine Press, 2015), *Painkiller* (Tia Chucha Press, 2010), *Femme du Monde* (Tia Chucha Press, 2006), and *The Weather That Kills* (Coffee House Press, 1995). She has been the recipient of numerous awards, including fellowships and grants from the National Endowment for the Arts, the New York Foundation for the Arts, the Foundation for Contemporary Arts, the Goethe Institute, and the Bread Loaf Writers' Conference. In 2017, Poets & Writers awarded her the Jackson Poetry Prize. A resident of New York City since the 1970s, Spears Jones currently serves as a fellow of the Black Earth Institute and has long been involved with the Poetry Project at St. Marks Church. She has taught at Cave Canem, Parsons School of Design, The New School, Sarah Lawrence College, and Naropa University, and she currently teaches at the City University of New York.
 
 {{< image media="2020/06/jennifer-moxley-headshot" size="sm" >}}
+
+
 
 **Jennifer Moxley** studied literature and writing at UC San Diego and the University of Rhode Island and received her M.F.A. from Brown University in 1994. She is the author of seven books of poetry, most recently *Druthers* (Flood 2018). Her 2014 book, *The Open Secret,* was awarded the Poetry Society of America’s William Carlos Williams award and was a finalist for the Kingsley Tufts Poetry Prize. She has also published a book of essays, a memoir, and three translations from the French. In 2005 she was granted the Lynda Hull Poetry Award from *Denver Quarterly.* Her poem “Behind the Orbits” was included by Robert Creeley in *The Best American Poetry 2002.* She is Professor of Poetry and Poetics at the University of Maine.
 
