@@ -13,6 +13,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: XlHIVWHtEQ8
 registration_url: https://www.eventbrite.com/e/110846396556
 event_platform:
   - zoom
