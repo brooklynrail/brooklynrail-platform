@@ -2,7 +2,7 @@
 title: Michael Joo with Amanda Gluibizzi
 summary: Artist Michael Joo will discuss their work and process with ArtSeen
   editor, Amanda Gluibizzi. We'll conclude with a poetry reading from Sharon
-  Messmer.
+  Mesmer.
 date: 2020-07-07 13:00:00 -0500
 end_date: 2020-07-07 14:00:00 -0500
 series: 80
@@ -21,4 +21,4 @@ event_platform:
 
 **Amanda Gluibizzi** is an ArtSeen editor at The Brooklyn Rail. An art historian, she is the co-director of The New Foundation for Art History and the author of Art and Design in 1960s New York (forthcoming).\
 \
-**Sharon Messmer**
+**Sharon Mesmer** is a Polish-American poet, fiction writer, essayist and professor of creative writing. Her poetry collections are Greetings From My Girlie Leisure Place (Bloof Books, 2015), Annoying Diabetic Bitch(Combo Books, 2008), The Virgin Formica (Hanging Loose Press, 2008), Vertigo Seeks Affinities (chapbook, Belladonna Books, 2007), Half Angel, Half Lunch (Hard Press, 1998) and Crossing Second Avenue (chapbook, ABJ Press, Tokyo, 1997, published to coincide with a month-long reading tour of Japan sponsored by American Book Jam magazine). Her fiction collections are Ma Vie à Yonago (Hachette Littératures, Paris, in French translation by Daniel Bismuth, 2005), In Ordinary Time (Hanging Loose Press, 2005) and The Empty Quarter (Hanging Loose Press, 2005). She teaches in the undergraduate and graduate programs of New York University and The New School. She lives in Brooklyn, New York and is a distant relative of Franz Anton Mesmer, proponent of animal magnetism (or mesmerism) and Otto Messmer, the American animator best known for creating Felix the Cat.
