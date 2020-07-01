@@ -1,7 +1,7 @@
 ---
 title: Michael Joo with Amanda Gluibizzi
 summary: Artist Michael Joo will discuss their work and process with ArtSeen
-  editor, Amanda Gluibizzi. We'll conclude with a poetry reading from Sharon
+  Editor, Amanda Gluibizzi. We'll conclude with a poetry reading from Sharon
   Mesmer.
 date: 2020-07-07 13:00:00 -0500
 end_date: 2020-07-07 14:00:00 -0500
@@ -12,6 +12,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-80-michael-joo-tickets-112035928478
 event_platform:
   - zoom
 ---
