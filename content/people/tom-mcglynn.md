@@ -10,6 +10,7 @@ short_bio: An artist, writer, and independent curator based in the NYC area. His
   lecturer at Parsons/the New School. Tom is a contributor to the Brooklyn Rail.
 portraits:
   - media: 2020/06/tom-mcglynn
+rail_contributor_url: https://brooklynrail.org/contributor/tom-mcglynn
 website: https://www.tommcglynnart.com
 instagram: tom_mcglynn
 ---
