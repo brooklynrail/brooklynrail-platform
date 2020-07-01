@@ -1,5 +1,4 @@
 {{/*
-
 Image Shortcode
 {{< image media="2020/05/jim-melchert" size="md" >}}
 */}}
@@ -14,28 +13,39 @@ Image Shortcode
 {{- $size := (.Get "size") -}}
 
 
-{{/*
-Set the width of the images based on size.
-We'll pass these values into the query string at the end of the image URL.
-Netlify will crop the images to these widths
-https://docs.netlify.com/large-media/transform-images/#examples
-*/}}
-{{- $width := "1000" -}}
-{{- if eq $size "sm" -}}
-  {{- $width = "250" -}}
-{{- else if eq $size "md" -}}
-  {{- $width = "350" -}}
-{{- else if eq $size "lg" -}}
-  {{- $width = "700" -}}
-{{- else if eq $size "xl" -}}
-  {{- $width = "1200" -}}
-{{- end -}}
+{{- template "media" (dict "image" $image "size" $size )  -}}
+
+{{/* Template: media */}}
+{{- define "media" -}}
+
+  {{- $size := .size -}}
+  {{- $image := .image -}}
+
+  {{/*
+  Set the width of the images based on size.
+  We'll pass these values into the query string at the end of the image URL.
+  Netlify will crop the images to these widths
+  https://docs.netlify.com/large-media/transform-images/#examples
+  */}}
+  {{- $width := "1000" -}}
+  {{- if eq $size "sm" -}}
+    {{- $width = "250" -}}
+  {{- else if eq $size "md" -}}
+    {{- $width = "350" -}}
+  {{- else if eq $size "lg" -}}
+    {{- $width = "700" -}}
+  {{- else if eq $size "xl" -}}
+    {{- $width = "1200" -}}
+  {{- end -}}
 
 
-{{/* Checks for the image,
-then passes the image data to the figure template */}}
-{{- with $image -}}
-  {{- template "figure" (dict "image" . "size" $size "width" $width )  -}}
+  {{/* Checks for the image,
+  then passes the image data to the figure template */}}
+  {{- with $image -}}
+    {{- template "figure" (dict "image" . "size" $size "width" $width )  -}}
+  {{- end -}}
+
+
 {{- end -}}
 
 
