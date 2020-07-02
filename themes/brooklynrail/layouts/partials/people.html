@@ -59,19 +59,20 @@
             <ul>
               {{- with $person.Params.website -}}
                 {{- $url := urls.Parse . -}}
-                <li class="website"><a href="{{- . -}}" title="View {{- $person.Params.name -}}'s website">{{- $url.Host -}}</a></li>
+                {{- $host := replace $url.Host "www." "" -}}
+                <li class="website"><a href="{{- . -}}" title="View {{- $person.Params.name -}}'s website">{{- $host -}}</a></li>
               {{- end -}}
 
               {{- with $person.Params.instagram -}}
-                <li class="instagram"><i class="fab fa-instagram"></i> <a href="https://www.instagram.com/{{- . -}}" title="View {{- $person.Params.name -}}'s instagram">@{{- . -}}</a></li>
+                <li class="instagram"><i class="fab fa-instagram"></i>&nbsp;<a href="https://www.instagram.com/{{- . -}}" title="View {{- $person.Params.name -}}'s instagram">@{{- . -}}</a></li>
               {{- end -}}
 
               {{- with $person.Params.twitter -}}
-                <li class="twitter"><i class="fab fa-twitter"></i> <a href="https://www.twitter.com/{{- . -}}" title="View {{- $person.Params.name -}}'s twitter">@{{- . -}}</a></li>
+                <li class="twitter"><i class="fab fa-twitter"></i>&nbsp;<a href="https://www.twitter.com/{{- . -}}" title="View {{- $person.Params.name -}}'s twitter">@{{- . -}}</a></li>
               {{- end -}}
 
               {{- with $person.Params.linkedin -}}
-                <li class="linkedin"><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/{{- . -}}" title="View {{- $person.Params.name -}}'s linkedin">{{- . -}}</a></li>
+                <li class="linkedin"><i class="fab fa-linkedin"></i>&nbsp;<a href="https://www.linkedin.com/{{- . -}}" title="View {{- $person.Params.name -}}'s linkedin">{{- . -}}</a></li>
               {{- end -}}
 
             </ul>
