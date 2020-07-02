@@ -18,6 +18,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-81-carrie-moyer-and-sheila-pepe-tickets-112098591906
 event_platform:
   - zoom
 ---
