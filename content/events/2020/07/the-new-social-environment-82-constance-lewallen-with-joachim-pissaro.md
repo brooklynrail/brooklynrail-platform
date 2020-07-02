@@ -1,5 +1,5 @@
 ---
-title: "The New Social Environment #82: Constance Lewallen with Joachim Pissaro"
+title: Constance Lewallen with Joachim Pissaro
 summary: Curator and art critic Constance Lewallen will discuss their work and
   creative life in the context of our new social reality with Joachim Pissaro.
   We'll conclude with poetry reading from Uche Nduka.
