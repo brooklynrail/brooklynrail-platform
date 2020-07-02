@@ -36,7 +36,10 @@ people:
       contributor of the Rail.
 poets:
   - person: biswamit-dwibedy
-    event_bio: ""
+    event_bio: "Biswamit Dwibedy is the author of six collections of poetry. He is
+      the founder/editor of Anew Print and is currently, he is working on a
+      series of mixed-genre books on medieval architecture in India, and a
+      historical-fiction about immigrant life in early 19th century London. "
 date: 2020-07-08 13:00:00 -0500
 end_date: 2020-07-08 14:00:00 -0500
 series: 81
