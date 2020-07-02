@@ -197,8 +197,9 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
                 {{- .Content -}}
               {{- end -}}
 
+              {{- if .Params.poets -}}
               {{- partialCached "divider" . -}}
-
+              {{- end -}}
 
               {{/* Poets + Bios */}}
               {{- if .Params.poets -}}
