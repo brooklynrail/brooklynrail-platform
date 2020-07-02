@@ -4,6 +4,7 @@
   {{- $page_object := .page -}}
   {{- $people_object := .people -}}
   {{- $img_size := .img_size -}}
+  {{- $format := .format -}}
 
   <div class="people">
   {{- range $people := $people_object -}}
@@ -22,7 +23,7 @@
 
           {{/* Gets the page data for this media in `/content/media` */}}
           {{- $image := $page_object.GetPage (print "media/" $media) -}}
-          {{- template "media" (dict "image" $image "size" $img_size ) -}}
+          {{- template "media" (dict "image" $image "size" $img_size "format" $format ) -}}
         {{- end -}}
 
         {{- with $people.event_bio -}}

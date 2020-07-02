@@ -20,6 +20,7 @@ Image Shortcode
 
   {{- $size := .size -}}
   {{- $image := .image -}}
+  {{- $format := .format -}}
 
   {{/*
   Set the width of the images based on size.
@@ -46,7 +47,7 @@ Image Shortcode
   {{/* Checks for the image,
   then passes the image data to the figure template */}}
   {{- with $image -}}
-    {{- template "figure" (dict "image" . "size" $size "width" $width )  -}}
+    {{- template "figure" (dict "image" . "size" $size "width" $width "format" $format )  -}}
   {{- end -}}
 
 
@@ -58,9 +59,15 @@ Image Shortcode
   {{- $size := .size -}}
   {{- $image := .image -}}
   {{- $width := .width -}}
+  {{- $format := .format -}}
 
   <figure class="media media-{{- $size -}}">
-    <img src="{{- $image.Params.media -}}?nf_resize=fit&w={{- $width -}}" alt="{{- $image.Params.alt -}}" title="{{- $image.Params.alt -}}">
+    {{- $nf_resize := (print "?nf_resize=fit&w=" $width ) -}}
+    {{ if eq $format "square" }}
+      {{- $nf_resize = (print "?nf_resize=smartcrop&w=" $width "&h=" $width ) -}}
+    {{ end }}
+
+    <img src="{{- $image.Params.media -}}{{- $nf_resize -}}" alt="{{- $image.Params.alt -}}" title="{{- $image.Params.alt -}}">
     {{- with $image.Params.caption -}}
       {{- template "figcaption" (dict "caption" . )  -}}
     {{- end -}}
