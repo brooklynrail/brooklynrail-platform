@@ -10,4 +10,5 @@ short_bio: "Jason Rosenfeld, Ph.D., is a Distinguished Chair and Professor of
   and Catskill, New York). He is a Senior Writer and Editor-at-Large for the
   Brooklyn Rail."
 rail_contributor_url: https://brooklynrail.org/contributor/Jason-Rosenfeld
+instagram: jmrnyc1
 ---
