@@ -35,6 +35,8 @@ poets:
     related_links:
       - text: G L O S S
         url: https://frogs-of-gloss.github.io/yes/
+      - url: https://canwehaveourballback.org/
+        text: Can We Have Our Ball Back
 date: 2020-07-02 13:00:00 -0500
 end_date: 2020-07-02 14:00:00 -0500
 series: 77
