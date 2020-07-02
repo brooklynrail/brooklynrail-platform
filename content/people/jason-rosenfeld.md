@@ -9,6 +9,8 @@ short_bio: "Jason Rosenfeld, Ph.D., is a Distinguished Chair and Professor of
   of Art, Washington, D.C.), and River Crossings (Olana and Cedar Grove, Hudson
   and Catskill, New York). He is a Senior Writer and Editor-at-Large for the
   Brooklyn Rail."
+portraits:
+  - media: 2020/06/jason-rosenfeld
 rail_contributor_url: https://brooklynrail.org/contributor/Jason-Rosenfeld
 instagram: jmrnyc1
 ---
