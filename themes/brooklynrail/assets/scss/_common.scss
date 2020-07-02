@@ -188,6 +188,15 @@ section{
 }
 
 
+.divider{
+  svg{
+    @include u-margin-y(5);
+    @include u-margin-x('auto');
+    @include u-width('full');
+  }
+}
+
+
 // ===========================
 // Forms
 form.rail-form {
