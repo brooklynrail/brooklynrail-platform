@@ -1,9 +1,8 @@
 ---
 title: Julie Mehretu, Paul Pfeiffer, and Lawrence Chua with Phong Bui
-summary: Julie Mehretu (painter), Paul Pfeiffer (digital artist), and Lawrence
-  Chua (architect & historian) will discuss their art and work at Denniston Hill
-  with Phong Bui of the Brooklyn Rail. We'll conclude with a poetry reading from
-  Vanessa Jimenez Gabb.
+summary: Julie Mehretu, Paul Pfeiffer, and Lawrence Chua will discuss their work
+  and the ongoing programs of Denniston Hill with Phong Bui of the Brooklyn
+  Rail. We'll conclude with a poetry reading from Vanessa Jimenez Gabb.
 date: 2020-07-06 13:00:00 -0500
 end_date: 2020-07-06 14:00:00 -0500
 series: 79
