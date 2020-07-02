@@ -97,6 +97,75 @@ collections:
         default: ""
         hint: "One-sentence description of the event. (e.g. Artist [Name] and writer [Name] discuss creative life in the context of our new social reality.)"
 
+      - label: "People"
+        name: "people"
+        widget: "list"
+        required: false
+        fields:
+          - label: 'Person'
+            name: 'person'
+            widget: 'relation'
+            collection: "people"
+            searchFields: ["name"]
+            valueField: "{{slug}}"
+            displayFields: ["{{name}}"]
+            hint: "Choose a person"
+          - label: 'Event Specific Bio'
+            name: 'event_bio'
+            widget: 'text'
+            minimal: true
+            hint: "No more than two short paragraphs"
+            required: false
+          - label: 'Related Links'
+            name: 'related_links'
+            widget: 'list'
+            hint: "add no more than three related links for this author"
+            required: false
+            fields:
+              - label: 'Link Text'
+                name: 'text'
+                widget: 'string'
+                hint: "Add a clear headline ot title. Do not include the name of the site you're linking to."
+              - label: 'Link'
+                name: 'url'
+                widget: 'string'
+                hint: "Add the full URL of the link (e.g. https://brooklynrail.org/2020/05/example)"
+
+      - label: "Poets"
+        name: "poets"
+        widget: "list"
+        required: false
+        fields:
+          - label: 'Person'
+            name: 'person'
+            widget: 'relation'
+            collection: "people"
+            searchFields: ["name"]
+            valueField: "{{slug}}"
+            displayFields: ["{{name}}"]
+            hint: "Choose a person. Add new people in 'People'"
+          - label: 'Event Specific Bio'
+            name: 'event_bio'
+            widget: 'text'
+            minimal: true
+            pattern: ['^.{0,280}$', "Event bio needs to be 280 characters or less"]
+            hint: "Bio needs to start with the person's name. Max 280 characters."
+            required: false
+          - label: 'Related Links'
+            name: 'related_links'
+            widget: 'list'
+            hint: "example"
+            required: false
+            fields:
+              - label: 'Link Text'
+                name: 'text'
+                widget: 'string'
+                hint: "Use a clear title or headline"
+              - label: 'Link'
+                name: 'url'
+                widget: 'string'
+                hint: "e.g https://brooklynrail.org/2020/06/editorsmessage/The-Mirror-Displaced-Artists-Writing-on-Art"
+
       - label: "Event Copy"
         name: "body"
         widget: "markdown"
@@ -404,8 +473,8 @@ collections:
       - label: "Short Bio"
         name: "short_bio"
         widget: "text"
-        pattern: ['^.{0,240}$', "Short bio needs to be less than240 characters"]
-        hint: "Add a short description of the person without using their name. [Max 240 characters]"
+        pattern: ['^.{0,800}$', "Short bio needs to be less than 800 characters (~120 words)"]
+        hint: "Add a short description of the person without using their name. [Max 800 characters (~120 words)]"
         required: false
 
       - label: "Portrait Images"
@@ -429,10 +498,16 @@ collections:
         hint: "Example `info@kasmingallery.com`"
         required: false
 
+      - label: "Rail Contributor URL"
+        name: "rail_contributor_url"
+        widget: "string"
+        hint: "Fastest way to find the page is to Google for `AUTHOR NAME Brooklyn Rail` and then enter the URL here (e.g. https://brooklynrail.org/contributor/tom-mcglynn)"
+        required: false
+
       - label: "Website"
         name: "website"
         widget: "string"
-        hint: "Enter the full URL of the organization website. Example: `http://kasmingallery.com/`"
+        hint: "Enter the full URL of the organization website. Example: `https://kasmingallery.com/`"
         required: false
 
       - label: "Instagram"
