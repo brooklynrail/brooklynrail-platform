@@ -26,8 +26,38 @@
           <div class="content">
             <h2>YouTube</h2>
 
-            {{- $copy := (print .Summary "\n\n" "View the event page: " $permalink "\n" "Follow us on Instagram: https://www.instagram.com/brooklynrail/") -}}
-            {{- highlight $copy html "" -}}
+            {{- $youtube_copy := slice "" -}}
+            {{- $youtube_copy = $youtube_copy | append .Summary "\n\n" "Learn more: " $permalink "\n\n" -}}
+
+            {{- if .Params.people -}}
+              {{- range $people := .Params.people -}}
+                {{- with $people.event_bio -}}
+                  {{- $youtube_copy = $youtube_copy | append "~ ~ ~\n\n" -}}
+                  {{- $youtube_copy = $youtube_copy | append ( . | plainify ) -}}
+                  {{- $youtube_copy = $youtube_copy | append "\n\n" -}}
+                {{- end -}}
+              {{- end -}}
+            {{- end -}}
+
+            {{- if .Params.poets -}}
+              {{- $youtube_copy = $youtube_copy | append "~ ~ ~\n\n" "The Rail has a tradition of ending our conversations with a poem, and on this day we were fortunate to have" }}
+              {{ range $i, $poet := .Params.poets -}}
+                {{- $person := $.Site.GetPage (printf "/%s/%s" "people" $poet.person) -}}
+                {{- $youtube_copy = $youtube_copy | append " " $person.Params.name -}}
+              {{- end }}
+              {{- $youtube_copy = $youtube_copy | append " reading." -}}
+              {{- $youtube_copy = $youtube_copy | append "\n\n" -}}
+              {{- range $people := .Params.poets -}}
+                {{- with $people.event_bio -}}
+                  {{- $youtube_copy = $youtube_copy | append "• " ( . | plainify ) -}}
+                  {{- $youtube_copy = $youtube_copy | append "\n\n" -}}
+                {{- end -}}
+              {{- end -}}
+            {{- end -}}
+
+            {{- $youtube_copy = $youtube_copy | append "~ ~ ~\n\n" "Learn more about our conversations with artists at: https://brooklynrail.org/events \n" "Follow us on Instagram: https://www.instagram.com/brooklynrail/" -}}
+
+            {{- highlight (delimit $youtube_copy "") html "" -}}
 
             <h3>Tags</h3>
             <p>Good tags are essential to making our videos more findable in YouTube. We should include tags for</p>
@@ -37,9 +67,23 @@
               <li>key people or topics discussed in the event (e.g. Jonas Mekas, 20th Century Modernism)</li>
             </ul>
 
-            {{- $tags := "Interview, live conversation, artist, artists, poetry, poetry reading, The Brooklyn Rail, Brooklyn Rail, The New Social Environment, Art, contemporary art" -}}
+            {{- $tags := slice "" -}}
+            {{- if .Params.people -}}
+              {{- range $people := .Params.people -}}
+                {{- $person := $.Site.GetPage (printf "/%s/%s" "people" $people.person) -}}
+                {{- $tags = $tags | append ( $person.Params.name | plainify ) ", " -}}
+              {{- end -}}
+            {{- end -}}
+            {{- if .Params.poets -}}
+              {{- range $people := .Params.poets -}}
+                {{- $person := $.Site.GetPage (printf "/%s/%s" "people" $people.person) -}}
+                {{- $tags = $tags | append ( $person.Params.name | plainify ) ", " -}}
+              {{- end -}}
+            {{- end -}}
 
-            {{- highlight $tags html "" -}}
+            {{- $tags = $tags | append "Interview, live conversation, artist, artists, poetry, poetry reading, The Brooklyn Rail, Brooklyn Rail, Phong Bui, The New Social Environment, Art, contemporary art, poet, poetry reading" -}}
+
+            {{- highlight (delimit $tags "") html "" -}}
 
           </div>
         </div>
