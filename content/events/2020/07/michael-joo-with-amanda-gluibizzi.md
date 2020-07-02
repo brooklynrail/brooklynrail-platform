@@ -2,7 +2,7 @@
 title: Michael Joo with Amanda Gluibizzi
 summary: Artist Michael Joo will discuss their work and process with ArtSeen
   Editor, Amanda Gluibizzi. We'll conclude with a poetry reading from Sharon
-  Messmer.
+  Mesmer.
 date: 2020-07-07 13:00:00 -0500
 end_date: 2020-07-07 14:00:00 -0500
 series: 80
