@@ -17,5 +17,5 @@ short_bio: Shaun Leonardo’s multidisciplinary work negotiates societal
 portraits:
   - media: 2020/07/shaun-leonardo
 website: https://elcleonardo.com/
-instagram: "@elcleonardo"
+instagram: elcleonardo
 ---
