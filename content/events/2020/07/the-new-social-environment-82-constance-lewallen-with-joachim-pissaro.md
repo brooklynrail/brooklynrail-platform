@@ -44,4 +44,6 @@ event_producer:
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-82-constance-lewallen-tickets-112131247580
 event_platform:
   - zoom
+aliases:
+  - /events/2020/07/09/the-new-social-environment-82-constance-lewallen-with-joachim-pissaro/
 ---
