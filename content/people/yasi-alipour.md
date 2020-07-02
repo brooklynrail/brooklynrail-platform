@@ -14,5 +14,5 @@ portraits:
 email: ya2370@columbia.edu
 rail_contributor_url: https://brooklynrail.org/contributor/yasaman-alipour
 website: http://www.yasamanalipour.com
-instagram: https://www.instagram.com/yasialipour/
+instagram: yasialipour
 ---
