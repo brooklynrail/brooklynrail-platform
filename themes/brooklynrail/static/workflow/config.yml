@@ -115,7 +115,6 @@ collections:
             widget: 'text'
             minimal: true
             hint: "No more than two short paragraphs"
-            required: false
           - label: 'Related Links'
             name: 'related_links'
             widget: 'list'
