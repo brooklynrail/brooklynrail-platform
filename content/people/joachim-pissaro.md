@@ -13,5 +13,7 @@ short_bio: "Joachim Pissarro is the Bershad Professor of Art History and
   2017, Pissarro à Eragny at the Musée du Luxembourg and Olga Picasso at the
   Musée Picasso, Paris."
 portraits:
-  - media: 2020/07/joachim-pissaro
+  - media: 2020/07/joachim-pissaro-1
+rail_contributor_url: https://brooklynrail.org/contributor/joachim-pissarro
+website: http://joachimpissarro.com
 ---
