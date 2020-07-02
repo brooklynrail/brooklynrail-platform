@@ -320,6 +320,7 @@
     }
 
     .event-logistics{
+      clear:both;
       @include u-margin-y(5);
       @include u-margin-x('auto');
       @include u-padding-y('205');
