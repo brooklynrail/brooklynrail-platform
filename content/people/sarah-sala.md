@@ -9,5 +9,5 @@ short_bio: Sarah M. Sala is a poet and educator. She is the founding director of
   BOMB, Michigan Quarterly Review, and The Brooklyn Rail.
 portraits:
   - media: 2020/07/sara-sala
-website: www.sarahsala.com
+website: https://sarahsala.com/
 ---
