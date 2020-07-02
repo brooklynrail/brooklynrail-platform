@@ -5,17 +5,16 @@
 
   // Single Event Page / Header
   header {
-    @include u-margin-bottom(5);
-    @include u-padding-y(4);
+    @include u-margin-bottom(0);
+    @include u-padding-y(3);
     @include u-text('center');
     @include at-media('tablet') {
+      @include u-margin-bottom(5);
       @include u-padding-y(0);
     }
 
     h1{
       @include u-line-height('sans', 2);
-      @include u-position('relative');
-      @include u-z(100);
       strong{
         @include u-text('bold');
       }
@@ -23,7 +22,7 @@
 
     .event-details{
       @include u-margin-top(2);
-      @include u-margin-bottom(1);
+      @include u-margin-bottom(3);
       @include at-media('tablet') {
         @include u-margin-bottom(3);
       }
@@ -215,6 +214,109 @@
 
     .content{
       @include u-font('sans', 'md');
+    }
+
+    .people{
+      @include u-padding-top(3);
+      .person{
+        @include u-padding-y(3);
+        &:first-child{
+          @include u-padding-top(0);
+        }
+        &:last-child{
+          @include u-padding-bottom(0);
+        }
+
+        h3{
+          @include u-margin-top(0);
+          @include u-margin-bottom(2);
+          @include u-text('medium');
+        }
+
+        .short_bio{
+          @include u-margin-bottom('105');
+        }
+
+        .related_links{
+          @include u-margin-bottom('105');
+          @include u-font('sans', 'sm');
+          strong{
+            @include u-text('medium');
+          }
+          p{
+            @include u-margin-bottom('05');
+            &:last-child{
+              @include u-margin-bottom(0);
+            }
+          }
+          h4{
+            @include u-margin-y(0);
+            @include u-margin-bottom('05');
+            @include u-text('medium');
+            @include u-display('inline-block');
+            @include u-font('sans', 'sm');
+          }
+          ul{
+            @include u-margin-y(1);
+            @include u-line-height('sans', 2);
+            @include u-text('normal');
+            // @include add-list-reset;
+            li{
+              @include u-margin-bottom('05');
+              i{
+                @include u-position('relative');
+                @include u-top('2px');
+              }
+              a{
+                @include u-text('no-underline');
+                &:hover{
+                  @include u-text('underline');
+                }
+              }
+              span{
+                @include u-font('sans', '2xs');
+                @include u-text('thin');
+              }
+            }
+          }
+        }
+      }
+    }
+
+    .poets{
+      @include u-margin-bottom(6);
+      .lead{
+        @include u-margin-bottom(3);
+        @include u-text('center');
+        @include u-text('thin');
+        @include u-font('sans', 'lg');
+        strong{
+          @include u-text('normal');
+        }
+      }
+      .person{
+        @include u-padding-y(2);
+        h3{
+          @include u-font('sans', 'md');
+          @include u-display('none');
+        }
+        .media{
+          img{
+            @include u-circle('full');
+            @include u-border('2px', 'gray-warm-10', 'solid');
+          }
+        }
+        .content{
+          @include u-font('sans', 'sm');
+        }
+        .related_links{
+          h4{
+            @include u-font('sans', 'xs');
+          }
+          @include u-font('sans', 'xs');
+        }
+
+      }
     }
 
     .event-logistics{

@@ -191,11 +191,44 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
               <h2>In this talk</h2>
               <p class="summary">{{- .Summary | markdownify -}}</p>
 
-              {{- .Content -}}
+              {{- partial "people" (dict "page" . "people" .Params.people "img_size" "sm") -}}
+
+              {{- if .Content -}}
+                {{- .Content -}}
+              {{- end -}}
+
+              {{- partialCached "divider" . -}}
+
+
+              {{/* Poets + Bios */}}
+              {{- if .Params.poets -}}
+              <div class="poets">
+
+                {{- $len := (sub (len .Params.poets) 1) -}}
+
+                <div class="lead">
+                  <p>The <em>Rail</em> has a tradition of ending our conversations with a poem, and we’re fortunate to have
+                  {{ range $i, $poet := .Params.poets -}}
+                    {{- if (ne $i 0) }}, {{ end -}}
+                    {{- if and (eq $i $len) (ne $i 0) }} and {{ end -}}
+                    {{- $person := $.Site.GetPage (printf "/%s/%s" "people" $poet.person) -}}
+                    <strong>{{- $person.Params.name }}</strong>
+                  {{- end }}
+                  reading
+                  {{ if and (eq .Date.Month now.Month) (eq .Date.Day now.Day) }}
+                  today
+                  {{- end -}}
+                  .</p>
+                </div>
+
+                {{- partial "people" (dict "page" . "people" .Params.poets "img_size" "2xs" ) -}}
+
+              </div>
+              {{- end -}}
 
               {{/* Sponsored Collection */}}
               {{- if .Params.collections -}}
-                <p class="collection">
+                <p class="collection hidden">
                   <strong>{{- $event_collection.Title -}}</strong> — {{ $event_collection.Summary -}}
                 </p>
               {{- end -}}

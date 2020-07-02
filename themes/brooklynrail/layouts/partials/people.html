@@ -1,0 +1,86 @@
+{{/* People + Bios */}}
+{{- if .people -}}
+
+  {{- $page_object := .page -}}
+  {{- $people_object := .people -}}
+  {{- $img_size := .img_size -}}
+
+  <div class="people">
+  {{- range $people := $people_object -}}
+
+    {{- if $people.event_bio -}}
+      <div class="person">
+        {{- $person := $page_object.GetPage (printf "/%s/%s" "people" $people.person) -}}
+
+        <h3>{{- $person.Params.name -}}</h3>
+
+        {{/* {{ $person.Params.event_bio }} */}}
+        {{/* Get the portraits */}}
+        {{- if $person.Params.portraits -}}
+          {{- $portraits := $person.Params.portraits -}}
+          {{- $media := (index $portraits 0).media -}}
+
+          {{/* Gets the page data for this media in `/content/media` */}}
+          {{- $image := $page_object.GetPage (print "media/" $media) -}}
+          {{- template "media" (dict "image" $image "size" $img_size ) -}}
+        {{- end -}}
+
+        {{- with $people.event_bio -}}
+          <div class="short_bio content">
+            {{- . | markdownify -}}
+          </div>
+        {{- end -}}
+
+
+        {{- if $person.Params.rail_contributor_url -}}
+          <div class="related_links content">
+            <p><strong>In the Rail:</strong> <a href="{{ $person.Params.rail_contributor_url -}}" title="{{ $person.Params.name }} in the Rail">{{ $person.Params.name -}}</a></p>
+          </div>
+        {{- end -}}
+
+
+        {{- if $people.related_links -}}
+          <div class="related_links content">
+            <h4>Related</h4>
+            <ul>
+              {{- range $people.related_links -}}
+                {{- $url := urls.Parse .url -}}
+                {{- $host := replace $url.Host "www." "" -}}
+                <li><a href="{{ .url }}" title="Read {{ .text }}">{{ .text }}</a> {{ if $host -}}<span><em>({{ $host }})</em></span>{{- end -}}</li>
+              {{- end -}}
+            </ul>
+          </div>
+        {{- end -}}
+
+        {{/* Checks if any of the social fields exists before spitting out the list */}}
+        {{- if or $person.Params.website $person.Params.instagram $person.Params.twitter $person.Params.linkedin -}}
+          <div class="related_links">
+            <h4>More on {{ $person.Params.name -}}</h4>
+            <ul>
+              {{- with $person.Params.website -}}
+                {{- $url := urls.Parse . -}}
+                <li class="website"><a href="{{- . -}}" title="View {{- $person.Params.name -}}'s website">{{- $url.Host -}}</a></li>
+              {{- end -}}
+
+              {{- with $person.Params.instagram -}}
+                <li class="instagram"><i class="fab fa-instagram"></i> <a href="https://www.instagram.com/{{- . -}}" title="View {{- $person.Params.name -}}'s instagram">@{{- . -}}</a></li>
+              {{- end -}}
+
+              {{- with $person.Params.twitter -}}
+                <li class="twitter"><i class="fab fa-twitter"></i> <a href="https://www.twitter.com/{{- . -}}" title="View {{- $person.Params.name -}}'s twitter">@{{- . -}}</a></li>
+              {{- end -}}
+
+              {{- with $person.Params.linkedin -}}
+                <li class="linkedin"><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/{{- . -}}" title="View {{- $person.Params.name -}}'s linkedin">{{- . -}}</a></li>
+              {{- end -}}
+
+            </ul>
+          </div>
+        {{- end -}}
+
+      </div>
+    {{- end -}}
+  {{- end -}}
+  </div>
+
+{{- end -}}
