@@ -446,6 +446,8 @@ collections:
     create: true # Allow users to create new documents in this collection
     identifier_field: name # sets the field that is used to create the slug
     slug: "{{slug}}"
+    editor:
+      preview: false
 
     fields: # The fields for each document, usually in frontmatter
       - label: "Display Name"
@@ -541,6 +543,8 @@ collections:
     create: true # Allow users to create new documents in this collection
     identifier_field: name # sets the field that is used to create the slug
     slug: "{{slug}}"
+    editor:
+      preview: false
 
     fields: # The fields for each document, usually in frontmatter
       - label: "Organization Name"
