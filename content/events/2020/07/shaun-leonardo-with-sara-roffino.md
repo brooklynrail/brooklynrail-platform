@@ -1,7 +1,7 @@
 ---
 title: Shaun Leonardo with Sara Roffino
 summary: Performance artist Shaun Leonardo will discuss their work and process
-  with ArtSeen editor Sarah Roffino of the Brooklyn Rail. We'll conclude with a
+  with ArtSeen editor Sara Roffino of the Brooklyn Rail. We'll conclude with a
   poetry reading from Sarah Sala.
 people:
   - person: shaun-leonardo
@@ -41,6 +41,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-83-shaun-leonardo-tickets-112121839440
 event_platform:
   - zoom
 ---
