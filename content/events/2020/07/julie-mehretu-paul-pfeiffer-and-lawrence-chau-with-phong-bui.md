@@ -1,8 +1,8 @@
 ---
 title: Julie Mehretu, Paul Pfeiffer, and Lawrence Chua with Phong Bui
 summary: Julie Mehretu, Paul Pfeiffer, and Lawrence Chua will discuss their work
-  and the ongoing programs of Denniston Hill with Phong Bui of the Brooklyn
-  Rail. We'll conclude with a poetry reading from Vanessa Jimenez Gabb.
+  and the ongoing programs of Denniston Hill with Rail publisher, Phong Bui.
+  We'll conclude with a poetry reading from Vanessa Jimenez Gabb.
 date: 2020-07-06 13:00:00 -0500
 end_date: 2020-07-06 14:00:00 -0500
 series: 79
@@ -27,6 +27,14 @@ event_platform:
 {{< image media="2020/07/lawrence-chua" size="sm" >}}
 
 **Lawrence Chua** is a historian of the global modern built environment with an emphasis on Asian architecture and urban culture. He is an assistant professor at the School of Architecture, Syracuse University and was most recently a fellow at the International Institute of Asian Studies in Leiden and the Freiburg Institute for Advanced Studies at the Albert-Ludwigs-Universität, Freiburg. His writing has appeared in the *Journal of the Society of Architectural Historians, Journal of Architecture, Journal of Urban History, Traditional Dwellings and Settlements Review,* and *Senses and Society.* He received his PhD in the History of Architecture and Urban Development from Cornell University in 2012. He is the author of a novel, *Gold by the Inch,* and edited the collection *Collapsing New Buildings.*
+
+{{< image media="2020/06/phong-bui" size="sm" >}}
+
+**Phong H. Bui** is an artist, writer, independent curator, Publisher and Artistic Director of the Brooklyn Rail, the River Rail, Rail Editions, and Rail Curatorial Projects. From 2007 to 2010 he served as Curatorial Advisor at MoMA PS1. His recent projects include Artists Need to Create on the Same Scale that Society Has the Capacity to Destroy, an ongoing curatorial project that was exhibited in 2019 as an official Collateral Event of the Venice Biennale and at Colby Museum in Waterville, Maine. He is a trustee of Studio in a School, the Louis Comfort Tiffany Foundation, Anthology Film Archives, the Third Rail, the Miami Rail, Sharpe-Walentas Studio Program, Second Shift Studio Space of Saint Paul, AICA (2007-2020), and is co-founder of the Monira Foundation, a non-profit which aims to curate ongoing exhibitions and public programming at Mana Contemporary in Jersey City and beyond. Forthcoming projects include the Detroit Rail, the first U.S. retrospective of Jonas Mekas, and Occupy Industry City: Artists Need to Create on the Same Scale that Society Has the Capacity to Destroy, Year 3.
+
+**In the Rail:** <https://brooklynrail.org/contributor/phong-bui>
+
+**Website: <http://www.phongbui.net/index>**
 
 {{< image media="2020/07/vanessa-jimenez-gabb-1" size="sm" >}}
 
