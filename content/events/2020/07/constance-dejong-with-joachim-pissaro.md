@@ -1,9 +1,9 @@
 ---
-title: Constance DeJong with Joachim Pissaro
+title: Constance DeJong with Joachim Pissarro
 summary: Artist, writer, and performer, Constance DeJong will discuss her work
   and creative process in the context of our new social reality with art
-  historian and curator, Joachim Pissaro of the Brooklyn Rail. We'll conclude
-  with a poetry reading from Uche Nduka
+  historian, curator, and Rail consulting editor Joachim Pissarro. We'll
+  conclude with a poetry reading from Uche Nduka
 people:
   - person: constance-dejong
     event_bio: Constance DeJong is a New York-based artist who has exhibited and
@@ -43,4 +43,6 @@ event_producer:
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-82-constance-dejong-tickets-112131247580
 event_platform:
   - zoom
+aliases:
+  - /events/2020/07/09/constance-dejong-with-joachim-pissaro/
 ---
