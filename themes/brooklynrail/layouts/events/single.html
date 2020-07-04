@@ -77,10 +77,40 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
         </div>
 
         <div class="grid-row">
+          <div class="grid-col-12 tablet:grid-col-4 tablet:grid-offset-4">
+
+            <form class="rail-form" id="reg-form">
+              <fieldset>
+                <div class="fields">
+                  <legend>Legend</legend>
+
+                  <div class="group">
+                    <div class="field">
+                      <label for="email">Email<span class="usa-hint"></span></label>
+                      <div class="prefix">
+                        <span>#</span>
+                        <input type="text" placeholder="email" id="reg_email" />
+                      </div>
+                    </div>
+
+                    <div class="field">
+                      <button class="btn btn-md" type="button" id="btn-reg"><span>Reg</span></button>
+                    </div>
+                  </div>
+                </div>
+              </fieldset>
+            </form>
+
+          </div>
+        </div>
+        <div class="grid-row">
           <div class="grid-col-12">
 
             {{- if eq $future_event true -}}
             <div class="actions">
+
+
+
 
               {{- if .Params.event_platform_url -}}
                 {{- $event_platform_url := .Params.event_platform_url -}}
