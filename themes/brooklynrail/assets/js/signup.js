@@ -25,6 +25,7 @@ jQuery(document).ready(function($) {
 		var dataJson = JSON.stringify(data);
 
 		var netlify_function = window.location.hostname + '/.netlify/functions/signup';
+		console.log('netlify_function');
 		console.log(netlify_function);
 
 		// create a stripe session by talking to our netlify function
