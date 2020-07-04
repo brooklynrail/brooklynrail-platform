@@ -1,0 +1,177 @@
+<!-- sidebar start -->
+<aside>
+  <ul>
+  {{ $currentPage := . }}
+  {{ range (where .Site.Menus.main "section" "handbook") }}
+    ooo
+    {{ if .HasChildren }}
+      <li class="{{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
+        <a href="#">
+          {{ .Pre }}
+          <span>{{ .Name }}</span>
+        </a>
+        <ul class="sub-menu">
+          {{ range .Children }}
+            <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
+              <a href="{{ .URL }}">{{ .Name }}</a>
+            </li>
+          {{ end }}
+        </ul>
+      </li>
+    {{ else }}
+      <li>
+        <a href="{{ .URL }}">
+          {{ .Pre }}
+          <span>{{ .Name }}</span>
+        </a>
+      </li>
+    {{ end }}
+  {{ end }}
+  </ul>
+</aside>
+
+<nav class="sidebar-nav">
+    {{ $currentPage := . }}
+    {{ range .Site.Menus.handbook }}
+    <a class="sidebar-nav-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+    {{ end }}
+</nav>
+
+
+{{- $pages := where $.Site.RegularPages "Section" "handbook" -}}
+{{- $pages = sort ($pages) ".Params.weight" "desc" -}}
+{{ $current_section := .CurrentSection }}
+{{ range $pages }}
+
+  <p>{{ .Kind }}</p>
+  {{/* Skips over the pages that are section index pages (_index.md) */}}
+  {{/* {{- if eq $current_section .CurrentSection -}} */}}
+  {{- if not (eq .Kind "section") -}}
+    <li class="usa-sidenav__item">
+      <a class="" href="{{- .Permalink | relURL -}}" title="{{- .Title | markdownify -}}">{{- .Title | markdownify -}}</a>
+    </li>
+  {{- end -}}
+
+{{ end }}
+
+{{/* {{- template "guide-section" (dict "page" . "guide" .CurrentSection "current_page" $current_page ) -}} */}}
+
+{{ $current_page := . }}
+{{ $theSection := .CurrentSection.Section }}
+
+{{- define "guide-section" -}}
+  {{- $page := .page -}}
+  {{ range $page.Sections }}
+    <li>
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+        {{/* {{ template "treesub" . }} */}}
+    </li>
+  {{ end }}
+{{- end -}}
+
+
+===================
+{{/* File driven navigation section — */}}
+{{- define "nav-section" -}}
+  {{/* Defines all the pages in this guide */}}
+  {{- $guide := .guide -}}
+  {{- $guide_section := . -}}
+
+  {{ range $guide_section }}
+  <li>
+      ss<a href="{{ .URL }}">{{ .Name }}</a>
+      {{/* {{ template "treesub" . }} */}}
+  </li>
+  {{ end }}
+
+  {{/* Gets the URL of the current page in the guide */}}
+  {{- $current_url := $guide_section.current_page.Permalink -}}
+
+  {{/* Outputs the "Overview" link to the top of the guide nav */}}
+  <li class="usa-sidenav__item">
+    <a class="{{- if eq $guide_section.current_page.Kind "section" -}}usa-current{{- end -}}" href="{{- $guide_section.current_page.CurrentSection.Permalink | relURL -}}" title="{{- .Title -}}">Overview</a>
+  </li>
+
+  {{/* Loops through all the guide pages (files) */}}
+  {{- range $page := sort ($guide_section) ".Params.weight" "desc" -}}
+
+    {{/* Skips over the pages that are section index pages (_index.md) */}}
+    {{- if not (eq .Kind "section") -}}
+      <li class="usa-sidenav__item">
+        <a class="{{- if eq $guide_section.current_page.Permalink .Permalink -}}usa-current{{- end -}}" href="{{- .Permalink | relURL -}}" title="{{- .Title | markdownify -}}">{{- .Title | markdownify -}}</a>
+      </li>
+    {{- end -}}
+  {{- end -}}
+
+{{- end -}}
+
+
+{{ define "treesub" }}
+  {{ if .HasChildren }}
+  <ul class="sub-menu">
+      {{ range .Children }}
+      <li>
+          {{ .Pre }}
+          <a href="{{ .URL }}">{{ .Name }}</a>
+          {{ template "treesub" . }}
+      </li>
+      {{ end }}
+  </ul>
+  {{ end }}
+{{ end }}
+<aside>
+
+  <nav aria-label="Secondary navigation">
+    {{ $handbook := where $.Site.RegularPages "Section" "handbook"}}
+
+    {{- range $handbook.GroupByParam "section" -}}
+      <ul class="usa-sidenav">
+      {{ range .Pages }}
+        <li class="usa-sidenav__item">
+          <a href="{{- .Permalink -}}" title="{{- .Title -}}">{{- .Title -}}</a>
+        </li>
+      {{ end }}
+      </ul>
+    {{- end -}}
+
+    <ul class="usa-sidenav">
+      <li class="usa-sidenav__item">
+        <a href="">Parent link</a>
+      </li>
+      <li class="usa-sidenav__item">
+        <a href="" class="usa-current">Current page</a><ul class="usa-sidenav__sublist">
+          <li class="usa-sidenav__item">
+            <a href="">Child link</a>
+          </li>
+          <li class="usa-sidenav__item">
+            <a href="">Child link</a>
+            <ul class="usa-sidenav__sublist">
+              <li class="usa-sidenav__item">
+                <a href="">Grandchild link</a>
+              </li>
+              <li class="usa-sidenav__item">
+                <a href="">Grandchild link</a>
+              </li>
+              <li class="usa-sidenav__item">
+                <a href="" class="usa-current">Grandchild link</a>
+              </li>
+            </ul>
+          </li>
+          <li class="usa-sidenav__item">
+            <a href="">Child link</a>
+          </li>
+          <li class="usa-sidenav__item">
+            <a href="">Child link</a>
+          </li>
+          <li class="usa-sidenav__item">
+            <a href="">Child link</a>
+          </li>
+        </ul>
+      </li>
+      <li class="usa-sidenav__item">
+        <a href="">Parent link</a>
+      </li>
+    </ul>
+  </nav>
+
+</aside>

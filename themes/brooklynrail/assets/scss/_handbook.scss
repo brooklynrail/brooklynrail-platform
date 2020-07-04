@@ -35,7 +35,10 @@
       }
     }
   }
+
   aside{
+    // @include u-padding('105');
+    // @include u-bg('gray-3');
     nav{
       h3{
         @include u-margin-y(0);
@@ -43,21 +46,17 @@
         @include u-text('medium');
         @include u-font('sans', 'md');
       }
-      ul{
-        @include add-list-reset;
-        @include u-margin-y('05');
-        @include u-margin-bottom(3);
-        @include u-font('sans', 'sm');
-        li{
-          @include u-padding-y(1);
-          @include u-padding-left(1);
-          @include u-border-top('1px', 'solid', 'gray-20');
-          &:first-child{
-            @include u-border-top(0);
-          }
-          a{
-            @include u-text('no-underline');
-          }
+      a{
+        @include u-text('black');
+        &:hover{
+          @include u-text('indigo-warm-60v');
+        }
+      }
+      .usa-current{
+        @include u-text('indigo-warm-60v');
+        @include u-text('medium');
+        &:after{
+          @include u-bg('indigo-warm-60v');
         }
       }
     }

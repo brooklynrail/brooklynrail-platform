@@ -1,5 +1,5 @@
 ---
-title: Getting access
+title: Events
 summary: How to get access to edit the Rail site
 section: production
 sub-section: newsletters
