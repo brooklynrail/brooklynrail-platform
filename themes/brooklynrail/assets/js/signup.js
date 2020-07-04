@@ -24,11 +24,13 @@ jQuery(document).ready(function($) {
 		};
 		var dataJson = JSON.stringify(data);
 
+		var netlify_function = window.location.hostname + '/.netlify/functions/signup';
+		console.log(netlify_function);
 
 		// create a stripe session by talking to our netlify function
 		$.ajax({
 			type: "POST",
-			url: "./.netlify/functions/signup",
+			url: netlify_function,
 			data: dataJson,
 			error: function(e) {
     		console.log(e);
