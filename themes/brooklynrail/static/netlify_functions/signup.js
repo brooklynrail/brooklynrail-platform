@@ -61,7 +61,8 @@ exports.handler = async event => {
     const data = JSON.parse(event.body);
 
     // await sendThankYouEmail(data);
-
+    console.log('Airtable Data');
+    console.log(data);
     if (data.receiveUpdates) {
       await saveUser(data);
     }
