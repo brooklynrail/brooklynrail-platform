@@ -1,7 +1,7 @@
 ---
-name: Joachim Pissaro
+name: Joachim Pissarro
 first_name: Joachim
-last_name: Pissaro
+last_name: Pissarro
 pronouns: He/him
 short_bio: "Joachim Pissarro is the Bershad Professor of Art History and
   Director of the Hunter College Galleries, Hunter College, CUNY/City University
