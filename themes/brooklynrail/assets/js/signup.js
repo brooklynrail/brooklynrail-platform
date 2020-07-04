@@ -28,7 +28,7 @@ jQuery(document).ready(function($) {
 		// create a stripe session by talking to our netlify function
 		$.ajax({
 			type: "POST",
-			url: "https://brooklynrail.netlify.app/.netlify/functions/signup",
+			url: "./.netlify/functions/signup",
 			data: dataJson,
 			error: function(e) {
     		console.log(e);
