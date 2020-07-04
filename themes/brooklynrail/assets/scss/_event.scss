@@ -300,14 +300,22 @@
           @include u-font('sans', 'md');
           @include u-display('none');
         }
-        .media{
-          img{
-            @include u-circle('full');
-            @include u-border('2px', 'gray-warm-10', 'solid');
-          }
-        }
+
+
         .content{
           @include u-font('sans', 'sm');
+
+          .media{
+            img{
+              @include u-circle('full');
+              @include u-border('2px', 'gray-warm-10', 'solid');
+            }
+          }
+
+          .short_bio{
+            @include u-margin-top('105');
+          }
+
         }
         .related_links{
           h4{

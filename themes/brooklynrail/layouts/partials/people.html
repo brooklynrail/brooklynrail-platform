@@ -15,22 +15,25 @@
 
         <h3>{{- $person.Params.name -}}</h3>
 
-        {{/* {{ $person.Params.event_bio }} */}}
-        {{/* Get the portraits */}}
-        {{- if $person.Params.portraits -}}
-          {{- $portraits := $person.Params.portraits -}}
-          {{- $media := (index $portraits 0).media -}}
+        <div class="content">
+          {{/* {{ $person.Params.event_bio }} */}}
+          {{/* Get the portraits */}}
+          {{- if $person.Params.portraits -}}
+            {{- $portraits := $person.Params.portraits -}}
+            {{- $media := (index $portraits 0).media -}}
 
-          {{/* Gets the page data for this media in `/content/media` */}}
-          {{- $image := $page_object.GetPage (print "media/" $media) -}}
-          {{- template "media" (dict "image" $image "size" $img_size "format" $format ) -}}
-        {{- end -}}
+            {{/* Gets the page data for this media in `/content/media` */}}
+            {{- $image := $page_object.GetPage (print "media/" $media) -}}
+            {{- template "media" (dict "image" $image "size" $img_size "format" $format ) -}}
+          {{- end -}}
 
-        {{- with $people.event_bio -}}
-          <div class="short_bio content">
-            {{- . | markdownify -}}
-          </div>
-        {{- end -}}
+          {{- with $people.event_bio -}}
+            <div class="short_bio">
+              {{- . | markdownify -}}
+            </div>
+          {{- end -}}
+          
+        </div>
 
 
         {{- if $person.Params.rail_contributor_url -}}
