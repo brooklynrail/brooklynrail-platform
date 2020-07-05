@@ -25,7 +25,7 @@ jQuery(document).ready(function($) {
 		var dataJson = JSON.stringify(data);
 		console.log('dataJson');
 		console.log(dataJson);
-		var netlify_function = window.location.hostname + '/.netlify/functions/signup/';
+		var netlify_function = 'https://'+window.location.hostname + '/.netlify/functions/signup/';
 		console.log('netlify_function');
 		console.log(netlify_function);
 
