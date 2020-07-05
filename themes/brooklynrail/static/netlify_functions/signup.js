@@ -65,7 +65,7 @@ exports.handler = async event => {
     console.log('Airtable Data');
     console.log(data);
     if (data) {
-      await saveUser(data);
+      // await saveUser(data);
     }
     // send a thank you email
     // sign person
