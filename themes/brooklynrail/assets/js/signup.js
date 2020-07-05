@@ -23,8 +23,9 @@ jQuery(document).ready(function($) {
 			email: $('#reg_email').val()
 		};
 		var dataJson = JSON.stringify(data);
-
-		var netlify_function = window.location.hostname + '/.netlify/functions/signup';
+		console.log('dataJson');
+		console.log(dataJson);
+		var netlify_function = window.location.hostname + '/.netlify/functions/signup/';
 		console.log('netlify_function');
 		console.log(netlify_function);
 
