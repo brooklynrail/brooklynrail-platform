@@ -31,9 +31,10 @@ jQuery(document).ready(function($) {
 		// create a stripe session by talking to our netlify function
 		$.ajax({
 			type: "POST",
-			url: netlify_function,
+			url: window.location.hostname + '/.netlify/functions/signup',
 			data: dataJson,
 			error: function(e) {
+				console.log('error');
     		console.log(e);
   		},
 			success: function(data) {
