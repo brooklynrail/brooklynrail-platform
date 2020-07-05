@@ -23,11 +23,7 @@ jQuery(document).ready(function($) {
 			email: $('#reg_email').val()
 		};
 		var dataJson = JSON.stringify(data);
-		console.log('dataJson');
-		console.log(dataJson);
 		var netlify_function = 'https://'+window.location.hostname + '/.netlify/functions/signup/';
-		console.log('netlify_function');
-		console.log(netlify_function);
 
 		// create a stripe session by talking to our netlify function
 		$.ajax({
@@ -35,7 +31,7 @@ jQuery(document).ready(function($) {
 			url: netlify_function,
 			data: dataJson,
 			error: function(e) {
-				console.log('error');
+				console.log('ajax error');
     		console.log(e);
   		},
 			success: function(data) {
