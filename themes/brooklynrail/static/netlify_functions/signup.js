@@ -43,13 +43,17 @@ const saveUser = async ({ email }) => {
   return new Promise((resolve, reject) => {
     const { AT_API_KEY: AIRTABLE_JZ, BASE, TABLE } = process.env;
     //
+    console.log('email');
+    console.log(email);
+
     Airtable.configure({
       endpointUrl: 'https://api.airtable.com',
       apiKey: process.env.AIRTABLE_JZ
     })
     //
-    const base = Airtable.base(BASE);
-    base(TABLE).create({ email }, err => {
+
+    const base = Airtable.base('appGUDrjD5Cifat4M');
+    base('Table 1').create({ email }, err => {
       if (err) return reject(err);
 
       resolve();
