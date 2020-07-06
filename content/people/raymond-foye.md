@@ -14,4 +14,8 @@ short_bio: Raymond Foye is a writer, curator, editor, and publisher, and is a
   Belson’s work. Currently he is preparing an edition of Gregory Corso’s last
   poems (1980-2000) for New Directions, and the Collected Poems of Rene Ricard,
   to be published in 2020.
+portraits:
+  - media: 2020/05/raymond-foye
+rail_contributor_url: https://brooklynrail.org/contributor/raymond-foye
+website: https://raymondfoye.info
 ---
