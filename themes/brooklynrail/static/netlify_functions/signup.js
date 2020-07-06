@@ -54,6 +54,7 @@ const saveUser = async ({ email }) => {
 
       resolve();
     });
+
   });
 };
 
@@ -64,8 +65,8 @@ exports.handler = async event => {
     // await sendThankYouEmail(data);
     console.log('Airtable Data');
     console.log(data);
-    if (data) {
-      // await saveUser(data);
+    if (data.email) {
+      await saveUser(data);
     }
     // send a thank you email
     // sign person
@@ -73,7 +74,7 @@ exports.handler = async event => {
     return {
       statusCode: 200,
       body: JSON.stringify({
-        message: "Done!!!"
+        message: "Registration Done!!!"
       })
     };
   } catch (e) {
