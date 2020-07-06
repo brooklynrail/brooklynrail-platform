@@ -45,4 +45,5 @@ event_platform:
   - zoom
 aliases:
   - /events/2020/07/09/constance-dejong-with-joachim-pissaro/
+  - /events/2020/07/09/constance-dejong-with-joachim-pissarro/
 ---
