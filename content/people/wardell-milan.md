@@ -13,6 +13,8 @@ short_bio: Wardell Milan is a visual artist who makes works on paper, painting,
   itself and move about the world freely. Milan studied photography at the
   University of Tennessee and Yale University. Milan lives and works in New
   York.
+portraits:
+  - media: 2020/07/wardell-milan
 website: https://wardellmilan.com/
 instagram: wardell_milan
 ---
