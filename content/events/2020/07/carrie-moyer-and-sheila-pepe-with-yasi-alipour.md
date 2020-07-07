@@ -1,8 +1,8 @@
 ---
 title: Carrie Moyer and Sheila Pepe with Yasi Alipour
-summary: Artists Carie Moyer and Sheila Pepe will discuss their work and process
-  with artist and Rail contributor, Yasi Alipour. We'll conclude with a poetry
-  reading from Biswamit Dwibedy.
+summary: Artists Carrie Moyer and Sheila Pepe will discuss their work and
+  process with artist and Rail contributor, Yasi Alipour. We'll conclude with a
+  poetry reading from Biswamit Dwibedy.
 people:
   - person: carrie-moyer
     event_bio: "Carrie Moyer is an artist and writer. Her work has been exhibited
