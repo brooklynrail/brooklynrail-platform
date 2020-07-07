@@ -53,3 +53,10 @@ HUGO_ENABLEGITINFO = "true"
   for = "/*"
     [headers.values]
     Access-Control-Allow-Origin = "https://brooklynrail.org"
+
+# Netlify DEV
+[dev]
+  framework = "#custom"
+  command = "npm start" # Command to start your dev server
+  targetPort = 1313 # port where the application will be available
+  port = 8888 # The port that the netlify dev will be accessible on

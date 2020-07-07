@@ -15,6 +15,8 @@ event_producer:
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-79-julie-mehretu-paul-pfeiffer-lawrence-chau-tickets-112030654704
 event_platform:
   - zoom
+aliases:
+  - /events/2020/07/06/julie-mehretu-paul-pfeiffer-and-lawrence-chau-with-phong-bui/
 ---
 {{< image media="2020/07/julie-mehretu" size="sm" >}}
 
