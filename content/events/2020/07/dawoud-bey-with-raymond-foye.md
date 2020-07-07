@@ -29,9 +29,9 @@ people:
       preparing an edition of Gregory Corso’s last poems (1980-2000) for New
       Directions, and the Collected Poems of Rene Ricard, to be published in
       2020.
-date: 2020-07-14 13:00:00 -0500
-end_date: 2020-07-14 14:00:00 -0500
-series: 85
+date: 2020-07-15 13:00:00 -0500
+end_date: 2020-07-15 14:00:00 -0500
+series: 86
 collections:
   - the-new-social-environment
 event_organizer:
