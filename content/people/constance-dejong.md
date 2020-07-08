@@ -12,4 +12,6 @@ short_bio: Constance DeJong is a New York-based artist who has exhibited and
   audio-text installations in Beacon, NY, London, and Seattle. She has published
   several books of fiction, including her celebrated Modern Love, I.T.I.L.O.E,
   and Speakchamber.
+portraits:
+  - media: 2020/07/constance-dejong
 ---
