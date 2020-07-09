@@ -24,6 +24,12 @@ people:
       Money, has been published in 20 foreign-language editions. He has
       performed on NPR's The Moth. Hall lives in New York City where he's
       completing a memoir of his childhood and his first podcast series."
+poets:
+  - person: adjua-greaves
+    event_bio: Adjua Gargi Nzinga Greaves writes ethnobotanical literary criticism
+      and collages detritus into heraldic devices. Former curator at The Poetry
+      Project, Site Director of Wendy's Subway, and Rauschenberg
+      artist-in-residence, she is now Young Mother of The Florxal Review.
 date: 2020-07-16 13:00:00 -0500
 end_date: 2020-07-16 14:00:00 -0500
 series: 87
