@@ -29,6 +29,12 @@ people:
       preparing an edition of Gregory Corso’s last poems (1980-2000) for New
       Directions, and the Collected Poems of Rene Ricard, to be published in
       2020.
+poets:
+  - person: david-mills
+    event_bio: David Mills' poems have appeared in Ploughshares, Brooklyn Rail, and
+      Jubilat, among others. The Juilliard School of Drama commissioned and
+      produced his The Serpent and the Dove. He has recorded his poetry on ESPN
+      and RCA Records.
 date: 2020-07-13 13:00:00 -0500
 end_date: 2020-07-13 14:00:00 -0500
 series: 84
