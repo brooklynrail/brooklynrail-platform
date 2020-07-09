@@ -2,7 +2,7 @@
 title: Dawoud Bey with Lyle Rexer
 summary: American photographer, Dawoud Bey will discuss their work and process
   with critic, curator, and writer, Lyle Rexer. We'll conclude with a poetry
-  reading from Rodrigo Toscano.
+  reading from Farnoosh Fathi.
 people:
   - person: dawoud-bey
     event_bio: Dawoud Bey is a photographer and educator whose portraits of people,
