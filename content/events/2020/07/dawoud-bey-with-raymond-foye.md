@@ -1,5 +1,5 @@
 ---
-title: Dawoud Bey with Raymond Foye
+title: Dawoud Bey with Lyle Rexer
 summary: American photographer, Dawoud Bey will discuss their work and process
   with critic, curator, and writer, Lyle Rexer. We'll conclude with a poetry
   reading from Rodrigo Toscano.
@@ -16,19 +16,16 @@ people:
       Art, among many others. In 1998, he joined the faculty of Columbia College
       Chicago, where he is currently a professor in the Department of
       Photography and a former Distinguished College Artist.
-  - person: raymond-foye
-    event_bio: Raymond Foye is a writer, curator, editor, and publisher, and is a
-      Consulting Editor of the Brooklyn Rail. He has worked for City Lights
-      Books, New Directions, Petersburg Press, and Hanuman Books. From 1990-95
-      he worked as director of exhibitions and publications at Gagosian Gallery
-      in New York. His recent projects include The Collected Poems of Bob
-      Kaufman (co-edited with Tate Swindell) for New Directions (2019). He
-      organized the first exhibition of the works of legendary underground
-      filmmaker and painter Jordan Belson for Matthew Marks Gallery in 2019, and
-      is working on a comprehensive monograph on Belson’s work. Currently he is
-      preparing an edition of Gregory Corso’s last poems (1980-2000) for New
-      Directions, and the Collected Poems of Rene Ricard, to be published in
-      2020.
+  - person: lyle-rexer
+    event_bio: "Lyle Rexer is an independent critic, curator and writer. He is the
+      author of numerous books, catalogue essays, and articles on art,
+      architecture, and photography. He contributes to many publications and
+      writes a regular column for Photograph magazine. He lives in Brooklyn and
+      teaches at the School of Visual Arts. Publications include The Edge of
+      Vision: The Rise of Abstraction in Photography; Jonathan Lerman: The
+      Drawings of An Artist with Autism; How to Look At Outsider Art;
+      Photography’s Antiquarian Avant-Garde: The New Wave in Old Processes,
+      among many others."
 date: 2020-07-15 13:00:00 -0500
 end_date: 2020-07-15 14:00:00 -0500
 series: 86
