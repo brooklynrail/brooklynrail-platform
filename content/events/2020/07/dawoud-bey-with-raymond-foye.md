@@ -26,6 +26,12 @@ people:
       Drawings of An Artist with Autism; How to Look At Outsider Art;
       Photography’s Antiquarian Avant-Garde: The New Wave in Old Processes,
       among many others."
+poets:
+  - person: farnoosh-fathi
+    event_bio: 'Farnoosh Fathi is the author of "Great Guns," editor of "Joan
+      Murray: Drafts, Fragments, and Poems," and founder of the Young Artists
+      Language and Devotion Alliance. She has taught at The Poetry Project,
+      Poets House, Columbia University and Stanford Online High School.'
 date: 2020-07-15 13:00:00 -0500
 end_date: 2020-07-15 14:00:00 -0500
 series: 86
