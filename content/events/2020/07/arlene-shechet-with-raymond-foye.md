@@ -44,7 +44,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
-registration_url: https://www.eventbrite.com/manage/events/113024344858/details
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-84-arlene-shechet-tickets-113024344858
 event_platform:
   - zoom
 ---
