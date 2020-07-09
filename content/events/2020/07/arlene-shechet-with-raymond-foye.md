@@ -44,6 +44,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/manage/events/113024344858/details
 event_platform:
   - zoom
 ---
