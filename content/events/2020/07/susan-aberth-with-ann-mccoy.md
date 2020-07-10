@@ -58,6 +58,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-86-spirit-voices-womens-voices-tickets-113094051352
 event_platform:
   - zoom
 ---
