@@ -11,8 +11,18 @@ people:
       Institute of Fine Arts, New York University, and her Ph.D. from the
       Graduate Center, City University of New York. In addition to her 2004 book
       Leonora Carrington: Surrealism, Alchemy and Art (Lund Humphries),
-      forthcoming is Leonora Carrington: The Tarot (Fulgur Press, 2020)
-      co-authored with Mexican curator Tere Arcq. "
+      forthcoming is  Leonora Carrington: The Tarot (Fulgur Press, 2020)
+      co-authored with Mexican curator Tere Arcq.  She has contributed to
+      Surrealism and Magic, Guggenheim Venice (2021); Seeking the Marvelous:
+      Ithell Colquhoun, British Women and Surrealism (Fulgur Press, 2021), Agnes
+      Pelton: Desert Transcendentalist (Phoenix Art Museum, 2019), Surrealism,
+      Occultism and Politics: In Search of the Marvelous (Routledge Press,
+      2018), Leonora Carrington: Cuentos Magicos (Museo de Arte Moderno & INBA,
+      Mexico City, 2018), Unpacking: The Marciano Collection (Delmonico Books,
+      Prestel, 2017), and Leonora Carrington and the International Avant-Garde
+      (Manchester University Press, 2017), as well as to Abraxas: International
+      Journal of Esoteric Studies, Black Mirror, and Journal of Surrealism of
+      the Americas. "
   - person: ann-mccoy
     event_bio: Ann McCoy is a New York-based sculptor, painter, and art critic, and
       Editor at Large for the Brooklyn Rail. She lectured at the Yale School of
