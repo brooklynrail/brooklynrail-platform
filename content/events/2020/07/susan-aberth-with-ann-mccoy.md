@@ -7,23 +7,14 @@ summary: Art historian, Susan Aberth and artist and critic, Ann McCoy will
   We'll close with a poetry reading from Rodrigo Toscano.
 people:
   - person: susan-aberth
-    event_bio: "Susan L. Aberth is the Edith C. Blum Professor of the Art History
-      and Visual Culture Program at Bard College. She received her M.A. from the
+    event_bio: >-
+      Susan L. Aberth is the Edith C. Blum Professor of the Art History and
+      Visual Culture Program at Bard College. She received her M.A. from the
       Institute of Fine Arts, New York University, and her Ph.D. from the
-      Graduate Center, City University of New York. In addition to her 2004 book
-      Leonora Carrington: Surrealism, Alchemy and Art (Lund Humphries),
-      forthcoming is  Leonora Carrington: The Tarot (Fulgur Press, 2020)
-      co-authored with Mexican curator Tere Arcq.  She has contributed to
-      Surrealism and Magic, Guggenheim Venice (2021); Seeking the Marvelous:
-      Ithell Colquhoun, British Women and Surrealism (Fulgur Press, 2021), Agnes
-      Pelton: Desert Transcendentalist (Phoenix Art Museum, 2019), Surrealism,
-      Occultism and Politics: In Search of the Marvelous (Routledge Press,
-      2018), Leonora Carrington: Cuentos Magicos (Museo de Arte Moderno & INBA,
-      Mexico City, 2018), Unpacking: The Marciano Collection (Delmonico Books,
-      Prestel, 2017), and Leonora Carrington and the International Avant-Garde
-      (Manchester University Press, 2017), as well as to Abraxas: International
-      Journal of Esoteric Studies, Black Mirror, and Journal of Surrealism of
-      the Americas. "
+      Graduate Center, City University of New York. 
+
+
+      In addition to her 2004 book Leonora Carrington: Surrealism, Alchemy and Art (Lund Humphries), forthcoming is Leonora Carrington: The Tarot (Fulgur Press, 2020) co-authored with Mexican curator Tere Arcq.  She has contributed to Surrealism and Magic, Guggenheim Venice (2021); Seeking the Marvelous: Ithell Colquhoun, British Women and Surrealism (Fulgur Press, 2021), Agnes Pelton: Desert Transcendentalist (Phoenix Art Museum, 2019), Surrealism, Occultism and Politics: In Search of the Marvelous (Routledge Press, 2018), Leonora Carrington: Cuentos Magicos (Museo de Arte Moderno & INBA, Mexico City, 2018), Unpacking: The Marciano Collection (Delmonico Books, Prestel, 2017), and Leonora Carrington and the International Avant-Garde (Manchester University Press, 2017), as well as to Abraxas: International Journal of Esoteric Studies, Black Mirror, and Journal of Surrealism of the Americas. 
   - person: ann-mccoy
     event_bio: Ann McCoy is a New York-based sculptor, painter, and art critic, and
       Editor at Large for the Brooklyn Rail. She was awarded a 2019 John Simon
@@ -35,7 +26,7 @@ people:
       his Tiber project, “Triumphs and Laments”, which was published in the
       Brooklyn Rail. Ann McCoy’s work is included in the Metropolitan Museum of
       Art, the Los Angeles County Museum of Art, the Hirshhorn Museum and
-      Sculpture Garden, the Museum of Modern Art,the San Francisco Museum of
+      Sculpture Garden, the Museum of Modern Art, the San Francisco Museum of
       Modern Art, and the Whitney Museum of American Art, among others. McCoy
       has received awards from the John Simon Guggenheim Fellowship, the Asian
       Cultural Council, the Pollock Krasner Foundation, the Adolph and Esther
