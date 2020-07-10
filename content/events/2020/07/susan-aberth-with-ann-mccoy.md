@@ -1,9 +1,10 @@
 ---
 title: Spirit Voices, Women’s Voices
 summary: Art historian, Susan Aberth and artist and critic, Ann McCoy will
-  discuss the work and life of Swedish artist and mystic, Hilma af Klint and
-  Mexican surrealist painter, Leonora Carrington. We'll close with a poetry
-  reading from Rodrigo Toscano.
+  discuss why women artists whose work deals with Spiritualism and esoteric
+  content is now coming into focus and why contemporary women artists still face
+  the same kind of devaluation of their work that deals with the spiritual.
+  We'll close with a poetry reading from Rodrigo Toscano.
 people:
   - person: susan-aberth
     event_bio: "Susan L. Aberth is the Edith C. Blum Professor of the Art History
@@ -60,6 +61,3 @@ event_producer:
 event_platform:
   - zoom
 ---
-**A little more about this talk:** 
-
-As the recent Hilma af Klint exhibition at the Guggenheim museum amply demonstrated by breaking all previous attendance records, the public is interested in the spiritual aspects of modern art. Additionally, the growing spate of shows featuring women artists whose work deals with esoteric content, such as Georgiana Houghton, Emma Kunst, Leonora Carrington, Agnes Pelton, Remedios Varo, Niki de Saint Phalle, and many others, indicates that a serious sea change has taken place. Mapping their personal explorations of Spiritualism, dream realms and visionary experiences, these women were interested in a broad range of both Eastern and Western spiritual traditions, the occult, and also the natural world. Rather than embracing male dominated movements, from which they were often excluded, they found their own artistic paths. Due to this fact, and the male dominated art world’s dismissal of the spiritual as feminine, the work of these artists has been long overlooked. This conversation will focus on why is their work now coming into focus and garnering interest and also, why do contemporary women artists still face the same kind of devaluation of their work that deals with the spiritual.
