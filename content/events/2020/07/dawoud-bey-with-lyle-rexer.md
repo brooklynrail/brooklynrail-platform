@@ -44,4 +44,6 @@ event_producer:
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-85-dawoud-bey-tickets-113027510326
 event_platform:
   - zoom
+aliases:
+  - /events/2020/07/15/dawoud-bey-with-lyle-rexer/
 ---
