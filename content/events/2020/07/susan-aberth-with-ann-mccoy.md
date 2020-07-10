@@ -24,7 +24,7 @@ people:
       of Art, the Hirshhorn Museum and Sculpture Garden, the Museum of Modern
       Art,the San Francisco Museum of Modern Art, and the Whitney Museum of
       American Art, among others. She is known for her large scale drawings,
-      sculpture, and work with projection
+      sculpture, and work with projection.
 poets:
   - person: rodrigo-toscano
     event_bio: Rodrigo Toscano’s poetry has appeared in Voices Without Borders,
