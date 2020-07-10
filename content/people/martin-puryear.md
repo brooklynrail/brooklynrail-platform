@@ -12,4 +12,6 @@ short_bio: "Over the last five decades Martin Puryear has created a body of work
   Africa, where he educated himself in the region’s indigenous crafts. Since
   then he has continued to travel extensively, observing a range of cultures and
   their unique approaches to object making. "
+portraits:
+  - media: 2020/07/martin-puryear
 ---
