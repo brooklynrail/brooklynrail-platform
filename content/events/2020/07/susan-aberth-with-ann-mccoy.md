@@ -24,6 +24,12 @@ people:
       Art,the San Francisco Museum of Modern Art, and the Whitney Museum of
       American Art, among others. She is known for her large scale drawings,
       sculpture, and work with projection
+poets:
+  - person: rodrigo-toscano
+    event_bio: Rodrigo Toscano’s poetry has appeared in Voices Without Borders,
+      Diasporic Avant Gardes, and Imagined Theatres, among others. He is an
+      advocate for environmental & labor justice, health & safety culture, and
+      immigrant worker rights. His newest book of poetry is "In Range".
 date: 2020-07-15 13:00:00 -0500
 end_date: 2020-07-15 14:00:00 -0500
 series: 86
