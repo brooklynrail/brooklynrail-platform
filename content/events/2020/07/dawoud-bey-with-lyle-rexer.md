@@ -32,8 +32,8 @@ poets:
       Murray: Drafts, Fragments, and Poems,” and founder of the Young Artists
       Language and Devotion Alliance. She has taught at The Poetry Project,
       Poets House, Columbia University and Stanford Online High School."
-date: 2020-07-15 13:00:00 -0500
-end_date: 2020-07-15 14:00:00 -0500
+date: 2020-07-14 13:00:00 -0500
+end_date: 2020-07-14 14:00:00 -0500
 series: 85
 collections:
   - the-new-social-environment
