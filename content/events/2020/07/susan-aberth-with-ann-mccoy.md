@@ -25,16 +25,23 @@ people:
       the Americas. "
   - person: ann-mccoy
     event_bio: Ann McCoy is a New York-based sculptor, painter, and art critic, and
-      Editor at Large for the Brooklyn Rail. She lectured at the Yale School of
-      Drama for 10 years, and taught in the Art History Department at Barnard
-      College for 20 years.  Ann did a conversation with William Kentridge at
-      the American Academy in Rome for his Tiber project, “Triumphs and
-      Laments”, which was published in the Brooklyn Rail. Ann McCoy’s work is
-      included in the Metropolitan Museum of Art, the Los Angeles County Museum
-      of Art, the Hirshhorn Museum and Sculpture Garden, the Museum of Modern
-      Art,the San Francisco Museum of Modern Art, and the Whitney Museum of
-      American Art, among others. She is known for her large scale drawings,
-      sculpture, and work with projection.
+      Editor at Large for the Brooklyn Rail. She was awarded a 2019 John Simon
+      Guggenheim Foundation Fellowship. She lectured on art history, the history
+      of projection, and mythology, in the graduate design section of the Yale
+      School of Drama from 2010 to 2020, and taught in the Art History
+      Department at Barnard College from 1980 through 2000.  Ann McCoy did a
+      conversation with William Kentridge at the American Academy in Rome for
+      his Tiber project, “Triumphs and Laments”, which was published in the
+      Brooklyn Rail. Ann McCoy’s work is included in the Metropolitan Museum of
+      Art, the Los Angeles County Museum of Art, the Hirshhorn Museum and
+      Sculpture Garden, the Museum of Modern Art,the San Francisco Museum of
+      Modern Art, and the Whitney Museum of American Art, among others. McCoy
+      has received awards from the John Simon Guggenheim Fellowship, the Asian
+      Cultural Council, the Pollock Krasner Foundation, the Adolph and Esther
+      Gottlieb Foundation Award, the Award in the Visual Arts, the Prix de Rome,
+      the National Endowment for the Art, the Berliner Kunstler Program
+      D.A.A.D.. She is known for her large scale drawings, sculpture, and work
+      with projection.
 poets:
   - person: rodrigo-toscano
     event_bio: Rodrigo Toscano’s poetry has appeared in Voices Without Borders,
