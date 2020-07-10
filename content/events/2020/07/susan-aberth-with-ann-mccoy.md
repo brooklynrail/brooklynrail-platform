@@ -1,9 +1,9 @@
 ---
 title: Susan Aberth with Ann McCoy
-summary: Art historian, Susan Aberth and sculptor, painter, and art critic, Ann
-  McCoy will discuss the work and life of Swedish artist and mystic, Hilma af
-  Klint and Mexican surrealist painter, Leonora Carrington. We'll close with a
-  poetry reading from Rodrigo Toscano.
+summary: Art historian, Susan Aberth and artist and critic, Ann McCoy will
+  discuss the work and life of Swedish artist and mystic, Hilma af Klint and
+  Mexican surrealist painter, Leonora Carrington. We'll close with a poetry
+  reading from Rodrigo Toscano.
 people:
   - person: susan-aberth
     event_bio: "Susan L. Aberth is the Edith C. Blum Professor of the Art History
