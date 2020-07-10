@@ -16,5 +16,5 @@ short_bio: Ann McCoy is a New York-based sculptor, painter, and art critic, and
 portraits:
   - media: 2020/07/ann-mccoy
 rail_contributor_url: https://brooklynrail.org/contributor/ann-mccoy
-website: www.annmccoy.com
+website: https://annmccoy.com
 ---
