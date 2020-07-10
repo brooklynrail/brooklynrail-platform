@@ -12,6 +12,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: 9PAjmCOhAsI
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-80-michael-joo-tickets-112035928478
 event_platform:
   - zoom
