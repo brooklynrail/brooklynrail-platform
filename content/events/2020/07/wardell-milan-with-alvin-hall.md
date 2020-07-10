@@ -38,6 +38,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-87-wardell-milan-tickets-113096061364
 event_platform:
   - zoom
 ---
