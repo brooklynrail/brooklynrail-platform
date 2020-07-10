@@ -1,5 +1,5 @@
 ---
-title: Susan Aberth with Ann McCoy
+title: Spirit Voices, Women’s Voices
 summary: Art historian, Susan Aberth and artist and critic, Ann McCoy will
   discuss the work and life of Swedish artist and mystic, Hilma af Klint and
   Mexican surrealist painter, Leonora Carrington. We'll close with a poetry
