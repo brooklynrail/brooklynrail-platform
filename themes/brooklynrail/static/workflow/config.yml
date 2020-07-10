@@ -97,6 +97,12 @@ collections:
         default: ""
         hint: "One-sentence description of the event. (e.g. Artist [Name] and writer [Name] discuss creative life in the context of our new social reality.)"
 
+      - label: "Event Copy"
+        name: "body"
+        widget: "markdown"
+        editorComponents: ["image"]
+        required: false
+
       - label: "People"
         name: "people"
         widget: "list"
@@ -164,12 +170,6 @@ collections:
                 name: 'url'
                 widget: 'string'
                 hint: "e.g https://brooklynrail.org/2020/06/editorsmessage/The-Mirror-Displaced-Artists-Writing-on-Art"
-
-      - label: "Event Copy"
-        name: "body"
-        widget: "markdown"
-        editorComponents: ["image"]
-        required: false
 
       - label: "Start time"
         name: "date"
