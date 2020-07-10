@@ -24,6 +24,12 @@ people:
       Gallery of Art, Washington, D.C.), and River Crossings (Olana and Cedar
       Grove, Hudson and Catskill, New York). He is a Senior Writer and
       Editor-at-Large for the Brooklyn Rail."
+poets:
+  - person: kwame-opoku-duku
+    event_bio: Kwame Opoku-Duku’s work is featured in Virginia Quarterly Review,
+      Kenyon Review, BOMB,  Apogee, The Literary Review, and other publications.
+      He is an educator, a founding member of Unbnd Collective, associate poetry
+      editor for BOAAT, and curator of the reading series Dear Ocean.
 date: 2020-07-17 13:00:00 -0500
 end_date: 2020-07-17 14:00:00 -0500
 series: 88
