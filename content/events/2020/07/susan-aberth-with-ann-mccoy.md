@@ -1,8 +1,8 @@
 ---
 title: Susan Aberth with Ann McCoy
-summary: Art historian, Susan Aberth will be in conversation with sculptor,
-  painter, and art critic, Ann McCoy. We'll close with a poetry reading from
-  Rodrigo Toscano.
+summary: Art historian, Susan Aberth will discuss the work and life of Hilma af
+  Klimt and Leonora Carrington with sculptor, painter, and art critic, Ann
+  McCoy. We'll close with a poetry reading from Rodrigo Toscano.
 people:
   - person: susan-aberth
     event_bio: "Susan L. Aberth is the Edith C. Blum Professor of the Art History
