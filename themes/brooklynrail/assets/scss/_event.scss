@@ -177,6 +177,7 @@
   section{
 
     .sponsor{
+      @include u-margin-bottom(7);
       @include u-padding-y(2);
       @include u-padding-x(1);
       @include u-radius('lg');
@@ -217,7 +218,7 @@
     }
 
     .people{
-      @include u-padding-top(3);
+      @include u-padding-top(2);
       .person{
         @include u-padding-y(3);
         &:first-child{
