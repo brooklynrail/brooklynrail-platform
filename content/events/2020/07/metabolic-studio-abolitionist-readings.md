@@ -2,7 +2,7 @@
 title: "Metabolic Studio: Abolitionist Readings"
 summary: A series of readings and community crafting time, followed by time for
   conversation.
-date: 2020-07-10 17:30:00 -0500
+date: 2020-07-17 17:30:00 -0500
 end_date: 2020-09-04 18:30:00 -0500
 collections: []
 event_organizer:
