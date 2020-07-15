@@ -1,0 +1,18 @@
+---
+title: An Open Letter From Assata Shakur
+summary: "Join Metabolic Studio for a time to read up on abolitionist futures
+  while crafting together, followed by time for conversation. This week, we'll
+  be reading of “An Open Letter From Assata Shakur” written in 1998. "
+date: 2020-07-17 17:30:00 -0500
+end_date: 2020-07-17 19:00:00 -0500
+collections:
+  - abolitionist-reading-native-plant-embroidery
+event_organizer:
+  - metabolic-studio-1
+event_producer:
+  - metabolic-studio-1
+registration_url: https://www.eventbrite.com/e/abolitionist-reading-and-native-plant-embroidery-zoom-71720-tickets-112903978840
+event_platform:
+  - zoom
+---
+{{< image media="undefined" size="md" >}}
