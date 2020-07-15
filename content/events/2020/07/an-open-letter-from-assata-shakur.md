@@ -15,4 +15,4 @@ registration_url: https://www.eventbrite.com/e/abolitionist-reading-and-native-p
 event_platform:
   - zoom
 ---
-{{< image media="undefined" size="md" >}}
+{{< image media="2020/07/metabolic-event-assata-shakur" size="lg" >}}
