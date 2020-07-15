@@ -36,7 +36,7 @@ poets:
       collaborating with Triple Canopy as a guest-editor and contributor.
 date: 2020-07-22 13:00:00 -0500
 end_date: 2020-07-22 14:00:00 -0500
-series: 89
+series: 91
 collections:
   - the-new-social-environment
 event_organizer:
