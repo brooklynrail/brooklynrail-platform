@@ -26,6 +26,12 @@ people:
       many others. Her latest book Dangerous Moves: Performance and Politics in
       Cuba was issued by Tate Publications in 2015, and a Spanish translation
       was published by Turner Libros in 2017."
+poets:
+  - person: corrine-fitzpatrick
+    event_bio: Corrine Fitzpatrick's essays, poetry, and art criticism have been in
+      Triple Canopy, Bomb, the Brooklyn Rail, among many others. She has taught
+      at SAIC, Naropa University, and Columbia University. She is currently
+      collaborating with Triple Canopy as a guest-editor and contributor.
 date: 2020-07-22 13:00:00 -0500
 end_date: 2020-07-22 14:00:00 -0500
 series: 89
