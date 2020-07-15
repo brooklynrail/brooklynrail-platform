@@ -15,6 +15,6 @@ registration_url: https://www.eventbrite.com/e/abolitionist-reading-and-native-p
 event_platform:
   - zoom
 ---
-{{< image media="undefined" size="md" >}}
+{{< image media="undefined" size="lg" >}}
 
 It is crucial that we focus our energy right now on the Movement for Black Lives, on educating ourselves, on holding each other accountable, and building solidarity. For this reason, we’ve decided to spend time together each Friday devoted to reading and crafting. This week, we’ll be reading “An Open Letter From Assata Shakur” written in 1998.
