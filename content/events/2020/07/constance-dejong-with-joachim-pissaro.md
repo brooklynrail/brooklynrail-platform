@@ -40,6 +40,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: yjdkPScz23w
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-82-constance-dejong-tickets-112131247580
 event_platform:
   - zoom
