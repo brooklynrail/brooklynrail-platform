@@ -1,6 +1,8 @@
 ---
 title: Suzanne Blier with Coco Fusco
-summary: Suzanne Blier with Coco Fusco
+summary: Art historian Suzanne Blier will be in conversation with artist and
+  writer, Coco Fusco. We'll conclude with a poetry reading from Corrine
+  Fitzpatrick.
 people:
   - person: suzanne-blier
     event_bio: "Suzanne Preston Blier is an American art historian who currently
