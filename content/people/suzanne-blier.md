@@ -13,5 +13,7 @@ short_bio: "Suzanne Preston Blier is an American art historian who currently
   forthcoming 1325: How Medieval Africa Made the World Modern (Yale University
   Press 2021) and Picasso’s Demoiselles: The True Origins of a Modern Art
   Masterpiece (Duke University Press 2019)."
+portraits:
+  - media: 2020/07/suzanne-blier-headshot
 website: https://scholar.harvard.edu/blier
 ---
