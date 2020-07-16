@@ -12,5 +12,7 @@ short_bio: "Keith Calhoun and Chandra McCormick were born and raised in New
   Penitentiary at Angola, a former slave-breeding plantation named for the
   African nation from which “the most profitable” slaves, according to slave
   owners, were kidnapped."
+portraits:
+  - media: 2020/07/keith-calhoun-and-chandra-mccormick
 website: https://calhounmccormick.com
 ---
