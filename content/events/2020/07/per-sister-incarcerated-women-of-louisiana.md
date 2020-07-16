@@ -3,7 +3,7 @@ title: "Per(Sister): Incarcerated Women of Louisiana"
 summary: "Rontherin Ratliff, Syrita Steib, Chandra McCormick, Keith Calhoun, and
   Dolfinette Martin will discuss the current exhibition at the Ford Foundation
   \"Per(Sister): Incarcerated Women of Louisiana\" with Andrea Andersson and
-  Monica Ramirez-Montagut. We'll conclude with a poetry reading."
+  Mónica Ramírez-Montagut. We'll conclude with a poetry reading."
 people:
   - person: rontherin-ratliff
     event_bio: Rontherin Ratliff is a mixed media sculptor whose work focuses on
