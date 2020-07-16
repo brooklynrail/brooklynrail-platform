@@ -14,5 +14,5 @@ short_bio: "Keith Calhoun and Chandra McCormick were born and raised in New
   owners, were kidnapped."
 portraits:
   - media: 2020/07/keith-calhoun-and-chandra-mccormick
-website: https://calhounmccormick.com
+website: http://calhounmccormick.com
 ---
