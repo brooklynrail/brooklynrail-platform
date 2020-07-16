@@ -26,7 +26,7 @@ people:
       week. And ten of the eleven women were domestic abuse survivors, and all
       ten of them were there serving life sentences for … standing up to their
       abuser.\""
-  - person: keith-calhoun
+  - person: keith-calhoun-and-chandra-mccormick
     event_bio: "Keith Calhoun and Chandra McCormick were born and raised in the
       lower ninth ward of New Orleans, Louisiana. As husband and wife team, they
       have been documenting Louisiana and its people for more than 25 years. In
