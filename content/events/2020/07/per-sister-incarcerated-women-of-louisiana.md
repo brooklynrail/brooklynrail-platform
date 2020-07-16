@@ -26,16 +26,6 @@ people:
       week. And ten of the eleven women were domestic abuse survivors, and all
       ten of them were there serving life sentences for … standing up to their
       abuser.\""
-  - person: dolfinette-martin
-    event_bio: "In her words: \"[The hardest issue was] being completely powerless
-      over what happens with your children, if you left children – I left five.
-      My three sons all were brutally shot. I had a daughter who had run away
-      and… refused to let anyone take my place in her life… For me, that's the
-      hardest piece of being imprisoned, if you're a parent. Every day I worried
-      about my kids. Every single day, every day.\""
-  - person: andrea-andersson
-    event_bio: Andrea Andersson is the founding director & chief curator of the
-      Rivers Institute for Contemporary Art & Thought.
   - person: keith-calhoun
     event_bio: "Keith Calhoun and Chandra McCormick were born and raised in the
       lower ninth ward of New Orleans, Louisiana. As husband and wife team, they
@@ -59,6 +49,16 @@ people:
       State Penitentiary at Angola, a former slave-breeding plantation named for
       the African nation from which “the most profitable” slaves, according to
       slave owners, were kidnapped."
+  - person: dolfinette-martin
+    event_bio: "In her words: \"[The hardest issue was] being completely powerless
+      over what happens with your children, if you left children – I left five.
+      My three sons all were brutally shot. I had a daughter who had run away
+      and… refused to let anyone take my place in her life… For me, that's the
+      hardest piece of being imprisoned, if you're a parent. Every day I worried
+      about my kids. Every single day, every day.\""
+  - person: andrea-andersson
+    event_bio: Andrea Andersson is the founding director & chief curator of the
+      Rivers Institute for Contemporary Art & Thought.
 date: 2020-07-23 13:00:00 -0500
 end_date: 2020-07-23 14:00:00 -0500
 series: 92
