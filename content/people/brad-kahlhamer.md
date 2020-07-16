@@ -13,6 +13,8 @@ short_bio: Brad Kahlhamer is an artist known for his multi-media practice,
   Museum, the Milwaukee Art Museum, and the Madison Museum of Contemporary Art,
   Seattle Art Museum, the Hood Museum of Art, and the San Francisco Museum of
   Modern Art among others.
+portraits:
+  - media: 2020/07/brad-kahlhamer
 website: http://bradkahlhamer.net/
 instagram: bradkahlhamer
 ---
