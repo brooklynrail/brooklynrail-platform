@@ -28,27 +28,27 @@ people:
       abuser.\""
   - person: keith-calhoun-and-chandra-mccormick
     event_bio: "Keith Calhoun and Chandra McCormick were born and raised in the
-      lower ninth ward of New Orleans, Louisiana. As husband and wife team, they
-      have been documenting Louisiana and its people for more than 25 years. In
-      New Orleans, they have documented the music culture, which consists of
-      Brass Bands, Jazz Funerals, Social and Pleasure Clubs, Benevolent
-      Societies, and the Black Mardi Gras Indians. In addition to documenting
-      New Orleans' social and cultural history, Calhoun and McCormick have also
-      covered religious and spiritual ceremonies throughout their community, as
-      well as river baptisms in rural Louisiana. They have created several
-      photographic series, including Louisiana Laborers; The Dock Worker,
-      Longshoreman, and Freight Handlers on the docks of New Orleans; Sugar Cane
-      Field Scrappers in the river parishes along the Mississippi river; Cotton
-      Gins, and Sweet Potato Workers in East Carrol parish of Lake Providence
-      Louisiana. Calhoun and McCormick have documented the soul of New Orleans
-      and a vanishing Louisiana: the last of the sugar cane workers, the
-      dockworkers, the sweet potato harvesters, and the displacement of African
-      Americans after Katrina. They photograph the traditions of black church
-      services and religious rituals; community rites and celebrations, such as
-      parades, and jazz funerals; and the cruel conditions of the Louisiana
-      State Penitentiary at Angola, a former slave-breeding plantation named for
-      the African nation from which “the most profitable” slaves, according to
-      slave owners, were kidnapped."
+      lower ninth ward of New Orleans, Louisiana. As a husband and wife team,
+      they have been documenting Louisiana and its people for more than 25
+      years. In New Orleans, they have documented the music culture, which
+      consists of Brass Bands, Jazz Funerals, Social and Pleasure Clubs,
+      Benevolent Societies, and the Black Mardi Gras Indians. In addition to
+      documenting New Orleans' social and cultural history, Calhoun and
+      McCormick have also covered religious and spiritual ceremonies throughout
+      their community, as well as river baptisms in rural Louisiana. They have
+      created several photographic series, including Louisiana Laborers; The
+      Dock Worker, Longshoreman, and Freight Handlers on the docks of New
+      Orleans; Sugar Cane Field Scrappers in the river parishes along the
+      Mississippi river; Cotton Gins, and Sweet Potato Workers in East Carrol
+      parish of Lake Providence Louisiana. Calhoun and McCormick have documented
+      the soul of New Orleans and a vanishing Louisiana: the last of the sugar
+      cane workers, the dockworkers, the sweet potato harvesters, and the
+      displacement of African Americans after Katrina. They photograph the
+      traditions of black church services and religious rituals; community rites
+      and celebrations, such as parades, and jazz funerals; and the cruel
+      conditions of the Louisiana State Penitentiary at Angola, a former
+      slave-breeding plantation named for the African nation from which “the
+      most profitable” slaves, according to slave owners, were kidnapped."
   - person: dolfinette-martin
     event_bio: "In her words: \"[The hardest issue was] being completely powerless
       over what happens with your children, if you left children – I left five.
@@ -62,14 +62,14 @@ people:
   - person: monica-ramirez-montagut
     event_bio: "Mónica Ramírez-Montagut serves as the director of the Eli and Edythe
       Broad Art Museum. She previously served as the director of the Newcomb Art
-      Museum. Prior to that, Ramírez-Montagut, she served as senior curator at
-      the San Jose Museum of Art. Through her curatorial career, Ramírez-
-      Montagut has worked with artists such as KAWS, Alejandro Diaz, Hope
-      Gangloff, Andrea Dezsö, Kate Clark, Regina Silveira, Chelpa Ferro, and
-      Erik Parker. Tapping into her experience as an architect, Ramírez-Montagut
-      also curated exhibitions such as Restoring a Masterpiece: Frank Lloyd
-      Wright‘s Guggenheim Museum and Zaha Hadid, a 30-year retrospective of the
-      acclaimed architect who designed the MSU Broad. "
+      Museum. Prior to that, Ramírez-Montagut served as senior curator at the
+      San Jose Museum of Art. Through her curatorial career, Ramírez- Montagut
+      has worked with artists such as KAWS, Alejandro Diaz, Hope Gangloff,
+      Andrea Dezsö, Kate Clark, Regina Silveira, Chelpa Ferro, and Erik Parker.
+      Tapping into her experience as an architect, Ramírez-Montagut also curated
+      exhibitions such as Restoring a Masterpiece: Frank Lloyd Wright‘s
+      Guggenheim Museum and Zaha Hadid, a 30-year retrospective of the acclaimed
+      architect who designed the MSU Broad. "
 date: 2020-07-23 13:00:00 -0500
 end_date: 2020-07-23 14:00:00 -0500
 series: 92
