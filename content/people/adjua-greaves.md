@@ -1,5 +1,5 @@
 ---
-name: Adjua Greaves
+name: Adjua Gargi Nzinga Greaves
 first_name: Adjua
 last_name: Greaves
 short_bio: "Adjua Gargi Nzinga Greaves (New York City, b. 1980) writes
