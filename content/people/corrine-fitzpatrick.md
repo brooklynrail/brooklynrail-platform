@@ -12,4 +12,6 @@ short_bio: "Corrine Fitzpatrick is a writer and educator. Her essays, poetry,
   guest-editor of and contributor to Issue 24: Risk Pool, which asks how
   sickness and wellness are defined today, and by whom. She lives in Inverness,
   California."
+portraits:
+  - media: 2020/07/corrine-fitzpatrick
 ---
