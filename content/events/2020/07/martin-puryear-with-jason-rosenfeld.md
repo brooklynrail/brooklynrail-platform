@@ -39,6 +39,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: eo6QIra-qaQ
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-88-martin-puryear-tickets-113101180676
 event_platform:
   - zoom
