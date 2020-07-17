@@ -1,13 +1,12 @@
 ---
 title: "Pen + Brush: From Isolation to Revolution to Rebirth and Dissent "
 summary: Artists Lola Flash and Michela Martello and Associate Executive
-  Director Dawn Delikat and Visual Arts Manager & Co-Curator Parker Daley Garcia
-  of Pen + Brush join Curatorial Assistant Nick Bennett of the Brooklyn Rail to
-  discuss the history of the non-profit organization, from its 125-year history,
-  its longstanding commitment to provide a platform to showcase the work of
-  female artists and writers, and its ongoing resiliency in the face of
-  struggles both old and new. We'll conclude with a poetry reading from Fanny
-  Howe.
+  Director Dawn Delikat and Visual Arts Manager & Co-Curator Parker Daley of Pen
+  + Brush join Curatorial Assistant Nick Bennett of the Brooklyn Rail to discuss
+  the history of the non-profit organization, from its 125-year history, its
+  longstanding commitment to provide a platform to showcase the work of female
+  artists and writers, and its ongoing resiliency in the face of struggles both
+  old and new. We'll conclude with a poetry reading from Fanny Howe.
 people:
   - person: lola-flash
     event_bio: "Lola Flash uses photography to challenge stereotypes and offer new
