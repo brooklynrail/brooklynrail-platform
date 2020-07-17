@@ -1,7 +1,7 @@
 ---
 title: Eric Fischl with Phyllis Tuchman
-summary: Painter and sculptor, Eric Fischl will discuss their work with critic
-  and art historian, Phyllis Tuchman. We'll conclude with a poetry reading from
+summary: Painter and sculptor, Eric Fischl will discuss his work with critic and
+  art historian, Phyllis Tuchman. We'll conclude with a poetry reading from
   Valerie Hsiung.
 people:
   - person: eric-fischl
