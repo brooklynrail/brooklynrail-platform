@@ -33,6 +33,9 @@ people:
       Museum in London.  Her work is featured in the publication Posing Beauty,
       edited by Deb Willis, currently on exhibit across the US, and she is in
       the current award-winning film “Through A Lens Darkly”. "
+  - person: nick-bennett
+    event_bio: Nick Bennett is the Curatorial Assistant and Publisher’s Assistant at
+      the Brooklyn Rail.
 poets:
   - person: fanny-howe
     event_bio: Fanny Howe has written many novels and several poetry books, of which
