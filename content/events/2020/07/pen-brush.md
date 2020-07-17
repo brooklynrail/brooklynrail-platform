@@ -1,7 +1,8 @@
 ---
 title: Pen + Brush
-summary: Dawn Delikat, Parker Daley, and Photographer, Lola Flash with Nick
-  Bennett. We'll conclude with a poetry reading from Fanny Howe.
+summary: Dawn Delikat, Parker Daley, and Photographer, Lola Flash featuring the
+  Rail's ArtTonic Profile with Nick Bennett. We'll conclude with a poetry
+  reading from Fanny Howe.
 people:
   - person: dawn-delikat
     event_bio: "Dawn Delikat is the Associate Executive Director at Pen + Brush. Her
