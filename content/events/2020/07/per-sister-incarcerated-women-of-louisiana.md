@@ -1,9 +1,9 @@
 ---
 title: "Per(Sister): Incarcerated Women of Louisiana"
-summary: "Rontherin Ratliff, Syrita Steib, Chandra McCormick, Keith Calhoun, and
-  Dolfinette Martin will discuss the current exhibition at the Ford Foundation
-  \"Per(Sister): Incarcerated Women of Louisiana\" with Andrea Andersson and
-  Mónica Ramírez-Montagut. We'll conclude with a poetry reading."
+summary: Ron Bechet, Keith Calhoun, Dolfinette Martin, Chandra McCormick,
+  Rontherin Ratcliff, Syrita Steib will discuss two exhibitions on the history
+  of incarceration in Louisiana with Andrea Andersson and Mónica
+  Ramírez-Montagut. We will conclude with a poetry reading.
 people:
   - person: rontherin-ratliff
     event_bio: Rontherin Ratliff is a mixed media sculptor whose work focuses on
@@ -82,6 +82,8 @@ event_producer:
 event_platform:
   - zoom
 ---
-The current Ford Foundation exhibition, ***[Per(Sister): Incarcerated Women of Louisiana](https://www.fordfoundation.org/about/the-ford-foundation-center-for-social-justice/ford-foundation-gallery/exhibitions/per-sister-incarcerated-women-of-louisiana/)*** explores one of the most critical issues of inequality and injustice facing our nation today through the lens of a population too often overlooked. With an alarming rise in rates of female incarceration, this exhibition seeks to build awareness of the crucial issues that impact women before, during, and after incarceration. The exhibition presents works from more than 30 artists who created new pieces based on the personal stories of 30 formerly and currently incarcerated women: *persisters*. Stories of loss, hope, despair, survival, triumph, and persistence are shared in a variety of forms, demonstrating simultaneously the universal struggles faced by communities impacted by incarceration and the personal resilience of each woman featured.
+***Chandra McCormic & Keith Calhoun: Slavery-The Prison Industrial Complex*** is an ongoing series of photographs of African-American life within the Louisiana prison system that reached global audiences with Prospect.3 New Orleans and the 56th Venice Biennale. Their investigation, which began in the 1980s, probes the hidden realities of the state prison system and depicts scenes of forced labor, art fairs, rodeo pageantry, and familial visits all set within prison walls.
 
-***[Per(Sister)](https://www.persister.info)*** originated at the Newcomb Art Museum of Tulane University under the leadership of museum director Monica Ramirez-Montagut with assistance from Laura Blereau, and was developed in equal partnership with Syrita Steib and Dolfinette Martin with additional support provided by Operation Restoration and Women with a Vision.
+***Per(Sister): Incarcerated Women of Louisiana***, the current Ford Foundation exhibition, explores one of the most critical issues of inequality and injustice facing our nation today through the lens of a population too often overlooked. With an alarming rise in rates of female incarceration, this exhibition seeks to build awareness of the crucial issues that impact women before, during, and after incarceration. The exhibition presents works from more than 30 artists who created new pieces based on the personal stories of 30 formerly and currently incarcerated women: *persisters*. Stories of loss, hope, despair, survival, triumph, and persistence are shared in a variety of forms, demonstrating simultaneously the universal struggles faced by communities impacted by incarceration and the personal resilience of each woman featured. 
+
+This conversation crosses time and exhibitions to foreground a culture of incarceration, those whom it impacts most intimately, and the artists who tell their stories.
