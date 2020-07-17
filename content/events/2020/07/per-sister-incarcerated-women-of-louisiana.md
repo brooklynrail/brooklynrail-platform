@@ -57,8 +57,16 @@ people:
       hardest piece of being imprisoned, if you're a parent. Every day I worried
       about my kids. Every single day, every day.\""
   - person: andrea-andersson
-    event_bio: Andrea Andersson is the founding director & chief curator of the
-      Rivers Institute for Contemporary Art & Thought.
+    event_bio: "Andrea Andersson is the founding director & chief curator of Rivers
+      Institute for Contemporary Art & Thought.  She is the co-curator of the
+      forthcoming exhibition Sanford Biggers: Codeswitch (opening in September
+      at the Bronx Museum) and co-editor of the eponymous publication (Yale
+      University Press).  Her recent exhibitions and publications have included
+      Zarouhie Abdalian: Production, Keith Calhoun & Chandra McCormick: Labor
+      Studies, Hinge Pictures: Eight Women Artists Occupy the Third Dimension,
+      Sarah Morris: Sawdust & Tinsel, Jockum Nordström: Why is Everthing A Rag,
+      Adam Pendleton: Becoming Imperceptible, Meg Turner: Here and Now, and
+      Cecilia Vicuña: About to Happen, among others."
   - person: monica-ramirez-montagut
     event_bio: "Mónica Ramírez-Montagut serves as the director of the Eli and Edythe
       Broad Art Museum. She previously served as the director of the Newcomb Art
