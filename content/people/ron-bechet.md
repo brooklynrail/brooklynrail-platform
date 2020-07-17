@@ -12,4 +12,6 @@ short_bio: "Artist Ron  Bechet is a native of  New  Orleans.  He studied art at
   tell a personal and communal metaphoric story of cultural hybridity. He is
   currently the Victor H. Labat Professor of Art at Xavier University of
   Louisiana and has been teaching for over twenty years. "
+portraits:
+  - media: 2020/07/ron-bechet
 ---
