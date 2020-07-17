@@ -1,7 +1,7 @@
 ---
 title: Pen + Brush
-summary: Dawn Delikat, Parker Daley, Lola Flash with Nick Bennett. We'll
-  conclude with a poetry reading from Fanny Howe.
+summary: Dawn Delikat, Parker Daley, and Photographer, Lola Flash with Nick
+  Bennett. We'll conclude with a poetry reading from Fanny Howe.
 poets:
   - person: fanny-howe
     event_bio: Fanny Howe has written many novels and several poetry books, of which
