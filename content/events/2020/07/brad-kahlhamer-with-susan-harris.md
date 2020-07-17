@@ -1,8 +1,8 @@
 ---
 title: Brad Kahlhamer with Susan Harris
-summary: Multimedia artist, Brad Kahlhamer will discuss their body of work with
-  scholar and curator, Susan Harris. We'll conclude with a poetry reading from
-  Gabriel Dozal.
+summary: Multimedia artist, Brad Kahlhamer will discuss his body of work with
+  scholar, curator, and Rail board member, Susan Harris. We'll conclude with a
+  poetry reading from Gabriel Dozal.
 people:
   - person: brad-kahlhamer
     event_bio: Brad Kahlhamer is an artist known for his multi-media practice,
