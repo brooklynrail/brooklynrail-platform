@@ -13,6 +13,8 @@ short_bio: "Eric Fischl is an internationally acclaimed American painter and
   both the American Academy of Arts and Letters and the American Academy of Arts
   and Science. He lives and works in Sag Harbor, NY with his wife, the painter
   April Gornik."
+portraits:
+  - media: 2020/07/eric-fischl-portrait
 rail_contributor_url: https://brooklynrail.org/2014/07/art/eric-fischl-with-robert-berlind
 website: http://www.ericfischl.com/biography
 ---
