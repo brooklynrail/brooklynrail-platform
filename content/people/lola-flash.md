@@ -12,6 +12,8 @@ short_bio: "Lola Flash uses photography to challenge stereotypes and offer new
   Museum in London.  Her work is featured in the publication Posing Beauty,
   edited by Deb Willis, currently on exhibit across the US, and she is in the
   current award-winning film “Through A Lens Darkly”. "
+portraits:
+  - media: 2020/07/lola-flash-portrait
 website: http://www.lolaflash.com
 instagram: flash9
 ---
