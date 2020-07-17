@@ -8,4 +8,5 @@ short_bio: "Gabriel Dozal is from El Paso, TX. He received his MFA in poetry
   Viento, a Dozen Nothing, and forthcoming in Dreginald. "
 portraits:
   - media: 2020/07/gabriel-dozal-headshot
+rail_contributor_url: https://brooklynrail.org/contributor/Gabriel-Dozal
 ---
