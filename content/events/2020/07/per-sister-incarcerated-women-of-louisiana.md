@@ -1,8 +1,8 @@
 ---
 title: "Per(Sister): Incarcerated Women of Louisiana"
 summary: Ron Bechet, Keith Calhoun, Dolfinette Martin, Chandra McCormick,
-  Rontherin Ratcliff, Syrita Steib will discuss two exhibitions on the history
-  of incarceration in Louisiana with Andrea Andersson and Mónica
+  Rontherin Ratcliff, and Syrita Steib will discuss two exhibitions on the
+  history of incarceration in Louisiana with Andrea Andersson and Mónica
   Ramírez-Montagut. We will conclude with a poetry reading.
 people:
   - person: rontherin-ratliff
