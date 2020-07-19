@@ -13,4 +13,6 @@ short_bio: Michela Martello is a multidisciplinary artist whose research is
   Tainan City Government, Taiwan, for her Installation Everything Has A Vortex.
 portraits:
   - media: 2020/07/michela-martello-headshot
+website: https://www.michelamartello.com
+instagram: michelamartello
 ---
