@@ -18,14 +18,17 @@ people:
       architectural materials and domestic objects, his work explores the notion
       of internal versus external balance.
   - person: syrita-steib
-    event_bio: "In her words: \"You know, for a long time, women did not think that
-      they had the right to own their bodies or to fight back or to make a fuss
-      about something that's going on with them. And now women are fighting back
-      from domestic violence or sexual assault or whatever it may be. And women
-      are being criminalized because of that. I went to clemency hearings last
-      week. And ten of the eleven women were domestic abuse survivors, and all
-      ten of them were there serving life sentences for … standing up to their
-      abuser.\""
+    event_bio: Syrita Steib is the Founder and Executive Director of Operation
+      Restoration (OR), an organization that specializes in creating
+      opportunities for formerly incarcerated women through college courses,
+      case management services, advocacy programs and more. Syrita is also a
+      policy consultant for Cut50’s Dignity for Incarcerated Women campaign and
+      worked tirelessly on the passage of the First Step Act. Syrita was
+      appointed by the Governor to the Louisiana Justice Reinvestment oversight
+      council and is the Vice-chair for the Louisiana Task Force on Women’s
+      Incarceration. She also helped create and was featured in the Newcomb Art
+      Museum’s Per(Sister) exhibit which shared the stories of currently and
+      formerly incarcerated women.
   - person: ron-bechet
     event_bio: "Artist Ron Bechet is a native of New Orleans. He studied art at the
       University of New Orleans where he earned a BA degree and went on to earn
@@ -61,12 +64,16 @@ people:
       slave-breeding plantation named for the African nation from which “the
       most profitable” slaves, according to slave owners, were kidnapped."
   - person: dolfinette-martin
-    event_bio: "In her words: \"[The hardest issue was] being completely powerless
-      over what happens with your children, if you left children – I left five.
-      My three sons all were brutally shot. I had a daughter who had run away
-      and… refused to let anyone take my place in her life… For me, that's the
-      hardest piece of being imprisoned, if you're a parent. Every day I worried
-      about my kids. Every single day, every day.\""
+    event_bio: Dolfinette Martin is the  Housing Director at Operation Restoration.
+      She serves on the Formerly Incarcerated Transitional Clinic Advisory
+      Board, a clinic created for formerly incarcerated people, and she is a
+      panelist on the Criminal Background Check Review Panel for the Housing
+      Authority of New Orleans (HANO). Dolfinette was appointed to New Orleans
+      first female transition team of New Orleans’ Mayor Latoya Cantrell. In
+      2018 she was appointed to Essence Festival’s first ever all-female
+      criminal justice reform panel. She was a founding member and former
+      president of the New Orleans chapter of National Council for Incarcerated
+      and Formerly Incarcerated Women and Girls.
   - person: andrea-andersson
     event_bio: "Andrea Andersson is the founding director & chief curator of Rivers
       Institute for Contemporary Art & Thought.  She is the co-curator of the
