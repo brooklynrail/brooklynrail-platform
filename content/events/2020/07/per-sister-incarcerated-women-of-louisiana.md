@@ -1,5 +1,5 @@
 ---
-title: "Per(Sister): Incarcerated Women of Louisiana"
+title: Culture of Incarceration
 summary: Ron Bechet, Keith Calhoun, Dolfinette Martin, Chandra McCormick,
   Rontherin Ratcliff, and Syrita Steib will discuss two exhibitions on the
   history of incarceration in Louisiana with Andrea Andersson and Mónica
@@ -108,6 +108,8 @@ event_producer:
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-92-persister-tickets-113817898398
 event_platform:
   - zoom
+aliases:
+  - /events/2020/07/23/per-sister-incarcerated-women-of-louisiana/
 ---
 ***Chandra McCormic & Keith Calhoun: Slavery-The Prison Industrial Complex*** is an ongoing series of photographs of African-American life within the Louisiana prison system that reached global audiences with Prospect.3 New Orleans and the 56th Venice Biennale. Their investigation, which began in the 1980s, probes the hidden realities of the state prison system and depicts scenes of forced labor, art fairs, rodeo pageantry, and familial visits all set within prison walls.
 
