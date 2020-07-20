@@ -4,11 +4,6 @@ summary: Artist Martha Tuttle will discuss her body of work and creative life
   with scholar, curator, and Rail board member, Susan Harris. We'll conclude
   with a poetry reading from Gabriel Dozal.
 people:
-  - person: susan-harris
-    event_bio: "Susan Harris is co-president of the Board of the International
-      Association of Art Critics, United States section (AICA-USA). She is an
-      independent scholar and curator. Her most recent project is Managing
-      Editor, Unfinished Memories: 30 Years of Exit Art, Steidl, 2016."
   - person: martha-tuttle
     event_bio: Martha Tuttle, a multidisciplinary artist born in Santa Fe, New
       Mexico, has shown her work throughout the U.S. and abroad. Natural
@@ -22,6 +17,11 @@ people:
       unification of immaterial energy with material form results in constructed
       canvases and loosely hanging paintings that vibrate with a felt, unseen
       force.
+  - person: susan-harris
+    event_bio: "Susan Harris is co-president of the Board of the International
+      Association of Art Critics, United States section (AICA-USA). She is an
+      independent scholar and curator. Her most recent project is Managing
+      Editor, Unfinished Memories: 30 Years of Exit Art, Steidl, 2016."
 poets:
   - person: gabriel-dozal
     event_bio: "Gabriel Dozal is from El Paso, TX. He received his MFA in poetry
