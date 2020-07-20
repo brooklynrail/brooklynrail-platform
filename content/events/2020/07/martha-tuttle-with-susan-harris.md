@@ -29,7 +29,7 @@ poets:
       Review, The Brooklyn Rail, The Literary Review, Hunger Mountain, The
       Volta, Contra Viento, a Dozen Nothing, and forthcoming in Dreginald. "
 date: 2020-07-24 13:00:00 -0500
-end_date: 2020-07-20 14:00:00 -0500
+end_date: 2020-07-24 14:00:00 -0500
 series: 93
 collections:
   - the-new-social-environment
