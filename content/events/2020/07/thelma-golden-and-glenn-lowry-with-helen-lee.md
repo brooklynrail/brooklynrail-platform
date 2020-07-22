@@ -1,8 +1,8 @@
 ---
 title: Thelma Golden and Glenn Lowry with Helen Lee
-summary: Director and and Curator of The Studio Museum in Harlem, Thelma Golden,
-  and the Director of MoMA, Glenn Lowry, will be in a conversation led by Rail
-  board member, Helen Lee.  We'll conclude with a poetry reading.
+summary: Director and Curator of The Studio Museum in Harlem, Thelma Golden, and
+  the Director of MoMA, Glenn Lowry, will be in a conversation led by Rail board
+  member, Helen Lee.  We'll conclude with a poetry reading.
 people:
   - person: thelma-golden
     event_bio: "Thelma Golden is Director and Chief Curator of The Studio Museum in
