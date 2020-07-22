@@ -19,3 +19,4 @@ registration_url: https://www.eventbrite.com/o/metabolic-studio-30121249062
 event_platform:
   - zoom
 ---
+{{< image media="2020/07/metabolic-studio-patrisse-cullors-event-header" size="xl" >}}
