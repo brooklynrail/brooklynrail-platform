@@ -13,7 +13,7 @@ event_organizer:
   - metabolic-studio-1
 event_producer:
   - metabolic-studio-1
-registration_url: https://www.eventbrite.com/o/metabolic-studio-30121249062
+registration_url: https://www.eventbrite.com/e/abolitionist-reading-and-native-plant-embroidery-zoom-72420-tickets-113941002606
 event_platform:
   - zoom
 ---
