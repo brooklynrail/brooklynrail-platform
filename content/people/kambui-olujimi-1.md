@@ -11,6 +11,8 @@ short_bio: Kambui Olujimi was born and raised in Bedford Stuyvesant, Brooklyn.
   delicate wisps of myth and whimsy mixed with real-world narrative. Lyrical and
   elliptical rather than ideological, Olujimi’s art transcends the political
   sphere, affirming its own autonomy.
+portraits:
+  - media: 2020/07/kambui-olujimi
 website: "https://kambuiolujimi.com/ "
 instagram: kambuiolujimi
 ---
