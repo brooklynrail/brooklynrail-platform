@@ -1,6 +1,8 @@
 ---
 title: Kambui Olujimi with Yasi Alipour
-summary: Kambui Olujimi with Yasi Alipour
+summary: Artist Kambui Olujimi will discuss his body of work with artist and
+  Rail contributor, Yasi Alipour. We'll conclude with a poetry reading from
+  Rabih Ahmed.
 people:
   - person: kambui-olujimi-1
     event_bio: Kambui Olujimi was born and raised in Bedford Stuyvesant, Brooklyn.
