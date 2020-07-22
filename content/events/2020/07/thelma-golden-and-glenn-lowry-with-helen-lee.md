@@ -2,7 +2,8 @@
 title: Thelma Golden and Glenn Lowry with Helen Lee and Joachim Pissarro
 summary: Director and Curator of The Studio Museum in Harlem, Thelma Golden, and
   the Director of MoMA, Glenn Lowry, will be in a conversation led by Rail board
-  member, Helen Lee.  We'll conclude with a poetry reading.
+  member, Helen Lee and Rail consulting editor, Joachim Pissarro.  We'll
+  conclude with a poetry reading.
 people:
   - person: thelma-golden
     event_bio: "Thelma Golden is Director and Chief Curator of The Studio Museum in
@@ -41,6 +42,16 @@ people:
       culture programming. She is the Chairman of the American Foundation for
       the Courtauld Institute of Art, where she completed her post-graduate
       studies. Helen is also a board member of the Rail.
+  - person: joachim-pissaro
+    event_bio: "Joachim Pissarro is the Bershad Professor of Art History and
+      Director of the Hunter College Galleries, Hunter College, CUNY/City
+      University of New York. He was a Curator at MoMA’s Department of Painting
+      and Sculpture. He curated “Klein & Giacometti: In search of the Absolute
+      in the Era of Relativity” at Gagosian Gallery London in summer 2016. His
+      latest book is titled Wild Art (Phaidon) and his forthcoming book (Penn
+      State University) is co-authorized with David Carrier. He has had two
+      major exhibitions in Paris in 2017, Pissarro à Eragny at the Musée du
+      Luxembourg and Olga Picasso at the Musée Picasso, Paris."
 date: 2020-07-27 13:00:00 -0500
 end_date: 2020-07-27 14:00:00 -0500
 series: 94
