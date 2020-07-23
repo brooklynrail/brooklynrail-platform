@@ -1,7 +1,7 @@
 ---
 title: Culture of Incarceration
 summary: Ron Bechet, Keith Calhoun, Dolfinette Martin, Chandra McCormick,
-  Rontherin Ratcliff, and Syrita Steib will discuss two exhibitions on the
+  Rontherin Ratliff, and Syrita Steib will discuss two exhibitions on the
   history of incarceration in Louisiana with Andrea Andersson and Mónica
   Ramírez-Montagut. We will conclude with a poetry reading.
 people:
