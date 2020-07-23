@@ -21,6 +21,12 @@ people:
       and SVA and is currently a resident at the Sharpe Walentas Studio program.
       For further information, please visit yasamanalipour.com. Yasi is also a
       contributor of the Rail.
+poets:
+  - person: rabih-ahmed
+    event_bio: Rabih Ahmed is a Ghanaian-American poet and educator from the Bronx
+      who uses rhythms and histories of the African diaspora in her poetry to
+      bridge lost narratives across the Atlantic. She created LOVE LIGHT &
+      POETRY, which brings poetry workshops to marginalized communities.
 date: 2020-07-29 13:00:00 -0500
 end_date: 2020-07-29 14:00:00 -0500
 series: 96
