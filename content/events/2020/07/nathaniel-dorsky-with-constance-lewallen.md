@@ -1,8 +1,8 @@
 ---
 title: Nathaniel Dorsky with Constance Lewallen
 summary: "Filmmaker Nathaniel Dorsky will discuss his body of work with writer,
-  curator, and Rail consulting editor, Constance Lewallen. We'll conclude with a
-  poetry reading. "
+  curator, and Rail editor, Constance Lewallen. We'll conclude with a poetry
+  reading. "
 people:
   - person: nathaniel-dorsky
     event_bio: "Nathaniel Dorsky is an experimental filmmaker and film editor who
