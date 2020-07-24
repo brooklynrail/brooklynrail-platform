@@ -16,8 +16,8 @@ people:
       new work at the New York Film Festival's Views from the Avant-Garde and
       the Wavelengths program of the Toronto International Film Festival. In
       spring 2012, Dorsky took actively part in the three-month exposition of
-      Whitney Biennial.[4] In October 2015, the New York Film Festival honored
-      his work with a thirty-four film complete retrospective at Lincoln Center.
+      Whitney Biennial. In October 2015, the New York Film Festival honored his
+      work with a thirty-four film complete retrospective at Lincoln Center.
       Manohla Dargis of the New York Times listed this retrospective in second
       place in her list of the top ten films of 2015.
   - person: constance-lewallen
