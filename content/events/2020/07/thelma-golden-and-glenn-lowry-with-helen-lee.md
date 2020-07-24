@@ -2,7 +2,7 @@
 title: Thelma Golden and Glenn Lowry with Helen Lee and Joachim Pissarro
 summary: Director and Curator of The Studio Museum in Harlem, Thelma Golden, and
   the Director of MoMA, Glenn Lowry, will be in a conversation led by Rail board
-  member, Helen Lee and Rail consulting editor, Joachim Pissarro.  We'll
+  member, Helen Lee and Rail Consulting Editor, Joachim Pissarro.  We'll
   conclude with a poetry reading.
 people:
   - person: thelma-golden
