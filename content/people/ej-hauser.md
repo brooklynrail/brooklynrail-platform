@@ -14,6 +14,6 @@ short_bio: EJ Hauser is a painter who lives and works in Brooklyn. Her paintings
   multiple layers of color. The vibrating color connects directly to the energy
   and aliveness of her nature-based subject matter.
 portraits:
-  - media: 2020/07/ej-hauser-forest-dwellers
+  - media: 2020/07/ej-hauser-headshot
 website: https://ejhauser.org/home.html
 ---
