@@ -1,7 +1,7 @@
 ---
 title: A Tribute to John Ashbery
 summary: A reading of John Ashbery by poets Tonya Foster, Todd Colby, Emily
-  Skillings, Olivier Brossard and Anselm Berrigan. The event will be led by
+  Skillings, Olivier Brossard, and Anselm Berrigan. The event will be led by
   Marcella Durand.
 people:
   - person: tonya-m-foster
@@ -46,18 +46,6 @@ people:
       Chénetier (joca seria, 2020).  He has also translated Marcella Durand,
       Tonya Foster, Kevin Killian, Frank O'Hara, and Ron Padgett, amongst
       others. "
-  - person: marcella-durand
-    event_bio: Marcella Durand's most recent books include The Prospect, just now
-      out from Delete Press, https://deletepress.org, and Earth's Horizons, her
-      translation of Michèle Métail's book-length poem, Les Horizons du sol,
-      published this spring by Black Square Editions,
-      https://www.blacksquareeditions.org. Other publications include Rays of
-      the Shadow (Tent Editions, 2017); Le Jardin de M. (The Garden of M.), with
-      French translations by Olivier Brossard (joca seria, 2016); Deep Eco Pré,
-      a collaboration with Tina Darragh, (Little Red Leaves); AREA (Belladonna);
-      and Traffic & Weather (Futurepoem), written during a residency at the
-      Lower Manhattan Cultural Council. She is currently working on a new
-      collection forthcoming from Black Square Editions.
   - person: anselm-berrigan
     event_bio: Anselm Berrigan was born in 1972 in Chicago, Illinois. He received a
       BA from SUNY Buffalo and an MFA from Brooklyn College. He is the son of
@@ -74,6 +62,18 @@ people:
       St. Mark’s Church. He is co-chair of writing at the Milton Avery Graduate
       School of the Arts and also teaches writing at Pratt Institute and
       Brooklyn College. He lives in New York City.
+  - person: marcella-durand
+    event_bio: Marcella Durand's most recent books include The Prospect, just now
+      out from Delete Press, https://deletepress.org, and Earth's Horizons, her
+      translation of Michèle Métail's book-length poem, Les Horizons du sol,
+      published this spring by Black Square Editions,
+      https://www.blacksquareeditions.org. Other publications include Rays of
+      the Shadow (Tent Editions, 2017); Le Jardin de M. (The Garden of M.), with
+      French translations by Olivier Brossard (joca seria, 2016); Deep Eco Pré,
+      a collaboration with Tina Darragh, (Little Red Leaves); AREA (Belladonna);
+      and Traffic & Weather (Futurepoem), written during a residency at the
+      Lower Manhattan Cultural Council. She is currently working on a new
+      collection forthcoming from Black Square Editions.
 date: 2020-07-28 13:00:00 -0500
 end_date: 2020-07-28 14:00:00 -0500
 series: 95
