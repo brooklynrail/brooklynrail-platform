@@ -12,5 +12,7 @@ short_bio: EJ Hauser’s painting practice is deliberately multifaceted, an
   practices, and gender identity as it relates to painting and art-making.
   Hauser’s work has been shown at The Journal Gallery, Regina Rex, NURTUREart,
   James Fuentes, and Never Work Gallery, all in New York City, among others.
+portraits:
+  - media: 2020/07/ej-hauser-forest-dwellers
 website: https://ejhauser.org/home.html
 ---
