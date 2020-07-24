@@ -39,8 +39,10 @@ people:
       Mind over Matter was presented at the UC Berkeley Art Museum., and
       currently, she co-curated with Ted Mann Stephen Kaltenbach: The Beginning
       and The End, on view Dec. 13 at the Manetti Shrem Museum, UC Davis, and
-      Reese Palley Gallery (with Jordan Stein), at Cushion Works, San
-      Francisco."
+      Reese Palley Gallery (with Jordan Stein), at Cushion Works, San Francisco.
+      Her recent books published by UC Press include: 500 Capp Street: David
+      Ireland’s house and Bruce Nauman; Spatial Encounters (co-author Dore
+      Bowen). Lewallen is currently Editor-at-Large for the Brooklyn Rail."
 date: 2020-07-30 13:00:00 -0500
 end_date: 2020-07-30 14:00:00 -0500
 series: 97
