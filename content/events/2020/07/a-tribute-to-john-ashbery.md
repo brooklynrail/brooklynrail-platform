@@ -1,8 +1,8 @@
 ---
 title: A Tribute to John Ashbery
-summary: A reading of John Ashbery by poets Tonya Foster, Todd Colby, Emily
-  Skillings, Olivier Brossard, and Anselm Berrigan. The event will be led by
-  Marcella Durand.
+summary: In celebration of his birthday, the Rail is hosting a reading of John
+  Ashbery by poets Tonya M. Foster, Todd Colby, Emily Skillings, Olivier
+  Brossard, and Anselm Berrigan. The event will be led by Marcella Durand.
 people:
   - person: tonya-m-foster
     event_bio: "Tonya M. Foster is the author of A Swarm of Bees in High Court, and
