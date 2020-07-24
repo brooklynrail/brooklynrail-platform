@@ -58,6 +58,22 @@ people:
       and Traffic & Weather (Futurepoem), written during a residency at the
       Lower Manhattan Cultural Council. She is currently working on a new
       collection forthcoming from Black Square Editions.
+  - person: anselm-berrigan
+    event_bio: Anselm Berrigan was born in 1972 in Chicago, Illinois. He received a
+      BA from SUNY Buffalo and an MFA from Brooklyn College. He is the son of
+      poets Alice Notley and the late Ted Berrigan. He is the author of several
+      books of poetry, including Something for Everybody (Wave Books, 2018),
+      Come in Alone (Wave Books, 2016), Notes from Irrelevance (Wave Books,
+      2011), Free Cell (City Lights Books, 2009), and Integrity and Dramatic
+      Life (Edge, 1999). With Alice Notley and his brother Edmund Berrigan, he
+      co-edited The Collected Poems of Ted Berrigan (University of California,
+      2005) and the Selected Poems of Ted Berrigan (University of California,
+      2011). Berrigan was a New York State Foundation for the Arts Fellow in
+      poetry in 2007 and has received three grants from the Fund for Poetry.
+      From 2003 to 2007, he served as artistic director of The Poetry Project at
+      St. Mark’s Church. He is co-chair of writing at the Milton Avery Graduate
+      School of the Arts and also teaches writing at Pratt Institute and
+      Brooklyn College. He lives in New York City.
 date: 2020-07-28 13:00:00 -0500
 end_date: 2020-07-28 14:00:00 -0500
 series: 95
