@@ -47,7 +47,7 @@ people:
       Tonya Foster, Kevin Killian, Frank O'Hara, and Ron Padgett, amongst
       others. "
   - person: anselm-berrigan
-    event_bio: Anselm Berrigan was born in 1972 in Chicago, Illinois. He received a
+    event_bio: "Anselm Berrigan was born in 1972 in Chicago, Illinois. He received a
       BA from SUNY Buffalo and an MFA from Brooklyn College. He is the son of
       poets Alice Notley and the late Ted Berrigan. He is the author of several
       books of poetry, including Something for Everybody (Wave Books, 2018),
@@ -61,7 +61,8 @@ people:
       From 2003 to 2007, he served as artistic director of The Poetry Project at
       St. Mark’s Church. He is co-chair of writing at the Milton Avery Graduate
       School of the Arts and also teaches writing at Pratt Institute and
-      Brooklyn College. He lives in New York City.
+      Brooklyn College. He lives in New York City and is the Poetry Editor of
+      the Brooklyn Rail. "
   - person: marcella-durand
     event_bio: Marcella Durand's most recent books include The Prospect, just now
       out from Delete Press, https://deletepress.org, and Earth's Horizons, her
