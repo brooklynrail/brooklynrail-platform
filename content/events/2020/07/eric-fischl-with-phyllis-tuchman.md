@@ -36,6 +36,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: pmtxg-Pzi1o
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-90-eric-fischl-tickets-113925409968
 event_platform:
   - zoom
