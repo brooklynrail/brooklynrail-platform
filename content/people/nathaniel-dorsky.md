@@ -2,16 +2,17 @@
 name: Nathaniel Dorsky
 first_name: Nathaniel
 last_name: Dorsky
-short_bio: "Nathaniel Dorsky is an experimental filmmaker and film editor who
-  has been making films since 1963. He has resided in San Francisco since 1971.
-  “The films of Nathaniel Dorsky blend a beauteous celebration of the sensual
-  world with a deep sense of introspection and solitude. They are occasions for
-  reflection and meditation, on light, landscape, time, and the motions of
-  consciousness. Their luminous photography emphasizes the elemental frisson
-  between solidity and luminosity, between spirit and matter, while his uniquely
-  developed montage permits a fluid and flowing experience of time. Dorsky’s
-  films reveal the mystery behind everyday existence, providing intimations of
-  eternity.“ - Steve Polta, San Francisco Cinematheque. "
+short_bio: Nathanial Dorsky has received awards from the Guggenheim, two from
+  the Rockefeller Foundation, the Foundation for Contemporary Arts, the LEF
+  Foundation, and the California Arts Council.  His films have been presented at
+  MOMA, the Centre Pompidou, the Tate Modern, the Filmoteca Española, Madrid,
+  the Prague Film Archive, the Vienna Film Museum, the Pacific Film Archive of
+  the Berkeley Art Museum, the Harvard Film Archive, Princeton University, Yale
+  University, and frequently exhibits new work at the New York Film Festival's
+  Views from the Avant-Garde and the Wavelengths program of the Toronto
+  International Film Festival. In 2012, Dorsky took part in the Whitney
+  Biennial. In 2015, the New York Film Festival honored his work with a
+  thirty-four film complete retrospective at Lincoln Center.
 portraits:
   - media: 2020/07/nathaniel-dorsky
 website: https://nathanieldorsky.net
