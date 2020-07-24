@@ -16,6 +16,12 @@ people:
       University, Tonya holds the George and Judy Marcus Endowed Chair in Poetry
       at San Francisco State University. She was raised in New Orleans, and her
       family goes generations back in Louisiana."
+  - person: todd-colby
+    event_bio: Todd Colby is a Brooklyn-based poet and artist. Colby is the author
+      of six books of poetry. His most recent book, Splash State, was published
+      by The Song Cave in 2014. His writing and art have recently appeared in
+      The Believer, Bomb Magazine, The Brooklyn Rail, Denver Quarterly, Dizzy
+      Magazine, Hyperallergic, and Poetry Magazine.
   - person: olivier-brossard
     event_bio: "A member of the Institut Universitaire de France, Olivier Brossard
       is an Associate Professor of American literature at Université Gustave
