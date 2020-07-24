@@ -3,6 +3,16 @@ title: A Tribute to John Ashbery
 summary: A reading of John Ashbery by poets John Yau, Simone White, Fred Moten,
   Emily Skillings and Douglas Crase. The event will be led by Marcella Durand.
 people:
+  - person: john-yau
+    event_bio: "Poet, art critic, and curator John Yau has published over 50 books
+      of poetry, fiction, and art criticism. Born in Lynn, Massachusetts in 1950
+      to Chinese emigrants, Yau attended Bard College and earned an MFA from
+      Brooklyn College in 1978. His first book of poetry, Crossing Canal Street,
+      was published in 1976. Since then, he has won acclaim for his poetry’s
+      attentiveness to visual culture and linguistic surface. In poems that
+      frequently pun, trope, and play with the English language, Yau offers
+      complicated, sometimes competing versions of the legacy of his dual
+      heritages—as Chinese, American, poet, and artist. "
   - person: simone-white
     event_bio: Simone White was born Middletown, Connecticut, and raised in
       Philadelphia. She earned her BA from Wesleyan University, JD from Harvard
