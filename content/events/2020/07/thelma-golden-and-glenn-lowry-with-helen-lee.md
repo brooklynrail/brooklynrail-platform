@@ -49,7 +49,8 @@ people:
       latest book is titled Wild Art (Phaidon) and his forthcoming book (Penn
       State University) is co-authorized with David Carrier. He has had two
       major exhibitions in Paris in 2017, Pissarro à Eragny at the Musée du
-      Luxembourg and Olga Picasso at the Musée Picasso, Paris."
+      Luxembourg and Olga Picasso at the Musée Picasso, Paris. Joachim is also a
+      Consulting Editor of the Brooklyn Rail."
 date: 2020-07-27 13:00:00 -0500
 end_date: 2020-07-27 14:00:00 -0500
 series: 94
