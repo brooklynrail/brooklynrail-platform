@@ -13,4 +13,6 @@ short_bio: "Tonya M. Foster is the author of A Swarm of Bees in High Court, and
   University, Tonya holds the George and Judy Marcus Endowed Chair in Poetry at
   San Francisco State University. She was raised in New Orleans, and her family
   goes generations back in Louisiana."
+portraits:
+  - media: 2020/07/tonya-m-foster
 ---
