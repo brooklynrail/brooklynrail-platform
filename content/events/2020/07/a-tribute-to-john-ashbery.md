@@ -1,30 +1,9 @@
 ---
 title: A Tribute to John Ashbery
-summary: A reading of John Ashbery by poets John Yau, Simone White, Fred Moten,
-  Emily Skillings and Douglas Crase. The event will be led by Marcella Durand.
+summary: A reading of John Ashbery by poets Tonya Foster, Todd Colby, Emily
+  Skillings, Olivier Brossard and Anselm Berrigan. The event will be led by
+  Marcella Durand.
 people:
-  - person: john-yau
-    event_bio: "Poet, art critic, and curator John Yau has published over 50 books
-      of poetry, fiction, and art criticism. Born in Lynn, Massachusetts in 1950
-      to Chinese emigrants, Yau attended Bard College and earned an MFA from
-      Brooklyn College in 1978. His first book of poetry, Crossing Canal Street,
-      was published in 1976. Since then, he has won acclaim for his poetry’s
-      attentiveness to visual culture and linguistic surface. In poems that
-      frequently pun, trope, and play with the English language, Yau offers
-      complicated, sometimes competing versions of the legacy of his dual
-      heritages—as Chinese, American, poet, and artist. "
-  - person: simone-white
-    event_bio: Simone White was born Middletown, Connecticut, and raised in
-      Philadelphia. She earned her BA from Wesleyan University, JD from Harvard
-      Law School, and MFA from the New School. White is the author of the
-      full-length collection House Envy of All the World (2010) and the
-      chapbooks Dolly (2008) and Unrest (2013). Her work has been praised for
-      its innovative complexity, allusive song, and “lyric deconstruction of
-      desire, entitlement, blackness, the domestic, language and diction,” in
-      the words of Anna Moschovakis. White has received fellowships from Cave
-      Canem and was selected as a New American Poet for the Poetry Society of
-      America. She is completing a PhD in English at the CUNY Graduate Center
-      and lives in Brooklyn, New York.
   - person: tonya-m-foster
     event_bio: "Tonya M. Foster is the author of A Swarm of Bees in High Court, and
       the bilingual chapbook La Grammaire des Os; the chapbook A History of the
