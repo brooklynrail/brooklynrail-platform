@@ -2,7 +2,7 @@
 name: Joachim Pissarro
 first_name: Joachim
 last_name: Pissarro
-pronouns: He/him
+pronouns: ""
 short_bio: "Joachim Pissarro is the Bershad Professor of Art History and
   Director of the Hunter College Galleries, Hunter College, CUNY/City University
   of New York. He was a Curator at MoMA’s Department of Painting and Sculpture.
