@@ -35,13 +35,11 @@ people:
       has worked at Christie’s, Harry N. Abrams Publishing, the Robert Miller
       Gallery, and for James Wolfensohn, among others. Her passion for the arts
       derives from her belief that art and culture provide vital means of
-      communication across cultural and political divides. All art forms,
-      whether through music, theater, dance, poetry, or literature, help us to
-      make sense of the world and current events and can clarify how best to
-      move forward. Helen is an advisor to the Milken Institute for its art and
-      culture programming. She is the Chairman of the American Foundation for
-      the Courtauld Institute of Art, where she completed her post-graduate
-      studies. Helen is also a board member of the Rail.
+      communication across cultural and political divides. Helen is an advisor
+      to the Milken Institute for its art and culture programming. She is the
+      Chairman of the American Foundation for the Courtauld Institute of Art,
+      where she completed her post-graduate studies after earning a BA from
+      Harvard. Helen is also a board member of the Rail.
   - person: joachim-pissaro
     event_bio: "Joachim Pissarro is the Bershad Professor of Art History and
       Director of the Hunter College Galleries, Hunter College, CUNY/City
