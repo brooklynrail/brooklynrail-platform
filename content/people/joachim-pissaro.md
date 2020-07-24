@@ -11,7 +11,8 @@ short_bio: "Joachim Pissarro is the Bershad Professor of Art History and
   titled Wild Art (Phaidon) and his forthcoming book (Penn State University) is
   co-authorized with David Carrier. He has had two major exhibitions in Paris in
   2017, Pissarro à Eragny at the Musée du Luxembourg and Olga Picasso at the
-  Musée Picasso, Paris."
+  Musée Picasso, Paris. Joachim is also the consulting editor of the Brooklyn
+  Rail. "
 portraits:
   - media: 2020/07/joachim-pissaro-1
 rail_contributor_url: https://brooklynrail.org/contributor/joachim-pissarro
