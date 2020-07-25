@@ -1,6 +1,6 @@
 ---
-name: Ann Waldman
-first_name: Ann
+name: Anne Waldman
+first_name: Anne
 last_name: Waldman
 short_bio: "Internationally recognized and acclaimed poet Anne Waldman has been
   an active member of the “Outrider” experimental poetry community, a culture
