@@ -3,7 +3,7 @@ title: Thelma Golden and Glenn Lowry with Helen Lee and Joachim Pissarro
 summary: Director and Curator of The Studio Museum in Harlem, Thelma Golden, and
   the Director of MoMA, Glenn Lowry, will be in conversation with Rail board
   member, Helen Lee and Rail Consulting Editor, Joachim Pissarro.  We'll
-  conclude with a poetry reading from Ann Waldman.
+  conclude with a poetry reading from Anne Waldman.
 people:
   - person: thelma-golden
     event_bio: "Thelma Golden is Director and Chief Curator of The Studio Museum in
@@ -53,6 +53,12 @@ people:
       (2018, Penn State University Press) is co-authored with David Carrier,
       following Wild Art (Phaidon, 2016).  Joachim is also a Consulting Editor
       of the Brooklyn Rail."
+poets:
+  - person: ann-waldman
+    event_bio: Anne Waldman is a member of the “Outrider” experimental poetry
+      community. Her poetry is recognized in the Beat, New York School, and
+      Black Mountain trajectories, and she has raised the bar as a feminist,
+      activist, and powerful performer.
 date: 2020-07-27 13:00:00 -0500
 end_date: 2020-07-27 14:00:00 -0500
 series: 94
