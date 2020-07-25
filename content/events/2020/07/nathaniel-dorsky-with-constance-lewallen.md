@@ -2,7 +2,7 @@
 title: Nathaniel Dorsky with Constance Lewallen
 summary: "Filmmaker Nathaniel Dorsky will discuss his body of work with writer,
   curator, and Rail Editor-at-Large, Constance Lewallen. We'll conclude with a
-  poetry reading. "
+  poetry reading from Patricia Spears Jones. "
 people:
   - person: nathaniel-dorsky
     event_bio: Nathanial Dorsky, known as Nick, was born in NY.  He moved to SF in
@@ -43,6 +43,12 @@ people:
       Her recent books published by UC Press include: 500 Capp Street: David
       Ireland’s house and Bruce Nauman; Spatial Encounters (co-author Dore
       Bowen). Lewallen is currently Editor-at-Large for the Brooklyn Rail."
+poets:
+  - person: patricia-spears-jones
+    event_bio: Patricia Spears Jones is the author of four collections of poetry and
+      has been the recipient of numerous awards. She currently teaches at CUNY,
+      serves, as a fellow of the Black Earth Institute and has long been
+      involved with the Poetry Project at St. Marks Church.
 date: 2020-07-30 13:00:00 -0500
 end_date: 2020-07-30 14:00:00 -0500
 series: 97
