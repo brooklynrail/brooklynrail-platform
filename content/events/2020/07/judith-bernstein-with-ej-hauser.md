@@ -1,7 +1,7 @@
 ---
 title: Judith Bernstein with EJ Hauser
 summary: Artist Judith Bernstein will discuss her body of work with painter, EJ
-  Hauser. We'll conclude with a poetry reading.
+  Hauser. We'll conclude with a poetry reading from Kyle Dacuyan.
 people:
   - person: judith-bernstein
     event_bio: "Since graduating from Yale in 1967, Judith Bernstein has developed a
@@ -25,6 +25,12 @@ people:
       transliterates onto canvas. Each piece is composed of multiple layers of
       color. The vibrating color connects directly to the energy and aliveness
       of her nature-based subject matter.
+poets:
+  - person: kyle-dacuyan
+    event_bio: "Kyle Dacuyan is a poet, performer, and translator. Prior to joining
+      The Poetry Project, he served as Co-Director of National Outreach and
+      Membership at PEN America, where he led the launch of a nationwide
+      community engagement fund for writers. "
 date: 2020-07-31 13:00:00 -0500
 end_date: 2020-07-31 14:00:00 -0500
 series: 98
