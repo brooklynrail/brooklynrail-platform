@@ -15,4 +15,5 @@ short_bio: Rabih Ahmed is a Ghanaian-American poet and educator from the Bronx,
   exploration, and healing.
 portraits:
   - media: 2020/07/rabih-ahmed-headshot
+website: https://lovelightandpoetry.com
 ---
