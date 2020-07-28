@@ -5,15 +5,19 @@ summary: Artist Kambui Olujimi will discuss his body of work with artist and
   Rabih Ahmed.
 people:
   - person: kambui-olujimi-1
-    event_bio: Kambui Olujimi was born and raised in Bedford Stuyvesant, Brooklyn.
-      He received his MFA from Columbia University School of the Arts and is a
-      graduate of Parson's School of Design and the Skowhegan School of Painting
-      and Sculpture. Olujimi works within the realm of ideas rather than within
-      an exclusive medium. Although he has directed a great deal of work in
-      film, his is truly a multi-media practice. He crafts potent social
-      commentary from delicate wisps of myth and whimsy mixed with real-world
-      narrative. Lyrical and elliptical rather than ideological, Olujimi’s art
-      transcends the political sphere, affirming its own autonomy.
+    event_bio: >-
+      Kambui Olujimi was born and raised in Bedford-Stuyvesant Brooklyn and
+      received his MFA from Columbia University in New York City. Olujimi’s work
+      challenges established modes of thinking that commonly function as
+      "inevitabilities." This pursuit takes shape through interdisciplinary
+      bodies of work spanning sculpture, installation, photography, writing,
+      video and performance. His solo exhibitions include; Zulu Time, at Madison
+      Museum of Contemporary Art, A Life in Pictures, at MIT List Visual Arts
+      Center, Solastalgia, at Cue Arts Foundation, and Wayward North at Art in
+      General. 
+
+
+      His works have premiered nationally at The Sundance Film Festival, Studio Museum in Harlem, MoMA P.S.1, Museum of Contemporary Art, Los Angeles and Mass MoCA. Internationally his work has been featured at The Jim Thompson Art Center in Bangkok;  Museo Nacional Reina Sofia in Madrid; Kiasma Museum of Contemporary Art in Finland and Para Site in Hong Kong among others. Olujimi has been awarded residencies from Black Rock Senegal, Skowhegan School of Painting and Sculpture, Robert Rauschenberg Foundation, and MacDowell Colony. He has received grants and commissions from numerous institutions including The Jerome Foundation, NFYA/ NYSCA Fellowship and MTA Arts & Design.  News media and periodicals such as The New Yorker, Art Forum, Art in America, Brooklyn Rail, CNN, PBS, and  The New York Times and have featured Olujimi’s artwork. Monographs on his past project include Zulu Time (2017), Walk the Plank (2006), Winter in America (in collaboration with Hank Willis Thomas, 2006), The Lost Rivers Index (2007)  and Wayward North (2012).
   - person: yasi-alipour
     event_bio: Yasi Alipour (Columbia University, MFA 2018) is an Iranian
       artist/writer/folder who currently lives in Brooklyn and wonders about
