@@ -12,6 +12,19 @@ people:
       the Nicholas Fox Weber curatorial fellowship, affiliated with the
       Glucksman Museum (Cork, Ireland), as well as a curatorial
       fellow-in-residence at Art in General (Brooklyn, NY).
+  - person: joan-jonas
+    event_bio: Immersed in the 1960s downtown New York art scene, Joan Jonas studied
+      with the choreographer Trisha Brown for two years and was influenced by
+      the work of John Cage and Claes Oldenburg. Adopting the idea of
+      art-as-process, she turned from painting and sculpture to performance art,
+      exploring different aspects of how live events could be structured in time
+      and space. In the early 70s, her work became increasingly symbolic,
+      gamelike, and ritualistic. By the 80s, she began to create complex,
+      nonlinear narratives premised on literary and historical texts, including
+      science-fiction, medieval Icelandic sagas, and, more recently, the
+      writings and biography of the art historian Aby Warburg. Her most recent
+      work explores the relationship between new digital media and performance
+      in multichannel video installations.
 date: 2020-07-28 16:37:00 -0500
 end_date: 2020-07-28 16:37:00 -0500
 collections:
