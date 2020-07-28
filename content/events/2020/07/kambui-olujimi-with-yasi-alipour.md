@@ -23,10 +23,10 @@ people:
       contributor of the Rail.
 poets:
   - person: rabih-ahmed
-    event_bio: Rabih Ahmed is a Ghanaian-American poet and educator from the Bronx
-      who uses rhythms and histories of the African diaspora in her poetry to
-      bridge lost narratives across the Atlantic. She created LOVE LIGHT &
-      POETRY, which brings poetry workshops to marginalized communities.
+    event_bio: Rabih Ahmed is a Ghanaian-American Muslim poet & performer from The
+      Bronx. Her poetry is grounded in oral traditions and histories of the
+      African Diaspora. She has performed at Apollo Theatre, Nuyorican Poets
+      Cafe, and throughout the African diaspora.
 date: 2020-07-29 13:00:00 -0500
 end_date: 2020-07-29 14:00:00 -0500
 series: 96
