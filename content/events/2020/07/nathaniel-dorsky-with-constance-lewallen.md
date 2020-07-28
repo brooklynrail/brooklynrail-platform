@@ -5,21 +5,21 @@ summary: "Filmmaker Nathaniel Dorsky will discuss his body of work with writer,
   poetry reading from Patricia Spears Jones. "
 people:
   - person: nathaniel-dorsky
-    event_bio: Nathanial Dorsky, known as Nick, was born in NY.  He moved to SF in
+    event_bio: Nathaniel Dorsky, known as Nick, was born in NY.  He moved to SF in
       1971. He has received numerous awards including a Guggenheim, two from the
       Rockefeller Foundation, the Foundation for Contemporary Arts, the LEF
       Foundation, and the California Arts Council.  His films have been
       presented at MOMA, the Centre Pompidou, the Tate Modern, the Filmoteca
       Española, Madrid, the Prague Film Archive, the Vienna Film Museum, the
-      Pacific Film Archive of the Berkeley Art Museum,, the Harvard Film
-      Archive, Princeton University, Yale University, and frequently exhibits
-      new work at the New York Film Festival's Views from the Avant-Garde and
-      the Wavelengths program of the Toronto International Film Festival. In
-      spring 2012, Dorsky took actively part in the three-month exposition of
-      Whitney Biennial. In October 2015, the New York Film Festival honored his
-      work with a thirty-four film complete retrospective at Lincoln Center.
-      Manohla Dargis of the New York Times listed this retrospective in second
-      place in her list of the top ten films of 2015.
+      Pacific Film Archive of the Berkeley Art Museum, the Harvard Film Archive,
+      Princeton University, Yale University, and frequently exhibits new work at
+      the New York Film Festival's Views from the Avant-Garde and the
+      Wavelengths program of the Toronto International Film Festival. In spring
+      2012, Dorsky took actively part in the three-month exposition of Whitney
+      Biennial. In October 2015, the New York Film Festival honored his work
+      with a thirty-four film complete retrospective at Lincoln Center. Manohla
+      Dargis of the New York Times listed this retrospective in second place in
+      her list of the top ten films of 2015.
   - person: constance-lewallen
     event_bio: "Constance Lewallen is Adjunct Curator at the University of
       California Berkeley Art Museum and Pacific Film Archive. As Matrix curator
