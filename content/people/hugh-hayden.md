@@ -14,4 +14,6 @@ short_bio: "Hugh Hayden transforms familiar materials to challenge our
   examine their place within an ever-shifting ecosystem. "
 portraits:
   - media: 2020/07/hugh-hayden
+website: https://hughhayden.com/
+instagram: huthhayden
 ---
