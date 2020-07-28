@@ -25,8 +25,9 @@ people:
       writings and biography of the art historian Aby Warburg. Her most recent
       work explores the relationship between new digital media and performance
       in multichannel video installations.
-date: 2020-07-28 16:37:00 -0500
-end_date: 2020-07-28 16:37:00 -0500
+date: 2020-08-03 13:00:00 -0500
+end_date: 2020-08-03 14:00:00 -0500
+series: 99
 collections:
   - the-new-social-environment
 event_organizer:
