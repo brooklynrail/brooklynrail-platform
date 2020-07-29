@@ -16,4 +16,5 @@ short_bio: EJ Hauser is a painter who lives and works in Brooklyn. Her paintings
 portraits:
   - media: 2020/07/ej-hauser-headshot
 website: https://ejhauser.org/home.html
+instagram: ej_hauser
 ---
