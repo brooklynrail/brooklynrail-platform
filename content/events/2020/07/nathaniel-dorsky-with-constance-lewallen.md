@@ -45,10 +45,10 @@ people:
       Bowen). Lewallen is currently Editor-at-Large for the Brooklyn Rail."
 poets:
   - person: patricia-spears-jones
-    event_bio: Patricia Spears Jones is the author of four collections of poetry and
-      has been the recipient of numerous awards. She currently teaches at CUNY,
-      serves, as a fellow of the Black Earth Institute and has long been
-      involved with the Poetry Project at St. Marks Church.
+    event_bio: Arkansas born & raised; resident of NYC for more than four decades,
+      Patricia Spears Jones is the recipient of The Jackson Poetry Prize and has
+      been a culture maven for four decades and was the first African American
+      Program Coordinator at The Poetry Project at St. Mark’s Church.
 date: 2020-07-30 13:00:00 -0500
 end_date: 2020-07-30 14:00:00 -0500
 series: 97
