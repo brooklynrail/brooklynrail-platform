@@ -3,14 +3,6 @@ title: Hugh Hayden with Dr. Julie Reiss
 summary: Artist Hugh Hayden will discuss their body of work with Rail editor,
   Dr. Julie Reiss. We'll conclude with a poetry reading from Judah Rubin.
 people:
-  - person: dr-julie-reiss
-    event_bio: "Julie Reiss is an art historian who directs a Master's program at
-      Christie's Education. Julie has presented papers and chaired panels on
-      issues related to art and climate change at conferences including the
-      College Art Association and the Conference for the Council for European
-      Studies. She is the author of From Margin to Center: The Spaces of
-      Installation Art (1999) and the editor of Art, Theory and Practice in the
-      Anthropocene (2018)."
   - person: hugh-hayden
     event_bio: "Hugh Hayden transforms familiar materials to challenge our
       perceptions of ourselves, others, and the environment. Raised in Texas and
@@ -23,6 +15,14 @@ people:
       African sculptures. Hayden’s work questions the stasis of social dynamics
       and asks the viewer to examine their place within an ever-shifting
       ecosystem. "
+  - person: dr-julie-reiss
+    event_bio: "Dr. Julie Reiss is an art historian who directs a Master's program
+      at Christie's Education. Julie has presented papers and chaired panels on
+      issues related to art and climate change at conferences including the
+      College Art Association and the Conference for the Council for European
+      Studies. She is the author of From Margin to Center: The Spaces of
+      Installation Art (1999) and the editor of Art, Theory and Practice in the
+      Anthropocene (2018)."
 poets:
   - person: judah-rubin
     event_bio: "Judah Rubin is the author of Antiquarian Historiography, forthcoming
