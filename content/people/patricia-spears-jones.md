@@ -1,16 +1,17 @@
 ---
 name: Patricia Spears Jones
 first_name: Patricia
-short_bio: Born in 1951 in Forrest City, Arkansas, Patricia Spears Jones is the
-  author of four collections of poetry and has been the recipient of numerous
-  awards, including fellowships and grants from the National Endowment for the
-  Arts, the New York Foundation for the Arts, the Foundation for Contemporary
-  Arts, the Goethe Institute, and the Bread Loaf Writers' Conference. A resident
-  of New York City since the 1970s, Spears Jones currently serves as a fellow of
-  the Black Earth Institute and has long been involved with the Poetry Project
-  at St. Marks Church. She has taught at Cave Canem, Parsons School of Design,
-  The New School, Sarah Lawrence College, and Naropa University, and she
-  currently teaches at the City University of New York.
+short_bio: Arkansas born and raised; resident of New York City for more than
+  four decades, Patricia Spears Jones is the recipient of The Jackson Poetry
+  Prize. She has been a culture maven for four decades. She was the first
+  African American Program Coordinator at The Poetry Project at St. Mark’s
+  Church where she later served as Mentor for Emerge, Surface, Be, a fellowship
+  program. She ran the New Works Program for the Massachusetts Council of Arts &
+  Humanities and was Director of Planning & Development at The New Museum of
+  Contemporary Art. She is active in organizations involved with progressive
+  politics, social justice, feminism, the environment, and multi-culturalism.
+  She curates WORDS SUNDAY, a series focused on Brooklyn-based writers and
+  artists. She has taught at CUNY and Adelphi University.
 portraits:
   - media: 2020/06/patricia-spears-jones
 ---
