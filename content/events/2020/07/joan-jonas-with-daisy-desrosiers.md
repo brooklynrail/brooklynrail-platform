@@ -1,7 +1,8 @@
 ---
 title: Joan Jonas with Daisy Desrosiers
 summary: "Artist and performer Joan Jonas will discuss her body of work with
-  Rail guest critic, Daisy Desrosiers. We'll conclude with a poetry reading. "
+  Rail guest critic, Daisy Desrosiers. We'll conclude with a poetry reading from
+  Stacy Symaszek. "
 people:
   - person: daisy-desrosiers
     event_bio: Daisy Desrosiers is the inaugural Director of Artist Programs at the
@@ -25,6 +26,12 @@ people:
       writings and biography of the art historian Aby Warburg. Her most recent
       work explores the relationship between new digital media and performance
       in multichannel video installations.
+poets:
+  - person: stacy-szymaszek
+    event_bio: Stacy Symaszek is the author of six books, including Famous Hermits,
+      forthcoming in 2021. She directed The Poetry Project at St. Mark's from
+      2007-2018 and most recently, was the recipient of a 2019 FCA grant in
+      poetry and Visiting Hugo Writer at the University of Montana 2018-19.
 date: 2020-08-03 13:00:00 -0500
 end_date: 2020-08-03 14:00:00 -0500
 series: 99
