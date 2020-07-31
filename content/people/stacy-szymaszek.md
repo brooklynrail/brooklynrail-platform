@@ -2,7 +2,7 @@
 name: Stacy Szymaszek
 first_name: Stacy
 last_name: Szymaszek
-short_bio: "Stacy Symaszek is the author of six books including Journal of Ugly
+short_bio: "Stacy Szymaszek is the author of six books including Journal of Ugly
   Sites and Other Journals (2016), which won the Ottoline Prize from Fence Books
   and was nominated for a Lambda Literary Award in 2017, and, most recently, A
   Year From Today (2018). Famous Hermits, will be published in 2021. Szymaszek
