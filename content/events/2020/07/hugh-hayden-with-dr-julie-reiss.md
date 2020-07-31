@@ -43,7 +43,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
-registration_url: https://www.eventbrite.com/manage/events/115354923682/details
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-100-hugh-hayden-tickets-115354923682
 event_platform:
   - zoom
 ---
