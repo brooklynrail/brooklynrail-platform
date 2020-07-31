@@ -9,4 +9,5 @@ short_bio: "Judah Rubin lives in Queens. He is the author of Antiquarian
   English at the CUNY Graduate Center. "
 portraits:
   - media: 2020/07/judah-rubin-headshot
+rail_contributor_url: https://brooklynrail.org/contributor/judah-rubin
 ---
