@@ -13,5 +13,6 @@ short_bio: "Kimberly Alidio is the author of the poetry books, why letter
   History from the University of Michigan."
 portraits:
   - media: 2020/07/kimberly-alidio-headshot
+rail_contributor_url: https://brooklynrail.org/contributor/Kimberly-Alidio
 website: https://kimberlyalidio.com
 ---
