@@ -13,4 +13,5 @@ short_bio: "Murat Nemet-Nejat's work includes the poems The Spiritual Life of
   a book of English translations of the Turkish poet Sami Baydar.\""
 portraits:
   - media: 2020/07/murat-nemet-nejat
+rail_contributor_url: https://brooklynrail.org/contributor/murat-nemet-nejat
 ---
