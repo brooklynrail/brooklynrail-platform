@@ -13,7 +13,7 @@ short_bio: "Hugh Hayden transforms familiar materials to challenge our
   Hayden’s work questions the stasis of social dynamics and asks the viewer to
   examine their place within an ever-shifting ecosystem. "
 portraits:
-  - media: 2020/07/hugh-hayden
+  - media: 2020/07/hugh-hayden-headshot
 website: https://hughhayden.com/
 instagram: huthhayden
 ---
