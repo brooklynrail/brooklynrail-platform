@@ -34,7 +34,7 @@ poets:
         url: https://www.aperfectvacuum.club
 date: 2020-08-04 13:00:00 -0500
 end_date: 2020-08-04 14:00:00 -0500
-series: 96
+series: 100
 collections:
   - the-new-social-environment
 event_sponsor:
