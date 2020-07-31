@@ -2,7 +2,7 @@
 title: Joan Jonas with Daisy Desrosiers
 summary: "Artist and performer Joan Jonas will discuss selected works with Rail
   guest critic, Daisy Desrosiers. We'll conclude with a poetry reading from
-  Stacy Symaszek. "
+  Stacy Szymaszek. "
 people:
   - person: joan-jonas
     event_bio: Immersed in the 1960s downtown New York art scene, Joan Jonas studied
@@ -29,7 +29,7 @@ people:
       fellow-in-residence at Art in General (Brooklyn, NY).
 poets:
   - person: stacy-szymaszek
-    event_bio: Stacy Symaszek is the author of six books, including Famous Hermits,
+    event_bio: Stacy Szymaszek is the author of 6 books, including Famous Hermits,
       forthcoming in 2021. She directed The Poetry Project at St. Mark's from
       2007-2018 and most recently, was the recipient of a 2019 FCA grant in
       poetry and Visiting Hugo Writer at the University of Montana 2018-19.
