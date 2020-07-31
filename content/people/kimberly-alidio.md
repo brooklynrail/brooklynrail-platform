@@ -10,7 +10,7 @@ short_bio: "Kimberly Alidio is the author of the poetry books, why letter
   anthologies, Counter-Desecration: A Glossary for Writing Within the
   Anthropocene and Filipino Studies: Palimpsests of Nation and Diaspora. She
   holds a MFA in Poetry candidacy at the University of Arizona and a PhD in
-  History from the University of Michigan. Her website is kimberlyalidio.com."
+  History from the University of Michigan."
 portraits:
   - media: 2020/07/kimberly-alidio-headshot
 website: https://kimberlyalidio.com
