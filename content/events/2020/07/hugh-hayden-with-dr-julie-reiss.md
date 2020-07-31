@@ -1,7 +1,8 @@
 ---
 title: Hugh Hayden with Dr. Julie Reiss
-summary: Artist Hugh Hayden will discuss their body of work with Rail editor,
-  Dr. Julie Reiss. We'll conclude with a poetry reading from Judah Rubin.
+summary: Artist and sculptor, Hugh Hayden will discuss his recent work with Rail
+  editor, Dr. Julie Reiss. We'll conclude with a poetry reading from Judah
+  Rubin.
 people:
   - person: hugh-hayden
     event_bio: "Hugh Hayden transforms familiar materials to challenge our
