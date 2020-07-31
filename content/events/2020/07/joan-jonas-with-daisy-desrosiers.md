@@ -1,7 +1,7 @@
 ---
 title: Joan Jonas with Daisy Desrosiers
-summary: "Artist and performer Joan Jonas will discuss her body of work with
-  Rail guest critic, Daisy Desrosiers. We'll conclude with a poetry reading from
+summary: "Artist and performer Joan Jonas will discuss selected works with Rail
+  guest critic, Daisy Desrosiers. We'll conclude with a poetry reading from
   Stacy Symaszek. "
 people:
   - person: joan-jonas
@@ -18,7 +18,8 @@ people:
       work explores the relationship between new digital media and performance
       in multichannel video installations.
   - person: daisy-desrosiers
-    event_bio: Daisy Desrosiers is the inaugural Director of Artist Programs at the
+    event_bio: Daisy Desrosiers is an independent curator and researcher based in
+      Montreal. Desrosiers is the inaugural Director of Artist Programs at the
       Lunder Institute for American Art at Colby College. She is an
       interdisciplinary art historian and independent curator. Her thesis
       concerns the cultural, post-colonial, and material implications of the use
