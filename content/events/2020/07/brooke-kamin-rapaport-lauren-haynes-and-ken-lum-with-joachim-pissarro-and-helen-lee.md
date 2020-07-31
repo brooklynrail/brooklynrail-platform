@@ -1,8 +1,10 @@
 ---
 title: Brooke Kamin Rapaport, Lauren Haynes, and Ken Lum with Joachim Pissarro
   and Helen Lee
-summary: Brooke Kamin Rapaport, Lauren Haynes, and Ken Lum with Joachim Pissarro
-  and Helen Lee. We'll conclude with a poetry reading from Kimberly Alidio.
+summary: Curators, writers, and critics Brooke Kamin Rapaport, Lauren Haynes,
+  and Ken Lum will be in conversation with Rail consulting editor, Joachim
+  Pissarro and Rail board member, Helen Lee. We'll conclude with a poetry
+  reading from Kimberly Alidio.
 people:
   - person: brooke-kamin-rapaport
     event_bio: "Brooke Kamin Rapaport is a museum curator, independent curator, and
@@ -88,6 +90,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/new-social-environment-102-brooke-kamin-rapaport-lauren-haynes-ken-lum-tickets-115521757687
 event_platform:
   - zoom
 ---
