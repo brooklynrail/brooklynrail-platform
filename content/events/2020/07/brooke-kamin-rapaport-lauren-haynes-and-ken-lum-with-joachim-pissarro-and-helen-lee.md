@@ -1,6 +1,5 @@
 ---
-title: Brooke Kamin Rapaport, Lauren Haynes, and Ken Lum with Joachim Pissarro
-  and Helen Lee
+title: Do We Still Need Monuments?
 summary: Curators, writers, and critics Brooke Kamin Rapaport, Lauren Haynes,
   and Ken Lum will be in conversation with Rail consulting editor, Joachim
   Pissarro and Rail board member, Helen Lee. We'll conclude with a poetry
@@ -93,4 +92,6 @@ event_producer:
 registration_url: https://www.eventbrite.com/e/new-social-environment-102-brooke-kamin-rapaport-lauren-haynes-ken-lum-tickets-115521757687
 event_platform:
   - zoom
+aliases:
+  - /events/2020/08/06/brooke-kamin-rapaport-lauren-haynes-and-ken-lum-with-joachim-pissarro-and-helen-lee/
 ---
