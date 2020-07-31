@@ -1,6 +1,6 @@
 ---
-name: Devandra Banhart
-first_name: Devandra
+name: Devendra Banhart
+first_name: Devendra
 last_name: Banhart
 short_bio: Born in Texas, and raised by his mother in Venezuela until returning
   to California as a teenager, Devendra Banhart is admired for his shimmering,
