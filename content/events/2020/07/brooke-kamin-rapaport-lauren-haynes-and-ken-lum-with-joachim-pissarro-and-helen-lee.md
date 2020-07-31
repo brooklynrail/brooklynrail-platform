@@ -40,6 +40,21 @@ people:
       (2018, Penn State University Press) is co-authored with David Carrier,
       following Wild Art (Phaidon, 2016).  Joachim is also a Consulting Editor
       of the Brooklyn Rail."
+  - person: lauren-haynes
+    event_bio: "Lauren Haynes is the Curator of Contemporary Art at Crystal Bridges
+      Museum of American Art and Curator of Visual Arts at the Momentary in
+      Bentonville, Arkansas. Haynes was co-curator of the 2018 Crystal Bridges’
+      exhibition The Beyond: Georgia O’Keeffe and Contemporary Art and is
+      co-curator of the 2019 exhibition Crystals in Art: Ancient to Today.
+      Haynes is currently leading the curatorial team working on the forthcoming
+      iteration of State of the Art, scheduled to open at both Crystal Bridges
+      and the Momentary in February 2020. Prior to joining Crystal Bridges in
+      October 2016, Haynes spent nearly a decade at The Studio Museum in Harlem.
+      As a specialist in African-American contemporary art, Haynes curated
+      dozens of exhibitions at the Studio Museum and contemporary art
+      institutions in New York. Haynes was a 2018 Center for Curatorial
+      Leadership fellow. Haynes is co-curator of the inaugural Tennessee
+      Triennial for Contemporary Art taking place across Tennessee in 2021. "
 poets: []
 date: 2020-08-06 13:00:00 -0500
 end_date: 2020-08-06 14:00:00 -0500
