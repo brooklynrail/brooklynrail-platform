@@ -2,8 +2,8 @@
 title: The Near Future of the Public Art Museum
 summary: "Writers and art critics, Amanda Fortini, Mary Abbe Hintz, and Seph
   Rodney will discuss art criticism in the context of our new social reality
-  with David Carrier. We'll conclude with a poetry reading from Brandon Downing.
-  "
+  with Rail guest critic, David Carrier. We'll conclude with a poetry reading
+  from Brandon Downing. "
 people:
   - person: amanda-fortini
     event_bio: Amanda Fortini has written for The New York Times, The New York Times
