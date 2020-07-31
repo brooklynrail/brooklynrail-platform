@@ -72,7 +72,11 @@ people:
       institutions on exploratory approaches to public engagement and collective
       memory. Monument Lab cultivates and facilitates critical conversations
       around the past, present, and future of monuments."
-poets: []
+poets:
+  - person: kimberly-alidio
+    event_bio: Kimberly Alidio's most recent chapbook is "a cell of falls." Her
+      prose has appeared or is forthcoming in Harriet, Poetry Northwest, Social
+      Text, and American Quarterly, among others.
 date: 2020-08-06 13:00:00 -0500
 end_date: 2020-08-06 14:00:00 -0500
 series: 102
