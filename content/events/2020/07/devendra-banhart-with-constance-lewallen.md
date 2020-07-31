@@ -1,7 +1,7 @@
 ---
 title: Devendra Banhart with Constance Lewallen
-summary: Performer, artist, and musician, Devandra Banhat will discuss his body
-  of work with Rail Editor-at-Large, Constance Lewallen. We'll conclude with a
+summary: Artist, musician, and poet, Devandra Banhat will discuss his body of
+  work with Rail Editor-at-Large, Constance Lewallen. We'll conclude with a
   poetry reading from Murat Nemet-Nejat.
 people:
   - person: devandra-banhart
