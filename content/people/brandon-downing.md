@@ -10,6 +10,8 @@ short_bio: "Brandon Downing’s collections of poetry include The Shirt Weapon
   completed a sixteen-book cycle based around Euripides' The Bacchae. Originally
   from the San Francisco Bay Area, he now lives in Columbia County, New York and
   is freaking out like everybody else."
+portraits:
+  - media: 2020/07/brandon-downing-headshot
 rail_contributor_url: https://brooklynrail.org/contributor/brandon-downing
 instagram: thebrandondowning
 ---
