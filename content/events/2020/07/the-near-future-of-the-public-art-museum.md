@@ -76,6 +76,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/new-social-environment-101-the-near-future-of-the-public-art-museum-tickets-115413714527
 event_platform:
   - zoom
 ---
