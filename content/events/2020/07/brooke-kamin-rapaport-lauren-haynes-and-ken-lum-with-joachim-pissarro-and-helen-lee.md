@@ -55,6 +55,23 @@ people:
       institutions in New York. Haynes was a 2018 Center for Curatorial
       Leadership fellow. Haynes is co-curator of the inaugural Tennessee
       Triennial for Contemporary Art taking place across Tennessee in 2021. "
+  - person: ken-lum
+    event_bio: "Ken Lum is known for his conceptual and representational art in a
+      number of media, including painting, sculpture, and photography. A
+      longtime professor, he currently is the Chair of Fine Arts at the
+      University of Pennsylvania’s School of Design in Philadelphia. He was
+      formerly Professor of Art at the University of British Columbia, Vancouver
+      where he was also Head of the Graduate Program in Studio Art; Bard
+      College, Annandale on Hudson, New York, and the l’Ecole des Beaux-Arts,
+      Paris.  A co-founder and founding editor of Yishu: Journal of Contemporary
+      Chinese Art, he is a prolific writer with numerous published articles,
+      catalog essays, and juried papers.  In 2000, he worked as co-editor of the
+      Shanghai Biennale. In 2012, Ken founded Monument Lab with Paul Farber,
+      independent public art and history studio based in Philadelphia that works
+      with artists, students, activists, municipal agencies, and cultural
+      institutions on exploratory approaches to public engagement and collective
+      memory. Monument Lab cultivates and facilitates critical conversations
+      around the past, present, and future of monuments."
 poets: []
 date: 2020-08-06 13:00:00 -0500
 end_date: 2020-08-06 14:00:00 -0500
