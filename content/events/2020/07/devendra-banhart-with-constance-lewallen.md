@@ -27,6 +27,12 @@ people:
       quirky, whimsical, at times melancholic sensibility. His most recent album
       is Ma, a collection of tender and elegant songs that speak to the Buddhist
       belief that everyone has been a mother at some point.
+poets:
+  - person: murat-nemet-nejat
+    event_bio: Murat Nemet-Nejat's work includes the poems The Spiritual Life of
+      Replicants, Animals of Dawn, and the essays “Questions of Accent” among
+      others. He is presently writing the poem Camels and Weasels and preparing
+      a book of English translations of the Turkish poet Sami Baydar."
 date: 2020-08-07 13:00:00 -0500
 end_date: 2020-08-07 14:00:00 -0500
 series: 103
