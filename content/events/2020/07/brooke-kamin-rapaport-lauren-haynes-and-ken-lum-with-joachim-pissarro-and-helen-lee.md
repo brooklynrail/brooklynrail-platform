@@ -16,30 +16,6 @@ people:
       Martin Puryear: Liberty/Libertà. She has curated exhibitions at the
       Brooklyn Museum, the Jewish Museum, the Fine Arts Museums of San
       Francisco, among others. "
-  - person: helen-lee
-    event_bio: Helen Lee has had many roles in the art world, including collector,
-      academic, art advisor, art book editor, and auction house specialist. She
-      has worked at Christie’s, Harry N. Abrams Publishing, the Robert Miller
-      Gallery, and for James Wolfensohn, among others. Her passion for the arts
-      derives from her belief that art and culture provide vital means of
-      communication across cultural and political divides. Helen is an advisor
-      to the Milken Institute for its art and culture programming. She is the
-      Chairman of the American Foundation for the Courtauld Institute of Art,
-      where she completed her post-graduate studies after earning a BA from
-      Harvard. Helen is also a board member of the Rail.
-  - person: joachim-pissaro
-    event_bio: "Joachim Pissarro is the Bershad Professor of Art History and
-      Director of the Hunter College Galleries, Hunter College, CUNY/City
-      University of New York. He was a Curator at MoMA’s Department of Painting
-      and Sculpture. His recent curatorial projects include Alberto Giacometti |
-      Yves Klein: In Search of the Absolute at Gagosian Gallery London (2016);
-      Pissarro à Eragny at the Musée du Luxembourg (2017); Olga Picasso, Musée
-      National Picasso, Paris (2017), Museo Picasso, Málaga (2019), and the
-      Pushkin State Museum of Fine Arts, Moscow (2019). His latest book
-      Aesthetics of the Margins / The Margins of Aesthetics: Wild Art Explained
-      (2018, Penn State University Press) is co-authored with David Carrier,
-      following Wild Art (Phaidon, 2016).  Joachim is also a Consulting Editor
-      of the Brooklyn Rail."
   - person: lauren-haynes
     event_bio: "Lauren Haynes is the Curator of Contemporary Art at Crystal Bridges
       Museum of American Art and Curator of Visual Arts at the Momentary in
@@ -72,6 +48,30 @@ people:
       institutions on exploratory approaches to public engagement and collective
       memory. Monument Lab cultivates and facilitates critical conversations
       around the past, present, and future of monuments."
+  - person: helen-lee
+    event_bio: Helen Lee has had many roles in the art world, including collector,
+      academic, art advisor, art book editor, and auction house specialist. She
+      has worked at Christie’s, Harry N. Abrams Publishing, the Robert Miller
+      Gallery, and for James Wolfensohn, among others. Her passion for the arts
+      derives from her belief that art and culture provide vital means of
+      communication across cultural and political divides. Helen is an advisor
+      to the Milken Institute for its art and culture programming. She is the
+      Chairman of the American Foundation for the Courtauld Institute of Art,
+      where she completed her post-graduate studies after earning a BA from
+      Harvard. Helen is also a board member of the Rail.
+  - person: joachim-pissaro
+    event_bio: "Joachim Pissarro is the Bershad Professor of Art History and
+      Director of the Hunter College Galleries, Hunter College, CUNY/City
+      University of New York. He was a Curator at MoMA’s Department of Painting
+      and Sculpture. His recent curatorial projects include Alberto Giacometti |
+      Yves Klein: In Search of the Absolute at Gagosian Gallery London (2016);
+      Pissarro à Eragny at the Musée du Luxembourg (2017); Olga Picasso, Musée
+      National Picasso, Paris (2017), Museo Picasso, Málaga (2019), and the
+      Pushkin State Museum of Fine Arts, Moscow (2019). His latest book
+      Aesthetics of the Margins / The Margins of Aesthetics: Wild Art Explained
+      (2018, Penn State University Press) is co-authored with David Carrier,
+      following Wild Art (Phaidon, 2016).  Joachim is also a Consulting Editor
+      of the Brooklyn Rail."
 poets:
   - person: kimberly-alidio
     event_bio: Kimberly Alidio's most recent chapbook is "a cell of falls." Her
