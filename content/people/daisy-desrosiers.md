@@ -13,5 +13,4 @@ short_bio: Daisy Desrosiers is the inaugural Director of Artist Programs at the
 portraits:
   - media: 2020/05/daisy-desrosiers-portrait-by-phong-bui
 rail_contributor_url: https://brooklynrail.org/contributor/Daisy-Desrosiers
-linkedIn: ""
 ---
