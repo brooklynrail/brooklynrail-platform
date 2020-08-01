@@ -75,9 +75,9 @@ people:
       of the Brooklyn Rail."
 poets:
   - person: kimberly-alidio
-    event_bio: Kimberly Alidio's most recent chapbook is "a cell of falls." Her
-      prose has appeared or is forthcoming in Harriet, Poetry Northwest, Social
-      Text, and American Quarterly, among others.
+    event_bio: "Kimberly Alidio's most recent publications are : once teeth bones
+      coral : (Belladonna*) and a cell of falls (Portable Press at Yo-Yo Labs).
+      why letter ellipses is forthcoming from selva oscura press this fall."
 date: 2020-08-06 13:00:00 -0500
 end_date: 2020-08-06 14:00:00 -0500
 series: 102
