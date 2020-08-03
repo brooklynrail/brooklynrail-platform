@@ -6,16 +6,15 @@ summary: "Writers and art critics, Amanda Fortini, Mary Abbe Hintz, and Seph
   from Brandon Downing. "
 people:
   - person: amanda-fortini
-    event_bio: Amanda Fortini has written for The New York Times, The New York Times
-      Magazine, The New Yorker, Rolling Stone, The New Republic, The Paris
-      Review, New York Magazine, Los Angeles Review of Books, Wired, Slate and
-      Salon, among other publications.  She has worked as an editor at
-      Mirabella, The New York Review of Books, and Slate, and has been the
-      William Kittredge Visiting Professor at the University of Montana. She is
-      a Contributing Editor at Elle Magazine, where she writes about culture,
-      feminism, and women's issues. Her interests and areas of expertise include
-      longform narrative journalism, the profile, the essay, cultural criticism,
-      and women's stories.
+    event_bio: "Amanda Fortini has written about art, design, architecture, fashion,
+      and aesthetics for T: The New York Times Style Magazine, The New York
+      Times, New York Magazine, The New Yorker, I.D., Interview, Elle, and
+      Slate, among other publications. She is currently the Beverly Rogers
+      Fellow at Black Mountain Institute, and, for the last four years, has been
+      a visiting lecturer at the Hank Greenspun School of Journalism at the
+      University of Nevada, Las Vegas. In 2020, she won the Rabkin Prize for
+      visual arts journalism. She divides her time between Livingston, Montana
+      and Las Vegas, Nevada. "
   - person: mary-abbe-hintz
     event_bio: Mary Abbe Hintz has been writing about art and cultural affairs since
       1977. During her 32 year tenure as art critic and art news reporter at the
