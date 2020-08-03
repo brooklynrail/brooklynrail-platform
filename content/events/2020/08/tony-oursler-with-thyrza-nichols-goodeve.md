@@ -1,7 +1,7 @@
 ---
 title: Tony Oursler with Thyrza Nichols Goodeve
 summary: Multimedia and installation artist, Tony Oursler will discuss recent
-  and selected works with Rail Senior Art Editor, Thyrza Nichols Goodeve. We'll
+  and selected works with Rail Editor-at-Large, Thyrza Nichols Goodeve. We'll
   conclude with a poetry reading.
 people:
   - person: tony-oursler
@@ -23,12 +23,12 @@ people:
       allowed him to explore all kinds of occult and mystical phenomena. Tony
       Oursler lives and works in New York."
   - person: thyrza-nichols-goodeve
-    event_bio: "Thyrza Nichols Goodeve, PHD is the Senior Art Editor for the
-      Brooklyn Rail. She is an art writer and hobby cartoodlist who writes
-      “with” rather than “on” contemporary art and artists. Her interests range
-      across art as a “structure of feeling”, human/nonhuman animal ontologies,
-      the natural fantastic, the aesthetics of wonder, theories and practices of
-      writing, the interview as essay, the history of modernism(s), surrealist
+    event_bio: "Thyrza Nichols Goodeve, PHD is an Editor-at-Large for the Brooklyn
+      Rail. She is an art writer and hobby cartoodlist who writes “with” rather
+      than “on” contemporary art and artists. Her interests range across art as
+      a “structure of feeling”, human/nonhuman animal ontologies, the natural
+      fantastic, the aesthetics of wonder, theories and practices of writing,
+      the interview as essay, the history of modernism(s), surrealist
       methodologies, dystopias and utopias, and the metaphysics of technology.
       She has published in The Brooklyn Rail, Art Agenda, Artforum, Art in
       America, and numerous artist’s catalogs. She has a Masters in Cinema
