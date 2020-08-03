@@ -3,7 +3,7 @@ title: The History of the Rail
 summary: "The conversation with Joan Jonas and Rail guest critic, Daisy
   Desrosiers has been postponed. Please join us for a conversation presented by
   publisher, Phong Bui with curatorial assistant, Nick Bennett to discuss the
-  history and curatorial projects of the Brooklyn Rail as we approach out 20th
+  history and curatorial projects of the Brooklyn Rail as we approach our 20th
   year anniversary. We'll conclude with a poetry reading from Stacy Szymaszek. "
 people:
   - person: phong-h-bui
