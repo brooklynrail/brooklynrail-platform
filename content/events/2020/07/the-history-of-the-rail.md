@@ -2,12 +2,15 @@
 title: The History of the Rail
 summary: "The conversation with Joan Jonas and Rail guest critic, Daisy
   Desrosiers has been postponed. Please join us for a conversation presented by
-  publisher, Phong Bui to discuss the history and curatorial projects of the
-  Brooklyn Rail as we approach out 20th year anniversary. We'll conclude with a
-  poetry reading from Stacy Szymaszek. "
+  publisher, Phong Bui with curatorial assistant, Nick Bennett to discuss the
+  history and curatorial projects of the Brooklyn Rail as we approach out 20th
+  year anniversary. We'll conclude with a poetry reading from Stacy Szymaszek. "
 people:
   - person: phong-h-bui
     event_bio: Phong H. Bui is the Publisher and Artistic Director of the Brooklyn Rail.
+  - person: nick-bennett
+    event_bio: Nick Bennett is the Curatorial Assistant and Publisher’s Assistant at
+      the Brooklyn Rail.
 poets:
   - person: stacy-szymaszek
     event_bio: Stacy Szymaszek is the author of 6 books, including Famous Hermits,
