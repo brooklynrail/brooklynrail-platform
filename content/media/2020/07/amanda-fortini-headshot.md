@@ -1,5 +1,5 @@
 ---
-media: /media/files/amanda.jpg
+media: /media/files/fortini-amanda-nashan-maganias-007-2018.jpg
 title: Amanda Fortini, headshot
 alt: Amanda Fortini
 caption: Amanda Fortini
