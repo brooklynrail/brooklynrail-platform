@@ -17,20 +17,21 @@ people:
       was a curator in the contemporary art department at the Brooklyn Museum
       and has organized exhibitions at The Jewish Museum. "
   - person: lauren-haynes
-    event_bio: "Lauren Haynes is the Curator of Contemporary Art at Crystal Bridges
-      Museum of American Art and Curator of Visual Arts at the Momentary in
-      Bentonville, Arkansas. Haynes was co-curator of the 2018 Crystal Bridges’
-      exhibition The Beyond: Georgia O’Keeffe and Contemporary Art and is
-      co-curator of the 2019 exhibition Crystals in Art: Ancient to Today.
-      Haynes is currently leading the curatorial team working on the forthcoming
-      iteration of State of the Art, scheduled to open at both Crystal Bridges
-      and the Momentary in February 2020. Prior to joining Crystal Bridges in
-      October 2016, Haynes spent nearly a decade at The Studio Museum in Harlem.
-      As a specialist in African-American contemporary art, Haynes curated
-      dozens of exhibitions at the Studio Museum and contemporary art
-      institutions in New York. Haynes was a 2018 Center for Curatorial
-      Leadership fellow. Haynes is co-curator of the inaugural Tennessee
-      Triennial for Contemporary Art taking place across Tennessee in 2021. "
+    event_bio: "Lauren Haynes is Director of Artist Initiatives and Curator,
+      Contemporary Art at Crystal Bridges Museum of American Art and the
+      Momentary in Bentonville, Arkansas. Haynes led the curatorial team of
+      State of the Art 2020, the second iteration of State of the Art:
+      Discovering American Art Now (2014), which opened at both Crystal Bridges
+      and the Momentary in February 2020. She was co-curator of the 2019 Crystal
+      Bridges’ exhibition Crystals in Art: Ancient to Today and the 2018 Crystal
+      Bridges’ exhibition The Beyond: Georgia O’Keeffe and Contemporary Art.
+      Prior to joining Crystal Bridges in October 2016, Haynes spent nearly a
+      decade at The Studio Museum in Harlem. As a specialist in African-American
+      contemporary art, Haynes curated dozens of exhibitions at the Studio
+      Museum and contemporary art institutions in New York. Haynes was a 2018
+      Center for Curatorial Leadership fellow. She is co-curator of the
+      inaugural Tennessee Triennial for Contemporary Art taking place across
+      Tennessee in 2022."
   - person: ken-lum
     event_bio: "Ken Lum is known for his conceptual and representational art in a
       number of media, including painting, sculpture, and photography. A
