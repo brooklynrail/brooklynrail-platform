@@ -7,7 +7,8 @@ summary: "The conversation with Joan Jonas and Rail guest critic, Daisy
   year anniversary. We'll conclude with a poetry reading from Stacy Szymaszek. "
 people:
   - person: phong-h-bui
-    event_bio: Phong H. Bui is the Publisher and Artistic Director of the Brooklyn Rail.
+    event_bio: Phong H. Bui is an artist and the Publisher and Artistic Director of
+      the Brooklyn Rail.
   - person: nick-bennett
     event_bio: Nick Bennett is the Curatorial Assistant and Publisher’s Assistant at
       the Brooklyn Rail.
