@@ -6,17 +6,16 @@ summary: Curators, writers, and critics Brooke Kamin Rapaport, Lauren Haynes,
   reading from Kimberly Alidio.
 people:
   - person: brooke-kamin-rapaport
-    event_bio: "Brooke Kamin Rapaport is a museum curator, independent curator, and
-      art writer, and the current Director and Martin Friedman Senior Curator at
-      Madison Square Park Conservancy in New York. She is responsible for
-      Madison Square Art’s commissioned, public sculpture exhibitions by
-      contemporary artists including Tony Cragg, Teresita Fernández, Paula
-      Hayes, Ivan Navarro, Giuseppe Penone, and Martin Puryear. In 2019,
-      Rapaport served as Commissioner and Curator of the United States Pavilion
-      at the 2019 Venice Biennale, an exhibition of Martin Puryear's work,
-      Martin Puryear: Liberty/Libertà. She has curated exhibitions at the
-      Brooklyn Museum, the Jewish Museum, the Fine Arts Museums of San
-      Francisco, among others. "
+    event_bio: "Brooke Kamin Rapaport is Deputy Director and Martin Friedman Chief
+      Curator at Madison Square Park Conservancy in New York. She is responsible
+      for the Conservancy’s program of commissioned, public sculpture
+      exhibitions by contemporary artists including Diana Al-Hadid, Tony Cragg,
+      Leonardo Drew, Teresita Fernández, Josiah McElheny, Ivan Navarro, Martin
+      Puryear, Arlene Shechet and Krzysztof Wodiczko. In 2019, Rapaport served
+      as Commissioner and Curator of the United States Pavilion at the 2019
+      Venice Biennale with the exhibition Martin Puryear: Liberty/Libertà. She
+      was a curator in the contemporary art department at the Brooklyn Museum
+      and has organized exhibitions at The Jewish Museum. "
   - person: lauren-haynes
     event_bio: "Lauren Haynes is the Curator of Contemporary Art at Crystal Bridges
       Museum of American Art and Curator of Visual Arts at the Momentary in
