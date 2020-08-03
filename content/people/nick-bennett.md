@@ -4,5 +4,7 @@ first_name: Nick
 last_name: Bennett
 short_bio: Nick Bennett is the Curatorial Assistant and Publisher’s Assistant at
   the Brooklyn Rail.
+portraits:
+  - media: 2020/05/nick-bennett-portrait
 rail_contributor_url: https://brooklynrail.org/contributor/Nick-Bennett
 ---
