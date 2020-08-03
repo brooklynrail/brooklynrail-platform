@@ -8,19 +8,11 @@ summary: "The conversation with Joan Jonas and Rail guest critic, Daisy
 people:
   - person: phong-h-bui
     event_bio: >-
-      Phong H. Bui is a multifaceted citizen of the New York art world. Roberta
-      Smith, in her review of Come Together: Surviving Sandy in the New York
-      Times likened him to, “[In] Jane Jacobs’s words, ‘people with ideas of
-      their own,’ who help keep a city alive and moving forward on countless
-      fronts in art and in life.” He was named one of the “100 Most Influential
-      People in Brooklyn Culture” by Brooklyn Magazine in 2014 and a
-      “ringmaster” of the “Kings County art world” by The New York Observer in
-      2015. In addition to being an artist, writer, independent curator, and
-      former Curatorial Advisor at MoMA PS1 (2007-2010), he is also the
-      Co-Founder, Publisher, and Artistic Director of the free monthly journal
-      the Brooklyn Rail, the River Rail, the publishing press Rail Editions,
-      Rail Curatorial Projects, and the Host/Producer of “Off the Rail” on Art
-      International Radio. 
+      Phong H. Bui is an artist, writer, independent curator, and former
+      Curatorial Advisor at MoMA PS1 (2007-2010). He is the Co-Founder,
+      Publisher, and Artistic Director of the Brooklyn Rail, the River Rail, the
+      publishing press Rail Editions, Rail Curatorial Projects, and the
+      Host/Producer of “Off the Rail” on Art International Radio. 
 
 
       Since 2000, he has curated nearly 60 one-person and group exhibits. In 2013 he founded Rail Curatorial Projects, which aims to curate group exhibits that respond specifically to location, cultural moment, and economic conditions. Mostly recently presented is Artists Need to Create on the Same Scale that Society Has the Capacity to Destroy, an ongoing curatorial project that was exhibited in 2019 as an official Collateral Event of the Venice Biennale and at Colby Museum in Waterville, Maine, and which originated in 2017 at Mana Contemporary as an invocation of urgent social and political issues such as human rights and equality, immigration, foreign relations, the environment, and climate change.
