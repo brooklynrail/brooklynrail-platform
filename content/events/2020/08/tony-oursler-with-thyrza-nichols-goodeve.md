@@ -35,9 +35,9 @@ people:
       Studies from NYU, and a PhD from The History of Consciousness Program at
       UC Santa Cruz. She is the author of How Like A Leaf: A Conversation with
       Donna Haraway (1999) and is working on an updated forthcoming edition, and
-      compiling her collected writings titled,No Wound Ever Speaks for Itself:
-      Writing,Art, Vulnerability, Conversation, Attitudewith a preface by Avital
-      Ronell."
+      compiling her collected writings titled, No Wound Ever Speaks for Itself:
+      Writing, Art, Vulnerability, Conversation, Attitudewith a preface by
+      Avital Ronell."
 date: 2020-08-14 13:00:00 -0500
 end_date: 2020-08-14 14:00:00 -0500
 series: 108
