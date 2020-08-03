@@ -46,4 +46,6 @@ event_producer:
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-99-joan-jonas-tickets-115351720100
 event_platform:
   - zoom
+aliases:
+  - /events/2020/08/03/joan-jonas-with-daisy-desrosiers/
 ---
