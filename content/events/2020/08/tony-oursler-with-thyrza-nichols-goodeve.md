@@ -47,7 +47,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
-registration_url: https://www.eventbrite.com/myevent?eid=115796864539&shouldshowpublishbanner=1
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-108-tony-oursler-tickets-115796864539
 event_platform:
   - zoom
 ---
