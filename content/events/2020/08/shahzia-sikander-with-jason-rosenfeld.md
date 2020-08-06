@@ -1,7 +1,8 @@
 ---
 title: Shahzia Sikander with Jason Rosenfeld
-summary: Shahzia Sikander with Jason Rosenfeld. We'll conclude with a poetry
-  reading from Zachary LaMalfa.
+summary: Artist, Shahzia Sikander will discuss recent and selected works with
+  Rail Editor-at-Large, Jason Rosenfeld. We'll conclude with a poetry reading
+  from Zachary LaMalfa.
 people:
   - person: shahzia-sikander
     event_bio: "Born in Lahore, Pakistan, Shahzia Sikander received her BFA in 1991
