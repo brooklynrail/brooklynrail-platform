@@ -15,6 +15,7 @@ short_bio: "Born in Lahore, Pakistan, Shahzia Sikander underwent rigorous
   "
 portraits:
   - media: 2020/08/shahzia-sikander-portrait-drawing
+rail_contributor_url: https://brooklynrail.org/contributor/shahzia-sikander
 website: https://www.shahziasikander.com/
 instagram: shahzia.sikander
 ---
