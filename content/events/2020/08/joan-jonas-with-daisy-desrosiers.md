@@ -1,6 +1,6 @@
 ---
 title: Joan Jonas with Daisy Desrosiers
-summary: Performer and artist, Joan Jonas will discuss recent and selected works
+summary: Performance artist, Joan Jonas will discuss recent and selected works
   with Rail guest critic, Daisy Desrosiers. We'll conclude with a poetry reading
   from Stacy Szymaszek.
 people:
