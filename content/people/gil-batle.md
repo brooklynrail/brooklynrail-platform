@@ -11,8 +11,8 @@ short_bio: Gil Batle was born and raised in San Francisco to Filipino parents,
   School.” Where Bloods, Crips, and Aryan Brotherhood gang-bangers in racially
   segregated cell-blocks rule with intimidation and threat, Batle’s facility for
   drawing was considered magic by the murderers, drug dealers, and armed robbers
-  whose stories he now recounts in minutely carved detail on fragile ostrich egg
-  shells.
+  whose stories he now recounts in minutely carved detail on fragile ostrich
+  eggshells.
 portraits:
   - media: 2020/08/gil-batle
 ---
