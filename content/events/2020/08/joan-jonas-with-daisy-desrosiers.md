@@ -42,6 +42,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-104-joan-jonas-tickets-116049560359
 event_platform:
   - zoom
 ---
