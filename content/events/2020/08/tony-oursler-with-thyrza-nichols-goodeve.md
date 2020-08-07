@@ -2,7 +2,7 @@
 title: Tony Oursler with Thyrza Nichols Goodeve
 summary: Multimedia and installation artist, Tony Oursler will discuss recent
   and selected works with Rail Editor-at-Large, Thyrza Nichols Goodeve. We'll
-  conclude with a poetry reading from Mei-Mei BerssenBrugge.
+  conclude with a poetry reading from Mei-Mei Berssenbrugge.
 people:
   - person: tony-oursler
     event_bio: "Tony Oursler is an American multimedia and installation artist.
@@ -38,6 +38,12 @@ people:
       compiling her collected writings titled, No Wound Ever Speaks for Itself:
       Writing, Art, Vulnerability, Conversation, Attitudewith a preface by
       Avital Ronell."
+poets:
+  - person: mei-mei-berssenbrugge
+    event_bio: Mei-mei Berssenbrugge is the author of 15 books of poetry.  A
+      Treatise on Stars and a new edition of her 1989 book, Empathy came out
+      this year from New Directions. She lives in northern New Mexico and New
+      York City.
 date: 2020-08-14 13:00:00 -0500
 end_date: 2020-08-14 14:00:00 -0500
 series: 108
