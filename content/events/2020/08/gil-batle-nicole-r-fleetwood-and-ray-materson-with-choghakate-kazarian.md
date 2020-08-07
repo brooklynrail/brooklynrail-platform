@@ -1,6 +1,5 @@
 ---
-title: Gil Batle, Nicole R. Fleetwood, Ray Materson, and Frank Maresca with
-  Choghakate Kazarian
+title: Art in Prison
 summary: Artists, Gil Batle and Ray Materson will discuss their background and
   work with writer and curator, Nicole R. Fleetwood and art dealer, Frank
   Maresca. The conversation will be led by Rail Editor-at-Large, Choghakate
@@ -97,5 +96,6 @@ registration_url: https://www.eventbrite.com/e/new-social-environment-105-gil-ba
 event_platform:
   - zoom
 aliases:
+  - /events/2020/08/11/gil-batle-nicole-r-fleetwood-and-ray-materson-with-choghakate-kazarian/
   - /events/2020/08/11/gil-batle-nicole-r-fleetwood-and-ray-materson-with-choghakate-kazarian/
 ---
