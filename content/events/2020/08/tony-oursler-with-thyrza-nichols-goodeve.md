@@ -2,7 +2,7 @@
 title: Tony Oursler with Thyrza Nichols Goodeve
 summary: Multimedia and installation artist, Tony Oursler will discuss recent
   and selected works with Rail Editor-at-Large, Thyrza Nichols Goodeve. We'll
-  conclude with a poetry reading.
+  conclude with a poetry reading from Mei-Mei BerssenBrugge.
 people:
   - person: tony-oursler
     event_bio: "Tony Oursler is an American multimedia and installation artist.
