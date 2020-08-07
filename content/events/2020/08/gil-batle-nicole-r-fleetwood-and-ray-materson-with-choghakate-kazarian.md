@@ -1,5 +1,5 @@
 ---
-title: Art in Prison
+title: "Marking Time: Art in the Age of Mass Incarceration"
 summary: Artists, Gil Batle and Ray Materson will discuss their background and
   work with writer and curator, Nicole R. Fleetwood and art dealer, Frank
   Maresca. The conversation will be led by Rail Editor-at-Large, Choghakate
