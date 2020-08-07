@@ -58,6 +58,14 @@ people:
       Center for Scholars and Writers, ACLS, Whiting Foundation, Denniston Hill
       Residency, Schomburg Center for Scholars-in-Residence, Andrew W. Mellon
       Foundation, and the NEH."
+  - person: frank-maresca
+    event_bio: "Frank Maresca is an American art dealer and co-founder of
+      Ricco/Maresca Gallery in New York City. A long-term advocate of
+      Self-Taught, Folk, and Outsider Art, he has showcased the work of artists
+      creating on the margins of the art-historical mainstream for over 35
+      years. Through many gallery exhibits, museum collaborations, key
+      publications, and philanthropic work, Maresca has championed the crossover
+      of Vernacular Art into the Contemporary and Modern arenas. "
   - person: choghakate-kazarian
     event_bio: "Choghakate Kazarian is a French, Armenian-born curator and art
       historian interested in post-war and outsider art. She has been curator at
