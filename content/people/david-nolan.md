@@ -13,4 +13,6 @@ short_bio: David Nolan founded David Nolan Gallery in 1987, specializing in
   Gerhard Richter, Rosemarie Trockel and Albert Oehlen. In Spring 2020, the
   gallery announced its newest location on the Upper East Side inaugurated with
   an exhibition of works on paper by Jorinde Voigt.
+portraits:
+  - media: 2020/08/david-nolan
 ---
