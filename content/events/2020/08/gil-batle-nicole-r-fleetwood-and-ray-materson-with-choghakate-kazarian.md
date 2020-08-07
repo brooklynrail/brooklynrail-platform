@@ -1,9 +1,10 @@
 ---
-title: Gil Batle, Nicole R. Fleetwood, and Ray Materson with Choghakate Kazarian
+title: Gil Batle, Nicole R. Fleetwood, Ray Materson, and Frank Maresca with
+  Choghakate Kazarian
 summary: Artists, Gil Batle and Ray Materson will discuss their background and
-  work with writer and curator, Nicole R. Fleetwood. The conversation will be
-  led by Rail Editor-at-Large, Choghakate Kazarian. We'll conclude with a poetry
-  reading from Raphael Rubinstein.
+  work with writer and curator, Nicole R. Fleetwood and art dealer, Frank
+  Maresca. The conversation will be led by Rail Editor-at-Large, Choghakate
+  Kazarian. We'll conclude with a poetry reading from Raphael Rubinstein.
 people:
   - person: gil-batle
     event_bio: Gil Batle was born and raised in San Francisco to Filipino parents,
@@ -87,4 +88,6 @@ event_producer:
 registration_url: https://www.eventbrite.com/e/new-social-environment-105-gil-batle-nicole-r-fleetwood-ray-materson-tickets-116154752993
 event_platform:
   - zoom
+aliases:
+  - /events/2020/08/11/gil-batle-nicole-r-fleetwood-and-ray-materson-with-choghakate-kazarian/
 ---
