@@ -28,6 +28,22 @@ people:
       Missouri, Armstrong graduated from Lake Forest College in Illinois with a
       BA in art history, having studied at the Université de Dijon and the
       Université de Paris, Sorbonne.
+  - person: phong-h-bui
+    event_bio: >-
+      Phong H. Bui is an artist, writer, independent curator, and former
+      Curatorial Advisor at MoMA PS1 (2007-2010). He is the Co-Founder,
+      Publisher, and Artistic Director of the Brooklyn Rail, the River Rail, the
+      publishing press Rail Editions, Rail Curatorial Projects, and the
+      Host/Producer of “Off the Rail” on Art International Radio. Since 2000, he
+      has curated nearly 60 one-person and group exhibits. In 2013 he founded
+      Rail Curatorial Projects, which aims to curate group exhibits that respond
+      specifically to location, cultural moment, and economic conditions. 
+
+
+      All aspects of his activities, from publishing, writing, editing, curating, to art practice, including executing large-scale installation, making portraits of featured interviewees in the Rail and other forms of social activism are integral parts of his “social environment,” a consequential step following Joseph Beuys’s social sculpture and Nicholas Bourriaud’s relational aesthetics.
+
+
+      He is a trustee of Studio in a School, the Louis Comfort Tiffany Foundation, Anthology Film Archives, the Third Rail, the Miami Rail, Sharpe-Walentas Studio Program, Second Shift Studio Space of Saint Paul, International Association of Art Critics (AICA-USA 2007-2020), among others. He is also a member of the Art Advisory Council of Fountain House Gallery, Co-Founder and Co-Chairman of The Monira Foundation, a non-profit which aims to curate ongoing exhibitions and public programming at Mana Contemporary in Jersey City and beyond. He was a Senior Critic at Yale MFA, Columbia University MFA, and University of Pennsylvania MFA from 2012 to 2015. He has taught graduate seminars in MFA Writing and Criticism and MFA Photography, Video, and Related Media at the School of Visual Arts from 2012 to 2016. He has received numerous awards, including an Honorary Doctorate of University of the Arts (2020), the Jetté Award for Leadership in the Arts, Colby College Museum of Art (2019), The Lunder Fellowship, The Lunder Institute for American Art (2019), The Dorothea and Leo Rabkin Foundation Prize in Fine Art Journalism (2017), The Esther Montanez Leadership Award, Fountain House (2016), Award in Art, American Academy of Arts and Letters (2003), and The Eric Isenburger Annual Prize for Installation, National Academy Museum (2003), among others. 
 poets:
   - person: lauren-russell
     event_bio: Lauren Russell is the author of Descent, and What’s Hanging on the
