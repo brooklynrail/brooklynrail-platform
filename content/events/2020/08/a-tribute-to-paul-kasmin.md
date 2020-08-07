@@ -73,6 +73,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-107-a-tribute-to-paul-kasmin-tickets-116239109305
 event_platform:
   - zoom
 ---
