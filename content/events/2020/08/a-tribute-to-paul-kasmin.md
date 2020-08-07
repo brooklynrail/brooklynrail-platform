@@ -28,6 +28,20 @@ people:
       Missouri, Armstrong graduated from Lake Forest College in Illinois with a
       BA in art history, having studied at the Université de Dijon and the
       Université de Paris, Sorbonne.
+  - person: david-nolan
+    event_bio: David Nolan founded David Nolan Gallery in 1987 in Soho, specializing
+      in modern and contemporary works by an array of international artists
+      working in a variety of media. The gallery’s original mission was to
+      exhibit contemporary works on paper along with painting and sculptures by
+      American and European artists, and to produce monographs together with
+      tightly curated historical exhibitions. The first solo show at the gallery
+      – an exhibition of early drawings by Sigmar Polke - was followed by
+      presentations of now-canonical German artists, including Georg Baselitz,
+      Martin Kippenberger, Dieter Roth, Gerhard Richter, Rosemarie Trockel and
+      Albert Oehlen. In Spring 2020, the gallery announced its newest location
+      on the Upper East Side in a historic townhouse built in 1902 by
+      architectural firm Buchman and Fox, inaugurated with an exhibition of
+      works on paper by Jorinde Voigt.
   - person: phong-h-bui
     event_bio: >-
       Phong H. Bui is an artist, writer, independent curator, and former
