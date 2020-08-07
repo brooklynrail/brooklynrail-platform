@@ -1,7 +1,7 @@
 ---
 title: "Marking Time: Art in the Age of Mass Incarceration"
 summary: Artists, Gil Batle and Ray Materson will discuss their background and
-  work with writer and curator, Nicole R. Fleetwood and art dealer, Frank
+  work with writer and curator, Nicole R. Fleetwood and gallerist, Frank
   Maresca. The conversation will be led by Rail Editor-at-Large, Choghakate
   Kazarian. We'll conclude with a poetry reading from Raphael Rubinstein.
 people:
