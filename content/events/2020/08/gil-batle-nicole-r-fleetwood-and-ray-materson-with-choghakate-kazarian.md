@@ -2,7 +2,7 @@
 title: Gil Batle, Nicole R. Fleetwood, and Ray Materson with Choghakate Kazarian
 summary: Artists, Gil Batle and Ray Materson will discuss their background and
   work with writer and curator, Nicole R. Fleetwood. The conversation will be
-  led by Rail guest critic, Choghakate Kazarian. We'll conclude with a poetry
+  led by Rail Editor-at-Large, Choghakate Kazarian. We'll conclude with a poetry
   reading from Raphael Rubinstein.
 people:
   - person: gil-batle
@@ -25,24 +25,21 @@ people:
       with precise detail on pristine eggshells, nature’s most perfect creation
       and the manifestation of life and birth.
   - person: ray-materson
-    event_bio: "Raymond Materson is a self-taught artist known for miniature
-      pictures that he sews from threads of unraveled socks. He came upon this
-      approach to making art while serving a period of 7 years in prison. Faced
-      with seemingly endless time, he remembered his childhood and how he
-      watched his Grandmother sewing peacefully for hours. His initial sewing
-      efforts required colored threads that he got from pulling apart his socks.
-      He fashioned a round plastic stretcher by cutting off the top ring of a
+    event_bio: >-
+      Raymond Materson is a self-taught artist known for miniature pictures that
+      he sews from threads of unraveled socks. He came upon this approach to
+      making art while serving a period of 7 years in prison. Faced with
+      seemingly endless time, he remembered his childhood and how he watched his
+      Grandmother sewing peacefully for hours. His initial sewing efforts
+      required colored threads that he got from pulling apart his socks. He
+      fashioned a round plastic stretcher by cutting off the top ring of a
       plastic jar with a toenail clipper and stretched cotton fabric from boxer
       shorts or handkerchiefs to sew on. He began by sewing sports patches for
       himself and other inmates. He has continued creating art since his release
-      from prison over 25 years ago. Materson’s remarkable life story from drug
-      addiction to prison and the discovery of his artistic talents was
-      published in 2002 in Sins and Needles: A Story of Spiritual Mending.
-      Materson has had numerous gallery shows as well as being exhibited in
-      museums from the New Museum of Contemporary Art, the Museum of Fine Arts
-      in Boston, The Hudson River Museum, Baltimore’s American Visionary Art
-      Museum, and The American Folk Art Museum, and most recently at Christie’s
-      in New York. "
+      from prison over 25 years ago. 
+
+
+      Materson has lectured extensively, worked as a drug abuse counselor, and has had numerous gallery shows as well as being exhibited in the New Museum of Contemporary Art, the Museum of Fine Arts in Boston, The Hudson River Museum, Baltimore’s American Visionary Art Museum, The American Folk Art Museum, and most recently at Christie’s in New York. His work has been featured in the New York Times, the Washington Post, Sports Illustrated, and numerous other publications and news shows. Materson’s remarkable life from drug addiction to prison and the discovery of his artistic talents was published in 2002 in Sins and Needles: A Story of Spiritual Mending. He was the first artist to receive the Innovators Combating Substance Abuse Award from the Robert Wood Johnson Foundation. 
   - person: nicole-r-fleetwood
     event_bio: "Nicole R. Fleetwood is a writer, curator, and professor of American
       Studies and Art History at Rutgers University, New Brunswick. Professor
@@ -61,17 +58,17 @@ people:
       Residency, Schomburg Center for Scholars-in-Residence, Andrew W. Mellon
       Foundation, and the NEH."
   - person: choghakate-kazarian
-    event_bio: Choghakate Kazarian is a curator and art historian based in New York
-      City. Her interests are focused on artistic processes and the interaction
-      between biography and artistic practice. She has curated several
-      exhibitions on artists such as Henry Darger, Lucio Fontana, Piero Manzoni,
-      and Karel Appel. She has edited several exhibition catalogs and published
-      on artists such as Marcel Duchamp, Louis Michel Eilshemius, Stéphane
-      Mandelbaum among others. She has a MA in art history from Ecole du Louvre
-      and a MA in philosophy at La Sorbonne. She was a curator at the Musée
-      d’Art Moderne de la Ville de Paris from 2011 — 2018. She is now pursuing a
-      Ph.D. at the Courtauld Institute of Art with a dissertation on the
-      American artist Albert Pinkham Ryder.
+    event_bio: "Choghakate Kazarian is a French, Armenian-born curator and art
+      historian interested in post-war and outsider art. She has been curator at
+      the Musée d’Art Moderne de Paris from 2011 to 2018 and has curated several
+      exhibitions on artists such as Henry Darger, Lucio Fontana, Piero Manzoni
+      and Karel Appel. She has edited several exhibition catalogues and
+      published on artists such as Marcel Duchamp, Louis Michel Eilshemius,
+      Stéphane Mandelbaum and those mentioned above. She has a MA in art history
+      from Ecole du Louvre and a MA in philosophy at La Sorbonne. She is now
+      pursuing a Ph.D. at the Courtauld Institute of Art with a dissertation on
+      the American artist Albert Pinkham Ryder. She is Editor-at-large at the
+      Brooklyn Rail. "
 poets:
   - person: raphael-rubinstein
     event_bio: 'Raphael Rubinstein is a New York-based poet, art critic, and
