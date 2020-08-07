@@ -1,9 +1,10 @@
 ---
-title: Gil Batle, Nicole R. Fleetwood, and Ray Materson with Choghakate Kazarian
+title: Gil Batle, Nicole R. Fleetwood, Ray Materson, and Frank Maresca with
+  Choghakate Kazarian
 summary: Artists, Gil Batle and Ray Materson will discuss their background and
-  work with writer and curator, Nicole R. Fleetwood. The conversation will be
-  led by Rail Editor-at-Large, Choghakate Kazarian. We'll conclude with a poetry
-  reading from Raphael Rubinstein.
+  work with writer and curator, Nicole R. Fleetwood and art dealer, Frank
+  Maresca. The conversation will be led by Rail Editor-at-Large, Choghakate
+  Kazarian. We'll conclude with a poetry reading from Raphael Rubinstein.
 people:
   - person: gil-batle
     event_bio: Gil Batle was born and raised in San Francisco to Filipino parents,
@@ -57,6 +58,14 @@ people:
       Center for Scholars and Writers, ACLS, Whiting Foundation, Denniston Hill
       Residency, Schomburg Center for Scholars-in-Residence, Andrew W. Mellon
       Foundation, and the NEH."
+  - person: frank-maresca
+    event_bio: "Frank Maresca is an American art dealer and co-founder of
+      Ricco/Maresca Gallery in New York City. A long-term advocate of
+      Self-Taught, Folk, and Outsider Art, he has showcased the work of artists
+      creating on the margins of the art-historical mainstream for over 35
+      years. Through many gallery exhibits, museum collaborations, key
+      publications, and philanthropic work, Maresca has championed the crossover
+      of Vernacular Art into the Contemporary and Modern arenas. "
   - person: choghakate-kazarian
     event_bio: "Choghakate Kazarian is a French, Armenian-born curator and art
       historian interested in post-war and outsider art. She has been curator at
@@ -87,4 +96,6 @@ event_producer:
 registration_url: https://www.eventbrite.com/e/new-social-environment-105-gil-batle-nicole-r-fleetwood-ray-materson-tickets-116154752993
 event_platform:
   - zoom
+aliases:
+  - /events/2020/08/11/gil-batle-nicole-r-fleetwood-and-ray-materson-with-choghakate-kazarian/
 ---
