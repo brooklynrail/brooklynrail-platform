@@ -87,6 +87,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/new-social-environment-105-gil-batle-nicole-r-fleetwood-ray-materson-tickets-116154752993
 event_platform:
   - zoom
 ---
