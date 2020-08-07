@@ -80,6 +80,7 @@ poets:
       Art, he divides his time between Houston and New York.
 date: 2020-08-11 13:00:00 -0500
 end_date: 2020-08-11 14:00:00 -0500
+series: 105
 collections:
   - the-new-social-environment
 event_organizer:
