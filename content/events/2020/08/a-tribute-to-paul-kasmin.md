@@ -1,7 +1,7 @@
 ---
 title: A Tribute to Paul Kasmin
 summary: Artist Elliott Puckette, Guggenheim Director, Richard Armstrong, and
-  Gallerist, David Nolan will discuss the life and work of Paul Kasmin with Rail
+  gallerist, David Nolan will discuss the life and work of Paul Kasmin with Rail
   Artistic Director and Publisher, Phong Bui. We'll conclude with a poetry
   reading from Lauren Russell.
 people:
