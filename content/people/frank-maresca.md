@@ -12,4 +12,6 @@ short_bio: Frank Maresca is an American dealer of Contemporary Art, Self-Taught
   assisting important clients and museums in the acquisition of artworks and
   collection building, as well as exhibition design and lecturing on topics
   ranging from the art market to Outsider, Self-Taught, and Folk art.
+portraits:
+  - media: 2020/08/frank-maresca
 ---
