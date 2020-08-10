@@ -97,5 +97,4 @@ event_platform:
   - zoom
 aliases:
   - /events/2020/08/11/gil-batle-nicole-r-fleetwood-and-ray-materson-with-choghakate-kazarian/
-  - /events/2020/08/11/gil-batle-nicole-r-fleetwood-and-ray-materson-with-choghakate-kazarian/
 ---
