@@ -50,6 +50,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: gteNA4uv6T4
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-103-devandra-banhart-tickets-115522357481
 event_platform:
   - zoom
