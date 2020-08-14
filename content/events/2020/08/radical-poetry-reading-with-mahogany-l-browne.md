@@ -18,6 +18,19 @@ people:
       for Justice grantee, is completing her first book of essays on mass
       incarceration, investigating its impact on women and children. She lives
       in Brooklyn, NY."
+  - person: jive-poetic
+    event_bio: "Jive Poetic is a writer, organizer, and educator based in Brooklyn,
+      New York. He is the founder of Insurgent Poets Society, Carnival Slam:
+      Cultural Exchange, and the co-founder of the Brooklyn Poetry Slam. His
+      work has been showcased on season four of TVONE’s Lexus Verses and Flow,
+      PBS News Hour, and BET. In 2017 Jive was the first recipient of the John
+      Morning Award for Art and Service. International recognition and support
+      for his work has come from the British Arts Council; US Embassies in
+      Australia, Brazil, and Poland; and the Minister Of Culture in Antigua and
+      Barbuda. Currently, Jive is the Friday night poetry slam curator and host
+      at the Nuyorican Poet’s Café. When he is not on tour, he teaches poetry
+      and hip–hop workshops to at risk youth in New York City and the
+      surrounding area."
   - person: joy-priest
     event_bio: Joy Priest is the author of HORSEPOWER (Pitt Poetry Series, 2020),
       winner of the Donald Hall Prize for Poetry. She is the recipient of the
