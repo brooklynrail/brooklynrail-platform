@@ -14,5 +14,5 @@ short_bio: Caroline Rothstein is an internationally touring and acclaimed
   President of the Board of Directors for Mental Fitness, Inc.
 portraits:
   - media: 2020/08/caroline-rothstein-2020-08
-website: https://www.carolinerothstein.com/
+website: ""
 ---
