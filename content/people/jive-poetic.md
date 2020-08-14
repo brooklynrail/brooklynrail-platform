@@ -14,5 +14,5 @@ short_bio: "Jive Poetic is a writer, organizer, and educator based in Brooklyn,
   youth in New York City and the surrounding area."
 portraits:
   - media: 2020/08/jive-poetic-2020-08
-website: www.jivepoetic.net/#home
+website: ""
 ---
