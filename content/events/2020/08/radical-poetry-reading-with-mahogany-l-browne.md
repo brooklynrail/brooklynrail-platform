@@ -18,6 +18,14 @@ people:
       for Justice grantee, is completing her first book of essays on mass
       incarceration, investigating its impact on women and children. She lives
       in Brooklyn, NY."
+  - person: caits-meissner
+    event_bio: Caits Meissner is the author of the illustrated hybrid poetry book
+      Let It Die Hungry (The Operating System, 2016). Her latest projects
+      include the DIY comix poetry zine Pep Talks For Broke(n) People and a
+      comix vignette series, New York Strange, publishing monthly in Hobart
+      journal throughout 2020. She currently is the inaugural Palette Poetry
+      Second Book Fellow and spends her days as the Prison and Justice Writing
+      Program Director at PEN America.
   - person: jive-poetic
     event_bio: "Jive Poetic is a writer, organizer, and educator based in Brooklyn,
       New York. He is the founder of Insurgent Poets Society, Carnival Slam:
@@ -38,14 +46,18 @@ people:
       Academy of American Poets’ Poem-a-Day, APR, The Atlantic, Poetry
       Northwest, and Poets & Writers, among others. She is currently a doctoral
       student in Literature & Creative Writing at the University of Houston.
-  - person: caits-meissner
-    event_bio: Caits Meissner is the author of the illustrated hybrid poetry book
-      Let It Die Hungry (The Operating System, 2016). Her latest projects
-      include the DIY comix poetry zine Pep Talks For Broke(n) People and a
-      comix vignette series, New York Strange, publishing monthly in Hobart
-      journal throughout 2020. She currently is the inaugural Palette Poetry
-      Second Book Fellow and spends her days as the Prison and Justice Writing
-      Program Director at PEN America.
+  - person: caroline-rothstein-1
+    event_bio: Caroline Rothstein is an internationally touring and acclaimed
+      writer, poet, and performer. Her work has appeared in Cosmopolitan, Marie
+      Claire, The Guardian, BuzzFeed, NYLON, Narratively, The ABA Journal,
+      Williams Magazine, The Forward, Hey Alma, Radius Lit, Our Town, and
+      elsewhere. She is on faculty for the Foundation for Jewish Camp’s annual
+      Cornerstone Fellowship, a Youth Mentor at Urban Word NYC, and a
+      facilitator for the Dialogue Arts Project. Caroline is a producer on the
+      forthcoming documentary film The Kids, and was an Associate Producer on
+      Andrea B. Scott’s Florence, Arizona. She hosted and produced the YouTube
+      series “Body Empowerment,” and was President of the Board of Directors for
+      Mental Fitness, Inc.
 date: 2020-08-19 13:00:00 -0500
 end_date: 2020-08-19 14:00:00 -0500
 series: 111
