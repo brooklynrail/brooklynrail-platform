@@ -1,5 +1,5 @@
 ---
-title: Radical Poetry Reading with Mahogany L. Browne
+title: "Radical Poetry Reading: Curated by Mahogany L. Browne"
 deck: Featuring political poetry read by Caits Meissner, Jive Poetic, Joy
   Priest, Caroline Rothstein, and Ramya Ramana.
 summary: Poet and writer Mahogany L. Browne curates the first installment in a
