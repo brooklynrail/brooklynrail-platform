@@ -12,5 +12,7 @@ short_bio: Caroline Rothstein is an internationally touring and acclaimed
   Kids,” and was an Associate Producer on Andrea B. Scott’s “Florence, Arizona.”
   She hosted and produced the YouTube series “Body Empowerment,” and was
   President of the Board of Directors for Mental Fitness, Inc.
+portraits:
+  - media: 2020/08/caroline-rothstein-2020-08
 website: https://www.carolinerothstein.com/
 ---
