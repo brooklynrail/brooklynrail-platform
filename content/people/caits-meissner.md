@@ -12,5 +12,5 @@ short_bio: Caits Meissner is the author of the illustrated hybrid poetry book
   America.
 portraits:
   - media: 2020/08/caits-meissner-portrait-by-willa-koerner
-website: ""
+website: http://www.caitsmeissner.com/
 ---
