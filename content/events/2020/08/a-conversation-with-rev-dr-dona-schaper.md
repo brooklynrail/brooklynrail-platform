@@ -6,7 +6,7 @@ people:
   - person: rev-dr-dona-schaper
     event_bio: "Rev. Dr. Dona Schaper has been Senior Minister of Judson Memorial
       Church since January of 2006. She was formerly at Coral Gables
-      Congregational Church in Miami and before that at Yale University, and
+      Congregational Church in Miami and before that at Yale University and
       teaches leadership at the Hartford Seminary. As an elder, she is
       passionately concerned about leaving the next generation well-prepared for
       all they have to face. She has written over 35 books including Approaching
