@@ -11,5 +11,5 @@ short_bio: Joy Priest is the author of HORSEPOWER (Pitt Poetry Series, 2020),
   Creative Writing at the University of Houston.
 portraits:
   - media: 2020/08/joy-priest-2020-08
-website: https://www.joypriest.com/
+website: ""
 ---
