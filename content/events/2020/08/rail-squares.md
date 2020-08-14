@@ -2,6 +2,14 @@
 title: Rail Squares
 summary: MFA Students will discuss their recent work with Rail Editor-at-Large,
   Toby Kamps. We'll conclude with a poetry reading from Zack Pieper.
+people:
+  - person: toby-kamps
+    event_bio: Toby Kamps is former director of Blaffer Museum of Art, and curator
+      of modern and contemporary art at the Menil Collection. He is now the
+      director of external projects at White Cube Gallery and is an
+      Editor-at-Large for the Brooklyn Rail.
+poets:
+  - person: zack-pieper
 date: 2020-08-14 16:46:00 -0500
 end_date: 2020-08-14 16:46:00 -0500
 collections:
@@ -20,3 +28,5 @@ event_platform:
 **Lydia Pettit**'s works are confrontational depictions of her own inward gaze, forcing the viewer to reckon with the realities of her body and mind, and their own viewpoints on the struggles women face with sexual abuse, trauma, body politics, and mental health. Her materials range from large expressive oil paintings of her body to intimate, hyper-real figurative embroideries within odd quilts to create new realities spanning painting and textiles. Pettit’s paintings explore the experience of PTSD and the politics of the body, using her own image as a vehicle to process and communicate. Her textile pieces capture this eerie experience using disjointed compositions and mixed materials, disembodied figures, and contrast between representational embroideries and cartoonish environments.
 
 **Alice Bucknell** is an American artist and writer based in London. With a background as an art and architecture critic, she participates in international exhibitions, symposiums, and residencies. She is a guest critic at international design and architecture schools including the Architectural Association in London and the Oslo School of Architecture and Design. Her writing appears regularly in art and design publications including Flash Art, Frieze, Kaleidoscope, Mousse, and The Architectural Review. She is currently a staff writer at Elephant Magazine and the Harvard Design Magazine, and a resident of HQI in White City. She studied at the University of Chicago and the Royal College of Art in London.
+
+With a background in music education and classical voice, **Teresa Arede** places a strong emphasis on the use of sound and is interested in the idea of artificial narratives. "Through researching the poetic qualities of these half-dreamt worlds I have arrived at subjects connected to the absurd and the volatile mutability of truth. I have also been leaning on the idea of language as a manipulator of truth, many times used as a detrimental stifling tool."
