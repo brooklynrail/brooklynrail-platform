@@ -46,18 +46,6 @@ people:
       Academy of American Poets’ Poem-a-Day, APR, The Atlantic, Poetry
       Northwest, and Poets & Writers, among others. She is currently a doctoral
       student in Literature & Creative Writing at the University of Houston.
-  - person: caroline-rothstein-1
-    event_bio: Caroline Rothstein is an internationally touring and acclaimed
-      writer, poet, and performer. Her work has appeared in Cosmopolitan, Marie
-      Claire, The Guardian, BuzzFeed, NYLON, Narratively, The ABA Journal,
-      Williams Magazine, The Forward, Hey Alma, Radius Lit, Our Town, and
-      elsewhere. She is on faculty for the Foundation for Jewish Camp’s annual
-      Cornerstone Fellowship, a Youth Mentor at Urban Word NYC, and a
-      facilitator for the Dialogue Arts Project. Caroline is a producer on the
-      forthcoming documentary film The Kids, and was an Associate Producer on
-      Andrea B. Scott’s Florence, Arizona. She hosted and produced the YouTube
-      series “Body Empowerment,” and was President of the Board of Directors for
-      Mental Fitness, Inc.
   - person: ramya-ramana-2
     event_bio: Nationally-acclaimed American poet and author Ramya Ramana made her
       debut in 2014 at the inauguration of Mayor Bill De Blasio, where she was
