@@ -26,11 +26,20 @@ people:
       journal throughout 2020. She currently is the inaugural Palette Poetry
       Second Book Fellow and spends her days as the Prison and Justice Writing
       Program Director at PEN America.
+  - person: joy-priest
+    event_bio: Joy Priest is the author of HORSEPOWER (Pitt Poetry Series, 2020),
+      winner of the Donald Hall Prize for Poetry. She is the recipient of the
+      2020 Kunitz Prize and her work has appeared or is forthcoming in the
+      Academy of American Poets’ Poem-a-Day, APR, The Atlantic, Poetry
+      Northwest, and Poets & Writers, among others. She is currently a doctoral
+      student in Literature & Creative Writing at the University of Houston.
 date: 2020-08-19 13:00:00 -0500
 end_date: 2020-08-19 14:00:00 -0500
 series: 111
 collections:
   - the-new-social-environment
+event_sponsor:
+  - the-brooklyn-rail
 event_organizer:
   - the-brooklyn-rail
 event_producer:
