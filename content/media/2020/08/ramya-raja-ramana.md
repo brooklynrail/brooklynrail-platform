@@ -1,6 +1,6 @@
 ---
 media: /media/files/ramya-image.jpg
-title: Ramya Raja Ramana (2020-08)
+title: "Ramya Raja Ramana (2020-08) "
 alt: A photograph of poet Ramya Raya Ramana reflected in a round wooden mirror,
   wearing a white gown.
 caption: Seshmila Jay
