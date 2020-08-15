@@ -1,5 +1,5 @@
 ---
-title: A Conversation with Rev. Dr. Dona Schaper
+title: A Conversation with Rev. Dr. Donna Schaper
 summary: Join us for a conversation with Rev. Dr. Dona Schaper. We'll conclude
   with a poetry reading.
 people:
@@ -26,4 +26,6 @@ event_producer:
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-112-a-conversation-with-rev-dr-dona-schaper-tickets-117079183991
 event_platform:
   - zoom
+aliases:
+  - /events/2020/08/20/a-conversation-with-rev-dr-dona-schaper/
 ---
