@@ -14,6 +14,6 @@ short_bio: "Gabriel Ramirez is a Queer Afro-Latinx poet, activist, and teaching
   forthcoming in What Saves Us: Poems of Empathy and Outrage in the Age of Trump
   (2019) and The Breakbeat Poets Vol. 4: LatiNEXT (2020)."
 portraits:
-  - media: 2020/08/gabriel-ramirez-2020-08
+  - {}
 website: https://ramirezpoet.com/
 ---
