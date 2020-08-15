@@ -10,6 +10,11 @@ people:
       Editor-at-Large for the Brooklyn Rail.
 poets:
   - person: zack-pieper
+    event_bio: "Zack Pieper's work spans poetry, sound, song, radio art, and
+      performance. He creates large mosaics of small ghosts drawn on hundreds of
+      post-it notes, in shop-front windows & other spaces. \"SAME HERE\",
+      selections from a decade of poems, was recently released from Adjunct
+      Press. "
 date: 2020-08-21 13:00:00 -0500
 end_date: 2020-08-21 14:00:00 -0500
 series: 113
