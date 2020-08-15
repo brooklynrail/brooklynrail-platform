@@ -66,7 +66,7 @@ people:
       She received her bachelor’s at St. John’s University which she attended on
       a full scholarship with the NY Knicks Poetry Slam. Ramana’s upcoming
       projects include: creating a spoken word album, and songwriting. Ramana is
-      currently receiving her MFA in poetry at The New School."
+      currently receiving her MFA in poetry at The New School. "
   - person: gabriel-ramirez
     event_bio: "Gabriel Ramirez is a Queer Afro-Latinx poet, activist, and teaching
       artist. Gabriel has received fellowships from The Conversation Literary
