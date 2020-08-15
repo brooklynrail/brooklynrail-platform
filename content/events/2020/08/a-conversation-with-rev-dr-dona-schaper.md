@@ -1,10 +1,10 @@
 ---
-title: A Conversation with Rev. Dr. Dona Schaper
-summary: Join us for a conversation with Rev. Dr. Dona Schaper. We'll conclude
+title: A Conversation with Rev. Dr. Donna Schaper
+summary: Join us for a conversation with Rev. Dr. Donna Schaper. We'll conclude
   with a poetry reading.
 people:
   - person: rev-dr-dona-schaper
-    event_bio: "Rev. Dr. Dona Schaper has been Senior Minister of Judson Memorial
+    event_bio: "Rev. Dr. Donna Schaper has been Senior Minister of Judson Memorial
       Church since January of 2006. She was formerly at Coral Gables
       Congregational Church in Miami and before that at Yale University and
       teaches leadership at the Hartford Seminary. As an elder, she is
@@ -26,4 +26,6 @@ event_producer:
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-112-a-conversation-with-rev-dr-dona-schaper-tickets-117079183991
 event_platform:
   - zoom
+aliases:
+  - /events/2020/08/20/a-conversation-with-rev-dr-dona-schaper/
 ---
