@@ -1,10 +1,10 @@
 ---
 title: Radical Poetry Reading with Mahogany L. Browne
 deck: Featuring political poetry read by Caits Meissner, Jive Poetic, Joy
-  Priest, Caroline Rothstein, and Ramya Ramana.
+  Priest, Caroline Rothstein, Ramya Ramana, and Gabriel Ramirez.
 summary: Poet and writer Mahogany L. Browne curates the first installment in a
   new series of Radical Poetry Readings, featuring Caits Meissner, Jive Poetic,
-  Joy Priest, Caroline Rothstein, and Ramya Ramana.
+  Joy Priest, Caroline Rothstein, Ramya Ramana, and Gabriel Ramirez.
 people:
   - person: mahogany-l-browne
     event_bio: "Mahogany L. Browne is a writer, organizer & educator. Executive
