@@ -1,5 +1,5 @@
 ---
-name: Ramya Ramana
+name: Ramya Raja Ramana
 first_name: Ramya
 last_name: Ramana
 short_bio: Nationally-acclaimed American poet and author Ramya Ramana made her
