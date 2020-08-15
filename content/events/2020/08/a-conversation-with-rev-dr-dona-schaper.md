@@ -1,10 +1,10 @@
 ---
 title: A Conversation with Rev. Dr. Donna Schaper
-summary: Join us for a conversation with Rev. Dr. Dona Schaper. We'll conclude
+summary: Join us for a conversation with Rev. Dr. Donna Schaper. We'll conclude
   with a poetry reading.
 people:
   - person: rev-dr-dona-schaper
-    event_bio: "Rev. Dr. Dona Schaper has been Senior Minister of Judson Memorial
+    event_bio: "Rev. Dr. Donna Schaper has been Senior Minister of Judson Memorial
       Church since January of 2006. She was formerly at Coral Gables
       Congregational Church in Miami and before that at Yale University and
       teaches leadership at the Hartford Seminary. As an elder, she is
