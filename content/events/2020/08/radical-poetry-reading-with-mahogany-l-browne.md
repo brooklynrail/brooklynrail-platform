@@ -59,14 +59,14 @@ people:
       Scott’s “Florence, Arizona.” She hosted and produced the YouTube series
       “Body Empowerment,” and was President of the Board of Directors for Mental
       Fitness, Inc.
-  - person: ramya-ramana-2
-    event_bio: "Ramya Ramana is an Indian-American poet, author, educator and
+  - event_bio: "Ramya Ramana is an Indian-American poet, author, educator and
       songwriter. The New York native often writes about topics such as race,
       femininity, intergenerational trauma, faith and the first-gen experience.
       She received her bachelor’s at St. John’s University which she attended on
       a full scholarship with the NY Knicks Poetry Slam. Ramana’s upcoming
       projects include: creating a spoken word album, and songwriting. Ramana is
-      currently receiving her MFA in poetry at The New School. "
+      currently receiving her MFA in poetry at The New School."
+    person: ramya-ramana-2
   - person: gabriel-ramirez
     event_bio: "Gabriel Ramirez is a Queer Afro-Latinx poet and teaching artist.
       Gabriel has received fellowships from Palm Beach Poetry Festival, The
