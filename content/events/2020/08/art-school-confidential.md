@@ -1,9 +1,9 @@
 ---
 title: Art School Confidential
-summary: Dewey Crumpler, Carol Becker, John Priola, and Gordon Knox, will
-  discuss the future of art school as institutions like SFAI face possible
-  closures. The conversation will be led by Dore Bowen. We'll conclude with a
-  poetry reading from Marie Buck.
+summary: Dewey Crumpler, Carol Becker, John Priola, and Gordon Knox will discuss
+  the future of art school as institutions like SFAI face possible closures. The
+  conversation will be led by Dore Bowen. We'll conclude with a poetry reading
+  from Marie Buck.
 people:
   - person: dewey-crumpler
     event_bio: "Dewey Crumpler is an Associate Professor of painting at San
