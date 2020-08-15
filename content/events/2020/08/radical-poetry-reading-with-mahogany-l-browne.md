@@ -60,17 +60,13 @@ people:
       “Body Empowerment,” and was President of the Board of Directors for Mental
       Fitness, Inc.
   - person: ramya-ramana-2
-    event_bio: Nationally-acclaimed American poet and author Ramya Ramana made her
-      debut in 2014 at the inauguration of Mayor Bill De Blasio, where she was
-      asked to perform an original piece. She then went on to perform at over
-      200 venues in a year as the Youth Poet Laureate of NYC, making mentions in
-      the New York Times, Wall Street Journal, Brown Girl Magazine, and many
-      more. Ramana's first manuscript, "Don't Drown Her in the Baptism",
-      explores femininity, faith, and race. As a first-generation
-      Indian-American, Ramana's work illustrates immigrant experience and
-      explores existentialism. Her upcoming projects include a spoken word
-      album, and songwriting. She is currently receiving her MFA in poetry at
-      The New School.
+    event_bio: Ramya Ramana is an Indian-American poet, author, educator, and
+      songwriter. The New York native often writes about topics such as race,
+      femininity, intergenerational trauma, faith, and the first-gen experience.
+      She received her bachelor's at St. John's University which she attended on
+      a full scholarship with the NY Knicks Poetry Slam. Ramana's upcoming
+      projects include creating a spoken word album and songwriting. ramana is
+      currently receiving her MFA in poetry at The New School.
   - person: gabriel-ramirez
     event_bio: "Gabriel Ramirez is a Queer Afro-Latinx poet, activist, and teaching
       artist. Gabriel has received fellowships from The Conversation Literary
