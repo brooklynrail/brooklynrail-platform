@@ -12,6 +12,7 @@ short_bio: Nationally-acclaimed American poet and author Ramya Ramana made her
   immigrant experience and explores existentialism. Her upcoming projects
   include a spoken word album, and songwriting. She is currently receiving her
   MFA in poetry at The New School.
-portraits: []
+portraits:
+  - media: 2020/08/ramya-raja-ramana
 website: https://www.ramyaramana.com/
 ---
