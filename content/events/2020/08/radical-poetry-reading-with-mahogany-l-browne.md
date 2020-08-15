@@ -72,6 +72,14 @@ people:
       Poetry Anthology (2017) and forthcoming in What Saves Us: Poems of Empathy
       and Outrage in the Age of Trump (2019) and The Breakbeat Poets Vol. 4:
       LatiNEXT (2020)."
+  - person: ramya-ramana-2
+    event_bio: "Ramya Ramana is an Indian-American poet, author, educator and
+      songwriter. The New York native often writes about topics such as race,
+      femininity, intergenerational trauma, faith and the first-gen experience.
+      She received her bachelor’s at St. John’s University which she attended on
+      a full scholarship with the NY Knicks Poetry Slam. Ramana’s upcoming
+      projects include: creating a spoken word album, and songwriting. Ramana is
+      currently receiving her MFA in poetry at The New School."
 date: 2020-08-19 13:00:00 -0500
 end_date: 2020-08-19 14:00:00 -0500
 series: 111
