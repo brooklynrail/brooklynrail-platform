@@ -67,6 +67,8 @@ people:
       a full scholarship with the NY Knicks Poetry Slam. Ramana's upcoming
       projects include creating a spoken word album and songwriting. ramana is
       currently receiving her MFA in poetry at The New School.
+  - person: gabriel-ramirez
+    event_bio: o
 date: 2020-08-19 13:00:00 -0500
 end_date: 2020-08-19 14:00:00 -0500
 series: 111
