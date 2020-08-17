@@ -21,5 +21,3 @@ A fervent hybrid of autofiction and documentary, *Common Carrier* tracks the fil
 The screening will be followed by a Q&A with the artist, moderated by Gina Telaroli and Dan Sullivan.
 
 Following the broadcast, the stream will be freely available to view on the Screen Slate Twitch channel for one week. Subsequently it will be accessible along with other past Stream Slate programs with artists including Cecelia Condit, Ken Jacobs, Ellie Ga, Frank Heath, Simon Liu, Cory Arcangel, and Laboratorio Experimental de Cine for Screen Slate [Patreon members](https://www.patreon.com/screenslate).
-
-James N. Kienitz Wilkins is a filmmaker and artist based in Brooklyn. His work has screened at the film festivals and venues including the New York Film Festival, Toronto IFF, Locarno IFF, Rotterdam iFF, Migrating Forms, MoMA PS1, Tate Modern, and beyond. In 2016, he was awarded the Kazuko Trust Award presented by the Film Society of Lincoln Center. In 2017, he was included in the Whitney Biennial and a retrospective of his work was showcased at RIDM (Montreal).
