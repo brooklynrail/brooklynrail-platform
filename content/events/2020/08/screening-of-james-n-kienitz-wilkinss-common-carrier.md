@@ -39,6 +39,8 @@ event_producer:
 registration_url: https://www.twitch.tv/screenslate
 event_platform: null
 ---
+{{< image media="2020/08/common-carrier-film-still" size="lg" >}}
+
 *The Brooklyn Rail* is pleased to partner with Screen Slate for a presentation of James N. Kienitz Wilkins's *Common Carrier*, showing as part of the weekly online Stream Slate screening series.
 
 A fervent hybrid of autofiction and documentary, *Common Carrier* tracks the filmmaker's network of artists and friends amid the haywire summer months of 2016. As Wilkins describes, *Common Carrier*, "weaves scripted performances by real people playing versions of themselves with intimate conversations about art making, labor, technology, and life. The layered images and sounds—inspired to an extent by my interest in visual techniques developed in early Modernist art—contrast with the technologies and unavoidable airwaves of the 21st century to become what I consider a fair use cinematic 'mixtape.' It was my goal to reflect our multifaceted contemporary world where there is no one right way to look or listen: we are perpetually barraged by a sea of information, histories, and the promises of absolute connection, while remaining fundamentally alone."
