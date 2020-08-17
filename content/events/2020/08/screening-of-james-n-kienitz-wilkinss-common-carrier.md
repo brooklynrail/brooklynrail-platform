@@ -16,6 +16,9 @@ people:
   - person: gina-telaroli
     event_bio: Gina Telaroli is a filmmaker, archivist, and the Film co-editor of
       the Brooklyn Rail.
+  - person: dan-sullivan
+    event_bio: Dan Sullivan is a curator and writer based in New York City and the
+      Film co-editor of the Brooklyn Rail.
 date: 2020-08-20 20:00:00 -0500
 end_date: 2020-08-20 22:00:00 -0500
 collections: []
