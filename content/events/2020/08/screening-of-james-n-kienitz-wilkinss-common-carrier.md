@@ -13,6 +13,9 @@ people:
       Kazuko Trust Award presented by the Film Society of Lincoln Center. In
       2017, he was included in the Whitney Biennial and a retrospective of his
       work was showcased at RIDM (Montreal).
+  - person: gina-telaroli
+    event_bio: Gina Telaroli is a filmmaker, archivist, and the Film co-editor of
+      the Brooklyn Rail.
 date: 2020-08-20 20:00:00 -0500
 end_date: 2020-08-20 22:00:00 -0500
 collections: []
