@@ -47,6 +47,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: PRlcP3mtV3k
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-106-shahzia-sikander-tickets-116100705335
 event_platform:
   - zoom
