@@ -64,21 +64,12 @@ people:
       Nauman, Elin Hansdottir, and Lydia Ourahmane, among others—and her
       research areas include Fluxus, photography, interdisciplinary art,
       phenomenology, and queer feminism. Recently, Bowen served as lead curator
-      for the reinstallation of Bruce Nauman's 1970San Jose Installation, which
-      culminated in her monograph Bruce Nauman: Spatial Encounters (with
-      Constance M. Lewallen, University of California Press, 2019), and she is
-      completing a book on the history of the diorama from the19th century to
-      contemporary installation art. These and other scholarly projects have
-      been supported by fellowships and grants, including the Camargo
-      Foundation, the Clark Art Institute, the Centre Allemand d’histoire de
-      l’art, and San José State University. As Associate Professor and
-      Coordinator of the Art History and Visual Culture program at San José
-      State University, Bowen teaches seminars on contemporary art and the
-      archive, contemporary craft, the history of perception, the spectacle, and
-      art historical methods. Her undergraduate courses include the history and
-      theory of new media, introduction to visual culture, the art of the 1960s
-      and 70s, and issues of materiality in contemporary art (called \"The
-      Thing\"). "
+      for the reinstallation of Bruce Nauman’s 1970 San Jose Installation, which
+      culminated in Bruce Nauman: Spatial Encounters (with Constance M.
+      Lewallen, University of California Press, 2019), and is completing a book
+      on the history of the diorama from the 19th century to contemporary
+      installation art. She is Associate Professor of Art History at San José
+      State University."
 poets:
   - person: marie-buck
     event_bio: "Marie Buck is the author of Portrait of Doom (Krupskaya 2015),
