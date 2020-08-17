@@ -39,7 +39,7 @@ event_producer:
 registration_url: https://www.twitch.tv/screenslate
 event_platform: null
 ---
-{{< image media="2020/08/common-carrier-film-still" size="lg" >}}
+{{< image media="2020/08/common-carrier-film-still-1" size="lg" >}}
 
 *The Brooklyn Rail* is pleased to partner with Screen Slate for a presentation of James N. Kienitz Wilkins's *Common Carrier*, showing as part of the weekly online Stream Slate screening series.
 
