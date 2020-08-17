@@ -23,8 +23,9 @@ date: 2020-08-20 20:00:00 -0500
 end_date: 2020-08-20 22:00:00 -0500
 collections: []
 event_organizer:
-  - the-brooklyn-rail
+  - screen-slate
 event_producer:
+  - screen-slate
   - the-brooklyn-rail
 registration_url: https://www.twitch.tv/screenslate
 event_platform: null
