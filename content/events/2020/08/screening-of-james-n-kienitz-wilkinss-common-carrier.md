@@ -14,8 +14,17 @@ people:
       2017, he was included in the Whitney Biennial and a retrospective of his
       work was showcased at RIDM (Montreal).
   - person: gina-telaroli
-    event_bio: Gina Telaroli is a filmmaker, archivist, and the Film co-editor of
-      the Brooklyn Rail.
+    event_bio: >+
+      Gina Telaroli is a filmmaker, archivist, and the Film co-editor of the
+      Brooklyn Rail.
+
+
+
+
+
+
+
+
   - person: dan-sullivan
     event_bio: Dan Sullivan is a curator and writer based in New York City and the
       Film co-editor of the Brooklyn Rail.
