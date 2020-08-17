@@ -34,6 +34,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: l0OlzuTEmVk
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-109-xaviera-simmons-tickets-116757134733
 event_platform:
   - zoom
