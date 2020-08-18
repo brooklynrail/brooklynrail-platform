@@ -1,7 +1,7 @@
 ---
 title: A Conversation with Rev. Dr. Donna Schaper
-summary: Join us for a conversation with Rev. Dr. Donna Schaper. We'll conclude
-  with a poetry reading.
+summary: Join us for a conversation with Kendrick Arthur Kemp and Rev. Donna
+  Schaper. We'll conclude with a poetry reading.
 people:
   - person: kendrick-kemp
     event_bio: Kendrick Arthur Kemp was raised in Upstate NY, Lyons. He earned a
