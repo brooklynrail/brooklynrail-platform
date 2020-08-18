@@ -1,5 +1,5 @@
 ---
-name: Kendrick Kemp
+name: Kendrick Arthur Kemp
 first_name: Kendrick
 last_name: Kemp
 short_bio: Kendrick Arthur Kemp was raised in Upstate NY, Lyons. He earned a
