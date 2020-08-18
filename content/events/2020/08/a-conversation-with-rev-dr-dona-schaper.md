@@ -1,5 +1,5 @@
 ---
-title: A Conversation with Rev. Dr. Donna Schaper
+title: Kendrick Arthur Kemp with Rev. Donna Schaper
 summary: Join us for a conversation with Kendrick Arthur Kemp and Rev. Donna
   Schaper. We'll conclude with a poetry reading.
 people:
@@ -37,5 +37,6 @@ registration_url: https://www.eventbrite.com/e/the-new-social-environment-112-a-
 event_platform:
   - zoom
 aliases:
+  - /events/2020/08/20/a-conversation-with-rev-dr-dona-schaper/
   - /events/2020/08/20/a-conversation-with-rev-dr-dona-schaper/
 ---
