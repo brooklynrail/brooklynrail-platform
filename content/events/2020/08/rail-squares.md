@@ -1,7 +1,7 @@
 ---
 title: Rail Squares
-deck: A conversation with MFA Students participating in "Tomorrow: London", an exhibition at White Cube
-summary: MFA Students participating in the "Tomorrow: London" exhibition at White Cube will discuss their recent work with Rail Editor-at-Large, Toby Kamps. We’ll conclude with a poetry reading from Zack Pieper.
+deck: A conversation with MFA Students participating in &#8220;Tomorrow: London&#8221;, an exhibition at White Cube
+summary: MFA Students participating in the &#8220;Tomorrow: London&#8221; exhibition at White Cube will discuss their recent work with Rail Editor-at-Large, Toby Kamps. We’ll conclude with a poetry reading from Zack Pieper.
 people:
   - person: toby-kamps
     event_bio: Toby Kamps is former director of Blaffer Museum of Art, and curator
@@ -65,3 +65,5 @@ Hong Kong-born, London based artist **Bo Choy** makes film and performances. She
 **Ella McVeigh**'s work centers around the thought thatpaintings have the capacity to offer another insight into experience which surpasses the scope and range of our language based thoughts.
 
 **Harminder Judge** practices performance, video and installation channelling Gene Simmons and Kali, Hindi mythology, sci-fi, pop-culture and identity. Judge borrows techniques from Italian fresco, Indian reverse glass painting, and plastering his own house.
+
+**Anna Perach’s** practice is informed by the dynamic between personal and cultural myths. She explores how our private narratives are deeply rooted in ancient storytelling and folklore and conversely how folklore has the ability to tell us intimate, confidential stories about ourselves. In her work she synthesises female mythic characters and retell their stories while placing them in the current climate. By doing so she creates an experience of eeriness, evoking a sense of both familiarity and distress.
