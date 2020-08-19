@@ -15,7 +15,7 @@ people:
       of NYS Tenants & Neighbors. There, he fought for truly affordable,
       income-targeted housing across New York City and State.  In the NYC
       Council, Jumaane championed landmark legislation that fundamentally
-      transformed policing in NYC. Jumaane sponsored the Community Satety Act,
+      transformed policing in NYC. Jumaane sponsored the Community Safety Act,
       reforming the City's Police Department by ending the abuse of Stop,
       Question & Frisk in communities of color and creating the NYPD's Office of
       Inspector General to investigate unlawful & unethical behavior. Jumaane
@@ -72,6 +72,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-114-jumaane-williams-tickets-117593741045
 event_platform:
   - zoom
 ---
