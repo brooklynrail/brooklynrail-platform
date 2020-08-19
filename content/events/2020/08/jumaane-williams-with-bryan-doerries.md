@@ -38,6 +38,23 @@ people:
       Kenyon College, and in March 2017, he was named Public Artist in Residence
       (PAIR) for the City of New York, a joint appointment with the New York
       City Department of Veterans’ Services and Department of Cultural Affairs."
+  - person: phong-h-bui
+    event_bio: "Phong Bui is an artist, writer, independent curator, Publisher and
+      Artistic Director of the Brooklyn Rail, the River Rail, Rail Editions, and
+      Rail Curatorial Projects. From 2007 to 2010 he served as Curatorial
+      Advisor at MoMA PS1. His recent projects include Artists Need to Create on
+      the Same Scale that Society Has the Capacity to Destroy, an ongoing
+      curatorial project that was exhibited in 2019 as an official Collateral
+      Event of the Venice Biennale and at Colby Museum in Waterville, Maine. He
+      is a trustee of Studio in a School, the Louis Comfort Tiffany Foundation,
+      Anthology Film Archives, the Third Rail, the Miami Rail, Sharpe-Walentas
+      Studio Program, Second Shift Studio Space of Saint Paul, AICA (2007-2020),
+      and is co-founder of the Monira Foundation, a non-profit which aims to
+      curate ongoing exhibitions and public programming at Mana Contemporary in
+      Jersey City and beyond. Forthcoming projects include the Detroit Rail, the
+      first U.S. retrospective of Jonas Mekas, and Occupy Industry City: Artists
+      Need to Create on the Same Scale that Society Has the Capacity to Destroy,
+      Year 3."
 poets:
   - person: nada-gordon
     event_bio: Nada Gordon is the author of Folly, V. Imp, foriegnn bodie, Swoon,
