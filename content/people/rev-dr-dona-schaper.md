@@ -1,6 +1,6 @@
 ---
 name: Rev. Dr. Donna Schaper
-first_name: Dona
+first_name: Donna
 last_name: Schaper
 short_bio: "Rev. Dr. Donna Schaper has been Senior Minister of Judson Memorial
   Church since January of 2006. She was formerly at Coral Gables Congregational
@@ -13,5 +13,5 @@ short_bio: "Rev. Dr. Donna Schaper has been Senior Minister of Judson Memorial
   Francis: Letters to the Pope from an Unlikely Admirer (2016), among many
   others."
 portraits:
-  - media: 2020/08/dona-schaper
+  - media: 2020/06/rev-dr-dona-schaper
 ---
