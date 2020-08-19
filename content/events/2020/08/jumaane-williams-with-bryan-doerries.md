@@ -1,5 +1,5 @@
 ---
-title: Jumaane Williams with Bryan Doerries
+title: Jumaane Williams with Bryan Doerries and Phong Bui
 summary: "New York City Public Advocate, Jumaane Williams will be in
   conversation with Bryan Doerries. "
 people:
