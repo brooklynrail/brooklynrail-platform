@@ -3,6 +3,22 @@ title: Jumaane Williams with Bryan Doerries
 summary: "New York City Public Advocate, Jumaane Williams will be in
   conversation with Bryan Doerries. "
 people:
+  - person: jumaane-williams
+    event_bio: Jumaane D. Williams has served as the New York City Public Advocate
+      since 2019. Jumaane is a first-generation Brooklynite of Grenadian
+      heritage. He graduated from the public school system, overcoming the
+      difficulties of Tourette's and ADHD to earn a Master's Degree from
+      Brooklyn College. He began his career as a community organizer at the
+      Greater Flatbush Beacon School and later served as the Executive Director
+      of NYS Tenants & Neighbors. There, he fought for truly affordable,
+      income-targeted housing across New York City and State.  In the NYC
+      Council, Jumaane championed landmark legislation that fundamentally
+      transformed policing in NYC. Jumaane sponsored the Community Satety Act,
+      reforming the City's Police Department by ending the abuse of Stop,
+      Question & Frisk in communities of color and creating the NYPD's Office of
+      Inspector General to investigate unlawful & unethical behavior. Jumaane
+      has led the fight for better policing and safer streets, affordable
+      housing, and transparency and accountability in City government.
   - person: bryan-doerries
     event_bio: "Bryan Doerries is a writer, director, and translator, who currently
       serves as Artistic Director of Theater of War Productions. A
