@@ -85,6 +85,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: Z55wi4o9770
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-110-art-school-confidential-tickets-116803025995
 event_platform:
   - zoom
