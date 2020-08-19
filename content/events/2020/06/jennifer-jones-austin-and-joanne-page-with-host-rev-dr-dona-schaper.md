@@ -1,5 +1,5 @@
 ---
-title: Jennifer Jones Austin and JoAnne Page with Rev. Dr. Dona Schaper
+title: Jennifer Jones Austin and JoAnne Page with Rev. Dr. Donna Schaper
 summary: A discussion on the social and economic well-being of NY's most
   vulnerable, and leading change and strengthening the fabric of our
   communities.
@@ -12,10 +12,12 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
-registration_url: https://www.eventbrite.com/e/the-new-social-environment-62-joanne-page-jennifer-jones-austin-tickets-108144643540
 youtube_id: gZLxm15y5ew
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-62-joanne-page-jennifer-jones-austin-tickets-108144643540
 event_platform:
   - zoom
+aliases:
+  - /events/2020/06/10/jennifer-jones-austin-and-joanne-page-with-host-rev-dr-dona-schaper/
 ---
 {{< image media="2020/06/jennifer-jones-austin" size="sm" >}}
 
@@ -29,7 +31,7 @@ In 2018 JoAnne was honored by City & State New York as one of the top 50 nonprof
 
 {{< image media="2020/06/rev-dr-dona-schaper" size="sm" >}}
 
-**Rev. Dr. Dona Schaper** has been Senior Minister of Judson Memorial Church since January of 2006. She was formerly at Coral Gables Congregational Church in Miami and before that at Yale University, and teaches leadership at the Hartford Seminary. As an elder, she is passionately concerned about leaving the next generation well-prepared for all they have to face. She has written over 35 books including Approaching End of Life: A Practical and Spiritual Guide (2015), Grace at Table: Small Spiritual Solutions to Large Material Problems, Solving Everything (2013), to her most recent book I Heart Francis: Letters to the Pope from an Unlikely Admirer (2016), among many others.
+**Rev. Dr. Donna Schaper** has been Senior Minister of Judson Memorial Church since January of 2006. She was formerly at Coral Gables Congregational Church in Miami and before that at Yale University, and teaches leadership at the Hartford Seminary. As an elder, she is passionately concerned about leaving the next generation well-prepared for all they have to face. She has written over 35 books including Approaching End of Life: A Practical and Spiritual Guide (2015), Grace at Table: Small Spiritual Solutions to Large Material Problems, Solving Everything (2013), to her most recent book I Heart Francis: Letters to the Pope from an Unlikely Admirer (2016), among many others.
 
 **In the Rail:**
 
