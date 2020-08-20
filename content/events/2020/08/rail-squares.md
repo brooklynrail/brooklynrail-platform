@@ -75,22 +75,38 @@ With a background in music education and classical voice, **Teresa Arede** place
 
 Contemporary racial politics, migration, blackness and whiteness are central to **Michael Forbes**' work; in relation to universal debates on race, wealth, history and religion. Sculpture, installations, photography, animation and digital media are the external manifestations to these debates.
 
-{{< image media="undefined" size="md" >}}
+{{< image media="2020/08/max-limbu" size="sm" >}}
 
 **Max Limbu** is interested in the narrative of architecture and artefacts. Focusing on the drastic or gradual metamorphoses in object aesthetics, from the colonial expropriation of artefacts to the changes of architectural landscapes entangled with its muted histories.
 
+{{< image media="2020/08/sean-tseng" size="sm" >}}
+
 **Sean Tseng**'spractice explores the subtle dynamics and beauty of attraction between different forms in nature where encounters with beings and surroundings await. "Through my work, I consider how the idea of the industrialised, raw and natural materials can express landscape narratives and remind of different qualities of nature itself in response to what we all confront with our natural surroundings nowadays."
+
+{{< image media="2020/08/olivia-sterling" size="sm" >}}
 
 **Olivia Sterling**'spaintings play with past and present ideologies that consider black bodies to be less than the white, and this absurdity is what drives and is reflected in her painting.
 
+{{< image media="2020/08/sholto-blissett" size="sm" >}}
+
 **Sholto Blissett** examines the sublime in nature, and how people experience it differently as our relationship with nature has changed.
+
+{{< image media="2020/08/bo-choy" size="sm" >}}
 
 Hong Kong-born, London based artist **Bo Choy** makes film and performances. She uses fiction, music, writing and costuming as artistic devices to navigate through the socio-political, the historical or simply what it means to be living in a technologically driven, capitalist urban society.
 
+{{< image media="2020/08/olga-unman" size="sm" >}}
+
 **Olga Ulmann** is a practice-oriented artistic researcher, absorbing the surrounding world in an attempt to translate her findings into drawings, sculptures, installations and moving images. Olga's artistic practice derives from biographic roots: the depiction of fabric as an art historical framing of femininity and her early upbringing in the former USSR as historically bounded forms of identity forming, gender expression and nationhood as forms of inequality, and critical analysis of the meaning-making-mechanism and extensive visual literacy.
+
+{{< image media="2020/08/ella-mcveigh" size="sm" >}}
 
 **Ella McVeigh**'s work centers around the thought thatpaintings have the capacity to offer another insight into experience which surpasses the scope and range of our language based thoughts.
 
+{{< image media="2020/08/harminder-judge" size="sm" >}}
+
 **Harminder Judge** practices performance, video and installation channelling Gene Simmons and Kali, Hindi mythology, sci-fi, pop-culture and identity. Judge borrows techniques from Italian fresco, Indian reverse glass painting, and plastering his own house.
+
+{{< image media="2020/08/anna-perach" size="sm" >}}
 
 **Anna Perach’s** practice is informed by the dynamic between personal and cultural myths. She explores how our private narratives are deeply rooted in ancient storytelling and folklore and conversely how folklore has the ability to tell us intimate, confidential stories about ourselves. In her work she synthesises female mythic characters and retell their stories while placing them in the current climate. By doing so she creates an experience of eeriness, evoking a sense of both familiarity and distress.
