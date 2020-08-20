@@ -13,11 +13,10 @@ people:
       Baltimore, Baton Rouge and New Orleans. He is the recipient of 40,000
       angry letters from Ralph Reed’s “silent majority” for urging
       Christian  believers in the “Rapture” to ascend to Heaven  as quickly as
-      the Lord will make room for them. He did this on NPR, which as we know, is
-      the radio station all evangelicals listen to – religiously. Codrescu’s
-      first book of poetry was “License to Carry a Gun” in 1970, and his most
-      recent, “The Art of Forgetting” (2019) He writes novels and essays and won
-      the Peabody award for the film “Road Scholar.”
+      the Lord will make room for them. Codrescu’s first book of poetry was
+      “License to Carry a Gun” in 1970, and his most recent, “The Art of
+      Forgetting” (2019) He writes novels and essays and won the Peabody award
+      for the film “Road Scholar.”
   - person: sharon-mesmer
     event_bio: "Sharon Mesmer’s most recent poetry collection, Greetings From My
       Girlie Place (Bloof Books) was one of Entropy’s “Best of 2015.” Her other
