@@ -1,7 +1,10 @@
 ---
 title: Rail Squares
-deck: "A conversation with MFA Students participating in &#8220;Tomorrow: London&#8221;, an exhibition at White Cube"
-summary: "MFA Students participating in the &#8220;Tomorrow: London&#8221; exhibition at White Cube will discuss their recent work with Rail Editor-at-Large, Toby Kamps. We’ll conclude with a poetry reading from Zack Pieper."
+deck: "A conversation with MFA Students participating in &#8220;Tomorrow:
+  London&#8221;, an exhibition at White Cube"
+summary: "London MFA Students participating in the online exhibition Tomorrow:
+  London at White Cube will discuss their recent work with Rail Editor-at-Large,
+  Toby Kamps. We’ll conclude with a poetry reading from Zack Pieper."
 people:
   - person: toby-kamps
     event_bio: Toby Kamps is former director of Blaffer Museum of Art, and curator
