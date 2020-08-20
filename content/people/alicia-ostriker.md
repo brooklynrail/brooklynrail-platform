@@ -15,5 +15,5 @@ short_bio: "Alicia Ostriker is a major American poet and critic. Author of 17
   currently the New York State Poet Laureate and a Chancellor of the Academy of
   American Poets."
 portraits:
-  - media: ""
+  - media: 2020/08/alicia-ostriker
 ---
