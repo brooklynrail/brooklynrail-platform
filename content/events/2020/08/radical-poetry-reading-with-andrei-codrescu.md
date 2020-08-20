@@ -42,6 +42,17 @@ people:
       2002-2019. Her poems have been translated into numerous languages
       including Hebrew and Arabic. She is currently the New York State Poet
       Laureate and a Chancellor of the Academy of American Poets."
+  - person: elinor-nauen
+    event_bio: >
+      Elinor Nauen’s books include CARS & Other Poems, American Guys, So Late
+      into the Night, Now That I Know Where I’m Going, My Marriage A to Z, and,
+      as editor, Ladies, Start Your Engines: Women writers on cars & the road
+      and Diamonds Are a Girl’s Best Friend: Women writers on baseball. She has
+      been published in many magazines & anthologies. She has edited books by
+      Senator George Mitchell, Paul Krassner and Danny Schechter, among others,
+      and edited and written for many magazines. She lives in NYC with a cat
+      (Lefty) and a husband (Johnny Stanton), studies Norwegian, and trains in
+      karate. 
 date: 2020-08-26 13:00:00 -0500
 end_date: 2020-08-26 14:00:00 -0500
 series: 116
