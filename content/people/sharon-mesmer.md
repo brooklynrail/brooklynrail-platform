@@ -15,6 +15,6 @@ short_bio: "Sharon Mesmer’s most recent poetry collection, Greetings From My
   Rail. She lives in Brooklyn and teaches literature and creative writing at NYU
   and the New School. "
 portraits:
-  - media: 2020/07/sharon-mesmer
+  - media: 2020/08/sharon-mesmer
 website: https://sharonmesmer.com/
 ---
