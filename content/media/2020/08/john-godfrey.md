@@ -1,5 +1,5 @@
 ---
-media: /media/files/godfrey_john-sarsgard.jpg
+media: /media/files/godfrey_main_750.jpg
 title: John Godfrey
 alt: A black and white photograph of John Godfrey.
 caption: John Sarsgard
