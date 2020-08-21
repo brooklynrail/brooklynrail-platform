@@ -2,9 +2,9 @@
 title: Radical Poetry Reading with Andrei Codrescu
 deck: Featuring political poetry read by John Godfrey, Vincent Katz, Sharon
   Mesmer, Elinor Nauen, Alicia Ostriker, and Anne Waldman.
-summary: Poet and writer Andrei Codrescu curates the second installment in a new
-  series of Radical Poetry Readings, featuring John Godfrey, Vincent Katz,
-  Sharon Mesmer, Elinor Nauen, Alicia Ostriker, and Anne Waldman.
+summary: Poet and writer Andrei Codrescu curates the second installment second
+  installation of our new Radical Poetry Reading series, featuring John Godfrey,
+  Vincent Katz, Sharon Mesmer, Elinor Nauen, Alicia Ostriker, and Anne Waldman.
 people:
   - person: andrei-codrescu
     event_bio: Andrei Codrescu was born in Transylvania, Romania, reborn at the age
