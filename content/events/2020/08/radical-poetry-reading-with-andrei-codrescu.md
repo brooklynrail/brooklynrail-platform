@@ -64,6 +64,15 @@ people:
       “open field investigator” of consciousness, committed to the possibilities
       of radical shifts of language and states of mind to create new modal
       structures and montages of attention. "
+  - person: vincent-katz
+    event_bio: "Vincent Katz is the author of the poetry collections Broadway for
+      Paul (2020),  Southness (2016) and Swimming Home (2015) and the book of
+      translations, The Complete Elegies of Sextus Propertius (2004). His
+      writing on contemporary art and poetry has appeared in Apollo, Art in
+      America, ARTnews, The Brooklyn Rail, and The Poetry Project Newsletter. As
+      curator of the “Readings in Contemporary Poetry” series at Dia: Chelsea,
+      Katz edited the anthology Readings in Contemporary Poetry (Dia Art
+      Foundation, 2017). He lives in New York City."
 date: 2020-08-26 13:00:00 -0500
 end_date: 2020-08-26 14:00:00 -0500
 series: 116
