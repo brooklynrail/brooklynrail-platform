@@ -1,5 +1,5 @@
 ---
-media: /media/files/elinor-2-small.jpg
+media: /media/files/elinornauen.png
 title: Elinor Nauen
 alt: A photograph of Elinor Nauen with a shadowy background.
 caption: Courtesy Elinor Nauen
