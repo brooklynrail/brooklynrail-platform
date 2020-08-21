@@ -1,60 +1,31 @@
 <img src="https://venice.brooklynrail.org/assets/img/brooklyn-rail-logo-2019-outline-red.svg" alt="Brooklyn Logo"/>
 
----
 
-# The Brooklyn Rail
-
-https://brooklynrail.org
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/db6c835f-87e3-47c4-8f4d-53b4af3c6be8/deploy-status)](https://app.netlify.com/sites/brooklynrail/deploys)
 
 ---
 
-## Install
 
-This is a new version of https://brooklynrail.org that runs on [Hugo](https://gohugo.io/) and is hosted on Netlify.
+## Platform Overview
 
-**Preview URL:** https://brooklynrail.netlify.app/
+[**The Brooklyn Rail**](https://brooklynrail.org) is made up a few separate platforms seamed that are loosely seamed together. 
 
-### Cloning the repository
+- **brooklynrail.org** – The main Rail site is largely an old Code Ignighter application. It's database contains all of the issues, articles, and images from the last 20 years of this publication. As an applicaiton, it is in rough shape and we're in the process of moving off of it to a new, more sustainable platform. [**Repo**](https://github.com/brooklynrail/brooklynrail)
+- **brooklynrail.org/events** – The events site is a new platform for the Rail and is being explored as the future foundation for the whole Brooklyn Rail archive. The platform is built on HUGO and running on Netlify. [**Repo**](https://github.com/brooklynrail/brooklynrail-platform)
 
-Follow [these instructions](https://css-tricks.com/getting-netlify-large-media-going/#article-header-id-0).
 
-### Install Hugo 0.69.0
+## Development
 
-[Read the HUGO quickstart guide »](https://gohugo.io/getting-started/quick-start/)
+Here's how to get set up:
 
-**[For OSX](https://gohugo.io/getting-started/installing/#install-hugo-with-brew):**
-`brew install hugo`
-_see https://gohugo.io/getting-started/installing/ for other OSs_
+1. Install HUGO `brew install hugo` ([For OSX](https://gohugo.io/getting-started/installing/#install-hugo-with-brew)) _or see https://gohugo.io/getting-started/installing/ for other OSs_
+  - Note: brooklynrail.org currently uses Hugo version `0.69.0`, and is configured in the [netlify.toml](netlify.toml) file.
+1. Clone the [repo](https://github.com/brooklynrail/brooklynrail-platform)
+1. Install NPM and the dependencies -- `npm install`
+1. Install the Netlify CLI -- `npm install netlify-cli -g`
+1. Run `npm start` to get the site running
 
-Quickly check your Hugo version at your terminal command line by running:
-
-```
-hugo version
-```
-
-**Note:** brooklynrail.org currently uses Hugo version `0.69.0`, and is configured in the [netlify.toml](netlify.toml) file.
-
-If Hugo has released a new version, but brooklynrail.org hasn't upgraded to that version, you may get errors when building locally. It’s possible to use Homebrew to download a previous version of Hugo. To do that follow these instructions: [Using Legecy Versions of the Hugo Static Site Generator](https://www.fernandomc.com/posts/brew-install-legacy-hugo-site-generator/)
-
-### Setup
-
-Once the prerequisites are installed, [clone the repository](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) to your local machine. Then navigate to the project folder in your terminal and run:
-
-```
-npm install
-```
-
-This will install all of the Node dependencies needed to run your Hugo environment. This may take a little while!
-
-### Local Development
-
-Running the local development server is as simple as running:
-
-```
-npm start
-```
 
 **NPM will run the following scripts:**
 
@@ -70,11 +41,11 @@ Press Ctrl+C to stop
 
 You can view your local site in the browser at `http://localhost:1313/`.
 
-Local development is powered by BrowserSync, to allow rapid development through:
+### Tips
 
-- A local development server at `http://localhost:1313/`.
-- Automatic CSS & JS updates without reloading the page
-- Automatic page reloads when content is changed
+- Quickly check your HUGO version in your terminal by running `hugo version` in the command line.
+- If HUGO has released a new version, but brooklynrail.org hasn't upgraded to that version, you may get errors when building locally. It’s possible to use Homebrew to download a previous version of Hugo. To do that follow these instructions: [Using Legecy Versions of the Hugo Static Site Generator](https://www.fernandomc.com/posts/brew-install-legacy-hugo-site-generator/)
+
 
 ### Netlify CLI
 
