@@ -17,18 +17,15 @@ people:
       “License to Carry a Gun” in 1970, and his most recent, “The Art of
       Forgetting” (2019) He writes novels and essays and won the Peabody award
       for the film “Road Scholar.”
-  - person: sharon-mesmer
-    event_bio: "Sharon Mesmer’s most recent poetry collection, Greetings From My
-      Girlie Place (Bloof Books) was one of Entropy’s “Best of 2015.” Her other
-      collections are Annoying Diabetic Bitch (Combo, 2008), The Virgin Formica
-      (Hanging Loose, 2008), and Half Angel, Half Lunch (Hard Press, 1998). Four
-      poems appear in Postmodern American Poetry: A Norton Anthology (second
-      edition). She is co-editor of Flarf: An Anthology of Flarf (Edge Books,
-      2017) and has published three collections of short fiction, including Ma
-      Vie á Yonago (Hachette, 2005). Her essays have appeared in the New York
-      Times, New York Magazine, the Paris Review, American Poetry Review, and
-      the Brooklyn Rail. She lives in Brooklyn and teaches literature and
-      creative writing at NYU and the New School. "
+  - person: vincent-katz
+    event_bio: "Vincent Katz is the author of the poetry collections Broadway for
+      Paul (2020),  Southness (2016) and Swimming Home (2015) and the book of
+      translations, The Complete Elegies of Sextus Propertius (2004). His
+      writing on contemporary art and poetry has appeared in Apollo, Art in
+      America, ARTnews, The Brooklyn Rail, and The Poetry Project Newsletter. As
+      curator of the “Readings in Contemporary Poetry” series at Dia: Chelsea,
+      Katz edited the anthology Readings in Contemporary Poetry (Dia Art
+      Foundation, 2017). He lives in New York City."
   - person: alicia-ostriker
     event_bio: "Alicia Ostriker is a major American poet and critic. Author of 17
       collections of poetry, she has been twice nominated for the National Book
@@ -41,6 +38,28 @@ people:
       2002-2019. Her poems have been translated into numerous languages
       including Hebrew and Arabic. She is currently the New York State Poet
       Laureate and a Chancellor of the Academy of American Poets."
+  - person: sharon-mesmer
+    event_bio: "Sharon Mesmer’s most recent poetry collection, Greetings From My
+      Girlie Place (Bloof Books) was one of Entropy’s “Best of 2015.” Her other
+      collections are Annoying Diabetic Bitch (Combo, 2008), The Virgin Formica
+      (Hanging Loose, 2008), and Half Angel, Half Lunch (Hard Press, 1998). Four
+      poems appear in Postmodern American Poetry: A Norton Anthology (second
+      edition). She is co-editor of Flarf: An Anthology of Flarf (Edge Books,
+      2017) and has published three collections of short fiction, including Ma
+      Vie á Yonago (Hachette, 2005). Her essays have appeared in the New York
+      Times, New York Magazine, the Paris Review, American Poetry Review, and
+      the Brooklyn Rail. She lives in Brooklyn and teaches literature and
+      creative writing at NYU and the New School. "
+  - person: john-godfrey
+    event_bio: "John Godfrey was born in Massena, N.Y. in 1945. He is the author of
+      14 collections of poetry, including The City Keeps: Selected and New Poems
+      1966-2014 (Wave Books, May 2016). He received an A.B. from Princeton
+      University in 1967, and took a B.S. in Nursing from Columbia University in
+      1994. He has received fellowships from the General Electric Foundation
+      (1984), the Foundation for Contemporary Arts (2009), and the Z Foundation
+      (2013), and was winner of a Foundation for Contemporary Arts Grant for
+      2009.. He retired in 2011 after 17 years as a nurse clinician in HIV/AIDS.
+      He has lived in the East Village of Manhattan since the 1960s."
   - person: elinor-nauen
     event_bio: >
       Elinor Nauen’s books include CARS & Other Poems, American Guys, So Late
@@ -64,25 +83,6 @@ people:
       “open field investigator” of consciousness, committed to the possibilities
       of radical shifts of language and states of mind to create new modal
       structures and montages of attention. "
-  - person: vincent-katz
-    event_bio: "Vincent Katz is the author of the poetry collections Broadway for
-      Paul (2020),  Southness (2016) and Swimming Home (2015) and the book of
-      translations, The Complete Elegies of Sextus Propertius (2004). His
-      writing on contemporary art and poetry has appeared in Apollo, Art in
-      America, ARTnews, The Brooklyn Rail, and The Poetry Project Newsletter. As
-      curator of the “Readings in Contemporary Poetry” series at Dia: Chelsea,
-      Katz edited the anthology Readings in Contemporary Poetry (Dia Art
-      Foundation, 2017). He lives in New York City."
-  - person: john-godfrey
-    event_bio: "John Godfrey was born in Massena, N.Y. in 1945. He is the author of
-      14 collections of poetry, including The City Keeps: Selected and New Poems
-      1966-2014 (Wave Books, May 2016). He received an A.B. from Princeton
-      University in 1967, and took a B.S. in Nursing from Columbia University in
-      1994. He has received fellowships from the General Electric Foundation
-      (1984), the Foundation for Contemporary Arts (2009), and the Z Foundation
-      (2013), and was winner of a Foundation for Contemporary Arts Grant for
-      2009.. He retired in 2011 after 17 years as a nurse clinician in HIV/AIDS.
-      He has lived in the East Village of Manhattan since the 1960s."
 date: 2020-08-26 13:00:00 -0500
 end_date: 2020-08-26 14:00:00 -0500
 series: 116
