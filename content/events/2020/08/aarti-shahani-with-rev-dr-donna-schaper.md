@@ -1,10 +1,9 @@
 ---
 title: Aarti Shahani with Rev. Dr. Donna Schaper
 summary: Award-winning journalist and author Aarti Shahani will join Rev. Dr.
-  Donna Schaper for a conversation for a conversation on Shahani's experience
-  growing up as an udocumented child in America, and the issue of immigration
-  and beyond in our country. We'll conclude with a poetry reading from Ed
-  Foster.
+  Donna Schaper for a conversation on Shahani's experience growing up as an
+  udocumented child in America, and the issue of immigration and beyond in our
+  country. We'll conclude with a poetry reading from Ed Foster.
 people:
   - person: aarti-shahani
     event_bio: "Aarti Shahani is an award-winning journalist and author. She spent
