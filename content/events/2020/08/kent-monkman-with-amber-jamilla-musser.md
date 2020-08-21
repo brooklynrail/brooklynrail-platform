@@ -1,8 +1,8 @@
 ---
 title: Kent Monkman with Amber Jamilla Musser
-summary: Artist Kent Monkman will join professor and author, Amber Jamilla
-  Musser for a conversation. We'll conclude with a poetry reading from LaTasha
-  N. Nevada Diggs.
+summary: Artist Kent Monkman will join professor and author Amber Jamilla Musser
+  for a conversation. We'll conclude with a poetry reading from LaTasha N.
+  Nevada Diggs.
 people:
   - person: kent-monkman
     event_bio: "Kent Monkman is an interdisciplinary Cree visual artist. A member of
