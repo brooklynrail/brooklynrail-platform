@@ -4,6 +4,18 @@ summary: Artist Kent Monkman will join professor and author, Amber Jamilla
   Musser for a conversation. We'll conclude with a poetry reading from LaTasha
   N. Nevada Diggs.
 people:
+  - person: kent-monkman
+    event_bio: "Kent Monkman is an interdisciplinary Cree visual artist. A member of
+      Fisher River Cree Nation in Treaty 5 Territory (Manitoba), he lives and
+      works in Dish With One Spoon Territory (Toronto, Canada). Known for his
+      provocative interventions into Western European and American art history,
+      Monkman explores themes of colonization, sexuality, loss, and
+      resilience—the complexities of historic and contemporary Indigenous
+      experiences—across painting, film/video, performance, and installation.
+      Monkman’s gender-fluid alter ego Miss Chief Eagle Testickle often appears
+      in his work as a time-traveling, shape-shifting, supernatural being who
+      reverses the colonial gaze to challenge received notions of history and
+      Indigenous peoples. "
   - person: amber-musser
     event_bio: "Dr. Amber Jamilla Musser PhD is Professor of American Studies at
       George Washington University. She writes about race, sexuality, and
