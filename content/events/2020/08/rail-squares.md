@@ -1,16 +1,5 @@
 ---
-title: Rail Squares
-deck: "A conversation with MFA Students participating in &#8220;Tomorrow:
-  London&#8221;, an exhibition at White Cube"
-summary: 'MFA Students participating in the exhibition "Tomorrow: London" at
-  White Cube Gallery will discuss their recent work with Rail Editor-at-Large,
-  Toby Kamps. We’ll conclude with a poetry reading from Zack Pieper.'
-people:
-  - person: toby-kamps
-    event_bio: Toby Kamps is former director of Blaffer Museum of Art, and curator
-      of modern and contemporary art at the Menil Collection. He is now the
-      director of external projects at White Cube Gallery and is an
-      Editor-at-Large for the Brooklyn Rail.
+media: gina-beavers-photo-credit-aubrey-mayer4.jpg
 poets:
   - person: zack-pieper
     event_bio: "Zack Pieper's work spans poetry, sound, song, radio art, and
@@ -18,18 +7,31 @@ poets:
       post-it notes, in shop-front windows & other spaces. \"SAME HERE\",
       selections from a decade of poems, was recently released from Adjunct
       Press. "
-date: 2020-08-21 13:00:00 -0500
-end_date: 2020-08-21 14:00:00 -0500
-series: 113
-collections:
-  - the-new-social-environment
+summary: 'MFA Students participating in the exhibition "Tomorrow: London" at
+  White Cube Gallery will discuss their recent work with Rail Editor-at-Large,
+  Toby Kamps. We’ll conclude with a poetry reading from Zack Pieper.'
+deck: "A conversation with MFA Students participating in &#8220;Tomorrow:
+  London&#8221;, an exhibition at White Cube"
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-113-rail-squares-tickets-116786988025
+alt: Gina Beavers
 event_organizer:
   - the-brooklyn-rail
+date: 2020-08-21 13:00:00 -0500
+people:
+  - person: toby-kamps
+    event_bio: Toby Kamps is former director of Blaffer Museum of Art, and curator
+      of modern and contemporary art at the Menil Collection. He is now the
+      director of external projects at White Cube Gallery and is an
+      Editor-at-Large for the Brooklyn Rail.
+end_date: 2020-08-21 14:00:00 -0500
+collections:
+  - the-new-social-environment
+series: 113
 event_producer:
   - the-brooklyn-rail
-registration_url: https://www.eventbrite.com/e/the-new-social-environment-113-rail-squares-tickets-116786988025
 event_platform:
   - zoom
+title: Gina Beavers
 ---
 **See the "Tomorrow: London" exhibition at White Cube Gallery:** [https://whitecube.​viewingrooms.com/viewing-room/​39-tomorrow-london-weeks-1-4/](https://whitecube.viewingrooms.com/viewing-room/39-tomorrow-london-weeks-1-4/)
 
