@@ -1,9 +1,9 @@
 ---
 title: Jumaane Williams with Bryan Doerries and Phong Bui
-summary: New York City Public Advocate, Jumaane Williams will be in conversation
-  with writer, director, and translator, Bryan Doerries and publisher and
-  Artistic Director of the Rail, Phong Bui.  We will conclude with a poetry
-  reading from Nada Gordon
+summary: New York City Public Advocate Jumaane Williams will be in conversation
+  with Creative Director of Theater of War, Bryan Doerries, and Publisher and
+  Artistic Director of the Rail, Phong H. Bui. We will conclude with a poetry
+  reading from Nada Gordon.
 people:
   - person: jumaane-williams
     event_bio: Jumaane D. Williams has served as the New York City Public Advocate
