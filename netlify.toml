@@ -3,6 +3,7 @@
 
 # Settings in the [build] context are global and are applied to all contexts
 # unless otherwise overridden by more specific contexts.
+
 [build]
   # Directory to change to before starting a build.
   # This is where we will look for package.json/.nvmrc/etc.
@@ -18,6 +19,18 @@
 
   # Directory with the serverless Lambda functions to deploy to AWS.
   functions = "themes/brooklynrail/static/netlify_functions"
+
+
+# Plugins
+[[plugins]]
+  
+  package = "netlify-plugin-cache"
+    [plugins.inputs]
+    paths = ["material"]  
+
+[[plugins]]
+  package = "netlify-plugin-debug-cache"
+
 
 
 # Production variables
