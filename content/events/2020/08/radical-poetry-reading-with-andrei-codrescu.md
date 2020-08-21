@@ -26,18 +26,16 @@ people:
       curator of the “Readings in Contemporary Poetry” series at Dia: Chelsea,
       Katz edited the anthology Readings in Contemporary Poetry (Dia Art
       Foundation, 2017). He lives in New York City."
-  - person: alicia-ostriker
-    event_bio: "Alicia Ostriker is a major American poet and critic. Author of 17
-      collections of poetry, she has been twice nominated for the National Book
-      Award, and has twice received the National Jewish Book Award for Poetry,
-      among other honors. As a critic she is the author of the now-classic
-      Stealing the Language: the Emergence of Women's Poetry in America, and
-      other books on poetry and on the Bible, most recently For the Love of God:
-      the Bible as an Open Book. Her most recent collections of poems are
-      Waiting for the Light and The Volcano and After: Selected and New Poems
-      2002-2019. Her poems have been translated into numerous languages
-      including Hebrew and Arabic. She is currently the New York State Poet
-      Laureate and a Chancellor of the Academy of American Poets."
+  - person: john-godfrey
+    event_bio: "John Godfrey was born in Massena, N.Y. in 1945. He is the author of
+      14 collections of poetry, including The City Keeps: Selected and New Poems
+      1966-2014 (Wave Books, May 2016). He received an A.B. from Princeton
+      University in 1967, and took a B.S. in Nursing from Columbia University in
+      1994. He has received fellowships from the General Electric Foundation
+      (1984), the Foundation for Contemporary Arts (2009), and the Z Foundation
+      (2013), and was winner of a Foundation for Contemporary Arts Grant for
+      2009.. He retired in 2011 after 17 years as a nurse clinician in HIV/AIDS.
+      He has lived in the East Village of Manhattan since the 1960s."
   - person: sharon-mesmer
     event_bio: "Sharon Mesmer’s most recent poetry collection, Greetings From My
       Girlie Place (Bloof Books) was one of Entropy’s “Best of 2015.” Her other
@@ -50,16 +48,6 @@ people:
       Times, New York Magazine, the Paris Review, American Poetry Review, and
       the Brooklyn Rail. She lives in Brooklyn and teaches literature and
       creative writing at NYU and the New School. "
-  - person: john-godfrey
-    event_bio: "John Godfrey was born in Massena, N.Y. in 1945. He is the author of
-      14 collections of poetry, including The City Keeps: Selected and New Poems
-      1966-2014 (Wave Books, May 2016). He received an A.B. from Princeton
-      University in 1967, and took a B.S. in Nursing from Columbia University in
-      1994. He has received fellowships from the General Electric Foundation
-      (1984), the Foundation for Contemporary Arts (2009), and the Z Foundation
-      (2013), and was winner of a Foundation for Contemporary Arts Grant for
-      2009.. He retired in 2011 after 17 years as a nurse clinician in HIV/AIDS.
-      He has lived in the East Village of Manhattan since the 1960s."
   - person: elinor-nauen
     event_bio: >
       Elinor Nauen’s books include CARS & Other Poems, American Guys, So Late
@@ -71,6 +59,18 @@ people:
       and edited and written for many magazines. She lives in NYC with a cat
       (Lefty) and a husband (Johnny Stanton), studies Norwegian, and trains in
       karate. 
+  - person: alicia-ostriker
+    event_bio: "Alicia Ostriker is a major American poet and critic. Author of 17
+      collections of poetry, she has been twice nominated for the National Book
+      Award, and has twice received the National Jewish Book Award for Poetry,
+      among other honors. As a critic she is the author of the now-classic
+      Stealing the Language: the Emergence of Women's Poetry in America, and
+      other books on poetry and on the Bible, most recently For the Love of God:
+      the Bible as an Open Book. Her most recent collections of poems are
+      Waiting for the Light and The Volcano and After: Selected and New Poems
+      2002-2019. Her poems have been translated into numerous languages
+      including Hebrew and Arabic. She is currently the New York State Poet
+      Laureate and a Chancellor of the Academy of American Poets."
   - person: ann-waldman
     event_bio: "Internationally recognized and acclaimed poet Anne Waldman has been
       an active member of the “Outrider” experimental poetry community, a
