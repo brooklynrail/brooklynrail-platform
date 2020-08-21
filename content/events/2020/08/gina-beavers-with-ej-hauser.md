@@ -1,7 +1,7 @@
 ---
 title: Gina Beavers with EJ Hauser
-summary: Artist and painter Gina Beavers joins painter EJ Hauser for a
-  conversation. We'll conclude with a poetry reading from Laura Jaramillo.
+summary: Artists Gina Beavers and EJ Hauser join us in conversation. We'll
+  conclude with a poetry reading from Laura Jaramillo.
 people:
   - person: gina-beavers
     event_bio: "Gina Beavers, born Athens, Greece 1978 is an artist who lives and
