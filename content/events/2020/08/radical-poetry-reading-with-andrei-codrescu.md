@@ -18,15 +18,6 @@ people:
       first book of poetry was “License to Carry a Gun” in 1970, and his most
       recent, “The Art of Forgetting” (2019) He writes novels and essays and won
       the Peabody award for the film “Road Scholar.”
-  - person: vincent-katz
-    event_bio: "Vincent Katz is the author of the poetry collections Broadway for
-      Paul (2020),  Southness (2016) and Swimming Home (2015) and the book of
-      translations, The Complete Elegies of Sextus Propertius (2004). His
-      writing on contemporary art and poetry has appeared in Apollo, Art in
-      America, ARTnews, The Brooklyn Rail, and The Poetry Project Newsletter. As
-      curator of the “Readings in Contemporary Poetry” series at Dia: Chelsea,
-      Katz edited the anthology Readings in Contemporary Poetry (Dia Art
-      Foundation, 2017). He lives in New York City."
   - person: john-godfrey
     event_bio: "John Godfrey was born in Massena, N.Y. in 1945. He is the author of
       14 collections of poetry, including The City Keeps: Selected and New Poems
@@ -37,6 +28,15 @@ people:
       (2013), and was winner of a Foundation for Contemporary Arts Grant for
       2009.. He retired in 2011 after 17 years as a nurse clinician in HIV/AIDS.
       He has lived in the East Village of Manhattan since the 1960s."
+  - person: vincent-katz
+    event_bio: "Vincent Katz is the author of the poetry collections Broadway for
+      Paul (2020),  Southness (2016) and Swimming Home (2015) and the book of
+      translations, The Complete Elegies of Sextus Propertius (2004). His
+      writing on contemporary art and poetry has appeared in Apollo, Art in
+      America, ARTnews, The Brooklyn Rail, and The Poetry Project Newsletter. As
+      curator of the “Readings in Contemporary Poetry” series at Dia: Chelsea,
+      Katz edited the anthology Readings in Contemporary Poetry (Dia Art
+      Foundation, 2017). He lives in New York City."
   - person: sharon-mesmer
     event_bio: "Sharon Mesmer’s most recent poetry collection, Greetings From My
       Girlie Place (Bloof Books) was one of Entropy’s “Best of 2015.” Her other
