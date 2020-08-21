@@ -27,13 +27,13 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.13.0",
-    "airtable": "^0.8.1",
     "js-yaml": "^3.14.0",
     "mysql": "^2.18.1",
     "netlify-cli": "^2.57.0",
     "netlify-cms": "^2.10.50",
     "netlify-lambda": "^1.6.3",
     "netlify-lm-plugin": "^1.0.0",
+    "netlify-plugin-cache": "^1.0.3",
     "stripe": "^8.60.0",
     "striptags": "^3.1.1"
   },
