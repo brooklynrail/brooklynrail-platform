@@ -1,10 +1,10 @@
 ---
 title: Radical Poetry Reading with Andrei Codrescu
-deck: Featuring political poetry read by John Godfrey, Vincent Katz, Sharon
-  Mesmer, Elinor Nauen, Alicia Ostriker, and Anne Waldman.
+deck: Featuring political poetry read by Alicia Ostriker, John Godfrey, Sharon
+  Mesmer, Elinor Nauen, Vincent Katz, and Anne Waldman.
 summary: Poet and writer Andrei Codrescu curates the second installation of our
-  new Radical Poetry Reading series, featuring John Godfrey, Vincent Katz,
-  Sharon Mesmer, Elinor Nauen, Alicia Ostriker, and Anne Waldman.
+  new Radical Poetry Reading series, featuring Alicia Ostriker, John Godfrey,
+  Sharon Mesmer, Elinor Nauen, Vincent Katz, and Anne Waldman.
 people:
   - person: andrei-codrescu
     event_bio: Andrei Codrescu was born in Transylvania, Romania, reborn at the age
@@ -18,6 +18,18 @@ people:
       first book of poetry was “License to Carry a Gun” in 1970, and his most
       recent, “The Art of Forgetting” (2019) He writes novels and essays and won
       the Peabody award for the film “Road Scholar.”
+  - person: alicia-ostriker
+    event_bio: "Alicia Ostriker is a major American poet and critic. Author of 17
+      collections of poetry, she has been twice nominated for the National Book
+      Award, and has twice received the National Jewish Book Award for Poetry,
+      among other honors. As a critic she is the author of the now-classic
+      Stealing the Language: the Emergence of Women's Poetry in America, and
+      other books on poetry and on the Bible, most recently For the Love of God:
+      the Bible as an Open Book. Her most recent collections of poems are
+      Waiting for the Light and The Volcano and After: Selected and New Poems
+      2002-2019. Her poems have been translated into numerous languages
+      including Hebrew and Arabic. She is currently the New York State Poet
+      Laureate and a Chancellor of the Academy of American Poets."
   - person: john-godfrey
     event_bio: "John Godfrey was born in Massena, N.Y. in 1945. He is the author of
       14 collections of poetry, including The City Keeps: Selected and New Poems
@@ -28,15 +40,6 @@ people:
       (2013), and was winner of a Foundation for Contemporary Arts Grant for
       2009.. He retired in 2011 after 17 years as a nurse clinician in HIV/AIDS.
       He has lived in the East Village of Manhattan since the 1960s."
-  - person: vincent-katz
-    event_bio: "Vincent Katz is the author of the poetry collections Broadway for
-      Paul (2020),  Southness (2016) and Swimming Home (2015) and the book of
-      translations, The Complete Elegies of Sextus Propertius (2004). His
-      writing on contemporary art and poetry has appeared in Apollo, Art in
-      America, ARTnews, The Brooklyn Rail, and The Poetry Project Newsletter. As
-      curator of the “Readings in Contemporary Poetry” series at Dia: Chelsea,
-      Katz edited the anthology Readings in Contemporary Poetry (Dia Art
-      Foundation, 2017). He lives in New York City."
   - person: sharon-mesmer
     event_bio: "Sharon Mesmer’s most recent poetry collection, Greetings From My
       Girlie Place (Bloof Books) was one of Entropy’s “Best of 2015.” Her other
@@ -60,18 +63,15 @@ people:
       and edited and written for many magazines. She lives in NYC with a cat
       (Lefty) and a husband (Johnny Stanton), studies Norwegian, and trains in
       karate. 
-  - person: alicia-ostriker
-    event_bio: "Alicia Ostriker is a major American poet and critic. Author of 17
-      collections of poetry, she has been twice nominated for the National Book
-      Award, and has twice received the National Jewish Book Award for Poetry,
-      among other honors. As a critic she is the author of the now-classic
-      Stealing the Language: the Emergence of Women's Poetry in America, and
-      other books on poetry and on the Bible, most recently For the Love of God:
-      the Bible as an Open Book. Her most recent collections of poems are
-      Waiting for the Light and The Volcano and After: Selected and New Poems
-      2002-2019. Her poems have been translated into numerous languages
-      including Hebrew and Arabic. She is currently the New York State Poet
-      Laureate and a Chancellor of the Academy of American Poets."
+  - person: vincent-katz
+    event_bio: "Vincent Katz is the author of the poetry collections Broadway for
+      Paul (2020),  Southness (2016) and Swimming Home (2015) and the book of
+      translations, The Complete Elegies of Sextus Propertius (2004). His
+      writing on contemporary art and poetry has appeared in Apollo, Art in
+      America, ARTnews, The Brooklyn Rail, and The Poetry Project Newsletter. As
+      curator of the “Readings in Contemporary Poetry” series at Dia: Chelsea,
+      Katz edited the anthology Readings in Contemporary Poetry (Dia Art
+      Foundation, 2017). He lives in New York City."
   - person: ann-waldman
     event_bio: "Internationally recognized and acclaimed poet Anne Waldman has been
       an active member of the “Outrider” experimental poetry community, a
