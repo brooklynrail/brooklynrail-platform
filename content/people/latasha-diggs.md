@@ -1,5 +1,5 @@
 ---
-name: LaTasha Diggs
+name: LaTasha N. Nevada Diggs
 first_name: LaTasha
 last_name: Diggs
 short_bio: LaTasha N. Nevada Diggs is a writer, vocalist and performance/sound
