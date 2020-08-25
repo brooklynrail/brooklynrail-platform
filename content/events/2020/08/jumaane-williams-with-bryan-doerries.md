@@ -72,6 +72,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: -BSQvUmu-xc
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-114-jumaane-williams-tickets-117593741045
 event_platform:
   - zoom
