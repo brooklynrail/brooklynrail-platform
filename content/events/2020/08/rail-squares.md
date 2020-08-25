@@ -13,11 +13,11 @@ people:
       Editor-at-Large for the Brooklyn Rail.
 poets:
   - person: zack-pieper
-    event_bio: "Zack Pieper's work spans poetry, sound, song, radio art, and
+    event_bio: Zack Pieper's work spans poetry, sound, song, radio art, and
       performance. He creates large mosaics of small ghosts drawn on hundreds of
-      post-it notes, in shop-front windows & other spaces. \"SAME HERE\",
+      post-it notes, in shop-front windows & other spaces. "SAME HERE",
       selections from a decade of poems, was recently released from Adjunct
-      Press."
+      Press.
 date: 2020-08-21 13:00:00 -0500
 end_date: 2020-08-21 14:00:00 -0500
 series: 113
@@ -27,6 +27,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: SdsA_RfIBYo
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-113-rail-squares-tickets-116786988025
 event_platform:
   - zoom
