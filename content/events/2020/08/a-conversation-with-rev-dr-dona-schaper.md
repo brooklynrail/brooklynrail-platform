@@ -33,6 +33,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: fwn1nCR1GJM
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-112-a-conversation-with-rev-dr-dona-schaper-tickets-117079183991
 event_platform:
   - zoom
