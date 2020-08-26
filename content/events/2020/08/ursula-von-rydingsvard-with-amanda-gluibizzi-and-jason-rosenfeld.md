@@ -5,7 +5,7 @@ summary: Sculptor Ursula von Rydingsvard will be in conversation with Rail
   We'll conclude with a poetry reading from Vi Khi Nao.
 people:
   - person: ursula-von-rydingsvard
-    event_bio: "Ursula Von Rydingsvard was born 1942 in Deensen, Germany. She has
+    event_bio: "Ursula von Rydingsvard was born 1942 in Deensen, Germany. She has
       lived and worked in New York City for over 40 years. Over a remarkable
       four-decade-long career, Ursula von Rydingsvard has become one of the most
       influential sculptors working today. She is best known for creating
