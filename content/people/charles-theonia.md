@@ -11,4 +11,5 @@ portraits:
   - media: 2020/08/charles-theonia
 website: http://www.charlestheonia.com/
 instagram: floweroids
+twitter: floweroids
 ---
