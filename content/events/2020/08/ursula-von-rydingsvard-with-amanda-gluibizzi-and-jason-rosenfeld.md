@@ -44,6 +44,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-120-ursula-von-rydingsvard-tickets-118368329861
 event_platform:
   - zoom
 ---
