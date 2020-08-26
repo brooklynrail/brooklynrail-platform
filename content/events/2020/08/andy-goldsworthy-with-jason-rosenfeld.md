@@ -1,7 +1,8 @@
 ---
 title: Andy Goldsworthy with Jason Rosenfeld
-summary: Andy Goldsworthy with Jason Rosenfeld. We'll conclude with a poetry
-  reading from Charles Theonia.
+summary: " Photographer, sculptor, and filmmaker, Andy Goldsworthy will be in
+  conversation with art historian and Rail Editor-at-Large Jason Rosenfeld.
+  We'll conclude with a poetry reading from Charles Theonia."
 people:
   - person: andy-goldsworthy
     event_bio: >-
