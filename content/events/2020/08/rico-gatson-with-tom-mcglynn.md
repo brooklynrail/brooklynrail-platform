@@ -1,7 +1,8 @@
 ---
 title: Rico Gatson with Tom McGlynn
-summary: "Rico Gatson with Tom McGlynn. We'll conclude with a poetry reading
-  from Don Yorty. "
+summary: "Painter, sculptor, and video artist Rico Gatson will be in
+  conversation with artist and Rail contributor Tom McGlynn. We'll conclude with
+  a poetry reading from Don Yorty. "
 people:
   - person: rico-gatson
     event_bio: "Over the course of almost two decades, Rico Gatson has become
