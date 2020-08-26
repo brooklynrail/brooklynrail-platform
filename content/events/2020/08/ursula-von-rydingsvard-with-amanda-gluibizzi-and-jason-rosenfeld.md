@@ -28,6 +28,12 @@ people:
       Gallery of Art, Washington, D.C.), and River Crossings (Olana and Cedar
       Grove, Hudson and Catskill, New York). He is a Senior Writer and
       Editor-at-Large for the Brooklyn Rail."
+poets:
+  - person: vi-khi-nao
+    event_bio: VI KHI NAO is the author of four poetry collections, a short stories
+      collection titled, "A Brief Alphabet of Torture," and a novel, "Fish in
+      Exile." Her work includes poetry, fiction, film and cross-genre
+      collaboration. She was the Fall 2019 fellow at Black Mountain Institute.
 date: 2020-09-01 13:00:00 -0500
 end_date: 2020-09-01 14:00:00 -0500
 series: 120
