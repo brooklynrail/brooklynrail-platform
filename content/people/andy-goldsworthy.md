@@ -1,7 +1,7 @@
 ---
 name: Andy Goldsworthy
 first_name: Andy
-last_name: Goldworthy
+last_name: Goldsworthy
 short_bio: "Andy Goldsworthy was born in Cheshire, England, in 1956, and is now
   based in Scotland. Goldsworthy has become one of the most prominent and iconic
   contemporary sculptors. In photographs, sculptures, installations, and films,
