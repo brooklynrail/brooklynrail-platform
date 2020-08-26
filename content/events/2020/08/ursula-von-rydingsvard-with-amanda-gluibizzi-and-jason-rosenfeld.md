@@ -1,7 +1,8 @@
 ---
-title: Ursula Von Rydingsvard with Amanda Gluibizzi and Jason Rosenfeld
-summary: Ursula Von Rydingsvard with Amanda Gluibizzi and Jason Rosenfeld. We'll
-  conclude with a poetry reading from Vi Khi Nao.
+title: Ursula von Rydingsvard with Amanda Gluibizzi and Jason Rosenfeld
+summary: Sculptor Ursula von Rydingsvard will be in conversation with Rail
+  ArtSeen Editor Amanda Gluibizzi and Rail Editor-at-Large Jason Rosenfeld.
+  We'll conclude with a poetry reading from Vi Khi Nao.
 people:
   - person: ursula-von-rydingsvard
     event_bio: "Ursula Von Rydingsvard was born 1942 in Deensen, Germany. She has
