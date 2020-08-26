@@ -31,7 +31,12 @@ people:
       Gallery of Art, Washington, D.C.), and River Crossings (Olana and Cedar
       Grove, Hudson and Catskill, New York). He is a Senior Writer and
       Editor-at-Large for the Brooklyn Rail."
-poets: []
+poets:
+  - person: charles-theonia
+    event_bio: Charles Theonia is a poet and teacher from Brooklyn, where they’re
+      working to externalize interior femme landscapes. They are the author of
+      artbook Saw Palmettos, on hormones, community, and the brain-time
+      continuum and chapbook Which One Is the Bridge.
 date: 2020-08-31 13:00:00 -0500
 end_date: 2020-08-31 14:00:00 -0500
 series: 124
