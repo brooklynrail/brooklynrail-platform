@@ -1,7 +1,7 @@
 ---
 title: Yto Barrada with Yasi Alipour
 summary: Print, sculpture, and film artist Yto Barrada will be in conversation
-  with artist, writer and folder Yasi Alipour. We'll conclude with a poetry
+  with artist, writer, and folder Yasi Alipour. We'll conclude with a poetry
   reading from Pareesa Pourian.
 people:
   - person: yto-barrada
