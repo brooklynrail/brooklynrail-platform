@@ -16,12 +16,7 @@ people:
       cross-cultural dialogue and exchange, She founded the non-profit
       Cinémathèque de Tanger in 2006. Tangier’s first and only repertory cinema
       and archive, the Cinémathèque operates out of a restored 1930s theatre
-      known as the Cinema Rif, located in one of the city’s main squares. In
-      2007, Barrada was selected to participate in the Venice Biennale, where
-      she presented her Public Park—Sleepers series (2006–7), wherein
-      photographs of wild irises and men napping in parks become allegories of
-      resistance and spontaneity in the face of civic and commercial
-      development.
+      known as the Cinema Rif, located in one of the city’s main squares.
        
       Informed by postcolonial thought and socio-political concerns, Barrada’s interests range from the tensions around borders, immigration, and tourism to the urban landscape, and from children’s toys to botany and paleontology. Her practice encompasses photography, film, sculpture, painting, printmaking, and publishing, while her installations are often comprised of both original work and found objects.Nonverbal communication, family myths, “hidden transcripts” that unearth new grammars—within the interlinked logic of Barrada’s work lie secrets, pleasures and a celebration of strategies of resistance to domination.
   - person: yasi-alipour
