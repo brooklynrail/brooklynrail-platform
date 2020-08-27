@@ -2,13 +2,13 @@
 name: Angel Dominguez
 first_name: Angel
 last_name: Dominguez
-short_bio: "Angel Dominguez is a Latinx poet and artist of Yucatec Maya descent,
-  born in Hollywood and raised in Van Nuys, CA by their immigrant family.
-  They're the author of RoseSunWater (Operating System, 2020) and Black Lavender
-  Milk (Timeless, Infinite Light, 2015). Their third book, DESGRACIADO (the
-  collected letters) is forthcoming from Nightboat Books in 2021. You can find
-  Angel's work online and in print in various publications. Angel lives in Bonny
-  Doon, CA. "
+pronouns: they/theirs
+short_bio: Angel Dominguez has survived a 100 year flood, a close encounter with
+  a bear, a fire, a second fire, and a lifetime of systemic racism. They will
+  not go down without a fight. They're the author of ROSESUNWATER (The Operating
+  system press, 2020) and Black Lavender Milk (Timeless, Infinite Light 2015).
+  Their third book, DESGRACIADO (the collected letters) is forthcoming with
+  Nightboat Books in 2021.
 portraits:
   - media: 2020/08/angel-dominguez
 ---
