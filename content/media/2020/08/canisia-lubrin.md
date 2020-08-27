@@ -1,6 +1,6 @@
 ---
 media: /media/files/lubrin-pc-anna-keenan-1.jpg
-title: Canisia Lubrin
+title: "Canisia Lubrin "
 alt: A black and white photograph of Canisia Lubrin, wearing a white shirt and
   earrings.
 caption: Anna Keenan
