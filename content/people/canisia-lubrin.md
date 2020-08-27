@@ -13,5 +13,5 @@ short_bio: Canisia Lubrin is a writer, critic, editor and teacher whose most
   Gerald Lampert, Pat Lowther, and the Writers Trust. Lubrin’s first collection
   of short fiction is forthcoming.
 portraits:
-  - {}
+  - media: 2020/08/canisia-lubrin
 ---
