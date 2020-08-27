@@ -2,9 +2,9 @@
 title: Radical Poetry Reading with Brandon Shimoda
 deck: Featuring political poetry read by Aditi Machado, Angel Dominguez, Canisia
   Lubrin, Dao Strom, S&#42;an D. Henry-Smith, and Youna Kwak
-summary: Poet Brandon Shimoda curates the third installment in a new series of
+summary: "Poet Brandon Shimoda curates the third installment in a new series of
   Radical Poetry Readings, featuring Aditi Machado, Angel Dominguez, Canisia
-  Lubrin, Dao Strom, S*an D. Henry-Smith, and Youna Kwak.
+  Lubrin, Dao Strom, S*an D. Henry-Smith, and Youna Kwak. "
 people:
   - person: brandon-shimoda
     event_bio: Brandon Shimoda is a yonsei poet and writer. His recent books are The
