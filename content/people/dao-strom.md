@@ -14,5 +14,6 @@ short_bio: Dao Strom is the author of the poetry collection, Instrument
   was born in Vietnam and grew up in the Sierra Nevada foothills of California.
   She lives in Portland, Oregon.
 portraits:
-  - {}
+  - media: 2020/08/dao-strom
+website: https://www.daostrom.com/
 ---
