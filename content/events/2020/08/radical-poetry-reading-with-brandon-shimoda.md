@@ -1,7 +1,7 @@
 ---
 title: Radical Poetry Reading with Brandon Shimoda
 deck: Featuring political poetry read by Aditi Machado, Angel Dominguez, Canisia
-  Lubrin, Dao Strom, S*an D. Henry-Smith, and Youna Kwak.
+  Lubrin, Dao Strom, S&#42;an D. Henry-Smith, and Youna Kwak
 summary: Poet Brandon Shimoda curates the third installment in a new series of
   Radical Poetry Readings, featuring Aditi Machado, Angel Dominguez, Canisia
   Lubrin, Dao Strom, S*an D. Henry-Smith, and Youna Kwak.
@@ -56,13 +56,13 @@ people:
       and De-Canon. Dao Strom was born in Vietnam and grew up in the Sierra
       Nevada foothills of California. She lives in Portland, Oregon.
   - person: s-an-d-henry-smith
-    event_bio: "S*an D. Henry-Smith is an artist and writer working primarily in
+    event_bio: "S&#42;an D. Henry-Smith is an artist and writer working primarily in
       poetry, photography, and performance, engaging Black experimentalisms and
-      collaborative practices. S*an is also the author of two chapbooks, Body
-      Text and Flotsam Suite: A Strange & Precarious Life, or How We Chronicled
-      the Little Disasters & I Won’t Leave the Dance Floor Til It’s Out of My
-      System. Wild Peach, released fall 2020, is their first full length
-      collection. "
+      collaborative practices. S&#42;an is also the author of two chapbooks,
+      Body Text and Flotsam Suite: A Strange & Precarious Life, or How We
+      Chronicled the Little Disasters & I Won’t Leave the Dance Floor Til It’s
+      Out of My System. Wild Peach, released fall 2020, is their first
+      full-length collection. "
   - person: youna-kwak
     event_bio: Youna Kwak is a poet, translator, and teacher. Her first poetry
       collection, entitled "sur vie," was published this year by Fathom Books.
