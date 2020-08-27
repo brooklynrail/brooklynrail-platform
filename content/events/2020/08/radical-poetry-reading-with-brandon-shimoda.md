@@ -26,13 +26,12 @@ people:
       Asymptote (2011-2019), she works as an Assistant Professor at the
       University of Cincinnati.
   - person: angel-dominguez
-    event_bio: Angel Dominguez is a Latinx poet and artist of Yucatec Maya descent,
-      born in Hollywood and raised in Van Nuys, CA by their immigrant family.
-      They’re the author of RoseSunWater (Operating System, 2020) and Black
-      Lavender Milk (Timeless, Infinite Light, 2015). Their third book,
-      DESGRACIADO (the collected letters) is forthcoming from Nightboat Books in
-      2021. You can find Angel’s work online and in print in various
-      publications. Angel lives in Bonny Doon, CA.
+    event_bio: Angel Dominguez has survived a 100 year flood, a close encounter with
+      a bear, a fire, a second fire, and a lifetime of systemic racism. They
+      will not go down without a fight. They're the author of ROSESUNWATER (The
+      Operating system press, 2020) and Black Lavender Milk (Timeless, Infinite
+      Light 2015). Their third book, DESGRACIADO (the collected letters) is
+      forthcoming with Nightboat Books in 2021.
   - person: canisia-lubrin
     event_bio: Canisia Lubrin is a writer, critic, editor and teacher whose most
       recent book is The Dyzgrapxst (McClelland & Stewart, 2020). Her debut
