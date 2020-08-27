@@ -44,6 +44,17 @@ people:
       writing has been recognized by, among others, the Toronto Book Award,
       Journey Prize, Gerald Lampert, Pat Lowther, and the Writers Trust.
       Lubrin’s first collection of short fiction is forthcoming.
+  - person: dao-strom
+    event_bio: Dao Strom is the author of the poetry collection, Instrument
+      (Fonograf Editions), and its musical companion piece, Traveler’s Ode
+      (Antiquated Future Records), forthcoming this fall; a bilingual poetry-art
+      book, You Will Always Be Someone From Somewhere Else; an experimental
+      memoir, We Were Meant To Be a Gentle People, and song cycle, East/West;
+      and two books of fiction. She has received awards from the Creative
+      Capital Foundation, Literary Arts, RACC, the NEA, and others. She is the
+      co-founder of two collaborative art projects, She Who Has No Master(s),
+      and De-Canon. Dao Strom was born in Vietnam and grew up in the Sierra
+      Nevada foothills of California. She lives in Portland, Oregon.
   - person: s-an-d-henry-smith
     event_bio: "S*an D. Henry-Smith is an artist and writer working primarily in
       poetry, photography, and performance, engaging Black experimentalisms and
