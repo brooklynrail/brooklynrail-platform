@@ -76,6 +76,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-121-radical-poetry-with-brandon-shimoda-tickets-118410181039
 event_platform:
   - zoom
 ---
