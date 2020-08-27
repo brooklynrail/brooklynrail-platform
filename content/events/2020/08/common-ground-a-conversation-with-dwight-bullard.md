@@ -1,9 +1,10 @@
 ---
 title: "Common Ground: A Conversation with Dwight Bullard"
 summary: Please join us for our inaugural episode of Common Ground, where we
-  will be joined by State Senator Dwight M. Bullard to discuss voter suppression
-  and discrimination. We will close with a reading from writer and translator
-  Ted Dodson.
+  will be joined by Dwight M. Bullard, former State Senator and Political
+  Director of The New Florida Majority, to discuss voter suppression and
+  discrimination. We will close with a reading from writer and translator Ted
+  Dodson.
 people:
   - person: dwight-bullard
     event_bio: >-
