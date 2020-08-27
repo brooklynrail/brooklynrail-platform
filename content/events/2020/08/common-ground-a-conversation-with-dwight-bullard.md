@@ -1,8 +1,9 @@
 ---
 title: "Common Ground: A Conversation with Dwight Bullard"
 summary: Please join us for our inaugural episode of Common Ground, where we
-  will be joined by State Senator Dwight M. Bullard. We'll conclude with a
-  poetry reading from Ted Dodson.
+  will be joined by State Senator Dwight M. Bullard to discuss voter suppression
+  and discrimination. We will close with a reading from writer and translator
+  Ted Dodson. We'll conclude with a poetry reading from Ted Dodson.
 people:
   - person: dwight-bullard
     event_bio: >-
