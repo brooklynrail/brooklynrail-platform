@@ -2,6 +2,7 @@
 name: Angel Dominguez
 first_name: Angel
 last_name: Dominguez
+pronouns: they/theirs
 short_bio: Angel Dominguez has survived a 100 year flood, a close encounter with
   a bear, a fire, a second fire, and a lifetime of systemic racism. They will
   not go down without a fight. They're the author of ROSESUNWATER (The Operating
