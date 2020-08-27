@@ -1,5 +1,5 @@
 ---
-media: /media/files/kwak350.jpg
+media: /media/files/yk-desert.jpg
 title: Youna Kwak
 alt: A photograph of Youna Kwak in front of flowers and a hillside at dusk.
 caption: Courtesy Youna Kwak
