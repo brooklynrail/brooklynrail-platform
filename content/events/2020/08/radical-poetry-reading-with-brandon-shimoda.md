@@ -62,6 +62,10 @@ people:
       Chronicled the Little Disasters & I Won’t Leave the Dance Floor Til It’s
       Out of My System. Wild Peach, released fall 2020, is their first
       full-length collection."
+  - person: youna-kwak
+    event_bio: Youna Kwak is a poet, translator, and teacher. Her first poetry
+      collection, entitled "sur vie," was published this year by Fathom Books.
+      She lives in the Inland Empire.
 date: 2020-09-02 13:00:00 -0500
 end_date: 2020-09-02 14:00:00 -0500
 series: 121
