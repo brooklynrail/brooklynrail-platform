@@ -37,6 +37,14 @@ people:
     event_bio: Youna Kwak is a poet, translator, and teacher. Her first poetry
       collection, entitled "sur vie," was published this year by Fathom Books.
       She lives in the Inland Empire.
+  - person: angel-dominguez
+    event_bio: Angel Dominguez is a Latinx poet and artist of Yucatec Maya descent,
+      born in Hollywood and raised in Van Nuys, CA by their immigrant family.
+      They're the author of RoseSunWater (Operating System, 2020) and Black
+      Lavender Milk (Timeless, Infinite Light, 2015). Their third book,
+      DESGRACIADO (the collected letters) is forthcoming from Nightboat Books in
+      2021. You can find Angel's work online and in print in various
+      publications. Angel lives in Bonny Doon, CA.
 date: 2020-09-02 13:00:00 -0500
 end_date: 2020-09-02 14:00:00 -0500
 series: 121
