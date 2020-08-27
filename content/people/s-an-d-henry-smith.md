@@ -1,6 +1,6 @@
 ---
-name: S*an D. Henry-Smith
-first_name: S*an
+name: S&#42;an D. Henry-Smith
+first_name: S&#42;an
 last_name: Henry-Smith
 pronouns: they/theirs
 short_bio: "S&#42;an D. Henry-Smith is an artist and writer working primarily in
