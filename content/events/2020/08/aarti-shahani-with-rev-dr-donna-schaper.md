@@ -42,6 +42,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: fwq1Y6aVyd8
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-117-aarti-shahani-tickets-117690590725
 event_platform:
   - zoom
