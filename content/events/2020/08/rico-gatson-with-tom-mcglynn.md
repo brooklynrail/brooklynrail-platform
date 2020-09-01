@@ -39,6 +39,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: 6ld2JBFctNw
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-119-rico-gatson-tickets-118361389101
 event_platform:
   - zoom
