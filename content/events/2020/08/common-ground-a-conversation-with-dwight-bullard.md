@@ -4,7 +4,9 @@ deck: Weekly conversations with social justice practitioners, changemakers, and
   activists
 summary: "Please join us for our inaugural episode of Common Ground, where we
   will be joined by Dwight M. Bullard, Political Director of The New Florida
-  Majority, in conversation with Nikki Zeichner. "
+  Majority, in conversation with Nikki Zeichner. Register here:
+  https://www.eventbrite.com/e/the-new-social-environment-122-common-ground-wit\
+  h-dwight-bullard-tickets-118514099863. "
 people:
   - person: dwight-bullard
     event_bio: >-
