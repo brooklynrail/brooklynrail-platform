@@ -1,5 +1,5 @@
 ---
-title: "Common Ground: A Conversation with Dwight Bullard"
+title: "Common Ground: A Conversation with Dwight Bullard "
 summary: "Please join us for our inaugural episode of Common Ground, where we
   will be joined by Dwight M. Bullard, Political Director of The New Florida
   Majority, in conversation with Nikki Zeichner. "
@@ -23,6 +23,9 @@ people:
 
 
       In 2017 Bullard was hired as the Political Director of the New Florida Majority. In this capacity he works to bring political education and awareness to underserved and often marginalized communities. He also works to push policy to positively impact those same communities. His work now much like his previous roles looks to uplift people in a way that makes them the masters of their own destiny. He continues to simply amplify the voice of those often unheard. 
+  - person: nikki-zeichner
+    event_bio: >2
+       Nikki Zeichner is a public interest lawyer and civic technologist focused on improving the experience of public services so that they put people first. Nikki was named a Legal Rebel by the American Bar Association and continues to work on problems that sit at the intersection of law and technology.
 poets:
   - person: ted-dodson
     event_bio: Ted Dodson is the author of An Orange (Pioneer Works / Wonder, 2021),
@@ -32,8 +35,7 @@ poets:
 date: 2020-09-03 13:00:00 -0500
 end_date: 2020-08-03 14:00:00 -0500
 series: 122
-collections:
-  - the-new-social-environment
+collections: []
 event_organizer:
   - the-brooklyn-rail
 event_producer:
