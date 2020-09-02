@@ -35,7 +35,8 @@ poets:
 date: 2020-09-03 13:00:00 -0500
 end_date: 2020-08-03 14:00:00 -0500
 series: 122
-collections: []
+collections:
+  - common-ground
 event_organizer:
   - the-brooklyn-rail
 event_producer:
