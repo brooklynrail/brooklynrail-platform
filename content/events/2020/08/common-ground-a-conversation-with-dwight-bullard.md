@@ -37,7 +37,6 @@ end_date: 2020-08-03 14:00:00 -0500
 series: 1
 collections:
   - common-ground
-  - the-new-social-environment
 event_organizer:
   - the-brooklyn-rail
 event_producer:
