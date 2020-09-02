@@ -35,7 +35,7 @@ poets:
       Spring (Diez, 2013). He works for BOMB and is a former editor of The
       Poetry Project Newsletter.
 date: 2020-09-03 13:00:00 -0500
-end_date: 2020-08-03 14:00:00 -0500
+end_date: 2020-09-03 14:00:00 -0500
 series: 1
 collections:
   - common-ground
