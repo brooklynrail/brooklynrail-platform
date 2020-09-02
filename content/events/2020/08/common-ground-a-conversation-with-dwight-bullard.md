@@ -34,7 +34,7 @@ poets:
       Poetry Project Newsletter.
 date: 2020-09-03 13:00:00 -0500
 end_date: 2020-08-03 14:00:00 -0500
-series: 122
+series: ""
 collections:
   - common-ground
 event_organizer:
