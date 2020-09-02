@@ -1,5 +1,5 @@
 ---
-title: "A Conversation with Dwight Bullard "
+title: "A Conversation with Dwight M. Bullard "
 summary: "Please join us for our inaugural episode of Common Ground, where we
   will be joined by Dwight M. Bullard, Political Director of The New Florida
   Majority, in conversation with Nikki Zeichner. "
