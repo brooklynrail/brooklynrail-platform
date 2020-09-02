@@ -4,9 +4,7 @@ deck: Weekly conversations with social justice practitioners, changemakers, and
   activists
 summary: "Please join us for our inaugural episode of Common Ground, where we
   will be joined by Dwight M. Bullard, Political Director of The New Florida
-  Majority, in conversation with Nikki Zeichner. Register here:
-  https://www.eventbrite.com/e/the-new-social-environment-122-common-ground-wit\
-  h-dwight-bullard-tickets-118514099863. "
+  Majority, in conversation with Nikki Zeichner. "
 people:
   - person: dwight-bullard
     event_bio: >-
@@ -37,7 +35,7 @@ poets:
       Spring (Diez, 2013). He works for BOMB and is a former editor of The
       Poetry Project Newsletter.
 date: 2020-09-03 13:00:00 -0500
-end_date: 2020-09-03 14:00:00 -0500
+end_date: 2020-08-03 14:00:00 -0500
 series: 1
 collections:
   - common-ground
@@ -45,7 +43,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
-registration_url: https://www.eventbrite.com/e/the-new-social-environment-122-common-ground-with-dwight-bullard-tickets-118514099863
+registration_url: https://www.eventbrite.com/e/common-ground-1-a-conversation-with-dwight-m-bullard-tickets-118514099863
 event_platform:
   - zoom
 ---
