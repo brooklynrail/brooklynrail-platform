@@ -47,6 +47,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-128-catherine-opie-tickets-119529729639
 event_platform:
   - zoom
 ---
