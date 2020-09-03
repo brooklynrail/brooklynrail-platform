@@ -1,10 +1,10 @@
 ---
 title: Radical Poetry Reading with Kyle Dacuyan
 deck: Featuring political poetry read by Aria Aber, Steve Benson, Cheena Marie
-  Lo, Casandra Lopez, TC Tolbert
+  Lo, Casandra López, and TC Tolbert.
 summary: Poet Kyle Dacuyan curates the fourth installment of Radical Poetry
-  Readings, featuring Aria Aber, Steve Benson, Cheena Marie Lo, Casandra Lopez,
-  TC Tolbert
+  Readings, featuring Aria Aber, Steve Benson, Cheena Marie Lo, Casandra López,
+  and TC Tolbert.
 people:
   - person: kyle-dacuyan
     event_bio: Kyle Dacuyan is a poet, performer, and translator. His poems appear
