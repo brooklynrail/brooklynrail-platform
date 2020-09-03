@@ -13,4 +13,5 @@ short_bio: "Catherine Opie is known for her powerfully dynamic photography that
   through formal portraits. "
 portraits:
   - media: 2020/09/catherine-opie
+instagram: csopie
 ---
