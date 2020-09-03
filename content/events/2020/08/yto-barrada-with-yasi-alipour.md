@@ -5,20 +5,24 @@ summary: Print, sculpture, and film artist Yto Barrada will be in conversation
   reading from Pareesa Pourian.
 people:
   - person: yto-barrada
-    event_bio: >
-      Yto Barrada’s installations reinterpret social relationships, uncover
-      subaltern histories, and reveal the prevalence of fiction in
-      institutionalized narratives. Barrada arrived at her artist practice
-      through studies of history and political science, particularly in the
-      negotiation of political and personal experiences. Much of Barrada’s work
-      has since focused on borderlands, microhistories, and autonomous agency
-      within a political landscape. Interested in developing a platform for
-      cross-cultural dialogue and exchange, She founded the non-profit
-      Cinémathèque de Tanger in 2006. Tangier’s first and only repertory cinema
-      and archive, the Cinémathèque operates out of a restored 1930s theatre
-      known as the Cinema Rif, located in one of the city’s main squares.
-       
-      Informed by postcolonial thought and socio-political concerns, Barrada’s interests range from the tensions around borders, immigration, and tourism to the urban landscape, and from children’s toys to botany and paleontology. Her practice encompasses photography, film, sculpture, painting, printmaking, and publishing, while her installations are often comprised of both original work and found objects.Nonverbal communication, family myths, “hidden transcripts” that unearth new grammars—within the interlinked logic of Barrada’s work lie secrets, pleasures and a celebration of strategies of resistance to domination.
+    event_bio: >-
+      Yto Barrada (b. 1971 works and lives in New York) is a Moroccan-French
+      artist recognized for her multidisciplinary investigations into cultural
+      phenomena and historical narratives. 
+
+      Engaging with archival practices and public interventions, Barrada’s installations uncover lesser known histories, reveal the prevalence of fiction in institutionalized narratives, and celebrate everyday forms of reclaiming autonomy. 
+
+
+      She is the founder of Cinémathèque de Tanger,  an arthouse cinema and a cultural center that has become a landmark institution bringing the Moroccan community together to celebrate local and international cinema.
+
+
+      Barrada’s work has won numerous awards including the 2019 Roy R. Neuberger Prize, the Rotterdam Film Festival 2016 Tiger Award for short film, a nomination for the 2016 Prix Marcel Duchamp, the 2015 Abraaj Group Art Prize, the 2013 Robert Gardner Fellowship in Photography (Peabody Museum at Harvard University), and the 2011 Deutsche Guggenheim Artist of the Year award. 
+
+
+      Her work is held in the collections of, and has been exhibited at, the Metropolitan Museum of Art (New York), Tate Modern (London), The Museum of Modern Art (New York), Guggenheim (New York), Centre Pompidou (Paris), Serralves Museum (Porto), Museum Moderner Kunst Stiftung Ludwig Wien, Canadian Centre for Architecture (Montreal), among others. 
+
+
+      Yto Barrada is represented by Sfeir-Semler Gallery (Hamburg, Beirut), Pace gallery (New York, London) and galerie Polaris (Paris).
   - person: yasi-alipour
     event_bio: Yasi Alipour (Columbia University, MFA 2018) is an Iranian
       artist/writer/folder who currently lives in Brooklyn and wonders about
