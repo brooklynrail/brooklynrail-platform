@@ -33,9 +33,8 @@ people:
       performances now collected in Do Your Own Damn Laundry (Gauss.pdf, 2019).
       He is an active member of Midcoast Maine Extinction Rebellion, Morgan Bay
       Zendo, Peninsula Peace & Justice, the Climate Psychology Alliance, and
-      USA-Palestine Mental Health Network, among other organizations. Links to
-      his work in poetry, film, and essay on line are at stevebensonasis.com.
-      What This Is, three new long poems, is forthcoming from Chax Press. "
+      USA-Palestine Mental Health Network, among other organizations. What This
+      Is, three new long poems, is forthcoming from Chax Press. "
   - person: cheena-marie-lo
     event_bio: "Born in Manapla, Philippines, Cheena Marie Lo is a poet and editor
       currently based in western Massachusetts. They are the author of A Series
