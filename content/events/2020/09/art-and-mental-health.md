@@ -23,17 +23,17 @@ people:
       at the art historical departments of the universities of Heidelberg and
       Frankfurt. "
   - person: choghakate-kazarian
-    event_bio: Choghakate Kazarian is a curator and art historian based in New York
-      City. Her interests are focused on artistic processes and the interaction
-      between biography and artistic practice. She has curated several
+    event_bio: Choghakate Kazarian is a French, Armenian-born curator and art
+      historian interested in post-war and outsider art. She has been curator at
+      the Musée d’Art Moderne de Paris from 2011 to 2018 and has curated several
       exhibitions on artists such as Henry Darger, Lucio Fontana, Piero Manzoni
       and Karel Appel. She has edited several exhibition catalogues and
       published on artists such as Marcel Duchamp, Louis Michel Eilshemius,
-      Stéphane Mandelbaum among others. She has a MA in art history from Ecole
-      du Louvre and a MA in philosophy at La Sorbonne. She was a curator at the
-      Musée d’Art Moderne de la Ville de Paris from 2011 — 2018. She is now
+      Stéphane Mandelbaum and those mentioned above. She has a MA in art history
+      from Ecole du Louvre and a MA in philosophy at La Sorbonne. She is now
       pursuing a Ph.D. at the Courtauld Institute of Art with a dissertation on
-      the American artist Albert Pinkham Ryder.
+      the American artist Albert Pinkham Ryder. She is Editor-at-large at the
+      Brooklyn Rail.
 poets:
   - person: krystal-languell
     event_bio: Krystal Languell lives in Chicago, where she works for the Poetry
