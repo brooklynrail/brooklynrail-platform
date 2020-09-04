@@ -52,3 +52,4 @@ event_producer:
 event_platform:
   - zoom
 ---
+**The Prinzhorn collection, housed at the Heidelbeg University Hospital, was created in the 1920s with works made by mental health patients whose production had a long lasting impression on Jean Dubuffet. Founded in 1986, Yamanami Workshop (Shiga Prefecture) constitutes an attempt to improve the living conditions and promote broader acceptance of people with mental disabilities, by providing a supportive environment for participants to develop their artistic practices.**
