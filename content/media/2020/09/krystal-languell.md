@@ -1,5 +1,5 @@
 ---
-media: /media/files/22406521_10159483858210343_6371657674837978188_n.jpg
+media: /media/files/krystal-face.jpg
 title: Krystal Languell
 alt: Krystal Languell
 credit:
