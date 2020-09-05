@@ -27,6 +27,19 @@ people:
     related_links:
       - url: https://www.youtube.com/watch?v=68H91pkebog
         text: Met Stories l Jodi Archambault l Being Seen
+  - person: abigail-e-disney
+    event_bio: Abigail E. Disney is a filmmaker, philanthropist, activist, and the
+      Emmy-winning director of The Armor of Light. As president and CEO of the
+      documentary production company Fork Films, she produced the groundbreaking
+      Pray the Devil Back to Hell and co-created the subsequent PBS series
+      Women, War & Peace. She is also the Chair and Co-Founder of Level Forward,
+      a new breed storytelling company focused on systemic change through
+      creative excellence. The companies and stories that have most meaning for
+      Abigail are the ones which foster human understanding. She has executive
+      produced and supported over 100 projects through Fork Films’ funding
+      program and created the nonprofit Peace is Loud, which uses storytelling
+      to advance social movements, focusing on women’s rights and gender
+      justice.
 poets:
   - person: pamela-sneed
 date: 2020-09-10 13:00:00 -0500
