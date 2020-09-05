@@ -1,10 +1,10 @@
 ---
 title: Radical Poetry Reading with Kyle Dacuyan
-deck: Featuring political poetry read by Aria Aber, Steve Benson, Cheena Marie
-  Lo, Casandra López, and TC Tolbert.
+deck: Featuring political poetry read by Aria Aber, Steve Benson, Ashley M.
+  Jones, Cheena Marie Lo, Casandra López, and TC Tolbert.
 summary: Poet Kyle Dacuyan curates the fourth installment of Radical Poetry
-  Readings, featuring Aria Aber, Steve Benson, Cheena Marie Lo, Casandra López,
-  and TC Tolbert.
+  Readings, featuring Aria Aber, Steve Benson, Ashley M. Jones, Cheena Marie Lo,
+  Casandra López, and TC Tolbert.
 people:
   - person: kyle-dacuyan
     event_bio: Kyle Dacuyan is a poet, performer, and translator. His poems appear
@@ -35,6 +35,19 @@ people:
       Zendo, Peninsula Peace & Justice, the Climate Psychology Alliance, and
       USA-Palestine Mental Health Network, among other organizations. What This
       Is, three new long poems, is forthcoming from Chax Press. "
+  - person: ashley-m-jones
+    event_bio: Ashley M. Jones holds an MFA in Poetry from Florida International
+      University, and she is the author of Magic City Gospel (Hub City Press
+      2017),  dark / / thing (Pleiades Press 2019), and REPARATIONS NOW! (Hub
+      City Press 2021). Her poetry has earned several awards including the Rona
+      Jaffe Foundation Writers Award, the Silver Medal in the Independent
+      Publishers Book Awards, the Lena-Miles Wever Todd Prize for Poetry, a
+      Literature Fellowship from the Alabama State Council on the Arts, and the
+      Lucille Clifton Poetry Prize. Her work appears in or is forthcoming at
+      CNN, The Oxford American, Origins Journal, The Quarry by Split This Rock,
+      Obsidian, and others. She teaches at the Alabama School of Fine Arts,
+      co-directs PEN Birmingham, and is the founding director of the Magic City
+      Poetry Festival.
   - person: cheena-marie-lo
     event_bio: "Born in Manapla, Philippines, Cheena Marie Lo is a poet and editor
       currently based in western Massachusetts. They are the author of A Series
