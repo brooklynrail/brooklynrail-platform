@@ -45,6 +45,7 @@ poets:
   - person: pamela-sneed
 date: 2020-09-10 13:00:00 -0500
 end_date: 2020-09-10 14:30:00 -0500
+series: 127
 collections:
   - common-ground
   - the-new-social-environment
