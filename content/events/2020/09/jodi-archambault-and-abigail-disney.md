@@ -4,7 +4,8 @@ deck: Weekly conversations with social justice practitioners, changemakers, and
   activists
 summary: Please join us for the second episode of Common Ground, featuring Jodi
   Archambault, artist and former policy advisor to President Obama, in
-  conversation with filmmaker Abigail E. Disney
+  conversation with filmmaker Abigail E. Disney. We'll conclude with a poetry
+  reading from Pamela Sneed.
 people:
   - person: jodi-archambault
     event_bio: Jodi Archambault (Hunkpapa and Oglala Lakota) currently serves as a
