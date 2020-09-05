@@ -46,11 +46,13 @@ date: 2020-09-10 13:00:00 -0500
 end_date: 2020-09-10 14:30:00 -0500
 collections:
   - common-ground
-  - the-new-social-environment
+event_sponsor:
+  - dermot-comany
 event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/myevent?eid=119711453179
 event_platform:
   - zoom
 ---
