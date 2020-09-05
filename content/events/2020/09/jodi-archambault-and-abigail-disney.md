@@ -56,7 +56,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
-registration_url: https://www.eventbrite.com/myevent?eid=119711453179
+registration_url: https://www.eventbrite.com/e/common-ground-jodi-archambault-abigail-disney-tickets-119711453179?aff=ebdssbonlinesearch
 event_platform:
   - zoom
 ---
