@@ -1,7 +1,7 @@
 ---
 title: "Jodi Archambault and Abigail Disney "
-deck: Weekly conversations with social justice practitioners, changemakers, and
-  activists
+deck: Weekly conversations with activists, social justice practitioners, and
+  changemakers on reimagining our democracy
 summary: Please join us for the second episode of Common Ground, featuring Jodi
   Archambault, artist and former policy advisor to President Obama, in
   conversation with filmmaker Abigail E. Disney
@@ -58,21 +58,13 @@ At the start of quarantine, the *Brooklyn Rail* asked how might we stay connecte
 
 Please join us for our second installment of *Common Ground*, where we will be joined by **Jodi Archambault** *(Hunkpapa and Oglala Lakota Standing Rock Sioux Tribe)*, acclaimed indigenous artist and traditional dancer, Director of Indigenous Peoples Initiatives at Wend Collective and Strategic Advisor to the Bush Foundation, as well as former policy advisor under the Administration of President Barack Obama. 
 
-She will be in joined by **Abigail E. Disney**, filmmaker, philanthropist, and the Emmy Award-winning director of *[The Armor of Light](https://www.armoroflightfilm.com/)* (2015). As president and CEO of the documentary production company [Fork Films](https://www.forkfilms.com/), Disney has produced such groundbreaking films as *[Pray the Devil Back to Hell](https://www.forkfilms.com/pray-the-devil-back-to-hell/)* (2008), on [Women of Liberia Mass Action for Peace](https://www.cfr.org/womens-participation-in-peace-processes/biography/leymah-gbowee-liberia), the women's organization that brought an end to the Second Liberian Civil War in 2003, as well as co-created the subsequent nine-part PBS series *[Women, War, & Peace](https://www.pbs.org/wnet/women-war-and-peace/),* spotlighting women-led political uprisings across the globe. She has executive-produced and supported over a hundred documentary projects through Fork Films's funding program—among which shines the landmark 2019 documentary *Knock Down the House*, which followed the primary campaign of Representative Alexandria Ocasio-Cortez alongside three other progressive political newcomers. Disney's nonprofit advocacy group, [Peace is Loud](https://peaceisloud.org/), uses storytelling to advance social and political movements, focusing on women's rights and gender equity. 
+She will be in joined by **Abigail E. Disney**, filmmaker, philanthropist, and the Emmy Award-winning director of *[The Armor of Light](https://www.armoroflightfilm.com/)* (2015). As president and CEO of the documentary production company [Fork Films](https://www.forkfilms.com/), Disney has produced such groundbreaking films as *[Pray the Devil Back to Hell](https://www.forkfilms.com/pray-the-devil-back-to-hell/)* (2008), on [Women of Liberia Mass Action for Peace](https://www.cfr.org/womens-participation-in-peace-processes/biography/leymah-gbowee-liberia), the women's organization that brought an end to the Second Liberian Civil War in 2003, as well as co-created the subsequent nine-part PBS series *[Women, War, & Peace](https://www.pbs.org/wnet/women-war-and-peace/),* spotlighting women-led political uprisings across the globe. She has executive-produced and supported over a hundred documentary projects through Fork Films's funding program—among which shines the landmark 2019 documentary *[Knock Down the House](https://knockdownthehouse.com/)*, which followed the primary campaign of Representative Alexandria Ocasio-Cortez alongside three other progressive political newcomers. Disney's nonprofit advocacy group, [Peace is Loud](https://peaceisloud.org/), uses storytelling to advance social and political movements, focusing on women's rights and gender justice.
 
 
 
-Through her nonprofit advocacy group, 
 
 
-
-among which shines the landmark *Knock Down the House*, 
-
-
-
-She has executive produced and supported over 100 projects through Fork Films’ funding program and created the nonprofit Peace is Loud, which uses storytelling to advance social movements, focusing on women’s rights and gender justice.
-
-
+women-led activism and policymaking, native and indigenous representation in media and politics
 
 grassroots activism, the history of nations We produce and support change-driven nonfiction media, often with women at the center. Our work shifts perspectives and brings communities together with stirring, powerfully human stories.
 
