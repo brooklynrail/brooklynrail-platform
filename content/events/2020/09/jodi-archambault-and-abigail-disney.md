@@ -1,7 +1,7 @@
 ---
 title: "Jodi Archambault and Abigail Disney "
 deck: Weekly conversations with activists, social justice practitioners, and
-  changemakers on reimagining our democracy
+  changemakers
 summary: Please join us for the second episode of Common Ground, featuring Jodi
   Archambault, former policy advisor to President Obama, in conversation with
   filmmaker Abigail E. Disney
