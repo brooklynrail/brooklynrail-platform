@@ -42,6 +42,10 @@ people:
       justice.
 poets:
   - person: pamela-sneed
+    event_bio: Pamela Sneed is a New York-based poet, writer, performer, and visual
+      artist, author of Funeral Diva, out with City Lights in Fall 2020, among
+      others. She has been featured in New York Times Magazine, The New Yorker,
+      Artforum, Hyperallergic and on the cover of New York Magazine.
 date: 2020-09-10 13:00:00 -0500
 end_date: 2020-09-10 14:30:00 -0500
 collections:
