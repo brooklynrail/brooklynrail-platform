@@ -27,6 +27,8 @@ people:
     related_links:
       - url: https://www.youtube.com/watch?v=68H91pkebog
         text: Met Stories l Jodi Archambault l Being Seen
+poets:
+  - person: pamela-sneed
 date: 2020-09-10 13:00:00 -0500
 end_date: 2020-09-10 14:30:00 -0500
 collections:
