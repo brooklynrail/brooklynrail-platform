@@ -13,5 +13,5 @@ short_bio: (Hunkpapa and Oglala Lakota) currently serves as a strategic advisor
   Director of Intergovernmental Affairs.
 portraits:
   - media: 2020/09/jodi-archambault
-website: https://www.youtube.com/watch?v=68H91pkebog
+website: ""
 ---
