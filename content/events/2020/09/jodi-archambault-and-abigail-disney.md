@@ -1,5 +1,5 @@
 ---
-title: "Jodi Archambault and Abigail Disney "
+title: "Jodi Archambault & Abigail Disney "
 deck: Weekly conversations with activists, social justice practitioners, and
   changemakers
 summary: Please join us for the second installment of Common Ground, featuring
@@ -60,6 +60,10 @@ registration_url: https://www.eventbrite.com/e/common-ground-jodi-archambault-ab
 event_platform:
   - zoom
 ---
+{{< image media="2020/09/common-ground-header-graphic-dark-background" size="xl" >}}
+
+
+
 At the start of quarantine, the *Brooklyn Rail* asked how might we stay connected to each other in a time of self-isolation? Now we ask: How can we stay involved and engaged in upholding our civic responsibility to one another across communities? How can we deploy this community we have built through the *New Social Environment*—through hundreds of conversations and meals shared over the past six months—to mobilize daily action for grassroots movements, social justice and equity projects, and for the political good of our most marginalized communities across the nation? *Common Ground* will be taking over the *New Social Environment* Thursday 1pm slot—beginning immediately and continuing up to the presidential election—and will convene weekly on Thursdays at 1pm Eastern from Sept 3rd through Nov 5th.
 
 Please join us for our second installment, with special guest **Jodi Archambault** *(Hunkpapa and Oglala Lakota Standing Rock Sioux Tribe)*, acclaimed artist and traditional dancer, Director of Indigenous Peoples Initiatives at Wend Collective and Strategic Advisor to the Bush Foundation, as well as former policy advisor under the Administration of President Barack Obama. 
