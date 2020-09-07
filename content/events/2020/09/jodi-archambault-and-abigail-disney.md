@@ -1,5 +1,5 @@
 ---
-title: "Jodi Archambault and Abigail Disney "
+title: "Jodi Archambault & Abigail Disney "
 deck: Weekly conversations with activists, social justice practitioners, and
   changemakers
 summary: Please join us for the second installment of Common Ground, featuring
