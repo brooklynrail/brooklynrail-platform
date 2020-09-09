@@ -70,6 +70,4 @@ She will be in joined by **Abigail E. Disney**, filmmaker, philanthropist, and E
 
 They will discuss Archambault’s experiences as a policy advisor under the Obama Administration, being an interpreter between two radically different worlds, why we should each sign up to be poll workers in our communities in advance of the election, on contextualizing Standing Rock after Ferguson and as a predecessor to our current moment of militarized policing, and on the long resilience of Native Peoples. 
 
-
-
 We will close with a reading by poet **Pamela Sneed**.
