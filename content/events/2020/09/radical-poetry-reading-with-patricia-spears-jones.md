@@ -2,9 +2,9 @@
 title: Radical Poetry Reading with Patricia Spears Jones
 deck: Featuring political poetry read by Ali Black, Michael Broder, Peter
   Covino, A. Van Jordan, Janice Lowe, and Jade Yeung.
-summary: Poet Patricia Spears Jones curates the fifth installment of Radical
+summary: "Poet Patricia Spears Jones curates the fifth installment of Radical
   Poetry Readings, featuring Ali Black, Michael Broder, A. Van Jordan, Janice
-  Lowe, and Jade Yeung.
+  Lowe, and Jade Yeung. "
 people:
   - person: patricia-spears-jones
     event_bio: Arkansas born and raised; resident of New York City for more than
