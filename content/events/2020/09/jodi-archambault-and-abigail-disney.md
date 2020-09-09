@@ -7,23 +7,19 @@ summary: Please join us for the second installment of Common Ground, featuring
   conversation with filmmaker and philanthropist Abigail E. Disney
 people:
   - person: jodi-archambault
-    event_bio: Jodi Archambault (Hunkpapa and Oglala Lakota) currently serves as a
-      strategic advisor at the Bush Foundation and is the Director of Indigenous
-      Peoples Initiatives at Wend Collective. Prior to that role, she worked for
-      the D.C. law firm of Sonosky, Chambers, Sachse, Edreson and Perry in 2015
-      after serving as a political appointee under the Administration of
-      President Barack Obama. During her tenure under the Administration, Jodi
-      served as the Special Assistant to the President for Native American
-      Affairs for the White House Domestic Policy Council, Deputy Assistant
-      Secretary to the Assistant-Secretary Indian Affairs at the Department of
-      the Interior and separately as the White House Associate Director of
-      Intergovernmental Affairs. Jodi served as the executive director of the
-      Native American Training Institute in Bismarck, N.D., a non profit
-      offering technical assistance and training to tribal, state and local
-      governments in human service delivery systems. She earned a Bachelor of
-      Arts in Government and Native American Studies from Dartmouth College and
-      a Master of Public Policy from the University of Minnesota’s Humphrey
-      School of Public Affairs.
+    event_bio: "Abigail E. Disney is a filmmaker, activist and the Emmy-winning
+      director of The Armor of Light. As president and CEO of the documentary
+      production company Fork Films, she produced the groundbreaking Pray the
+      Devil Back to Hell and co-created the subsequent PBS series Women, War &
+      Peace. She is also the Chair and Co-Founder of Level Forward, a new breed
+      storytelling company focused on systemic change through creative
+      excellence, balancing financial and social returns. The companies and
+      stories that have most meaning for Abigail are the ones which foster human
+      understanding. She has executive produced and supported over 100
+      documentary films through Fork Films’ funding program. She also created
+      the nonprofit Peace is Loud, which uses storytelling to advance social
+      movements and the Daphne Foundation, which supports organizations working
+      for a more equitable, fair and peaceful New York City. "
     related_links:
       - url: https://www.youtube.com/watch?v=68H91pkebog
         text: Met Stories l Jodi Archambault l Being Seen
