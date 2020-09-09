@@ -82,7 +82,7 @@ people:
       Hunter.
 date: 2020-09-16 13:00:00 -0500
 end_date: 2020-09-16 14:00:00 -0500
-series: 130
+series: 131
 collections:
   - the-new-social-environment
 event_organizer:
