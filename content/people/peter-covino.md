@@ -14,4 +14,6 @@ short_bio: After a 15-year career as a social worker in foster care and AIDS
   appear or are forthcoming at Poem-A-Day, APR, Atelier, Asymptote, Cincinnati
   Review, Colorado Review, Community RAI Italian Television, Puerto del Sol,
   Seneca Review, Words without Borders, and Yale Review.
+portraits:
+  - media: 2020/09/peter-covino-headshot
 ---
