@@ -31,10 +31,28 @@ people:
       gesture of Abstract Expressionism, and creating cryptic signs and symbols
       in ingenious, lively drawings.
 
+
       Bradley earned his BFA from the Rhode Island School of Design in 1999 and had his first gallery show in New York in 2003. Just three years later he had his first solo exhibition at MoMA PS1, which included boldly painted monochromatic canvases arranged in geometric formations. These modular paintings investigate the ways that colors exist in relation to each other and to negative space, while subtly evoking architectural structures and human or robotic figures. In recent works Bradley paints fragments of unprimed canvas on the floor, collecting studio debris in swaths of color. Imbuing abstraction with a tactile immediacy, he applies the oil paint in thick layers to create captivating, tessellated compositions.
 
 
       In his drawing practice Bradley uses such unorthodox materials as cardboard scraps, loose paper, and even sticky notes. While artistic precedents appear to be among his works’ influences and inspirations, they never settle into certainty. In many ways Bradley holds a mirror up to the art world itself, finding humor in the ever-shifting trends and traditions of recent art history. One aspect of his practice that remains constant is his emphasis on process: the intuitive motions of the artist’s hand, as well as the effects of material, memory, and environment. For his Schmagoo Paintings (2008), Bradley drew invented symbols and doodles with grease pencil on raw canvas, presenting lighthearted subject matter with a direct, gestural confidence. Though vaguely familiar—recalling children’s drawings, comic book sketches, cave paintings, and ideograms—the images are devoid of specific meaning, exploring the very implications of the creative act.
+  - person: phong-h-bui
+    event_bio: "Phong H. Bui is an artist, writer, independent curator, Publisher
+      and Artistic Director of the Brooklyn Rail, the River Rail, Rail Editions,
+      and Rail Curatorial Projects. From 2007 to 2010 he served as Curatorial
+      Advisor at MoMA PS1. His recent projects include Artists Need to Create on
+      the Same Scale that Society Has the Capacity to Destroy, an ongoing
+      curatorial project that was exhibited in 2019 as an official Collateral
+      Event of the Venice Biennale and at Colby Museum in Waterville, Maine. He
+      is a trustee of Studio in a School, the Louis Comfort Tiffany Foundation,
+      Anthology Film Archives, the Third Rail, the Miami Rail, Sharpe-Walentas
+      Studio Program, Second Shift Studio Space of Saint Paul, AICA (2007-2020),
+      and is co-founder of the Monira Foundation, a non-profit which aims to
+      curate ongoing exhibitions and public programming at Mana Contemporary in
+      Jersey City and beyond. Forthcoming projects include the Detroit Rail, the
+      first U.S. retrospective of Jonas Mekas, and Occupy Industry City: Artists
+      Need to Create on the Same Scale that Society Has the Capacity to Destroy,
+      Year 3."
 poets:
   - person: jeremy-hoevenaar
     event_bio: "Jeremy Hoevenaar is the author of Cold Mountain Mirror Displacement
