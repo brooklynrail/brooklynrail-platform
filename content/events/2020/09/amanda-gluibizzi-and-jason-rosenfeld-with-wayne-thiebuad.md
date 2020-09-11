@@ -1,8 +1,8 @@
 ---
 title: Wayne Thiebaud with Amanda Gluibizzi and Jason Rosenfeld
-summary: Painter Wayne Thiebaud in conversation with Rail Artseen Editor Amanda
-  Gluibizzi and Rail Editor-at-Large Jason Rosenfeld. We'll close with a reading
-  by poet Jeremy Hoevenaar.
+summary: Renowned painter Wayne Thiebaud will be in conversation with the Rail's
+  Artseen Editor Amanda Gluibizzi and Editor-at-Large Jason Rosenfeld. We'll
+  close with a reading by poet Jeremy Hoevenaar.
 people:
   - person: wayne
     event_bio: >
