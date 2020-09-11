@@ -62,6 +62,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-130-wayne-thiebaud-tickets-120480425195
 event_platform:
   - zoom
 ---
