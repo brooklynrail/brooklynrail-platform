@@ -11,4 +11,5 @@ short_bio: In his paintings, drawings, sculptures, and mixed-media works, Joe
   drawings.
 portraits:
   - {}
+  - media: 2020/09/photograph-of-joe-bradley-by-sebastian-kim
 ---
