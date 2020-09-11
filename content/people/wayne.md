@@ -1,5 +1,5 @@
 ---
-name: Wayne
+name: Wayne Thiebaud
 first_name: Wayne
 last_name: Thiebaud
 short_bio: is an American painter and printmaker who is perhaps best known for
