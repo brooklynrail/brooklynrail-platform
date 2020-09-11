@@ -1,7 +1,7 @@
 ---
-title: Joe Zucker and Joe Bradley with Phong H. Bui
-summary: "Joe Zucker and Joe Bradley will be in conversation with Phong H. Bui,
-  Rail Publisher and Artistic Director "
+title: Joe Zucker & Joe Bradley with Phong H. Bui
+summary: Joe Zucker and Joe Bradley will be in conversation with Phong H. Bui,
+  Publisher and Artistic Director of the Brooklyn Rail
 people:
   - person: phong-h-bui
     event_bio: >
