@@ -52,8 +52,8 @@ poets:
     related_links:
       - url: https://uglyducklingpresse.org/publications/insolvency-insolvency/
         text: Insolvency, Insolvency! (Ugly Duckling Presse)
-date: 2020-09-10 17:17:00 -0500
-end_date: 2020-09-10 17:17:00 -0500
+date: 2020-09-15 13:00:00 -0500
+end_date: 2020-09-15 14:00:00 -0500
 collections:
   - the-new-social-environment
 event_organizer:
