@@ -34,6 +34,15 @@ people:
       historian, she is the co-director of The New Foundation for Art History
       and the author of Art and Design in 1960s New York (forthcoming).
     related_links: []
+  - person: jason-rosenfeld
+    event_bio: "Jason Rosenfeld, PhD is Distinguished Chair and Professor of Art
+      History at Marymount Manhattan College. He was co-curator of the
+      exhibitions John Everett Millais (Tate Britain, Van Gogh Museum),
+      Pre-Raphaelites: Victorian Avant-Garde (Tate Britain and the National
+      Gallery of Art, Washington, D.C.), and River Crossings (Olana and Cedar
+      Grove, Hudson and Catskill, New York). He has contributed the lead text
+      for a Phaidon monograph on Cecily Brown that will be published in November
+      2020. He is a Senior Writer and Editor-at-Large for the Brooklyn Rail. "
 poets:
   - person: jeremy-hoevenaar
     event_bio: "Jeremy Hoevenaar is the author of Cold Mountain Mirror Displacement
