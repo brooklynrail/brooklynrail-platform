@@ -29,6 +29,11 @@ people:
       Sacramento City College until 1959, when he became a professor at the
       University of California in Davis. Today, Wayne Thiebaud lives and works
       in California.
+  - person: amanda-gluibizzi
+    event_bio: Amanda Gluibizzi is an ArtSeen editor at The Brooklyn Rail. An art
+      historian, she is the co-director of The New Foundation for Art History
+      and the author of Art and Design in 1960s New York (forthcoming).
+    related_links: []
 poets:
   - person: jeremy-hoevenaar
     event_bio: "Jeremy Hoevenaar is the author of Cold Mountain Mirror Displacement
