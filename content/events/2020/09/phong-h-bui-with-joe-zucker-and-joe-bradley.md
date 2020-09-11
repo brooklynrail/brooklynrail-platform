@@ -21,6 +21,20 @@ people:
 
 
       Zucker’s work is in extensive public collections including: The Museum of Modern Art, New York, The National Gallery of Victoria, Melbourne, The Philadelphia Museum of Art, The Tel Aviv Museum, Israel, The Whitney Museum of American Art, New York, The Brooklyn Museum, The Metropolitan Museum of Art, New York and many others.
+  - person: joe-bradley
+    event_bio: >
+      In his paintings, drawings, sculptures, and mixed-media works, Joe Bradley
+      has produced a visual language that oscillates freely between personal and
+      art historical references. Constantly reinventing himself, he cycles
+      through some of the most iconic modes of abstraction, investigating
+      Minimalist questions of color and form, tapping into the spontaneous
+      gesture of Abstract Expressionism, and creating cryptic signs and symbols
+      in ingenious, lively drawings.
+
+      Bradley earned his BFA from the Rhode Island School of Design in 1999 and had his first gallery show in New York in 2003. Just three years later he had his first solo exhibition at MoMA PS1, which included boldly painted monochromatic canvases arranged in geometric formations. These modular paintings investigate the ways that colors exist in relation to each other and to negative space, while subtly evoking architectural structures and human or robotic figures. In recent works Bradley paints fragments of unprimed canvas on the floor, collecting studio debris in swaths of color. Imbuing abstraction with a tactile immediacy, he applies the oil paint in thick layers to create captivating, tessellated compositions.
+
+
+      In his drawing practice Bradley uses such unorthodox materials as cardboard scraps, loose paper, and even sticky notes. While artistic precedents appear to be among his works’ influences and inspirations, they never settle into certainty. In many ways Bradley holds a mirror up to the art world itself, finding humor in the ever-shifting trends and traditions of recent art history. One aspect of his practice that remains constant is his emphasis on process: the intuitive motions of the artist’s hand, as well as the effects of material, memory, and environment. For his Schmagoo Paintings (2008), Bradley drew invented symbols and doodles with grease pencil on raw canvas, presenting lighthearted subject matter with a direct, gestural confidence. Though vaguely familiar—recalling children’s drawings, comic book sketches, cave paintings, and ideograms—the images are devoid of specific meaning, exploring the very implications of the creative act.
 poets:
   - person: jeremy-hoevenaar
     event_bio: "Jeremy Hoevenaar is the author of Cold Mountain Mirror Displacement
