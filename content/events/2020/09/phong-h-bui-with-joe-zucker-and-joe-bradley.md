@@ -21,6 +21,7 @@ people:
       first U.S. retrospective of Jonas Mekas, and Occupy Industry City: Artists
       Need to Create on the Same Scale that Society Has the Capacity to Destroy,
       Year 3.
+    related_links: []
 poets:
   - person: jeremy-hoevenaar
     event_bio: "Jeremy Hoevenaar is the author of Cold Mountain Mirror Displacement
