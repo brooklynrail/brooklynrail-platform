@@ -10,6 +10,5 @@ short_bio: In his paintings, drawings, sculptures, and mixed-media works, Joe
   Expressionism, and creating cryptic signs and symbols in ingenious, lively
   drawings.
 portraits:
-  - {}
   - media: 2020/09/photograph-of-joe-bradley-by-sebastian-kim
 ---
