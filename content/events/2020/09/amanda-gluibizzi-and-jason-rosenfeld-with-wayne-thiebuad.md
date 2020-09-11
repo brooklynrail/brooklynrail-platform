@@ -1,7 +1,8 @@
 ---
 title: Wayne Thiebaud with Amanda Gluibizzi and Jason Rosenfeld
-summary: Artist [Name] and writer [name] discuss creative life in the context of
-  our new social reality
+summary: Painter Wayne Thiebaud in conversation with Rail Artseen Editor Amanda
+  Gluibizzi and Rail Editor-at-Large Jason Rosenfeld. We'll close with a reading
+  by poet Jeremy Hoevenaar.
 people:
   - person: wayne
     event_bio: >
@@ -63,4 +64,8 @@ event_producer:
 event_platform:
   - zoom
 ---
-TK TK
+TK TK 
+
+Artist Kent Monkman will join professor and author Amber Jamilla Musser for a conversation. We’ll conclude with a poetry reading from LaTasha N. Nevada Diggs.
+
+Sculptor Ursula von Rydingsvard will be in conversation with Rail ArtSeen Editor Amanda Gluibizzi and Rail Editor-at-Large Jason Rosenfeld. We’ll conclude with a poetry reading from Vi Khi Nao.
