@@ -1,7 +1,8 @@
 ---
 title: Joe Zucker & Joe Bradley with Phong H. Bui
 summary: Joe Zucker and Joe Bradley will be in conversation with Phong H. Bui,
-  Publisher and Artistic Director of the Brooklyn Rail
+  Publisher and Artistic Director of the Brooklyn Rail. We will close with a
+  reading by poet Lewis Freedman
 people:
   - person: joe-zucker
     event_bio: >
