@@ -1,13 +1,12 @@
 ---
-title: Wayne Thiebaud with Amanda Gluibizzi and Jason Rosenfeld
+title: Wayne Thiebaud with Amanda Gluibizzi & Jason Rosenfeld
 summary: Renowned painter Wayne Thiebaud will be in conversation with the Rail's
   Artseen Editor Amanda Gluibizzi and Editor-at-Large Jason Rosenfeld. We'll
   close with a reading by poet Lewis Freedman.
 people:
   - person: wayne
-    event_bio: >
-      Wayne Thiebaud was born Mesa, Arizona in 1920, and his family soon moved
-      to Los Angeles in 1921. In high school he became interested in stage
+    event_bio: Wayne Thiebaud was born Mesa, Arizona in 1920, and his family soon
+      moved to Los Angeles in 1921. In high school he became interested in stage
       design and lighting, and worked part-time at a movie theater where he made
       posters for lobby displays, 1935-1938. During this time he also worked as
       a summer apprentice program in the animation department of Walt Disney
@@ -21,13 +20,9 @@ people:
       pigment and exaggerated colors to depict his subjects, and the
       well-defined shadows characteristic of advertisements are almost always
       included. Objects are simplified into basic units but appear varied using
-      seemingly minimal means. From 1949 to 1950, Thiebaud studied at the San
-      Jose State University and from 1950 to 1953 at the California State
-      University in Sacramento. He had his first solo exhibition at the Crocker
-      Art Gallery in Sacramento, and between the years of 1954 and 1957, he
-      produced eleven educational films for which he was awarded the Scholastic
-      Art Prize in 1961. Thiebaud lectured at the Art Department of the
-      Sacramento City College until 1959, when he became a professor at the
+      seemingly minimal means. Thiebaud had his first solo exhibition at the
+      Crocker Art Gallery in Sacramento. He lectured at the Art Department of
+      the Sacramento City College until 1959, when he became a professor at the
       University of California in Davis. Today, Wayne Thiebaud lives and works
       in California.
   - person: amanda-gluibizzi
