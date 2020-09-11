@@ -2,7 +2,7 @@
 title: Wayne Thiebaud with Amanda Gluibizzi and Jason Rosenfeld
 summary: Renowned painter Wayne Thiebaud will be in conversation with the Rail's
   Artseen Editor Amanda Gluibizzi and Editor-at-Large Jason Rosenfeld. We'll
-  close with a reading by poet Jeremy Hoevenaar.
+  close with a reading by poet Lewis Freedman.
 people:
   - person: wayne
     event_bio: >
@@ -45,14 +45,14 @@ people:
       for a Phaidon monograph on Cecily Brown that will be published in November
       2020. He is a Senior Writer and Editor-at-Large for the Brooklyn Rail. "
 poets:
-  - person: jeremy-hoevenaar
-    event_bio: "Jeremy Hoevenaar is the author of Cold Mountain Mirror Displacement
-      (American Books), Our Insolvency (Resolving Host), and Insolvency,
-      Insolvency! (Ugly Duckling Presse) and his writing has appeared in 6x6,
-      The Recluse, The Believer, Vestiges, the Brooklyn Rail, and others. "
+  - person: lewis-freedman
+    event_bio: Lewis Freedman is the author of the books Residual Synonyms for the
+      Name of God (Ugly Duckling Presse), Hold the Blue Orb, Baby (Well Greased
+      Press), Am Perhaps Yet (Oxeye), as well as I Want Something Other than
+      Time, forthcoming from Ugly Duckling Presse in 2021.
     related_links:
-      - url: https://uglyducklingpresse.org/publications/insolvency-insolvency/
-        text: Insolvency, Insolvency! (Ugly Duckling Presse)
+      - text: I Want Something Other than Time (Ugly Duckling Presse, October 2021)
+        url: https://uglyducklingpresse.org/contributors/lewis-freedman/
 date: 2020-09-15 13:00:00 -0500
 end_date: 2020-09-15 14:00:00 -0500
 series: 130
