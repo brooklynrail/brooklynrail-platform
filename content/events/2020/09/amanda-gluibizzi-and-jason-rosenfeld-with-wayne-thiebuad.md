@@ -1,5 +1,5 @@
 ---
-title: Amanda Gluibizzi and Jason Rosenfeld with Wayne Thiebuad
+title: Wayne Thiebaud with Amanda Gluibizzi and Jason Rosenfeld
 summary: Artist [Name] and writer [name] discuss creative life in the context of
   our new social reality
 people:
