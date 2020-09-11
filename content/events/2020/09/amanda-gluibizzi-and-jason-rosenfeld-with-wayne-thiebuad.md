@@ -8,6 +8,9 @@ poets:
       (American Books), Our Insolvency (Resolving Host), and Insolvency,
       Insolvency! (Ugly Duckling Presse) and his writing has appeared in 6x6,
       The Recluse, The Believer, Vestiges, the Brooklyn Rail, and others. "
+    related_links:
+      - url: https://uglyducklingpresse.org/publications/insolvency-insolvency/
+        text: Insolvency, Insolvency! (Ugly Duckling Presse)
 date: 2020-09-10 17:17:00 -0500
 end_date: 2020-09-10 17:17:00 -0500
 collections:
