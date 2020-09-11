@@ -3,25 +3,24 @@ title: Joe Zucker & Joe Bradley with Phong H. Bui
 summary: Joe Zucker and Joe Bradley will be in conversation with Phong H. Bui,
   Publisher and Artistic Director of the Brooklyn Rail
 people:
-  - person: phong-h-bui
+  - person: joe-zucker
     event_bio: >
-      Phong Bui is an artist, writer, independent curator, Publisher and
-      Artistic Director of the Brooklyn Rail, the River Rail, Rail Editions, and
-      Rail Curatorial Projects. From 2007 to 2010 he served as Curatorial
-      Advisor at MoMA PS1. His recent projects include Artists Need to Create on
-      the Same Scale that Society Has the Capacity to Destroy, an ongoing
-      curatorial project that was exhibited in 2019 as an official Collateral
-      Event of the Venice Biennale and at Colby Museum in Waterville, Maine. He
-      is a trustee of Studio in a School, the Louis Comfort Tiffany Foundation,
-      Anthology Film Archives, the Third Rail, the Miami Rail, Sharpe-Walentas
-      Studio Program, Second Shift Studio Space of Saint Paul, AICA (2007-2020),
-      and is co-founder of the Monira Foundation, a non-profit which aims to
-      curate ongoing exhibitions and public programming at Mana Contemporary in
-      Jersey City and beyond. Forthcoming projects include the Detroit Rail, the
-      first U.S. retrospective of Jonas Mekas, and Occupy Industry City: Artists
-      Need to Create on the Same Scale that Society Has the Capacity to Destroy,
-      Year 3.
-    related_links: []
+      Joe Zucker (b. 1941, Chicago, Illinois, based in East Hampton, New York)
+      has consistently been one of America’s most innovative artists. From the
+      Seventies, Zucker experimented with what has become his signature
+      technique: gluing cotton balls to canvas in a gridded arrangement and
+      painting over them. Resulting in a highly textured surface reminiscent of
+      mosaic, this technique radically transforms the surface of the canvas and
+      challenges the “flatness.” His imagery most often relates in some way to
+      the materials and processes, for example the series’ with cotton
+      plantation imagery executed in cotton balls rolled in paint. Throughout
+      his extensive career, Zucker has exhibited alongside artists such as Agnes
+      Martin and Brice Marden at the pioneering Bykert Gallery in the 1960s, and
+      later with dealer Holly Solomon, who was well known for her support of new
+      and experimental mediums.
+
+
+      Zucker’s work is in extensive public collections including: The Museum of Modern Art, New York, The National Gallery of Victoria, Melbourne, The Philadelphia Museum of Art, The Tel Aviv Museum, Israel, The Whitney Museum of American Art, New York, The Brooklyn Museum, The Metropolitan Museum of Art, New York and many others.
 poets:
   - person: jeremy-hoevenaar
     event_bio: "Jeremy Hoevenaar is the author of Cold Mountain Mirror Displacement
