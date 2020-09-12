@@ -1,8 +1,9 @@
 ---
-title: Helen Lee and Joachim Pissarro with Laurence de Cars
-summary: Director of the Musée d'Orsay and Musée de l'Orangerie Laurence de Cars
-  will be in conversation with Rail board member Helen Lee and Rail Consulting
-  Editor Joachim Pissarro. We’ll conclude with a poetry reading from Isa Guzman.
+title: Helen Lee and Joachim Pissarro with Laurence des Cars
+summary: Director of the Musée d'Orsay and Musée de l'Orangerie Laurence des
+  Cars will be in conversation with Rail board member Helen Lee and Rail
+  Consulting Editor Joachim Pissarro. We’ll conclude with a poetry reading from
+  Isa Guzman.
 people:
   - person: helen-lee
     event_bio: Helen Lee has had many roles in the art world, including collector,
