@@ -29,6 +29,16 @@ people:
       (2018, Penn State University Press) is co-authored with David Carrier,
       following Wild Art (Phaidon, 2016). Joachim is also a Consulting Editor of
       the Brooklyn Rail."
+  - person: laurence-des-cars
+    event_bio: "Laurence des Cars is a curator and historian of French art and is a
+      specialist on the art of the nineteenth century and early twentieth
+      century. She is the current President and Director of the Musée d'Orsay
+      and the Musée de l'Orangerie in Paris. She previously was the Director of
+      the Agence France-Muséums and was operator in charge of the development of
+      the Louvre Abu Dhabi. She has organized major exhibitions on Gustave
+      Courbet, Édouard Vuillard, Jean-Léon Gérôme, among others, and is the
+      author of numerous texts, including her book on the Pre-Raphaelites, Les
+      Préraphaélites : Un modernisme à l’anglaise. "
 poets:
   - person: isa-guzman
     event_bio: Isa Guzman is a poet from Los Sures, Brooklyn. Dedicating their work
