@@ -72,6 +72,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-129-joe-zucker-joe-bradley-tickets-120605539415
 event_platform:
   - zoom
 ---
