@@ -39,4 +39,6 @@ event_producer:
 registration_url: https://www.eventbrite.com/e/common-ground-maura-reilly-tickets-120606141215
 event_platform:
   - zoom
+aliases:
+  - /events/entries/2020/09/curatorial-activism-a-conversation-with-maura-reilly
 ---
