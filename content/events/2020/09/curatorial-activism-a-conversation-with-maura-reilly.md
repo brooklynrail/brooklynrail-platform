@@ -19,7 +19,8 @@ people:
       of two initiatives dedicated to fighting discrimination against women in
       the art world – The Feminist Art Project (TFAP) and Feminist Curators
       United (FcU). She received her M.A. and PhD in art history from the
-      Institute of Fine Arts, New York University."
+      Institute of Fine Arts, New York University. She is an Editor-at-large for
+      the Brooklyn Rail. "
 poets:
   - person: sara-deniz-akant
     event_bio: "Sara Deniz Akant is a Turkish-American poet, educator, and
