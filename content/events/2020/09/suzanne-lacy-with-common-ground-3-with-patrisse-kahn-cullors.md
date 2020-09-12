@@ -21,6 +21,13 @@ people:
       is a founding member of two initiatives dedicated to fighting
       discrimination against women in the art world -- The Feminist Art Project
       (TFAP) and Feminist Curators United (FcU)."
+poets:
+  - person: sara-deniz-akant
+    event_bio: "Sara Deniz Akant is a Turkish-American poet, educator, and
+      performer. Her first collection, Babette (Rescue Press 2015), won the
+      Black Box Award in Poetry. She is currently a PhD candidate in English at
+      the CUNY Graduate Center. She lives in Brooklyn. "
+    related_links: []
 date: 2020-09-17 13:00:00 -0500
 end_date: 2020-09-17 14:30:00 -0500
 series: 3
