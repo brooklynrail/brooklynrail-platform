@@ -1,5 +1,5 @@
 ---
-title: "Suzanne Lacy with Common Ground #3 with Maura Reilly"
+title: A Conversation with Maura Reilly
 summary: Weekly conversations with social justice practitioners, changemakers,
   and activists
 people:
@@ -21,10 +21,11 @@ people:
       is a founding member of two initiatives dedicated to fighting
       discrimination against women in the art world -- The Feminist Art Project
       (TFAP) and Feminist Curators United (FcU)."
-date: 2020-09-10 17:25:00 -0500
-end_date: 2020-09-10 17:25:00 -0500
+date: 2020-09-17 13:00:00 -0500
+end_date: 2020-09-17 14:30:00 -0500
+series: 3
 collections:
-  - the-new-social-environment
+  - common-ground
 event_organizer:
   - the-brooklyn-rail
 event_producer:
