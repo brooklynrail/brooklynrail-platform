@@ -50,6 +50,7 @@ poets:
       Artforum, Hyperallergic and on the cover of New York Magazine.
 date: 2020-09-10 13:00:00 -0500
 end_date: 2020-09-10 14:30:00 -0500
+series: 2
 collections:
   - common-ground
 event_sponsor:
