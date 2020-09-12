@@ -1,5 +1,5 @@
 ---
-title: Helen Lee and Joachim Pissarro with Laurence des Cars
+title: "Laurence des Cars with Helen Lee and Joachim Pissarro "
 summary: Director of the Musée d'Orsay and Musée de l'Orangerie Laurence des
   Cars will be in conversation with Rail board member Helen Lee and Rail
   Consulting Editor Joachim Pissarro. We’ll conclude with a poetry reading from
