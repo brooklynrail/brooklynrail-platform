@@ -11,7 +11,7 @@ short_bio: "Janice A. Lowe, multidisciplinary composer and poet is the author of
   numerous plays. Lowe's album, Leaving CLE/Songs of Nomadic Dispersal, will be
   released in 2020. A co-founder of The Dark Room Collective, Lowe has taught
   Multi-media Composition at Rutgers University and at SWP, Jack Kerouac School
-  of Disembodied Poetics. She has performed in Nona Hendry’s Rock Solid Women
+  of Disembodied Poetics. She has performed in Nona Hendryx’s Rock Solid Women
   Festival and with Anne Waldman and Fastspeaking Music. Lowe performs and
   records with her band Janice Lowe & NAMAROON.  "
 portraits:
