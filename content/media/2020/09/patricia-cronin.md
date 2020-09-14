@@ -1,5 +1,5 @@
 ---
-media: /media/files/cronin_patricia.jpeg
+media: /media/files/patricia_cronin_roselli.jpeg
 title: Patricia Cronin
 alt: Patricia Cronin
 date: 2020-09-14 11:55:00 -0500
