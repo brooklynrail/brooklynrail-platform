@@ -30,15 +30,14 @@ people:
       Rumpus, jubilat, LitHub and The Offing. Her first book of poetry, If It
       Heals At All, is forthcoming from Jacar Press."
   - person: michael-broder
-    event_bio: Michael Broder is the author of Drug and Disease Free (Indolent
-      Books, 2016) and This Life Now (A Midsummer Night’s Press, 2014), a
-      finalist for the 2015 Lambda Literary Award for Gay Poetry. His poems have
-      appeared in numerous publications and anthologies. He holds a BA from
-      Columbia University, an MFA from New York University, and a PhD in
+    event_bio: Michael Broder is the author of This Life Now (A Midsummer Night’s
+      Press, 2014), a finalist for the Lambda Literary Award for Gay Poetry. His
+      poems have appeared in numerous publications and anthologies. He holds a
+      BA from Columbia University, an MFA from New York University, and a PhD in
       Classics from The Graduate Center of the City University of New York. He
       is the founding publisher of Indolent Books and the creator of the HIV
       Here & Now Project. Broder lives in Brooklyn with his husband, the poet
-      Jason Schneiderman, and a backyard colony of stray and feral cats.
+      Jason Schneiderman, and backyard colony of feral cats.
   - person: peter-covino
     event_bio: After a 15-year career as a social worker in foster care and AIDS
       services in NYC, poet-editor-translator Peter Covino is now an associate
