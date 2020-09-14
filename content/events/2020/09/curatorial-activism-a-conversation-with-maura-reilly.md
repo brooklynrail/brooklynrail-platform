@@ -1,5 +1,5 @@
 ---
-title: "Curatorial Activism: A Conversation with Maura Reilly"
+title: "Curatorial Activism: A Conversation with Maura Reilly & Friends"
 summary: Weekly conversations with social justice practitioners, changemakers,
   and activists.
 people:
@@ -19,7 +19,7 @@ people:
       of two initiatives dedicated to fighting discrimination against women in
       the art world – The Feminist Art Project (TFAP) and Feminist Curators
       United (FcU). She received her M.A. and PhD in art history from the
-      Institute of Fine Arts, New York University. She is an Editor-at-large for
+      Institute of Fine Arts, New York University. She is an Editor-at-Large for
       the Brooklyn Rail. "
 poets:
   - person: sara-deniz-akant
