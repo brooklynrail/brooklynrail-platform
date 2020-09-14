@@ -22,20 +22,23 @@ people:
       Institute of Fine Arts, New York University. She is an Editor-at-Large for
       the Brooklyn Rail. "
   - person: patricia-cronin
-    event_bio: "Since the early 1990s, Patricia Cronin has been reflecting the world
-      back at itself in her paintings, sculptures, and installations, asserting
-      her own feminist, lesbian perspective, and unflinchingly critiquing
-      gender, marriage, and political inequalities. Steeped in art history, and
-      influenced by Philip Pearlstein and Lee Bontecou and the personal politics
-      in the work of Joan Semmel and Carolee Schneemann, Cronin addresses
-      lesbianism and female sexuality in her work. As she describes: “Besides
-      reinvigorating traditional forms and injecting my specific contemporary
-      political content, I think the main question all throughout my work—my
-      career—has been: whose life has value? Whose body has value? And who
-      decides?” Memorial to a Marriage (2002) exemplifies Cronin’s approach.
-      Tender and daring, it is a gravestone showing herself and her partner,
-      Deborah Kass, sleeping in loving embrace in bed—defiantly memorializing
-      their illegalized love."
+    event_bio: Patricia Cronin is an interdisciplinary conceptual artist whose work
+      examines issues of gender, sexuality and social justice. Cronin’s work has
+      been exhibited widely in the U.S. and internationally, including Shrine
+      For Girls at the 56th Venice Biennale, Venice, Italy and traveled to The
+      FLAG Art Foundation, New York, NY and the LAB Gallery, Dublin, Ireland.
+      Other solo exhibitions were presented at the Capitoline Museum’s Centrale
+      Montemartini Museum, Rome, Italy; Newcomb Art Museum, New Orleans, LA;
+      Brooklyn Museum, Brooklyn, NY; and Tampa Museum of Art, Tampa, FL. Her
+      pioneering Marriage Equality sculpture, Memorial To A Marriage (2002) has
+      been exhibited widely including the Gallery of Modern Art, Glasgow, the
+      American Academy in Rome, Italy and throughout the United States. Bronze
+      versions are in the permanent collections of Kelvingrove Art Galleries and
+      Museum, Glasgow, Scotland; Smithsonian National Portrait Gallery,
+      Washington, DC; The FLAG Art Foundation, New York, NY; Perez Art Museum
+      Miami, FL and Woodlawn Cemetery, Bronx, NY where it is permanently on view
+      on her burial plot. She is Professor of Art at Brooklyn College of The
+      City University of New York.
   - event_bio: "Cecilia Fajardo-Hill is a British-Venezuelan art historian and
       curator with a specialization in modern and contemporary Latin American
       art. She is currently based in Southern California and New York.
