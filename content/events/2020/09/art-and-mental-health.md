@@ -55,6 +55,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: jL1ApyK1Ra8
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-125-art-and-mental-health-tickets-119675969045
 event_platform:
   - zoom
