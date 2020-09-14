@@ -7,5 +7,7 @@ short_bio: "Jasmine Wahi is a Curator, Activist, TEDx Speaker, and a Founder and
   issues of femme empowerment, complicating binary structures within social
   discourses, and exploring multipositional cultural identities through the lens
   of intersectional feminism. "
+portraits:
+  - media: 2020/09/jasmine-wahi
 website: http://www.jasminewahi.com/
 ---
