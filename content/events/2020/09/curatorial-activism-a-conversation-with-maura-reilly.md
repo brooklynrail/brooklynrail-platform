@@ -62,24 +62,21 @@ people:
       contemporary Latin American art."
     person: cecilia-fajardo-hill
   - person: jasmine-wahi
-    event_bio: >-
-      Jasmine Wahi is a Curator, Activist, TEDx Speaker, and a Founder and
-      Co-Director of Project for Empty Space. Her practice predominantly focuses
-      on issues of femme empowerment, complicating binary structures within
-      social discourses, and exploring multipositional cultural identities
-      through the lens of intersectional feminism. 
-
-
-      In 2010, Ms. Wahi Co-Founded Project For Empty Space, a not-for-profit organization that creates multidisciplinary art exhibitions and programming that encourage social dialogue, education, and systemic change through the support of both artists and communities. In 2015, Ms. Wahi joined Rebecca Jampol to open a brick and mortar gallery for PES Newark, NJ. 
-
-
-      Though she does not consider herself to be an artist, Ms. Wahi has organized numerous interventions and happenings as part of her social activist work. In 2018, she served as the Co-Chair “Rape, Radicality, and Representation” for the College Art Association's "Day of Panels" with The Feminist Art Project (TFAP).  organizing a day of intersectional feminist based performances, films, and conversations. In 2019, she spoke at TEDxNJIT on the idea of Resilience. In 2020, she curated the two part exhibition Abortion Is Normal, which received wide critical acclaim, and will be touring cross country as part of a campaign to get out the vote. 
-
-
-      In addition to her other work, Ms. Wahi a faculty member at the School of Visual Arts: MFA Fine Arts department. She is a former board member of the South Asian Women’s Creative Collective (SAWCC), and a volunteer instructor for the Girls Educational Mentoring Services (GEMS) group. 
-
-
-      Ms. Wahi’s curatorial work has been featured in the New York Times, The Wall Street Journal, Art News, Art Forum, Hyperallergic, Bloomberg, VICE, and NOWTHIS, to name a few. 
+    event_bio: "Jasmine Wahi  is the Holly Block Social Justice Curator at the Bronx
+      Museum of the Arts, and the Founder + Co-Director of Project for Empty
+      Space, a Newark, NJ based non profit organization that supports artists
+      who are interested in social discourse and activism. Her practice
+      predominantly focuses on issues of female empowerment, complicating binary
+      structures within social discourses, and exploring multi-positional
+      cultural identities through the lens of intersectional feminism. In 2019,
+      Wahi joined the TED speaker family with her first TEDx talk on
+      intersectionality and visibility, entitled All The Women In Me Are Tired.
+      Her work has been highlighted in Artforum, The New York Times,
+      Hyperallergic, ArtNews, ARTSY, Vogue, NowThis, and Breitbart News. Wahi is
+      a Visiting Critic at Yale University, and a faculty member at the School
+      of Visual Arts: MFA Fine Arts department. Jasmine Wahi received her
+      Masters in Art History from New York University’s Institute of Fine Arts.
+      She lives with her chihuahua mutt, Momo, in Brooklyn."
 poets:
   - person: sara-deniz-akant
     event_bio: "Sara Deniz Akant is a Turkish-American poet, educator, and
