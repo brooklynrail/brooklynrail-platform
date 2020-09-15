@@ -1,9 +1,9 @@
 ---
 title: A Conversation on Philip Guston
-summary: Musa Mayer, renowned author and daughter of Philip Guston, and Sally
-  Radic, Executive Director of the Guston Foundation, join Phong H. Bui,
-  Publisher and Artistic Director of the Brooklyn Rail, for a conversation on
-  Philip Guston. We will close with a poetry reading.
+summary: From the Guston Foundation, Musa Mayer, President, and Sally Radic,
+  Executive Director, join Phong H. Bui, Publisher and Artistic Director of the
+  Brooklyn Rail, for a conversation on Philip Guston. We will close with a
+  poetry reading by Natalie Eilbert.
 people:
   - person: musa-mayer
     related_links: []
@@ -48,8 +48,14 @@ people:
       first U.S. retrospective of Jonas Mekas, and Occupy Industry City: Artists
       Need to Create on the Same Scale that Society Has the Capacity to Destroy,
       Year 3."
-date: 2020-09-15 11:15:00 -0500
-end_date: 2020-09-15 11:15:00 -0500
+poets:
+  - person: natalie-eilbert
+    event_bio: Natalie Eilbert is the author of Indictus, winner of Noemi Press's
+      2016 Poetry Prize, as well as the poetry collection, Swan Feast (Bloof
+      Books, 2015). She is the founding editor of The Atlas Review. She lives
+      and teaches in Madison, Wisconsin.
+date: 2020-09-21 13:00:00 -0500
+end_date: 2020-09-21 14:00:00 -0500
 series: 134
 collections:
   - the-new-social-environment
@@ -57,6 +63,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-134-a-conversation-on-philip-guston-tickets-121226344259
 event_platform:
   - zoom
 ---
