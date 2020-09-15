@@ -1,8 +1,9 @@
 ---
 title: A Conversation on Philip Guston
-summary: Musa Mayer and Sally Radic from the Guston Foundation join Phong H.
-  Bui, Publisher and Artistic Director of the Brooklyn Rail, for a conversation
-  on Philip Guston. We will close with a poetry reading.
+summary: Musa Mayer, renowned author and daughter of Philip Guston, and Sally
+  Radic, Executive Director of the Guston Foundation join Phong H. Bui,
+  Publisher and Artistic Director of the Brooklyn Rail, for a conversation on
+  Philip Guston. We will close with a poetry reading.
 people:
   - person: musa-mayer
     related_links: []
