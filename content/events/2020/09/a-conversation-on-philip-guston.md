@@ -14,18 +14,20 @@ people:
       from a twenty-five-year career as an acclaimed research and patient
       advocate for people living with advanced breast cancer, she has curated
       two exhibitions of Guston’s satirical Nixon drawings in New York and
-      London, as well as a survey exhibition in Hong Kong. ‘Resilience’ is her
-      third book with Hauser & Wirth Publishers. The second, ‘Philip Guston:
-      Nixon Drawings 1971 and 1975,’ coauthored with Debra Bricker Balken, was
-      awarded the FILAF d’Or international prize as the best international art
-      book of 2017. Besides managing the Estate of Philip Guston, Musa is
-      President of The Guston Foundation. Current Foundation projects include
-      the website PhilipGuston.org, built around a Catalogue Raisonné of the
-      paintings, and collaboration in the upcoming retrospective, ‘Philip Guston
-      Now’, due to open in June 2020 at the National Gallery of Art in
-      Washington, DC, that will travel to the Museum of Fine Arts in Houston,
-      the Tate Modern in London, and the Museum of Fine Arts in Boston. Musa
-      lives in New York city, with her husband, Tom."
+      London, as well as a survey exhibition in Hong Kong, an exhibition of
+      Guston’s work from 1971, and a recent online exhibition entitled 'What
+      Endures’ during the summer of 2020. ‘Resilience’ is her third book with
+      Hauser & Wirth Publishers. The second, ‘Philip Guston: Nixon Drawings 1971
+      and 1975,’ coauthored with Debra Bricker Balken, was awarded the FILAF
+      d’Or international prize as the best international art book of 2017. An
+      upcoming small monograph on her father, published by Laurence King, will
+      be released in late 2020 or early 2021. Besides managing the Estate of
+      Philip Guston, Musa is President of The Guston Foundation. The most recent
+      Foundation project is the newly launched website PhilipGuston.org  a
+      comprehensive resource built around a Catalogue Raisonné of the paintings
+      that allows users free access to museum collections, exhibitions and
+      bibliography, as well as featuring an extensive chronology, scrapbook, and
+      slideshows of diverse aspects of Guston’s art. "
   - person: sally-radic
     event_bio: "Sally Radic is the Executive Director of the Guston Foundation.
       Alongside Musa Mayer, she co-curated Philip Guston: Laughter in the Dark,
