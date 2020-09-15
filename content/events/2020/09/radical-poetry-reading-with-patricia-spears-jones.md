@@ -61,18 +61,17 @@ people:
       Fellowship. He is the Henry Rutgers Presidential Professor at Rutgers
       University-Newark."
   - person: janice-lowe
-    event_bio: "Janice A. Lowe, multidisciplinary composer and poet is the author of
-      LEAVING CLE and SWAM. Her musical theater compositions include Somewhere
-      in Texas; Lil Budda; Sit-In at the Five & Dime; and the opera Dusky Alice.
-      A recent Creative Capital awardee, Lowe composed music for Millie and
-      Christine McKoy Sisters’ Syncopated Sonnets in Song, libretto by Tyehimba
-      Jess, and numerous plays. Lowe's album, Leaving CLE/Songs of Nomadic
-      Dispersal, will be released in 2020. A co-founder of The Dark Room
-      Collective, Lowe has taught Multi-media Composition at Rutgers University
-      and at SWP, Jack Kerouac School of Disembodied Poetics. She has performed
-      in Nona Hendryx’s Rock Solid Women Festival and with Anne Waldman and
-      Fastspeaking Music. Lowe performs and records with her band Janice Lowe &
-      NAMAROON.  "
+    event_bio: Janice A. Lowe, composer-poet, is the author of LEAVING CLE and SWAM.
+      Her musical theater compositions include Somewhere in Texas, text by
+      Charles E. Drew, Jr.; the opera Dusky Alice; Lil Budda, text by Stephanie
+      L. Jones and Sit-In at the Five & Dime, text by Marjorie Duffield. A
+      recent Creative Capital awardee, Lowe composed music for the McKoy
+      Sisters’ Syncopated Sonnets in Song from Tyehimba Jess’ OLIO and has
+      composed music for numerous plays including Liza Jessie Peterson’s
+      Chiron’s Homegurl Healer Howls and 12th and Clairmount by Jenni Lamb.
+      Lowe's latest album, Leaving CLE/Songs of Nomadic Dispersal, will be
+      released in November 2020. A co-founder of The Dark Room Collective, Lowe
+      performs and records with her band.
   - person: jade-yeung
     event_bio: Jade Yeung was raised in Brooklyn, the daughter of Chinese
       immigrants. She has received support from Community of Writers and Fine
