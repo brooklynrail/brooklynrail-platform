@@ -1,5 +1,7 @@
 ---
 title: "Curatorial Activism: A Conversation with Maura Reilly & Friends"
+deck: Featuring Patricia Cronin, Cecilia Fajardo-Hill, Nur Sobers-Khan, and
+  Jasmine Wahi
 summary: Weekly conversations with social justice practitioners, changemakers,
   and activists.
 people:
@@ -101,8 +103,8 @@ registration_url: https://www.eventbrite.com/e/common-ground-maura-reilly-ticket
 event_platform:
   - zoom
 ---
-Please join us for the third installment of Common Ground featuring **Patricia Cronin**, **Cecilia Fajardo-Hill**, and **Jasmine Wahi** with **Maura Reilly** for a conversation on Curatorial Activism.
+Please join us for our third installment of *Common Ground* featuring artist **Patricia Cronin**, and curators **Cecilia Fajardo-Hill**, **Nur Sobers-Khan**, and **Jasmine Wahi** with **Maura Reilly** for a conversation on Curatorial Activism. We will close with a poetry reading by **Sara Deniz Akant.**
 
 At the start of quarantine, the *Brooklyn Rail* asked how might we stay connected to each other in a time of self-isolation? Now we ask: How can we stay involved and engaged in upholding our civic responsibility to one another across communities? How can we deploy this community we have built through the *New Social Environment*—through hundreds of conversations and meals shared over the past six months—to mobilize daily action for grassroots movements, social justice and equity projects, and for the political good of our most marginalized communities across the nation? *Common Ground* will be taking over the *New Social Environment* Thursday 1pm slot—beginning immediately and continuing up to the presidential election—and will convene weekly on Thursdays at 1pm Eastern from Sept 3rd through Nov 5th.
 
-We will close with a reading by poet **Sara Deniz Akant.**
+We will close with a poetry reading by **Sara Deniz Akant.**
