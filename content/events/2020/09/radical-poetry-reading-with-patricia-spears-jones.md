@@ -69,9 +69,9 @@ people:
       Sisters’ Syncopated Sonnets in Song from Tyehimba Jess’ OLIO and has
       composed music for numerous plays including Liza Jessie Peterson’s
       Chiron’s Homegurl Healer Howls and 12th and Clairmount by Jenni Lamb.
-      Lowe's latest album, Leaving CLE/Songs of Nomadic Dispersal, will be
-      released in November 2020. A co-founder of The Dark Room Collective, Lowe
-      performs and records with her band.
+      Lowe's latest album, Songs of Nomadic Dispersal, will be released in
+      November 2020. A co-founder of The Dark Room Collective, Lowe performs and
+      records with her band Janice Lowe & Namaroon.
   - person: jade-yeung
     event_bio: Jade Yeung was raised in Brooklyn, the daughter of Chinese
       immigrants. She has received support from Community of Writers and Fine
