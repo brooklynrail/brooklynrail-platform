@@ -92,7 +92,7 @@ poets:
     related_links: []
 date: 2020-09-17 13:00:00 -0500
 end_date: 2020-09-17 14:30:00 -0500
-series: 3
+series: ""
 collections:
   - common-ground
 event_organizer:
