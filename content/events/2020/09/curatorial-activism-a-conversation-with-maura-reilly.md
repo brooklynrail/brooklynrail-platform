@@ -67,22 +67,6 @@ people:
       culture. Fajardo-Hill has curated and written extensively on modern and
       contemporary Latin American art."
     person: cecilia-fajardo-hill
-  - person: jasmine-wahi
-    event_bio: "Jasmine Wahi  is the Holly Block Social Justice Curator at the Bronx
-      Museum of the Arts, and the Founder + Co-Director of Project for Empty
-      Space, a Newark, NJ based non profit organization that supports artists
-      who are interested in social discourse and activism. Her practice
-      predominantly focuses on issues of female empowerment, complicating binary
-      structures within social discourses, and exploring multi-positional
-      cultural identities through the lens of intersectional feminism. In 2019,
-      Wahi joined the TED speaker family with her first TEDx talk on
-      intersectionality and visibility, entitled All The Women In Me Are Tired.
-      Her work has been highlighted in Artforum, The New York Times,
-      Hyperallergic, ArtNews, ARTSY, Vogue, NowThis, and Breitbart News. Wahi is
-      a Visiting Critic at Yale University, and a faculty member at the School
-      of Visual Arts: MFA Fine Arts department. Jasmine Wahi received her
-      Masters in Art History from New York University’s Institute of Fine Arts.
-      She lives with her chihuahua mutt, Momo, in Brooklyn."
   - person: nur-sobers-khan
     event_bio: "Nur Sobers-Khan is the Lead Curator for South Asian Collections at
       the British Library, London, where she is responsible for curating a
@@ -109,6 +93,22 @@ people:
       cosmology, dream interpretation and other genres of divinatory literature.
       She completed her BA and PhD in Oriental Studies at the University of
       Cambridge. "
+  - person: jasmine-wahi
+    event_bio: "Jasmine Wahi  is the Holly Block Social Justice Curator at the Bronx
+      Museum of the Arts, and the Founder + Co-Director of Project for Empty
+      Space, a Newark, NJ based non profit organization that supports artists
+      who are interested in social discourse and activism. Her practice
+      predominantly focuses on issues of female empowerment, complicating binary
+      structures within social discourses, and exploring multi-positional
+      cultural identities through the lens of intersectional feminism. In 2019,
+      Wahi joined the TED speaker family with her first TEDx talk on
+      intersectionality and visibility, entitled All The Women In Me Are Tired.
+      Her work has been highlighted in Artforum, The New York Times,
+      Hyperallergic, ArtNews, ARTSY, Vogue, NowThis, and Breitbart News. Wahi is
+      a Visiting Critic at Yale University, and a faculty member at the School
+      of Visual Arts: MFA Fine Arts department. Jasmine Wahi received her
+      Masters in Art History from New York University’s Institute of Fine Arts.
+      She lives with her chihuahua mutt, Momo, in Brooklyn."
 poets:
   - person: camilo-roldan
     event_bio: Camilo Roldán is a Colombian-American poet and translator. His first
