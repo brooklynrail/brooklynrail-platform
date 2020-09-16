@@ -86,9 +86,9 @@ people:
 poets:
   - person: camilo-roldan
     event_bio: Camilo Roldán is a Colombian-American poet and translator. His first
-      full-length book of poems, "Dropout," was published in 2019 and a
-      translation of María Paz Guerrero's book, "God is a Bitch Too" (Dios
-      también es una perra), is forthcoming from UDP in December 2020.
+      full-length book of poems, Dropout, was published in 2019 and a
+      translation of María Paz Guerrero's book, God is a Bitch Too (Dios también
+      es una perra), is forthcoming from UDP in December 2020.
 date: 2020-09-17 13:00:00 -0500
 end_date: 2020-09-17 14:30:00 -0500
 series: ""
