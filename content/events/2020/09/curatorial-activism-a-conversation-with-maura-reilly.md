@@ -67,6 +67,32 @@ people:
       culture. Fajardo-Hill has curated and written extensively on modern and
       contemporary Latin American art."
     person: cecilia-fajardo-hill
+  - person: nur-sobers-khan
+    event_bio: "Nur Sobers-Khan is the Lead Curator for South Asian Collections at
+      the British Library, London, where she is responsible for curating a
+      collection of books and manuscripts on the history of Islam in South Asia.
+      Her current work focuses on dismantling the structures of colonial
+      violence embedded in the curation and exhibition of these
+      collections.  Most recently she has been involved in the efforts of the
+      library’s Decolonising Working Group, which aims to reconfigure the
+      interpretation of artworks on display in the public and staff areas of the
+      building, calling attention to the histories of imperial and colonialist
+      violence embedded in their description (or lack thereof).  Previous
+      exhibitions include Qajar Women: Images of Women in 19th-century Iran,
+      co-curated with Mounia Chekhab-Abudaya, which took place at the Museum of
+      Islamic Art, Qatar and explored historical depictions of nonbinary gender
+      identities in the context of canonical constructions of ‘Islamic art.’ She
+      is currently Principle Investigator of the AHRC-funded research and
+      digitisation project Two Centuries of Indian Print, and her research
+      pivots around two questions at the moment: the role of the dispersal and
+      removal of cultural heritage artifacts in South Asia under British
+      colonialism as a contributing factor in shaping the emergence of Islamic
+      reformism in the second half of the 19th century, and the transition from
+      manuscript to print in the same period and its creation of new forms of
+      reading and poetic improvisation through the circulation of texts on
+      cosmology, dream interpretation and other genres of divinatory literature.
+      She completed her BA and PhD in Oriental Studies at the University of
+      Cambridge. "
   - person: jasmine-wahi
     event_bio: "Jasmine Wahi  is the Holly Block Social Justice Curator at the Bronx
       Museum of the Arts, and the Founder + Co-Director of Project for Empty
