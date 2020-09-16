@@ -1,7 +1,7 @@
 ---
-name: Camilo Roldan
+name: Camilo Roldán
 first_name: Camilo
-last_name: Roldan
+last_name: Roldán
 short_bio: Camilo Roldán is a Colombian-American poet and translator born in
   Milwaukee, WI and currently living in Bogotá, Colombia. His poems and
   translations have appeared in various print and digital magazines in the US
