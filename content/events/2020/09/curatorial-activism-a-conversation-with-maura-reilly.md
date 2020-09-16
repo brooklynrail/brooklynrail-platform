@@ -115,6 +115,9 @@ poets:
       full-length book of poems, Dropout, was published in 2019 and a
       translation of María Paz Guerrero's book, God is a Bitch Too (Dios también
       es una perra), is forthcoming from UDP in December 2020.
+    related_links:
+      - url: https://www.ornithopterpress.com/store/p2/DROPOUT_by_Camilo_Rold%C3%A1n.html
+        text: '"Dropout" by Camilo Roldán'
 date: 2020-09-17 13:00:00 -0500
 end_date: 2020-09-17 14:30:00 -0500
 series: ""
