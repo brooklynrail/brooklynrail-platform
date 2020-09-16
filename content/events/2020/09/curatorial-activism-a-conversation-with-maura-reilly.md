@@ -24,9 +24,9 @@ people:
       named one of the Top 50 most influential people in the art world by Art &
       Auction, in recognition of her advocacy for women artists. She received
       her M.A. and PhD in art history from the Institute of Fine Arts, New York
-      University, and is an Editor-at-Large for The Brooklyn Rail. Reilly is
+      University, and is an Editor-at-Large for the Brooklyn Rail. Reilly is
       Associate Professor of Art History and Museum Studies at Arizona State
-      University. "
+      University."
   - person: patricia-cronin
     event_bio: Patricia Cronin is an interdisciplinary conceptual artist whose work
       examines issues of gender, sexuality and social justice. Cronin’s work has
