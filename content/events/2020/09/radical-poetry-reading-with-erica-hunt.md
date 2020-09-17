@@ -1,8 +1,10 @@
 ---
 title: Radical Poetry Reading with Erica Hunt
-deck: Featuring political poetry read by
-summary: "Poet Erica Hunt curates the sixth installment of Radical Poetry
-  Readings, featuring "
+deck: Featuring political poetry read by Samiya Bashir, Mihee Kim, Jena Osman,
+  Dior Stephens, and Yanyi.
+summary: Poet Erica Hunt curates the sixth installment of Radical Poetry
+  Readings, featuring Samiya Bashir, Mihee Kim, Jena Osman, Dior Stephens, and
+  Yanyi.
 people:
   - person: erica-hunt
     event_bio: "Erice Hunt is a poet, essayist, and author of six books of poetry.
@@ -55,7 +57,7 @@ people:
       The Reading.
 date: 2020-09-23 13:00:00 -0500
 end_date: 2020-09-23 14:00:00 -0500
-series: 135
+series: 136
 collections:
   - the-new-social-environment
 event_organizer:
