@@ -6,5 +6,6 @@ short_bio: "Dior J. Stephens (a.k.a. Dolphin) is a writer, performer, and pure
   B.A. in Theater Acting from Columbia College Chicago. Dior is currently based
   in Oakland, CA where he is pursuing a dual MFA/MA in Creative Writing (Poetry)
   and Visual & Critical Studies. "
-portraits: []
+portraits:
+  - media: 2020/09/dior-stephens-photo
 ---
