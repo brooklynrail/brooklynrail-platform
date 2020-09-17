@@ -28,16 +28,12 @@ people:
       Oakland, California.
   - person: jena-osman
     event_bio: Jena Osman’s books of poems include Motion Studies (Ugly Duckling
-      Presse, 2019), Corporate Relations (Burning Deck, 2014), Public Figures
-      (Wesleyan University Press, 2012), The Network (Fence Books 2010, selected
-      for the National Poetry Series in 2009), An Essay in Asterisks (Roof
-      Books, 2004) and The Character (Beacon Press, winner of the 1998 Barnard
-      New Women Poets Prize). Osman was a 2006 Pew Fellow in the Arts, and has
-      received grants from the National Endowment for the Arts, the New York
-      Foundation for the Arts, The Pennsylvania Council on the Arts, the Howard
-      Foundation, and the Fund for Poetry. She founded and edited the
-      award-winning literary magazine Chain with Juliana Spahr. She teaches in
-      the MFA Creative Writing program at Temple University in Philadelphia.
+      Presse), Corporate Relations (Burning Deck), Public Figures (Wesleyan
+      University Press), The Network (Fence Books, selected for the National
+      Poetry Series in 2009), An Essay in Asterisks (Roof Books) and The
+      Character (Beacon Press). She edited the literary magazine Chain with
+      Juliana Spahr. She teaches in the MFA Creative Writing program at Temple
+      University in Philadelphia.
   - person: dior-stephens
     event_bio: "Dior J. Stephens (a.k.a. Dolphin) is a writer, performer, and pure
       pisces hailing from the cloudy waters of Cleveland, OH. In 2015 Dior
