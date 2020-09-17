@@ -1,20 +1,19 @@
 ---
 title: "Laurence des Cars with Helen Lee and Joachim Pissarro "
-summary: Director of the Musée d'Orsay and Musée de l'Orangerie Laurence des
-  Cars will be in conversation with Rail board member Helen Lee and Rail
-  Consulting Editor Joachim Pissarro. We’ll conclude with a poetry reading from
-  Isa Guzman.
+summary: CEO of the Musée d'Orsay and Musée de l'Orangerie Laurence des Cars
+  will be in conversation with Rail board member Helen Lee and Rail Consulting
+  Editor Joachim Pissarro. We’ll conclude with a poetry reading from Isa Guzman.
 people:
   - person: laurence-des-cars
     event_bio: "Laurence des Cars is a curator and historian of French art and is a
       specialist on the art of the nineteenth century and early twentieth
-      century. She is the current President and Director of the Musée d'Orsay
-      and the Musée de l'Orangerie in Paris. She previously was the Director of
-      the Agence France-Muséums and was operator in charge of the development of
-      the Louvre Abu Dhabi. She has organized major exhibitions on Gustave
-      Courbet, Édouard Vuillard, Jean-Léon Gérôme, among others, and is the
-      author of numerous texts, including her book on the Pre-Raphaelites, Les
-      Préraphaélites : Un modernisme à l’anglaise. "
+      century. She is the current CEO of the Musée d'Orsay and the Musée de
+      l'Orangerie in Paris. She previously was the Director of the Agence
+      France-Muséums and was operator in charge of the development of the Louvre
+      Abu Dhabi. She has organized major exhibitions on Gustave Courbet, Édouard
+      Vuillard, Jean-Léon Gérôme, among others, and is the author of numerous
+      texts, including her book on the Pre-Raphaelites, Les Préraphaélites : Un
+      modernisme à l’anglaise. "
   - person: helen-lee
     event_bio: Helen Lee has had many roles in the art world, including collector,
       academic, art advisor, art book editor, and auction house specialist. She
