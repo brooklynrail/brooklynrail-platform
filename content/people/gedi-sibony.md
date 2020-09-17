@@ -12,5 +12,7 @@ short_bio: Gedi Sibony lives and works in Brooklyn, New York. In September,
   Other Arms, Contemporary Art Museum, St. Louis (2009); and In the Still
   Epiphany, a curatorial project at The Pulitzer Foundation for the Arts, St.
   Louis (2012).
+portraits:
+  - media: 2020/09/gedi-sibony
 website: https://www.greenenaftaligallery.com/artists/gedi-sibony/biography1
 ---
