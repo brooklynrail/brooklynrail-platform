@@ -6,17 +6,20 @@ summary: Artist Gedi Sibony will be in conversation with artist and Rail
 people:
   - person: gedi-sibony
     event_bio: >-
-      Gedi Sibony lives and works in Brooklyn, New York. In September, Greene
-      Naftali will present a solo exhibition of Sibony’s work, The Terrace
-      Theater, in New York. Recent solo exhibitions include The King and the
-      Corpse, Greene Naftali, New York (2018); Lemons and Grapefruit, Gladstone
-      Gallery, Brussels (2017); and Eröffnung, Meyer Kainer, Vienna (2017). His
-      recent solo institutional exhibitions include 55 Years, Douglas Hyde
-      Gallery, Trinity College, Dublin (2014); Culturgest, Lisbon (2011); My
-      Arms Are Tied Behind My Other Arms, Contemporary Art Museum, St. Louis
-      (2009); and In the Still Epiphany, a curatorial project at The Pulitzer
-      Foundation for the Arts, St. Louis (2012).
-       
+      Since the early 2000s, Gedi Sibony has used the discarded byproducts of
+      industrial production as the basis for exploring the interplay between
+      viewer, objects, and space. Partly as a corrective to the rise of
+      screen-dominated experiences and widespread optimism about the internet,
+      as well as the high-gloss production values and elaborate conceptual
+      frameworks of much contemporary art, Sibony's work emphasizes the
+      experience of encountering objects in carefully choreographed space. 
+
+
+      Sibony was born in New York City where his father, an immigrant from North Africa, worked as a contractor renovating apartments. Witnessing this process as a child, Sibony gained an appreciation for the elemental way in which objects and space interrelate to shape our environment. Sibony uses materials that are close to hand, such as scrap wood, art storage crates, found paintings, and the sides of disused semitrailer trucks, refashioning and recontextualizing them with an eye to the inherent provisionality of the symbolic order of things. Sibony's practice encompasses sculpture, installation, drawing and painting – often occupying the space between mediums, and between the readymade and the composed.
+
+
+      His work is in the collections of The Museum of Modern Art, New York; Solomon R. Guggenheim Museum, New York; Whitney Museum of American Art, New York; Museum of Contemporary Art, Chicago; The Museum of Contemporary Art, Los Angeles; San Francisco Museum of Modern Art; Carnegie Museum of Art, Pittsburgh; Walker Art Center, Minneapolis; Dallas Museum of Art, Texas; Pulitzer Foundation for the Arts, St. Louis; Hessel Museum of Art, Annandale-on-Hudson, New York; and Palm Springs Art Museum, California, among others. An exhibition of new work, titled The Terrace Theater, opens at Greene Naftali, New York on September 24, 2020.  
+
       His work is in the collections of Carnegie Museum of Art, Pittsburgh; Dallas Museum of Art, Texas; Solomon R. Guggenheim Museum, New York; Hessel Museum of Art, Annandale-on-Hudson, New York; Museum of Contemporary Art, Chicago; The Museum of Contemporary Art, Los Angeles, The Museum of Modern Art, New York; Pulitzer Foundation for the Arts, St. Louis; Palm Springs Art Museum, California; San Francisco Museum of Modern Art; Walker Art Center, Minneapolis; and the Whitney Museum of American Art, New York, among others.
   - person: yasi-alipour
     event_bio: "Yasi Alipour (Columbia University, MFA 2018) is an Iranian
