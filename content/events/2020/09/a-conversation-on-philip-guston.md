@@ -29,15 +29,15 @@ people:
       bibliography, as well as featuring an extensive chronology, scrapbook, and
       slideshows of diverse aspects of Guston’s art. "
   - person: sally-radic
-    event_bio: >+
-      Sally Radic is the Executive Director of the Guston Foundation. Alongside
-      Musa Mayer, she co-curated Philip Guston: Laughter in the Dark, Drawings
-      from 1971 & 1975, exhibited at Hauser & Wirth in New York and London.  
-
-
-
-
-
+    event_bio: "Sally Radic is the Executive Director of the Guston Foundation.
+      Alongside Musa Mayer, she co-curated Philip Guston: Laughter in the Dark,
+      Drawings from 1971 & 1975, exhibited at Hauser & Wirth in New York and
+      London. Prior to joining The Guston Foundation she worked at the Museo
+      Nacional Reina Sofia in Madrid (Spain), the Bancaja Foundation, in
+      Valencia, taught graduate classes at the University if Deusto in Bilbao,
+      the University of Jaume I in Castellon and curated exhibitions on the
+      works of Philip Guston, Eduardo Chillida, Sean Scully, Pablo Picasso, Otto
+      Dix, and Zoran Music. "
   - person: phong-h-bui
     event_bio: "Phong H. Bui is an artist, writer, independent curator, Publisher
       and Artistic Director of the Brooklyn Rail, the River Rail, Rail Editions,
