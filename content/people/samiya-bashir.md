@@ -10,5 +10,7 @@ short_bio: "Samiya Bashir’s books of poetry: Field Theories, Gospel, and Where
   text. Sometimes light. She lives in Portland, Ore, with a magic cat who shares
   her obsession with trees and blackbirds and occasionally crashes her classes
   and poetry salons at Reed College. "
+portraits:
+  - media: 2020/09/samiya-bashir
 website: https://samiyabashir.com/
 ---
