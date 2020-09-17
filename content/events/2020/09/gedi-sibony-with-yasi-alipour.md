@@ -24,6 +24,12 @@ people:
       paper, politics, and performance. She is a teacher at Columbia University
       and SVA and is currently a resident at the Sharpe Walentas Studio program.
       "
+poets:
+  - person: jared-stanley
+    event_bio: 'Jared Stanley is a poet from Northern California. Recent books
+      include "EARS" and "Shall." He is the recipient of the 2020-2021 Woodberry
+      Poetry Room Creative Fellowship. Jared teaches poetry and creative writing
+      at the University of Nevada, Reno, where he lives with his family. '
 date: 2020-09-22 13:00:00 -0500
 end_date: 2020-09-22 14:30:00 -0500
 series: 135
