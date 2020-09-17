@@ -2,7 +2,7 @@
 title: Joseph Kosuth with Tom McGlynn and Charlotte Kent
 summary: Conceptual artist, Joseph Kosuth will be in conversation with Rail
   Editor-at-Large, Tom McGlynn and visual culture theorist, Charlotte Kent.
-  We'll conclude with a poetry reading
+  We'll conclude with a poetry reading.
 people:
   - person: joseph-kosuth
     event_bio: >-
@@ -28,10 +28,10 @@ people:
       Whitney Museum, the Museum of Modern Art, and the Cooper-Hewitt National
       Design Museum of the Smithsonian. He is the director of Beautiful Fields,
       an organization dedicated to socially-engaged curatorial projects, and is
-      also currently a visiting lecturer at Parsons/the New School. Tom is a
-      contributor of the Brooklyn Rail.
+      also currently a visiting lecturer at Parsons/the New School. Tom is an
+      Editor-at-Large of the Brooklyn Rail.
   - person: charlotte-kent
-    event_bio: "CHARLOTTE KENT, PhD is Assistant Professor of Visual Culture in the
+    event_bio: "Charlotte Kent, PhD is Assistant Professor of Visual Culture in the
       Department of Art and Design at Montclair State University. She received
       her PhD in Comparative Literature (CUNY Graduate Center), with a
       certificate in critical theory. Her dissertation focused on the narratives
