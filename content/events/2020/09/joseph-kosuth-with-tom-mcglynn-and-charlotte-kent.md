@@ -53,6 +53,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-138-joseph-kosuth-tickets-121555041401
 event_platform:
   - zoom
 ---
