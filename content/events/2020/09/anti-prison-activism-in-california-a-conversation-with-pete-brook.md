@@ -23,6 +23,11 @@ people:
 
 
       Pete is an Editor and Writer for Vantage, the Medium photography blog. Pete lives in San Francisco, CA.
+poets:
+  - person: mona-kareem
+    event_bio: "Mona Kareem is the author of three poetry collections, and most
+      recently, the chapbook Femme Ghosts. She is currently a
+      Translator-in-Residence at Princeton University. "
 date: 2020-09-18 13:00:00 -0500
 end_date: 2020-09-18 14:30:00 -0500
 collections:
