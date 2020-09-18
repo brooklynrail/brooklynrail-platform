@@ -1,10 +1,10 @@
 ---
 title: "Anti-Prison Activism in California: A Conversation with Pete Brook"
 deck: Weekly conversations with activists, social justice practitioners, and
-  changemakers
-summary: Please join us for the fourth installment of Common Ground, featuring
-  James King, Colby Lenz, and Diana Block in conversation with Pete Brook for a
-  conversation on strategies for organizing against the carceral state.
+  changemakers.
+summary: Please join us for the fourth installment of Common Ground, featuring a
+  conversation with Pete Brook on strategies for organizing against the carceral
+  state.
 people:
   - person: pete-brook
     event_bio: >-
@@ -28,8 +28,9 @@ poets:
     event_bio: "Mona Kareem is the author of three poetry collections, and most
       recently, the chapbook Femme Ghosts. She is currently a
       Translator-in-Residence at Princeton University. "
-date: 2020-09-18 13:00:00 -0500
-end_date: 2020-09-18 14:30:00 -0500
+date: 2020-09-24 13:00:00 -0500
+end_date: 2020-09-24 14:30:00 -0500
+series: 4
 collections:
   - common-ground
 event_organizer:
