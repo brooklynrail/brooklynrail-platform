@@ -8,21 +8,14 @@ summary: Please join us for the fourth installment of Common Ground, featuring a
 people:
   - person: pete-brook
     event_bio: >-
-      Pete Brook is a freelance writer and curator interested in social justice
-      and the politics of visual culture. He writes and edits Prison
-      Photography, a website that analyzes imagery produced within, and about,
-      prisons, with a focus on the American prison industrial complex. Prison
-      Photography has been recognized as one of the best photography blogs by
-      LIFE.com, The British Journal of Photography and The Daily Beast.
+      Pete Brook is a writer and curator interested in social justice and the
+      politics of visual culture. He writes and edits Prison Photography, a
+      website that analyzes imagery produced within, and about, prisons, with a
+      focus on the American prison industrial complex. Prison Photography has
+      been recognized as one of the best photography blogs by LIFE.com, The
+      British Journal of Photography, and The Daily Beast.
 
-
-      Pete holds masters degrees in Art History (University of St Andrews) and Art Gallery and Museum Studies (University of Manchester). Among his artistic and activist pursuits, Pete has lectured internationally on the topic of photography, taught art in prisons, volunteered with Books To Prisoners and served as a board member with University Beyond Bars, a prison college education non-profit. His work has been featured by The New York Times, The British Journal of Photography, Kickstarter, Featureshoot, Seattle Weekly and Dvafoto.
-
-
-      He has curated multiple shows including, Non Sufficient Funds, Vermillion Gallery, Seattle, WA (Apr 2010); Cruel and Unusual, Noorderlicht Gallery, Holland (Feb-Apr 2012) which later traveled to Amsterdam, New York, Sydney and Ireland; The Depository Of Unwanted Photographs, Photoville, New York (Sept. 2013); Seen But Not Heard, Kulturni Centar Belgrada, Belgrade, Serbia (Dec, 2013); and Status Update, Catchlight/SOMArts (Nov, 2015).
-
-
-      Pete is an Editor and Writer for Vantage, the Medium photography blog. Pete lives in San Francisco, CA.
+       Pete has lectured internationally on the topic of photography, taught art in prisons, volunteered with Books To Prisoners and served as a board member with University Beyond Bars, a prison college education non-profit. His work has been featured by The New York Times, The British Journal of Photography, Kickstarter, Featureshoot, Seattle Weekly, and Dvafoto. He has curated multiple shows including, Non Sufficient Funds, Vermillion Gallery, Seattle, WA (Apr 2010); Cruel and Unusual, Noorderlicht Gallery, Holland (Feb-Apr 2012) which later traveled to Amsterdam, New York, Sydney and Ireland; The Depository Of Unwanted Photographs, Photoville, New York (Sept. 2013); Seen But Not Heard, Kulturni Centar Belgrada, Belgrade, Serbia (Dec, 2013); and Status Update, Catchlight/SOMArts (Nov, 2015). Pete is an editor and writer for Vantage and lives in San Francisco, CA..
 poets:
   - person: mona-kareem
     event_bio: "Mona Kareem is the author of three poetry collections, and most
