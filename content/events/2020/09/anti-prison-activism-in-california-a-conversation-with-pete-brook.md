@@ -16,8 +16,14 @@ event_producer:
 event_platform:
   - zoom
 ---
+
+
+{{< image media="2020/09/common-ground-header-graphic-dark-background" size="sm" >}}
+
 Please join us for the fourth installment of *Common Ground*, featuring **James King**, State Campaigner for the [Ella Baker Center for Human Rights](https://ellabakercenter.org/), **Colby Lenz**, legal advocate with the California Coalition for Women Prisoners, and cofounder and community organizer with *[Survived and Punished](https://survivedandpunished.org/)*, a national coalition dedicated to ending the criminalization of abuse victims, and **Diana Block**, founding member of [The California Coalition for Women Prisoners](https://womenprisoners.org/). They will be in conversation with **Pete Brook**, writer and social justice photographer behind *[Prison Photography](https://prisonphotography.org/).* 
 
 *for a conversation on anti-prison activism in California.* 
 
-{{< image media="2020/09/common-ground-header-graphic-dark-background" size="sm" >}}
+
+
+We will close with a reading by poet **Mona Kareem**.
