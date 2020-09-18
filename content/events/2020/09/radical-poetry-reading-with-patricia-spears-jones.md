@@ -87,6 +87,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: C--aRkgVLXQ
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-130-radical-poetry-with-patricia-spears-jones-tickets-120293636505
 event_platform:
   - zoom
