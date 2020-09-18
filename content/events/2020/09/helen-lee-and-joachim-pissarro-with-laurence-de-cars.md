@@ -1,19 +1,23 @@
 ---
 title: "Laurence des Cars with Helen Lee and Joachim Pissarro "
-summary: CEO of the Musée d'Orsay and Musée de l'Orangerie Laurence des Cars
-  will be in conversation with Rail board member Helen Lee and Rail Consulting
-  Editor Joachim Pissarro. We’ll conclude with a poetry reading from Isa Guzman.
+summary: President and CEO of the Musée d'Orsay and Musée de l'Orangerie
+  Laurence des Cars will be in conversation with Rail board member Helen Lee and
+  Rail Consulting Editor Joachim Pissarro. We’ll conclude with a poetry reading
+  from Isa Guzman.
 people:
   - person: laurence-des-cars
-    event_bio: "Laurence des Cars is a curator and historian of French art and is a
-      specialist on the art of the nineteenth century and early twentieth
-      century. She is the current CEO of the Musée d'Orsay and the Musée de
-      l'Orangerie in Paris. She previously was the Director of the Agence
-      France-Muséums and was operator in charge of the development of the Louvre
-      Abu Dhabi. She has organized major exhibitions on Gustave Courbet, Édouard
-      Vuillard, Jean-Léon Gérôme, among others, and is the author of numerous
-      texts, including her book on the Pre-Raphaelites, Les Préraphaélites : Un
-      modernisme à l’anglaise. "
+    event_bio: >-
+      Laurence des Cars (born in 1966) general heritage curator, was appointed
+      President of the Public Establishment of the Musée d’Orsay et de
+      l’Orangerie in March 2017 by the President of the French Republic, at the
+      proposal of the Minister of Culture.From 1994 to 2007, Laurence des Cars
+      was a curator at the musée d’Orsay, then from 2007 to 2014, she was
+      Scientific Director of Agence France-Muséums, the French operator in
+      charge of developing the Louvre Abu Dhabi. In January 2014, Laurence des
+      Cars was appointed Director of the Musée de l’Orangerie.
+
+
+      A specialist in 19th and early 20th century art, Laurence des Cars curated many exhibitions including Édouard Vuillard (Washington, National Gallery of Art; Montreal, Museum of Fine Arts; Paris, Galeries nationales du Grand Palais, London, Royal Academy of Art, 2003-2004); Gustave Courbet (Paris, Galeries nationales du Grand Palais; New York, The Metropolitan Museum of Art; Montpellier; Musée Fabre, 2007-2008); Jean-Léon Gérôme (Los Angeles, Getty Museum; Paris, Musée d’Orsay; Madrid, Museo Thyssen, 2010-2011); Louvre Abu Dhabi. Birth of a Museum (Paris, Musée du Louvre; Abu Dhabi, Saadiyat Al Manarat, 2014); Sade. Attacking the Sun (Paris, Musée d’Orsay, 2014-2015); Apollinaire. The Eyes of the Poet (Paris, Musée de l’Orangerie, 2016). Laurence des Cars is a Chevalier de la Légion d’Honneur, Chevalier of the National Order of Merit and Officer of Arts and Letters.
   - person: helen-lee
     event_bio: Helen Lee has had many roles in the art world, including collector,
       academic, art advisor, art book editor, and auction house specialist. She
