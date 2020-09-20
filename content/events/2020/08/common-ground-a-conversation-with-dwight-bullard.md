@@ -43,6 +43,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: YT22Bvw6nys
 registration_url: https://www.eventbrite.com/e/common-ground-1-a-conversation-with-dwight-m-bullard-tickets-118514099863
 event_platform:
   - zoom

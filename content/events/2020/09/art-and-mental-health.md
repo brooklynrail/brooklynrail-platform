@@ -8,14 +8,18 @@ summary: Join us for a conversation with Raphaël Koenig and Thomas Röske to
   Languell.
 people:
   - person: raphael-koenig
-    event_bio: Raphael Koenig is a postdoctoral Fellow at the Leonard A. Lauder
-      Research Center for Modern Art of the Metropolitan Museum of Art (NYC),
-      and a Research Associate at the Comparative Literature Department at
-      Harvard University, where he received his Ph.D. in November 2018. He is
-      also a graduate of the Ecole Normale Supérieure and the Sorbonne in Paris.
-      Raphael's research focuses on French, German, and Yiddish avant-garde
-      literature and visual culture, more specifically on the reception of the
-      so-called "art of the insane" from the early 1920s to the late 1940s.
+    event_bio: >-
+      Raphael Koenig is a Research Associate at the Comparative Literature
+      Department at Harvard University, and recently completed a postdoctoral
+      Fellowship at the Leonard A. Lauder Research Center for Modern Art of the
+      Metropolitan Museum of Art. He is also a graduate of the Ecole Normale
+      Supérieure and the Sorbonne in Paris. 
+
+
+      Raphael’s research focuses on French, German, and Yiddish avant-garde literature and visual culture, more specifically on the interplay between mental health and artistic creation, from the historical avant-gardes’ reception of the “art of the insane” and “art brut” to contemporary art therapy workshops. 
+
+
+      With Benny Shaffer, he co-curated Eye Eye Nose Mouth, an exhibition on art therapy workshops in China and Japan (Harvard University Asia Center, 2019). His collaboration with Arthur Fournier was featured at the 33rd Ljubljana Biennial of Graphic Arts (Crack up – Crack down, 2019, reviewed for the Brooklyn Rail by Osman Can Yerebekan).
   - person: thomas-roske
     event_bio: "Thomas Röske, Ph.D., is the Director of the Museum Prinzhorn
       Collection, University Hospital of Heidelberg since 2002 and the President
@@ -51,6 +55,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: jL1ApyK1Ra8
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-125-art-and-mental-health-tickets-119675969045
 event_platform:
   - zoom
