@@ -9,6 +9,6 @@ short_bio: is a freelance writer and curator interested in social justice and
   recognized as one of the best photography blogs by LIFE.com, The British
   Journal of Photography, and The Daily Beast.
 portraits:
-  - media: 2020/09/temporary-portrait-of-pete-brook-by-robert-gumpert-replace
+  - media: 2020/09/pete-brook-headshot-by-robert-gumbert
 website: https://prisonphotography.org/
 ---
