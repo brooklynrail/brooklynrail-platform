@@ -37,6 +37,8 @@ people:
     related_links:
       - url: https://www.ted.com/talks/courtney_rein_james_king_from_proximity_to_power
         text: "King's 2019 TEDx talk \"From Proximity to Power\" "
+      - text: The Ella Baker Center for Human Rights
+        url: https://ellabakercenter.org/about-us/
   - person: gregory-sale
     event_bio: >-
       As a socially-engaged artist, Gregory Sale brings together often opposed
