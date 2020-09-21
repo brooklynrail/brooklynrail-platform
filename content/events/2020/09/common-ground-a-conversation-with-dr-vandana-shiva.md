@@ -15,8 +15,8 @@ registration_url: https://www.eventbrite.com/e/common-ground-a-conversation-with
 event_platform:
   - zoom
 ---
-{{< image media="2020/09/common-ground-header-graphic-light-background" size="md" >}}
+{{< image media="2020/09/common-ground-header-graphic-dark-background" size="sm" >}}
 
-Please join us for the fourth installment of *Common Ground*, featuring a panel of prison activists in conversation with **Pete Brook**, writer and social justice curator behind *[Prison Photography](https://prisonphotography.org/)*, a curatorial project which analyzes the politics of visual culture and the American prison industrial complex.
+Please join us for the fifth installment of Common Ground, featuring a conversation on food sovereignty and Satyagraha with activist **Dr. Vandana Shiva** and artist **Lauren Bon**, on what will be Gandhi's 150th birthday.
 
-We will close with a reading by poet **Mona Kareem**.
+We will close with a poetry reading.
