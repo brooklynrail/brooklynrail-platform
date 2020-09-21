@@ -2,6 +2,43 @@
 title: "Common Ground: A Conversation with Dr. Vandana Shiva"
 summary: Weekly conversations with activists, social justice practitioners, and
   changemakers.
+people:
+  - person: dr-vandana-shiva
+    event_bio: Dr. Vandana Shiva is a world-renowned scholar and tireless crusader
+      for economic, food, and gender justice. Dr. Shiva was trained as a
+      physicist, and later shifted her focus to interdisciplinary research in
+      science, technology and environmental policy. In 1982, she founded an
+      independent institute, the Research Foundation for Science, Technology and
+      Ecology which was dedicated to high quality and independent research to
+      address the most significant ecological and social issues of our times in
+      close partnership with local communities and social movements. In 1991,
+      she founded Navdanya, a national movement to protect the diversity and
+      integrity of living resources, especially native seed, and to promote
+      organic farming and fair trade. In 2004, in collaboration with Schumacher
+      College, U.K., she started Bija Vidyapeeth (Earth University), an
+      international college for sustainable living in the Doon Valley in
+      Northern India. Time Magazine identified Dr. Shiva as an environmental
+      “hero” in 2003 and Asia Week has called her one of the five most powerful
+      communicators of Asia. Forbes magazine in November 2010 identified Dr.
+      Vandana Shiva as one of the top Seven most Powerful Women on the Globe.
+      Among her many awards are the Alternative Nobel Prize (Right Livelihood
+      Award, 1993), Order of the Golden Ark, the UN’s Global 500 Roll of Honour,
+      and The MIDORI Prize for Biodiversity in 2016.
+  - person: lauren-bon
+    event_bio: "Lauren Bon is an environmental artist from Los Angeles, CA. Her
+      practice, Metabolic Studio, explores self-sustaining and self-diversifying
+      systems of exchange that feed emergent properties that regenerate the life
+      web. Some of her works include: Not A Cornfield, which transformed and
+      revived an industrial brownfield in downtown Los Angeles into a
+      thirty-two-acre cornfield for one agricultural cycle; 100 Mules Walking
+      the Los Angeles Aqueduct, a 240-mile performative action that aimed to
+      reconnect the city of Los Angeles with the source of its water for the
+      centenary of the opening of the Los Angeles Aqueduct. Her studio’s current
+      work, Bending the River Back into the City, aims to utilize Los Angeles’
+      first private water right to deliver 106-acre feet of water annually from
+      the LA River to over 50 acres of land in the historic core of downtown LA.
+      This model can be replicated to regenerate the 52-mile LA River, reconnect
+      it to its floodplain and form a citizens’ utility."
 date: 2020-10-02 13:00:00 -0500
 end_date: 2020-10-02 14:30:00 -0500
 series: 5
