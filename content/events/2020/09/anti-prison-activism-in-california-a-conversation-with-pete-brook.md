@@ -37,6 +37,26 @@ people:
     related_links:
       - url: https://www.ted.com/talks/courtney_rein_james_king_from_proximity_to_power
         text: "King's 2019 TEDx talk \"From Proximity to Power\" "
+  - person: gregory-sale
+    event_bio: >-
+      As a socially-engaged artist, Gregory Sale brings together often opposed
+      constituencies of the criminal justice system. His aim is to soften and
+      collapse boundaries, thereby encouraging reciprocal dialogue and mutual
+      learning. A somewhat quieter but no less political component of his work
+      flirts with the fluid parameters of public and private love. Sale is now
+      collaborating with individuals who have conviction histories on a series
+      of projects that focus on changing the narrative of reentry. Rap Sheet to
+      Resume (2015-16) was created with the Urban Justice Center in New York. As
+      an embedded artist with the Anti-Recidivism Coalition, and in partnership
+      with National Parks Service and Golden Gate National Parks Conservancy, he
+      is currently developing Future IDs at Alcatraz (2018-19) for the iconic
+      prison turned National Park in San Francisco Bay.
+
+
+      His work has received support from Creative Capital Foundation, Art Matters, SPArt (Social Practice Art), A Blade of Grass/David Rockefeller Fund, and the Andy Warhol Foundation for the Visual Arts. He has been awarded prestigious artist residency at Headlands, Montalvo, Yaddo, MacDowell Colony, Ucross, and Centre d'Art Marnay. Based in Phoenix and in Los Angeles, Sale is Associate Professor of Intermedia and Public Practice at School of Art at Arizona State University. 
+    related_links:
+      - url: https://futureids.com/
+        text: Future IDs at Alcatraz
 poets:
   - person: mona-kareem
     event_bio: "Mona Kareem is the author of three poetry collections, and most
