@@ -20,6 +20,43 @@ people:
       for Crisis Reporting for his work teaching history of photography in San
       Quentin State Prison. Pete teaches at California State University,
       Sacramento.
+  - person: james-king
+    event_bio: >
+      James King is the State Campaigner for the Ella Baker Center for Human
+      Rights. Prior to joining the organization, James worked to build
+      recognition of the value of people who are being held in carceral spaces.
+      In 2016, he organized a symposium at San Quentin, where he and other
+      incarcerated students made specific policy recommendations concerning the
+      implementation of Prop 57. In attendance were the Secretary of the
+      California Department of Corrections and Rehabilitation, various officials
+      from the California Governor’s office, numerous social justice advocates,
+      and many of his incarcerated peers.
+
+
+      James is also a writer and organizer, having written numerous op-eds, and a weekly blog that gave a first person perspective of the true impact of mass criminalization and living within the prison industrial complex. As an organizer, he founded a think tank of incarcerated people who were passionate about criminal justice policy and built relationships with multiple California criminal justice reform organizations.
+    related_links:
+      - url: https://www.ted.com/talks/courtney_rein_james_king_from_proximity_to_power
+        text: "King's 2019 TEDx talk \"From Proximity to Power\" "
+  - person: gregory-sale
+    event_bio: >-
+      As a socially-engaged artist, Gregory Sale brings together often opposed
+      constituencies of the criminal justice system. His aim is to soften and
+      collapse boundaries, thereby encouraging reciprocal dialogue and mutual
+      learning. A somewhat quieter but no less political component of his work
+      flirts with the fluid parameters of public and private love. Sale is now
+      collaborating with individuals who have conviction histories on a series
+      of projects that focus on changing the narrative of reentry. Rap Sheet to
+      Resume (2015-16) was created with the Urban Justice Center in New York. As
+      an embedded artist with the Anti-Recidivism Coalition, and in partnership
+      with National Parks Service and Golden Gate National Parks Conservancy, he
+      is currently developing Future IDs at Alcatraz (2018-19) for the iconic
+      prison turned National Park in San Francisco Bay.
+
+
+      His work has received support from Creative Capital Foundation, Art Matters, SPArt (Social Practice Art), A Blade of Grass/David Rockefeller Fund, and the Andy Warhol Foundation for the Visual Arts. He has been awarded prestigious artist residency at Headlands, Montalvo, Yaddo, MacDowell Colony, Ucross, and Centre d'Art Marnay. Based in Phoenix and in Los Angeles, Sale is Associate Professor of Intermedia and Public Practice at School of Art at Arizona State University. 
+    related_links:
+      - url: https://futureids.com/
+        text: Future IDs at Alcatraz
 poets:
   - person: mona-kareem
     event_bio: "Mona Kareem is the author of three poetry collections, and most
@@ -38,8 +75,8 @@ registration_url: https://www.eventbrite.com/e/common-ground-anti-prison-activis
 event_platform:
   - zoom
 ---
-{{< image media="2020/09/common-ground-header-graphic-dark-background" size="sm" >}}
 
-Please join us for the fourth installment of *Common Ground*, featuring a panel of prison activists in conversation with **Pete Brook**, writer and social justice curator behind *[Prison Photography](https://prisonphotography.org/)*, a curatorial project which analyzes the politics of visual culture and the American prison industrial complex.
+
+Please join us for the fourth installment of *Common Ground*, featuring a panel with **James King**, State Campaigner for the Ella Baker Center for Human Rights in Oakland, CA, and **Gregory Sale**, whose art brings together often opposed constituencies of the criminal justice system, both in conversation with **Pete Brook**, writer and social justice curator behind *[Prison Photography](https://prisonphotography.org/)*, a curatorial project which analyzes the politics of visual culture and the American prison industrial complex.
 
 We will close with a reading by poet **Mona Kareem**.
