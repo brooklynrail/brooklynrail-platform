@@ -37,6 +37,20 @@ people:
     related_links:
       - url: https://www.ted.com/talks/courtney_rein_james_king_from_proximity_to_power
         text: "King's 2019 TEDx talk \"From Proximity to Power\" "
+      - text: The Ella Baker Center for Human Rights
+        url: https://ellabakercenter.org/about-us/
+  - person: emiliano-lopez
+    event_bio: Emiliano Lopez is a freelance software developer based in San
+      Francisco. Although given a life sentence, he was released from prison on
+      December 1, 2017. He collaborated with Gregory Sale among many others on
+      the "Future IDs at Alcatraz" project, where they conceptualized and and
+      led artmaking workshops across California to determine a future self both
+      inside prisons and in communities. A selection of ID-inspired artworks
+      produced through these workshops was enlarged and printed on vinyl for the
+      exhibition in the New Industries Building on Alcatraz.
+    related_links:
+      - text: Future IDs at Alcatraz
+        url: https://futureids.com/
   - person: gregory-sale
     event_bio: >-
       As a socially-engaged artist, Gregory Sale brings together often opposed
@@ -75,8 +89,6 @@ registration_url: https://www.eventbrite.com/e/common-ground-anti-prison-activis
 event_platform:
   - zoom
 ---
-
-
-Please join us for the fourth installment of *Common Ground*, featuring a panel with **James King**, State Campaigner for the Ella Baker Center for Human Rights in Oakland, CA, and **Gregory Sale**, whose art brings together often opposed constituencies of the criminal justice system, both in conversation with **Pete Brook**, writer and social justice curator behind *[Prison Photography](https://prisonphotography.org/)*, a curatorial project which analyzes the politics of visual culture and the American prison industrial complex.
+Please join us for the fourth installment of *Common Ground*, featuring a panel with **James King**, State Campaigner for the Ella Baker Center for Human Rights in Oakland, CA, and **Emiliano Lopez** and **Gregory Sale**, collaborators on the "Future IDs at Alcatraz" project, in conversation with **Pete Brook**, writer and social justice curator behind *[Prison Photography](https://prisonphotography.org/)*, a curatorial project which analyzes the politics of visual culture and the American prison industrial complex.
 
 We will close with a reading by poet **Mona Kareem**.
