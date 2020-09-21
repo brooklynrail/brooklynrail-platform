@@ -20,6 +20,23 @@ people:
       for Crisis Reporting for his work teaching history of photography in San
       Quentin State Prison. Pete teaches at California State University,
       Sacramento.
+  - person: james-king
+    event_bio: >
+      James King is the State Campaigner for the Ella Baker Center for Human
+      Rights. Prior to joining the organization, James worked to build
+      recognition of the value of people who are being held in carceral spaces.
+      In 2016, he organized a symposium at San Quentin, where he and other
+      incarcerated students made specific policy recommendations concerning the
+      implementation of Prop 57. In attendance were the Secretary of the
+      California Department of Corrections and Rehabilitation, various officials
+      from the California Governor’s office, numerous social justice advocates,
+      and many of his incarcerated peers.
+
+
+      James is also a writer and organizer, having written numerous op-eds, and a weekly blog that gave a first person perspective of the true impact of mass criminalization and living within the prison industrial complex. As an organizer, he founded a think tank of incarcerated people who were passionate about criminal justice policy and built relationships with multiple California criminal justice reform organizations.
+    related_links:
+      - url: https://www.ted.com/talks/courtney_rein_james_king_from_proximity_to_power
+        text: "King's 2019 TEDx talk \"From Proximity to Power\" "
 poets:
   - person: mona-kareem
     event_bio: "Mona Kareem is the author of three poetry collections, and most
