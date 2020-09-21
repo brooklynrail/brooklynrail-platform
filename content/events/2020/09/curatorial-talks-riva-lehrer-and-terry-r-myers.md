@@ -34,6 +34,5 @@ event_organizer:
 event_producer:
   - mana-contemporary
 registration_url: https://www.manacontemporary.com/event/curatorial-talks-riva-lehrer-and-terry-r-myers/
-event_platform:
-  - zoom
+event_platform: null
 ---
