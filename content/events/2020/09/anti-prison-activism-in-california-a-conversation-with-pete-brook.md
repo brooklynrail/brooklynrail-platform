@@ -75,8 +75,8 @@ registration_url: https://www.eventbrite.com/e/common-ground-anti-prison-activis
 event_platform:
   - zoom
 ---
-{{< image media="2020/09/common-ground-header-graphic-dark-background" size="sm" >}}
 
-Please join us for the fourth installment of *Common Ground*, featuring a panel of prison activists in conversation with **Pete Brook**, writer and social justice curator behind *[Prison Photography](https://prisonphotography.org/)*, a curatorial project which analyzes the politics of visual culture and the American prison industrial complex.
+
+Please join us for the fourth installment of *Common Ground*, featuring a panel with **James King**, State Campaigner for the Ella Baker Center for Human Rights in Oakland, CA, and **Gregory Sale**, whose art brings together often opposed constituencies of the criminal justice system, both in conversation with **Pete Brook**, writer and social justice curator behind *[Prison Photography](https://prisonphotography.org/)*, a curatorial project which analyzes the politics of visual culture and the American prison industrial complex.
 
 We will close with a reading by poet **Mona Kareem**.
