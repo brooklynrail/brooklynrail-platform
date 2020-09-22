@@ -2,9 +2,9 @@
 title: "Anti-Prison Activism in California: A Conversation with Pete Brook"
 deck: Weekly conversations with activists, social justice practitioners, and
   changemakers.
-summary: Please join us for the fourth installment of Common Ground, featuring a
-  conversation with Pete Brook on strategies for organizing against the carceral
-  state.
+summary: Please join us for the fourth installment of Common Ground, featuring
+  James King, Emiliano Lopez, and Gregory Sale in conversation with Pete Brook
+  on anti-prison activism in California
 people:
   - person: pete-brook
     event_bio: Pete Brook is a writer, curator and educator focused on prisons,
@@ -91,8 +91,6 @@ registration_url: https://www.eventbrite.com/e/common-ground-anti-prison-activis
 event_platform:
   - zoom
 ---
-Please join us for the fourth installment of *Common Ground*, featuring a panel with **James King**, State Campaigner for the Ella Baker Center for Human Rights in Oakland, CA, and **Emiliano Lopez** and **Gregory Sale**, collaborators on the "Future IDs at Alcatraz" project, in conversation with **Pete Brook**, writer and social justice curator behind *[Prison Photography](https://prisonphotography.org/)*, on the urgent campaigns, successful strategies, and ongoing fights to which grassroots organizers in the Golden State are committed.
+Please join us for our fourth installment of *Common Ground* featuring **James King**, State Campaigner for the Ella Baker Center for Human Rights, and **Emiliano Lopez** and **Gregory Sale**, collaborators behind *[Future IDs at Alcatraz](https://futureids.com/)*, an ongoing exhibition which uses ID-inspired artworks by a team of collaborators in the carceral system to translate the demand for criminal justice reform into stark visual language, to radically reframe the narrative of reentry, and to offer the possibility of alternative futures. They will be in conversation with **Pete Brook**, writer and social justice curator behind *[Prison Photography](https://prisonphotography.org/),* for a discussion on the urgent campaigns, successful strategies, and ongoing fights to which grassroots organizers in the Golden State are committed.
 
-
-
-We will close with a reading by poet **Mona Kareem**.
+**We will close with a reading by poet Mona Kareem.**
