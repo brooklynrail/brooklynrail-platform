@@ -91,8 +91,6 @@ registration_url: https://www.eventbrite.com/e/common-ground-anti-prison-activis
 event_platform:
   - zoom
 ---
-{{< image media="2020/09/common-ground-header-graphic-dark-background" size="xl" >}}
-
 Please join us for our fourth installment of *Common Ground* featuring **James King**, State Campaigner for the Ella Baker Center for Human Rights, and **Emiliano Lopez** and **Gregory Sale**, collaborators behind *[Future IDs at Alcatraz](https://futureids.com/)*, an ongoing exhibition which uses ID-inspired artworks by a team of collaborators in the carceral system to translate the demand for criminal justice reform into stark visual language, to radically reframe the narrative of reentry, and to offer the possibility of alternative futures. They will be in conversation with **Pete Brook**, writer and social justice curator behind *[Prison Photography](https://prisonphotography.org/),* for a discussion on the urgent campaigns, successful strategies, and ongoing fights to which grassroots organizers in the Golden State are committed.
 
-**We will close with a reading by poet Mona Kareem.**
+We will close with a reading by poet **Mona Kareem.**
