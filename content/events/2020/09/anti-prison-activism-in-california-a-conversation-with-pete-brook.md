@@ -40,14 +40,16 @@ people:
       - text: The Ella Baker Center for Human Rights
         url: https://ellabakercenter.org/about-us/
   - person: emiliano-lopez
-    event_bio: Emiliano Lopez is a freelance software developer based in San
-      Francisco. Although given a life sentence, he was released from prison on
-      December 1, 2017. He collaborated with Gregory Sale among many others on
-      the "Future IDs at Alcatraz" project, where they conceptualized and and
-      led artmaking workshops across California to determine a future self both
-      inside prisons and in communities. A selection of ID-inspired artworks
-      produced through these workshops was enlarged and printed on vinyl for the
-      exhibition in the New Industries Building on Alcatraz.
+    event_bio: >-
+      Emiliano Lopez is a justice advocate and artist based in Los Angeles, CA.
+      He currently serves as Communications and Advocacy for GRIP Training
+      Institute and facilitates the program at Avenal State Prison. Emiliano
+      previously worked as a placement coordinator for the Amity Foundation,
+      housing people coming out of incarceration, he served as program associate
+      for Defy Ventures and he is a member of the Anti-Recidivism Coalition. 
+
+
+      Emiliano has a passion for art and social justice. His artwork was included in Future IDs at Alcatraz (2018-2019), an exhibition about justice reform and second chances. He serves as a Future IDs artist collaborator and has assisted in the production of numerous cultural and media projects including: Future IDs at Alcatraz, We Rise, Unions for All Summit, and Childcare Celebration for Collective Bargaining.
     related_links:
       - text: Future IDs at Alcatraz
         url: https://futureids.com/
@@ -89,8 +91,6 @@ registration_url: https://www.eventbrite.com/e/common-ground-anti-prison-activis
 event_platform:
   - zoom
 ---
-Please join us for the fourth installment of *Common Ground*, featuring a panel with **James King**, State Campaigner for the Ella Baker Center for Human Rights in Oakland, CA, and **Emiliano Lopez** and **Gregory Sale**, collaborators on the "Future IDs at Alcatraz" project, in conversation with **Pete Brook**, writer and social justice curator behind *[Prison Photography](https://prisonphotography.org/)*, on the urgent campaigns, successful strategies, and ongoing fights to which grassroots organizers in the Golden State are committed.
-
-
+Please join us for the fourth installment of *Common Ground*, featuring a panel with **James King**, State Campaigner for the Ella Baker Center for Human Rights in Oakland, CA, and **Emiliano Lopez** and **Gregory Sale**, collaborators on the *Future IDs at Alcatraz* project, in conversation with **Pete Brook**, writer and social justice curator behind *[Prison Photography](https://prisonphotography.org/)*, on the urgent campaigns, successful strategies, and ongoing fights to which grassroots organizers in the Golden State are committed.
 
 We will close with a reading by poet **Mona Kareem**.
