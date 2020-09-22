@@ -1,5 +1,5 @@
 ---
-title: "Anti-Prison Activism in California: A Conversation with Pete Brook"
+title: Anti-Prison Activism in California
 deck: Weekly conversations with activists, social justice practitioners, and
   changemakers.
 summary: Please join us for the fourth installment of Common Ground, featuring
