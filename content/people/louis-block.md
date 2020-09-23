@@ -8,6 +8,6 @@ short_bio: Louis Block is a painter based in Brooklyn. His writing has appeared
 portraits:
   - media: 2020/09/louis-block
 rail_contributor_url: https://brooklynrail.org/contributor/Louis-Block
-website: https://louisblock.com
+website: https://louisblock.com/writing
 instagram: louisblock
 ---
