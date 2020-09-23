@@ -1,7 +1,7 @@
 ---
 title: Suzan Frecon with Joan Waltemath and Louis Block
-summary: Suzan Frecon with Joan Waltemath and Louis Block. We'll conclude with a
-  poetry reading from Pansy Maurer-Alvarez.
+summary: Suzan Frecon will be in conversation with Joan Waltemath and Louis
+  Block. We'll conclude with a poetry reading from Pansy Maurer-Alvarez.
 people:
   - person: suzan-frecon
     event_bio: >-
