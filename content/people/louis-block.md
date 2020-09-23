@@ -9,4 +9,5 @@ portraits:
   - media: 2020/09/louis-block
 rail_contributor_url: https://brooklynrail.org/contributor/Louis-Block
 website: https://louisblock.com
+instagram: louisblock
 ---
