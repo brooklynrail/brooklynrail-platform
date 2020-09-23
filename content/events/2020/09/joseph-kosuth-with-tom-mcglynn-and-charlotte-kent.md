@@ -2,7 +2,7 @@
 title: Joseph Kosuth with Tom McGlynn and Charlotte Kent
 summary: Conceptual artist, Joseph Kosuth will be in conversation with Rail
   Editor-at-Large, Tom McGlynn and visual culture theorist, Charlotte Kent.
-  We'll conclude with a poetry reading.
+  We'll conclude with a poetry reading from Kit Robinson.
 people:
   - person: joseph-kosuth
     event_bio: >-
