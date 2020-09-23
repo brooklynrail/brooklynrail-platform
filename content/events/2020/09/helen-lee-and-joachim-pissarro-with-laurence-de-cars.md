@@ -57,6 +57,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: 7c3KGtNyzZ0
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-133-laurence-des-cars-tickets-120605850345
 event_platform:
   - zoom
