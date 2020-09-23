@@ -34,6 +34,8 @@ people:
 
 
       Shown in New York, Chicago, Portland, Baltimore, London, Basel and Cologne, her work is in the collections of the Museum of Modern Art, the National Gallery of Art, the Hammer Museum and the Harvard University Art Museum, among others.  She has written extensively on art and served as editor-at-large of the Brooklyn Rail since 2001. She taught at the IS Chanin School of Architecture of the Cooper Union from 1997 to 2010 and Princeton University often between 2000-9. She is currently the Director of MICA’s LeRoy E. Hoffberger School of Painting.
+  - person: louis-block
+    event_bio: Louis Block is a painter based in Brooklyn.
 poets:
   - person: pansy-maurer-alvarez
     event_bio: Pansy Maurer-Alvarez was born in Puerto Rico and lives in Strasbourg.
