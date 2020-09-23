@@ -127,6 +127,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: AYwF6OC7euk
 registration_url: https://www.eventbrite.com/e/common-ground-maura-reilly-tickets-120606141215
 event_platform:
   - zoom
