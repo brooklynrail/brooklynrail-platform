@@ -2,7 +2,7 @@
 title: Susan Meiselas, Peter van Agtmael, and David Levi Strauss with Charles Schultz
 summary: Photographers and writers Susan Meiselas, Peter van Agtmael, and David
   Levi Strauss will be in conversation with Rail managing editor, Charles
-  Schultz. We'll conclude with a poetry reading.
+  Schultz. We'll conclude with a poetry reading from Andrei Codrescu.
 people:
   - person: susan-meiselas
     event_bio: Susan Meiselas has worked as a freelance photographer since 1976. She
@@ -49,6 +49,12 @@ people:
       images lose their connection to reality.⁠"
   - person: charles-schultz
     event_bio: "Charles Schultz is the Managing Editor of the Brooklyn Rail. "
+poets:
+  - person: andrei-codrescu
+    event_bio: Andrei Codrescu was born in Transylvania, Romania, reborn at age 19
+      in Detroit and New York. His first book of poetry was “License to Carry a
+      Gun," and most recently, “The Art of Forgetting.” He writes novels and
+      essays and won the Peabody award for the film “Road Scholar.”
 date: 2020-10-01 13:00:00 -0500
 end_date: 2020-10-01 14:00:00 -0500
 series: 142
