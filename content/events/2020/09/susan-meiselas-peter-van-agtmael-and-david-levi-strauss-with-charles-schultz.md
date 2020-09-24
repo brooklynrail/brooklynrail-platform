@@ -2,7 +2,7 @@
 title: Susan Meiselas, Peter van Agtmael, and David Levi Strauss with Charles Schultz
 summary: Photographers and writers Susan Meiselas, Peter van Agtmael, and David
   Levi Strauss will be in conversation with Rail managing editor, Charles
-  Schultz.
+  Schultz. We'll conclude with a poetry reading.
 people:
   - person: susan-meiselas
     event_bio: Susan Meiselas has worked as a freelance photographer since 1976. She
