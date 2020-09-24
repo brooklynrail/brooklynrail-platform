@@ -58,6 +58,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/new-social-environment-142-susan-meiselaspeter-agtmaeldavid-levi-strauss-tickets-122613268587
 event_platform:
   - zoom
 ---
