@@ -47,6 +47,8 @@ people:
       for Wendy's Subway, and an artist-in-residence at Rauschenberg Residency,
       she is currently based in New York City where she is Young Mother of The
       Florxal Review."
+  - person: eddie
+    event_bio: Eddie is a poet and performer.
 date: 2020-09-30 13:00:00 -0500
 end_date: 2020-09-30 14:00:00 -0500
 series: 140
