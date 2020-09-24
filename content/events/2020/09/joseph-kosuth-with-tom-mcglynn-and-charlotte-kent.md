@@ -44,6 +44,19 @@ people:
       articles as well as monthly column for Artists Magazine. In 2019-2020, she
       was the Guest Editor for the Creative Research Center, producing a series
       of posts on the topic of Collaboration. "
+poets:
+  - person: kit-robinson
+    event_bio: Kit Robinson is a poet, writer and musician. He's the author of
+      "Thought Balloon," "Leaves of Class," "Marine Layer," and 20 other books
+      of poetry. His essays appear on Jacket2, Open Space and Nowhere. He plays
+      Cuban tres guitar in a charanga band called Calle Ocho.
+    related_links:
+      - url: https://www.poetryfoundation.org/poets/kit-robinson-56d2070387548
+        text: Kit Robinson on the Poetry Foundation
+      - url: https://writing.upenn.edu/pennsound/x/Robinson.php
+        text: Kit Robinson on Pennsound
+      - text: Kit Robinson on SF MoMA
+        url: https://openspace.sfmoma.org/author/kitrobinson/
 date: 2020-09-25 13:00:00 -0500
 end_date: 2020-09-25 14:30:00 -0500
 series: 138
