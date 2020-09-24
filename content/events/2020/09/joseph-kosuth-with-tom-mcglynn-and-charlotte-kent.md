@@ -55,7 +55,7 @@ poets:
         text: Kit Robinson on the Poetry Foundation
       - url: https://writing.upenn.edu/pennsound/x/Robinson.php
         text: Kit Robinson on Pennsound
-      - text: Kit Robinson at SF MoMA
+      - text: Kit Robinson on SF MoMA
         url: https://openspace.sfmoma.org/author/kitrobinson/
 date: 2020-09-25 13:00:00 -0500
 end_date: 2020-09-25 14:30:00 -0500
