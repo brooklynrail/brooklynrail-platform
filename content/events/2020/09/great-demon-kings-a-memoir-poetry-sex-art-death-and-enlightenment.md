@@ -10,6 +10,8 @@ collections: []
 event_organizer: []
 event_producer:
   - john-giorno-foundation
+  - karma-books
+  - farrar-straus-giroux
 event_platform:
   - instagram_live
 event_platform_url: https://www.instagram.com/giornofoundation/
