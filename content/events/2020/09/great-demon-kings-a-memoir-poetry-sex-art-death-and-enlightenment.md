@@ -22,4 +22,8 @@ event_platform_url: https://www.instagram.com/giornofoundation/
 ---
 {{< image media="2020/09/john-giorno-giorno-foundation-event-card" size="xl" >}}
 
-With appearances from: **Phong H. Bui**, **Laura Hoptman**, **Penny Arcade**, **Alisabeth Kley**, **Precious Okoyomon**, **Jameson Fitzpatrick**, and **Lee Ranaldo**, among others.
+With appearances by: **Phong H. Bui**, **Laura Hoptman**, **Penny Arcade**, **Alisabeth Kley**, **Precious Okoyomon**, **Jameson Fitzpatrick**, and **Lee Ranaldo**, among others.
+
+
+
+Available on LIVESTREAM: @GiornoFoundation and @KarmaBookstore
