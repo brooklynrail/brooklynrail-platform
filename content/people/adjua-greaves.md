@@ -12,7 +12,7 @@ short_bio: "Adjua Gargi Nzinga Greaves (New York City, b. 1980) writes
   artist-in-residence at Rauschenberg Residency, she is currently based in New
   York City where she is Young Mother of The Florxal Review."
 portraits:
-  - media: 2020/07/adjua-greaves-headshot
+  - media: 2020/09/adjua-gargi-nzinga-greaves
 rail_contributor_url: https://brooklynrail.org/contributor/Adjua-Gargi-Nzinga-Greaves
 instagram: terrabot
 ---
