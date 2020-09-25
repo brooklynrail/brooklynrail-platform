@@ -7,7 +7,11 @@ summary: 'Please join Karma Books, Farrar Straus & Giroux, and the John Giorno
 date: 2020-10-01 18:00:00 -0500
 end_date: 2020-10-01 20:00:00 -0500
 collections: []
-event_organizer: []
+event_sponsor: []
+event_organizer:
+  - john-giorno-foundation
+  - karma-books
+  - farrar-straus-giroux
 event_producer:
   - john-giorno-foundation
   - karma-books
