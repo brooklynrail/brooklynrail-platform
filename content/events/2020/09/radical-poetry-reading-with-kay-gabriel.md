@@ -35,13 +35,13 @@ people:
   - person: wendy-trevino
     event_bio: Wendy Trevino was born and raised in the Rio Grande Valley of South
       Texas. She lives in San Francisco, where she shares an apartment with her
-      boyfriend, friend & two senior cats. She has published chapbooks with
-      Perfect Lovers Press, Commune Editions and Krupskaya Books. Brazilian no
-      es una raza, a bilingual edition of the chapbook she published with
-      Commune Editions, was published by the feminist Mexican press Enjambre
-      Literario in July 2018. Her first book-length collection of poems, Cruel
-      Fiction, was published by Commune Editions in September 2018. Wendy is not
-      an experimental writer.
+      boyfriend, friend & two cats. She has published chapbooks with Perfect
+      Lovers Press, Commune Editions and Krupskaya Books. Brazilian no es una
+      raza - a bilingual edition of the chapbook she published with Commune
+      Editions - was published by the feminist Mexican press Enjambre Literario
+      in July 2018. Her first book-length collection of poems Cruel Work was
+      published by Commune Editions in September 2018. Wendy is not an
+      experimental writer.
   - person: adjua-greaves
     event_bio: "Adjua Gargi Nzinga Greaves (New York City, b. 1980) writes
       ethnobotanical literary criticism and collages detritus into heraldic
