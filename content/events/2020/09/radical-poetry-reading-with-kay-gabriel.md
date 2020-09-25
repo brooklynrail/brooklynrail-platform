@@ -14,8 +14,11 @@ people:
       Poetics (Nightboat, 2020). Kay is a member of the editorial collective for
       the Poetry Project Newsletter. "
   - person: dagan-brown
-    event_bio: Dagan Brown has reviewed poetry for The Poetry Project Newsletter and
+    event_bio: >+
+      Dagan Brown has reviewed poetry for The Poetry Project Newsletter and
       currently writes poems in Baltimore.
+
+
   - person: amy-death
     event_bio: "Amy De’Ath has published a number of chapbooks, including ON MY LOVE
       FOR gender abolition (Capricious, NY) and Lower Parallel (Barque Press).
@@ -24,8 +27,11 @@ people:
       finishing a short book called Anti-Social Reproduction. She teaches
       contemporary literature, culture and theory at King’s College London."
   - person: brendan-joyce
-    event_bio: Brendan Joyce is an unemployed worker, the co-organizer of Grieveland
-      and the author of Character Limit and Love & Solidarity.
+    event_bio: >+
+      Brendan Joyce is an unemployed worker, the co-organizer of Grieveland and
+      the author of Character Limit and Love & Solidarity.
+
+
   - person: wendy-trevino
     event_bio: Wendy Trevino was born and raised in the Rio Grande Valley of South
       Texas. She lives in San Francisco, where she shares an apartment with her
