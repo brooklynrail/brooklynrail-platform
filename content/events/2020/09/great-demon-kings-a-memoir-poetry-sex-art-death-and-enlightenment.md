@@ -1,5 +1,5 @@
 ---
-title: "Great Demon Kings: A Memoir Poetry, Sex, Art, Death, and Enlightenment"
+title: "Great Demon Kings: A Memoir of Poetry, Sex, Art, Death, and Enlightenment"
 deck: John Giorno
 summary: 'Please join Karma Books, Farrar Straus & Giroux, and the John Giorno
   Foundation to celebrate "Great Demon Kings: A Memoir of Poetry, Sex, Art,
