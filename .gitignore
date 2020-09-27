@@ -2,6 +2,7 @@ node_modules/
 /public/
 /resources/
 themes/brooklynrail/static/material/dist/
+themes/brooklynrail/static/material/dist/uswds/
 themes/brooklynrail/static/material/fonts/merriweather/
 themes/brooklynrail/static/material/fonts/source-sans-pro/
 
