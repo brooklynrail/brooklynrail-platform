@@ -1,0 +1,32 @@
+
+.header{
+    @include u-padding-top(15);
+    @include u-padding-bottom(0);
+}
+main{
+    @include u-padding-y(8);
+    @include u-margin-bottom(10);
+    @include at-media('tablet-lg') {
+        @include u-padding-y(10);
+        @include u-margin-bottom(15);
+    }
+    header{
+        @include u-margin-y(0);    
+    }
+}
+.content{
+    @include u-padding-y(8);
+    @include at-media('tablet-lg') {
+        @include u-padding-y(10);
+    }
+    @include u-border-y(1,'solid', 'black');
+    > p{
+        @include u-font('sans', 'md');
+        @include u-text('normal');
+        @include u-line-height('sans', 3);
+        @include at-media('tablet-lg') {
+            @include u-font('sans', 'xl');
+            @include u-text('light');
+        }
+    }
+}
