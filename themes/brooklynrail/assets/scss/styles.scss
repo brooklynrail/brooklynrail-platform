@@ -68,34 +68,41 @@
 // -------------------------------------
 // Import theme custom styles
 
-// @import "uswds-theme-custom-styles";
 
+// Paper — the background color of the page
+@import "paper";
+@import "common";
+@import "content";
+@import "info";
 
-@import "paper";              // The background of the Page
+// Media -- commmon styles for images and embedded media
+@import "media";
 
-@import "common";             // Common type styles
-@import "content";            // Content type styles
-@import "info";               // Content type styles
+// Header -- site-wide header styles
+@import "header";
 
-@import "media";            // Content type styles
+// Main Nav -- site-wide navigation styles
+@import "main-nav";
 
-@import "header";             // Site-wide header
-@import "handbook";             // Site-wide header
-@import "main-nav";           // Site-wide navigation
+// Footer -- site-wide footer styles
+@import "footer";
 
-@import "footer";             // Site-wide Footer
+// Donate page
+@import "donation";
 
-@import "donation";             // events
-@import "events";             // events
-@import "event";              // event page
-@import "stage-youtube";      // stage-youtube
+// Events
+@import "events";
+@import "event";
+@import "stage-youtube";
 @import "youtube-card";
 @import "youtube-player";
 
-// Cards
+// Event cards
 @import "cards/card-event";
 @import "cards/card-event-past";
 
-
 // Shortcodes
 @import "shortcodes/donate";
+
+// Handbook
+@import "handbook";
