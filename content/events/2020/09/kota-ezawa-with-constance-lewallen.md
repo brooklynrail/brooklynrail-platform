@@ -48,6 +48,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: yjI077-QrXE
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-139-kota-ezawa-tickets-122578007119
 event_platform:
   - zoom
