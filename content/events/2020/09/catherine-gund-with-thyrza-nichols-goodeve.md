@@ -26,12 +26,19 @@ people:
       She currently teaches several graduate programs at SVA and is spending her
       time in quarantine learning to embroider. From 2017 to 2019 she was the
       Senior Art Editor at the Rail, and she is now an Editor-at-Large.
-poets: []
-date: 2020-09-30 14:27:00 -0500
-end_date: 2020-09-30 14:27:00 -0500
+poets:
+  - person: trevor-ketnor
+    event_bio: Trevor Ketner is the author of "White," a National Poetry
+      Series-winner and has been published in The Academy of American Poets'
+      Poem-a-Day and New England Review, among many others. They hold an MFA
+      from University of Minnesota and live in Manhattan with their husband.
+date: 2020-10-05 13:00:00 -0500
+end_date: 2020-10-05 14:00:00 -0500
 series: 144
 collections:
   - the-new-social-environment
+event_sponsor:
+  - dermot-comany
 event_organizer:
   - the-brooklyn-rail
 event_producer:
