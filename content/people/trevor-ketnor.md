@@ -1,7 +1,7 @@
 ---
-name: Trevor Ketnor
+name: Trevor Ketner
 first_name: Trevor
-last_name: Ketnor
+last_name: Ketner
 pronouns: they/them
 short_bio: Trevor Ketner is the author of 2020 National Poetry Series-winner
   [WHITE] (University of Georgia Press, 2021). They have been published in The
@@ -12,4 +12,7 @@ short_bio: Trevor Ketner is the author of 2020 National Poetry Series-winner
   Minnesota and live in Manhattan with their husband.
 portraits:
   - media: 2020/09/trevor-ketnor
+website: http://trevorketner.com/
+instagram: TKetner
+twitter: TKetner
 ---
