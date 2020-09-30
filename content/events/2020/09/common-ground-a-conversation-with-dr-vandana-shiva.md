@@ -52,8 +52,28 @@ registration_url: https://www.eventbrite.com/e/common-ground-a-conversation-with
 event_platform:
   - zoom
 ---
-{{< image media="2020/09/common-ground-header-graphic-dark-background" size="sm" >}}
+{{< image media="2020/09/common-ground-header-graphic-dark-background" size="lg" >}}
 
-Please join us for the fifth installment of Common Ground, featuring a conversation on food sovereignty and Satyagraha with activist **Dr. Vandana Shiva** and artist **Lauren Bon**, on what will be Gandhi's 150th birthday.
+Please join us for our fifth installment of *Common Ground* for a conversation on ecological resilience, food sovereignty, environmental stewardship, and soil-building and seed-saving as crucial acts of resistance. We will be joined by **Dr. Vandana Shiva**, environmental activist and scholar, in conversation with **Nance Klehm**, Chicago-based ecological systems designer and permaculture grower, and our friends at [Metabolic Studio](https://www.metabolicstudio.org/about), environmental artist **Lauren Bon** and regenerative urban grower **Milli Macen-Moore**. 
 
-We will close with a poetry reading.
+
+
+environmental activist and scholar **Dr. Vandana Shiva**, in conversation with Nance Klehm, 
+
+
+
+ ecological resilience, food sovereignty, and stewardship 
+
+an update from our friends at Metabolic Studios and beyond on food sovereignty, featuring environmental activist and food sovereignty advocate **Dr. Vandana Shiva**, in conversation with **Nance Klehm**, Chicago-based ecological systems designer and permaculture grower, and our friends at Metabolic Studio, environmental artist **Lauren Bon** and regenerative urban grower **Milli Macen-Moore**. 
+
+steward of the earth. She is an ecological systems designer, landscaper, horticultural consultant, and permacultural grower,
+
+with our friends at Metabolic Studio, environmental artist **Lauren Bon** and regenerative urban grower **Milli Macen-Moore** 
+
+updates from our friends at Metabolic Studio, networks of Satyagraha Gardens, food sovereignty, seed collecting, seed saving, and seed planting as acts of resistance. 
+
+**Milli Macen-Moore is a regenerative urban grower and a steward of the environment.**
+
+on food sovereignty and Satyagraha with activist **Dr. Vandana Shiva** and artist **Lauren Bon**, on what will be Gandhi's 150th birthday.
+
+We will close with a reading by Afghan American poet **Zohra Saed**.
