@@ -1,10 +1,10 @@
 ---
 title: Radical Poetry Reading with Kay Gabriel
 deck: Featuring political poetry read by Dagan Brown, Amy De'Ath, Brendan Joyce,
-  Wendy Trevino, Adjua Gargi Nzinga Greaves, and Eddie.
+  Wendy Trevino, and Adjua Gargi Nzinga Greaves.
 summary: Poet Kay Gabriel curates the seventh installment of Radical Poetry
-  Readings, featuring Dagan Brown, Amy De'Ath, Brendan Joyce, Wendy Trevino,
-  Adjua Gargi Nzinga Greaves, and Eddie.
+  Readings, featuring Dagan Brown, Amy De'Ath, Brendan Joyce, Wendy Trevino, and
+  Adjua Gargi Nzinga Greaves.
 people:
   - person: kay-gabriel
     event_bio: "Kay Gabriel is a poet and essayist. She's the author of Kissing
@@ -53,11 +53,9 @@ people:
       for Wendy's Subway, and an artist-in-residence at Rauschenberg Residency,
       she is currently based in New York City where she is Young Mother of The
       Florxal Review."
-  - person: eddie
-    event_bio: Eddie is a poet and performer.
 date: 2020-09-30 13:00:00 -0500
 end_date: 2020-09-30 14:00:00 -0500
-series: 140
+series: 141
 collections:
   - the-new-social-environment
 event_organizer:
