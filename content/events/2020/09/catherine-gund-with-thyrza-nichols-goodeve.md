@@ -1,7 +1,8 @@
 ---
 title: Catherine Gund with Thyrza Nichols Goodeve
-summary: Catherine Gund with Thyrza Nichols Goodeve. We'll conclude with a
-  poetry reading from Trevor Ketner.
+summary: " Producer, director, writer, and activist Catherine Gund will be in
+  conversation with Rail Editor-at-Large Thyrza Nichols Goodeve. We'll conclude
+  with a poetry reading from Trevor Ketner."
 people:
   - person: catherine-gund
     event_bio: >-
