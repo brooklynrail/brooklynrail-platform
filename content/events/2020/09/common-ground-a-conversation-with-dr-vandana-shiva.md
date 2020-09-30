@@ -1,5 +1,6 @@
 ---
-title: "Common Ground: A Conversation with Dr. Vandana Shiva"
+title: "Common Ground: Seeds of Resistance with Metabolic Studio and Dr. Vandana
+  Shiva"
 summary: Weekly conversations with activists, social justice practitioners, and
   changemakers.
 people:
@@ -55,20 +56,6 @@ event_platform:
 {{< image media="2020/09/common-ground-header-graphic-dark-background" size="lg" >}}
 
 Please join us for our fifth installment of *Common Ground* for a conversation on ecological resilience, food sovereignty, environmental stewardship, and soil-building and seed-saving as crucial acts of resistance. We will be joined by **Dr. Vandana Shiva**, environmental activist and scholar, in conversation with **Nance Klehm**, Chicago-based ecological systems designer and permaculture grower, and our friends at [Metabolic Studio](https://www.metabolicstudio.org/about), environmental artist **Lauren Bon** and regenerative urban grower **Milli Macen-Moore**. 
-
-
-
-environmental activist and scholar **Dr. Vandana Shiva**, in conversation with Nance Klehm, 
-
-
-
- ecological resilience, food sovereignty, and stewardship 
-
-an update from our friends at Metabolic Studios and beyond on food sovereignty, featuring environmental activist and food sovereignty advocate **Dr. Vandana Shiva**, in conversation with **Nance Klehm**, Chicago-based ecological systems designer and permaculture grower, and our friends at Metabolic Studio, environmental artist **Lauren Bon** and regenerative urban grower **Milli Macen-Moore**. 
-
-steward of the earth. She is an ecological systems designer, landscaper, horticultural consultant, and permacultural grower,
-
-with our friends at Metabolic Studio, environmental artist **Lauren Bon** and regenerative urban grower **Milli Macen-Moore** 
 
 updates from our friends at Metabolic Studio, networks of Satyagraha Gardens, food sovereignty, seed collecting, seed saving, and seed planting as acts of resistance. 
 
