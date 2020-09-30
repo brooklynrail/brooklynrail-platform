@@ -1,6 +1,7 @@
 ---
 title: "Common Ground: Seeds of Resistance with Metabolic Studio and Dr. Vandana
   Shiva"
+deck: A conversation with Metabolic Studio, Dr. Vandana Shiva, and Nance Klehm
 summary: Weekly conversations with activists, social justice practitioners, and
   changemakers.
 people:
