@@ -44,6 +44,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-144-catherine-gund-tickets-123384112201
 event_platform:
   - zoom
 ---
