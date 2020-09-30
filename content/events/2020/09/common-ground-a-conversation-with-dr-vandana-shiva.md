@@ -56,9 +56,16 @@ event_platform:
 ---
 {{< image media="2020/09/common-ground-header-graphic-dark-background" size="lg" >}}
 
-Please join us for our fifth installment of *Common Ground* for a conversation on ecological resilience, food sovereignty, environmental stewardship, and soil-building and seed-saving as crucial acts of resistance. We will be joined by **Dr. Vandana Shiva**, environmental activist and scholar, in conversation with **Nance Klehm**, Chicago-based ecological systems designer and permaculture grower, and our friends at [Metabolic Studio](https://www.metabolicstudio.org/about), environmental artist **Lauren Bon** and regenerative urban grower **Milli Macen-Moore**. 
+Please join us for our fifth installment of *Common Ground* for a conversation on ecological resilience, food sovereignty, environmental stewardship, and soil-building and seed-saving as crucial acts of resistance. We will be joined by environmental activist and scholar **Dr. Vandana Shiva**, in conversation with **Nance Klehm**, Chicago-based ecological systems designer and permaculture grower, and our friends at [Metabolic Studio](https://www.metabolicstudio.org/about), environmental artist **Lauren Bon** and regenerative urban grower **Milli Macen-Moore**. 
 
 updates from our friends at Metabolic Studio, networks of Satyagraha Gardens, food sovereignty, seed collecting, seed saving, and seed planting as acts of resistance. 
+
+
+
+How to acknowledge a second conversation in a year.
+
+**\
+What Lauren would love to hear, and have us moderate, is to help with institutional memory ourselves: i.e: “This is Brooklyn Rail’s 100th conversation in 170 days. It’s impossible to remember everything we’ve done, and it’s extraordinary to remember everything that’s happened in this time where every week it seems there is a new catastrophe happening, so let us contextualize”**
 
 **Milli Macen-Moore is a regenerative urban grower and a steward of the environment.**
 
