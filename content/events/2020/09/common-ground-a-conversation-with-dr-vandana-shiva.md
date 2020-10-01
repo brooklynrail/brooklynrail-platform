@@ -60,8 +60,6 @@ Please join us for our fifth installment of *Common Ground* for a conversation o
 
 updates from our friends at Metabolic Studio, networks of Satyagraha Gardens, food sovereignty, seed collecting, seed saving, and seed planting as acts of resistance. 
 
-
-
 How to acknowledge a second conversation in a year.
 
 **\
