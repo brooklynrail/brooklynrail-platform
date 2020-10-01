@@ -41,6 +41,16 @@ people:
       the LA River to over 50 acres of land in the historic core of downtown LA.
       This model can be replicated to regenerate the 52-mile LA River, reconnect
       it to its floodplain and form a citizens’ utility."
+  - person: nance-klehm
+    event_bio: "Nance Klehm’s work and being lies at the complex intersections of
+      the theory and practice of land politics and soil health. Her work as a
+      communicator, translator, curator, provocateur, and medium is
+      internationally recognized in communities of practice ranging from
+      publishing to fine art, environmental justice activism to philosophy,
+      growing to podcasting. She lives her work—she writes, facilitates,
+      lectures, teaches, consults, makes, and does. She marries these two sets
+      of practice under two organizing structures: Spontaneous Vegetation and
+      Social Ecologies."
 date: 2020-10-02 13:00:00 -0500
 end_date: 2020-10-02 14:30:00 -0500
 series: 5
