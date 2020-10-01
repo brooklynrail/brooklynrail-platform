@@ -2,8 +2,9 @@
 title: "Seeds of Resistance: A Conversation with Dr. Vandana Shiva, Metabolic
   Studio, and Nancy Klehm"
 deck: A conversation with Dr. Vandana Shiva, Metabolic Studio, and and Nance Klehm
-summary: Weekly conversations with activists, social justice practitioners, and
-  changemakers.
+summary: Please join us for our fifth installment of Common Ground, where Dr.
+  Vandana Shiva, Lauren Bon, Milli Macen-Moore, and Nance Klehm will share
+  reflections on their relationship to seed
 people:
   - person: dr-vandana-shiva
     event_bio: Dr. Vandana Shiva is a world-renowned scholar and tireless crusader
