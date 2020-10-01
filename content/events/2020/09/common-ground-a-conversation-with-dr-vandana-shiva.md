@@ -80,7 +80,9 @@ event_platform:
 ---
 {{< image media="2020/09/common-ground-header-graphic-dark-background" size="lg" >}}
 
-Please join us for our fifth installment of *Common Ground* for a conversation on ecological resilience, food sovereignty, environmental stewardship, and soil-building and seed-saving as crucial acts of resistance. We will be joined by environmental activist and scholar **Dr. Vandana Shiva**, in conversation with **Nance Klehm**, Chicago-based ecological systems designer and permaculture grower, and our friends at [Metabolic Studio](https://www.metabolicstudio.org/about), environmental artist **Lauren Bon** and regenerative urban grower **Milli Macen-Moore**. 
+Please join us for our fifth installment of *Common Ground* as we partner with our friends at Metabolic Studio for a conversation on ecological resilience, food sovereignty, environmental stewardship and soil-building and seed-saving as crucial acts of resistance. We will be joined by environmental activist and physicist **Dr. Vandana Shiva**, in conversation with **Lauren Bon**, environmental artist and captain of the Metabolic Studio, **Nance Klehm**, Chicago-based ecological systems designer and permaculture grower, and Milli Macen-Moore, regenerative urban grower and director of Metabolic's [*Farmlab* program](https://www.metabolicstudio.org/tags/farmlab) which works to combat climate change and mass extinction through the study of living systems. 
+
+for a conversation on ecological resilience, food sovereignty, environmental stewardship, and soil-building and seed-saving as crucial acts of resistance. We will be joined by environmental activist and scholar **Dr. Vandana Shiva**, in conversation with **Nance Klehm**, Chicago-based ecological systems designer and permaculture grower, and our friends at [Metabolic Studio](https://www.metabolicstudio.org/about), environmental artist **Lauren Bon** and regenerative urban grower **Milli Macen-Moore**. 
 
 updates from our friends at Metabolic Studio, networks of Satyagraha Gardens, food sovereignty, seed collecting, seed saving, and seed planting as acts of resistance. 
 
@@ -94,3 +96,11 @@ What Lauren would love to hear, and have us moderate, is to help with institutio
 on food sovereignty and Satyagraha with activist **Dr. Vandana Shiva** and artist **Lauren Bon**, on what will be Gandhi's 150th birthday.
 
 We will close with a reading by Afghan American poet **Zohra Saed**.
+
+
+
+### About Metabolic Studio’s Interdependence Salons
+
+> *“You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete.”* — Buckminster Fuller
+
+A declaration of interdependence must be followed by a practice of interdependence. Achieving this interdependence takes both seeing and doing, both vision and action. A new collective vision is needed, centered and prioritized around the common good and community. [Learn more »](https://www.metabolicstudio.org/about)
