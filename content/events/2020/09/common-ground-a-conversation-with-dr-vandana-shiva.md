@@ -1,5 +1,6 @@
 ---
-title: "Common Ground: Seeds of Resistance"
+title: "Seeds of Resistance: A Conversation with Dr. Vandana Shiva, Metabolic
+  Studio, and Nancy Klehm"
 deck: A conversation with Dr. Vandana Shiva, Metabolic Studio, and and Nance Klehm
 summary: Weekly conversations with activists, social justice practitioners, and
   changemakers.
