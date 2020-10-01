@@ -93,4 +93,4 @@ At the start of quarantine, the *Brooklyn Rail* asked how might we stay connecte
 
 > *“You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete.”* — Buckminster Fuller
 
-A declaration of interdependence must be followed by a practice of interdependence. Achieving this interdependence takes both seeing and doing, both vision and action. A new collective vision is needed, centered and prioritized around the common good and community. [Learn more »](https://www.metabolicstudio.org/about)Please join us for our fifth installment of Common Ground, where Dr. Vandana Shiva, Lauren Bon, Milli Macen-Moore, and Nance Klehm will share reflections on their relationship to seed
+A declaration of interdependence must be followed by a practice of interdependence. Achieving this interdependence takes both seeing and doing, both vision and action. A new collective vision is needed, centered and prioritized around the common good and community. [Learn more »](https://www.metabolicstudio.org/about)
