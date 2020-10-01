@@ -60,6 +60,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-145-a-gathering-of-the-tribes-tickets-123544602231
 event_platform:
   - zoom
 ---
