@@ -1,10 +1,11 @@
 ---
-title: Seeds of Resistance
+title: "Satyagraha: Gardens as Acts of Resistance"
 deck: An update from Metabolic Studio featuring Dr. Vandana Shiva, Lauren Bon,
-  Nance Klehm, & Milli Macen-Moore
-summary: Please join us for our fifth installment of Common Ground, when Dr.
-  Vandana Shiva, Lauren Bon, Nance Klehm, and Milli Macen-Moore will share their
-  reflections on ecological stewardship in the past six months
+  Nance Klehm, & Milli Macen-Moore.
+summary: Please join us on The International Day of Nonviolence for our fifth
+  installment of Common Ground with Dr. Vandana Shiva, Lauren Bon, Nance Klehm,
+  and Milli Macen-Moore, who will share their reflections on ecological
+  stewardship of the past six months.
 people:
   - person: dr-vandana-shiva
     event_bio: Dr. Vandana Shiva is a world-renowned scholar and tireless crusader
@@ -79,9 +80,9 @@ registration_url: https://www.eventbrite.com/e/common-ground-a-conversation-with
 event_platform:
   - zoom
 ---
-Please join us for our fifth installment of *Common Ground* as we partner with our friends at [Metabolic Studio](https://www.metabolicstudio.org/about) for a conversation on ecological resilience, food sovereignty, environmental stewardship and soil-building and seed-saving as crucial acts of resistance. We will be joined by environmental activist and physicist **Dr. Vandana Shiva**, in conversation with **Lauren Bon**, environmental artist and captain of the Metabolic Studio, **Nance Klehm**, Chicago-based ecological systems designer and permaculture grower, and **Milli Macen-Moore**, regenerative urban grower and director of Metabolic's [*Farmlab* program](https://www.metabolicstudio.org/tags/farmlab) which works to combat climate change and mass extinction through the study of living systems. 
+Please join us for our fifth installment of *Common Ground* as we partner with our friends at [Metabolic Studio](https://www.metabolicstudio.org/about) for a conversation on ecological resilience, food sovereignty, environmental stewardship, and soil-building and seed-saving as crucial acts of resistance. We will be joined by environmental activist and physicist **Dr. Vandana Shiva** in conversation with **Lauren Bon**, Los Angeles-based environmental artist of the Metabolic Studio, **Nance Klehm**, Chicago-based ecological systems designer and permaculture grower, and **Milli Macen-Moore**, regenerative urban grower and director of Metabolic's [*Farmlab* program](https://www.metabolicstudio.org/tags/farmlab) which works to combat climate change and mass extinction through the study of living systems. 
 
-This conversation marks six months since we first heard from Dr. Shiva, tuning in from her mother's home in Dehradun, India, as part of Metabolic Studio's *[Interdependence Salon #3](https://brooklynrail.org/events/2020/05/07/dr-vandana-shiva-with-lauren-bon/)*. Back in May, Dr. Shiva encouraged us all to ***get planting* *as an act of resistance*.** This week's *Common Ground* will build upon this first conversation earlier in the year, and the long history of collaboration and cross-pollination between Dr. Shiva and Lauren Bon, and will offer a space for us to reflect on our institutional memory and share all that has happened in the six month space between now and then. We hope to hear from Metabolic Studio on their network of Satyagraha gardens they have been cultivating across the country, from Nance Klehm on her recent projects with indigenous ecology, and from Dr. Shiva on the Commons of the Mind, and beyond. 
+This conversation marks six months since we first heard from Dr. Shiva, tuning in from her mother's home in Dehradun, India, as part of Metabolic Studio's *[Interdependence Salon #3](https://brooklynrail.org/events/2020/05/07/dr-vandana-shiva-with-lauren-bon/)*. Back in May, Dr. Shiva encouraged us all to ***get planting* *as an act of resistance*.** This week's *Common Ground* will build upon this first conversation earlier in the year, and the deep history of collaboration and cross-pollination between Dr. Shiva and Lauren Bon, and will offer a space for us to reflect on our institutional memory and share all that has happened in the six month space between now and then. We hope to hear from Metabolic Studio on their network of Satyagraha gardens they have been cultivating across the country, from Nance Klehm on her recent projects with indigenous ecology, and from Dr. Shiva on the Commons of the Mind, and beyond. 
 
 We will close with a reading by Afghan American poet **Zohra Saed**.
 
@@ -89,8 +90,8 @@ We will close with a reading by Afghan American poet **Zohra Saed**.
 
 At the start of quarantine, the *Brooklyn Rail* asked how might we stay connected to each other in a time of self-isolation? Now we ask: How can we stay involved and engaged in upholding our civic responsibility to one another across communities? How can we deploy this community built through the *New Social Environment*—through hundreds of conversations and meals shared over the past six months—to mobilize daily action for grassroots movements, social justice and equity projects, and for the political good of our most marginalized communities across the nation? Tune in Thursdays at 1pm for *Common Ground*, a new lunchtime series featuring weekly conversations with social justice practitioners, changemakers, and activists on how we can mobilize our daily actions to radically reimagine our democracy.
 
-### About Metabolic Studio’s *Interdependence Salons*
+### More from Metabolic Studio
 
-> *“You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete.”* — Buckminster Fuller
+For the next twelve weeks, Metabolic Studio will be educating themselves and others about the “Fires of the West” with a specific focus on Native land management and sovereignty, the history of fire suppression, and how we can decolonize our understanding of fire moving forward to create a safer and more resilient West.
 
-A declaration of interdependence must be followed by a practice of interdependence. Achieving this interdependence takes both seeing and doing, both vision and action. A new collective vision is needed, centered and prioritized around the common good and community. [Learn more »](https://www.metabolicstudio.org/about)
+Join Metabolic for their first conversation on *The Fires of the West Learning and Native Plant Embroidery Circle* Friday, October 2 at 8:30pm EST / 5:30pm PST. For more information and to RSVP, [click here](https://www.eventbrite.com/e/fires-of-the-west-learning-and-native-plant-embroidery-zoom-100220-tickets-122636666571).
