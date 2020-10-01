@@ -23,10 +23,6 @@ people:
       experimental poetry community. Her poetry is recognized in the Beat, New
       York School, and Black Mountain trajectories, and she has raised the bar
       as a feminist, activist, and powerful performer.
-  - person: patrick-pethybridge
-    event_bio: Patrick Pethybridge is a young experimental poet living in Denver,
-      Colorado. He is the founding editor of Visible Binary, a small literary
-      magazine for poetry, short text, digital media, and other genres.
   - person: andrei-codrescu
     event_bio: Andrei Codrescu was born in Transylvania, Romania, reborn at the age
       of 19 in Detroit and New York in 1967-1970. A professional nomad he has
@@ -52,6 +48,10 @@ people:
       Manuscript Library. He is a Distinguished Professor of English, French,
       and Comparative Literature at the City University of New York Graduate
       Center.
+  - person: patrick-pethybridge
+    event_bio: Patrick Pethybridge is a young experimental poet living in Denver,
+      Colorado. He is the founding editor of Visible Binary, a small literary
+      magazine for poetry, short text, digital media, and other genres.
 date: 2020-10-01 13:06:00 -0500
 end_date: 2020-10-01 13:06:00 -0500
 collections:
