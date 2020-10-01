@@ -1,8 +1,8 @@
 ---
-title: A Gathering of the Tribes
+title: A Gathering of Tribes
 deck: with Nikki Johnson, Sheila Maldonado, and Chavisa Woods
 summary: Nikki Johnson, Sheila Maldonado, and Chavisa Woods will join Barbara
-  Purcell for a conversation on A Gathering of the Tribes. We'll conclude with a
+  Purcell for a conversation on A Gathering of Tribes. We'll conclude with a
   poetry reading from Lynne Procope.
 people:
   - person: nikki-johnson
@@ -63,4 +63,11 @@ event_producer:
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-145-a-gathering-of-the-tribes-tickets-123544602231
 event_platform:
   - zoom
+aliases:
+  - /events/2020/10/06/a-gathering-of-the-tribes/
 ---
+Founded by retired professor, novelist and playwright, Steve Cannon in 1993, A Gathering of Tribes elevates revolutionary voices, providing a platform for diverse, traditionally under-represented, emerging and established artists and writers.
+
+Tribes is committed to honoring and memorializing Steve Cannon’s life and legacy. Our founder believed in the power of multiculturalism interdisciplinary connections. This was the impetus for the creation of A Gathering of the Tribes. He provided a space that empowered artist and writers of color, immigrants, women, LGBTQ people, and people from diverse class backgrounds, who regularly came together, bonded by a singular passion; love of the arts. He provided an open space for rigorous intellectual debate, and at the same time, rigorous experimentation, the combination of which is the lifeblood of the arts.
+
+Like our founder, we also remain deeply committed to celebrating diversity and multiculturalism, which is apparent throughout every aspect of our programming. Tribes envisions a world where intellectual and creative endeavors are valued as much as labor and capital, and seeks to support artists of diversity and unique ability who may have otherwise been overlooked by mainstream institutions, providing them with access to broad audiences, financial incentives to continue creating, and connection to a vibrant community.
