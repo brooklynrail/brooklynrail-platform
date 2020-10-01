@@ -23,6 +23,9 @@ people:
       experimental poetry community. Her poetry is recognized in the Beat, New
       York School, and Black Mountain trajectories, and she has raised the bar
       as a feminist, activist, and powerful performer.
+  - person: laurie-anderson
+    event_bio: Laurie Anderson is an artist living in New York City. Her most recent
+      project is a radio series, "Party in the Bardo".
   - person: andrei-codrescu
     event_bio: Andrei Codrescu was born in Transylvania, Romania, reborn at the age
       of 19 in Detroit and New York in 1967-1970. A professional nomad he has
