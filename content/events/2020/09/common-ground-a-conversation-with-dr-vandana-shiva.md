@@ -1,7 +1,6 @@
 ---
-title: "Common Ground: Seeds of Resistance with Metabolic Studio and Dr. Vandana
-  Shiva"
-deck: A conversation with Metabolic Studio, Dr. Vandana Shiva, and Nance Klehm
+title: "Common Ground: Seeds of Resistance"
+deck: A conversation with Dr. Vandana Shiva, Metabolic Studio, and and Nance Klehm
 summary: Weekly conversations with activists, social justice practitioners, and
   changemakers.
 people:
@@ -87,8 +86,6 @@ Please join us for our fifth installment of *Common Ground* as we partner with o
 This conversation marks six months since we first heard from Dr. Shiva, tuning in from her mother's home in Dehradun, India, as part of Metabolic Studio's *[Interdependence Salon #3](https://brooklynrail.org/events/2020/05/07/dr-vandana-shiva-with-lauren-bon/)*. Back in May, Dr. Shiva encouraged us all to *get planting* *as an act of resistance*. This week's *Common Ground* will build upon this first conversation earlier in the year and give space for us to reflect on our institutional memory and share all that has happened in the six month space between now and then. We hope to hear from Metabolic Studio on their network of Satyagraha gardens they have been cultivating across the country, from Nance Klehm on her recent projects with indigenous ecology, and from Dr. Shiva on "the Commons of the Mind," and beyond. 
 
 We will close with a reading by Afghan American poet **Zohra Saed**.
-
-
 
 ### About Metabolic Studio’s Interdependence Salons
 
