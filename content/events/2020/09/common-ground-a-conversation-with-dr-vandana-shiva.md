@@ -2,7 +2,7 @@
 title: Seeds of Resistance
 deck: An update from Metabolic Studio featuring Dr. Vandana Shiva, Lauren Bon,
   Nance Klehm, & Milli Macen-Moore
-summary: Please join us for our fifth installment of Common Ground, where Dr.
+summary: Please join us for our fifth installment of Common Ground, when Dr.
   Vandana Shiva, Lauren Bon, Nance Klehm, and Milli Macen-Moore will share their
   reflections on ecological stewardship in the past six months
 people:
