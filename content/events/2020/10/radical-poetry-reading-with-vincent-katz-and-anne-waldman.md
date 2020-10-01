@@ -55,8 +55,9 @@ people:
     event_bio: Patrick Pethybridge is a young experimental poet living in Denver,
       Colorado. He is the founding editor of Visible Binary, a small literary
       magazine for poetry, short text, digital media, and other genres.
-date: 2020-10-01 13:06:00 -0500
-end_date: 2020-10-01 13:06:00 -0500
+date: 2020-10-07 13:00:00 -0500
+end_date: 2020-10-07 14:00:00 -0500
+series: 145
 collections:
   - the-new-social-environment
 event_organizer:
