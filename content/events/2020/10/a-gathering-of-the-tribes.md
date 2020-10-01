@@ -66,7 +66,7 @@ event_platform:
 aliases:
   - /events/2020/10/06/a-gathering-of-the-tribes/
 ---
-Founded by retired professor, novelist and playwright, Steve Cannon in 1993, A Gathering of Tribes elevates revolutionary voices, providing a platform for diverse, traditionally under-represented, emerging and established artists and writers.
+Founded by retired professor, novelist and playwright, Steve Cannon in 1993, [A Gathering of Tribes](https://www.tribes.org) elevates revolutionary voices, providing a platform for diverse, traditionally under-represented, emerging and established artists and writers.
 
 Tribes is committed to honoring and memorializing Steve Cannon’s life and legacy. Our founder believed in the power of multiculturalism interdisciplinary connections. This was the impetus for the creation of A Gathering of the Tribes. He provided a space that empowered artist and writers of color, immigrants, women, LGBTQ people, and people from diverse class backgrounds, who regularly came together, bonded by a singular passion; love of the arts. He provided an open space for rigorous intellectual debate, and at the same time, rigorous experimentation, the combination of which is the lifeblood of the arts.
 
