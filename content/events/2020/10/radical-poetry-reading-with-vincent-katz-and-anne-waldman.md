@@ -26,6 +26,15 @@ people:
   - person: laurie-anderson
     event_bio: Laurie Anderson is an artist living in New York City. Her most recent
       project is a radio series, "Party in the Bardo".
+  - person: sherwin-bitsui
+    event_bio: Sherwin Bitsui is the author of three collections of poetry,
+      Dissolve, Flood Song, and Shapeshift. He is the recipient of a Whiting
+      Award, an American Book Award, and the PEN Book Award. His poems have
+      appeared in Narrative, Black Renaissance Noir, American Poet, The Iowa
+      Review, LIT, and elsewhere. He is Diné of the Todí­ch’ii’nii (Bitter Water
+      Clan), born for the Tlizí­laaní­ (Many Goats Clan), and has received
+      fellowships from the Lannan Foundation and the Native Arts & Culture
+      Foundation.
   - person: andrei-codrescu
     event_bio: Andrei Codrescu was born in Transylvania, Romania, reborn at the age
       of 19 in Detroit and New York in 1967-1970. A professional nomad he has
