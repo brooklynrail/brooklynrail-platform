@@ -10,5 +10,5 @@ short_bio: "Barbara Purcell is an Austin-based arts and culture writer. Her work
   and a native of North Jersey."
 portraits:
   - media: 2020/10/barbara-purcell
-website: www.barbarapurcell.com
+website: https://barbarapurcell.com
 ---
