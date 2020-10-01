@@ -58,15 +58,22 @@ people:
       science of living systems. Milli’s work at the Metabolic Studio explores
       the many roles that vegetation plays in remediation, food systems, soil
       building, restoration, and community science.
+poets:
+  - person: zohra-saed
+    event_bio: "Zohra Saed is a Brooklyn based Afghan American poet. She co-founded
+      Upset Press with the poet Robert Booras, and teaches literature at Bard
+      High School Early College, Queens. "
 date: 2020-10-02 13:00:00 -0500
 end_date: 2020-10-02 14:30:00 -0500
-series: 5
+series: ""
 collections:
   - common-ground
 event_organizer:
   - the-brooklyn-rail
+  - metabolic-studio-1
 event_producer:
   - the-brooklyn-rail
+  - metabolic-studio-1
 registration_url: https://www.eventbrite.com/e/common-ground-a-conversation-with-dr-vandana-shiva-tickets-122100131781
 event_platform:
   - zoom
