@@ -86,6 +86,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/nse-146-radical-poetry-with-vincent-katz-and-anne-waldman-tickets-123509796125
 event_platform:
   - zoom
 ---
