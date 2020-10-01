@@ -51,6 +51,13 @@ people:
       lectures, teaches, consults, makes, and does. She marries these two sets
       of practice under two organizing structures: Spontaneous Vegetation and
       Social Ecologies."
+  - person: milli-macen-moore
+    event_bio: Milli Macen-Moore is a regenerative urban grower and a steward of the
+      environment. She directs Metabolic Studio’s Farmlab, under the mission to
+      combat climate change and mass extinction through the study and applied
+      science of living systems. Milli’s work at the Metabolic Studio explores
+      the many roles that vegetation plays in remediation, food systems, soil
+      building, restoration, and community science.
 date: 2020-10-02 13:00:00 -0500
 end_date: 2020-10-02 14:30:00 -0500
 series: 5
