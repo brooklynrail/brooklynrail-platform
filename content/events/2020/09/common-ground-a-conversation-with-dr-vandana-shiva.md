@@ -93,4 +93,4 @@ At the start of quarantine, the *Brooklyn Rail* asked how might we stay connecte
 
 For the next twelve weeks, Metabolic Studio will be educating themselves and others about the “Fires of the West” with a specific focus on Native land management and sovereignty, the history of fire suppression, and how we can decolonize our understanding of fire moving forward to create a safer and more resilient West.
 
-Join Metabolic for their first conversation on *The Fires of the West Learning and Native Plant Embroidery Circle* Friday, October 8 at 8:30pm EST / 5:30pm PST. For more information and to RSVP, [click here](https://www.eventbrite.com/e/fires-of-the-west-learning-and-native-plant-embroidery-zoom-100220-tickets-122636666571).
+Join Metabolic for their first conversation on *The Fires of the West Learning and Native Plant Embroidery Circle* Friday, October 2 at 8:30pm EST / 5:30pm PST. For more information and to RSVP, [click here](https://www.eventbrite.com/e/fires-of-the-west-learning-and-native-plant-embroidery-zoom-100220-tickets-122636666571).
