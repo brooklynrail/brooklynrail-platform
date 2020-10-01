@@ -1,10 +1,11 @@
 ---
-title: Seeds of Resistance
+title: "Satyagraha: Gardens as Acts of Resistance"
 deck: An update from Metabolic Studio featuring Dr. Vandana Shiva, Lauren Bon,
   Nance Klehm, & Milli Macen-Moore.
-summary: Please join us for our fifth installment of Common Ground with Dr.
-  Vandana Shiva, Lauren Bon, Nance Klehm, and Milli Macen-Moore, who will share
-  their reflections on ecological stewardship of the past six months.
+summary: Please join us on The International Day of Nonviolence for our fifth
+  installment of Common Ground with Dr. Vandana Shiva, Lauren Bon, Nance Klehm,
+  and Milli Macen-Moore, who will share their reflections on ecological
+  stewardship of the past six months.
 people:
   - person: dr-vandana-shiva
     event_bio: Dr. Vandana Shiva is a world-renowned scholar and tireless crusader
