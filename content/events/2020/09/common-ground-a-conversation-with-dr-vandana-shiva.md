@@ -77,7 +77,7 @@ registration_url: https://www.eventbrite.com/e/common-ground-a-conversation-with
 event_platform:
   - zoom
 ---
-{{< image media="2020/09/common-ground-header-graphic-dark-background" size="lg" >}}
+{{< image media="2020/09/common-ground-header-graphic-dark-background" size="sm" >}}
 
 At the start of quarantine, the *Brooklyn Rail* asked how might we stay connected to each other in a time of self-isolation? Now we ask: How can we stay involved and engaged in upholding our civic responsibility to one another across communities? How can we deploy this community built through the *New Social Environment*—through hundreds of conversations and meals shared over the past six months—to mobilize daily action for grassroots movements, social justice and equity projects, and for the political good of our most marginalized communities across the nation? Tune in Thursdays at 1pm for *Common Ground*, a new lunchtime series featuring weekly conversations with social justice practitioners, changemakers, and activists on how we can mobilize our daily actions to radically reimagine our democracy.
 
