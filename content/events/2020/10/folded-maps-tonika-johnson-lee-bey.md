@@ -1,5 +1,5 @@
 ---
-title: "Folded Map: Tonika Johnson and Lee Bey"
+title: "Folded Maps: Tonika Johnson and Lee Bey"
 deck: Weekly conversations with activists, social justice practitioners, and
   changemakers.
 summary: Please join us for our sixth installment of Common Ground, featuring
