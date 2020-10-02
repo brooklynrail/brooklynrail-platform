@@ -8,13 +8,11 @@ summary: Poets Vincent Katz and Anne Waldman co-curate the eighth Radical Poetry
 people:
   - person: vincent-katz
     event_bio: "Vincent Katz is the author of the poetry collections Broadway for
-      Paul (2020),  Southness (2016) and Swimming Home (2015) and the book of
-      translations, The Complete Elegies of Sextus Propertius (2004). His
-      writing on contemporary art and poetry has appeared in Apollo, Art in
-      America, ARTnews, The Brooklyn Rail, and The Poetry Project Newsletter. As
-      curator of the “Readings in Contemporary Poetry” series at Dia: Chelsea,
-      Katz edited the anthology Readings in Contemporary Poetry (Dia Art
-      Foundation, 2017). He lives in New York City."
+      Paul, Southness and Swimming Home and the book of translations The
+      Complete Elegies of Sextus Propertius. He is the editor of Black Mountain
+      College: Experiment in Art. He curates the poetry readings at Dia:Chelsea
+      in New York and edited Readings in Contemporary Poetry, an anthology of
+      poets from that series. He lives in New York City."
   - person: ann-waldman
     event_bio: Anne Waldman is the author, most recently of Trickster Feminism,
       Penguin 2018, and Sanctuary, Spuyten Duyvil 2020, and her vinyl album
