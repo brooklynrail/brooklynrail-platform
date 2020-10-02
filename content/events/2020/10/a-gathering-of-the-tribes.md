@@ -3,7 +3,7 @@ title: A Gathering of Tribes
 deck: with Nikki Johnson, Sheila Maldonado, and Chavisa Woods
 summary: Nikki Johnson, Sheila Maldonado, and Chavisa Woods will join Barbara
   Purcell for a conversation on A Gathering of Tribes. We'll conclude with a
-  poetry reading from Lynne Procope.
+  poetry reading from Sheila Maldonado.
 people:
   - person: nikki-johnson
     event_bio: Nikki Johnson has exhibited her portraits and documentary photographs
