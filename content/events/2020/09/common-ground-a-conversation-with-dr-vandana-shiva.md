@@ -76,6 +76,7 @@ event_organizer:
 event_producer:
   - the-brooklyn-rail
   - metabolic-studio-1
+youtube_id: aGfl8ihFfIo
 registration_url: https://www.eventbrite.com/e/common-ground-a-conversation-with-dr-vandana-shiva-tickets-122100131781
 event_platform:
   - zoom
