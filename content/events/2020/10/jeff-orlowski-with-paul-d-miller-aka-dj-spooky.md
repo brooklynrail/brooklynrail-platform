@@ -44,4 +44,4 @@ registration_url: https://www.eventbrite.com/e/the-new-social-environment-148-je
 event_platform:
   - zoom
 ---
-**Please note that this event will take place at 2pm ET** (rather than our regular 1pm gathering time).
+***Please note that this event will take place at 2pm ET** (rather than our regular 1pm gathering time).*
