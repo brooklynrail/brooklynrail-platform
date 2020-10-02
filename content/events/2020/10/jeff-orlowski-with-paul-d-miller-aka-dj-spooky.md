@@ -1,8 +1,8 @@
 ---
 title: Jeff Orlowski with Paul D. Miller, aka DJ Spooky
-summary: Filmmaker and photographer Jeff Orlowski will join Paul D. Miller, aka
-  DJ Spooky for a conversation. We'll conclude with a poetry reading from
-  Lawrence Giffin.
+summary: Director, producer, and cinematographer Jeff Orlowski will join Paul D.
+  Miller, aka DJ Spooky for a conversation. We'll conclude with a poetry reading
+  from Lawrence Giffin.
 people:
   - person: jeff-orlowski
     event_bio: "Jeff Orlowski is the director, producer, and cinematographer of the
@@ -29,14 +29,18 @@ poets:
       that takes Agnes Martin’s final painting as an occasion for a meditation
       on death & birth, history & chance, love & exploitation, all addressed to
       his newborn daughter, Agnes. He is a co-editor at Golias Books.
-date: 2020-10-02 14:00:00 -0500
-end_date: 2020-10-02 15:00:00 -0500
+date: 2020-10-09 14:00:00 -0500
+end_date: 2020-10-09 15:00:00 -0500
+series: 148
 collections:
   - the-new-social-environment
+event_sponsor:
+  - dermot-comany
 event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-148-jeff-orlowski-tickets-123760175015
 event_platform:
   - zoom
 ---
