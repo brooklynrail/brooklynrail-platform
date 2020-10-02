@@ -1,5 +1,5 @@
 ---
-title: Tonika Johnson and Lee Bey
+title: "Folded Map: Tonika Johnson and Lee Bey"
 deck: Weekly conversations with activists, social justice practitioners, and
   changemakers.
 summary: Please join us for our sixth installment of *Common Ground*, when we
@@ -13,6 +13,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/common-ground-folded-maps-tickets-123762419729
 event_platform:
   - zoom
 ---
