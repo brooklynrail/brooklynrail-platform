@@ -5,7 +5,7 @@ deck: Weekly conversations with activists, social justice practitioners, and
 summary: Please join us for our sixth installment of Common Ground, featuring
   Chicago photographer Tonika Lewis Johnson and architectural and community
   historian Lee Bey for a conversation on the cultural life of Chicago's South
-  Side
+  Side.
 people:
   - person: tonika-lewis-johnson
     event_bio: "Tonika Lewis Johnson is a photographer, community organizer, and
