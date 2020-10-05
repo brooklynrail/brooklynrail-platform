@@ -35,6 +35,14 @@ people:
       she was appointed as a member of the Cultural Advisory Council of the
       Department of Cultural Affairs and Special Events by the Chicago City
       Council.
+poets:
+  - person: i-s-jones
+    event_bio: I.S. Jones is an American/Nigerian poet and music journalist. Her
+      works have appeared in Guernica, Washington Square Review, Hayden’s Ferry
+      Review, The Rumpus, The Offing, Shade Literary Arts and elsewhere.
+    related_links:
+      - url: https://www.isjones.com/
+        text: Website
 date: 2020-10-08 13:00:00 -0500
 end_date: 2020-10-08 14:30:00 -0500
 collections:
