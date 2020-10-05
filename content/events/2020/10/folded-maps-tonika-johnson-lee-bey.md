@@ -8,33 +8,36 @@ summary: Please join us for our sixth installment of Common Ground, featuring
   Side
 people:
   - person: tonika-lewis-johnson
-    event_bio: Tonika Lewis Johnson is a photographer, visual artist, and lifelong
-      resident of Chicago’s South Side neighborhood of Englewood. In 2010, she
-      helped cofound the Resident Association of Greater Englewood (RAGE), whose
-      mission is to mobilize people and resources to force positive change in
-      Englewood through solution-based approaches. She is also a lead cofounder
-      of the Englewood Arts Collective, established in 2017 to help artistically
-      reframe the narrative of Englewood. Within her artistic practice, Tonika
-      explores urban segregation and documents the nuance and richness of the
-      Black community. As a trained photojournalist and teaching artist, she has
-      been engaged in building an artistic legacy that has gained citywide
-      recognition in the last three years. She has been featured in Chicago
-      magazine as a 2017 Chicagoan of the Year for her photography of
-      Englewood's everyday beauty, countering its pervasive media coverage of
-      poverty and crime. Her Englewood-based photography projects From the
-      INside, and Everyday Rituals have been exhibited at Rootwork Gallery, the
-      Chicago Cultural Center, Harold Washington Library, and the Loyola
-      University Museum of Art (LUMA). Her Folded Map project visually
-      investigates disparities among Chicago residents while bringing them
-      together to have a conversation, and was also exhibited at the Loyola
-      University Museum of Art (2018). Since then, she has transformed Folded
-      Map into an advocacy and policy-influencing tool that invites audiences to
-      open dialogues and question how we are all socially impacted by racial and
-      institutional conditions that segregate the city. In 2019, she was named
-      one of Field Foundation’s “Leaders for a New Chicago” and, most recently,
-      she was appointed as a member of the Cultural Advisory Council of the
-      Department of Cultural Affairs and Special Events by the Chicago City
-      Council.
+    event_bio: "Tonika Lewis Johnson is a photographer, community organizer, and
+      lifelong resident of Chicago’s South Side neighborhood of Englewood.
+      Through her artistic practice, Johnson explores the legacy and lived
+      reality of urban segregation in the city of Chicago, and documents the
+      nuance and richness of Black life in her home community of Englewood. Her
+      Folded Map project (2017–) visually investigates disparities among Chicago
+      residents while also bringing residents into dialogue with one another
+      across the divide of residential segregation. In the three years since its
+      inception, Folded Map has been used as an educational, advocacy, and
+      community organizing tool as well as a policy framework, and has continued
+      to invite neighbors to open dialogue and question how we are all socially
+      impacted by institutionalized racial conditions that aid in the
+      segregation of our cities. Tonika Johnson was named a 2017 “Chicagoan of
+      the Year” by Chicago magazine, for her photographic work documenting
+      Englewood’s everyday beauty and countering the neighborhood’s pervasive
+      media narrative of poverty and crime. She was named a 2019 “Leader for a
+      New Chicago” by The Field Foundation of Illinois and was recently
+      appointed a member of the Cultural Advisory Council of the Department of
+      Cultural Affairs and Special Events by the Chicago City Council. As a
+      community organizer and creative placemaker, Tonika Johnson helped cofound
+      the Resident Association of Greater Englewood (RAGE) in 2010, which works
+      to mobilize people and resources to sustain positive change in Englewood
+      through solution-based approaches, and is a lead cofounder of the
+      Englewood Arts Collective which works to reframe the narrative of
+      Englewood through visual language and community outreach. Her work has
+      been exhibited at Rootworks Gallery, the Chicago Cultural Center, Harold
+      Washington Library, the Loyola University Museum of Art, among others. Her
+      most recent work, Belonging: Power, Place, and Impossibilities, is
+      currently on view virtually and by appointment at Chicago Justice Gallery.
+      "
 poets:
   - person: i-s-jones
     event_bio: I.S. Jones is an American/Nigerian poet and music journalist. Her
