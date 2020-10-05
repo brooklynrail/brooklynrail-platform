@@ -38,6 +38,37 @@ people:
       most recent work, Belonging: Power, Place, and Impossibilities, is
       currently on view virtually and by appointment at Chicago Justice Gallery.
       "
+  - person: lee-bey
+    event_bio: >
+      Lee Bey is a photographer, writer, consultant, and lecturer whose work
+      deals with the built environment and the often complex political, social,
+      and racial forces that shape spaces and places. He previously served as
+      deputy chief of staff for architecture and urban planning under former
+      Chicago Mayor Richard M. Daley, and is a sought-after expert on
+      architectural history and the development of cities. He is a former
+      architecture critic for the Chicago Sun-Times, and is a member of the
+      Sun-Times editorial board, where he shapes the newspaper’s position on a
+      variety of issues including urban planning, land use, and politics. He is
+      the author of Southern Exposure: The Overlooked Architecture of Chicago’s
+      South Side (Northwestern University Press, October 2019), a book which
+      showcases his architectural photography and social commentary, and teaches
+      a class based on his book at the Illinois Institute of Technology College
+      of Architecture which examines how race has historically shaped and
+      continues to shape architecture and urban planning in Chicago’s South Side
+      and other communities of color across the country. Bey’s architectural
+      photography has appeared in The New York Times, Architectural Digest,
+      Chicago Architect, CITE, Old House Journal, and the international design
+      publications Bauwelt and Modulør, among others. His writing and reporting
+      on architecture and urban design have been featured in Chicago magazine,
+      Architect, Guardian Cities, The Houston Chronicle, and on WBEZ Chicago
+      Public Radio, Fox News Chicago, Monocle Radio, and CBS2 News Chicago. Bey
+      has been interviewed by a range of media outlets including The New York
+      Times, the Chicago Tribune, WGN-TV, TVMONDE Europe, and for the program
+      That Far Corner: Frank Lloyd Wright in Los Angeles. He has lectured widely
+      before audiences at the University of Hamburg, University of Michigan,
+      City Club of Chicago, The Art Institute of Chicago, The National Trust for
+      Historic Preservation, and more. Bey lives in Chicago’s historic Pullman
+      community and has three adult daughters. 
 poets:
   - person: i-s-jones
     event_bio: I.S. Jones is an American/Nigerian poet and music journalist. Her
