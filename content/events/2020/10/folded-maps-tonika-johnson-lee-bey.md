@@ -85,7 +85,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
-registration_url: https://www.eventbrite.com/e/common-ground-folded-maps-tickets-123762419729
+registration_url: https://www.eventbrite.com/e/common-ground-folded-map-with-tonika-johnson-lee-bey-tickets-123762419729
 event_platform:
   - zoom
 event_platform_url: https://www.eventbrite.com/e/common-ground-folded-maps-with-tonika-johnson-lee-bey-tickets-123762419729
