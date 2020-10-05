@@ -1,10 +1,11 @@
 ---
-title: "Folded Map: Tonika Johnson and Lee Bey"
+title: "Folded Map: Tonika Johnson & Lee Bey"
 deck: Weekly conversations with activists, social justice practitioners, and
   changemakers.
 summary: Please join us for our sixth installment of Common Ground, featuring
-  Chicago-based photographers Tonika Lewis Johnson and Lee Bey for a
-  conversation on the cultural life of Chicago's South Side
+  Chicago photographer Tonika Lewis Johnson and architectural and community
+  historian Lee Bey for a conversation on the cultural life of Chicago's South
+  Side
 people:
   - person: tonika-lewis-johnson
     event_bio: Tonika Lewis Johnson is a photographer, visual artist, and lifelong
