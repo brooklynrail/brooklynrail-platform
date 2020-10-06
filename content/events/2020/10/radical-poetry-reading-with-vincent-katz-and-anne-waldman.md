@@ -72,9 +72,13 @@ people:
       Teachers & Writers Collaborative and Schule fur Dichtung (Vienna,
       Austria).
   - person: patrick-pethybridge
-    event_bio: Patrick Pethybridge is a young experimental poet living in Denver,
-      Colorado. He is the founding editor of Visible Binary, a small literary
-      magazine for poetry, short text, digital media, and other genres.
+    event_bio: Patrick Pethybridge (born  2004) is a writer, and founder/editor of
+      Visible Binary, an online magazine of poetry, short texts, digital media,
+      and other experimental genres. He is interested in translation, and has
+      worked on the poetry of César Vallejo & Raúl Zurita. He is currently an
+      intern at ArtLab, an art-in-residency and social advocacy program for
+      adolescents in the Denver metro area. Patrick lives in Denver, Colorado,
+      and attends the CUBE School.
 date: 2020-10-07 13:00:00 -0500
 end_date: 2020-10-07 14:00:00 -0500
 series: 146
