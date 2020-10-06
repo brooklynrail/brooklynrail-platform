@@ -1,6 +1,6 @@
 ---
 title: Sanford Biggers with Yasi Alipour
-summary: Artist Sanford Biggers will being conversation with artist and Rail
+summary: Artist Sanford Biggers will be in conversation with artist and Rail
   contributor Yasi Alipour. We'll conclude with a poetry reading from Louis
   Bury.
 people:
