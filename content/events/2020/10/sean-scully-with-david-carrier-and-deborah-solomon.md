@@ -40,6 +40,12 @@ people:
       biography of the artist Jasper Johns. She lives on the Upper West Side
       with her husband, Kent Sepkowitz, and their corgi, Belle, a frequent
       visitor to the American Museum of Natural History dog run."
+poets:
+  - person: matthew-rohrer
+    event_bio: Matthew Rohrer is the author of 10 books of poetry, most recently THE
+      SKY CONTAINS THE PLANS, and THE OTHERS. He has participated in residencies
+      at MoMA and the Henry Art Gallery in Seattle, and his poems have been
+      widely anthologized. He teaches at NYU.
 date: 2020-10-13 13:00:00 -0500
 end_date: 2020-10-13 14:00:00 -0500
 series: 150
