@@ -30,6 +30,12 @@ people:
       Program in Gender Studies and Brown University's Pembroke Center for
       Teaching and Research on Women. She also writes art criticism for the
       Brooklyn Rail."
+poets:
+  - person: elinor-nauen
+    event_bio: "Elinor Nauen’s books include CARS & Other Poems, American Guys, and
+      many others. She's been published in and edited many magazines and
+      anthologies. She lives in NYC with a cat (Lefty) and a husband (Johnny
+      Stanton), studies Norwegian, and trains in karate. "
 date: 2020-10-12 13:00:00 -0500
 end_date: 2020-10-12 14:00:00 -0500
 series: 149
