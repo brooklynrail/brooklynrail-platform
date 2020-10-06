@@ -1,8 +1,8 @@
 ---
 title: Jeffrey Gibson with Nick Bennett and Amber Jamilla Musser
 summary: Painter Jeffrey Gibson will be in conversation with Rail Curatorial
-  Assistant Nick Bennett and Amber Jamilla Musser. We'll conclude with a poetry
-  reading from Elinor Nauen.
+  Assistant Nick Bennett and professor and author Amber Jamilla Musser. We'll
+  conclude with a poetry reading from Elinor Nauen.
 people:
   - person: jeffrey-gibson
     event_bio: >-
