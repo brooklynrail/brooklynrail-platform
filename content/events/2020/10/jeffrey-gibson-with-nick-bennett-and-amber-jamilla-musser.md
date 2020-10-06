@@ -19,6 +19,17 @@ people:
       Gibson’s work is included in the permanent collections of the Whitney Museum of American Art in New York; Denver Art Museum; Museum of Fine Arts, Boston; Smithsonian Institution's National Museum of the American Indian in Washington D.C.; National Gallery of Canada in Ottawa; Crystal Bridges Museum of American Art in Bentonville, AR; among many others. Gibson is a recipient of numerous awards, notably a MacArthur Foundation Fellowship (2019); Joan Mitchell Foundation, Painters and Sculptors Award (2015); and Creative Capital Foundation Grant (2005).
   - person: nick-bennett
     event_bio: Nick Bennett is the Curatorial Assistant of the Brooklyn Rail.
+  - person: amber-musser
+    event_bio: "Dr. Amber Jamilla Musser PhD is Professor of American Studies at
+      George Washington University. She writes about race, sexuality, and
+      aesthetics. She is the author of Sensational Flesh: Race, Power, and
+      Masochism (NYU Press, 2014) and Sensual Excess: Queer Femininity and Brown
+      Jouissance (NYU Press, 2018). She has an MSt in Women's Studies from
+      Oxford University and received her PhD in History of Science from Harvard
+      University, and has held fellowships at New York University's Draper
+      Program in Gender Studies and Brown University's Pembroke Center for
+      Teaching and Research on Women. She also writes art criticism for the
+      Brooklyn Rail."
 date: 2020-10-12 13:00:00 -0500
 end_date: 2020-10-12 14:00:00 -0500
 series: 149
