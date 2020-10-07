@@ -1,7 +1,7 @@
 ---
 title: Jeffrey Gibson with Nick Bennett and Amber Jamilla Musser
-summary: Painter Jeffrey Gibson will be in conversation with Rail Curatorial
-  Assistant Nick Bennett and professor and author Amber Jamilla Musser. We'll
+summary: Artist Jeffrey Gibson will be in conversation with Rail Special
+  Projects Editor Nick Bennett and Art Historian Amber Jamilla Musser. We'll
   conclude with a poetry reading from Elinor Nauen.
 people:
   - person: jeffrey-gibson
@@ -29,7 +29,7 @@ people:
       Teaching and Research on Women. She also writes art criticism for the
       Brooklyn Rail."
   - person: nick-bennett
-    event_bio: Nick Bennett is the Curatorial Assistant of the Brooklyn Rail.
+    event_bio: Nick Bennett is the Special Projects Editor of the Brooklyn Rail.
 poets:
   - person: elinor-nauen
     event_bio: "Elinor Nauen’s books include CARS & Other Poems, American Guys, and
