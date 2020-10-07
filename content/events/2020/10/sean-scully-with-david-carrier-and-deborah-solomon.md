@@ -46,8 +46,8 @@ poets:
       SKY CONTAINS THE PLANS, and THE OTHERS. He has participated in residencies
       at MoMA and the Henry Art Gallery in Seattle, and his poems have been
       widely anthologized. He teaches at NYU.
-date: 2020-10-13 13:00:00 -0500
-end_date: 2020-10-13 14:00:00 -0500
+date: 2020-10-13 12:00:00 -0500
+end_date: 2020-10-13 13:00:00 -0500
 series: 150
 collections:
   - the-new-social-environment
