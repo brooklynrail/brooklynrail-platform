@@ -58,3 +58,4 @@ event_producer:
 event_platform:
   - zoom
 ---
+***Please note that this event will begin at 12pm (ET), rather than our regular 1pm start time.***
