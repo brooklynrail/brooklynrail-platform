@@ -20,17 +20,18 @@ people:
       also teaches writing at Pratt Institute and Brooklyn College. He lives in
       New York City.
   - person: monica-de-la-torre
-    event_bio: "A poet and translator, Mónica de la Torre is the author of four
-      books of poetry, most recently Repetition Nineteen (Nightboat Books,
-      20202) and a translation of Defense of the Idol by Chilean modernist Omar
-      Cáceres (Ugly Duckling Presse, 2018). She coedited, with Michael Wiegers,
+    event_bio: "Born and raised in Mexico City, Mexico, Mónica de la Torre came to
+      New York in 1993 to study at Columbia. A poet and translator, de la Torre
+      is the author of four books of poetry, most recently Repetition Nineteen
+      (Nightboat Books, 2020) and a translation of Defense of the Idol by
+      Chilean modernist Omar Cáceres (Ugly Duckling Presse, 2018). She coedited
       the collection Reversible Monuments: Contemporary Mexican Poetry (Copper
       Canyon Press, 2002) and is also the coauthor of the book Appendices,
-      Illustrations, & Notes (Smart Art Press, 2000) with artist Terence Gower.
-      She edited and translated the volume Poems by Gerardo Deniz, and has
-      translated numerous other Spanish-language poets. She has served as the
-      poetry editor of The Brooklyn Rail and lives in New York City, where she
-      works as a senior editor of BOMB Magazine. "
+      Illustrations, & Notes (Smart Art Press, 2000). She edited and translated
+      the volume Poems by Gerardo Deniz, and has translated numerous other
+      Spanish-language poets. She has served as the poetry editor of The
+      Brooklyn Rail and lives in New York City, where she is a senior editor of
+      BOMB Magazine. "
 date: 2020-10-14 13:00:00 -0500
 end_date: 2020-10-14 14:00:00 -0500
 series: 151
