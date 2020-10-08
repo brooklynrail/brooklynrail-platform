@@ -53,6 +53,13 @@ people:
       the University of California, Irvine. She is a founding editor at the
       publishing collective Surplus Ediciones in Mexico, and has received the
       P.D. Soros Fellowship for New Americans (2007).
+  - person: uche-nduka
+    event_bio: Uche Nduka is Nigerian-American poet, essayist, and collagist. He is
+      the author of eleven volumes of poems of which the latest are Nine East
+      (2013), Sageberry 1 (2017), Living In Public (2018). His writing has been
+      translated into German, Arabic, Finnish, Romanian, Italian. City Lights
+      will publish his new volume of poems titled Facing You in 2020. Nduka
+      presently works and lives in New York.
 date: 2020-10-14 13:00:00 -0500
 end_date: 2020-10-14 14:00:00 -0500
 series: 151
