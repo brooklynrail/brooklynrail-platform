@@ -37,14 +37,13 @@ people:
       What I Knew (Nightboat, 2019), and two hybrid memoirs (The Book of Jon,
       City Lights, and You Animal Machine, Coffee House Press). Her writings
       have been widely anthologized and translated, and she has been the happy
-      recipient of many awards for her poetry, hybrid nonfiction, and
-      translations, including two National Endowment for the Arts awards and the
-      National Poetry Series. She has taught poetry in public schools, homeless
-      shelters, and prisons, and collaborated with musicians, filmmakers, and
-      visual artists. As a translator, she has worked on texts by Jacques
-      Roubaud and Mohamed Leftah, among others. Since 1998, she has been on
-      guest faculty for the Naropa Summer Writing Program, and she now teaches
-      Literary Arts at Brown University.
+      recipient of many awards for her work, including two National Endowment
+      for the Arts awards and the National Poetry Series. She has taught poetry
+      in public schools, homeless shelters, and prisons, and collaborated with
+      musicians, filmmakers, and visual artists. As a translator, she has worked
+      on texts by Jacques Roubaud and Mohamed Leftah, among others. Since 1998,
+      she has been on guest faculty for the Naropa Summer Writing Program, and
+      she now teaches Literary Arts at Brown University.
   - person: christopher-perez
     event_bio: Christopher Rey Pérez is a poet from the Rio Grande Valley of Texas.
       His published works of poetry and fiction in English and Spanish include
