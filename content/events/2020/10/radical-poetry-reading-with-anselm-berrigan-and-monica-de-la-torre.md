@@ -26,11 +26,12 @@ people:
       on Kafka's Amerika— as well as Public Domain. Born and raised in Mexico
       City, she has lived in NYC since mid-'90s and has published several books
       in Spanish, including Taller de Taquimecanografía, written jointly with
-      the eponymous women's collective formed by Gabriela Jauregui, Laureana
-      Toledo, and the late Aura Estrada. She teaches poetry at Brooklyn College
-      and in the Bard MFA program. Recent work appears in Granta 151: Membranes
-      and the Believer. The anthology Women in Concrete Poetry 1959–79,
-      co-edited with Alex Balgiu, is just out from Primary Information."
+      the eponymous women's collective she formed with Gabriela Jauregui,
+      Laureana Toledo, and the late Aura Estrada. She teaches poetry at Brooklyn
+      College and in the Bard MFA program. Recent work appears in Granta 151:
+      Membranes and The Believer. The anthology Women in Concrete Poetry
+      1959–1979, co-edited with Alex Balgiu, is just out from Primary
+      Information."
   - person: eleni-sikelianos
     event_bio: Eleni Sikelianos is the author of nine books of poetry, most recently
       What I Knew (Nightboat, 2019), and two hybrid memoirs (The Book of Jon,
