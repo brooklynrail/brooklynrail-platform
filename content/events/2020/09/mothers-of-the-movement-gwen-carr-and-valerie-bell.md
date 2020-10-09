@@ -30,7 +30,7 @@ event_platform:
 >
 > "I couldn’t watch the video. I said to myself 'here we go again.’” –Valerie Bell
 
-Please join us for our seventh installation of *Common Ground*, in partnership with **Theater of War Productions**, when we will be joined by **Gwen Carr**,mother of Eric Garner and author of *[This Stops Today: Eric Garner's Mother Seeks Justice After Losing Her Son](https://www.thisstopstoday.com/book.html)*, and **Valerie Bell**, mother of Sean Bell and author of *[Just 23: Thoughts from a Mother in Spoken Word by Kisha Walker](https://www.authorhouse.com/BookStore/BookDetails/726529-Just-23)* for a conversation on their tireless work as [Mothers of the Movement](https://www.elle.com/culture/career-politics/news/a38111/who-are-mothers-of-the-movement-dnc/) to end police violence. 
+Please join us for our seventh installation of *Common Ground*, in partnership with **Theater of War Productions**, when we will be joined by **Gwen Carr**, mother of Eric Garner and author of *[This Stops Today: Eric Garner's Mother Seeks Justice After Losing Her Son](https://www.thisstopstoday.com/book.html)*, and **Valerie Bell**, mother of Sean Bell and author of *[Just 23: Thoughts from a Mother in Spoken Word by Kisha Walker](https://www.authorhouse.com/BookStore/BookDetails/726529-Just-23)* for a conversation on their tireless work as [Mothers of the Movement](https://www.elle.com/culture/career-politics/news/a38111/who-are-mothers-of-the-movement-dnc/) to end police violence. 
 
 This event will be cohosted by **Dominic Dupont** and **Bryan Doerries** of Theater of War Productions, and will open with a reading from 2020 National Student Poet **Manasi Garg**, who will read her poem "For Tamir Rice." 
 
