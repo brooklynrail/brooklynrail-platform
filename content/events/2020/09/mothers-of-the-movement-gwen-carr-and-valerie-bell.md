@@ -25,6 +25,8 @@ registration_url: https://www.eventbrite.com/e/mothers-of-the-movement-gwen-carr
 event_platform:
   - zoom
 ---
+{{< image media="2020/10/mothers-of-the-movement-tow-poster-image" size="lg" >}}
+
 > “My son was murdered in 2014. George Floyd was murdered in 2020. Those were not the only two murders that happened. Every time that you hear another Black unarmed man being killed, shot in the back, or banged up against the sidewalk, or tased to death, you say, 'Oh my God, that’s my son again.’” –Gwen Carr
 >
 > "I couldn’t watch the video. I said to myself 'here we go again.’” –Valerie Bell
@@ -33,7 +35,7 @@ Please join us for our seventh installation of *Common Ground*, in partnership w
 
 This event will be cohosted by **Dominic Dupont** and **Bryan Doerries** of Theater of War Productions, and will open with a reading from 2020 National Student Poet **Manasi Garg**, who will read her poem "For Tamir Rice." 
 
-{{< image media="2020/10/mothers-of-the-movement-tow-poster-image" size="xl" >}}
+
 
 ### **About this event**
 
