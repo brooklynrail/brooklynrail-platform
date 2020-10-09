@@ -33,7 +33,7 @@ Please join us for our seventh installation of *Common Ground*, in partnership w
 
 This event will be cohosted by **Dominic Dupont** and **Bryan Doerries** of Theater of War Productions, and will open with a reading from 2020 National Student Poet **Manasi Garg**, who will read her poem "For Tamir Rice." 
 
-
+{{< image media="2020/10/mothers-of-the-movement-tow-poster-image" size="xl" >}}
 
 ### **About this event**
 
