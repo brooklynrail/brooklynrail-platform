@@ -1,7 +1,7 @@
 ---
-media: /media/files/eleni-sikelianos-by-gary-isaacs.jpg
+media: /media/files/pont-des-arts-smiling.jpg
 title: Eleni Sikelianos
-alt: A photo of poet Eleni Sikelianos looking toward a window.
-caption: Gary Isaacs
+alt: A black and white photo of poet Eleni Sikelianos smiling at Pont des Arts.
+caption: Courtesy Eleni Sikelianos
 date: 2020-10-08 18:08:00 -0500
 ---
