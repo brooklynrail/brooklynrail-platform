@@ -19,7 +19,6 @@ event_organizer:
   - the-brooklyn-rail
   - theater-of-war
 event_producer:
-  - the-brooklyn-rail
   - theater-of-war
 registration_url: https://www.eventbrite.com/e/mothers-of-the-movement-gwen-carr-and-valerie-bell-tickets-120546151785
 event_platform:
