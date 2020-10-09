@@ -20,18 +20,17 @@ people:
       also teaches writing at Pratt Institute and Brooklyn College. He lives in
       New York City.
   - person: monica-de-la-torre
-    event_bio: "Born and raised in Mexico City, Mexico, Mónica de la Torre came to
-      New York in 1993 to study at Columbia. A poet and translator, de la Torre
-      is the author of four books of poetry, most recently Repetition Nineteen
-      (Nightboat Books, 2020) and a translation of Defense of the Idol by
-      Chilean modernist Omar Cáceres (Ugly Duckling Presse, 2018). She coedited
-      the collection Reversible Monuments: Contemporary Mexican Poetry (Copper
-      Canyon Press, 2002) and is also the coauthor of the book Appendices,
-      Illustrations, & Notes (Smart Art Press, 2000). She edited and translated
-      the volume Poems by Gerardo Deniz, and has translated numerous other
-      Spanish-language poets. She has served as the poetry editor of The
-      Brooklyn Rail and lives in New York City, where she is a senior editor of
-      BOMB Magazine. "
+    event_bio: "Mónica de la Torre is the author of six books of poetry of which the
+      most recent is Repetition Nineteen, published by Nightboat Books in the
+      spring of 2020. Others include The Happy End/All Welcome—a riff on a riff
+      on Kafka's Amerika— as well as Public Domain. Born and raised in Mexico
+      City, she has lived in NYC since mid-'90s and has published several books
+      in Spanish, including Taller de Taquimecanografía, written jointly with
+      the eponymous women's collective formed by Gabriela Jauregui, Laureana
+      Toledo, and the late Aura Estrada. She teaches poetry at Brooklyn College
+      and in the Bard MFA program. Recent work appears in Granta 151: Membranes
+      and the Believer. The anthology Women in Concrete Poetry 1959–79,
+      co-edited with Alex Balgiu, is just out from Primary Information."
   - person: eleni-sikelianos
     event_bio: Eleni Sikelianos is the author of nine books of poetry, most recently
       What I Knew (Nightboat, 2019), and two hybrid memoirs (The Book of Jon,
