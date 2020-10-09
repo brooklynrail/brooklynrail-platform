@@ -1,6 +1,6 @@
 ---
 title: Sean Scully with David Carrier and Deborah Solomon
-summary: Painter Sean Scully will be in conversation with Rail guest editor
+summary: Painter Sean Scully will be in conversation with Rail Editor-at-Large
   David Carrier and WNYC art critic Deborah Solomon. We'll conclude with a
   poetry reading from Matthew Rohrer.
 people:
