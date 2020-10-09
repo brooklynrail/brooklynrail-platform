@@ -4,6 +4,12 @@ deck: Weekly conversations with activists, social justice practitioners, and
   changemakers
 summary: Join us for a conversation with 'Mothers of the Movement' to end police
   violence, in partnership with Theater of War.
+poets:
+  - person: manasi-garg
+    event_bio: "Manasi Garg is a rising senior at Saratoga High School. For her,
+      poetry is a way to translate trauma into meaning, to breathe life into
+      untold stories and unspeakable thoughts. Her work explores immigration,
+      ancestry, and girlhood. "
 date: 2020-10-15 13:00:00 -0500
 end_date: 2020-10-15 14:00:00 -0500
 collections:
