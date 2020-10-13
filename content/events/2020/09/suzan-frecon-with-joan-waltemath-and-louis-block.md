@@ -54,6 +54,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: xPB0TUggDBQ
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-140-suzan-frecon-tickets-122573499637
 event_platform:
   - zoom
