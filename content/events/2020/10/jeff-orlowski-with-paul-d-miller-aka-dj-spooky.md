@@ -40,6 +40,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: PuhS3DrRqq8
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-148-jeff-orlowski-tickets-123760175015
 event_platform:
   - zoom
