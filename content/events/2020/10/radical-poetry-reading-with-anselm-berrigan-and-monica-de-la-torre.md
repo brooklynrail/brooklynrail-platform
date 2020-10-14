@@ -58,17 +58,17 @@ people:
       Currently, he is the Program Director of the Bard Microcollege at Brooklyn
       Public Library.
   - person: gabriela-jauregui
-    event_bio: Gabriela Jauregui (born in Mexico City) is the author of the poetry
-      collection Controlled Decay (Akashic, 2008); two hybrid genre books, Leash
-      Seeks Lost Bitch (Song Cave, 2015) and ManyFiestas! (Gato Negro, 2017); a
-      book of short stories in Spanish, La memoria de las cosas, (The Memory of
-      Things, 2015); and the feminist anthology Tsunami (Sexto Piso, 2018). She
-      holds a PhD in Comparative Literature from the University of Southern
-      California; an MFA in Creative Writing from the University of California,
-      Riverside; and an MA in Comparative Literature and Critical Theory from
-      the University of California, Irvine. She is a founding editor at the
-      publishing collective Surplus Ediciones in Mexico, and has received the
-      P.D. Soros Fellowship for New Americans (2007).
+    event_bio: "Gabriela Jauregui (b. Mexico City) is the author of ManyFiestas
+      (Gato Negro), Leash Seeks Lost Bitch (Song Cave) and ControlledDecay
+      (Akashic Books). She is also the editor and author of the Spanish language
+      books: Tsunami (Sexto Piso) and the short story collection La memoria de
+      las cosas (Sexto Piso) as well as coauthor of Taller de Taquimecanografía
+      (Tumbona). She holds a PhD in Comparative Literature from USC, an MFA in
+      Creative writing from UCRiverside and an MA in Comparative literature from
+      UC Irvine. She teaches English literature at the Universidad Nacional
+      Autónoma de México. She's been named one of the 39 best Latin American
+      authors under 39 by the Hay Festival's Bogota39 list and co-founded sur+
+      publishing collective in Mexico. "
   - person: uche-nduka
     event_bio: Uche Nduka is Nigerian-American poet, essayist, and collagist. He is
       the author of eleven volumes of poems of which the latest are Nine East
