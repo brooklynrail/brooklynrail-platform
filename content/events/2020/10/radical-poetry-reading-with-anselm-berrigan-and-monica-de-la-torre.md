@@ -70,8 +70,8 @@ people:
       authors under 39 by the Hay Festival's Bogota39 list and co-founded sur+
       publishing collective in Mexico. "
   - person: uche-nduka
-    event_bio: Uche Nduka, poet & essayist, is the author of 12 volumes of poems of
-      which the most recent is FACING YOU (City Lights,2020). His writing has
+    event_bio: Uche Nduka, Poet & Essayist, is the author of 12 volumes of poems of
+      which the most recent is FACING YOU (City Lights, 2020). His writing has
       been translated into German, Italian, Arabic, Romanian, Finnish, French.
       He teaches at Queens College.
   - person: asiya-wadud
