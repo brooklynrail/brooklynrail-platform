@@ -70,12 +70,10 @@ people:
       authors under 39 by the Hay Festival's Bogota39 list and co-founded sur+
       publishing collective in Mexico. "
   - person: uche-nduka
-    event_bio: Uche Nduka is Nigerian-American poet, essayist, and collagist. He is
-      the author of eleven volumes of poems of which the latest are Nine East
-      (2013), Sageberry 1 (2017), Living In Public (2018). His writing has been
-      translated into German, Arabic, Finnish, Romanian, Italian. City Lights
-      will publish his new volume of poems titled Facing You in 2020. Nduka
-      presently works and lives in New York.
+    event_bio: Uche Nduka, poet & essayist, is the author of 12 volumes of poems of
+      which the most recent is FACING YOU (City Lights,2020). His writing has
+      been translated into German, Italian, Arabic, Romanian, Finnish, French.
+      He teaches at Queens College.
   - person: asiya-wadud
     event_bio: Asiya Wadud is the author of Crosslight for Youngbird (Nightboat
       Books, 2018), a finalist for the Hurston/Wright Legacy Award in Poetry.
