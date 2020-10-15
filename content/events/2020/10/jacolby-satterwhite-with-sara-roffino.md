@@ -32,12 +32,7 @@ people:
       Cultured, Bomb.com, Artnet News, Galerie, The Art Newspaper, Artsy, and
       Observer.com among other publications. In 2009–10, she lived in Lisbon on
       a Fulbright.
-poets:
-  - person: jen-fisher
-    event_bio: "Jen Fisher was born in Florida in 1981. She currently runs the book
-      stand, VorteXity Books, in the East Village and her poetry, essays, and
-      reviews appear in Dead Horse Bay (2013-present), Xilitla (2019), and
-      Vietnam (2020). She currently lives in Queens. "
+poets: []
 date: 2020-10-20 13:00:00 -0500
 end_date: 2020-10-20 14:30:00 -0500
 series: 155
