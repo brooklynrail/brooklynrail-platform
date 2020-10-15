@@ -19,6 +19,7 @@ event_organizer:
   - theater-of-war
 event_producer:
   - theater-of-war
+youtube_id: g3O-A6wRbIc
 registration_url: https://www.eventbrite.com/e/mothers-of-the-movement-gwen-carr-and-valerie-bell-tickets-120546151785
 event_platform:
   - zoom
