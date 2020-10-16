@@ -1,5 +1,5 @@
 ---
-name: Jamie Nares
+name: James Nares
 first_name: Jamie
 last_name: Nares
 short_bio: is a contemporary British artist known for her large calligraphic
