@@ -1,10 +1,26 @@
 ---
 title: Celebrating Art in General
 summary: Join us for a celebration of Art in General's incredible work over the
-  past 40 years. Panelists will include Byron Kim, Chris Larson, Paul Pfeiffer,
-  Aliza Shvarts, Robin Tewes and founders Teresa Liszka and Martin Weinstein.
-  The conversation will be led by Charlotte Kent and Irene Mei Zhi Shum. We'll
-  conclude with a poetry reading from Caits Meissner.
+  past 40 years. Panelists will include Dean Daerko, Chris Larson, Paul
+  Pfeiffer, Jacob Procter, Aliza Shvarts, Robin Tewes and founders Teresa Liszka
+  and Martin Weinstein. The conversation will be led by Charlotte Kent and Art
+  in General Executive Director Irene Mei Zhi Shum. We'll conclude with a poetry
+  reading from Caits Meissner.
+people:
+  - person: charlotte-kent
+    event_bio: Charlotte Kent, PhD is Assistant Professor of Visual Culture in the
+      Department of Art and Design at Montclair State University. She received
+      her PhD in Comparative Literature (CUNY Graduate Center), with a
+      certificate in critical theory. Her dissertation focused on the narratives
+      and rhetoric of art writing, with grant funded research at Tate Modern, to
+      contextualize the problematics of the Homeland Security Agency’s claim “if
+      you see something, say something.” Currently, she is co-editing a
+      collection on the absurd in contemporary art. Beyond scholarly
+      contributions to essay collections and journals, Charlotte produces
+      exhibition reviews for Brooklyn Rail, opinion pieces for Clot, and feature
+      articles as well as monthly column for Artists Magazine. In 2019-2020, she
+      was the Guest Editor for the Creative Research Center, producing a series
+      of posts on the topic of Collaboration.
 poets:
   - person: caits-meissner
     event_bio: Caits Meissner is the author of the illustrated poetry book Let It
@@ -24,6 +40,8 @@ registration_url: https://www.eventbrite.com/e/the-new-social-environment-154-ce
 event_platform:
   - zoom
 ---
+{{< image media="undefined" size="md" >}}
+
 # **THANK YOU: CLOSING THOUGHTS & SIGNS OF CHANGE**
 
 *From Art in General*
