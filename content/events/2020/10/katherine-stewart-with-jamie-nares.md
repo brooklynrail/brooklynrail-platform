@@ -15,15 +15,22 @@ people:
       Republic, New York Review of Books, and the Advocate. You may follow her
       on Twitter @kathsstewart"
   - person: jamie-nares
-    event_bio: >
-      Jamie Nares is a contemporary British artist known for her large
-      calligraphic paintings. Born in 1953 in London, England, Nares went on to
-      study at the School of Visual Arts in New York, soon becoming an integral
-      part of the late 1970s downtown Manhattan art scene, initially working in
-      film and creating a series titled No Wave. Today, her work is found in the
-      collections of the Metropolitan Museum of Art in New York, the Whitney
-      Museum of American Art in New York, and the Albright-Knox Art Museum in
-      Buffalo, among others. Nares lives and works in New York, NY.
+    event_bio: Over the course of a five-decade career, James Nares has
+      investigated, challenged, and expanded the boundaries of her multimedia
+      practice that encompasses film, music, painting, photography, and
+      performance. She continues to employ various media to explore physicality,
+      motion, and the unfolding of time. Nares has been the subject of numerous
+      solo exhibitions, including at the Metropolitan Museum of Art, New York,
+      and a career-spanning retrospective at the Milwaukee Art Museum. Her work
+      is included in several prominent public collections, including the
+      Metropolitan Museum of Art, New York, the Museum of Modern Art, New York,
+      the Whitney Museum of American Art, New York and the Albright-Knox
+      Gallery, Buffalo, NY. A career-spanning survey of her film and video works
+      were presented in 2008 at Anthology Film Archives, New York. In 2014,
+      Rizzoli published a comprehensive monograph on Nares's career to date. In
+      2019 the Milwaukee Art Museum published a catalog in conjunction with
+      Nares’s retrospective held at the museum. Nares has lived and worked in
+      New York since 1974 and is represented by the Kasmin Gallery, NY.
 poets:
   - person: gabriel-ramirez
     event_bio: Gabriel Ramirez is a Queer Afro-Latinx poet and teaching artist.
