@@ -8,4 +8,6 @@ short_bio: Bennet Bergman is a poet, educator, and publisher. He earned a BA
   He is the founder and editor of Changes, a nonprofit press dedicated to
   publishing exceptional poetry by emerging writers in the United States. He
   lives in New York City.
+portraits:
+  - media: 2020/10/bennet-bergman
 ---
