@@ -1,6 +1,6 @@
 ---
-name: Jamie Nares
-first_name: Jamie
+name: James Nares
+first_name: James
 last_name: Nares
 short_bio: is a contemporary British artist known for her large calligraphic
   paintings. Her work is found in the collections of the Metropolitan Museum of
