@@ -40,9 +40,11 @@ registration_url: https://www.eventbrite.com/e/the-new-social-environment-154-ce
 event_platform:
   - zoom
 ---
-{{< image media="undefined" size="md" >}}
+{{< image media="2020/10/art-in-general" size="md" >}}
 
-# **THANK YOU: CLOSING THOUGHTS & SIGNS OF CHANGE**
+# **THANK YOU**
+
+# **CLOSING THOUGHTS & SIGNS OF CHANGE**
 
 *From Art in General*
 
@@ -53,3 +55,7 @@ event_platform:
 > We are proud to present our last New Commission, ***[Project 270: Signs of Change](http://www.artingeneral.org/exhibitions/706)*** and online exhibition ***[Dropped By and Found You: #DroppedByAiG](http://www.artingeneral.org/exhibitions/704)***.
 
 Learn more: <http://www.artingeneral.org>
+
+
+
+Join us for a celebration of the incredible 40 year history, accomplishments, and people part of Art in General.
