@@ -2,8 +2,7 @@
 title: Robert Storr on Philip Guston with Phong H. Bui
 summary: Art critic, curator, artist, and educator Robert Storr will join the
   Rail's publisher and artistic director Phong H. Bui for a conversation on
-  Philip Guston. We'll conclude with a performance by artist and composer Samita
-  Sinha.
+  Philip Guston. We'll conclude with a poetry reading.
 people:
   - person: robert-storr
     event_bio: Robert Storr, preeminent art critic, curator, artist, and educator,
@@ -30,13 +29,7 @@ people:
       first U.S. retrospective of Jonas Mekas, and Occupy Industry City: Artists
       Need to Create on the Same Scale that Society Has the Capacity to Destroy,
       Year 3."
-poets:
-  - person: samita-sinha
-    event_bio: "Artist and composer Samita Sinha creates multidisciplinary
-      performance works that investigate origins of voice. She synthesizes
-      Indian vocal traditions and embodied energetic practices to create a
-      decolonized, bodily, multivalent language of vibration and transformation.
-      "
+poets: []
 date: 2020-10-23 13:00:00 -0500
 end_date: 2020-10-23 14:30:00 -0500
 series: 158
