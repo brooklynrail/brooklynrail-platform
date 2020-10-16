@@ -10,4 +10,5 @@ short_bio: Bennet Bergman is a poet, educator, and publisher. He earned a BA
   lives in New York City.
 portraits:
   - media: 2020/10/bennet-bergman
+website: https://www.bennetbergman.com/
 ---
