@@ -19,14 +19,10 @@ people:
       dedicated to publishing exceptional poetry by emerging writers in the
       United States. He lives in New York City.
   - person: cedar-sigo
-    event_bio: "Cedar Sigo was raised on the Suquamish Reservation in the Pacific
-      Northwest. He studied at The Jack Kerouac School of Disembodied Poetics at
-      the Naropa Institute. Sigo is the author of Royals (Wave Books, 2017),
-      Language Arts (Wave Books, 2014), and Stranger in Town (City Lights,
-      2010). Of his work, Ron Silliman writes, “Cedar Sigo is a Frank O’Hara for
-      the 21st century: witty, erudite, serious, with a terrific ear and eye for
-      the minutest details, at home in the world of the arts.” He has taught at
-      St. Mary’s College and Naropa University. He lives in Lofall, Washington."
+    event_bio: Cedar Sigo, the Bagley-Wright lecturer for 2019, has just completed
+      work with Joy Harjo and several other poets on a new Norton Anthology of
+      Native Nations Poetry and his recent 2019 poetry has appeared in Harper’s,
+      Freak Fam, and Splinter. He currently lives in Lofall, Washington.
   - person: david-mills
     event_bio: David Mills is the author of The Sudden Country, The Dream Detective
       and the chapbook After Mistic. He has received fellowships from the New
