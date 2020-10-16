@@ -20,6 +20,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-154-celebrating-art-in-general-tickets-125645975495
 event_platform:
   - zoom
 ---
