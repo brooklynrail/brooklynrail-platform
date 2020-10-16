@@ -10,6 +10,11 @@ people:
       "Sonnet Boom!," "Ferguson Interview Project," and a video game available
       for android, "Space Quake by Ama Birch". She has a Master of Fine Arts in
       Creative Writing from the California Institute of the Arts.
+  - person: michael-cavuto
+    event_bio: Michael Cavuto is a poet from Philadelphia currently living in
+      Brooklyn. He is a founding member of the Toronto-based pure sound
+      collective Sex Panic! With Dale Smith and Hoa Nguyen, he edits the Slow
+      Poetry in America Newsletter.
   - person: shelley-marlow
     event_bio: Shelley Marlow wrote Two Augusts In a Row In a Row, a novel
       (Publication Studio, Portland, 2015) plus art editions (Hudson and London,
@@ -32,11 +37,6 @@ people:
       years. The Juilliard School of Drama commissioned and produced Mr. Mills’
       play The Serpent and the Dove. He has also recorded his poetry on ESPN and
       RCA Records.
-  - person: michael-cavuto
-    event_bio: Michael Cavuto is a poet from Philadelphia currently living in
-      Brooklyn. He is a founding member of the Toronto-based pure sound
-      collective Sex Panic! With Dale Smith and Hoa Nguyen, he edits the Slow
-      Poetry in America Newsletter.
 date: 2020-10-21 13:00:00 -0500
 end_date: 2020-10-21 14:00:00 -0500
 series: 156
