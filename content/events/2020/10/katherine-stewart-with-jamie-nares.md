@@ -2,11 +2,9 @@
 title: Katherine Stewart with Jamie Nares
 deck: Weekly conversations with activists, social justice practitioners, and
   changemakers.
-summary: "Please join us for our eighth installment of Common Ground, featuring
-  Katherine Stewart, investigative reporter and author of The Power Worshippers:
-  Inside the Dangerous Rise of Religious Nationalism (Bloomsbury, 2020) in
-  conversation with artist Jamie Nares for a dialogue on the Religious Right’s
-  rise to political power."
+summary: Please join us for our eighth installment of Common Ground, featuring
+  investigative reporter Katherine Stewart in conversation with artist Jamie
+  Nares on the Religious Right’s rise to political power.
 people:
   - person: katherine-stewart
     event_bio: "Katherine Stewart is an investigative reporter and author who covers
@@ -26,6 +24,12 @@ people:
       collections of the Metropolitan Museum of Art in New York, the Whitney
       Museum of American Art in New York, and the Albright-Knox Art Museum in
       Buffalo, among others. Nares lives and works in New York, NY.
+poets:
+  - person: gabriel-ramirez
+    event_bio: Gabriel Ramirez is a Queer Afro-Latinx poet and teaching artist.
+      Gabriel has received fellowships from Palm Beach Poetry Festival, The
+      Watering Hole, The Conversation Literary Arts Festival, CantoMundo and a
+      participant in the Callaloo Writers Workshops.
 date: 2020-10-22 13:00:00 -0500
 end_date: 2020-10-22 14:30:00 -0500
 collections:
