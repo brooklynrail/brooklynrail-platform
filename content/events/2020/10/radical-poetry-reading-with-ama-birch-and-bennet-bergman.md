@@ -23,6 +23,15 @@ people:
       Resistance; Evergreen Review; Hyperallergic; KGB Bar Lit Mag; the Rail;
       Altar-ed Bodies, Clarity Haynes; Rilking; LTTR (Lesbians To The Rescue);
       alLuPiNiT; St. Petersburg Review.
+  - person: david-mills
+    event_bio: David Mills is the author of The Sudden Country, The Dream Detective
+      and the chapbook After Mistic. He has received fellowships from the New
+      York Foundation for the Arts, Breadloaf and Arts Link. His poems have
+      appeared in Ploughshares, Brooklyn Rail, Jubilat and Hanging Loose Press
+      to name a few. He lived in Langston Hughes’ landmark Harlem home for three
+      years. The Juilliard School of Drama commissioned and produced Mr. Mills’
+      play The Serpent and the Dove. He has also recorded his poetry on ESPN and
+      RCA Records.
 date: 2020-10-21 13:00:00 -0500
 end_date: 2020-10-21 14:00:00 -0500
 series: 156
