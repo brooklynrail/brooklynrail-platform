@@ -164,7 +164,7 @@ registration_url: https://www.eventbrite.com/e/the-new-social-environment-154-ce
 event_platform:
   - zoom
 ---
-{{< image media="2020/10/art-in-general" size="md" >}}
+{{< image media="2020/10/art-in-general" size="lg" >}}
 
 # **THANK YOU**
 
