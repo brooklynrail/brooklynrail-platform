@@ -1,7 +1,7 @@
 ---
-media: /media/files/jenniferbookseller-35.jpg
+media: /media/files/img_0357.jpg
 title: Jen Fisher
 alt: Jen Fisher
-caption: Photo by Lucia Buricelli
+caption: ""
 date: 2020-10-15 11:55:00 -0500
 ---
