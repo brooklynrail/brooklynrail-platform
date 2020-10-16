@@ -29,7 +29,12 @@ people:
       first U.S. retrospective of Jonas Mekas, and Occupy Industry City: Artists
       Need to Create on the Same Scale that Society Has the Capacity to Destroy,
       Year 3."
-poets: []
+poets:
+  - person: jen-fisher
+    event_bio: Jen fisher was born in Florida in 1981. Her first book, "In the Mud"
+      will be released in November 2020 from Desuetude Gallery. Her poetry has
+      appeared in The Quarterless Review, The Brooklyn Rail, Newest York, and
+      Daggers Magazine, among many others. She lives in Queens.
 date: 2020-10-23 13:00:00 -0500
 end_date: 2020-10-23 14:30:00 -0500
 series: 158
