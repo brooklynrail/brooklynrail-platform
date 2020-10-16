@@ -45,6 +45,15 @@ people:
       years. The Juilliard School of Drama commissioned and produced Mr. Mills’
       play The Serpent and the Dove. He has also recorded his poetry on ESPN and
       RCA Records.
+  - person: cedar-sigo
+    event_bio: "Cedar Sigo was raised on the Suquamish Reservation in the Pacific
+      Northwest. He studied at The Jack Kerouac School of Disembodied Poetics at
+      the Naropa Institute. Sigo is the author of Royals (Wave Books, 2017),
+      Language Arts (Wave Books, 2014), and Stranger in Town (City Lights,
+      2010). Of his work, Ron Silliman writes, “Cedar Sigo is a Frank O’Hara for
+      the 21st century: witty, erudite, serious, with a terrific ear and eye for
+      the minutest details, at home in the world of the arts.” He has taught at
+      St. Mary’s College and Naropa University. He lives in Lofall, Washington."
 date: 2020-10-21 13:00:00 -0500
 end_date: 2020-10-21 14:00:00 -0500
 series: 156
