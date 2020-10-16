@@ -55,6 +55,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: JAlGrs9jveA
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-150-sean-scully-tickets-124333790715
 event_platform:
   - zoom
