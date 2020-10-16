@@ -26,6 +26,8 @@ people:
       collections of the Metropolitan Museum of Art in New York, the Whitney
       Museum of American Art in New York, and the Albright-Knox Art Museum in
       Buffalo, among others. Nares lives and works in New York, NY.
+poets:
+  - person: gabriel-ramirez
 date: 2020-10-22 13:00:00 -0500
 end_date: 2020-10-22 14:30:00 -0500
 collections:
