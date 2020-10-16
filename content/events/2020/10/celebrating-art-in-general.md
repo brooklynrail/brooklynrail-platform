@@ -56,6 +56,30 @@ people:
 
 
       From 1981 to 2015, Art in General was located at 79 Walker Street in Manhattan, in a six-floor building owned by General Hardware Manufacturing Inc. (formerly General Tools & Instruments LLC), hence the organization’s name. Located at the intersection of three neighborhoods in New York City (Tribeca, SoHo, and Chinatown), Art in General has since its founding been committed to presenting new work by artists of color, women, immigrants and visiting artists. In 2003, Gerry Weinstein, CEO of General Tools & Instruments LLC, donated the storefront to Art in General for use as a gallery. In 2006, the sixth-floor gallery underwent a major renovation by Steven Learner Studios and was re-opened in January 2007 with Le Musée Minuscule, created in honor of New Langton Arts’ former space of the same name. After the building was sold and changed ownership, Art in General temporarily moved to 20 Jay Street/145 Plymouth Street in DUMBO from 2016 to 2020.
+  - person: irene-mei-zhi-shum
+    event_bio: "For fifteen years, curator Irene Mei Zhi Shum has actively explored
+      the intersection of art and architecture, organizing ambitious projects
+      and championing the artists and designers with whom she works.  Currently,
+      she is the Executive Director of Art in General in Brooklyn, New
+      York.  Prior to this, Shum served as the Associate Curator of Contemporary
+      Art at the Menil Collection in Houston, Texas (2018-2020) and the
+      inaugural curator for the Philip Johnson Glass House, a site of the
+      National Trust for Historic Preservation in New Canaan, Connecticut
+      (2007-2018).  An early and major responsibility at the Glass House was the
+      coordination of the transfer of property from the estates of architect
+      Philip Johnson and art patron David Whitney to the National Trust.  Shum
+      shaped the Glass House’s collection and implemented the site’s arts
+      initiative, introducing exhibitions, music and dance
+      performances.  Notably, she organized and secured funding for the
+      large-scale, site-specific exhibitions Fujiko Nakaya: Veil (2014) and
+      Yayoi Kusama: Narcissus Garden (2016), as well as a highly acclaimed sound
+      performance by composer Ryuichi Sakamoto and visual artist and musician
+      Carsten Nicolai (Alva Noto), that was recorded and released as Glass
+      (Noton, 2018).  Shum holds a Master’s in Architecture from Yale
+      University; a certificate of architecture from the École des Beaux-Arts of
+      the Ecoles d’Art Américaines de Fontainebleau, where she was awarded the
+      Prix de Ville de Fontainebleau; and a Bachelor of Arts degree in
+      Architecture and Art History from Barnard College, Columbia University. "
   - person: paul-pfeiffer
     event_bio: Paul Pfeiffer is a visual artist living and working in NYC. He was
       born in 1966 in Honolulu, Hawaii. Known for his innovative manipulation of
