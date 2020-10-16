@@ -7,6 +7,16 @@ summary: Join us for a celebration of Art in General's incredible work over the
   in General Executive Director Irene Mei Zhi Shum. We'll conclude with a poetry
   reading from Caits Meissner.
 people:
+  - person: chris-larson
+    event_bio: "Chris Larson is a St. Paul-based artist and musician who has
+      developed a multimedia practice rooted in sculpture that incorporates
+      film, video, photography, sound, and drawing. He is an Associate Professor
+      of Art and the Director of Undergraduate Studies at the University of
+      Minnesota. Larson is also the publisher of InReview, a quarterly print
+      publication presenting critical responses to art in the Twin Cities. In
+      2017 with his partner Kriss Zulkosky, he co-founded Second Shift Studio
+      Space of St. Paul, an artist-led effort to provide better resources to
+      working artists and build communities of arts appreciators. "
   - person: charlotte-kent
     event_bio: Charlotte Kent, PhD is Assistant Professor of Visual Culture in the
       Department of Art and Design at Montclair State University. She received
@@ -55,7 +65,5 @@ event_platform:
 > We are proud to present our last New Commission, ***[Project 270: Signs of Change](http://www.artingeneral.org/exhibitions/706)*** and online exhibition ***[Dropped By and Found You: #DroppedByAiG](http://www.artingeneral.org/exhibitions/704)***.
 
 Learn more: <http://www.artingeneral.org>
-
-
 
 Join us for a celebration of the incredible 40 year history, accomplishments, and people part of Art in General.
