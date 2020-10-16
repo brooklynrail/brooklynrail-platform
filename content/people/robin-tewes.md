@@ -11,4 +11,6 @@ short_bio: Robin Tewes is a New York painter and educator. Born and raised in
   Hunter College, Pace University, Parsons the New School for Design, and the
   School of Visual Arts. She has been included in numerous exhibitions, both
   domestically and internationally.
+portraits:
+  - media: 2020/10/robin-tewes
 ---
