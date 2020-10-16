@@ -32,6 +32,11 @@ people:
       years. The Juilliard School of Drama commissioned and produced Mr. Mills’
       play The Serpent and the Dove. He has also recorded his poetry on ESPN and
       RCA Records.
+  - person: michael-cavuto
+    event_bio: Michael Cavuto is a poet from Philadelphia currently living in
+      Brooklyn. He is a founding member of the Toronto-based pure sound
+      collective Sex Panic! With Dale Smith and Hoa Nguyen, he edits the Slow
+      Poetry in America Newsletter.
 date: 2020-10-21 13:00:00 -0500
 end_date: 2020-10-21 14:00:00 -0500
 series: 156
