@@ -28,6 +28,10 @@ people:
       Buffalo, among others. Nares lives and works in New York, NY.
 poets:
   - person: gabriel-ramirez
+    event_bio: Gabriel Ramirez is a Queer Afro-Latinx poet and teaching artist.
+      Gabriel has received fellowships from Palm Beach Poetry Festival, The
+      Watering Hole, The Conversation Literary Arts Festival, CantoMundo and a
+      participant in the Callaloo Writers Workshops.
 date: 2020-10-22 13:00:00 -0500
 end_date: 2020-10-22 14:30:00 -0500
 collections:
