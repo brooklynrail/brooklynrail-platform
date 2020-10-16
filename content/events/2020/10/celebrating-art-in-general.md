@@ -113,6 +113,10 @@ people:
       including Bard College, Hunter College, Pace University, Parsons the New
       School for Design, and the School of Visual Arts. She has been included in
       numerous exhibitions, both domestically and internationally.
+  - person: teresa-liszka-and-martin-weinstein
+    event_bio: Founded by artists Martin Weinstein and Teresa Liszka in 1981, Art in
+      General has provided space and funding to local and international artists
+      to realize new work.
 poets:
   - person: caits-meissner
     event_bio: Caits Meissner is the author of the illustrated poetry book Let It
