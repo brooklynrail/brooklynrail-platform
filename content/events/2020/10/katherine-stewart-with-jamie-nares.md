@@ -2,11 +2,9 @@
 title: Katherine Stewart with Jamie Nares
 deck: Weekly conversations with activists, social justice practitioners, and
   changemakers.
-summary: "Please join us for our eighth installment of Common Ground, featuring
-  Katherine Stewart, investigative reporter and author of The Power Worshippers:
-  Inside the Dangerous Rise of Religious Nationalism (Bloomsbury, 2020) in
-  conversation with artist Jamie Nares for a dialogue on the Religious Right’s
-  rise to political power."
+summary: Please join us for our eighth installment of Common Ground, featuring
+  investigative reporter Katherine Stewart in conversation with artist Jamie
+  Nares on the Religious Right’s rise to political power.
 people:
   - person: katherine-stewart
     event_bio: "Katherine Stewart is an investigative reporter and author who covers
