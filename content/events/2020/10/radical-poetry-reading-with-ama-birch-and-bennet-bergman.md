@@ -10,6 +10,13 @@ people:
       "Sonnet Boom!," "Ferguson Interview Project," and a video game available
       for android, "Space Quake by Ama Birch". She has a Master of Fine Arts in
       Creative Writing from the California Institute of the Arts.
+  - person: bennet-bergman
+    event_bio: Bennet Bergman is a poet, educator, and publisher. He earned a BA
+      from Yale University and an MFA from the Iowa Writers’ Workshop. His poems
+      have appeared in The Threepenny Review, Gulf Coast, and Electric
+      Literature. He is the founder and editor of Changes, a nonprofit press
+      dedicated to publishing exceptional poetry by emerging writers in the
+      United States. He lives in New York City.
   - person: michael-cavuto
     event_bio: Michael Cavuto is a poet from Philadelphia currently living in
       Brooklyn. He is a founding member of the Toronto-based pure sound
