@@ -16,6 +16,16 @@ people:
       work has appeared in The New York Times, NBC, Washington Post, The New
       Republic, New York Review of Books, and the Advocate. You may follow her
       on Twitter @kathsstewart"
+  - person: jamie-nares
+    event_bio: >
+      Jamie Nares is a contemporary British artist known for her large
+      calligraphic paintings. Born in 1953 in London, England, Nares went on to
+      study at the School of Visual Arts in New York, soon becoming an integral
+      part of the late 1970s downtown Manhattan art scene, initially working in
+      film and creating a series titled No Wave. Today, her work is found in the
+      collections of the Metropolitan Museum of Art in New York, the Whitney
+      Museum of American Art in New York, and the Albright-Knox Art Museum in
+      Buffalo, among others. Nares lives and works in New York, NY.
 date: 2020-10-22 13:00:00 -0500
 end_date: 2020-10-22 14:30:00 -0500
 collections:
