@@ -31,6 +31,23 @@ people:
       articles as well as monthly column for Artists Magazine. In 2019-2020, she
       was the Guest Editor for the Creative Research Center, producing a series
       of posts on the topic of Collaboration.
+  - person: dean-daderko
+    event_bio: Dean Daderko is a curator based in New York. He received his BFA in
+      sculpture in 1997 from the Tyler School of Art. His most recent
+      exhibitions, 50 Artists Photograph The Future and Piece de Resistance,
+      were presented by Higher Pictures and Larissa Goldston Gallery,
+      respectively. SIDE X SIDE, an exhibition he guest curated for Visual AIDS,
+      explored the impact of AIDS on a first generation of artists faced with
+      the epidemic. He has also curated exhibitions and created programs for Art
+      in General, Artists’ Space, and The Kitchen in New York, and for the
+      Contemporary Art Center in Vilnius, Lithuania. His writing has appeared in
+      publications by the Studio Museum in Harlem, El Museo del Barrio, P.S.1
+      Contemporary Art Center, and the Australian Centre for Contemporary Arts.
+      He is the recipient of a Curatorial Research Fellowship in 2008-09 from
+      the French American Cultural Exchange, and has been a Curator of The
+      Americas In Residence at the Fonderie Darling in Montreal, Quebec,
+      sponsored by the Conseil des arts de Montreal. Mr. Daderko was appointed
+      critic in painting/printmaking at Yale in 2010.
 poets:
   - person: caits-meissner
     event_bio: Caits Meissner is the author of the illustrated poetry book Let It
