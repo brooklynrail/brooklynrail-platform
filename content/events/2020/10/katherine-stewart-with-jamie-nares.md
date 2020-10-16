@@ -7,6 +7,15 @@ summary: "Please join us for our eighth installment of Common Ground, featuring
   Inside the Dangerous Rise of Religious Nationalism (Bloomsbury, 2020) in
   conversation with artist Jamie Nares for a dialogue on the Religious Right’s
   rise to political power."
+people:
+  - person: katherine-stewart
+    event_bio: "Katherine Stewart is an investigative reporter and author who covers
+      religious liberty, politics, policy, education, and controversies over the
+      separation of church and state. Her latest book is THE POWER WORSHIPPERS:
+      Inside the Dangerous Rise of Religious Nationalism (Bloomsbury, 2020). Her
+      work has appeared in The New York Times, NBC, Washington Post, The New
+      Republic, New York Review of Books, and the Advocate. You may follow her
+      on Twitter @kathsstewart"
 date: 2020-10-22 13:00:00 -0500
 end_date: 2020-10-22 14:30:00 -0500
 collections:
