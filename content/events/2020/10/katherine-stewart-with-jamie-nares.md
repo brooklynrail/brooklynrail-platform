@@ -7,10 +7,10 @@ summary: "Please join us for our eighth installment of Common Ground, featuring
   Inside the Dangerous Rise of Religious Nationalism (Bloomsbury, 2020) in
   conversation with artist Jamie Nares for a dialogue on the Religious Right’s
   rise to political power."
-date: 2020-10-16 17:57:00 -0500
-end_date: 2020-10-16 17:57:00 -0500
+date: 2020-10-22 13:00:00 -0500
+end_date: 2020-10-22 14:30:00 -0500
 collections:
-  - the-new-social-environment
+  - common-ground
 event_organizer:
   - the-brooklyn-rail
 event_producer:
