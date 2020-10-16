@@ -1,5 +1,5 @@
 ---
-media: /media/files/49200577321_fb58f4e9a8_o.jpg
+media: /media/files/edited.jpg
 title: Samita Sinha
 alt: Samita Sinha
 caption: Photo by Julia Discenza
