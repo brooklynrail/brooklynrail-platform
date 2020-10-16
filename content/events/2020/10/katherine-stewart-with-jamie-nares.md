@@ -52,6 +52,6 @@ Please join us for our eighth installment of *Common Ground*, when we will be jo
 
 This conversation will be moderated by **Malvika Jolly**, and will close with a reading from poet and activist **Gabriel Ramirez**. 
 
-### **On this series**
+### **About this series**
 
 At the start of quarantine, the Brooklyn Rail asked how might we stay connected to each other in a time of self-isolation? Now we ask: How can we stay involved and engaged in upholding our civic responsibility to one another across communities? How can we deploy this community built through the *New Social Environment*—through hundreds of conversations and meals shared over the past six months—to mobilize daily action for grassroots movements, social justice and equity projects, and for the political good of our most marginalized communities across the nation? Tune in Thursdays at 1pm for *Common Ground*, a new lunchtime series featuring weekly conversations with social justice practitioners, changemakers, and activists on how we can mobilize our daily actions to radically reimagine our democracy.
