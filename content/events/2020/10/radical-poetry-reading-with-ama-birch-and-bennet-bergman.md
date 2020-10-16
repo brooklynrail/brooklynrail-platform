@@ -54,6 +54,17 @@ people:
       the 21st century: witty, erudite, serious, with a terrific ear and eye for
       the minutest details, at home in the world of the arts.” He has taught at
       St. Mary’s College and Naropa University. He lives in Lofall, Washington."
+  - person: sarah-wang
+    event_bio: Sarah Wang is a writer in New York. She has written for BOMB, n+1,
+      The Los Angeles Review of Books, Joyland, Catapult, Biennale de l'Image en
+      Mouvement at the Centre d'Art Contemporain Genève, Conjunctions,
+      Stonecutter Journal, semiotext(e)'s Animal Shelter, The Shanghai Literary
+      Review, Performa Magazine, Musée d'Art Contemporain de Lyon, and The Last
+      Newspaper at the New Museum, among other publications. She is the winner
+      of a Nelson Algren runner-up prize for fiction and is currently a fellow
+      at the Center for Fiction and the Asian American Writers' Workshop's
+      Witness Program, which bridges conversations about mass incarceration and
+      migrant detention.
 date: 2020-10-21 13:00:00 -0500
 end_date: 2020-10-21 14:00:00 -0500
 series: 156
