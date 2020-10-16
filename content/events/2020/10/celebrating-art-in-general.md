@@ -70,6 +70,23 @@ people:
       Museum für Gegenwart, Berlin, 2009. He is represented by Paula Cooper
       Gallery, NYC; Thomas Dane Gallery, London; and Carlier Gebauer Gallery,
       Berlin.
+  - person: jacob-proctor
+    event_bio: >-
+      Jacob Proctor is the Gilbert and Ann Kinney New York Collector at the
+      Archives of American Art. He was previously Curator at the Museum
+      Brandhorst, where he organized a major Alex Katz exhibition in 2018,
+      co-edited and contributed to a new guide to the collection and is
+      currently curating a mid-career survey of Lucy McKenzie, scheduled to open
+      in September 2020. Proctor served as founding curator of the Neubauer
+      Collegium for Culture and Society at the University of Chicago, a position
+      he held from 2013 through 2017. He has also served as curator at the Aspen
+      Art Museum, associate curator of modern and contemporary art at the
+      University of Michigan Museum of Art, and the Ruth V. S. Lauer Curatorial
+      Assistant in the department of prints at the Fogg Art Museum at Harvard
+      University. 
+
+
+      From 2014 to 2017, Jacob served as one of two external curators who advised on the selection of artists and projects for the “Frame,” “Focus,” and “Live” sections of the Frieze Art Fair in both London and New York. He has also served as curator at the Aspen Art Museum, associate curator of modern and contemporary art at the University of Michigan Museum of Art, and the Ruth V. S. Lauer Curatorial Assistant in the department of prints at the Fogg Art Museum at Harvard University. His critical and art historical writings have appeared in Artforum and numerous monographs and exhibition catalogues. 
 poets:
   - person: caits-meissner
     event_bio: Caits Meissner is the author of the illustrated poetry book Let It
