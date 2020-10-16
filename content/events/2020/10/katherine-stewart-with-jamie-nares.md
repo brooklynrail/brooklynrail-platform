@@ -48,7 +48,7 @@ event_producer:
 event_platform:
   - zoom
 ---
-{{< image media="2020/09/common-ground-header-graphic-dark-background" size="md" >}}
+{{< image media="2020/09/common-ground-header-graphic-dark-background" size="sm" >}}
 
 Please join us for our eighth installment of *Common Ground*, when we will be joined by **Katherine Stewart**, investigative reporter and author of *[The Power Worshippers: Inside the Dangerous Rise of Religious Nationalism ](https://www.bloomsbury.com/us/the-power-worshippers-9781635573435/)*(Bloomsbury, 2020) in conversation with artist **Jamie Nares** for a dialogue on the Religious Right's rise to political power. They will discuss how the alt-right's ascent to the White House was paved by a massive political network of think tanks, advocacy groups, and legal initiatives bankrolled by a handful of super-wealthy, ultraconservative donors and family foundations, and how this homegrown wave of religious fundamentalism constitutes a much graver threat to the American republic than we may realize. 
 
