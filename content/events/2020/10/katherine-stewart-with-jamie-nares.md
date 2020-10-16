@@ -45,6 +45,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/on-the-religious-right-common-ground-with-katherine-stewart-james-nares-tickets-125687579935
 event_platform:
   - zoom
 ---
