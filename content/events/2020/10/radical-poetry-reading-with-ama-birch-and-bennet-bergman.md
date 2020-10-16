@@ -1,9 +1,10 @@
 ---
 title: Radical Poetry Reading with Ama Birch and Bennet Bergman
-deck: Featuring political poetry read by Shelley Marlow, Michael Cavuto, and
-  David Mills.
+deck: Featuring political poetry read by Shelley Marlow, Michael Cavuto, David
+  Mills, Cedar Sigo, and Sarah Wang.
 summary: Poets Ama Birch and Bennet Bergman co-curate the tenth Radical Poetry
-  Reading, featuring Shelley Marlow, Michael Cavuto, and David Mills.
+  Reading, featuring Shelley Marlow, Michael Cavuto, David Mills, Cedar Sigo,
+  and Sarah Wang.
 people:
   - person: ama-birch
     event_bio: Ama Birch is the author of three books, "Faces in the Clouds,"
