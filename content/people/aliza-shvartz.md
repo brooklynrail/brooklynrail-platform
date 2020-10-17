@@ -1,7 +1,7 @@
 ---
-name: Aliza Shvartz
+name: Aliza Shvarts
 first_name: Aliza
-last_name: Shvartz
+last_name: Shvarts
 short_bio: Dr. Aliza Shvarts is an artist and theorist who takes a queer and
   feminist approach to reproductive labor and language. Her current work focuses
   on testimony and the circulation of speech in the digital age. Her artwork
