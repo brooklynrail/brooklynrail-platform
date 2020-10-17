@@ -129,6 +129,22 @@ people:
       including Bard College, Hunter College, Pace University, Parsons the New
       School for Design, and the School of Visual Arts. She has been included in
       numerous exhibitions, both domestically and internationally.
+  - person: aliza-shvarts
+    event_bio: >-
+      Dr. Aliza Shvarts is an artist and theorist who takes a queer and feminist
+      approach to reproductive labor and language. Her current work focuses on
+      testimony and the circulation of speech in the digital age. Her artwork
+      been shown across Europe, Latin America, and the US at venues including
+      the Tate Modern in London; Centre for Contemporary Art FUTURA in Prague;
+      the Athens Biennale; Universidad de los Andes in Bogota; SculptureCenter,
+      Art in General, and Participant Inc in New York; LACE in Los Angeles; and
+      the Slought Foundation in Philadelphia.
+
+
+      Shvarts’ writing has been published in Whitechapel Documents in Contemporary Art: Practice, The Feminist and Queer Information Studies Reader, TDR/The Drama Review, Women & Performance, and The Brooklyn Rail. She has given talks at numerous institutions including The Whitney Museum, The Brooklyn Museum, Harvard University, McGill University, Stanford University, and UCLA. Not content with appearing only at revered seats of learning, she has also written liner notes for the drone metal band SunnO))) and appeared She has also been a guest commentator on MTV.
+
+
+      Shvarts received her BA summa cum laude in Fine Art and English from Yale University and her PhD in Performance Studies from New York University, where her dissertation, “The Doom Performative: Aesthetics in the Space of Interdiction,” received the Monroe Lippman Memorial Award for Distinguished Doctoral Dissertation. Shvarts was a 2014 recipient of the Creative Capital | Warhol Foundation Arts Writers Grant, a 2014-2015 Helena Rubinstein Fellow at the Whitney Independent Study Program, a 2017 Critical Writing Fellow at Recess Art, a 2019-20 Fellow at A.I.R Gallery, and a 2020 Artist Fellow at the National Arts Club. She was also a Joan Tisch Teaching Fellow at the Whitney Museum of American Art from 2015-2019, and has served as Faculty in the Leslie-Lohman Museum Queer Artist Fellowship Program since 2019.
 poets:
   - person: caits-meissner
     event_bio: Caits Meissner is the author of the illustrated poetry book Let It
