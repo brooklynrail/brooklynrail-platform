@@ -1,7 +1,7 @@
 ---
 title: Celebrating Art in General
 summary: Join us for a celebration of Art in General's incredible work over the
-  past 40 years. Panelists will include Dean Daerko, Chris Larson, Paul
+  past 40 years. Panelists will include Dean Daderko, Chris Larson, Paul
   Pfeiffer, Jacob Proctor, Aliza Shvarts, Robin Tewes and founders Teresa Liszka
   and Martin Weinstein. The conversation will be led by Charlotte Kent and Art
   in General Executive Director Irene Mei Zhi Shum. We'll conclude with a poetry
