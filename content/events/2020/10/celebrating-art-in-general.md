@@ -119,16 +119,6 @@ people:
 
 
       From 2014 to 2017, Jacob served as one of two external curators who advised on the selection of artists and projects for the “Frame,” “Focus,” and “Live” sections of the Frieze Art Fair in both London and New York. He has also served as curator at the Aspen Art Museum, associate curator of modern and contemporary art at the University of Michigan Museum of Art, and the Ruth V. S. Lauer Curatorial Assistant in the department of prints at the Fogg Art Museum at Harvard University. His critical and art historical writings have appeared in Artforum and numerous monographs and exhibition catalogues. 
-  - person: robin-tewes
-    event_bio: Robin Tewes is a New York painter and educator. Born and raised in
-      Queens, New York, Tewes graduated from the High School of Art and Design
-      in 1968 and received her BFA from Hunter College in 1978. Tewes was an
-      original member of P.S. 122 Painting Association and founded the Fifth
-      Street Gallery which operated on the Lower East Side in the late 1970s.
-      Tewes has taught at several colleges and universities around New York City
-      including Bard College, Hunter College, Pace University, Parsons the New
-      School for Design, and the School of Visual Arts. She has been included in
-      numerous exhibitions, both domestically and internationally.
   - person: aliza-shvarts
     event_bio: >-
       Dr. Aliza Shvarts is an artist and theorist who takes a queer and feminist
@@ -145,6 +135,16 @@ people:
 
 
       Shvarts received her BA summa cum laude in Fine Art and English from Yale University and her PhD in Performance Studies from New York University, where her dissertation, “The Doom Performative: Aesthetics in the Space of Interdiction,” received the Monroe Lippman Memorial Award for Distinguished Doctoral Dissertation. Shvarts was a 2014 recipient of the Creative Capital | Warhol Foundation Arts Writers Grant, a 2014-2015 Helena Rubinstein Fellow at the Whitney Independent Study Program, a 2017 Critical Writing Fellow at Recess Art, a 2019-20 Fellow at A.I.R Gallery, and a 2020 Artist Fellow at the National Arts Club. She was also a Joan Tisch Teaching Fellow at the Whitney Museum of American Art from 2015-2019, and has served as Faculty in the Leslie-Lohman Museum Queer Artist Fellowship Program since 2019.
+  - person: robin-tewes
+    event_bio: Robin Tewes is a New York painter and educator. Born and raised in
+      Queens, New York, Tewes graduated from the High School of Art and Design
+      in 1968 and received her BFA from Hunter College in 1978. Tewes was an
+      original member of P.S. 122 Painting Association and founded the Fifth
+      Street Gallery which operated on the Lower East Side in the late 1970s.
+      Tewes has taught at several colleges and universities around New York City
+      including Bard College, Hunter College, Pace University, Parsons the New
+      School for Design, and the School of Visual Arts. She has been included in
+      numerous exhibitions, both domestically and internationally.
 poets:
   - person: caits-meissner
     event_bio: Caits Meissner is the author of the illustrated poetry book Let It
