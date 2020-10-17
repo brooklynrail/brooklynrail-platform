@@ -119,22 +119,6 @@ people:
 
 
       From 2014 to 2017, Jacob served as one of two external curators who advised on the selection of artists and projects for the “Frame,” “Focus,” and “Live” sections of the Frieze Art Fair in both London and New York. He has also served as curator at the Aspen Art Museum, associate curator of modern and contemporary art at the University of Michigan Museum of Art, and the Ruth V. S. Lauer Curatorial Assistant in the department of prints at the Fogg Art Museum at Harvard University. His critical and art historical writings have appeared in Artforum and numerous monographs and exhibition catalogues. 
-  - person: aliza-shvartz
-    event_bio: >-
-      Dr. Aliza Shvarts is an artist and theorist who takes a queer and feminist
-      approach to reproductive labor and language. Her current work focuses on
-      testimony and the circulation of speech in the digital age. Her artwork
-      been shown across Europe, Latin America, and the US at venues including
-      the Tate Modern in London; Centre for Contemporary Art FUTURA in Prague;
-      the Athens Biennale; Universidad de los Andes in Bogota; SculptureCenter,
-      Art in General, and Participant Inc in New York; LACE in Los Angeles; and
-      the Slought Foundation in Philadelphia.
-
-
-      Shvarts’ writing has been published in Whitechapel Documents in Contemporary Art: Practice, The Feminist and Queer Information Studies Reader, TDR/The Drama Review, Women & Performance, and The Brooklyn Rail. She has given talks at numerous institutions including The Whitney Museum, The Brooklyn Museum, Harvard University, McGill University, Stanford University, and UCLA. Not content with appearing only at revered seats of learning, she has also written liner notes for the drone metal band SunnO))) and appeared She has also been a guest commentator on MTV.
-
-
-      Shvarts received her BA summa cum laude in Fine Art and English from Yale University and her PhD in Performance Studies from New York University, where her dissertation, “The Doom Performative: Aesthetics in the Space of Interdiction,” received the Monroe Lippman Memorial Award for Distinguished Doctoral Dissertation. Shvarts was a 2014 recipient of the Creative Capital | Warhol Foundation Arts Writers Grant, a 2014-2015 Helena Rubinstein Fellow at the Whitney Independent Study Program, a 2017 Critical Writing Fellow at Recess Art, a 2019-20 Fellow at A.I.R Gallery, and a 2020 Artist Fellow at the National Arts Club. She was also a Joan Tisch Teaching Fellow at the Whitney Museum of American Art from 2015-2019, and has served as Faculty in the Leslie-Lohman Museum Queer Artist Fellowship Program since 2019.
   - person: robin-tewes
     event_bio: Robin Tewes is a New York painter and educator. Born and raised in
       Queens, New York, Tewes graduated from the High School of Art and Design
