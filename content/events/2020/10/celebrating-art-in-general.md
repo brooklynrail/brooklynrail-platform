@@ -156,6 +156,11 @@ people:
 
 
       Shvarts received her BA summa cum laude in Fine Art and English from Yale University and her PhD in Performance Studies from New York University, where her dissertation, “The Doom Performative: Aesthetics in the Space of Interdiction,” received the Monroe Lippman Memorial Award for Distinguished Doctoral Dissertation. Shvarts was a 2014 recipient of the Creative Capital | Warhol Foundation Arts Writers Grant, a 2014-2015 Helena Rubinstein Fellow at the Whitney Independent Study Program, a 2017 Critical Writing Fellow at Recess Art, a 2019-20 Fellow at A.I.R Gallery, and a 2020 Artist Fellow at the National Arts Club. She was also a Joan Tisch Teaching Fellow at the Whitney Museum of American Art from 2015-2019, and has served as Faculty in the Leslie-Lohman Museum Queer Artist Fellowship Program since 2019.
+    related_links:
+      - text: "Shvarts in the Rail  "
+        url: https://brooklynrail.org/2015/02/criticspage/black-wedding
+      - text: "Aliza Shvarts: Purported"
+        url: https://brooklynrail.org/2020/07/artseen/Aliza-Shvarts-Purported
   - person: robin-tewes
     event_bio: Robin Tewes is a New York painter and educator. Born and raised in
       Queens, New York, Tewes graduated from the High School of Art and Design
