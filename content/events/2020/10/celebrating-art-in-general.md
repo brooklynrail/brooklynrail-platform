@@ -24,20 +24,6 @@ people:
       Americas In Residence at the Fonderie Darling in Montreal, Quebec,
       sponsored by the Conseil des arts de Montreal. Mr. Daderko was appointed
       critic in painting/printmaking at Yale in 2010.
-  - person: charlotte-kent
-    event_bio: Charlotte Kent, PhD is Assistant Professor of Visual Culture in the
-      Department of Art and Design at Montclair State University. She received
-      her PhD in Comparative Literature (CUNY Graduate Center), with a
-      certificate in critical theory. Her dissertation focused on the narratives
-      and rhetoric of art writing, with grant funded research at Tate Modern, to
-      contextualize the problematics of the Homeland Security Agency’s claim “if
-      you see something, say something.” Currently, she is co-editing a
-      collection on the absurd in contemporary art. Beyond scholarly
-      contributions to essay collections and journals, Charlotte produces
-      exhibition reviews for Brooklyn Rail, opinion pieces for Clot, and feature
-      articles as well as monthly column for Artists Magazine. In 2019-2020, she
-      was the Guest Editor for the Creative Research Center, producing a series
-      of posts on the topic of Collaboration.
   - person: eleanor-heartney
     event_bio: "Eleanor Heartney is well known as a curator and critic, a long-time
       contributing editor of Art in America and the author of numerous books,
@@ -56,6 +42,20 @@ people:
       have run through sacred art since the Renaissance. Her most recent book is
       Doomsday Dreams: The Apocalyptic Imagination in Contemporary Art (Silver
       Hollow Press, 2019). She is an Editor-at-Large at the Brooklyn Rail. "
+  - person: charlotte-kent
+    event_bio: Charlotte Kent, PhD is Assistant Professor of Visual Culture in the
+      Department of Art and Design at Montclair State University. She received
+      her PhD in Comparative Literature (CUNY Graduate Center), with a
+      certificate in critical theory. Her dissertation focused on the narratives
+      and rhetoric of art writing, with grant funded research at Tate Modern, to
+      contextualize the problematics of the Homeland Security Agency’s claim “if
+      you see something, say something.” Currently, she is co-editing a
+      collection on the absurd in contemporary art. Beyond scholarly
+      contributions to essay collections and journals, Charlotte produces
+      exhibition reviews for Brooklyn Rail, opinion pieces for Clot, and feature
+      articles as well as monthly column for Artists Magazine. In 2019-2020, she
+      was the Guest Editor for the Creative Research Center, producing a series
+      of posts on the topic of Collaboration.
   - person: chris-larson
     event_bio: "Chris Larson is a St. Paul-based artist and musician who has
       developed a multimedia practice rooted in sculpture that incorporates
