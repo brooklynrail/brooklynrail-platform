@@ -84,6 +84,9 @@ people:
 
 
       From 1981 to 2015, Art in General was located at 79 Walker Street in Manhattan, in a six-floor building owned by General Hardware Manufacturing Inc. (formerly General Tools & Instruments LLC), hence the organization’s name. Located at the intersection of three neighborhoods in New York City (Tribeca, SoHo, and Chinatown), Art in General has since its founding been committed to presenting new work by artists of color, women, immigrants and visiting artists. In 2003, Gerry Weinstein, CEO of General Tools & Instruments LLC, donated the storefront to Art in General for use as a gallery. In 2006, the sixth-floor gallery underwent a major renovation by Steven Learner Studios and was re-opened in January 2007 with Le Musée Minuscule, created in honor of New Langton Arts’ former space of the same name. After the building was sold and changed ownership, Art in General temporarily moved to 20 Jay Street/145 Plymouth Street in DUMBO from 2016 to 2020.
+    related_links:
+      - url: http://www.bronxmuseum.org/aim/
+        text: Bronx Museum AIM Fellowship
   - person: irene-mei-zhi-shum
     event_bio: >
       Irene Shum is the Executive Director of Art in General in Brooklyn. Prior
