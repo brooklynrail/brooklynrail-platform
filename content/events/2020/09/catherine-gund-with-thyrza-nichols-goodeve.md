@@ -2,7 +2,7 @@
 title: Catherine Gund with Thyrza Nichols Goodeve
 summary: Producer, director, writer, and activist Catherine Gund will be in
   conversation with Rail Editor-at-Large Thyrza Nichols Goodeve. We'll conclude
-  with a poetry reading from Trevor Ketner.
+  with a poetry reading from Mahogany L. Browne.
 people:
   - person: catherine-gund
     event_bio: >-
@@ -28,11 +28,12 @@ people:
       time in quarantine learning to embroider. From 2017 to 2019 she was the
       Senior Art Editor at the Rail, and she is now an Editor-at-Large.
 poets:
-  - person: trevor-ketnor
-    event_bio: Trevor Ketner is the author of "White," a National Poetry
-      Series-winner and has been published in The Academy of American Poets'
-      Poem-a-Day and New England Review, among many others. They hold an MFA
-      from University of Minnesota and live in Manhattan with their husband.
+  - person: mahogany-l-browne
+    event_bio: Mahogany L. Browne is the Executive Director of Bowery Poetry Club,
+      Artistic Director of Urban Word NYC, and Poetry Coordinator at St. Francis
+      College. She is the founder of the Woke Baby Book Fair and is completing
+      her first book of essays on mass incarceration.
+    related_links: []
 date: 2020-10-05 13:00:00 -0500
 end_date: 2020-10-05 14:00:00 -0500
 series: 144
@@ -44,6 +45,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: NbRc1QqPPfY
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-144-catherine-gund-tickets-123384112201
 event_platform:
   - zoom

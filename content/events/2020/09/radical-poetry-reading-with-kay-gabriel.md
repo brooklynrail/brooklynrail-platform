@@ -62,6 +62,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: BK-RhckCoXU
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-141-radical-poetry-with-kay-gabriel-tickets-122591419235
 event_platform:
   - zoom
