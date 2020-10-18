@@ -1,11 +1,11 @@
 ---
 title: Celebrating Art in General
 summary: Join us for a celebration of Art in General's incredible work over the
-  past 40 years. Panelists will include Dean Daderko, Chris Larson, Paul
-  Pfeiffer, Jacob Proctor, Aliza Shvarts, Robin Tewes and founders Teresa Liszka
-  and Martin Weinstein. The conversation will be led by Charlotte Kent and Art
-  in General Executive Director Irene Mei Zhi Shum. We'll conclude with a poetry
-  reading from Caits Meissner.
+  past 40 years. Panelists will include Dean Daderko, Eleanor Heartney, Chris
+  Larson, Paul Pfeiffer, Jacob Proctor, Aliza Shvarts, Robin Tewes and founders
+  Teresa Liszka and Martin Weinstein. The conversation will be led by Charlotte
+  Kent and Art in General Executive Director Irene Mei Zhi Shum. We'll conclude
+  with a poetry reading from Caits Meissner.
 people:
   - person: dean-daderko
     event_bio: Dean Daderko is a curator based in New York. He received his BFA in
@@ -38,6 +38,24 @@ people:
       articles as well as monthly column for Artists Magazine. In 2019-2020, she
       was the Guest Editor for the Creative Research Center, producing a series
       of posts on the topic of Collaboration.
+  - person: eleanor-heartney
+    event_bio: "Eleanor Heartney is well known as a curator and critic, a long-time
+      contributing editor of Art in America and the author of numerous books,
+      including Art & Today, Postmodernism, and After the Revolution: Women Who
+      Transformed Contemporary Art. Her latest study looks at the ways in which
+      a Catholic heritage and sensibility infuse the works of many major artists
+      of the last 50 years. We may think of Andy Warhol, Robert Mapplethorpe,
+      Vito Acconci, Karen Finley, and Andres Serrano as iconoclastic figures,
+      eager to raise the hackles of the establishment and upend the status quo.
+      But as Heartney points out in the recently re-issued edition of her book
+      Postmodern Heretics: The Catholic Imagination in Contemporary Art (Silver
+      Hollow Press), these artists also grappled with the legacy of their
+      religious upbringings, reconciling the sacred and the profane and paying
+      homage in unusual ways to typically Catholic themes—the Crucifixion, the
+      nature of the body vs. the spirit, and a preoccupation with death—that
+      have run through sacred art since the Renaissance. Her most recent book is
+      Doomsday Dreams: The Apocalyptic Imagination in Contemporary Art (Silver
+      Hollow Press, 2019). She is an Editor-at-Large at the Brooklyn Rail. "
   - person: chris-larson
     event_bio: "Chris Larson is a St. Paul-based artist and musician who has
       developed a multimedia practice rooted in sculpture that incorporates
