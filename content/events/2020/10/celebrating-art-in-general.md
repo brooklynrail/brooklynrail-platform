@@ -66,6 +66,9 @@ people:
       2017 with his partner Kriss Zulkosky, he co-founded Second Shift Studio
       Space of St. Paul, an artist-led effort to provide better resources to
       working artists and build communities of arts appreciators. "
+    related_links:
+      - text: Second Shift Studio Space
+        url: https://secondshiftstudiospace.org/
   - person: teresa-liszka-and-martin-weinstein
     event_bio: >-
       Founded by artists Martin Weinstein and Teresa Liszka in 1981, Art in
