@@ -169,13 +169,17 @@ people:
   - person: robin-tewes
     event_bio: Robin Tewes is a New York painter and educator. Born and raised in
       Queens, New York, Tewes graduated from the High School of Art and Design
-      in 1968 and received her BFA from Hunter College in 1978. Tewes was an
-      original member of P.S. 122 Painting Association and founded the Fifth
-      Street Gallery which operated on the Lower East Side in the late 1970s.
-      Tewes has taught at several colleges and universities around New York City
-      including Bard College, Hunter College, Pace University, Parsons the New
-      School for Design, and the School of Visual Arts. She has been included in
-      numerous exhibitions, both domestically and internationally.
+      in 1968, received her BFA from Hunter College in 1978 and MST/Visual Arts
+      at Pace University in 2012. Tewes was an original member of P.S. 122
+      Painting Association and founded the Fifth Street Gallery which operated
+      on the Lower East Side in the late 1970s. Tewes has taught at several
+      colleges and universities around New York City including Bard College MFA
+      Program, Hunter College, Parsons and Pace University. She has received
+      numerous awards some of which are The Pollock Krasner Foundation
+      Fellowship, N.Y.F.A and The Adolph and Esther Gottlieb Foundation Award
+      for Painting. She has shown in numerous exhibitions, both domestically and
+      internationally. In 2016 she was included in the Smithsonian Archives of
+      American Art.
 poets:
   - person: caits-meissner
     event_bio: Caits Meissner is the author of the illustrated poetry book Let It
