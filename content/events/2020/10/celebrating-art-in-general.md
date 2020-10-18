@@ -77,13 +77,25 @@ people:
       - text: Second Shift Studio Space
         url: https://secondshiftstudiospace.org/
   - person: teresa-liszka-and-martin-weinstein
-    event_bio: >-
-      Founded by artists Martin Weinstein and Teresa Liszka in 1981, Art in
+    event_bio: Founded by artists Martin Weinstein and Tereza Liszka in 1981, Art in
       General has provided space and funding to local and international artists
-      to realize new work.
-
-
-      From 1981 to 2015, Art in General was located at 79 Walker Street in Manhattan, in a six-floor building owned by General Hardware Manufacturing Inc. (formerly General Tools & Instruments LLC), hence the organization’s name. Located at the intersection of three neighborhoods in New York City (Tribeca, SoHo, and Chinatown), Art in General has since its founding been committed to presenting new work by artists of color, women, immigrants and visiting artists. In 2003, Gerry Weinstein, CEO of General Tools & Instruments LLC, donated the storefront to Art in General for use as a gallery. In 2006, the sixth-floor gallery underwent a major renovation by Steven Learner Studios and was re-opened in January 2007 with Le Musée Minuscule, created in honor of New Langton Arts’ former space of the same name. After the building was sold and changed ownership, Art in General temporarily moved to 20 Jay Street/145 Plymouth Street in DUMBO from 2016 to 2020.
+      to realize new work. From 1981 to 2015, Art in General was located at 79
+      Walker Street in Manhattan, in a six-floor building owned by General
+      Hardware Manufacturing Inc. (formerly General Tools & Instruments LLC),
+      hence the organization’s name. Located at the intersection of three
+      neighborhoods in New York City (Tribeca, SoHo, and Chinatown), Art in
+      General has since its founding been committed to presenting new work by
+      artists of color, women, immigrants and visiting artists. In 2003, Gerry
+      Weinstein, CEO of General Tools & Instruments LLC, donated the storefront
+      to Art in General for use as a gallery. In 2006, the sixth-floor gallery
+      underwent a major renovation by Steven Learner Studios and was re-opened
+      in January 2007 with Le Musée Minuscule, created in honor of New Langton
+      Arts’ former space of the same name. After the building was sold and
+      changed ownership, Art in General temporarily moved to 20 Jay Street/145
+      Plymouth Street in DUMBO from 2016 to 2020. Since 2015 Tereza and Martin
+      have been co-chairs of the Friends of AIM at the Bronx Museum of the Arts,
+      overseeing the creation of The Block Gallery and Residency at 80 White St.
+      in Tribeca.
     related_links:
       - url: http://www.bronxmuseum.org/aim/
         text: Bronx Museum AIM Fellowship
