@@ -57,15 +57,22 @@ people:
       was the Guest Editor for the Creative Research Center, producing a series
       of posts on the topic of Collaboration.
   - person: chris-larson
-    event_bio: "Chris Larson is a St. Paul-based artist and musician who has
-      developed a multimedia practice rooted in sculpture that incorporates
-      film, video, photography, sound, and drawing. He is an Associate Professor
-      of Art and the Director of Undergraduate Studies at the University of
-      Minnesota. Larson is also the publisher of InReview, a quarterly print
-      publication presenting critical responses to art in the Twin Cities. In
-      2017 with his partner Kriss Zulkosky, he co-founded Second Shift Studio
-      Space of St. Paul, an artist-led effort to provide better resources to
-      working artists and build communities of arts appreciators. "
+    event_bio: Chris Larson is a multi-media artist that lives and works in Saint
+      Paul, Minnesota.  He is an Associate Professor of Art at the University of
+      Minnesota and also the publisher of INREVIEW, a print publication
+      presenting critical responses to art in the Twin Cities. Since receiving
+      his MFA in sculpture from Yale University in 1991, Larson has received
+      numerous awards including a New Work Project Grant from The Harpo
+      Foundation, a Louis Comfort Tiffany Award, and most recently a 2018
+      Guggenheim Fellowship. Larson has had solo exhibitions at the Walker Art
+      Center in Minneapolis, MN, Katonah Museum of Art in Katonah, NY, The View
+      Contemporary Art Space in Switzerland, and his work was included in the
+      2014 Whitney Biennial. In 2018, Larson’s work was included in the 11th
+      Bienal do Mercosul in Porto Alegre, Brazil, and a solo 10-year survey
+      exhibition at the Contemporary Art Center in Cincinnati, OH. In 2019, he
+      co-founded Second Shift Studio Space of St. Paul, a nonprofit residency
+      program and gallery serving women and gender non-conforming artists in the
+      Twin Cities.
     related_links:
       - text: Second Shift Studio Space
         url: https://secondshiftstudiospace.org/
