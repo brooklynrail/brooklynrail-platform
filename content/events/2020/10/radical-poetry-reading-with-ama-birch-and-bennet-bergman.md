@@ -35,7 +35,8 @@ people:
   - person: michael-cavuto
     event_bio: Michael Cavuto is a poet based in Queens whose first book, Country
       Poems, was recently published by Knife Fork Book, Toronto. He is a
-      founding editor of Slow Poetry in America Newsletter and auric press.
+      founding editor of Slow Poetry in America Newsletter and auric press. His
+      work is included in the current issue of The Tiny.
   - person: sarah-wang
     event_bio: Sarah Wang is a writer in New York. She has written for BOMB, n+1,
       The Los Angeles Review of Books, Joyland, Catapult, Biennale de l'Image en
