@@ -40,16 +40,14 @@ people:
       founding editor of Slow Poetry in America Newsletter and auric press. His
       work is included in the current issue of The Tiny.
   - person: sarah-wang
-    event_bio: Sarah Wang is a writer in New York. She has written for BOMB, n+1,
-      The Los Angeles Review of Books, Joyland, Catapult, Biennale de l'Image en
-      Mouvement at the Centre d'Art Contemporain Genève, Conjunctions,
-      Stonecutter Journal, semiotext(e)'s Animal Shelter, The Shanghai Literary
-      Review, Performa Magazine, Musée d'Art Contemporain de Lyon, and The Last
-      Newspaper at the New Museum, among other publications. She is the winner
-      of a Nelson Algren runner-up prize for fiction and is currently a fellow
-      at the Center for Fiction and the Asian American Writers' Workshop's
-      Witness Program, which bridges conversations about mass incarceration and
-      migrant detention.
+    event_bio: "Sarah Wang is a writer in New York. She has written for BOMB, The
+      New Republic, n+1, PEN America, The Los Angeles Review of Books, and
+      American Short Fiction, among other publications. She is a Tin House
+      Scholar, a Kundiman Mentorship Lab Fellow, the winner of a Nelson Algren
+      prize for fiction, and was a fellow at the Center for Fiction and the
+      Asian American Writers' Workshop's Witness Program. She has received
+      support from PEN America, Poets & Writers, Author's League, and the
+      Foundation for Contemporary Arts. "
   - person: shelley-marlow
     event_bio: Shelley Marlow wrote Two Augusts In a Row In a Row, a novel
       (Publication Studio, Portland, 2015) plus art editions (Hudson and London,
