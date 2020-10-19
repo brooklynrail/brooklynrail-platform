@@ -9,8 +9,10 @@ people:
   - person: ama-birch
     event_bio: Ama Birch is the author of three books, "Faces in the Clouds,"
       "Sonnet Boom!," "Ferguson Interview Project," and a video game available
-      for android, "Space Quake by Ama Birch". She has a Master of Fine Arts in
-      Creative Writing from the California Institute of the Arts.
+      for android, "Space Quake by Ama Birch". She has a Bachelor of Arts in
+      Theatre Arts from the State Univeristy of New York at New Paltz, and a
+      Master of Fine Arts in Creative Writing from the California Institute of
+      the Arts.
   - person: bennet-bergman
     event_bio: Bennet Bergman is a poet, educator, and publisher. He earned a BA
       from Yale University and an MFA from the Iowa Writers’ Workshop. His poems
