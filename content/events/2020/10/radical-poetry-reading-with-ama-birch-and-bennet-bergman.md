@@ -33,10 +33,9 @@ people:
       play The Serpent and the Dove. He has also recorded his poetry on ESPN and
       RCA Records.
   - person: michael-cavuto
-    event_bio: Michael Cavuto is a poet from Philadelphia currently living in
-      Brooklyn. He is a founding member of the Toronto-based pure sound
-      collective Sex Panic! With Dale Smith and Hoa Nguyen, he edits the Slow
-      Poetry in America Newsletter.
+    event_bio: Michael Cavuto is a poet based in Queens whose first book, Country
+      Poems, was recently published by Knife Fork Book, Toronto. He is a
+      founding editor of Slow Poetry in America Newsletter and auric press.
   - person: sarah-wang
     event_bio: Sarah Wang is a writer in New York. She has written for BOMB, n+1,
       The Los Angeles Review of Books, Joyland, Catapult, Biennale de l'Image en
