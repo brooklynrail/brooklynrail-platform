@@ -64,6 +64,27 @@
       }
     }
   }
+
+  table{
+    @include u-margin-y(6);
+    
+    th,td{
+      @include u-padding-y('05');
+      @include u-padding-x(0);
+      @include u-padding-right(1);
+      @include u-bg('white');
+      @include u-border(0);
+      @include u-border-y('1px', 'solid', 'gray-20');
+      @include u-font('sans', 'xs');
+    }
+    th{
+      @include u-padding-y(1);
+      @include u-border(0);
+      @include u-bg('white', '!important');
+      @include u-border-top('2px', 'solid', 'gray-60');
+    }
+  }
+
 }
 
 // ===========================
