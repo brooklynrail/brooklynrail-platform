@@ -90,6 +90,9 @@
 // Donate page
 @import "donation";
 
+// Special Projects
+@import "projects/projects";
+
 // Events
 @import "events";
 @import "event";
@@ -103,6 +106,7 @@
 
 // Shortcodes
 @import "shortcodes/donate";
+@import "shortcodes/note";
 
 // Handbook
 @import "handbook";

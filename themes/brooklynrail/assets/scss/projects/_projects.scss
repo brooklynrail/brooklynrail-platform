@@ -1,0 +1,16 @@
+// ====================================
+// Projects Page
+
+.projects {
+  // Projects Page / Header
+  header {
+    @include u-text('center');
+    // h1{
+    //   @include u-text('thin');
+    //   @include u-font('sans', '2xl');
+    //   @include at-media('tablet-lg') {
+    //     @include u-font('sans', '3xl');
+    //   }
+    // }
+  }
+}
