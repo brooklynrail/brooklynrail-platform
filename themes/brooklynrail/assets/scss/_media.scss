@@ -53,7 +53,7 @@
 }
 
 .media-xl{
-  @include u-width('tablet');
+  @include u-width('tablet-lg');
 }
 
 
@@ -96,6 +96,13 @@
     @include u-margin-bottom('105');
     @include at-media('mobile-lg') {
       @include u-margin-bottom(3);
+    }
+  }
+  .media-xl{
+    @include u-width('full');
+    @include at-media('tablet-lg') {
+      @include u-width('tablet-lg');
+      margin-left: -5.75rem;
     }
   }
 }
