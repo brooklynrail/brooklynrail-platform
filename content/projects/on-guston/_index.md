@@ -19,7 +19,12 @@ Rarely has there been a better illustration of “white” culpability than in t
 In the face of an action such as that taken by these four august institutions, we ask ourselves, as private individuals, what we can do. We can speak out, certainly. But we must do more. We demand that _Philip Guston Now_ be restored to the museums’ schedules, and that their staffs prepare themselves to engage with a public that might well be curious about why a painter—ever self-critical and a standard-bearer for freedom—was compelled to use such imagery. That does not permit the museums to fall back on the old discredited stance: “We are the experts. Our job is to show you what’s of value in art and your part is to appreciate it.” It means that museums must engage in a reckoning with history, including their own histories of prejudice. Precisely in order to help take that effort of reckoning forward, the _Philip Guston Now_ exhibition must proceed as planned, and the museums must do the necessary work to present this art in all its depth and complexity.
 
 
-2620 Names                                     |                                                                             |                              
+_The Brooklyn Rail acknowledges the Musa and Tom Mayer Charitable Fund as the sponsor of our Poetry section, and that we receive funds from the fund to keep this section in operation._
+
+_This open letter is being shared on behalf of those that have signed it to provide a platform for discourse, independent from the Rail's affiliations. The Musa and Tom Mayer Charitable Fund and The Philip Guston Foundation were not consulted in the preparation of this letter._
+
+
+All 2620 Names                                     |                                                                             |                              
 ----------------------------------------- | --------------------------------------------------------------------------- | -----------------------------
 Robert Aberdein                           | John Gossage                                                                | David Nolan                  
 Talal Abillama                            | Michael Gottlieb                                                            | Richard Nonas                
