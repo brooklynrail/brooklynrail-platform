@@ -1,0 +1,18 @@
+{{/*
+Note Shortcode
+{{< note >}}
+*/}}
+
+
+<div class="shortcode-note">
+
+  {{- $markdown := .Inner | markdownify -}}
+
+  {{ if not ( findRE "<[h|p][^>]*>" $markdown ) }}
+      <p>{{ $markdown }}</p>
+  {{ else }}
+      {{ $markdown }}
+  {{ end }}
+  
+
+</div>
