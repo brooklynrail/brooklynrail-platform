@@ -9,8 +9,10 @@ people:
   - person: ama-birch
     event_bio: Ama Birch is the author of three books, "Faces in the Clouds,"
       "Sonnet Boom!," "Ferguson Interview Project," and a video game available
-      for android, "Space Quake by Ama Birch". She has a Master of Fine Arts in
-      Creative Writing from the California Institute of the Arts.
+      for android, "Space Quake by Ama Birch". She has a Bachelor of Arts in
+      Theatre Arts from the State University of New York at New Paltz, and a
+      Master of Fine Arts in Creative Writing from the California Institute of
+      the Arts.
   - person: bennet-bergman
     event_bio: Bennet Bergman is a poet, educator, and publisher. He earned a BA
       from Yale University and an MFA from the Iowa Writers’ Workshop. His poems
@@ -19,14 +21,10 @@ people:
       dedicated to publishing exceptional poetry by emerging writers in the
       United States. He lives in New York City.
   - person: cedar-sigo
-    event_bio: "Cedar Sigo was raised on the Suquamish Reservation in the Pacific
-      Northwest. He studied at The Jack Kerouac School of Disembodied Poetics at
-      the Naropa Institute. Sigo is the author of Royals (Wave Books, 2017),
-      Language Arts (Wave Books, 2014), and Stranger in Town (City Lights,
-      2010). Of his work, Ron Silliman writes, “Cedar Sigo is a Frank O’Hara for
-      the 21st century: witty, erudite, serious, with a terrific ear and eye for
-      the minutest details, at home in the world of the arts.” He has taught at
-      St. Mary’s College and Naropa University. He lives in Lofall, Washington."
+    event_bio: Cedar Sigo, the Bagley-Wright lecturer for 2019, has just completed
+      work with Joy Harjo and several other poets on a new Norton Anthology of
+      Native Nations Poetry and his recent 2019 poetry has appeared in Harper’s,
+      Freak Fam, and Splinter. He currently lives in Lofall, Washington.
   - person: david-mills
     event_bio: David Mills is the author of The Sudden Country, The Dream Detective
       and the chapbook After Mistic. He has received fellowships from the New
@@ -37,21 +35,19 @@ people:
       play The Serpent and the Dove. He has also recorded his poetry on ESPN and
       RCA Records.
   - person: michael-cavuto
-    event_bio: Michael Cavuto is a poet from Philadelphia currently living in
-      Brooklyn. He is a founding member of the Toronto-based pure sound
-      collective Sex Panic! With Dale Smith and Hoa Nguyen, he edits the Slow
-      Poetry in America Newsletter.
+    event_bio: Michael Cavuto is a poet based in Queens whose first book, Country
+      Poems, was recently published by Knife Fork Book, Toronto. He is a
+      founding editor of Slow Poetry in America Newsletter and auric press. His
+      work is included in the current issue of The Tiny.
   - person: sarah-wang
-    event_bio: Sarah Wang is a writer in New York. She has written for BOMB, n+1,
-      The Los Angeles Review of Books, Joyland, Catapult, Biennale de l'Image en
-      Mouvement at the Centre d'Art Contemporain Genève, Conjunctions,
-      Stonecutter Journal, semiotext(e)'s Animal Shelter, The Shanghai Literary
-      Review, Performa Magazine, Musée d'Art Contemporain de Lyon, and The Last
-      Newspaper at the New Museum, among other publications. She is the winner
-      of a Nelson Algren runner-up prize for fiction and is currently a fellow
-      at the Center for Fiction and the Asian American Writers' Workshop's
-      Witness Program, which bridges conversations about mass incarceration and
-      migrant detention.
+    event_bio: "Sarah Wang is a writer in New York. She has written for BOMB, The
+      New Republic, n+1, PEN America, The Los Angeles Review of Books, and
+      American Short Fiction, among other publications. She is a Tin House
+      Scholar, a Kundiman Mentorship Lab Fellow, the winner of a Nelson Algren
+      prize for fiction, and was a fellow at the Center for Fiction and the
+      Asian American Writers' Workshop's Witness Program. She has received
+      support from PEN America, Poets & Writers, Author's League, and the
+      Foundation for Contemporary Arts. "
   - person: shelley-marlow
     event_bio: Shelley Marlow wrote Two Augusts In a Row In a Row, a novel
       (Publication Studio, Portland, 2015) plus art editions (Hudson and London,

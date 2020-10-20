@@ -3,7 +3,7 @@ title: Katherine Stewart with James Nares
 deck: Weekly conversations with activists, social justice practitioners, and
   changemakers.
 summary: Please join us for our eighth installment of Common Ground, featuring
-  investigative reporter Katherine Stewart in conversation with artist Jamie
+  investigative reporter Katherine Stewart in conversation with artist James
   Nares on the Religious Right’s rise to political power.
 people:
   - person: katherine-stewart

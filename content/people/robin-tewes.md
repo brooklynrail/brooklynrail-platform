@@ -13,4 +13,6 @@ short_bio: Robin Tewes is a New York painter and educator. Born and raised in
   domestically and internationally.
 portraits:
   - media: 2020/10/robin-tewes
+website: https://www.robintewes.com/
+instagram: robinjtewes
 ---

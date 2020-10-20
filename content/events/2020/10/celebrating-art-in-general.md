@@ -8,21 +8,21 @@ summary: Join us for a celebration of Art in General's incredible work over the
   with a poetry reading from Caits Meissner.
 people:
   - person: dean-daderko
-    event_bio: Dean Daderko is a curator based in New York. He received his BFA in
-      sculpture in 1997 from the Tyler School of Art. His most recent
+    event_bio: Dean Daderko is a curator based in New York. They received their BFA
+      in sculpture in 1997 from the Tyler School of Art. Their most recent
       exhibitions, 50 Artists Photograph The Future and Piece de Resistance,
       were presented by Higher Pictures and Larissa Goldston Gallery,
-      respectively. SIDE X SIDE, an exhibition he guest curated for Visual AIDS,
-      explored the impact of AIDS on a first generation of artists faced with
-      the epidemic. He has also curated exhibitions and created programs for Art
-      in General, Artists’ Space, and The Kitchen in New York, and for the
-      Contemporary Art Center in Vilnius, Lithuania. His writing has appeared in
-      publications by the Studio Museum in Harlem, El Museo del Barrio, P.S.1
-      Contemporary Art Center, and the Australian Centre for Contemporary Arts.
-      He is the recipient of a Curatorial Research Fellowship in 2008-09 from
-      the French American Cultural Exchange, and has been a Curator of The
-      Americas In Residence at the Fonderie Darling in Montreal, Quebec,
-      sponsored by the Conseil des arts de Montreal. Mr. Daderko was appointed
+      respectively. SIDE X SIDE, an exhibition they guest curated for Visual
+      AIDS, explored the impact of AIDS on a first generation of artists faced
+      with the epidemic. They has also curated exhibitions and created programs
+      for Art in General, Artists’ Space, and The Kitchen in New York, and for
+      the Contemporary Art Center in Vilnius, Lithuania. Their writing has
+      appeared in publications by the Studio Museum in Harlem, El Museo del
+      Barrio, P.S.1 Contemporary Art Center, and the Australian Centre for
+      Contemporary Arts. They are the recipient of a Curatorial Research
+      Fellowship in 2008-09 from the French American Cultural Exchange, and was
+      Curator of The Americas In Residence at the Fonderie Darling in Montreal,
+      Quebec, sponsored by the Conseil des arts de Montreal. Dean was appointed
       critic in painting/printmaking at Yale in 2010.
   - person: eleanor-heartney
     event_bio: "Eleanor Heartney is well known as a curator and critic, a long-time
@@ -57,50 +57,68 @@ people:
       was the Guest Editor for the Creative Research Center, producing a series
       of posts on the topic of Collaboration.
   - person: chris-larson
-    event_bio: "Chris Larson is a St. Paul-based artist and musician who has
-      developed a multimedia practice rooted in sculpture that incorporates
-      film, video, photography, sound, and drawing. He is an Associate Professor
-      of Art and the Director of Undergraduate Studies at the University of
-      Minnesota. Larson is also the publisher of InReview, a quarterly print
-      publication presenting critical responses to art in the Twin Cities. In
-      2017 with his partner Kriss Zulkosky, he co-founded Second Shift Studio
-      Space of St. Paul, an artist-led effort to provide better resources to
-      working artists and build communities of arts appreciators. "
+    event_bio: Chris Larson is a multi-media artist that lives and works in Saint
+      Paul, Minnesota.  He is an Associate Professor of Art at the University of
+      Minnesota and also the publisher of INREVIEW, a print publication
+      presenting critical responses to art in the Twin Cities. Since receiving
+      his MFA in sculpture from Yale University in 1991, Larson has received
+      numerous awards including a New Work Project Grant from The Harpo
+      Foundation, a Louis Comfort Tiffany Award, and most recently a 2018
+      Guggenheim Fellowship. Larson has had solo exhibitions at the Walker Art
+      Center in Minneapolis, MN, Katonah Museum of Art in Katonah, NY, The View
+      Contemporary Art Space in Switzerland, and his work was included in the
+      2014 Whitney Biennial. In 2018, Larson’s work was included in the 11th
+      Bienal do Mercosul in Porto Alegre, Brazil, and a solo 10-year survey
+      exhibition at the Contemporary Art Center in Cincinnati, OH. In 2019, he
+      co-founded Second Shift Studio Space of St. Paul, a nonprofit residency
+      program and gallery serving women and gender non-conforming artists in the
+      Twin Cities.
     related_links:
       - text: Second Shift Studio Space
         url: https://secondshiftstudiospace.org/
   - person: teresa-liszka-and-martin-weinstein
-    event_bio: >-
-      Founded by artists Martin Weinstein and Teresa Liszka in 1981, Art in
+    event_bio: Founded by artists Martin Weinstein and Tereza Liszka in 1981, Art in
       General has provided space and funding to local and international artists
-      to realize new work.
-
-
-      From 1981 to 2015, Art in General was located at 79 Walker Street in Manhattan, in a six-floor building owned by General Hardware Manufacturing Inc. (formerly General Tools & Instruments LLC), hence the organization’s name. Located at the intersection of three neighborhoods in New York City (Tribeca, SoHo, and Chinatown), Art in General has since its founding been committed to presenting new work by artists of color, women, immigrants and visiting artists. In 2003, Gerry Weinstein, CEO of General Tools & Instruments LLC, donated the storefront to Art in General for use as a gallery. In 2006, the sixth-floor gallery underwent a major renovation by Steven Learner Studios and was re-opened in January 2007 with Le Musée Minuscule, created in honor of New Langton Arts’ former space of the same name. After the building was sold and changed ownership, Art in General temporarily moved to 20 Jay Street/145 Plymouth Street in DUMBO from 2016 to 2020.
+      to realize new work. From 1981 to 2015, Art in General was located at 79
+      Walker Street in Manhattan, in a six-floor building owned by General
+      Hardware Manufacturing Inc. (formerly General Tools & Instruments LLC),
+      hence the organization’s name. Located at the intersection of three
+      neighborhoods in New York City (Tribeca, SoHo, and Chinatown), Art in
+      General has since its founding been committed to presenting new work by
+      artists of color, women, immigrants and visiting artists. In 2003, Gerry
+      Weinstein, CEO of General Tools & Instruments LLC, donated the storefront
+      to Art in General for use as a gallery. In 2006, the sixth-floor gallery
+      underwent a major renovation by Steven Learner Studios and was re-opened
+      in January 2007 with Le Musée Minuscule, created in honor of New Langton
+      Arts’ former space of the same name. After the building was sold and
+      changed ownership, Art in General temporarily moved to 20 Jay Street/145
+      Plymouth Street in DUMBO from 2016 to 2020. Since 2015 Tereza and Martin
+      have been co-chairs of the Friends of AIM at the Bronx Museum of the Arts,
+      overseeing the creation of The Block Gallery and Residency at 80 White St.
+      in Tribeca.
+    related_links:
+      - url: http://www.bronxmuseum.org/aim/
+        text: Bronx Museum AIM Fellowship
   - person: irene-mei-zhi-shum
-    event_bio: "For fifteen years, curator Irene Mei Zhi Shum has actively explored
-      the intersection of art and architecture, organizing ambitious projects
-      and championing the artists and designers with whom she works.  Currently,
-      she is the Executive Director of Art in General in Brooklyn, New
-      York.  Prior to this, Shum served as the Associate Curator of Contemporary
-      Art at the Menil Collection in Houston, Texas (2018-2020) and the
-      inaugural curator for the Philip Johnson Glass House, a site of the
-      National Trust for Historic Preservation in New Canaan, Connecticut
-      (2007-2018).  An early and major responsibility at the Glass House was the
-      coordination of the transfer of property from the estates of architect
-      Philip Johnson and art patron David Whitney to the National Trust.  Shum
-      shaped the Glass House’s collection and implemented the site’s arts
-      initiative, introducing exhibitions, music and dance
-      performances.  Notably, she organized and secured funding for the
+    event_bio: >
+      Irene Shum is the Executive Director of Art in General in Brooklyn. Prior
+      to this, Shum served as the Associate Curator of Contemporary Art at the
+      Menil Collection in Houston, Texas (2018-2020) and the inaugural curator
+      for the Philip Johnson Glass House, a site of the National Trust for
+      Historic Preservation in New Canaan, Connecticut (2007-2018). She explores
+      the intersection of architecture and art. Notably, she organized the
       large-scale, site-specific exhibitions Fujiko Nakaya: Veil (2014) and
       Yayoi Kusama: Narcissus Garden (2016), as well as a highly acclaimed sound
       performance by composer Ryuichi Sakamoto and visual artist and musician
       Carsten Nicolai (Alva Noto), that was recorded and released as Glass
-      (Noton, 2018).  Shum holds a Master’s in Architecture from Yale
-      University; a certificate of architecture from the École des Beaux-Arts of
-      the Ecoles d’Art Américaines de Fontainebleau, where she was awarded the
-      Prix de Ville de Fontainebleau; and a Bachelor of Arts degree in
-      Architecture and Art History from Barnard College, Columbia University. "
+      (Noton, 2018). Her projects have been published in The New York Times,
+      Wall Street Journal, Artforum, Galerie, Artnet, Cultured, Wallpaper,
+      Metropolis, Architecture, Architectural Review, World Architecture,
+      Interior Design, Vogue, Harper’s Bazaar, Town & Country, W, Rolling Stone,
+      Pitchfork, Resident Advisor, among others. 
+
+
+      Shum holds a Master’s in Architecture from Yale University; a certificate of architecture from the École des Beaux-Arts of the Ecoles d’Art Américaines de Fontainebleau, where she was awarded the Prix de Ville de Fontainebleau; and a Bachelor of Arts degree in Architecture and Art History from Barnard College, Columbia University. Earlier in her career, she worked at New York’s New Museum of Contemporary Art, Whitney Museum of American Art, and The Museum of Modern Art (MoMA), where she co-organized MoMA’s first survey of landscape architecture, Groundswell: Constructing the Contemporary Landscape (2005). She has worked with emerging and mid career artists, such as Tauba Auerbach, E.V. Day, and Trenton Doyle Hancock; as well as legendary masters, including Frank Stella, Julian Schnabel, and Bruce Nauman.
   - person: paul-pfeiffer
     event_bio: Paul Pfeiffer is a visual artist living and working in NYC. He was
       born in 1966 in Honolulu, Hawaii. Known for his innovative manipulation of
@@ -161,15 +179,21 @@ people:
       - text: "Aliza Shvarts: Purported"
         url: https://brooklynrail.org/2020/07/artseen/Aliza-Shvarts-Purported
   - person: robin-tewes
-    event_bio: Robin Tewes is a New York painter and educator. Born and raised in
+    event_bio: "Robin Tewes is a New York painter and educator. Born and raised in
       Queens, New York, Tewes graduated from the High School of Art and Design
-      in 1968 and received her BFA from Hunter College in 1978. Tewes was an
-      original member of P.S. 122 Painting Association and founded the Fifth
-      Street Gallery which operated on the Lower East Side in the late 1970s.
-      Tewes has taught at several colleges and universities around New York City
-      including Bard College, Hunter College, Pace University, Parsons the New
-      School for Design, and the School of Visual Arts. She has been included in
-      numerous exhibitions, both domestically and internationally.
+      in 1968, received her BFA from Hunter College in 1978 and MST/Visual Arts
+      at Pace University in 2012. Tewes was an original member of P.S. 122
+      Painting Association and founded the Fifth Street Gallery which operated
+      on the Lower East Side in the late 1970s. Tewes has taught at several
+      colleges and universities around New York City including Bard College MFA
+      Program, Hunter College and Pace University. She has received numerous
+      awards some of which are The Pollock Krasner Foundation Fellowship,
+      N.Y.F.A and The Adolph and Esther Gottlieb Foundation Award for Painting.
+      She has shown in numerous museums and exhibitions, both domestically and
+      internationally and reviewed in many periodicals and magazines, some of
+      which include, The New York Times, Artforum, Artnews, Tema Celeste, Time
+      Magazine, New York Magazine, Art in America. In 2016 she was included in
+      the Smithsonian Archives of American Art.   "
 poets:
   - person: caits-meissner
     event_bio: Caits Meissner is the author of the illustrated poetry book Let It
