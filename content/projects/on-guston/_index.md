@@ -5,16 +5,14 @@ deck: Over 2600 artists, curators, writers, and critics have signed their names 
 summary: Over 2600 artists, curators, writers, and critics have signed their names in response to the postponement of the _Philip Guston Now_ retrospective.
 ---
 
-
-{{< image media="2020/10/philip-guston-allegory-1975" size="xl" >}}
-
-
 {{< note >}}
 [_The Brooklyn Rail_](https://brooklynrail.org/) stands for freedom of expression, collective accountability, and institutional transparency. We feel it is our responsibility to provide space for many perspectives to engage in productive dialogue. It is in this spirit that we share the following open letter from a diverse group of artists, critics, curators, and scholars.
 {{< /note >}}
 
 
 We were shocked and disappointed to read the news that the National Gallery of Art, Washington, D.C.; Museum of Fine Arts, Boston; the Museum of Fine Arts, Houston; and Tate Modern, London, had postponed by four years their planned exhibition _Philip Guston Now_, which had already been delayed until 2021 by the COVID-19 lockdown. The reason for the postponement? The explanation given by the directors of the four institutions in their [announcement](https://www.nga.gov/press/exh/5235.html) expresses anxiety about the response that might be unleashed by certain paintings in which Guston depicts Ku Klux Klansmen, and their preference to “reframe [their] programming and … step back and bring in additional perspectives and voices to shape how [they] present Guston’s work to [their] public.” These institutions thus publicly acknowledge their longstanding failure to have educated, integrated, and prepared themselves to meet the challenge of the renewed pressure for racial justice that has developed over the past five years. And they abdicate responsibility for doing so immediately—yet again. Better, they reason, to “postpon[e] the exhibition until a time” when the significance of Guston’s work will be clearer to its public.
+
+{{< image media="2020/10/philip-guston-allegory-1975" size="xl" >}}
 
 The best riposte to the museum directors’ failure of nerve is conveyed by quoting Guston’s daughter, Musa Mayer, as reported in [_The New York Times_](https://www.nytimes.com/2020/09/24/arts/design/philip-guston-postponed-museums-klan.html): “My father dared to unveil white culpability, our shared role in allowing the racist terror that he had witnessed since boyhood, when the Klan marched openly by the thousands in the streets of Los Angeles. As poor Jewish immigrants, his family fled extermination in the Ukraine. He understood what hatred was. It was the subject of his earliest works. […] This should be a time of reckoning, of dialogue. These paintings meet the moment we are in today. The danger is not in looking at Philip Guston’s work, but in looking away.”
 

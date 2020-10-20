@@ -99,8 +99,10 @@
     }
   }
   .media-xl{
+    @include u-margin-bottom('105');
     @include u-width('full');
     @include at-media('tablet-lg') {
+      @include u-margin-bottom(5);
       @include u-width('tablet-lg');
       margin-left: -5.75rem;
     }
