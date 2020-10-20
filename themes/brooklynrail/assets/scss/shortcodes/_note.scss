@@ -1,0 +1,22 @@
+// ====================================
+// Donate
+
+.shortcode-note{
+  @include u-bg('gray-cool-5');
+  @include u-radius('md');
+  @include u-margin-bottom(5);
+  @include u-padding-x(3);
+  @include u-padding-top(2);
+  @include u-padding-bottom('205');
+  p{
+    @include u-margin-bottom(0);
+    @include u-font('sans', 'md');
+    @include u-text('base-darker');
+    @include at-media('tablet') {
+      @include u-font('sans', 'md');
+    }
+    a{
+      @include u-text('black');
+    }
+  }
+}
