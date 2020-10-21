@@ -40,6 +40,25 @@
       </div>
     </header>
 
+    {{- if .Page.Params.nav.project -}}
+    <nav class="nav nav-project">
+      <div class="grid-container grid-container-tablet-lg">
+        <div class="grid-row">
+
+          <div class="grid-col-12 tablet:grid-col-10 tablet:grid-offset-1">
+            <ul>
+              {{ range $i, $nav := .Page.Params.nav.project -}}
+                <li>
+                  <a href="{{- $nav.url -}}" title="{{- $nav.name -}}">{{- $nav.name -}}</a>
+                </li>
+              {{ end }}
+            </ul>
+          </div>
+        </div>
+      </div>
+    </nav>
+    {{- end -}}
+
     <section>
       <div class="grid-container grid-container-tablet-lg">
         <div class="grid-row">
