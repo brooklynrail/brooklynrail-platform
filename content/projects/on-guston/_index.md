@@ -16,7 +16,10 @@ nav:
 
 {{< note >}}
 [_The Brooklyn Rail_](https://brooklynrail.org/) stands for freedom of expression, collective accountability, and institutional transparency. We feel it is our responsibility to provide space for many perspectives to engage in productive dialogue. It is in this spirit that we share the following open letter from a diverse group of artists, critics, curators, and scholars.
+
+_Originally published on September 30, 2020_
 {{< /note >}}
+
 
 
 We were shocked and disappointed to read the news that the National Gallery of Art, Washington, D.C.; Museum of Fine Arts, Boston; the Museum of Fine Arts, Houston; and Tate Modern, London, had postponed by four years their planned exhibition _Philip Guston Now_, which had already been delayed until 2021 by the COVID-19 lockdown. The reason for the postponement? The explanation given by the directors of the four institutions in their [announcement](https://www.nga.gov/press/exh/5235.html) expresses anxiety about the response that might be unleashed by certain paintings in which Guston depicts Ku Klux Klansmen, and their preference to “reframe [their] programming and … step back and bring in additional perspectives and voices to shape how [they] present Guston’s work to [their] public.” These institutions thus publicly acknowledge their longstanding failure to have educated, integrated, and prepared themselves to meet the challenge of the renewed pressure for racial justice that has developed over the past five years. And they abdicate responsibility for doing so immediately—yet again. Better, they reason, to “postpon[e] the exhibition until a time” when the significance of Guston’s work will be clearer to its public.
