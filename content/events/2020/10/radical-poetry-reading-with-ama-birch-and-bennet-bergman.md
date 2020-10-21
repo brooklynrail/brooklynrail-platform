@@ -39,6 +39,14 @@ people:
       Poems, was recently published by Knife Fork Book, Toronto. He is a
       founding editor of Slow Poetry in America Newsletter and auric press. His
       work is included in the current issue of The Tiny.
+  - person: paul-legault
+    event_bio: "Paul Legault is the author of, most recently, The Tower (Coach House
+      Books, 2020). His previous books include The Madeleine Poems (Omnidawn,
+      2010), The Other Poems (Fence, 2011), The Emily Dickinson Reader: An
+      English-to-English Translation of the Complete Poems of Emily Dickinson
+      (McSweeney’s, 2012), Self-Portrait in a Convex Mirror 2 (Fence, 2016), and
+      Lunch Poems 2 (Spork, 2018). He also co-edited The Sonnets: Translating
+      and Rewriting Shakespeare (Nightboat, 2012)."
   - person: sarah-wang
     event_bio: "Sarah Wang is a writer in New York. She has written for BOMB, The
       New Republic, n+1, PEN America, The Los Angeles Review of Books, and
@@ -61,14 +69,6 @@ people:
       Resistance; Evergreen Review; Hyperallergic; KGB Bar Lit Mag; the Rail;
       Altar-ed Bodies, Clarity Haynes; Rilking; LTTR (Lesbians To The Rescue);
       alLuPiNiT; St. Petersburg Review.
-  - person: paul-legault
-    event_bio: "Paul Legault is the author of, most recently, The Tower (Coach House
-      Books, 2020). His previous books include The Madeleine Poems (Omnidawn,
-      2010), The Other Poems (Fence, 2011), The Emily Dickinson Reader: An
-      English-to-English Translation of the Complete Poems of Emily Dickinson
-      (McSweeney’s, 2012), Self-Portrait in a Convex Mirror 2 (Fence, 2016), and
-      Lunch Poems 2 (Spork, 2018). He also co-edited The Sonnets: Translating
-      and Rewriting Shakespeare (Nightboat, 2012)."
 date: 2020-10-21 13:00:00 -0500
 end_date: 2020-10-21 14:00:00 -0500
 series: 156
