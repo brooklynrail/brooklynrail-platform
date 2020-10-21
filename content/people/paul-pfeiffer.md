@@ -15,4 +15,5 @@ short_bio: Paul Pfeiffer is a visual artist living and working in NYC. He was
   exhibitions.
 portraits:
   - media: 2020/07/paul-pfeiffer
+website: https://www.dennistonhill.org/
 ---
