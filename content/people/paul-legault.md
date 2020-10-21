@@ -9,5 +9,7 @@ short_bio: "Paul Legault is the author of, most recently, The Tower (Coach House
   (McSweeney’s, 2012), Self-Portrait in a Convex Mirror 2 (Fence, 2016), and
   Lunch Poems 2 (Spork, 2018). He also co-edited The Sonnets: Translating and
   Rewriting Shakespeare (Nightboat, 2012)."
+portraits:
+  - media: 2020/10/paul-legault
 website: https://www.theotherpaul.com/
 ---
