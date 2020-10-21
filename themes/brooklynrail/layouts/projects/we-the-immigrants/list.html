@@ -1,0 +1,52 @@
+{{ define "styles" }}
+  {{- printf "material/dist/%s/styles.css" .Type | relURL -}}
+{{ end }}
+
+{{ define "header" }}
+  {{- .Render "header" -}}
+{{ end }}
+
+
+{{ define "main" }}
+
+<main class="page h-event" id="main-content" role="main">
+  <article>
+    <header>
+      <div class="grid-container grid-container-desktop">
+        <div class="grid-row">
+          <div class="grid-col-12"> 
+
+            <h1 class="display-none">
+              {{- if .Params.headline -}}
+                {{- .Params.headline | markdownify -}}
+              {{- else -}}
+              {{- .Params.Title | markdownify -}}
+              {{- end -}}
+            </h1>
+
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <section>
+      <div class="grid-container grid-container-desktop">
+        <div class="grid-row">
+
+          <div class="grid-col-12">
+
+            {{- if not .Params.deck -}}
+            <p class="summary">{{- .Params.summary | markdownify -}}</p>
+            {{- end -}}
+
+            <div class="content">
+              {{- .Content -}}
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </article>
+</main>
+{{ end }}
