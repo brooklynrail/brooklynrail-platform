@@ -1,10 +1,10 @@
 ---
 title: Radical Poetry Reading with Ama Birch and Bennet Bergman
 deck: Featuring political poetry read by Cedar Sigo, David Mills, Michael
-  Cavuto, Sarah Wang, and Shelley Marlow.
+  Cavuto, Paul Legault, Sarah Wang, and Shelley Marlow.
 summary: Poets Ama Birch and Bennet Bergman co-curate the tenth Radical Poetry
-  Reading, featuring Cedar Sigo, David Mills, Michael Cavuto, Sarah Wang, and
-  Shelley Marlow.
+  Reading, featuring Cedar Sigo, David Mills, Michael Cavuto, Paul Legault,
+  Sarah Wang, and Shelley Marlow.
 people:
   - person: ama-birch
     event_bio: Ama Birch is the author of three books, "Faces in the Clouds,"
@@ -61,6 +61,14 @@ people:
       Resistance; Evergreen Review; Hyperallergic; KGB Bar Lit Mag; the Rail;
       Altar-ed Bodies, Clarity Haynes; Rilking; LTTR (Lesbians To The Rescue);
       alLuPiNiT; St. Petersburg Review.
+  - person: paul-legault
+    event_bio: "Paul Legault is the author of, most recently, The Tower (Coach House
+      Books, 2020). His previous books include The Madeleine Poems (Omnidawn,
+      2010), The Other Poems (Fence, 2011), The Emily Dickinson Reader: An
+      English-to-English Translation of the Complete Poems of Emily Dickinson
+      (McSweeney’s, 2012), Self-Portrait in a Convex Mirror 2 (Fence, 2016), and
+      Lunch Poems 2 (Spork, 2018). He also co-edited The Sonnets: Translating
+      and Rewriting Shakespeare (Nightboat, 2012)."
 date: 2020-10-21 13:00:00 -0500
 end_date: 2020-10-21 14:00:00 -0500
 series: 156
