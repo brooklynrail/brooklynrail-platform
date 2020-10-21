@@ -3,6 +3,8 @@ title: "Open Letter: On Philip Guston Now"
 headline: "Open Letter: On Philip Guston Now"
 deck: Over 2,600 artists, curators, writers, and critics have signed the open letter in response to the postponement of the _Philip Guston Now_ retrospective.
 summary: Over 2,600 artists, curators, writers, and critics have signed the open letter in response to the postponement of the _Philip Guston Now_ retrospective.
+aliases:
+  - /projects/on-guston
 nav:
   project:
     - name: Sign the letter
