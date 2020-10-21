@@ -39,6 +39,7 @@
     }
     .content{
       hr{
+        @include u-margin-y(7, '!important');
         @include u-padding-top('205');
         background-image: url(/material/img/divider.svg);
         background-position: center;
