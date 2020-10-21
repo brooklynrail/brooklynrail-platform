@@ -1,8 +1,12 @@
 ---
 title: "Open Letter: On Philip Guston Now"
 headline: "Open Letter: On Philip Guston Now"
-deck: Over 2,600 artists, curators, writers, and critics have signed the open letter in response to the postponement of the _Philip Guston Now_ retrospective.
-summary: Over 2,600 artists, curators, writers, and critics have signed the open letter in response to the postponement of the _Philip Guston Now_ retrospective.
+deck: Over 2,600 artists, curators, writers, and critics have signed the open
+  letter in response to the postponement of the _Philip Guston Now_
+  retrospective.
+summary: Over 2,600 artists, curators, writers, and critics have signed the open
+  letter in response to the postponement of the _Philip Guston Now_
+  retrospective.
 aliases:
   - /projects/on-guston
 nav:
@@ -10,38 +14,33 @@ nav:
     - name: Sign the letter
       url: https://docs.google.com/forms/d/e/1FAIpQLSeoFCwKeJjEO1cXjsz1ScWwQEYNDzudyHS6Q9mvf4QE1dLvPA/viewform
     - name: View all signatures
-      url: '#signatures'
+      url: "#signatures"
     - name: Critical responses
-      url: '#critical-responses'
-
+      url: "#critical-responses"
 ---
-
 {{< note >}}
-[_The Brooklyn Rail_](https://brooklynrail.org/) stands for freedom of expression, collective accountability, and institutional transparency. We feel it is our responsibility to provide space for many perspectives to engage in productive dialogue. It is in this spirit that we share the following open letter from a diverse group of artists, critics, curators, and scholars.
+*[The Brooklyn Rail](https://brooklynrail.org/)* stands for freedom of expression, collective accountability, and institutional transparency. We feel it is our responsibility to provide space for many perspectives to engage in productive dialogue. It is in this spirit that we share the following open letter from a diverse group of artists, critics, curators, and scholars.
 
-_Originally published on September 30, 2020_
+*Originally published on September 30, 2020*
 {{< /note >}}
 
+We were shocked and disappointed to read the news that the National Gallery of Art, Washington, D.C.; Museum of Fine Arts, Boston; the Museum of Fine Arts, Houston; and Tate Modern, London, had postponed by four years their planned exhibition *Philip Guston Now*, which had already been delayed until 2021 by the COVID-19 lockdown. The reason for the postponement? The explanation given by the directors of the four institutions in their [announcement](https://www.nga.gov/press/exh/5235.html) expresses anxiety about the response that might be unleashed by certain paintings in which Guston depicts Ku Klux Klansmen, and their preference to “reframe \[their] programming and … step back and bring in additional perspectives and voices to shape how \[they] present Guston’s work to \[their] public.” These institutions thus publicly acknowledge their longstanding failure to have educated, integrated, and prepared themselves to meet the challenge of the renewed pressure for racial justice that has developed over the past five years. And they abdicate responsibility for doing so immediately—yet again. Better, they reason, to “postpon\[e] the exhibition until a time” when the significance of Guston’s work will be clearer to its public.
 
+{{< image media="2020/10/philip-guston-entrance-1979" size="xl" >}}
 
-We were shocked and disappointed to read the news that the National Gallery of Art, Washington, D.C.; Museum of Fine Arts, Boston; the Museum of Fine Arts, Houston; and Tate Modern, London, had postponed by four years their planned exhibition _Philip Guston Now_, which had already been delayed until 2021 by the COVID-19 lockdown. The reason for the postponement? The explanation given by the directors of the four institutions in their [announcement](https://www.nga.gov/press/exh/5235.html) expresses anxiety about the response that might be unleashed by certain paintings in which Guston depicts Ku Klux Klansmen, and their preference to “reframe [their] programming and … step back and bring in additional perspectives and voices to shape how [they] present Guston’s work to [their] public.” These institutions thus publicly acknowledge their longstanding failure to have educated, integrated, and prepared themselves to meet the challenge of the renewed pressure for racial justice that has developed over the past five years. And they abdicate responsibility for doing so immediately—yet again. Better, they reason, to “postpon[e] the exhibition until a time” when the significance of Guston’s work will be clearer to its public.
-
-{{< image media="2020/10/philip-guston-allegory-1975" size="xl" >}}
-
-The best riposte to the museum directors’ failure of nerve is conveyed by quoting Guston’s daughter, Musa Mayer, as reported in [_The New York Times_](https://www.nytimes.com/2020/09/24/arts/design/philip-guston-postponed-museums-klan.html): “My father dared to unveil white culpability, our shared role in allowing the racist terror that he had witnessed since boyhood, when the Klan marched openly by the thousands in the streets of Los Angeles. As poor Jewish immigrants, his family fled extermination in the Ukraine. He understood what hatred was. It was the subject of his earliest works. […] This should be a time of reckoning, of dialogue. These paintings meet the moment we are in today. The danger is not in looking at Philip Guston’s work, but in looking away.”
+The best riposte to the museum directors’ failure of nerve is conveyed by quoting Guston’s daughter, Musa Mayer, as reported in *[The New York Times](https://www.nytimes.com/2020/09/24/arts/design/philip-guston-postponed-museums-klan.html)*: “My father dared to unveil white culpability, our shared role in allowing the racist terror that he had witnessed since boyhood, when the Klan marched openly by the thousands in the streets of Los Angeles. As poor Jewish immigrants, his family fled extermination in the Ukraine. He understood what hatred was. It was the subject of his earliest works. \[…] This should be a time of reckoning, of dialogue. These paintings meet the moment we are in today. The danger is not in looking at Philip Guston’s work, but in looking away.”
 
 Rarely has there been a better illustration of “white” culpability than in these powerful men and women’s apparent feeling of powerlessness to explain to their public the true power of an artist’s work—its capacity to prompt its viewers, and the artist too, to troubling reflection and self-examination. But the people who run our great institutions do not want trouble. They fear controversy. They lack faith in the intelligence of their audience. And they realize that to remind museum-goers of white supremacy today is not only to speak to them about the past, or events somewhere else. It is also to raise uncomfortable questions about museums themselves—about their class and racial foundations. For this reason, perhaps, those who run the museums feel the ground giving way beneath their feet. If they feel that in four years, “all this will blow over,” they are mistaken. The tremors shaking us all will never end until justice and equity are installed. Hiding away images of the KKK will not serve that end. Quite the opposite. And Guston’s paintings insist that justice has never yet been achieved.
 
-In the face of an action such as that taken by these four august institutions, we ask ourselves, as private individuals, what we can do. We can speak out, certainly. But we must do more. We demand that _Philip Guston Now_ be restored to the museums’ schedules, and that their staffs prepare themselves to engage with a public that might well be curious about why a painter—ever self-critical and a standard-bearer for freedom—was compelled to use such imagery. That does not permit the museums to fall back on the old discredited stance: “We are the experts. Our job is to show you what’s of value in art and your part is to appreciate it.” It means that museums must engage in a reckoning with history, including their own histories of prejudice. Precisely in order to help take that effort of reckoning forward, the _Philip Guston Now_ exhibition must proceed as planned, and the museums must do the necessary work to present this art in all its depth and complexity.
+In the face of an action such as that taken by these four august institutions, we ask ourselves, as private individuals, what we can do. We can speak out, certainly. But we must do more. We demand that *Philip Guston Now* be restored to the museums’ schedules, and that their staffs prepare themselves to engage with a public that might well be curious about why a painter—ever self-critical and a standard-bearer for freedom—was compelled to use such imagery. That does not permit the museums to fall back on the old discredited stance: “We are the experts. Our job is to show you what’s of value in art and your part is to appreciate it.” It means that museums must engage in a reckoning with history, including their own histories of prejudice. Precisely in order to help take that effort of reckoning forward, the *Philip Guston Now* exhibition must proceed as planned, and the museums must do the necessary work to present this art in all its depth and complexity.
 
 {{< note >}}
-_[The Brooklyn Rail](https://brooklynrail.org/) acknowledges the Musa and Tom Mayer Charitable Fund as the sponsor of our Poetry section, and that we receive funds from the fund to keep this section in operation._
+*[The Brooklyn Rail](https://brooklynrail.org/) acknowledges the Musa and Tom Mayer Charitable Fund as the sponsor of our Poetry section, and that we receive funds from the fund to keep this section in operation.*
 
-
-_This open letter is being shared on behalf of those that have signed it to provide a platform for discourse, independent from the Rail's affiliations. The Musa and Tom Mayer Charitable Fund and The Philip Guston Foundation were not consulted in the preparation of this letter._
+*This open letter is being shared on behalf of those that have signed it to provide a platform for discourse, independent from the Rail's affiliations. The Musa and Tom Mayer Charitable Fund and The Philip Guston Foundation were not consulted in the preparation of this letter.*
 {{< /note >}}
 
----
+- - -
 
 ## Signatures
 
@@ -931,17 +930,18 @@ Gene Gort                        |Timothy Nolan                  |Jane Zweibel
 John Gossage                     |David Nolan                    
 
 
-
-
 ## Critical Responses
 
+* “[The Philip Guston Show Should Be Reinstated](https://www.nytimes.com/2020/09/30/arts/design/philip-guston-shows-open-letter.html)” (Jason Farago / The New York Times)
+* “[Artists Speak against the Postponement of ‘Philip Guston Now’](https://www.frieze.com/article/artists-speak-against-postponement-philip-guston-now)” (Trenton Doyle Hancock, Mark Thomas Gibson, Jacolby Satterwhite, Tschabalala Self, and Gary Simmons in Frieze)
+* “[Philip Guston and the Boundaries of Art Culture](https://www.newyorker.com/magazine/2020/10/19/philip-guston-and-the-boundaries-of-art-culture)[’](https://www.frieze.com/article/artists-speak-against-postponement-philip-guston-now)” (Peter Schjeldahl / The New Yorker)
+* “[Artists slam decision to postpone exhibition of Philip Guston's KKK paintings](https://www.cnn.com/style/article/philip-guston-kkk-art/index.html)” (Oscar Holland / CNN)
+* “[The Philip Guston controversy is turning artists against the National Gallery](https://www.washingtonpost.com/entertainment/museums/philip-guston-exhibition-postponement/2020/10/16/930d74a4-0ef5-11eb-8a35-237ef1eb2ef7_story.html)” (Sebastian Smee / Washington Post)
+* “[Why Philip Guston Can Still Provoke Such Furor, and Passion](https://www.nytimes.com/2020/10/02/arts/design/guston-painter-career.html)” (Martha Schwendener / New York Times)
+* “[Directors of Tate and the National Gallery of Art defend controversial decision to delay Philip Guston show](https://www.theartnewspaper.com/news/directors-of-tate-and-the-national-gallery-of-art-defend-controversial-decision-to-delay-philip-guston-show)” (Gareth Harris / The Art Newspaper)
+* “[The Strongest Reactions to the Philip Guston Show’s Postponement Miss Two Key Points](https://news.artnet.com/opinion/philip-guston-now-cancellation-1914529)” (Ben Davis / Artnet)
+* ["Philip Guston Postponed: Curator David Anfam Speaks Out"](https://www.artlyst.com/news/philip-guston-postponed-curator-david-anfam-speaks-out-paul-carter-robinson/) (Paul Carter Robinson / Artlyst) 
 
 
--   “[The Philip Guston Show Should Be Reinstated](https://www.nytimes.com/2020/09/30/arts/design/philip-guston-shows-open-letter.html)” (Jason Farago / The New York Times)
--   “[Artists Speak against the Postponement of ‘Philip Guston Now’](https://www.frieze.com/article/artists-speak-against-postponement-philip-guston-now)” (Trenton Doyle Hancock, Mark Thomas Gibson, Jacolby Satterwhite, Tschabalala Self, and Gary Simmons in Frieze)
--   “[Philip Guston and the Boundaries of Art Culture](https://www.newyorker.com/magazine/2020/10/19/philip-guston-and-the-boundaries-of-art-culture)[’](https://www.frieze.com/article/artists-speak-against-postponement-philip-guston-now)” (Peter Schjeldahl / The New Yorker)
--   “[Artists slam decision to postpone exhibition of Philip Guston's KKK paintings](https://www.cnn.com/style/article/philip-guston-kkk-art/index.html)” (Oscar Holland / CNN)
--   “[The Philip Guston controversy is turning artists against the National Gallery](https://www.washingtonpost.com/entertainment/museums/philip-guston-exhibition-postponement/2020/10/16/930d74a4-0ef5-11eb-8a35-237ef1eb2ef7_story.html)” (Sebastian Smee / Washington Post)
--   “[Why Philip Guston Can Still Provoke Such Furor, and Passion](https://www.nytimes.com/2020/10/02/arts/design/guston-painter-career.html)” (Martha Schwendener / New York Times)
--   “[Directors of Tate and the National Gallery of Art defend controversial decision to delay Philip Guston show](https://www.theartnewspaper.com/news/directors-of-tate-and-the-national-gallery-of-art-defend-controversial-decision-to-delay-philip-guston-show)” (Gareth Harris / The Art Newspaper)
--   “[The Strongest Reactions to the Philip Guston Show’s Postponement Miss Two Key Points](https://news.artnet.com/opinion/philip-guston-now-cancellation-1914529)” (Ben Davis / Artnet)
+
+*And more ...*
