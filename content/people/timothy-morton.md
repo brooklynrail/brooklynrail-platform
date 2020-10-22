@@ -15,4 +15,6 @@ short_bio: "Timothy Morton is Rita Shea Guffey Chair in English at Rice
   music, art, architecture, design and food. "
 portraits:
   - media: 2020/10/timothy-morton
+rail_contributor_url: https://brooklynrail.org/contributor/timothy-morton
+website: http://www.ecologywithoutnature.blogspot.com
 ---
