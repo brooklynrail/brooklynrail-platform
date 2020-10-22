@@ -16,6 +16,15 @@ people:
 
 
       Rose taught at Yale University, Sarah Lawrence, University of California at Irvine and San Diego, and the American University Art in Italy program, and was senior curator at the Museum of Fine Arts, Houston, from 1981-1985. A prolific writer, Rose is the author of American Art Since 1900(1967), The Golden Age of Dutch Painting (1969), American Painting: The 20th Century (Skira, 1969), and monographs on the artists Magdalena Abankawicz, Helen Frankenthaler, Robert Rauschenberg, Alexander Liberman, Larry Rivers, and others, as well as dozens of exhibition catalog essays. She held editorial positions at Art in America, Vogue, Artforum, Partisan Review, and Journal of Art, and her writing has also appeared in Art International, Studio International, Arts Magazine, and ARTnews, among many others.
+  - person: lorenza-giovanelli
+    event_bio: Lorenza Giovanelli studied art history at the Università Cattolica
+      del Sacro Cuore in Milan. In 2016, she worked as office coordinator and
+      press office assistant during Christo’s last major project The Floating
+      Piers. In 2017, she joined Christo’s team in New York.
+    related_links:
+      - text: "The London Mastaba: A definitive guide to Christo and Jeanne-Claude’s
+          barrel-made installations"
+        url: https://www.taschen.com/pages/en/catalogue/art/all/04695/facts.christo_and_jeanne_claude_barrels_and_the_mastaba_19582018.htm
 date: 2020-10-30 13:00:00 -0500
 end_date: 2020-10-30 14:30:00 -0500
 series: 163
