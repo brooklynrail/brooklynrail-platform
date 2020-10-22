@@ -12,4 +12,5 @@ short_bio: "Valérie Déus is a poet, film programmer and radio show host. Her
   International Film Festival. "
 portraits:
   - media: 2020/10/valerie-deus
+website: https://www.valeriedeus.com
 ---
