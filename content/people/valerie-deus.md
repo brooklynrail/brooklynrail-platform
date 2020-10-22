@@ -1,7 +1,7 @@
 ---
 name: Valérie Déus
 first_name: Valérie
-last_name: Valérie
+last_name: Déus
 short_bio: "Valérie Déus is a poet, film programmer and radio show host. Her
   work has been featured in Minnesota Women’s Press, The Brooklyn Rail, Midway,
   the St. Paul Almanac, The BeZine and most recently in A Garden of Black Joy
