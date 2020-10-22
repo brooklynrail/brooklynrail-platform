@@ -23,8 +23,9 @@ exports.handler = function(event, context, callback) {
   })
 
   const base = Airtable.base('appw5rR1oYVuYgRKI')
+
   const allRecords = []
-  base('entries')
+  base('Immigrants')
     .select({
       // This caps total records to 100, not just each request
       // maxRecords: 100,
