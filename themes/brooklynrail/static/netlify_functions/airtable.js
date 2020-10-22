@@ -33,6 +33,7 @@ exports.handler = function(event, context, callback) {
     .eachPage(
       function page(records, fetchNextPage) {
         records.forEach(function(record) {
+          console.log(record)
           allRecords.push(record)
         })
         fetchNextPage()
