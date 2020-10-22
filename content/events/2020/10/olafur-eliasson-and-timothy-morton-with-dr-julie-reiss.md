@@ -1,7 +1,7 @@
 ---
 title: Olafur Eliasson and Timothy Morton with Dr. Julie Reiss
 summary: Olafur Eliasson and Timothy Morton with Dr. Julie Reiss. We'll conclude
-  with a poetry reading from Valerie Deus.
+  with a poetry reading from Valérie Déus.
 people:
   - person: olafur-eliasson
     event_bio: >-
