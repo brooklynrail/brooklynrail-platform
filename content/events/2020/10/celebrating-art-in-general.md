@@ -8,22 +8,18 @@ summary: Join us for a celebration of Art in General's incredible work over the
   with a poetry reading from Caits Meissner.
 people:
   - person: dean-daderko
-    event_bio: Dean Daderko is a curator based in New York. They received their BFA
-      in sculpture in 1997 from the Tyler School of Art. Their most recent
-      exhibitions, 50 Artists Photograph The Future and Piece de Resistance,
-      were presented by Higher Pictures and Larissa Goldston Gallery,
-      respectively. SIDE X SIDE, an exhibition they guest curated for Visual
-      AIDS, explored the impact of AIDS on a first generation of artists faced
-      with the epidemic. They has also curated exhibitions and created programs
-      for Art in General, Artists’ Space, and The Kitchen in New York, and for
-      the Contemporary Art Center in Vilnius, Lithuania. Their writing has
-      appeared in publications by the Studio Museum in Harlem, El Museo del
-      Barrio, P.S.1 Contemporary Art Center, and the Australian Centre for
-      Contemporary Arts. They are the recipient of a Curatorial Research
-      Fellowship in 2008-09 from the French American Cultural Exchange, and was
-      Curator of The Americas In Residence at the Fonderie Darling in Montreal,
-      Quebec, sponsored by the Conseil des arts de Montreal. Dean was appointed
-      critic in painting/printmaking at Yale in 2010.
+    event_bio: From 2010-2020, Dean Daderko was a Curator at the Contemporary Arts
+      Museum Houston, where they worked with artists including LaToya Ruby
+      Frazier, Paul Ramírez Jonas, Joan Jonas and Gina Pane, Wu Tsang and Fred
+      Moten, and Haegue Yang among others. Daderko's writing has appeared in
+      Mousse and in publications by the Studio Museum in Harlem, Americas
+      Society, and Rutgers University. Daderko has organized programming for Art
+      in General, Artists' Space, The Kitchen, and Visual AIDS in New York; the
+      Center for Contemporary Art in Vilnius, Lithuania; and has instructed
+      courses at Yale University in New Haven and Centro de Investígaciones
+      Artisticas in Buenos Aires. They are the recipient of a 2020 Curatorial
+      Fellowship from the Étant Donnés/French American Cultural Exchange. Their
+      work is informed by queer and feminist concerns.
   - person: eleanor-heartney
     event_bio: "Eleanor Heartney is well known as a curator and critic, a long-time
       contributing editor of Art in America and the author of numerous books,
