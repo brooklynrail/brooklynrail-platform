@@ -2,7 +2,7 @@
 title: Robert Storr on Philip Guston with Phong H. Bui
 summary: Art critic, curator, artist, and educator Robert Storr will join the
   Rail's publisher and artistic director Phong H. Bui for a conversation on
-  Philip Guston. We'll conclude with a poetry reading.
+  Philip Guston. We'll conclude with a poetry reading from Ramya Ramana.
 people:
   - person: robert-storr
     event_bio: Robert Storr, preeminent art critic, curator, artist, and educator,
@@ -29,7 +29,13 @@ people:
       first U.S. retrospective of Jonas Mekas, and Occupy Industry City: Artists
       Need to Create on the Same Scale that Society Has the Capacity to Destroy,
       Year 3."
-poets: []
+poets:
+  - person: ramya-ramana-2
+    event_bio: Ramya Ramana is an Indian-American poet, author, educator, and
+      songwriter who writes about race, femininity, intergenerational trauma,
+      faith and first-gen experience. Upcoming projects include creating a
+      spoken word album and songwriting. She is pursuing an MFA at The New
+      School.
 date: 2020-10-23 13:00:00 -0500
 end_date: 2020-10-23 14:30:00 -0500
 series: 158
