@@ -105,4 +105,4 @@ registration_url: https://www.eventbrite.com/e/the-new-social-environment-163-a-
 event_platform:
   - zoom
 ---
-{{< image media="2020/10/christo" size="xl" >}}
+{{< image media="2020/10/christo-and-jeanne-claude" size="xl" >}}
