@@ -76,7 +76,7 @@ event_producer:
 event_platform:
   - zoom
 ---
-Please join us for our ninth installment of *Common Ground*, when we will be joined by artists **Hank Willis Thomas** and **Paula Crown** in conversation with **Paul D. Miller** aka DJ Spooky.This conversation will be moderated by **Malvika Jolly**, and will close with a poetry reading.
+Please join us for our ninth installment of *Common Ground*, when we will be joined by artists **Hank Willis Thomas** and **Paula Crown** in conversation with **Paul D. Miller** aka DJ Spooky. This conversation will be moderated by **Malvika Jolly**, and will close with a reading from poet, educator, and DJ **Jive Poetic**. 
 
 ### **About this series**
 
