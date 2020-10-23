@@ -60,4 +60,5 @@ event_platform:
   - zoom
 aliases:
   - /events/2020/10/27/olafur-eliasson-and-timothy-morton-with-dr-julie-reiss/
+  - /events/2020/10/27/olafur-eliasson-with-dr-julie-reiss-and-dr-douglas-dreishpoon/
 ---
