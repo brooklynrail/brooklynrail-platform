@@ -1,8 +1,7 @@
 ---
-title: Olafur Eliasson and Timothy Morton with Dr. Julie Reiss
-summary: Artist Olafur Eliasson and philosopher & writer Timothy Morton will be
-  in conversation with Rail editor Dr. Julie Reiss. We'll conclude with a poetry
-  reading from Valérie Déus.
+title: Olafur Eliasson with Dr. Julie Reiss
+summary: Artist Olafur Eliasson will be in conversation with Rail editor Dr.
+  Julie Reiss. We'll conclude with a poetry reading from Valérie Déus.
 people:
   - person: olafur-eliasson
     event_bio: >-
@@ -18,24 +17,6 @@ people:
 
 
       In 2019 Eliasson was appointed Goodwill Ambassador for renewable energy and climate action by the United Nations Development Programme. Eliasson lives and works in Copenhagen and Berlin.
-  - person: timothy-morton
-    event_bio: "Timothy Morton is Rita Shea Guffey Chair in English at Rice
-      University. He has collaborated with Björk, Laurie Anderson, Jennifer
-      Walshe, Hrafnhildur Arnadottir, Sabrina Scott, Adam McKay, Jeff Bridges,
-      Justin Guariglia, Olafur Eliasson, and Pharrell Williams. Morton co-wrote
-      and appears in Living in the Future’s Past, a 2018 film about global
-      warming with Jeff Bridges. He is the author of the libretto for the opera
-      Time Time Time by Jennifer Walshe. He is the author of Being Ecological
-      (Penguin, 2018), Humankind: Solidarity with Nonhuman People(Verso, 2017),
-      Dark Ecology: For a Logic of Future Coexistence (Columbia, 2016), Nothing:
-      Three Inquiries in Buddhism (Chicago, 2015), Hyperobjects: Philosophy and
-      Ecology after the End of the World (Minnesota, 2013), Realist Magic:
-      Objects, Ontology, Causality (Open Humanities, 2013), The Ecological
-      Thought (Harvard, 2010), Ecology without Nature (Harvard, 2007), eight
-      other books and 250 essays on philosophy, ecology, literature, music, art,
-      architecture, design and food. Morton’s work has been translated into 10
-      languages. In 2014, Morton gave the Wellek Lectures in Theory."
-    related_links: []
   - person: dr-julie-reiss
     event_bio: "Dr. Julie Reiss is an art historian who directs a Master’s program
       at Christie’s Education. Julie has presented papers and chaired panels on
@@ -58,7 +39,9 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
-registration_url: https://www.eventbrite.com/e/the-new-social-environment-160-olafur-eliasson-and-timothy-morton-tickets-126452766629
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-160-olafur-eliasson-tickets-126452766629
 event_platform:
   - zoom
+aliases:
+  - /events/2020/10/27/olafur-eliasson-and-timothy-morton-with-dr-julie-reiss/
 ---
