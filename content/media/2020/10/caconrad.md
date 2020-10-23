@@ -1,7 +1,8 @@
 ---
-media: /media/files/caconrad-by-jo-marnier.jpeg
+media: /media/files/88caconrad-photo-by-eve-ariza-in-front-of-her-installation-murmuri.jpg
 title: CA Conrad
-alt: "A photo of poet CAConrad petting a painted fox on a mural. "
-caption: Jo Marnier
+alt: A photo of poet CAConrad standing in front of an installation of bowls on a
+  wall.
+caption: Eve Ariza
 date: 2020-10-23 09:20:00 -0500
 ---
