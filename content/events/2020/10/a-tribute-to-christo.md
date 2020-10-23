@@ -17,10 +17,21 @@ people:
 
       Rose taught at Yale University, Sarah Lawrence, University of California at Irvine and San Diego, and the American University Art in Italy program, and was senior curator at the Museum of Fine Arts, Houston, from 1981-1985. A prolific writer, Rose is the author of American Art Since 1900(1967), The Golden Age of Dutch Painting (1969), American Painting: The 20th Century (Skira, 1969), and monographs on the artists Magdalena Abankawicz, Helen Frankenthaler, Robert Rauschenberg, Alexander Liberman, Larry Rivers, and others, as well as dozens of exhibition catalog essays. She held editorial positions at Art in America, Vogue, Artforum, Partisan Review, and Journal of Art, and her writing has also appeared in Art International, Studio International, Arts Magazine, and ARTnews, among many others.
   - person: lorenza-giovanelli
-    event_bio: Lorenza Giovanelli studied art history at the Università Cattolica
-      del Sacro Cuore in Milan. In 2016, she worked as office coordinator and
-      press office assistant during Christo’s last major project The Floating
-      Piers. In 2017, she joined Christo’s team in New York.
+    event_bio: "Lorenza Giovanelli (Brescia, Italy, 1990) studied History of Art at
+      the Universià Cattolica del Sacro Cuore in Milan. She has a master’s
+      degree in History of Contemporary Art and History of Architecture. From
+      2013 to 2015 she worked in museums and contemporary art galleries as
+      collections’ registrar and assistant curator. In 2016 she was the office
+      manager and press office assistant during Christo’s last major project The
+      Floating Piers. In 2017 she joined Christo’s team in New York. Among the
+      projects she curated for Christo there are “Christo and Jeanne-Claude:
+      Barrels and The Mastaba (1958-2018)”, exhibition at the Serpentine
+      Galleries, London, UK (2018), “Christo and Jeanne-Claude: Surrounded
+      Islands, Biscayne Bay, Greater Miami, Florida, 1980-83. A Documentary
+      Exhibition” at the Pérez Art Museum Miami, Florida, USA (2018), “Christo:
+      Femmes 1962-1968”, exhibition at the Musée Yves Saint Laurent Marrakech,
+      Morocco (2019), and “Christo”, published by Cahiers d’Art in September
+      2020."
     related_links:
       - text: "The London Mastaba: A definitive guide to Christo and Jeanne-Claude’s
           barrel-made installations"
