@@ -1,15 +1,16 @@
 ---
-title: A Tribute to Christo
-summary: Join us for a celebration of the life and work of Christo with Barbara
-  Rose, Lorenza Giovanelli, and Mohammed Ibrahim Mahama, led by Jonathan
-  Fineberg and Phong H. Bui. We'll conclude with a poetry reading.
+title: A Tribute to Christo and Jeanne-Claude
+summary: Join us for a celebration of the life and work of Christo and
+  Jeanne-Claude with Barbara Rose, Lorenza Giovanelli, and Mohammed Ibrahim
+  Mahama, led by Jonathan Fineberg and Phong H. Bui. We'll conclude with a
+  poetry reading.
 people:
   - person: barbara-rose
     event_bio: >-
       Barbara Rose is an American art historian and critic who has published
       widely in the field of modern American art. Born in 1938 in Washington,
       DC, Rose studied at the Sorbonne, Smith College, Barnard, and finally,
-      Columbia University under Meyer Shapiro. Rose became immersed in the New
+      Columbia University under Meyer Schapiro. Rose became immersed in the New
       York-based circle of modernist artists and curators in the late 1950s and
       early 1960s, and made her substantial contribution to the discourse on
       contemporary art with the insider's perspective this afforded her.
