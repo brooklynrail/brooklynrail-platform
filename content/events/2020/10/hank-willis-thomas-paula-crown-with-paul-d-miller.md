@@ -34,30 +34,26 @@ people:
     event_bio: "Paula Crown is a multimedia artist with a practice encompassing
       drawing, painting, video, and sculpture. Crown rigorously incorporates
       cutting-edge technology, social activism, collaboration, and a commitment
-      to sustainability in her studio practice. She earned her MFA in painting
-      and drawing in 2012 from the School of the Art Institute of Chicago. She
-      has had solo exhibitions at the Aspen Institute, Aspen, CO (2013); Dallas
-      Contemporary, Dallas, TX (2014); Marlborough Gallery, New York, NY (2015);
-      The Goss-Michael Foundation, Dallas, TX (2016); 10 Hanover, London (2017);
-      Studio Cannaregio, Venice, concurrent with the 16th Venice Architectural
-      Biennale (2018); and Fort Gansevoort, New York, NY (2018). She has
-      participated in several group exhibitions internationally, including For
-      Freedoms at Jack Shainman Gallery, New York, NY (2016); Mount Analogue at
-      Darrow Contemporary, curated by Neville Wakefield, Aspen, CO (2016); and
-      IN THIS HOUSE, a group exhibition curated by Michelle Grabner at the
-      Elmhurst Art Museum, Elmhurst, IL (2018). Crown’s public art installations
-      include Wall-Space: The Non-Architecture of the Studio Wall, EXPO/Chicago,
-      Chicago, IL (2014); TRANSPOSITION: Over Many Miles, Miami Design District,
-      Miami, FL (2014-16); JOKESTER in Aspen, Colorado (2018) and the Miami
-      Design District, Miami, FL (2018); FREEZING RAIN, Aurora: Future Worlds,
-      Dallas, TX (2018); Thoughts & Prayers with For Freedoms, Chicago, IL
-      (2018); Thoughts & Prayers, Hurt People Hurt People, LIAR LIAR, Humble
-      Hubris, For Freedoms Congress, Los Angeles, CA (2020); JOKESTER, Sculpture
-      Milwaukee 2020, Milwaukee, WI (2020); #solotogether (Messages for the
-      City), Times Square Arts, New York, NY, which traveled to the Mint Museum,
-      Charlotte, NC (2020); and What Are You For, For Freedoms Awakening
-      Billboard, Boston, MA (2020). In 2009, President Barack Obama appointed
-      Crown to the President’s Committee on the Arts and the Humanities."
+      to sustainability in her studio practice. Crown earned her M.F.A. in
+      painting and drawing in 2012 from the School of the Art Institute of
+      Chicago. She has had solo exhibitions at the Aspen Institute, Aspen, CO
+      (2013); Dallas Contemporary, Dallas, TX (2014); Marlborough Gallery, New
+      York, NY (2015); The Goss-Michael Foundation, Dallas, TX (2016); 10
+      Hanover, London (2017); Studio Cannaregio, Venice, concurrent with the
+      16th Venice Architectural Biennale (2018); and Fort Gansevoort, New York,
+      NY (2018). Crown’s public art installations include Wall-Space: The
+      Non-Architecture of the Studio Wall, EXPO/Chicago, Chicago, IL (2014);
+      TRANSPOSITION: Over Many Miles, Miami Design District, Miami, FL
+      (2014-16); JOKESTER in Aspen, Colorado (2018) and the Miami Design
+      District, Miami, FL (2018);  FREEZING RAIN, Aurora: Future Worlds, Dallas,
+      TX (2018); Thoughts & Prayers with For Freedoms, Chicago, IL (2018);
+      Thoughts & Prayers, Hurt People Hurt People, LIAR LIAR, Humble Hubris, For
+      Freedoms Congress, Los Angeles, CA (2020); JOKESTER, Sculpture Milwaukee
+      2020, Milwaukee, WI (2020); #solotogether (Messages for the City), Times
+      Square Arts, New York, NY, which traveled to the Mint Museum, Charlotte,
+      NC (2020); and What Are You For, For Freedoms Awakening Billboard, Boston,
+      MA (2020). Born in Marblehead, Massachusetts, the artist lives and works
+      in Aspen and Chicago.  "
   - person: paul-d-miller-aka-dj-spooky
     event_bio: "Paul D. Miller, aka DJ Spooky, is a composer, multimedia artist, and
       writer whose work immerses audiences in a blend of genres, global culture,
