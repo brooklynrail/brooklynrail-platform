@@ -1,9 +1,10 @@
 ---
 title: Radical Poetry Reading with CAConrad
-deck: Featuring political poetry read by Raquel Salas Rivera and Carlos Soto-Román.
+deck: Featuring political poetry read by Raquel Salas Rivera, Carlos Soto-Román,
+  and Eileen Myles.
 summary: Poet CAConrad curates the 11th Radical Poetry Reading in a weekly
-  series leading up to the election, featuring Raquel Salas Rivera and Carlos
-  Soto-Román.
+  series leading up to the election, featuring Raquel Salas Rivera, Carlos
+  Soto-Román, and Eileen Myles.
 people:
   - person: caconrad
     event_bio: CAConrad is a 2019 Creative Capital Fellow and the author of 9 books
