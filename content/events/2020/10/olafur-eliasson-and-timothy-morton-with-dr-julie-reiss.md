@@ -1,7 +1,8 @@
 ---
-title: Olafur Eliasson with Dr. Julie Reiss
+title: Olafur Eliasson with Dr. Julie Reiss and Dr. Douglas Dreishpoon
 summary: Artist Olafur Eliasson will be in conversation with Rail editor Dr.
-  Julie Reiss. We'll conclude with a poetry reading from Valérie Déus.
+  Julie Reiss and curator Dr. Douglas Dreishpoon. We'll conclude with a poetry
+  reading from Valérie Déus.
 people:
   - person: olafur-eliasson
     event_bio: >-
@@ -25,6 +26,21 @@ people:
       Studies. She is the author of From Margin to Center: The Spaces of
       Installation Art (1999) and the editor of Art, Theory and Practice in the
       Anthropocene (2018)."
+  - person: dr-douglas-dreishpoon
+    event_bio: >-
+      Dr. Douglas Dreishpoon, Chief Curator Emeritus at the Albright-Knox, is
+      currently Director of the Catalogue Raisonné project at the Helen
+      Frankenthaler Foundation in New York City. His 26 years of experience in
+      museums include such roles as Curator of Collections at the Weatherspoon
+      Art Museum at The University of North Carolina at Greensboro (1995–1998)
+      and Curator of Contemporary Art at the Tampa Museum of Art in Florida
+      (1991–1995).
+
+
+      His essays, interviews, and reviews have been published in numerous catalogues, magazines, and journals, including Art in America, Art Journal, ARTnews, and Sculpture. Recent publications include The Long Curve: 150 Years of Visionary Collecting at the Albright-Knox Art Gallery (Skira, 2011); Guillermo Kuitca: Everything, Paintings and Works on Paper, 1980–2008 (Scala, 2009); ROBERT MANGOLD: Beyond the Line | Paintings and Project 2000–2008 (Abrams, 2009); Ken Price: Slow and Steady Wins the Race, Works on Paper, 1962–2010 (The Drawing Center, 2013); Giving Up One’s Mark: Helen Frankenthaler in the 1960s and 1970s (2014); Imperfections by Chance: Paul Feeley Retrospective, 1954–1965 (2015); and Nothing and Everything: Seven Artists, 1947–1962 (Hauser & Wirth, 2017).
+
+
+      A former board member of the American Section of the International Association of Art Critics, Dreishpoon holds a Bachelor of Arts from Skidmore College, a master’s degree from Tufts University, and a PhD from the Graduate Center of the City University of New York.
 poets:
   - person: valerie-deus
     event_bio: "Valérie Déus is a poet, film programmer, and radio show host. She is
