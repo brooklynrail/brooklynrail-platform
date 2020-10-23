@@ -39,7 +39,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
-registration_url: https://www.eventbrite.com/e/the-new-social-environment-160-olafur-eliasson-and-timothy-morton-tickets-126452766629
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-160-olafur-eliasson-tickets-126452766629
 event_platform:
   - zoom
 aliases:
