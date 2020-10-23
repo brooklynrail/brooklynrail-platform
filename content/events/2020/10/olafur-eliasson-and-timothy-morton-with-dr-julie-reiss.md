@@ -1,8 +1,8 @@
 ---
 title: Olafur Eliasson with Dr. Julie Reiss and Dr. Douglas Dreishpoon
 summary: Artist Olafur Eliasson will be in conversation with Rail editor Dr.
-  Julie Reiss and Dr. Douglas Dreishpoon. We'll conclude with a poetry reading
-  from Valérie Déus.
+  Julie Reiss and curator Dr. Douglas Dreishpoon. We'll conclude with a poetry
+  reading from Valérie Déus.
 people:
   - person: olafur-eliasson
     event_bio: >-
