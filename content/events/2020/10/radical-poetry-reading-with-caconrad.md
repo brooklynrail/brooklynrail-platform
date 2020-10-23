@@ -2,7 +2,7 @@
 title: Radical Poetry Reading with CAConrad
 deck: Featuring political poetry read by Raquel Salas Rivera and Carlos Soto-Román.
 summary: Poet CAConrad curates the 11th Radical Poetry Reading in a weekly
-  series leading up to the election, featuring Raquel Salas Rivera, and Carlos
+  series leading up to the election, featuring Raquel Salas Rivera and Carlos
   Soto-Román.
 people:
   - person: caconrad
