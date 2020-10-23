@@ -10,5 +10,6 @@ short_bio: Eileen Myles (they/them) came to New York from Boston in 1974 to be a
   Fellowship and an award from the American Academy of Arts & Letters. They live
   in New York and Marfa, TX.
 portraits:
-  - {}
+  - media: 2020/10/eileen-myles
+website: https://www.eileenmyles.com/
 ---
