@@ -1,9 +1,10 @@
 ---
 title: Radical Poetry Reading with CAConrad
-deck: Featuring political poetry read by Raquel Salas Rivera and Carlos Soto-Román.
+deck: Featuring political poetry read by Raquel Salas Rivera, Carlos Soto-Román,
+  and Eileen Myles.
 summary: Poet CAConrad curates the 11th Radical Poetry Reading in a weekly
-  series leading up to the election, featuring Raquel Salas Rivera and Carlos
-  Soto-Román.
+  series leading up to the election, featuring Raquel Salas Rivera, Carlos
+  Soto-Román, and Eileen Myles.
 people:
   - person: caconrad
     event_bio: CAConrad is a 2019 Creative Capital Fellow and the author of 9 books
@@ -37,6 +38,13 @@ people:
       of the Jack Kerouac School of Disembodied Poetics at Naropa University and
       a MacDowell fellow. He holds a Master of Bioethics from the University of
       Pennsylvania."
+  - person: eileen-myles
+    event_bio: Eileen Myles (they/them) came to New York from Boston in 1974 to be a
+      poet. Their books include For Now (an essay/talk about writing), I Must Be
+      Living Twice/new and selected poems, and Chelsea Girls. They showed their
+      photographs in 2019 at Bridget Donahue, NYC. Eileen has received a
+      Guggenheim Fellowship and an award from the American Academy of Arts &
+      Letters. They live in New York and Marfa, TX.
 date: 2020-10-28 13:00:00 -0500
 end_date: 2020-10-28 13:00:00 -0500
 series: 161
