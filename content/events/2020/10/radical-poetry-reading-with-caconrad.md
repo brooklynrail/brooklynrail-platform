@@ -14,7 +14,8 @@ people:
       Award, and the Gil Ott Book Award. They regularly teach at Columbia
       University in New York City and Sandberg Art Institute in Amsterdam.
       Please view their books, essays, recordings, and the documentary The Book
-      of Conrad (Delinquent Films) online at http://bit.ly/88CAConrad
+      of Conrad (Delinquent Films) online at
+      [http://bit.ly/88CAConrad](http://caconrad.blogspot.com/).
   - person: raquel-salas-rivera
     event_bio: Raquel Salas Rivera is the author of several collections of poetry,
       including antes que isla es volcán/ before island is volcano (Beacon
