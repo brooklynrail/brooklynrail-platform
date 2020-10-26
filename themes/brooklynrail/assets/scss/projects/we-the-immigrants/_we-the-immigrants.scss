@@ -11,7 +11,7 @@ main{
         @include u-margin-bottom(15);
     }
     header{
-        @include u-margin-y(0);    
+        @include u-margin-y(0);
     }
 }
 .content{
@@ -19,14 +19,28 @@ main{
     @include at-media('tablet-lg') {
         @include u-padding-y(10);
     }
-    @include u-border-y(1,'solid', 'black');
+    // @include u-border-y(1,'solid', 'black');
     > p{
         @include u-font('sans', 'md');
         @include u-text('normal');
         @include u-line-height('sans', 3);
         @include at-media('tablet-lg') {
-            @include u-font('sans', 'xl');
+            @include u-font('sans', 'md');
             @include u-text('light');
         }
     }
+}
+
+.person{
+  @include u-margin-bottom(5);
+  img {
+    -webkit-filter: grayscale(1);
+    filter: grayscale(1);
+  }
+  p{
+    @include u-font('sans', '2xs');
+  }
+  a{
+    @include u-text('black');
+  }
 }
