@@ -1,5 +1,5 @@
 ---
-title: Radical Poetry Reading with CAConrad
+title: Radical Poetry Reading
 deck: Featuring political poetry read by CAConrad, Raquel Salas Rivera, Carlos
   Soto-Román, and Eileen Myles.
 summary: The 11th Radical Poetry Reading in a weekly series leading up to the
