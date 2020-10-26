@@ -24,6 +24,8 @@ social:
 ignoreFiles:
   - "content/_archived/*"
 
+ignoreErrors : "error-remote-getjson"
+
 # Permalink Configuration
 permalinks:
   articles              : ":year/:month/:day/:filename/"
@@ -73,6 +75,12 @@ sitemap:
   changefreq            : "daily"
   priority              : 1
   filename              : "sitemap.xml"
+
+
+caches:
+  getjson:
+    dir: :resourceDir/:project
+    maxAge: 48h
 
 # Main Site navigation
 menu:
