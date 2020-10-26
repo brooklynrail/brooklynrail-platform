@@ -28,18 +28,18 @@ people:
       contemporary Puerto Rican poets. He was a 2019 Academy of American Poets
       Laureate Fellow, and the 2018-19 poet laureate of Philadelphia.
   - person: carlos-soto-roman
-    event_bio: "Carlos Soto-Román is a pharmacist, poet and translator. In the
-      United States, he has published COMMON SENSE (Make Now Press, 2019), Bluff
-      (Commune Editions, 2018), Alternative Set of Procedures (Corollary Press,
-      2014), The Exit Strategy (Belladonna, 2014), Chile Project:
-      [Re-Classified] (Gauss PDF, 2013), and Philadelphia's Notebooks (Otoliths,
-      2011). He curated the cooperative anthology of U.S. poetry Elective
-      Affinities. He has published in Chile: 11 (2017), Cambio y Fuera (2009),
-      Haikú Minero (2007), and La Marcha de los Quiltros (1999). He resided in
-      Philadelphia, where he was a member of The New Philadelphia Poets, student
-      of the Jack Kerouac School of Disembodied Poetics at Naropa University and
-      a MacDowell fellow. He holds a Master of Bioethics from the University of
-      Pennsylvania."
+    event_bio: "Carlos Soto-Román is a poet and translator. In the United States, he
+      has published COMMON SENSE (Make Now Press, 2019), Bluff (Commune
+      Editions, 2018), Alternative Set of Procedures (Corollary Press, 2014),
+      The Exit Strategy (Belladonna, 2014), Chile Project: [Re-Classified]
+      (Gauss PDF, 2013), and Philadelphia’s Notebooks (Otoliths, 2011). In the
+      in the UK he has published Nature of Objects (Pamenar Press, 2019) and in
+      Chile 11, which was awarded the Poetry Municipal Prize in 2018. He was the
+      curator of the cooperative anthology of U.S. poetry Elective Affinities.
+      He resided in Philadelphia PA, where he was a member of The New
+      Philadelphia Poets. He also was a student of the Jack Kerouac School of
+      Disembodied Poetics at Naropa University and a MacDowell fellow. He
+      currently lives and works in Santiago, Chile."
   - person: eileen-myles
     event_bio: Eileen Myles (they/them) came to New York from Boston in 1974 to be a
       poet. Their books include For Now (an essay/talk about writing), I Must Be
