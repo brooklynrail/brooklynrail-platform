@@ -1,10 +1,10 @@
 ---
 title: Radical Poetry Reading with CAConrad
-deck: Featuring political poetry read by Raquel Salas Rivera, Carlos Soto-Román,
-  Eileen Myles, and friends.
-summary: Poet CAConrad curates the 11th Radical Poetry Reading in a weekly
-  series leading up to the election, featuring Raquel Salas Rivera, Carlos
-  Soto-Román, Eileen Myles, and friends.
+deck: Featuring political poetry read by CAConrad, Raquel Salas Rivera, Carlos
+  Soto-Román, and Eileen Myles.
+summary: The 11th Radical Poetry Reading in a weekly series leading up to the
+  election, featuring CAConrad, Raquel Salas Rivera, Carlos Soto-Román, and
+  Eileen Myles.
 people:
   - person: caconrad
     event_bio: CAConrad is the author of the forthcoming book Amanda Paradise (Wave
