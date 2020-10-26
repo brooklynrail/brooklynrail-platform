@@ -14,7 +14,7 @@
     <header>
       <div class="grid-container grid-container-desktop">
         <div class="grid-row">
-          <div class="grid-col-12"> 
+          <div class="grid-col-12">
 
             <h1 class="display-none">
               {{- if .Params.headline -}}
@@ -23,6 +23,12 @@
               {{- .Params.Title | markdownify -}}
               {{- end -}}
             </h1>
+
+            {{- with .Params.Deck -}}
+            <p class="deck">
+              {{- . | markdownify -}}
+            </p>
+            {{- end -}}
 
           </div>
         </div>
@@ -40,7 +46,62 @@
             {{- end -}}
 
             <div class="content">
+
               {{- .Content -}}
+
+              {{/*
+              1. Get the CSV from Airtable (Web Data)
+              1. Rename the file to data.csv
+              1. Drop it in /static/projects/we-the-immigrants/
+
+              0 – First name
+              1 – Last name
+              2 – Wikipedia URL
+              3 – Birth Year
+              4 – Place of Origin
+              */}}
+
+              {{- $url := "static/projects/we-the-immigrants/data.csv" -}}
+              {{- $sep := "," -}}
+              <div class="grid-row grid-gap-3">
+
+
+              {{- $wti_data := $.Site.Data.wetheimmigrants.wti -}}
+
+              {{- range $i, $person := $wti_data -}}
+
+                {{/*
+                  Via:
+                    - https://stackoverflow.com/questions/8363531/accessing-main-picture-of-wikipedia-page-by-api/30479241
+                    - https://www.mediawiki.org/wiki/API:Page_info_in_search_results
+
+                    Example: https://en.wikipedia.org/w/api.php?action=query&formatversion=2&titles=Albert_Einstein&prop=pageimages|pageterms&pilicense=free&pithumbsize=400&format=json
+
+                */}}
+
+                {{- $wikipedia_api := (printf "%s%s%s" "https://en.wikipedia.org/w/api.php?action=query&formatversion=2&titles=" (replace $person.url "https://en.wikipedia.org/wiki/" "" | markdownify) "&prop=pageimages|pageterms&pilicense=free&pithumbsize=400&format=json" ) -}}
+                {{- with getJSON $wikipedia_api -}}
+                  {{- $pages := .query.pages -}}
+
+                  {{- range $i, $page := $pages -}}
+                    {{- if $page.thumbnail.source -}}
+                      <div class="grid-col-12 tablet:grid-col-3">
+                        {{/* {{- template "media" (dict "image" $page.original.source "size" "sm" "format" "square" ) -}} */}}
+                        <div class="person">
+                          <img src="{{- $page.thumbnail.source -}}" alt="{{- $page.title -}}">
+                          {{- if $page.terms.label -}}
+                          <p><a href="{{- $person.url -}}" title="{{- index ($page.terms.label) 0 }}">{{- index ($page.terms.label) 0 }}</a>{{- if $page.terms.description }}, <em>{{ index ($page.terms.description) 0 -}}</em>{{- end -}}</p>
+                          {{- end }}
+                        </div>
+
+                      </div>
+                    {{- end -}}
+                  {{- end -}}
+                {{- end -}}
+              {{- end -}}
+
+              </div>
+
             </div>
           </div>
         </div>
