@@ -24,7 +24,7 @@ social:
 ignoreFiles:
   - "content/_archived/*"
 
-ignoreErrors : "error-remote-getjson"
+ignoreErrors: "error-remote-getjson"
 
 # Permalink Configuration
 permalinks:
