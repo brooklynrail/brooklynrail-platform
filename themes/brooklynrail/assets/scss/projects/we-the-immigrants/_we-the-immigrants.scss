@@ -1,8 +1,9 @@
 
 .header{
-    @include u-padding-top(15);
-    @include u-padding-bottom(0);
+  @include u-padding-top(15);
+  @include u-padding-bottom(0);
 }
+
 main{
     @include u-padding-y(8);
     @include u-margin-bottom(10);
@@ -11,7 +12,11 @@ main{
         @include u-margin-bottom(15);
     }
     header{
-        @include u-margin-y(0);
+      @include u-margin-y(0);
+      p.deck{
+        @include u-font('sans', 'lg');
+        @include u-text('normal');
+      }
     }
 }
 .content{
@@ -31,6 +36,9 @@ main{
     }
 }
 
+.all-people{
+  @include u-margin-y(5);
+}
 .person{
   @include u-margin-bottom(5);
   img {
@@ -38,6 +46,7 @@ main{
     filter: grayscale(1);
   }
   p{
+    @include u-margin-top(0);
     @include u-font('sans', '2xs');
   }
   a{
