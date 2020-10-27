@@ -4,6 +4,14 @@ headline: about
 deck:
 summary: summary
 type: projects/we-the-immigrants
+nav:
+  project:
+    - name: See all
+      url: ""
+    - name: Submit your name
+      url: https://airtable.com/shrtYBTkppvsYILWj
+    - name: About the project
+      url: "about"
 ---
 
 As we look towards the 2020 election and consider the future of our country, the Rail is undertaking an urgent project aimed at elevating immigration in communities across America and the role it plays in shaping democracy and the innovative, cultural fabric of society.
