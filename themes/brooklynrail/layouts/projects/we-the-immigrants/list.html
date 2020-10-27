@@ -115,7 +115,7 @@
                       <div class="grid-col-12 tablet:grid-col-3">
                         {{/* {{- template "media" (dict "image" $page.original.source "size" "sm" "format" "square" ) -}} */}}
                         <div class="person">
-                          <img src="{{- $page.thumbnail.source -}}" alt="{{- $page.title -}}">
+                          <img src="{{- $page.thumbnail.source -}}?nf_resize=smartcrop&w=130&h=130" alt="{{- $page.title -}}">
                           {{- if $page.terms.label -}}
                           <p><a href="{{- $person.url -}}" title="{{- index ($page.terms.label) 0 }}">{{- index ($page.terms.label) 0 }}</a>{{- if $page.terms.description }}, <em>{{ index ($page.terms.description) 0 -}}</em>{{- end -}}</p>
                           {{- end }}
