@@ -1,5 +1,5 @@
 ---
-title: "On the 2020 Awakening: Hank Willis Thomas & Paula Crown with Paul D. Miller"
+title: Hank Willis Thomas & Paula Crown with Paul D. Miller
 deck: Weekly conversations with activists, social justice practitioners, and
   changemakers.
 summary: Please join us for our ninth installment of Common Ground, featuring
