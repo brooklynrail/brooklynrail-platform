@@ -1,10 +1,11 @@
-var Airtable = require('airtable');
+const Airtable = require('airtable')
+
 var base = new Airtable({apiKey: process.env.AIRTABLE_JZ}).base('appw5rR1oYVuYgRKI');
 
 base('Immigrants').select({
     // Selecting the first 3 records in All Participants:
     maxRecords: 3,
-    view: "Web Data"
+    view: "All Participants"
 }).eachPage(function page(records, fetchNextPage) {
     // This function (`page`) will get called for each page of records.
 
