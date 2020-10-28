@@ -64,8 +64,8 @@ poets:
   - person: rachel-levitsky
     event_bio: Rachel Levitsky is a feminist avant-garde poet, novelist, essayist,
       translator, editor, educator, and a founder of Belladonna* Collaborative.
-      She was born in New York City and earned an MFA from Naropa University in
-      Boulder, Colorado.
+      She is a Professor of Writing at Pratt Institute, Naropa University, and
+      occasionally for Poets House and The Poetry Project.
 date: 2020-10-29 13:00:00 -0500
 end_date: 2020-10-29 14:30:00 -0500
 collections:
