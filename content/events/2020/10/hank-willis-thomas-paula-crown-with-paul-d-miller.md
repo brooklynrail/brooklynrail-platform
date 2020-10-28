@@ -60,6 +60,12 @@ people:
       of recording artists, including Metallica, Chuck D, Steve Reich, and Yoko
       Ono. His 2018 album, DJ Spooky Presents: Phantom Dancehall, debuted at #3
       on Billboard Reggae."
+poets:
+  - person: rachel-levitsky
+    event_bio: Rachel Levitsky is a feminist avant-garde poet, novelist, essayist,
+      translator, editor, educator, and a founder of Belladonna* Collaborative.
+      She is a Professor of Writing at Pratt Institute, Naropa University, and
+      occasionally for Poets House and The Poetry Project.
 date: 2020-10-29 13:00:00 -0500
 end_date: 2020-10-29 14:30:00 -0500
 collections:
