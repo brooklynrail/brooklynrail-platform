@@ -80,9 +80,7 @@ event_platform:
 ---
 Please join us for our ninth installment of Common Ground, when we will be joined by artists **Hank Willis Thomas** and **Paula Crown** in conversation with **Paul D. Miller** aka **DJ Spooky** for a discussion on [For Freedoms](https://forfreedoms.org/)' **2020 Awakening**, a campaign to increase voter engagement through a reimagining of the 1860 Wide Awakes movement—which swept through our nation's streets and welcomed Abraham Lincoln into the presidential office—for the 2020 Presidential Election. They will address the vital question: What does it mean to show up to the movement—or show up to the future—with our full selves?
 
-This conversation will be moderated by **Malvika Jolly**, and will close with a poetry reading by **Rachel Levitsky**. 
-
-
+This conversation will be moderated by **Malvika Jolly**, and will close with a poetry reading by feminist avant-garde poet **Rachel Levitsky**. 
 
 ### **About this series**
 
