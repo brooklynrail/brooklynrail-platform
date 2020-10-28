@@ -8,6 +8,7 @@ short_bio: Blake Gopnik began his career as an academic, with a doctorate from
   News and a regular contributor to the New York Times. His most recent
   publication is a 2020 biography of American artist Andy Warhol titled “Warhol”
   (Ecco Press, Penguin Books, 2020).
-portraits: []
+portraits:
+  - media: 2020/10/blake-gupnik
 website: https://blakegopnik.com
 ---
