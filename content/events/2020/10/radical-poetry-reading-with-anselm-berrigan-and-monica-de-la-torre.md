@@ -96,7 +96,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
-youtube_id: ""
+youtube_id: pGqaBI40bws
 registration_url: https://www.eventbrite.com/e/nse-151-radical-poetry-with-anselm-berrigan-and-monica-de-la-torre-tickets-124636349677
 event_platform:
   - zoom
