@@ -67,7 +67,7 @@ Image Shortcode
       {{- $nf_resize = (print "?nf_resize=smartcrop&w=" $width "&h=" $width ) -}}
     {{ end }}
 
-    {{- if $image.Params -}}
+    {{- if $image.Params.media -}}
       <img src="{{- $image.Params.media -}}{{- $nf_resize -}}" alt="{{- $image.Params.alt -}}" title="{{- $image.Params.alt -}}">
       {{- with $image.Params.caption -}}
         {{- template "figcaption" (dict "caption" . )  -}}
