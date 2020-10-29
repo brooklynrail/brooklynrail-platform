@@ -17,13 +17,14 @@ main{
   header{
     @include u-margin-y(0);
     p.deck{
+      @include u-padding-bottom(2);
       @include u-font('sans', 'lg');
       @include u-text('light');
     }
   }
 
   nav.nav-project{
-    @include u-padding-bottom(6);
+    @include u-padding-bottom(5);
     @include u-position('sticky');
     top:0;
     ul{
