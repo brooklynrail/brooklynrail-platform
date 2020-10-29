@@ -15,4 +15,4 @@ nav:
     - name: About
       url: about
 ---
-\
+[Read more >>](https://brooklynrail.org/projects/we-the-immigrants/about)
