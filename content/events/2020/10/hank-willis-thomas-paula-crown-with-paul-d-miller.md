@@ -60,6 +60,12 @@ people:
       of recording artists, including Metallica, Chuck D, Steve Reich, and Yoko
       Ono. His 2018 album, DJ Spooky Presents: Phantom Dancehall, debuted at #3
       on Billboard Reggae."
+poets:
+  - person: rachel-levitsky
+    event_bio: Rachel Levitsky is a feminist avant-garde poet, novelist, essayist,
+      translator, editor, educator, and a founder of Belladonna* Collaborative.
+      She is a Professor of Writing at Pratt Institute, Naropa University, and
+      occasionally for Poets House and The Poetry Project.
 date: 2020-10-29 13:00:00 -0500
 end_date: 2020-10-29 14:30:00 -0500
 collections:
@@ -72,7 +78,9 @@ registration_url: https://www.eventbrite.com/e/common-ground-hank-willis-thomas-
 event_platform:
   - zoom
 ---
-Please join us for our ninth installment of Common Ground, when we will be joined by artists **Hank Willis Thomas** and **Paula Crown** in conversation with **Paul D. Miller** aka **DJ Spooky**. This conversation will be moderated by **Malvika Jolly**, and will close with a poetry reading.
+Please join us for our ninth installment of Common Ground, when we will be joined by artists **Hank Willis Thomas** and **Paula Crown** in conversation with **Paul D. Miller** aka **DJ Spooky** for a discussion on [For Freedoms](https://forfreedoms.org/)' **2020 Awakening**, a campaign to increase voter engagement through a reimagining of the 1860 Wide Awakes movement—which swept through our nation's streets and welcomed Abraham Lincoln into the presidential office—for the 2020 Presidential Election. They will address the vital question: What does it mean to show up to the movement—or show up to the future—with our full selves?
+
+This conversation will be moderated by **Malvika Jolly**, and will close with a poetry reading by feminist avant-garde writer **Rachel Levitsky**. 
 
 ### **About this series**
 

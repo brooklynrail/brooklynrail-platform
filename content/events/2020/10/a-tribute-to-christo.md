@@ -92,6 +92,12 @@ people:
       first U.S. retrospective of Jonas Mekas, and Occupy Industry City: Artists
       Need to Create on the Same Scale that Society Has the Capacity to Destroy,
       Year 3."
+poets:
+  - person: michael-broder
+    event_bio: Michael Broder is the author of "Drug and Disease Free" and "This
+      Life Now." He is the founding publisher of Indolent Books and the creator
+      of the HIV Here & Now Project. Broder lives in Brooklyn with his husband,
+      the poet Jason Schneiderman.
 date: 2020-10-30 13:00:00 -0500
 end_date: 2020-10-30 14:30:00 -0500
 series: 163
