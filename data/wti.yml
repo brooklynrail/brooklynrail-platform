@@ -39,20 +39,6 @@
   origin: "Belgium"
   headshot: https://dl.airtable.com/.attachments/07c7d789ca103492429b3aadc5c78329/25357f94/Chantal_Akerman_-_video_still_cropped.jpg
 
-- first_name: "Rita"
-  last_name: "Ackermann"
-  wikipedia_url: https://en.wikipedia.org/wiki/Rita_Ackermann
-  born_year: "1968"
-  origin: "Hungary"
-  headshot:
-
-- first_name: "Stephen"
-  last_name: "Antonakos"
-  wikipedia_url: https://en.wikipedia.org/wiki/Stephen_Antonakos
-  born_year: "1926"
-  origin: "Greece"
-  headshot: https://dl.airtable.com/.attachments/f2a62daa5f4f744f553e9ae619536f34/307d78d8/5866872794_fa721a5885_b.jpg
-
 - first_name: "Etel"
   last_name: "Adnan"
   wikipedia_url: https://en.wikipedia.org/wiki/Etel_Adnan
@@ -346,13 +332,6 @@
   born_year: "1978"
   origin: "Ethiopia"
   headshot:
-
-- first_name: "Guillermo"
-  last_name: "del Toro"
-  wikipedia_url: https://en.wikipedia.org/wiki/Guillermo_del_Toro
-  born_year: "1964"
-  origin: "Mexico"
-  headshot: https://dl.airtable.com/.attachments/ceb6b8e559b30b1ba0b82b4e24cc54b5/8c071dd2/del_Toro_Guillermo.jpg
 
 - first_name: "I.M"
   last_name: "Pei"
@@ -886,13 +865,6 @@
   origin: "Dominican Republic"
   headshot:
 
-- first_name: "Maria"
-  last_name: "Hinojosa"
-  wikipedia_url: https://en.wikipedia.org/wiki/Maria_Hinojosa
-  born_year: "1961"
-  origin: "Mexico"
-  headshot:
-
 - first_name: "Ruben"
   last_name: "Salazar"
   wikipedia_url: https://en.wikipedia.org/wiki/Ruben_Salazar
@@ -1103,26 +1075,12 @@
   origin: "German Empire"
   headshot: https://dl.airtable.com/.attachments/1f95dbe26fefd920566d8c36dcf92b63/ce6e5669/hannaharendt.jpg
 
-- first_name: "Lucien"
-  last_name: "Aigner"
-  wikipedia_url: https://en.wikipedia.org/wiki/Lucien_Aigner
-  born_year: "1901"
-  origin: "Austria-Hungary"
-  headshot:
-
 - first_name: "Isaac"
   last_name: "Asimov"
   wikipedia_url: https://en.wikipedia.org/wiki/Isaac_Asimov
   born_year: "1920"
   origin: "Russian SFSR"
   headshot: https://dl.airtable.com/.attachments/ed75292fa9dc3e2589ceec33419b1c2c/23d92b63/isaacasimov.jpg
-
-- first_name: "Lida"
-  last_name: "Abdul"
-  wikipedia_url: https://en.wikipedia.org/wiki/Lida_Abdul
-  born_year: "1973"
-  origin: "Afghanistan"
-  headshot:
 
 - first_name: "Sinan"
   last_name: "Antoon"
@@ -1165,20 +1123,6 @@
   born_year: "1898"
   origin: "Slovenia"
   headshot: https://dl.airtable.com/.attachments/56a327a97c6c81805dbd50d0a9acb070/e3c803f8/Louis_Adamic.jpg
-
-- first_name: "Rina"
-  last_name: "Banerjee"
-  wikipedia_url: https://en.wikipedia.org/wiki/Rina_Banerjee
-  born_year: "1963"
-  origin: "India"
-  headshot:
-
-- first_name: "Ashley"
-  last_name: "Bickerton"
-  wikipedia_url: https://en.wikipedia.org/wiki/Ashley_Bickerton
-  born_year: "1959"
-  origin: "British Barbados"
-  headshot:
 
 - first_name: "Vanessa"
   last_name: "Beecroft"
@@ -1264,13 +1208,6 @@
   origin: "Russia"
   headshot: https://dl.airtable.com/.attachments/2c9def05ce2c28cab696032db88bd885/a5f72388/1024px-Joseph_Brodsky_1988.jpg
 
-- first_name: "Irving"
-  last_name: "Berlin"
-  wikipedia_url: https://en.wikipedia.org/wiki/Irving_Berlin
-  born_year: "1888"
-  origin: "Russian Empire"
-  headshot: https://dl.airtable.com/.attachments/39dc019fc3eefca443c8c2d05d90e91f/e2e78b8b/BerlinPortrait1.jpg
-
 - first_name: "Chryssa"
   last_name: "Vardea-Mavromichali"
   wikipedia_url: https://en.wikipedia.org/wiki/Chryssa
@@ -1341,13 +1278,6 @@
   origin: "Latvia"
   headshot: https://dl.airtable.com/.attachments/3780ca8b55b48c77bab988dc22bc2d9b/78d74370/ScreenShot2020-10-21at19_12_21.png
 
-- first_name: "Mikhail"
-  last_name: "Baryshnikov"
-  wikipedia_url: https://en.wikipedia.org/wiki/Mikhail_Baryshnikov
-  born_year: "1948"
-  origin: "Latvia"
-  headshot: https://dl.airtable.com/.attachments/7fe97c41795e7fa1c5278f5fe0974bd7/c3aaff64/mikhailbaryshnikov.jpg
-
 - first_name: "Enrique"
   last_name: "Martinez Celaya"
   wikipedia_url: https://en.wikipedia.org/wiki/Enrique_Martinez_Celaya
@@ -1368,13 +1298,6 @@
   born_year: "1952"
   origin: "Italy"
   headshot: https://dl.airtable.com/.attachments/d93114bb563c2c7c095852ba883c1bac/0655e271/Michael_Avedon_Francesco_Clemente.jpg
-
-- first_name: "Huma"
-  last_name: "Bhabha"
-  wikipedia_url: https://en.wikipedia.org/wiki/Huma_Bhabha
-  born_year: "1962"
-  origin: "Pakistan"
-  headshot:
 
 - first_name: "Enrique"
   last_name: "Chagoya"
@@ -1410,13 +1333,6 @@
   born_year: "1920"
   origin: "Germany"
   headshot: https://dl.airtable.com/.attachments/71f3330d306c156ef9aadcf40b2fd33a/c2a2f1ae/Ernst_Jimmy.jpg
-
-- first_name: "Nassos"
-  last_name: "Daphnis"
-  wikipedia_url: https://en.wikipedia.org/wiki/Nassos_Daphnis
-  born_year: "1914"
-  origin: "Greece"
-  headshot:
 
 - first_name: "Erik"
   last_name: "Demaine"
@@ -1467,13 +1383,6 @@
   origin: "England"
   headshot: https://dl.airtable.com/.attachments/73f725e94a41fc40255767b6eb92535b/487dcbe9/Dean_Tacita.jpg
 
-- first_name: "Frank"
-  last_name: "Capra"
-  wikipedia_url: https://en.wikipedia.org/wiki/Frank_Capra
-  born_year: "1897"
-  origin: "Italy"
-  headshot: https://dl.airtable.com/.attachments/7e3e75283d16295f7a0075e472bf8327/c294ef74/1024px-Frank_Capra.jpg
-
 - first_name: "Judith"
   last_name: "Ortiz Cofer"
   wikipedia_url: https://en.wikipedia.org/wiki/Judith_Ortiz_Cofer
@@ -1508,13 +1417,6 @@
   born_year: "1898"
   origin: "Hungary"
   headshot: https://dl.airtable.com/.attachments/be26538f961e305bfcd0b75cd618255f/79ed94b2/Dienes_Sari.jpg
-
-- first_name: "Charlie"
-  last_name: "Chaplin"
-  wikipedia_url: https://en.wikipedia.org/wiki/Charlie_Chaplin
-  born_year: "1889"
-  origin: "England"
-  headshot: https://dl.airtable.com/.attachments/81b323e370ea90423a29af39c616d92f/9dbb678d/Charlie_Chaplin_portrait.jpg
 
 - first_name: "Rico"
   last_name: "Lebrun"
@@ -1620,13 +1522,6 @@
   born_year: "1901"
   origin: "Austrian Poland"
   headshot: https://dl.airtable.com/.attachments/72ad5455c237961e46916c397b0c6746/57712a70/Strasberg_Lee.jpg
-
-- first_name: "Milos"
-  last_name: "Forman"
-  wikipedia_url: https://en.wikipedia.org/wiki/Milo%C5%A1_Forman
-  born_year: "1932"
-  origin: "Czechoslovakia"
-  headshot: https://dl.airtable.com/.attachments/e6095826f0318e49c16c148468a7b196/60302900/Forman_Milos.jpg
 
 - first_name: "Yucef"
   last_name: "Merhi"
@@ -1817,13 +1712,6 @@
   origin: "Iraq"
   headshot:
 
-- first_name: "Raúl"
-  last_name: "de Nieves"
-  wikipedia_url: https://en.wikipedia.org/wiki/Ra%C3%BAl_de_Nieves
-  born_year: "1983"
-  origin: "Mexico"
-  headshot:
-
 - first_name: "Ricardo"
   last_name: "Estanislao Zulueta"
   wikipedia_url: https://en.wikipedia.org/wiki/Ricardo_Estanislao_Zulueta
@@ -1927,13 +1815,6 @@
   wikipedia_url: https://en.wikipedia.org/wiki/Adri%C3%A1n_Villar_Rojas
   born_year: "1980"
   origin:
-  headshot:
-
-- first_name: "Eszter"
-  last_name: "Haraszty"
-  wikipedia_url: https://en.wikipedia.org/wiki/Eszter_Haraszty
-  born_year: "1920"
-  origin: "Hungary"
   headshot:
 
 - first_name: "George"
@@ -2342,13 +2223,6 @@
   origin: "Japan"
   headshot: https://dl.airtable.com/.attachments/35942132e96b3661f0e6d22dbdd50d6c/8ecd9fe6/Teraoka_Masami.jpg
 
-- first_name: "Alejandro"
-  last_name: "González Iñárritu"
-  wikipedia_url: https://en.wikipedia.org/wiki/Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu
-  born_year: "1963"
-  origin: "Mexico"
-  headshot:
-
 - first_name: "Nader"
   last_name: "Naderpour"
   wikipedia_url: https://en.wikipedia.org/wiki/Nader_Naderpour
@@ -2370,13 +2244,6 @@
   origin: "Russia"
   headshot:
 
-- first_name: "Oscar"
-  last_name: "de la Renta"
-  wikipedia_url: https://en.wikipedia.org/wiki/Oscar_de_la_Renta
-  born_year: "1932"
-  origin: "Dominican Republi"
-  headshot: https://dl.airtable.com/.attachments/aa03dddbbbb322cdb4a2a2965a3de21c/13bb28cc/de_la_Renta_Oscar.jpg
-
 - first_name: "Hans"
   last_name: "Bethe"
   wikipedia_url: https://en.wikipedia.org/wiki/Hans_Bethe
@@ -2390,13 +2257,6 @@
   born_year: "1952"
   origin: "Taiwan"
   headshot: https://dl.airtable.com/.attachments/d971943ff232a35eccf950b4b42d3f5b/88bf9835/Ho_David.jpg
-
-- first_name: "Felix"
-  last_name: "Frankfurter"
-  wikipedia_url: https://en.wikipedia.org/wiki/Felix_Frankfurter
-  born_year: "1882"
-  origin: "Austria-Hungary"
-  headshot: https://dl.airtable.com/.attachments/9a4e6150b8c99845db3fe9ecaa92e25b/99b4b7a6/Frankfurter_Felix.jpg
 
 - first_name: "Pramila"
   last_name: "Jayapal"
@@ -2418,20 +2278,6 @@
   born_year: "1900"
   origin: "Spain"
   headshot: https://dl.airtable.com/.attachments/2b2c9d80374007ca3c4eacbe673ec45d/1234a648/Cugat_Xavier.jpg
-
-- first_name: "Father Edward"
-  last_name: "Flanigan"
-  wikipedia_url: https://en.wikipedia.org/wiki/Edward_J._Flanagan
-  born_year: "1886"
-  origin: "Ireland"
-  headshot: https://dl.airtable.com/.attachments/a41886930f4de5d7d872f2e8ba4db5b5/d93a9853/Flanigan_Edward.jpg
-
-- first_name: "Gloria"
-  last_name: "Estefan"
-  wikipedia_url: https://en.wikipedia.org/wiki/Gloria_Estefan
-  born_year: "1957"
-  origin: "Cuba"
-  headshot: https://dl.airtable.com/.attachments/0301ea86ec1f41d660e0739b844dc2c3/05372fd3/Estefan_Gloria.jpg
 
 - first_name: "Martina"
   last_name: "Navratilova"
@@ -2461,27 +2307,6 @@
   origin: "India"
   headshot: https://dl.airtable.com/.attachments/14cfa5c7b3b57b61675fd9b6ecb0b1eb/bce8cc9e/M__Night_Shyamalan.jpg
 
-- first_name: "Elizabeth"
-  last_name: "Arden"
-  wikipedia_url: https://en.wikipedia.org/wiki/Elizabeth_Arden
-  born_year: "1881"
-  origin: "Canada"
-  headshot: https://dl.airtable.com/.attachments/63e51d98cb14a954872c8bd737882d59/96dbd26c/Arden_Elizabeth.jpg
-
-- first_name: "Patrick"
-  last_name: "Ewing"
-  wikipedia_url: https://en.wikipedia.org/wiki/Patrick_Ewing
-  born_year: "1962"
-  origin: "Jamaica"
-  headshot: https://dl.airtable.com/.attachments/c13a7a2520b5aa6be7973ff5c511a6b2/819f1deb/Ewing_Patrick.jpg
-
-- first_name: "Claudette"
-  last_name: "Colbert"
-  wikipedia_url: https://en.wikipedia.org/wiki/Claudette_Colbert
-  born_year: "1903"
-  origin: "France"
-  headshot: https://dl.airtable.com/.attachments/e1c4259b0b2dab3e87ca4492b54608af/86c76f00/Colbert_Claudette.jpg
-
 - first_name: "Imbolo"
   last_name: "Mbue"
   wikipedia_url: https://en.wikipedia.org/wiki/Imbolo_Mbue
@@ -2510,26 +2335,12 @@
   origin: "USSR"
   headshot: https://dl.airtable.com/.attachments/4cc0eba4d611cccb17e82d0c44c09cad/f32e3d54/Sharapova_Maria.jpg
 
-- first_name: "Jagdish"
-  last_name: "Bhagwati"
-  wikipedia_url: https://en.wikipedia.org/wiki/Jagdish_Bhagwati
-  born_year: "1934"
-  origin: "British India"
-  headshot: https://dl.airtable.com/.attachments/e6e2201a209eda2efea5eed0b66546cd/f3052504/Bhagwati_Jagdish.jpg
-
 - first_name: "Joni"
   last_name: "Mitchell"
   wikipedia_url: https://en.wikipedia.org/wiki/Joni_Mitchell
   born_year: "1943"
   origin: "Canada"
   headshot: https://dl.airtable.com/.attachments/a3c4a43c168261b87922df1128d45227/a5f821d7/Mitchell_Joni.jpg
-
-- first_name: "Nadia"
-  last_name: "Comăneci"
-  wikipedia_url: https://en.wikipedia.org/wiki/Nadia_Com%C4%83neci
-  born_year: "1961"
-  origin: "Romania"
-  headshot: https://dl.airtable.com/.attachments/cdc66ce4631a3f97c5c355bfad936439/5828425d/Comaneci_Nadia.jpg
 
 - first_name: "Jaime"
   last_name: "Escalante"
@@ -2566,13 +2377,6 @@
   origin: "Russian SFSR"
   headshot: https://dl.airtable.com/.attachments/0c28b5837228ff183b29c798ad17480f/be4f9eeb/Solzhenitsyn_Aleksandr.jpg
 
-- first_name: "Michael J."
-  last_name: "Fox"
-  wikipedia_url: https://en.wikipedia.org/wiki/Michael_J._Fox
-  born_year: "1961"
-  origin: "Canada"
-  headshot: https://dl.airtable.com/.attachments/b0f39ce53f2754f14a0c286222c0bbc5/f59a9f28/Fox_Michael_J.jpg
-
 - first_name: "Isabel"
   last_name: "Allende"
   wikipedia_url: https://en.wikipedia.org/wiki/Isabel_Allende
@@ -2606,34 +2410,6 @@
   wikipedia_url: https://en.wikipedia.org/wiki/Kwame_Anthony_Appiah
   born_year: "1954"
   origin: "England"
-  headshot:
-
-- first_name: "Augustin"
-  last_name: "Banyaga"
-  wikipedia_url: https://en.wikipedia.org/wiki/Augustin_Banyaga
-  born_year: "1947"
-  origin: "Rwanda"
-  headshot:
-
-- first_name: "Mohammed Adam"
-  last_name: "El-Sheikh"
-  wikipedia_url: https://en.wikipedia.org/wiki/Mohammed_Adam_El-Sheikh
-  born_year: "1945"
-  origin: "Sudan"
-  headshot:
-
-- first_name: "Bisi"
-  last_name: "Ezerioha"
-  wikipedia_url: https://en.wikipedia.org/wiki/Bisi_Ezerioha
-  born_year: "1972"
-  origin: "Nigeria"
-  headshot:
-
-- first_name: "Simon"
-  last_name: "Gikandi"
-  wikipedia_url: https://en.wikipedia.org/wiki/Simon_Gikandi
-  born_year: "1960"
-  origin: "Kenya"
   headshot:
 
 - first_name: "Ave"
@@ -2671,13 +2447,6 @@
   origin: "Italian Ethiopian Empire"
   headshot:
 
-- first_name: "Celine"
-  last_name: "Dion"
-  wikipedia_url: https://en.wikipedia.org/wiki/Celine_Dion
-  born_year: "1968"
-  origin: "Canada"
-  headshot:
-
 - first_name: "Ahmed"
   last_name: "Zewali"
   wikipedia_url: https://en.wikipedia.org/wiki/Ahmed_Zewail
@@ -2706,13 +2475,6 @@
   origin: "Somalia"
   headshot:
 
-- first_name: "Dezi"
-  last_name: "Arnaz"
-  wikipedia_url: https://en.wikipedia.org/wiki/Desi_Arnaz
-  born_year: "1917"
-  origin: "Cuba"
-  headshot:
-
 - first_name: "Ayn"
   last_name: "Rand"
   wikipedia_url: https://en.wikipedia.org/wiki/Ayn_Rand
@@ -2727,34 +2489,6 @@
   origin: "British Kenya"
   headshot:
 
-- first_name: "Sergey"
-  last_name: "Brin"
-  wikipedia_url: https://en.wikipedia.org/wiki/Sergey_Brin
-  born_year: "1973"
-  origin: "USSR"
-  headshot:
-
-- first_name: "Cynthia"
-  last_name: "Addai-Robinson"
-  wikipedia_url: https://en.wikipedia.org/wiki/Cynthia_Addai-Robinson
-  born_year: "1985"
-  origin: "England"
-  headshot:
-
-- first_name: "Michael"
-  last_name: "Blackson"
-  wikipedia_url: https://en.wikipedia.org/wiki/Michael_Blackson
-  born_year: "1972"
-  origin: "Ghana"
-  headshot:
-
-- first_name: "Madeleine"
-  last_name: "Albright"
-  wikipedia_url: https://en.wikipedia.org/wiki/Madeleine_Albright
-  born_year: "1937"
-  origin: "Czechoslovakia"
-  headshot:
-
 - first_name: "Arianna"
   last_name: "Huffington"
   wikipedia_url: https://en.wikipedia.org/wiki/Arianna_Huffington
@@ -2762,32 +2496,11 @@
   origin: "Greece"
   headshot:
 
-- first_name: "Jackie"
-  last_name: "Chan"
-  wikipedia_url: https://en.wikipedia.org/wiki/Jackie_Chan
-  born_year: "1954"
-  origin: "British Hong Kong"
-  headshot:
-
-- first_name: "Akosua"
-  last_name: "Busia"
-  wikipedia_url: https://en.wikipedia.org/wiki/Akosua_Busia
-  born_year: "1966"
-  origin: "Ghana"
-  headshot:
-
 - first_name: "Cary"
   last_name: "Grant"
   wikipedia_url: https://en.wikipedia.org/wiki/Cary_Grant
   born_year: "1904"
   origin: "England"
-  headshot:
-
-- first_name: "Edi"
-  last_name: "Gathegi"
-  wikipedia_url: https://en.wikipedia.org/wiki/Edi_Gathegi
-  born_year: "1979"
-  origin: "Kenya"
   headshot:
 
 - first_name: "Thomas"
@@ -2804,20 +2517,6 @@
   origin: "Somalia"
   headshot:
 
-- first_name: "Sanaa"
-  last_name: "Hamri"
-  wikipedia_url: https://en.wikipedia.org/wiki/Sanaa_Hamri
-  born_year: "1977"
-  origin: "Morocco"
-  headshot:
-
-- first_name: "Andrew"
-  last_name: "Carnegie"
-  wikipedia_url: https://en.wikipedia.org/wiki/Andrew_Carnegie
-  born_year: "1835"
-  origin: "Scotland"
-  headshot:
-
 - first_name: "Charlize"
   last_name: "Theron"
   wikipedia_url: https://en.wikipedia.org/wiki/Charlize_Theron
@@ -2832,25 +2531,11 @@
   origin: "Kingdom of Egypt"
   headshot:
 
-- first_name: "Ezekiel"
-  last_name: "Ansah"
-  wikipedia_url: https://en.wikipedia.org/wiki/Ezekiel_Ansah
-  born_year: "1989"
-  origin: "Ghana"
-  headshot:
-
 - first_name: "Wernher"
   last_name: "von Braun"
   wikipedia_url: https://en.wikipedia.org/wiki/Wernher_von_Braun
   born_year: "1912"
   origin: "German Empire"
-  headshot:
-
-- first_name: "Gale"
-  last_name: "Agbossoumonde"
-  wikipedia_url: https://en.wikipedia.org/wiki/Gale_Agbossoumonde
-  born_year: "1991"
-  origin: "Togo"
   headshot:
 
 - first_name: "James"
@@ -2872,55 +2557,6 @@
   wikipedia_url: https://en.wikipedia.org/wiki/Anthony_Hopkins
   born_year: "1937"
   origin: "Wales"
-  headshot:
-
-- first_name: "Rupert"
-  last_name: "Murdoch"
-  wikipedia_url: https://en.wikipedia.org/wiki/Rupert_Murdoch
-  born_year: "1931"
-  origin: "Australia"
-  headshot:
-
-- first_name: "Kevin"
-  last_name: "Anderson"
-  wikipedia_url: https://en.wikipedia.org/wiki/Kevin_Anderson_(tennis)
-  born_year: "1986"
-  origin: "South Africa"
-  headshot:
-
-- first_name: "Joshua"
-  last_name: "Clottey"
-  wikipedia_url: https://en.wikipedia.org/wiki/Joshua_Clottey
-  born_year: "1977"
-  origin: "Ghana"
-  headshot:
-
-- first_name: "Luol"
-  last_name: "Deng"
-  wikipedia_url: https://en.wikipedia.org/wiki/Luol_Deng
-  born_year: "1985"
-  origin: "Sudan"
-  headshot:
-
-- first_name: "Ebenezer"
-  last_name: "Ekuban"
-  wikipedia_url: https://en.wikipedia.org/wiki/Ebenezer_Ekuban
-  born_year: "1976"
-  origin: "Ghana"
-  headshot:
-
-- first_name: "Joel"
-  last_name: "Embiid"
-  wikipedia_url: https://en.wikipedia.org/wiki/Joel_Embiid
-  born_year: "1994"
-  origin: "Cameroon"
-  headshot:
-
-- first_name: "Festus"
-  last_name: "Ezeli"
-  wikipedia_url: https://en.wikipedia.org/wiki/Festus_Ezeli
-  born_year: "1989"
-  origin: "Nigeria"
   headshot:
 
 - first_name: "Serge"
@@ -2963,13 +2599,6 @@
   wikipedia_url: https://en.wikipedia.org/wiki/Danny_Mwanga
   born_year: "1991"
   origin: "Zaire"
-  headshot:
-
-- first_name: "Elizabeth"
-  last_name: "Anna Okino"
-  wikipedia_url: https://en.wikipedia.org/wiki/Betty_Okino
-  born_year: "1975"
-  origin: "Uganda"
   headshot:
 
 - first_name: "Amobi"
@@ -3049,25 +2678,11 @@
   origin: "Germany"
   headshot:
 
-- first_name: "Roelof"
-  last_name: "Botha"
-  wikipedia_url: https://en.wikipedia.org/wiki/Roelof_Botha
-  born_year: "1973"
-  origin: "South Africa"
-  headshot:
-
 - first_name: "Kase"
   last_name: "Lukman Lawal"
   wikipedia_url: https://en.wikipedia.org/wiki/Kase_Lukman_Lawal
   born_year: "1954"
   origin: "Nigeria"
-  headshot:
-
-- first_name: "Amsale"
-  last_name: "Aberra"
-  wikipedia_url: https://en.wikipedia.org/wiki/Amsale_Aberra
-  born_year: "1954"
-  origin: "Ethiopian Empire"
   headshot:
 
 - first_name: "Kiara"
@@ -3098,13 +2713,6 @@
   origin: "South Sudan"
   headshot:
 
-- first_name: "Selamawi"
-  last_name: "Asgedom"
-  wikipedia_url: https://en.wikipedia.org/wiki/Selamawi_Asgedom
-  born_year: "1976"
-  origin: "Socialist Ethiopia"
-  headshot:
-
 - first_name: "Charles"
   last_name: "Mudede"
   wikipedia_url: https://en.wikipedia.org/wiki/Charles_Mudede
@@ -3112,25 +2720,11 @@
   origin: "Rhodesia"
   headshot:
 
-- first_name: "Micere"
-  last_name: "Githae Mugo"
-  wikipedia_url: https://en.wikipedia.org/wiki/Micere_Githae_Mugo
-  born_year: "1942"
-  origin: "Kenya"
-  headshot:
-
 - first_name: "Toluse"
   last_name: "Olorunnipa"
   wikipedia_url: https://en.wikipedia.org/wiki/Toluse_Olorunnipa
   born_year: "1986"
   origin: "Nigeria"
-  headshot:
-
-- first_name: "Elias"
-  last_name: "Gabriel Galvan"
-  wikipedia_url: https://en.wikipedia.org/wiki/Elias_Gabriel_Galvan
-  born_year: "1938"
-  origin: "Mexico"
   headshot:
 
 - first_name: "Miguel"
@@ -3145,20 +2739,6 @@
   wikipedia_url: https://en.wikipedia.org/wiki/M%C3%B3nica_Ponce_de_Le%C3%B3n
   born_year:
   origin: "Venezuela"
-  headshot:
-
-- first_name: "Felipe"
-  last_name: "Alfau"
-  wikipedia_url: https://en.wikipedia.org/wiki/Felipe_Alfau
-  born_year: "1902"
-  origin: "Spain"
-  headshot:
-
-- first_name: "Jaime"
-  last_name: "de Angulo"
-  wikipedia_url: https://en.wikipedia.org/wiki/Jaime_de_Angulo
-  born_year: "1887"
-  origin: "France"
   headshot:
 
 - first_name: "Wyclef"
@@ -3231,13 +2811,6 @@
   origin: "German Empire"
   headshot:
 
-- first_name: "Abbas"
-  last_name: "Ardehali"
-  wikipedia_url: https://en.wikipedia.org/wiki/Abbas_Ardehali
-  born_year: "1959"
-  origin: "Iran"
-  headshot:
-
 - first_name: "Maz"
   last_name: "Jobrani"
   wikipedia_url: https://en.wikipedia.org/wiki/Maz_Jobrani
@@ -3249,20 +2822,6 @@
   last_name: "Milani"
   wikipedia_url: https://en.wikipedia.org/wiki/Farzaneh_Milani
   born_year: "c. 1947"
-  origin: "Iran"
-  headshot:
-
-- first_name: "Tanaz"
-  last_name: "Eshaghian"
-  wikipedia_url: https://en.wikipedia.org/wiki/Tanaz_Eshaghian
-  born_year: "1974"
-  origin: "Iran"
-  headshot:
-
-- first_name: "Farnaz"
-  last_name: "Fassihi"
-  wikipedia_url: https://en.wikipedia.org/wiki/Farnaz_Fassihi
-  born_year: "1971"
   origin: "Iran"
   headshot:
 
@@ -3308,13 +2867,6 @@
   origin: "Iran"
   headshot:
 
-- first_name: "Jimmy"
-  last_name: "Delshad"
-  wikipedia_url: https://en.wikipedia.org/wiki/Jimmy_Delshad
-  born_year: "1940"
-  origin: "Iran"
-  headshot:
-
 - first_name: "Gholam A."
   last_name: "Peyman"
   wikipedia_url: https://en.wikipedia.org/wiki/Gholam_A._Peyman
@@ -3326,13 +2878,6 @@
   last_name: "Sabeti"
   wikipedia_url: https://en.wikipedia.org/wiki/Pardis_Sabeti
   born_year: "1975"
-  origin: "Iran"
-  headshot:
-
-- first_name: "Anousheh"
-  last_name: "Ansari"
-  wikipedia_url: https://en.wikipedia.org/wiki/Anousheh_Ansari
-  born_year: "1966"
   origin: "Iran"
   headshot:
 
@@ -3406,25 +2951,11 @@
   origin: "Dominican Republic"
   headshot:
 
-- first_name: "Salma"
-  last_name: "Hayek"
-  wikipedia_url: https://en.wikipedia.org/wiki/Salma_Hayek
-  born_year: "1966"
-  origin: "Mexico"
-  headshot:
-
 - first_name: "Kumail"
   last_name: "Nanjiani"
   wikipedia_url: https://en.wikipedia.org/wiki/Kumail_Nanjiani
   born_year: "1978"
   origin: "Pakistan"
-  headshot:
-
-- first_name: "Jim"
-  last_name: "Carrey"
-  wikipedia_url: https://en.wikipedia.org/wiki/Jim_Carrey
-  born_year: "1962"
-  origin: "Canada"
   headshot:
 
 - first_name: "Eddie"
@@ -3448,13 +2979,6 @@
   origin: "England"
   headshot:
 
-- first_name: "Pierce"
-  last_name: "Brosnan"
-  wikipedia_url: https://en.wikipedia.org/wiki/Pierce_Brosnan
-  born_year: "1953"
-  origin: "Ireland"
-  headshot:
-
 - first_name: "Clara"
   last_name: "Ledesma"
   wikipedia_url: https://en.wikipedia.org/wiki/Clara_Ledesma
@@ -3476,41 +3000,6 @@
   origin: "Dominican Republic"
   headshot:
 
-- first_name: "María"
-  last_name: "Celeste Arrarás"
-  wikipedia_url: https://en.wikipedia.org/wiki/Mar%C3%ADa_Celeste_Arrar%C3%A1s
-  born_year: "1960"
-  origin: "Puerto Rico"
-  headshot:
-
-- first_name: "Julia"
-  last_name: "Alvarez"
-  wikipedia_url: https://en.wikipedia.org/wiki/Julia_Alvarez
-  born_year: "1950"
-  origin: "Dominican Republic"
-  headshot:
-
-- first_name: "Bárbara"
-  last_name: "Bermudo"
-  wikipedia_url: https://en.wikipedia.org/wiki/B%C3%A1rbara_Bermudo
-  born_year: "1975"
-  origin: "Puerto Rico"
-  headshot:
-
-- first_name: "María"
-  last_name: "Antonieta Collins"
-  wikipedia_url: https://en.wikipedia.org/wiki/Mar%C3%ADa_Antonieta_Collins
-  born_year: "1952"
-  origin: "Mexico"
-  headshot:
-
-- first_name: "Carmen"
-  last_name: "Dominicci"
-  wikipedia_url: https://en.wikipedia.org/wiki/Carmen_Dominicci
-  born_year: "1966"
-  origin: "Puerto Rico"
-  headshot:
-
 - first_name: "Josefina"
   last_name: "Baez"
   wikipedia_url: https://en.wikipedia.org/wiki/Josefina_Baez
@@ -3523,20 +3012,6 @@
   wikipedia_url: https://en.wikipedia.org/wiki/Fernando_Cabrera_(writer)
   born_year: "1964"
   origin: "Dominican Republic"
-  headshot:
-
-- first_name: "Anacani"
-  last_name:
-  wikipedia_url: https://en.wikipedia.org/wiki/Anacani
-  born_year: "1955"
-  origin: "Mexico"
-  headshot:
-
-- first_name: "Tom"
-  last_name: "Araya"
-  wikipedia_url: https://en.wikipedia.org/wiki/Tom_Araya
-  born_year: "1961"
-  origin: "Chile"
   headshot:
 
 - first_name: "Rhina"
@@ -3553,13 +3028,6 @@
   origin: "Dominican Republic"
   headshot:
 
-- first_name: "Rubén"
-  last_name: "Blades Bellido de Luna"
-  wikipedia_url: https://en.wikipedia.org/wiki/Rub%C3%A9n_Blades
-  born_year: "1948"
-  origin: "Panama"
-  headshot:
-
 - first_name: "Ana-Maurine"
   last_name: "Lara"
   wikipedia_url: https://en.wikipedia.org/wiki/Ana-Maurine_Lara
@@ -3572,13 +3040,6 @@
   wikipedia_url: https://en.wikipedia.org/wiki/Nelly_Rosario
   born_year: "1972"
   origin: "Dominican Republic"
-  headshot:
-
-- first_name: "Franck"
-  last_name: "de las Mercedes"
-  wikipedia_url: https://en.wikipedia.org/wiki/Franck_de_Las_Mercedes
-  born_year: "1972"
-  origin: "Nicaragua"
   headshot:
 
 - first_name: "Antonia"
@@ -3628,27 +3089,6 @@
   wikipedia_url: https://en.wikipedia.org/wiki/Thomas_Hovenden
   born_year: "1840"
   origin: "Ireland"
-  headshot:
-
-- first_name: "Cecilia"
-  last_name: "Alvear"
-  wikipedia_url: https://en.wikipedia.org/wiki/Cecilia_Alvear
-  born_year: "1939"
-  origin: "Ecuador"
-  headshot:
-
-- first_name: "Luis"
-  last_name: "de la Garza"
-  wikipedia_url: https://en.wikipedia.org/wiki/Luis_de_la_Garza
-  born_year: "1954"
-  origin: "Mexico"
-  headshot:
-
-- first_name: "Juan"
-  last_name: "González"
-  wikipedia_url: https://en.wikipedia.org/wiki/Juan_Gonz%C3%A1lez_(journalist)
-  born_year: "1947"
-  origin: "Puerto Rico"
   headshot:
 
 - first_name: "John"
@@ -3707,27 +3147,6 @@
   origin: "Uruguay"
   headshot:
 
-- first_name: "Miguel"
-  last_name: "Algarín"
-  wikipedia_url: https://en.wikipedia.org/wiki/Miguel_Algar%C3%ADn
-  born_year: "1941"
-  origin: "Puerto Rico"
-  headshot:
-
-- first_name: "Hilario"
-  last_name: "Barrero"
-  wikipedia_url: https://en.wikipedia.org/wiki/Hilario_Barrero
-  born_year: "1948"
-  origin: "Spain"
-  headshot:
-
-- first_name: "Manuel"
-  last_name: "Gonzales"
-  wikipedia_url: https://en.wikipedia.org/wiki/Manuel_Gonzales
-  born_year: "1913"
-  origin: "Spain"
-  headshot:
-
 - first_name: "Jessica"
   last_name: "Hagedorn"
   wikipedia_url: https://en.wikipedia.org/wiki/Jessica_Hagedorn
@@ -3739,13 +3158,6 @@
   last_name: "C. Ladish"
   wikipedia_url: https://en.wikipedia.org/wiki/Lorraine_C._Ladish
   born_year: "1963"
-  origin: "Spain"
-  headshot:
-
-- first_name: "Odón"
-  last_name: "Betanzos Palacios"
-  wikipedia_url: https://en.wikipedia.org/wiki/Od%C3%B3n_Betanzos_Palacios
-  born_year: "1925"
   origin: "Spain"
   headshot:
 
@@ -3777,13 +3189,6 @@
   origin: "Nicaragua"
   headshot:
 
-- first_name: "Wayne"
-  last_name: "Gretzky"
-  wikipedia_url: https://en.wikipedia.org/wiki/Wayne_Gretzky
-  born_year: "1961"
-  origin: "Canada"
-  headshot:
-
 - first_name: "Dmitry"
   last_name: "Sholokhov"
   wikipedia_url: https://en.wikipedia.org/wiki/Dmitry_Sholokhov
@@ -3796,34 +3201,6 @@
   wikipedia_url: https://en.wikipedia.org/wiki/Gary_Vaynerchuk
   born_year: "1975"
   origin: "Belarus"
-  headshot:
-
-- first_name: "Miguel"
-  last_name: "Arteta"
-  wikipedia_url: https://en.wikipedia.org/wiki/Miguel_Arteta
-  born_year: "1965"
-  origin: "Puerto Rico"
-  headshot:
-
-- first_name: "Ozzie"
-  last_name: "Alfonso"
-  wikipedia_url: https://en.wikipedia.org/wiki/Ozzie_Alfonso
-  born_year: "1945"
-  origin: "Cuba"
-  headshot:
-
-- first_name: "Ivonne"
-  last_name: "Belén"
-  wikipedia_url: https://en.wikipedia.org/wiki/Ivonne_Bel%C3%A9n
-  born_year: "1955"
-  origin: "Puerto Rico"
-  headshot:
-
-- first_name: "Andy"
-  last_name: "García"
-  wikipedia_url: https://en.wikipedia.org/wiki/Andy_Garc%C3%ADa
-  born_year: "1956"
-  origin: "Cuba"
   headshot:
 
 - first_name: "Leon"
@@ -3845,13 +3222,6 @@
   wikipedia_url: https://en.wikipedia.org/wiki/Amy_Serrano
   born_year: "1966"
   origin: "Cuba"
-  headshot:
-
-- first_name: "Jaume"
-  last_name: "Collet-Serra"
-  wikipedia_url: https://en.wikipedia.org/wiki/Jaume_Collet-Serra
-  born_year: "1974"
-  origin: "Spain"
   headshot:
 
 - first_name: "Carles"
@@ -3879,13 +3249,6 @@
   last_name: "Ramakrishnan"
   wikipedia_url: https://en.wikipedia.org/wiki/Venki_Ramakrishnan
   born_year: "1952"
-  origin: "India"
-  headshot:
-
-- first_name: "Abhijit"
-  last_name: "Banerjee"
-  wikipedia_url: https://en.wikipedia.org/wiki/Abhijit_Banerjee
-  born_year: "1961"
   origin: "India"
   headshot:
 
@@ -3938,13 +3301,6 @@
   origin: "British India"
   headshot:
 
-- first_name: "Manjul"
-  last_name: "Bhargava"
-  wikipedia_url: https://en.wikipedia.org/wiki/Manjul_Bhargava
-  born_year: "1974"
-  origin: "Canada"
-  headshot:
-
 - first_name: "Arman"
   last_name: "Manookian"
   wikipedia_url: https://en.wikipedia.org/wiki/Arman_Manookian
@@ -3964,20 +3320,6 @@
   wikipedia_url: https://en.wikipedia.org/wiki/Rahul_Pandharipande
   born_year: "1969"
   origin: "India"
-  headshot:
-
-- first_name: "Sarvadaman"
-  last_name: "Chowla"
-  wikipedia_url: https://en.wikipedia.org/wiki/Sarvadaman_Chowla
-  born_year: "1907"
-  origin: "England"
-  headshot:
-
-- first_name: "Fritz"
-  last_name: "Glarner"
-  wikipedia_url: https://en.wikipedia.org/wiki/Fritz_Glarner
-  born_year: "1899"
-  origin: "Switzerland"
   headshot:
 
 - first_name: "Ulfert"
@@ -4064,20 +3406,6 @@
   origin: "Australia"
   headshot:
 
-- first_name: "Sumner Locke"
-  last_name: "Elliott"
-  wikipedia_url: https://en.wikipedia.org/wiki/Sumner_Locke_Elliott
-  born_year: "1917"
-  origin: "Australia"
-  headshot:
-
-- first_name: "Valda"
-  last_name: "Cooper"
-  wikipedia_url: https://en.wikipedia.org/wiki/Valda_Cooper
-  born_year: "1915"
-  origin: "Australia"
-  headshot:
-
 - first_name: "Padma"
   last_name: "Lakshmi"
   wikipedia_url: https://en.wikipedia.org/wiki/Padma_Lakshmi
@@ -4127,24 +3455,10 @@
   origin: "South Korea"
   headshot:
 
-- first_name: "Danny"
-  last_name: "Bowien"
-  wikipedia_url: https://en.wikipedia.org/wiki/Danny_Bowien
-  born_year: "1982"
-  origin: "South Korea"
-  headshot:
-
 - first_name: "Theresa Hak Kyung"
   last_name: "Cha"
   wikipedia_url: https://en.wikipedia.org/wiki/Theresa_Hak_Kyung_Cha
   born_year: "1951"
-  origin: "South Korea"
-  headshot:
-
-- first_name: "Juju"
-  last_name: "Chang"
-  wikipedia_url: https://en.wikipedia.org/wiki/Juju_Chang
-  born_year: "1965"
   origin: "South Korea"
   headshot:
 
@@ -4159,20 +3473,6 @@
   last_name: "Cho"
   wikipedia_url: https://en.wikipedia.org/wiki/Kah_Kyung_Cho
   born_year: "1927"
-  origin: "South Korea"
-  headshot:
-
-- first_name: "John"
-  last_name: "Choi"
-  wikipedia_url: https://en.wikipedia.org/wiki/John_Choi
-  born_year: "1970"
-  origin: "South Korea"
-  headshot:
-
-- first_name: "Roy"
-  last_name: "Choi"
-  wikipedia_url: https://en.wikipedia.org/wiki/Roy_Choi
-  born_year: "1970"
   origin: "South Korea"
   headshot:
 
@@ -4208,13 +3508,6 @@
   last_name: "Akil"
   wikipedia_url: https://en.wikipedia.org/wiki/Huda_Akil
   born_year: "1945"
-  origin: "Syria"
-  headshot:
-
-- first_name: "Paul"
-  last_name: "Badghdadlian"
-  wikipedia_url: https://en.wikipedia.org/wiki/Paul_Baghdadlian
-  born_year: "1953"
   origin: "Syria"
   headshot:
 
@@ -4272,13 +3565,6 @@
   wikipedia_url: https://en.wikipedia.org/wiki/Ng%C5%A9g%C4%A9_wa_Thiong%27o
   born_year: "1938"
   origin: "Kenya"
-  headshot:
-
-- first_name: "Nagi"
-  last_name: "Daifullah"
-  wikipedia_url: https://en.wikipedia.org/wiki/Nagi_Daifullah
-  born_year: "1949"
-  origin: "Yemen"
   headshot:
 
 - first_name: "Julio"
@@ -4363,13 +3649,6 @@
   wikipedia_url: https://en.wikipedia.org/wiki/Alex_Tizon
   born_year: "1959"
   origin: "Philippines"
-  headshot:
-
-- first_name: "Barkhad"
-  last_name: "Abdi"
-  wikipedia_url: https://en.wikipedia.org/wiki/Barkhad_Abdi
-  born_year: "1985"
-  origin: "Somalia"
   headshot:
 
 - first_name: "Mulatu"
@@ -4488,13 +3767,6 @@
   last_name: "Haq"
   wikipedia_url: https://en.wikipedia.org/wiki/Bilal_U._Haq
   born_year: "1948"
-  origin: "Pakistan"
-  headshot:
-
-- first_name: "Hussain"
-  last_name: "Haqqani"
-  wikipedia_url: https://en.wikipedia.org/wiki/Husain_Haqqani
-  born_year: "1956"
   origin: "Pakistan"
   headshot:
 
@@ -4691,13 +3963,6 @@
   last_name: "Sofia"
   wikipedia_url: https://en.wikipedia.org/wiki/Yara_Sofia
   born_year: "1984"
-  origin: "Puerto Rico"
-  headshot:
-
-- first_name: "Cynthia Lee"
-  last_name: "Fontaine"
-  wikipedia_url: https://en.wikipedia.org/wiki/Cynthia_Lee_Fontaine
-  born_year:
   origin: "Puerto Rico"
   headshot:
 
