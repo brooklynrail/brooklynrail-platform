@@ -17,7 +17,7 @@ main{
   header{
     @include u-margin-y(0);
     p.deck{
-      @include u-padding-bottom(2);
+      @include u-padding-bottom(0);
       @include u-font('sans', 'lg');
       @include u-text('light');
     }
@@ -57,21 +57,41 @@ main{
     }
 }
 
+.letters{
+  @include u-padding-y(4);
+  @include u-display('flex');
+  @include u-flex('justify');
+  a{
+    @include u-font('sans', 'lg');
+    @include u-text('no-underline');
+    &:hover{
+      @include u-text('underline');
+    }
+  }
+}
 .all-people{
   @include u-margin-y(5);
 }
 .person{
   @include u-margin-bottom(5);
+  figure{
+    width:100%;
+  }
   img {
     -webkit-filter: grayscale(1);
     filter: grayscale(1);
   }
   p{
     @include u-margin-top(0);
-    @include u-font('sans', '2xs');
+    @include u-font('sans', 'md');
+    @include u-text('normal');
   }
   a{
     @include u-text('black');
+    @include u-text('no-underline');
+    &:hover{
+      @include u-text('underline');
+    }
   }
 }
 .letter{

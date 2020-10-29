@@ -72,10 +72,21 @@
           </div>
         </div>
 
+        <!-- create a list with all uppercase letters -->
+        {{ $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" }}
+
+        <div class="grid-row">
+          <div class="grid-col-12">
+            <div class="letters">
+              {{- range $letters -}}
+                <a href="#letter_{{ . }}" title="Go to letter {{ . }}">{{ . }}</a>
+              {{- end -}}
+            </div>
+          </div>
+        </div>
+
         <div class="grid-row grid-gap-3">
 
-          <!-- create a list with all uppercase letters -->
-          {{ $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" }}
 
           {{/* Gets the data from the file in /data */}}
           {{- $wti_data := $.Site.Data.wti -}}
@@ -130,12 +141,12 @@
                   {{/* If there is a filename in the Wikipedia API... */}}
                   {{- if $page.pageimage -}}
                     {{/* See the bottom of this file for the template */}}
-                    {{- template "wti_person" (dict "image" (index ($.Resources.Match $page.pageimage) 0) "size" "sm" "format" "square" "person" $person ) -}}
+                    {{- template "wti_person" (dict "image" (index ($.Resources.Match $page.pageimage) 0) "size" "sm" "format" "square" "person" $person "url" $person.wikipedia_url ) -}}
 
                   {{/* There is no filename in Wikipedia page (via the API), it probably means that there is not a top photo on the page. So we're going to check to see if there is an airtable image to use */}}
                   {{- else if $person.headshot -}}
 
-                    {{- template "wti_person" (dict "image" $person.headshot "size" "sm" "format" "square" "person" $person ) -}}
+                    {{- template "wti_person" (dict "image" $person.headshot "size" "sm" "format" "square" "person" $person "url" $person.wikipedia_url ) -}}
 
                   {{- end -}}
 
@@ -166,11 +177,20 @@
   {{- $image := .image -}}
   {{- $format := .format -}}
   {{- $person := .person -}}
+  {{- $url := .url -}}
 
   <div class="grid-col-12 tablet:grid-col-3">
     <div class="person">
       {{- template "media" (dict "image" $image "size" "sm" "format" "square" "type" "string" ) -}}
-      <p>{{- $person.first_name }} {{ $person.last_name -}}</p>
+      <p>
+        {{- if $url -}}
+          <a href="{{- $url -}}" title="{{- $person.first_name }} {{ $person.last_name -}}">{{- $person.first_name }} {{ $person.last_name -}}</a>
+        {{- else -}}
+          {{- $person.first_name }} {{ $person.last_name -}}
+        {{- end -}}
+        <br/>{{- $person.origin }}
+        <br/>{{- $person.born_year }}
+      </p>
     </div>
   </div>
 
