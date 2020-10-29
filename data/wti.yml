@@ -361,8 +361,8 @@
   origin: "Republic of China"
   headshot:
 
-- first_name: "Kimsooja"
-  last_name:
+- first_name:
+  last_name: "Kimsooja"
   wikipedia_url: https://en.wikipedia.org/wiki/Kimsooja
   born_year: "1957"
   origin: "Korea"
@@ -1075,8 +1075,8 @@
   origin: "Russian Empire"
   headshot:
 
-- first_name: "Arman"
-  last_name:
+- first_name:
+  last_name: "Arman"
   wikipedia_url: https://en.wikipedia.org/wiki/Arman
   born_year: "1928"
   origin: "France"
@@ -1272,7 +1272,7 @@
   headshot: https://dl.airtable.com/.attachments/39dc019fc3eefca443c8c2d05d90e91f/e2e78b8b/BerlinPortrait1.jpg
 
 - first_name: "Chryssa"
-  last_name: "(Vardea-Mavromichali)"
+  last_name: "Vardea-Mavromichali"
   wikipedia_url: https://en.wikipedia.org/wiki/Chryssa
   born_year: "1933"
   origin: "Greece"
@@ -1313,8 +1313,8 @@
   origin: "Russia"
   headshot: https://dl.airtable.com/.attachments/2f799e2501e2c9e362a8d2ce1a99fff3/6d0e7e42/George_Balanchine_1965.jpg
 
-- first_name: "Christo and Jeanne-Claude"
-  last_name:
+- first_name:
+  last_name: "Christo and Jeanne-Claude"
   wikipedia_url: https://en.wikipedia.org/wiki/Christo_and_Jeanne-Claude
   born_year: "1935"
   origin: "Kingdom of Bulgaria"
@@ -1627,13 +1627,6 @@
   born_year: "1932"
   origin: "Czechoslovakia"
   headshot: https://dl.airtable.com/.attachments/e6095826f0318e49c16c148468a7b196/60302900/Forman_Milos.jpg
-
-- first_name: "Jeanne-Claude"
-  last_name:
-  wikipedia_url: https://en.wikipedia.org/wiki/Christo_and_Jeanne-Claude
-  born_year: "1935"
-  origin: "French Morocco"
-  headshot:
 
 - first_name: "Yucef"
   last_name: "Merhi"
@@ -2804,8 +2797,8 @@
   origin: "Kingdom of Bavaria"
   headshot:
 
-- first_name: "Iman"
-  last_name:
+- first_name:
+  last_name: "Iman"
   wikipedia_url: https://en.wikipedia.org/wiki/Iman_(model)
   born_year: "1955"
   origin: "Somalia"
@@ -2868,7 +2861,7 @@
   headshot:
 
 - first_name: "Maureen"
-  last_name: "'O''Hara'"
+  last_name: "O'Hara"
   wikipedia_url: https://en.wikipedia.org/wiki/Maureen_O%27Hara
   born_year: "1920"
   origin: "Ireland"
@@ -4275,7 +4268,7 @@
   headshot:
 
 - first_name: "Ngūgi"
-  last_name: "'wa Thiong''o'"
+  last_name: "wa Thiong'o"
   wikipedia_url: https://en.wikipedia.org/wiki/Ng%C5%A9g%C4%A9_wa_Thiong%27o
   born_year: "1938"
   origin: "Kenya"
