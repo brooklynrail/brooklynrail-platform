@@ -123,13 +123,6 @@
   origin: "Ireland"
   headshot: https://dl.airtable.com/.attachments/48e64bd2804281c70ed3507d3b59819d/f6260883/O_Doherty_Brian.jpg
 
-- first_name: "Nicole"
-  last_name: "Dennis-Benn"
-  wikipedia_url: https://en.wikipedia.org/wiki/Nicole_Dennis-Benn
-  born_year: "1982"
-  origin: "Jamaica"
-  headshot: https://dl.airtable.com/.attachments/6a85d2ce73979022666c24a0b0796593/ac65840f/Dennis-Benn_Nicole.jpg
-
 - first_name: "Maya"
   last_name: "Deren"
   wikipedia_url: https://en.wikipedia.org/wiki/Maya_Deren
@@ -445,13 +438,6 @@
   origin: "Japanese Korea"
   headshot:
 
-- first_name: "C.L.R."
-  last_name: "James"
-  wikipedia_url: https://en.wikipedia.org/wiki/C._L._R._James
-  born_year: "1901"
-  origin: "Tridad and Tobago"
-  headshot:
-
 - first_name: "Robert"
   last_name: "Frank"
   wikipedia_url: https://en.wikipedia.org/wiki/Robert_Frank
@@ -648,13 +634,6 @@
   origin: "Germany"
   headshot: https://dl.airtable.com/.attachments/4a4d077e9400ededa332a66e5bd9a85e/9de3b6f6/Westheimer_Ruth.jpg
 
-- first_name: "Greta"
-  last_name: "Garbo"
-  wikipedia_url: https://en.wikipedia.org/wiki/Greta_Garbo
-  born_year: "1905"
-  origin: "Sweden"
-  headshot: https://dl.airtable.com/.attachments/decf8f216014fe081656fadb07d8e729/0e8c8820/Garbo_Greta.jpg
-
 - first_name: "Kota"
   last_name: "Ezawa"
   wikipedia_url: https://en.wikipedia.org/wiki/Kota_Ezawa
@@ -793,13 +772,6 @@
   wikipedia_url: https://en.wikipedia.org/wiki/Aldous_Huxley
   born_year: "1894"
   origin: "England"
-  headshot:
-
-- first_name: "Salman"
-  last_name: "Rushdie"
-  wikipedia_url: https://en.wikipedia.org/wiki/Salman_Rushdie
-  born_year: "1947"
-  origin: "British India"
   headshot:
 
 - first_name: "Seyyed"
@@ -1208,13 +1180,6 @@
   origin: "Russia"
   headshot: https://dl.airtable.com/.attachments/2f799e2501e2c9e362a8d2ce1a99fff3/6d0e7e42/George_Balanchine_1965.jpg
 
-- first_name:
-  last_name: "Christo and Jeanne-Claude"
-  wikipedia_url: https://en.wikipedia.org/wiki/Christo_and_Jeanne-Claude
-  born_year: "1935"
-  origin: "Kingdom of Bulgaria"
-  headshot: https://dl.airtable.com/.attachments/c6e4756f806fa59250bb7d16774301d5/90244cf2/1104px-Jean-Claude_and_Christo_May_2009_4_cropped.jpg"
-
 - first_name: "Richard"
   last_name: "Blanco"
   wikipedia_url: https://en.wikipedia.org/wiki/Richard_Blanco
@@ -1430,13 +1395,6 @@
   wikipedia_url: https://en.wikipedia.org/wiki/Raymond_Loewy
   born_year: "1893"
   origin: "France"
-  headshot:
-
-- first_name: "Ha"
-  last_name: "Jin"
-  wikipedia_url: https://en.wikipedia.org/wiki/Ha_Jin
-  born_year: "1956"
-  origin: "'People''s Republic of China'"
   headshot:
 
 - first_name: "Lyudmila"
@@ -1683,13 +1641,6 @@
   born_year: "1948"
   origin: "Canada"
   headshot: https://dl.airtable.com/.attachments/01541e109bda0d033a2037c4cab5aec0/39aefbb4/Wood_Brian.jpg
-
-- first_name: "Solmaz"
-  last_name: "Sharif"
-  wikipedia_url: https://en.wikipedia.org/wiki/Solmaz_Sharif
-  born_year: "1983"
-  origin: "Turkey"
-  headshot: https://dl.airtable.com/.attachments/ba74247b507860deb72d133b4de879d5/bea1d22b/Sharif_Solmaz.jpg
 
 - first_name: "Pearl"
   last_name: "Primus"
@@ -2006,13 +1957,6 @@
   origin: "Germany"
   headshot:
 
-- first_name: "Sylvia"
-  last_name: "Sleigh"
-  wikipedia_url: https://en.wikipedia.org/wiki/Sylvia_Sleigh
-  born_year: "1916"
-  origin: "Wales"
-  headshot: https://dl.airtable.com/.attachments/797458ee3db130ec0f013507bd8b5f3d/acf9434e/Sleigh_Sylvia.jpg
-
 - first_name: "Robert"
   last_name: "Graham"
   wikipedia_url: https://en.wikipedia.org/wiki/Robert_Graham_(sculptor)
@@ -2152,13 +2096,6 @@
   born_year: "1930"
   origin: "Bolivia"
   headshot:
-
-- first_name: "Yaa"
-  last_name: "Gyasi"
-  wikipedia_url: https://en.wikipedia.org/wiki/Yaa_Gyasi
-  born_year: "1989"
-  origin: "Ghana"
-  headshot: https://dl.airtable.com/.attachments/1adbb568212367e782386d49f640a1b1/99a18cab/Gyasi_Yaa.jpg
 
 - first_name: "Bjarne"
   last_name: "Stroustrup"
@@ -3095,13 +3032,6 @@
   last_name: "Diagne"
   wikipedia_url: https://en.wikipedia.org/wiki/Souleymane_Bachir_Diagne
   born_year: "1955"
-  origin: "Senegal"
-  headshot:
-
-- first_name: "Mamadou"
-  last_name: "Diouf"
-  wikipedia_url: https://en.wikipedia.org/wiki/Mamadou_Diouf_(historian)
-  born_year: "unknown"
   origin: "Senegal"
   headshot:
 
