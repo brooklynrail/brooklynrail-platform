@@ -6,11 +6,11 @@ summary: summary
 type: projects/we-the-immigrants
 nav:
   project:
-    - name: See all
-      url: ""
-    - name: Submit your name
+    - name: All people
+      url: "/projects/we-the-immigrants/"
+    - name: Submit
       url: https://airtable.com/shrtYBTkppvsYILWj
-    - name: About the project
+    - name: About
       url: "about"
 ---
 

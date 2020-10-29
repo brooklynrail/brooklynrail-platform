@@ -2,6 +2,21 @@
 .header{
   @include u-padding-top(15);
   @include u-padding-bottom(0);
+  .kicker{
+    @include u-padding-bottom(8);
+    @include u-text('center');
+    @include u-text('light');
+    @include u-text('no-uppercase');
+    @include u-text('black');
+    @include u-font('sans', 'xl');
+    a{
+      @include u-text('black');
+      @include u-text('no-underline');
+      &:hover{
+        @include u-text('underline');
+      }
+    }
+  }
 }
 
 main{
@@ -16,9 +31,13 @@ main{
 
   header{
     @include u-margin-y(0);
+    h1{
+      @include u-text('center');
+      @include u-text('light');
+    }
     p.deck{
       @include u-padding-bottom(0);
-      @include u-font('sans', 'lg');
+      @include u-font('sans', 'xl');
       @include u-text('light');
     }
   }
@@ -34,8 +53,11 @@ main{
         @include u-padding-y('05');
         @include u-padding-left(0);
         @include u-padding-right(3);
-        @include u-font('sans', 'lg');
+        @include u-font('sans', 'xl');
         @include u-text('light');
+        a{
+          @include u-text('black');
+        }
       }
     }
   }
@@ -47,11 +69,11 @@ main{
     }
     // @include u-border-y(1,'solid', 'black');
     > p{
-        @include u-font('sans', 'md');
+        @include u-font('sans', 'lg');
         @include u-text('normal');
         @include u-line-height('sans', 3);
         @include at-media('tablet-lg') {
-            @include u-font('sans', 'md');
+            @include u-font('sans', 'xl');
             @include u-text('light');
         }
     }
@@ -85,6 +107,7 @@ main{
     @include u-margin-top(0);
     @include u-font('sans', 'md');
     @include u-text('normal');
+    @include u-text('gray-80');
   }
   a{
     @include u-text('black');

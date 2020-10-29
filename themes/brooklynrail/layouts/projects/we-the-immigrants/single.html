@@ -1,5 +1,9 @@
+{{ define "styles" }}
+  {{- printf "material/dist/%s/styles.css" .Type | relURL -}}
+{{ end }}
+
 {{ define "header" }}
-{{- .Render "header" -}}
+  {{- .Render "header" -}}
 {{ end }}
 
 {{ define "main" }}
@@ -10,28 +14,6 @@
       <div class="grid-container grid-container-desktop">
         <div class="grid-row">
           <div class="grid-col-12">
-
-            {{/* Kicker + Collections */}}
-            {{- if .Params.collections -}}
-              <p class="kicker">
-              {{- range $collection := (.GetTerms "collections") -}}
-                {{/* Gets the Topics page */}}
-                {{- $collection := $.Site.GetPage (printf "/%s/%s" "collections" $collection.Title) -}}
-                <span class="collection">{{- $collection.Title -}}</span>
-              {{- end -}}
-              {{- with .Params.series -}}
-                <span class="series"><span>#{{- . -}}</span></span>
-              {{- end -}}
-              </p>
-            {{- end -}}
-
-            <h1>
-              {{- if .Params.headline -}}
-                {{- .Params.headline | markdownify -}}
-              {{- else -}}
-              {{- .Params.Title | markdownify -}}
-              {{- end -}}
-            </h1>
 
             {{- with .Params.Deck -}}
             <p class="deck">
@@ -46,10 +28,9 @@
 
     {{- if .Page.Params.nav.project -}}
     <nav class="nav nav-project">
-      <div class="grid-container grid-container-tablet-lg">
+      <div class="grid-container grid-container-desktop">
         <div class="grid-row">
-
-          <div class="grid-col-12 tablet:grid-col-10 tablet:grid-offset-1">
+          <div class="grid-col-12">
             <ul>
               {{ range $i, $nav := .Page.Params.nav.project -}}
                 <li>
@@ -62,16 +43,13 @@
       </div>
     </nav>
     {{- end -}}
-    
+
+
     <section>
-      <div class="grid-container grid-container-tablet-lg">
+      <div class="grid-container grid-container-desktop">
         <div class="grid-row">
 
-          <div class="grid-col-12 tablet:grid-col-10 tablet:grid-offset-1">
-
-            {{- if not .Params.deck -}}
-            <p class="summary">{{- .Params.summary | markdownify -}}</p>
-            {{- end -}}
+          <div class="grid-col-12">
 
             <div class="content">
               {{- .Content -}}

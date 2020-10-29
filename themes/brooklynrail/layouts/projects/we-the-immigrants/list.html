@@ -72,6 +72,7 @@
           </div>
         </div>
 
+        
         <!-- create a list with all uppercase letters -->
         {{ $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" }}
 
@@ -108,7 +109,7 @@
 
                 <div class="grid-col-12 tablet:grid-col-3">
                   <div class="letter" id="letter_{{- $firstChar -}}">
-                    <a href="letter_{{- $firstChar -}}">{{- $firstChar -}}</a>
+                    <a href="#letter_{{- $firstChar -}}">{{- $firstChar -}}</a>
                   </div>
                 </div>
 
@@ -195,3 +196,7 @@
   </div>
 
 {{- end -}}
+
+{{ define "scripts" }}
+  {{- .Render "scripts" -}}
+{{ end }}
