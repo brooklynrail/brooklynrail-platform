@@ -72,7 +72,7 @@
           </div>
         </div>
 
-        
+
         <!-- create a list with all uppercase letters -->
         {{ $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" }}
 
@@ -145,9 +145,9 @@
                     {{- template "wti_person" (dict "image" (index ($.Resources.Match $page.pageimage) 0) "size" "sm" "format" "square" "person" $person "url" $person.wikipedia_url ) -}}
 
                   {{/* There is no filename in Wikipedia page (via the API), it probably means that there is not a top photo on the page. So we're going to check to see if there is an airtable image to use */}}
-                  {{- else if $person.headshot -}}
+                  {{/* {{- else if $person.headshot -}}
 
-                    {{- template "wti_person" (dict "image" $person.headshot "size" "sm" "format" "square" "person" $person "url" $person.wikipedia_url ) -}}
+                    {{- template "wti_person" (dict "image" $person.headshot "size" "sm" "format" "square" "person" $person "url" $person.wikipedia_url ) -}} */}}
 
                   {{- end -}}
 
