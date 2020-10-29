@@ -24,7 +24,7 @@
 
             {{/* Gets the page data for this media in `/content/media` */}}
             {{- $image := $page_object.GetPage (print "media/" $media) -}}
-            {{- template "media" (dict "image" $image "size" $img_size "format" $format ) -}}
+            {{- template "media" (dict "image" $image "size" $img_size "format" $format "type" "page" ) -}}
           {{- end -}}
 
           {{- with $people.event_bio -}}
@@ -32,7 +32,7 @@
               {{- . | markdownify -}}
             </div>
           {{- end -}}
-          
+
         </div>
 
 

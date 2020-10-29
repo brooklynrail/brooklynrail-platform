@@ -12,8 +12,11 @@ Image Shortcode
 {{/* Gets the specified `size` of the image from the shortcode */}}
 {{- $size := (.Get "size") -}}
 
+{{/* Gets the specified `type` of the image from the shortcode */}}
+{{- $type := (.Get "type") -}}
 
-{{- template "media" (dict "image" $image "size" $size )  -}}
+
+{{- template "media" (dict "image" $image "size" $size "format" $size "type" $type )  -}}
 
 {{/* Template: media */}}
 {{- define "media" -}}
@@ -21,6 +24,7 @@ Image Shortcode
   {{- $size := .size -}}
   {{- $image := .image -}}
   {{- $format := .format -}}
+  {{- $type := .type -}}
 
   {{/*
   Set the width of the images based on size.
@@ -47,7 +51,7 @@ Image Shortcode
   {{/* Checks for the image,
   then passes the image data to the figure template */}}
   {{- with $image -}}
-    {{- template "figure" (dict "image" . "size" $size "width" $width "format" $format )  -}}
+    {{- template "figure" (dict "image" . "size" $size "width" $width "format" $format "type" $type )  -}}
   {{- end -}}
 
 
@@ -56,10 +60,11 @@ Image Shortcode
 
 {{/* Template: figure */}}
 {{- define "figure" -}}
-  {{- $size := .size -}}
-  {{- $image := .image -}}
-  {{- $width := .width -}}
-  {{- $format := .format -}}
+  {{- $size   :=  .size -}}
+  {{- $image  :=  .image -}}
+  {{- $width  :=  .width -}}
+  {{- $format :=  .format -}}
+  {{- $type   :=  .type -}}
 
   <figure class="media media-{{- $size -}}">
     {{- $nf_resize := (print "?nf_resize=fit&w=" $width ) -}}
@@ -67,12 +72,14 @@ Image Shortcode
       {{- $nf_resize = (print "?nf_resize=smartcrop&w=" $width "&h=" $width ) -}}
     {{ end }}
 
-    {{- if $image.Params.media -}}
-      <img src="{{- $image.Params.media -}}{{- $nf_resize -}}" alt="{{- $image.Params.alt -}}" title="{{- $image.Params.alt -}}">
-      {{- with $image.Params.caption -}}
-        {{- template "figcaption" (dict "caption" . )  -}}
+    {{- if eq $type "page" -}}
+      {{- if $image.Params.media -}}
+        <img src="{{- $image.Params.media -}}{{- $nf_resize -}}" alt="{{- $image.Params.alt -}}" title="{{- $image.Params.alt -}}">
+        {{- with $image.Params.caption -}}
+          {{- template "figcaption" (dict "caption" . )  -}}
+        {{- end -}}
       {{- end -}}
-    {{- else -}}
+    {{- else if eq $type "string" -}}
       <img src="{{- $image -}}{{- $nf_resize -}}" alt="" title="">
     {{- end -}}
 
