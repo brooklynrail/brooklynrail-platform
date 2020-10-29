@@ -11,6 +11,26 @@
 
 <main class="page h-event" id="main-content" role="main">
   <article>
+
+    {{- if .Page.Params.nav.project -}}
+    <nav class="nav nav-project">
+      <div class="grid-container grid-container-tablet-lg">
+        <div class="grid-row">
+
+          <div class="grid-col-12 tablet:grid-col-10 tablet:grid-offset-1">
+            <ul>
+              {{ range $i, $nav := .Page.Params.nav.project -}}
+                <li>
+                  <a href="{{- $nav.url -}}" title="{{- $nav.name -}}">{{- $nav.name -}}</a>
+                </li>
+              {{ end }}
+            </ul>
+          </div>
+        </div>
+      </div>
+    </nav>
+    {{- end -}}
+    
     <header>
       <div class="grid-container grid-container-desktop">
         <div class="grid-row">
@@ -35,25 +55,6 @@
       </div>
     </header>
 
-    {{- if .Page.Params.nav.project -}}
-    <nav class="nav nav-project">
-      <div class="grid-container grid-container-tablet-lg">
-        <div class="grid-row">
-
-          <div class="grid-col-12 tablet:grid-col-10 tablet:grid-offset-1">
-            <ul>
-              {{ range $i, $nav := .Page.Params.nav.project -}}
-                <li>
-                  <a href="{{- $nav.url -}}" title="{{- $nav.name -}}">{{- $nav.name -}}</a>
-                </li>
-              {{ end }}
-            </ul>
-          </div>
-        </div>
-      </div>
-    </nav>
-    {{- end -}}
-
     <section class="all-people">
       <div class="grid-container grid-container-desktop">
         <div class="grid-row">
@@ -74,11 +75,37 @@
 
         <div class="grid-row grid-gap-3">
 
+          <!-- create a list with all uppercase letters -->
+          {{ $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" }}
+
           {{/* Gets the data from the file in /data */}}
           {{- $wti_data := $.Site.Data.wti -}}
 
           {{/* Loops over each item in the data */}}
-          {{- range $i, $person := $wti_data -}}
+          {{- range $i, $person := sort $wti_data "last_name" -}}
+
+            <!-- get the first character of each title. Assumes that the title is never empty! -->
+            {{ $firstChar := substr $person.last_name 0 1 | upper }}
+
+            <!-- in case $firstChar is a letter -->
+            {{ if $firstChar | in $letters }}
+              <!-- get the current letter -->
+              {{ $curLetter := $.Scratch.Get "curLetter" }}
+              <!-- if $curLetter isn't set or the letter has changed -->
+              {{ if ne $firstChar $curLetter }}
+              <!-- update the current letter and print it -->
+                {{ $.Scratch.Set "curLetter" $firstChar }}
+
+                <div class="grid-col-12 tablet:grid-col-3">
+                  <div class="letter" id="letter_{{- $firstChar -}}">
+                    <a href="letter_{{- $firstChar -}}">{{- $firstChar -}}</a>
+                  </div>
+                </div>
+
+              {{ end }}
+            {{ end }}
+
+
 
             {{- if $person.wikipedia_url -}}
 
@@ -109,7 +136,7 @@
                   {{/* There is no filename in Wikipedia page (via the API), it probably means that there is not a top photo on the page. So we're going to check to see if there is an airtable image to use */}}
                   {{- else if $person.headshot -}}
 
-                    {{/* {{- template "wti_person" (dict "image" ($person.headshot) "size" "sm" "format" "square" "person" $person ) -}} */}}
+                    {{- template "wti_person" (dict "image" $person.headshot "size" "sm" "format" "square" "person" $person ) -}}
 
                   {{- end -}}
 
@@ -143,7 +170,7 @@
 
   <div class="grid-col-12 tablet:grid-col-3">
     <div class="person">
-      {{- template "media" (dict "image" $image "size" "sm" "format" "square" ) -}}
+      {{- template "media" (dict "image" $image "size" "sm" "format" "square" "type" "string" ) -}}
       <p>{{- $person.first_name }} {{ $person.last_name -}}</p>
     </div>
   </div>
