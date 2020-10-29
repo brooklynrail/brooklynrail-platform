@@ -14,10 +14,9 @@
 
     {{- if .Page.Params.nav.project -}}
     <nav class="nav nav-project">
-      <div class="grid-container grid-container-tablet-lg">
+      <div class="grid-container grid-container-desktop">
         <div class="grid-row">
-
-          <div class="grid-col-12 tablet:grid-col-10 tablet:grid-offset-1">
+          <div class="grid-col-12">
             <ul>
               {{ range $i, $nav := .Page.Params.nav.project -}}
                 <li>
@@ -30,11 +29,11 @@
       </div>
     </nav>
     {{- end -}}
-    
+
     <header>
       <div class="grid-container grid-container-desktop">
         <div class="grid-row">
-          <div class="grid-col-12 tablet:grid-col-10 tablet:grid-offset-1">
+          <div class="grid-col-12">
 
             <h1 class="display-none">
               {{- if .Params.headline -}}
