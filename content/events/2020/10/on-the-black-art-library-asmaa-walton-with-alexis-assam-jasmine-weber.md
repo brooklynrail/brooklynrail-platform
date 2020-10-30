@@ -40,6 +40,15 @@ people:
       Fields Commission in Time-based Media, a collaboration between the
       Philadelphia Museum of Art and the Fondazione Sandretto Re Rebaudengo
       featuring Martine Syms in 2021 and Lawrence Abu Hamdan in 2022."
+  - person: jasmine-weber
+    event_bio: "Jasmine Weber is a writer, editor, and visual focused on Black art
+      histories and visual culture. As Hyperallergic’s news editor, she reports
+      on art workers’ challenging power dynamics in the arts sector and recent
+      efforts to carve out a more equitable future for the creative industries
+      and beyond. "
+    related_links:
+      - url: http://www.jasmineweber.com
+        text: "To learn more about Jasmine's work "
 date: 2020-10-29 00:33:00 -0500
 end_date: 2020-10-29 00:33:00 -0500
 collections:
