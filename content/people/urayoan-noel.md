@@ -11,4 +11,5 @@ short_bio: "Urayoán Noel is a Puerto Rican poet, performer, translator, and
   Americas."
 portraits:
   - media: 2020/10/urayoan-noel
+website: https://urayoannoel.com/
 ---
