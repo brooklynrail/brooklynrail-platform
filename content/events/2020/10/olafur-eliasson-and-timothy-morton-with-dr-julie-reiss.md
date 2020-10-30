@@ -57,6 +57,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: B_5MTlx_XY4
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-160-olafur-eliasson-tickets-126452766629
 event_platform:
   - zoom
