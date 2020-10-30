@@ -1,5 +1,5 @@
 ---
-title: "On the Black Art Library: Asmaa Walton with Alexis Assam & Jasmine Weber"
+title: On the Black Art Library
 deck: Weekly conversations with activists, social justice practitioners, and
   changemakers.
 summary: Please join us for our tenth installment of Common Ground for a
