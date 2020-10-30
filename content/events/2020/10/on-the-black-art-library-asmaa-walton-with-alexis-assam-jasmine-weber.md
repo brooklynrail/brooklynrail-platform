@@ -5,7 +5,6 @@ deck: Featuring founder Asmaa Walton, curator Alexis Assam, and Hyperallergic's
 summary: Please join us for our tenth installment of Common Ground for a
   conversation on the Black Art Library in Detroit featuring founder Asmaa
   Walton in conversation with curator Alexis Assam and art editor Jasmine Weber.
-  We'll close with a poetry reading by Karisma Price.
 people:
   - person: asmaa-walton
     event_bio: >-
