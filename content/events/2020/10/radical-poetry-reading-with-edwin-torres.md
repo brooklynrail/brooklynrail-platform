@@ -1,9 +1,9 @@
 ---
 title: Radical Poetry Reading with Edwin Torres
 deck: Featuring political poetry read by Cecilia Vicuña, Tongo Eisen-Martin,
-  Urayoan Noel, Stacy Szymazek, and Xandria Phillips.
+  Urayoán Noel, Stacy Szymazek, and Xandria Phillips.
 summary: Poet Edwin Torres curates the 12th Radical Poetry Reading, featuring
-  Cecilia Vicuña, Tongo Eisen-Martin, Urayoan Noel, Stacy Szymazek, and Xandria
+  Cecilia Vicuña, Tongo Eisen-Martin, Urayoán Noel, Stacy Szymazek, and Xandria
   Phillips.
 people:
   - person: edwin-torres
