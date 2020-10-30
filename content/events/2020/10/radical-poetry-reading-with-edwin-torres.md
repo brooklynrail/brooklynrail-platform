@@ -39,6 +39,14 @@ people:
       "Heaven Is All Goodbyes" was published by the City Lights Pocket Poets
       series, was shortlisted for the Griffin Poetry Prize and won a California
       Book Award and an American Book Award.
+  - person: urayoan-noel
+    event_bio: "Urayoán Noel is a Puerto Rican poet, performer, translator, and
+      critic living in the Bronx. He has published seven books of poetry and the
+      prize-winning study In Visible Movement: Nuyorican Poetry from the Sixties
+      to Slam, and he has been a finalist for the National Translation Award and
+      the Best Translated Book Award for his translations of Latin American
+      poetry. Noel teaches at New York University and at Stetson University’s
+      MFA of the Americas."
 date: 2020-11-04 13:00:00 -0500
 end_date: 2020-11-04 14:00:00 -0500
 series: 165
