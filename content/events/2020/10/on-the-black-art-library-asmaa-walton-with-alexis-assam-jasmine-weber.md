@@ -1,7 +1,7 @@
 ---
 title: On the Black Art Library
-deck: Weekly conversations with activists, social justice practitioners, and
-  changemakers.
+deck: Featuring founder Asmaa Walton, curator Alexis Assam, and Hyperallergic's
+  Jasmine Weber.
 summary: Please join us for our tenth installment of Common Ground for a
   conversation on the Black Art Library in Detroit featuring founder Asmaa
   Walton in conversation with curator Alexis Assam and art editor Jasmine Weber.
@@ -58,6 +58,8 @@ date: 2020-11-05 13:00:00 -0500
 end_date: 2020-11-05 14:30:00 -0500
 collections:
   - common-ground
+event_sponsor:
+  - dermot-comany
 event_organizer:
   - the-brooklyn-rail
 event_producer:
@@ -68,8 +70,6 @@ event_platform:
 Please join us for our tenth installment of Common Ground for a conversation on the **Black Art Library** in Detroit featuring founder **Asmaa Walton** in conversation with curator **Alexis Assam** and art writer & editor **Jasmine Weber**.
 
 This conversation will be moderated by **Malvika Jolly**, and will close with a poetry reading by **Karisma Price**. 
-
-
 
 ### **About this series**
 
