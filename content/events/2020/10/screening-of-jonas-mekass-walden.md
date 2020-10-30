@@ -1,7 +1,7 @@
 ---
-title: Screening of Jonas Mekas's Walden
-summary: "For those who have voted early, please join us for a screening of
-  Jonas Mekas' \"Walden.\" "
+title: "Election 2020: Vote! "
+summary: "For those who have already voted, please join us for a screening of
+  Jonas Mekas' Walden. "
 date: 2020-11-03 10:00:00 -0500
 end_date: 2020-11-03 20:00:00 -0500
 series: 165
