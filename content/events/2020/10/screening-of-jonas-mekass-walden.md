@@ -20,7 +20,11 @@ event_platform:
 ---
 **On Election Day 2020, we encourage everyone to go out and vote! You can find all details on [where, how, and when to vote here](https://www.vote.org/).**
 
+
+
 {{< image media="2020/10/walden-jonas-mekas" size="lg" >}}
+
+
 
 Poet and hero of the American counter-culture, Jonas Mekas, born in Lithuania in 1922, invented the diary form of film-making. Walden, his first completed diary film, an epic portrait of the New York avant-garde art scene of the '60s, is also a groundbreaking work of personal cinema.
 
