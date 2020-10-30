@@ -47,6 +47,19 @@ people:
       the Best Translated Book Award for his translations of Latin American
       poetry. Noel teaches at New York University and at Stetson University’s
       MFA of the Americas."
+  - person: stacy-szymaszek
+    event_bio: Stacy Szymaszek is the author of the books Emptied of All Ships
+      (2005), Hyperglossia (2009), hart island (2015), Journal of Ugly Sites and
+      Other Journals (2016), which won the Ottoline Prize from Fence Books and
+      was nominated for a Lambda Literary Award in 2017, and A Year From Today
+      (2018). Her sixth book, Famous Hermits, will be published in 2021. She is
+      the recipient of a 2014 New York Foundation for the Arts Fellowship in
+      Poetry, and a 2019 Foundation for Contemporary Arts grant in poetry.
+      Szymaszek was the Hugo Visiting Writer at the University of
+      Montana-Missoula 2018-19, Poet-in-Resident at Brown University, and
+      Visiting Poet for the Fire Island Artist Residency. She lives in Tucson,
+      Arizona, on the ancestral lands of the Tohono O’odham and the Pascua Yaqui
+      peoples.
 date: 2020-11-04 13:00:00 -0500
 end_date: 2020-11-04 14:00:00 -0500
 series: 165
