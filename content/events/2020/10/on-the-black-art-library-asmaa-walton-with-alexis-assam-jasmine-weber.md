@@ -49,6 +49,7 @@ people:
     related_links:
       - url: http://www.jasmineweber.com
         text: "To learn more about Jasmine's work "
+poets: []
 date: 2020-10-29 00:33:00 -0500
 end_date: 2020-10-29 00:33:00 -0500
 collections:
