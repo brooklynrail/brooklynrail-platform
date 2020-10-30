@@ -22,11 +22,7 @@ event_platform:
 
 For those that have already voted early or by absentee ballot, we will be screening Jonas Mekas's 1968 film *Walden*. 
 
-
-
 {{< image media="2020/10/walden-jonas-mekas" size="lg" >}}
-
-
 
 Poet and hero of the American counter-culture, Jonas Mekas, born in Lithuania in 1922, invented the diary form of film-making. Walden, his first completed diary film, an epic portrait of the New York avant-garde art scene of the '60s, is also a groundbreaking work of personal cinema.
 
@@ -34,14 +30,10 @@ Poet and hero of the American counter-culture, Jonas Mekas, born in Lithuania in
 
 \- Jonas Mekas
 
-
-
 **Tune into zoom for the link and password to watch the film.**
 
 You can join zoom directly via this link: 
 
 <https://brooklynrail.org/new-social-environment>
-
-
 
 # If you haven't already, **vote!**
