@@ -1,5 +1,5 @@
 ---
-title: Blake Gopnik with Amanda Gluibizzi
+title: "A Conversation on Warhol: Blake Gopnik with Amanda Gluibizzi"
 summary: Critic and author Blake Gopnik will be in conversation with Rail
   ArtSeen Editor Amanda Gluibizzi. We'll conclude with a poetry reading from
   Sharon Mesmer.
