@@ -74,9 +74,11 @@ people:
       Rankine.
 date: 2020-11-04 13:00:00 -0500
 end_date: 2020-11-04 14:00:00 -0500
-series: 165
+series: 166
 collections:
   - the-new-social-environment
+event_sponsor:
+  - dermot-comany
 event_organizer:
   - the-brooklyn-rail
 event_producer:
