@@ -60,6 +60,18 @@ people:
       Visiting Poet for the Fire Island Artist Residency. She lives in Tucson,
       Arizona, on the ancestral lands of the Tohono O’odham and the Pascua Yaqui
       peoples.
+  - person: xandria-phillips
+    event_bio: Xandria Phillips is a writer, abstract artist, and educator from
+      rural Ohio. The recipient of the Judith A. Markowitz Award for Emerging
+      Writers, and a LAMBDA Literary Award for their book HULL (Nightboat Books
+      2019), Xandria has received fellowships from Cave Canem, The Conversation
+      Literary Festival, Oberlin College, and the Wisconsin Institute for
+      Creative Writing. Currently, they are a Mellon Practitioner Fellow at
+      Brown University’s Center for the Study of Race and Ethnicity in America.
+      Xandria is also a Dream Space Residency recipient at the Center for
+      African American Poetry and Poetics, and their chapbook, Reasons for
+      Smoking, won the 2016 Seattle Review Chapbook Contest judged by Claudia
+      Rankine.
 date: 2020-11-04 13:00:00 -0500
 end_date: 2020-11-04 14:00:00 -0500
 series: 165
