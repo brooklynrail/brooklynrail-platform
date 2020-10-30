@@ -25,6 +25,21 @@ people:
 
 
       Read more on the Black Art Library’s fundraising page, and peruse its stacks virtually via its viral Instagram page. 
+    related_links: []
+  - person: alexis-assam
+    event_bio: "Alexis Assam is a curator with a dual focus on contemporary and arts
+      of the African diaspora. She was the 2018–2019 Romare Bearden Graduate
+      Museum Fellow at the Saint Louis Art Museum where she co-curated the
+      2019-2020 exhibition, The Shape of Abstractions: Selections from the Ollie
+      Collection, which presented the work of five generations of Black artists
+      who have revolutionized abstract art since the 1940s. She currently works
+      for the Philadelphia Museum of Art in her second year as the Constance E.
+      Clayton Curatorial Fellow, working within the contemporary art department
+      on a number of currency and upcoming exhibitions. These include Fault
+      Lines: Contemporary Abstraction by Artists from South Asia and the Future
+      Fields Commission in Time-based Media, a collaboration between the
+      Philadelphia Museum of Art and the Fondazione Sandretto Re Rebaudengo
+      featuring Martine Syms in 2021 and Lawrence Abu Hamdan in 2022."
 date: 2020-10-29 00:33:00 -0500
 end_date: 2020-10-29 00:33:00 -0500
 collections:
