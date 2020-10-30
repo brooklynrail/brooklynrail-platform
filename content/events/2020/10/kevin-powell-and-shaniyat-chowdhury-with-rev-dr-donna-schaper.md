@@ -1,6 +1,6 @@
 ---
 title: Kevin Powell and Shaniyat Chowdhury with Rev. Dr. Donna Schaper
-summary: Activist Kevin Powell and former Congressional candidate Shaniyat
+summary: Activist Kevin Powell and community organizer & policy adviser Shaniyat
   Chowdhury will be in conversation with Rev. Dr. Donna Schaper. We'll conclude
   with a poetry reading from Joy Priest
 people:
@@ -67,4 +67,4 @@ registration_url: https://www.eventbrite.com/e/the-new-social-environment-164-ke
 event_platform:
   - zoom
 ---
-In preparation for the 2020 Election, please join us for an informal conversation on the historical significance of voting in this country, and what is at stake in this election - with special guest **Kevin Powell**, who has ran for New York’s 10th Congressional District (which is the southern portion of Morningside Heights, the Upper West Side of Manhattan, the west side of Midtown Manhattan, the west side of Lower Manhattan, including Greenwich Village, Tribeca, and the Financial District, and parts of Brooklyn, most notably Borough Park and parts of Bensonhurst) in conversation with former Congressional candidate **Shaniyat Chowdhury** and led by Reverend and social activist **Donna Schaper.** We'll also be highlighting grassroots congressional races that have been fought, checking in with former congressional candidates, and the issues for which they ran and which inspired them to run in the first place.
+In preparation for the 2020 Election, please join us for an informal conversation on the historical significance of voting in this country, and what is at stake in this election - with special guest **Kevin Powell**, who has ran for New York’s 10th Congressional District (which is the southern portion of Morningside Heights, the Upper West Side of Manhattan, the west side of Midtown Manhattan, the west side of Lower Manhattan, including Greenwich Village, Tribeca, and the Financial District, and parts of Brooklyn, most notably Borough Park and parts of Bensonhurst) in conversation with community organizer & policy adviser **Shaniyat Chowdhury** and led by Reverend and social activist **Donna Schaper.** We'll also be highlighting grassroots congressional races that have been fought, checking in with former congressional candidates, and the issues for which they ran and which inspired them to run in the first place.
