@@ -1,6 +1,8 @@
 ---
 title: Kevin Powell and Shaniyat Chowdhury with Rev. Dr. Donna Schaper
-summary: Kevin Powell and Shaniyat Chowdhury with Rev. Dr. Donna Schaper
+summary: Activist Kevin Powell and former Congressional candidate Shaniyat
+  Chowdhury will be in conversation with Rev. Dr. Donna Schaper. We'll conclude
+  with a poetry reading from Joy Priest
 people:
   - person: kevin-powell
     event_bio: >-
@@ -50,8 +52,8 @@ poets:
     related_links:
       - text: More on Joy Priest
         url: https://upittpress.org/authors/joy-priest/
-date: 2020-10-30 17:00:00 -0500
-end_date: 2020-10-30 17:00:00 -0500
+date: 2020-11-02 13:00:00 -0500
+end_date: 2020-11-02 17:00:00 -0500
 series: 164
 collections:
   - the-new-social-environment
@@ -64,3 +66,4 @@ event_producer:
 event_platform:
   - zoom
 ---
+An informal conversation on the historical significance of voting in this country, and what is at stake in this election - with special guest **Kevin Powell**, who has ran for New York’s 10th Congressional District (which is the southern portion of Morningside Heights, the Upper West Side of Manhattan, the west side of Midtown Manhattan, the west side of Lower Manhattan, including Greenwich Village, Tribeca, and the Financial District, and parts of Brooklyn, most notably Borough Park and parts of Bensonhurst) in conversation with Reverend and social activist **Donna Schaper.** Also highlighting grassroots congressional races that have been fought, checking in with former congressional candidates, and the issues for which you ran and which inspired you to run in the first place. Celebrating congressional races.
