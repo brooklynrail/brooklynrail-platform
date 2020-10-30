@@ -17,7 +17,7 @@ people:
       American Poets In The 21st Century: Poetics Of Social Engagement,
       Postmodern American Poetry Vol. 2, and Aloud: Voices From The Nuyorican
       Poets Café. His essay, \"You Say You Wanna Poli-Po-Asis: Poetry in
-      Politics,\" will be on Jacket2.org next week."
+      Politics,\" will be on Jacket2.org this week."
   - person: cecilia-vicuna
     event_bio: 'Cecilia Vicuña is a poet, artist, filmmaker and activist. Her work
       addresses pressing concerns of the modern world, including ecological
