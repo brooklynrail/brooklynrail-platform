@@ -58,6 +58,8 @@ date: 2020-11-05 13:00:00 -0500
 end_date: 2020-11-05 14:30:00 -0500
 collections:
   - common-ground
+event_sponsor:
+  - dermot-comany
 event_organizer:
   - the-brooklyn-rail
 event_producer:
