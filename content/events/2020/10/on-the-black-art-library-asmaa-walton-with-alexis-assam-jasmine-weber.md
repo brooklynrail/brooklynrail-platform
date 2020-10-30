@@ -49,7 +49,11 @@ people:
     related_links:
       - url: http://www.jasmineweber.com
         text: "To learn more about Jasmine's work "
-poets: []
+poets:
+  - person: karisma-price
+    event_bio: Karisma Price is a Cave Canem fellow. Born and raised in New Orleans,
+      Louisiana, she is currently a visiting assistant professor at Tulane
+      University.
 date: 2020-11-05 13:00:00 -0500
 end_date: 2020-11-05 14:30:00 -0500
 collections:
