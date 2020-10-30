@@ -30,6 +30,15 @@ people:
       of civilization for the special purpose of raising the moral standard of
       our political, business, and social life." She divides her time between
       Chile and New York.'
+  - person: tongo-eisen-martin
+    event_bio: Originally from San Francisco, Tongo Eisen-Martin is a poet, movement
+      worker, and educator. His latest curriculum on extrajudicial killing of
+      Black people, We Charge Genocide Again, has been used as an educational
+      and organizing tool throughout the country. His book titled, "Someone's
+      Dead Already" was nominated for a California Book Award. His latest book
+      "Heaven Is All Goodbyes" was published by the City Lights Pocket Poets
+      series, was shortlisted for the Griffin Poetry Prize and won a California
+      Book Award and an American Book Award.
 date: 2020-11-04 13:00:00 -0500
 end_date: 2020-11-04 14:00:00 -0500
 series: 165
