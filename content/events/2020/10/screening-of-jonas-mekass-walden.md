@@ -4,8 +4,8 @@ deck: "For those who have already voted, please join us for a screening of Jonas
   Mekas's Walden. "
 summary: "For those who have already voted, please join us for a screening of
   Jonas Mekas's Walden. "
-date: 2020-11-03 10:00:00 -0500
-end_date: 2020-11-03 20:00:00 -0500
+date: 2020-11-03 13:00:00 -0500
+end_date: 2020-11-03 15:00:00 -0500
 series: 165
 collections:
   - the-new-social-environment
@@ -28,14 +28,10 @@ Poet and hero of the American counter-culture, Jonas Mekas, born in Lithuania in
 
 \- Jonas Mekas
 
-
-
 Tune into zoom for the link and password to watch the film.
 
 You can join zoom directly via this link: 
 
 <https://brooklynrail.org/new-social-environment>
-
-
 
 **If you haven't already, vote!**
