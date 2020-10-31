@@ -26,19 +26,20 @@ people:
       Read more on the Black Art Library’s fundraising page, and peruse its stacks virtually via its viral Instagram page. 
     related_links: []
   - person: alexis-assam
-    event_bio: "Alexis Assam is a curator with a dual focus on contemporary and arts
-      of the African diaspora. She was the 2018–2019 Romare Bearden Graduate
-      Museum Fellow at the Saint Louis Art Museum where she co-curated the
-      2019-2020 exhibition, The Shape of Abstractions: Selections from the Ollie
-      Collection, which presented the work of five generations of Black artists
-      who have revolutionized abstract art since the 1940s. She currently works
-      for the Philadelphia Museum of Art in her second year as the Constance E.
-      Clayton Curatorial Fellow, working within the contemporary art department
-      on a number of currency and upcoming exhibitions. These include Fault
-      Lines: Contemporary Abstraction by Artists from South Asia and the Future
-      Fields Commission in Time-based Media, a collaboration between the
-      Philadelphia Museum of Art and the Fondazione Sandretto Re Rebaudengo
-      featuring Martine Syms in 2021 and Lawrence Abu Hamdan in 2022."
+    event_bio: "Alexis Assam is an emerging curator with a dual focus on
+      contemporary art and arts of the African diaspora. She was the 2018–2019
+      Romare Bearden Graduate Museum Fellow at the Saint Louis Art Museum where
+      she co-curated the 2019-2020 exhibition, The Shape of Abstractions:
+      Selections from the Ollie Collection, which presented the work of five
+      generations of Black artists who have revolutionized abstract art since
+      the 1940s. She currently works for the Philadelphia Museum of Art in her
+      second year as the Constance E. Clayton Curatorial Fellow, working within
+      the contemporary art department on a number of currency and upcoming
+      exhibitions. These include Fault Lines: Contemporary Abstraction by
+      Artists from South Asia and the Future Fields Commission in Time-based
+      Media, a collaboration between the Philadelphia Museum of Art and the
+      Fondazione Sandretto Re Rebaudengo featuring Martine Syms in 2021 and
+      Lawrence Abu Hamdan in 2022."
   - person: jasmine-weber
     event_bio: "Jasmine Weber is a writer, editor, and visual focused on Black art
       histories and visual culture. As Hyperallergic’s news editor, she reports
@@ -66,9 +67,11 @@ event_producer:
 event_platform:
   - zoom
 ---
-Please join us for our tenth installment of Common Ground for a conversation on the **Black Art Library** in Detroit featuring founder **Asmaa Walton** in conversation with curator **Alexis Assam** and art writer & editor **Jasmine Weber**.
+Please join us for our tenth installment of Common Ground for a conversation on the **Black Art Library** in Detroit featuring founder **Asmaa Walton** in conversation with curator **Alexis Assam** and art writer & editor **Jasmine Weber**. TK TK. 
 
-This conversation will be moderated by **Malvika Jolly**, and will close with a poetry reading by **Karisma Price**. 
+This conversation will be moderated by **Malvika Jolly**, and will close with a poetry reading by **Karisma Price**.
+
+ 
 
 ### **About this series**
 
