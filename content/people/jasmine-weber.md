@@ -7,5 +7,5 @@ short_bio: "Jasmine Weber is a writer, editor, and visual focused on Black art
   art workers’ challenging power dynamics in the arts sector and recent efforts
   to carve out a more equitable future for the creative industries and beyond. "
 portraits:
-  - media: 2020/10/jasmine-wahi-headshot-uncropped
+  - media: 2020/10/jasmine-weber-cropped-headshot
 ---
