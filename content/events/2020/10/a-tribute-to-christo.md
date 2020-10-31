@@ -107,6 +107,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: DR5DnvFJ98A
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-163-a-tribute-to-christo-tickets-126454822779
 event_platform:
   - zoom
