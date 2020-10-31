@@ -42,9 +42,7 @@ people:
       she reports on the challenging power dynamics of art workers in the arts
       sector and recent efforts to carve out a more equitable future for the
       creative industries and beyond. "
-    related_links:
-      - url: http://www.jasmineweber.com
-        text: "To learn more about Jasmine's work "
+    related_links: []
 poets:
   - person: karisma-price
     event_bio: Karisma Price is a Cave Canem fellow. Born and raised in New Orleans,
@@ -68,8 +66,6 @@ Please join us for our tenth installment of Common Ground for a conversation on 
 
 This conversation will be moderated by **Malvika Jolly**, and will close with a poetry reading by **Karisma Price**.
 
- 
-
 ### **About this series**
 
-At the start of quarantine, the *Brooklyn Rail* asked how might we stay connected to each other in a time of self-isolation? Now we ask: How can we stay involved and engaged in upholding our civic responsibility to one another across communities? How can we deploy this community built through the New Social Environment—through hundreds of conversations and meals shared over the past six months—to mobilize daily action for grassroots movements, social justice and equity projects, and for the political good of our most marginalized communities across the nation? Tune in Thursdays at 1pm for Common Ground, a new lunchtime series featuring weekly conversations with social justice practitioners, changemakers, and activists on how we can mobilize our daily actions to radically reimagine our democracy.
+At the start of quarantine, the *Rail* asked how might we stay connected to each other in a time of self-isolation? Now we ask: How can we stay involved and engaged in upholding our civic responsibility to one another across communities? How can we deploy this community built through the New Social Environment—through hundreds of conversations and meals shared over the past six months—to mobilize daily action for grassroots movements, social justice and equity projects, and for the political good of our most marginalized communities across the nation? Tune in Thursdays at 1pm for Common Ground, a new lunchtime series featuring weekly conversations with social justice practitioners, changemakers, and activists on how we can mobilize our daily actions to radically reimagine our democracy.
