@@ -39,9 +39,9 @@ people:
   - person: jasmine-weber
     event_bio: "Jasmine Weber is a writer, editor, and visual artist focused on
       Black art histories and visual culture. As Hyperallergic’s news editor,
-      she reports on art workers’ challenging power dynamics in the arts sector
-      and recent efforts to carve out a more equitable future for the creative
-      industries and beyond. "
+      she reports on the challenging power dynamics of art workers in the arts
+      sector and recent efforts to carve out a more equitable future for the
+      creative industries and beyond. "
     related_links:
       - url: http://www.jasmineweber.com
         text: "To learn more about Jasmine's work "
