@@ -7,23 +7,19 @@ summary: Please join us for a conversation on the Black Art Library in Detroit,
   Jasmine Weber.
 people:
   - person: asmaa-walton
-    event_bio: >-
-      Asmaa Walton is a Detroit native and founder of the Black Art Library, a
-      collection of books she began curating on Black visual arts in early 2020.
-      The Black Art Library will be a public-facing archive, research library,
-      and collection of art books, children’s books, exhibition catalogues,
-      biographies, and ephemera on Black visual arts and artists intended to be
-      an educational resource for the Black community and beyond. The project
-      started this year, and is currently fundraising to expand its collection
-      and acquire a brick-and-mortar space that will act as a non-lending
-      library based in Detroit, MI. Walton holds an MA in Arts Politics from the
-      Department of Art & Public Policy at New York University, and a BFA in
-      Arts Education from Michigan State University. She was previously the
-      inaugural Keybank Fellow at The Toledo Museum of Art, and the 2019–2020
-      Romare Bearden Graduate Museum Fellow at the Saint Louis Art Museum. 
-
-
-      Read more on the Black Art Library’s fundraising page, and peruse its stacks virtually via its viral Instagram page. 
+    event_bio: "Asmaa Walton is a Detroit native and founder of the Black Art
+      Library, an ongoing collection of books on Black visual culture which will
+      become a public-facing archive, research library, and collection of art
+      books, children’s books, exhibition catalogues, biographies, and ephemera
+      on Black visual arts and artists intended to be an educational resource
+      for the Black community and beyond. The project started this year, and is
+      currently fundraising to expand its collection and acquire a
+      brick-and-mortar space that will act as a non-lending library based in
+      Detroit, MI. Walton holds an MA in Arts Politics from the Department of
+      Art & Public Policy at New York University, and a BFA in Arts Education
+      from Michigan State University. She was previously the inaugural Keybank
+      Fellow at The Toledo Museum of Art, and the 2019–2020 Romare Bearden
+      Graduate Museum Fellow at the Saint Louis Art Museum. "
     related_links: []
   - person: alexis-assam
     event_bio: "Alexis Assam is an emerging curator with a dual focus on
