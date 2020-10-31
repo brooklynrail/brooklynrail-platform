@@ -3,8 +3,7 @@ title: On the Black Art Library
 deck: Weekly conversations with activists, social justice practitioners, and
   changemakers.
 summary: Please join us for a conversation on the Black Art Library in Detroit,
-  featuring founder Asmaa Walton with curator Alexis Assam & Hyperallergic's
-  Jasmine Weber.
+  featuring founder Asmaa Walton with Alexis Assam & Jasmine Weber.
 people:
   - person: asmaa-walton
     event_bio: "Asmaa Walton is a Detroit native and founder of the Black Art
