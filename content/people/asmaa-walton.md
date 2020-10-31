@@ -9,5 +9,5 @@ short_bio: is a Detroit native and founder of the Black Art Library, a
   and ephemera on Black visual arts and artists intended to be an educational
   resource for the Black community and beyond.
 portraits:
-  - media: 2020/10/photograph-of-asmaa-walton
+  - media: 2020/10/asmaa-walton-headshot-version-2
 ---
