@@ -61,9 +61,15 @@ registration_url: https://www.eventbrite.com/e/on-the-black-art-library-tickets-
 event_platform:
   - zoom
 ---
-{{< image media="2020/10/is-america-the-america-we-learned-to-imagine" size="lg" >}}
+{{< image media="2020/10/is-america-the-america-we-learned-to-imagine" size="md" >}}
 
-Please join us for our tenth installment of Common Ground for a conversation on the [Black Art Library](https://www.instagram.com/blackartlibrary/) in Detroit, featuring founder & curator **Asmaa Walton** with curator **Alexis Assam** and art writer **Jasmine Weber**. This conversation will be moderated by **Malvika Jolly**, and will close with a poetry reading by **Karisma Price**.
+> “The Black Art Library will be a space where people of all ages can come to spend time with these books and learn things that they did not have the opportunity to learn in school or at home. It will be a place local students can come to do research for a project, self-taught artists can come be inspired by images that they see between the pages, and art lovers can spend a day falling in love with the work of an artist they had never even heard about before.” –Asmaa Walton
+
+Please join us for our tenth installment of Common Ground for a conversation on the [Black Art Library](https://www.instagram.com/blackartlibrary/) in Detroit, featuring founder & curator **Asmaa Walton** with curator **Alexis Assam** and art writer **Jasmine Weber**. They will discuss the evolution of the Black Art Library – a catalog of books on Black visual art and culture that Walton began assembling earlier this year – which will become a public-facing research library, archive, and collection of art books, children’s books, exhibition catalogues, biographies, monographs, and ephemera on Black visual arts and artists. The project is currently fundraising to expand its collection and acquire a brick-and-mortar space that will act as a non-lending library in Detroit, MI. They will also touch on arts accessibility and arts education, on filling in the blank spots where institutional libraries and museum collections have failed to substantially invest in the historical materials on Black, African, and diasporic artists, on practices of autonomy – and how to chart a course for shifting value and shifting resources back into our own communities.
+
+This conversation will be moderated by **Malvika Jolly**, and will close with a poetry reading by **Karisma Price**.
+
+The Black Art Library will be on view at the Museum of Contemporary Art Detroit (MOCAD) in early 2021. Until then, peruse its stacks virtually via its viral [Instagram page](https://www.instagram.com/blackartlibrary/), read more on the Black Art Library’s [fundraising page](https://www.gofundme.com/f/black-art-library), and donate today.
 
 ### **About this series**
 
