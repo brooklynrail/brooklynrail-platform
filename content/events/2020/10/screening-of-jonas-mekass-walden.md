@@ -4,8 +4,8 @@ deck: "For those who have already voted, please join us for a screening of Jonas
   Mekas's Walden. "
 summary: "For those who have already voted, please join us for a screening of
   Jonas Mekas's Walden. "
-date: 2020-11-03 10:00:00 -0500
-end_date: 2020-11-03 20:00:00 -0500
+date: 2020-11-03 13:00:00 -0500
+end_date: 2020-11-03 15:00:00 -0500
 series: 165
 collections:
   - the-new-social-environment
