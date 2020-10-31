@@ -28,10 +28,14 @@ Poet and hero of the American counter-culture, Jonas Mekas, born in Lithuania in
 
 \- Jonas Mekas
 
+
+
 Tune into zoom for the link and password to watch the film.
 
 You can join zoom directly via this link: 
 
 <https://brooklynrail.org/new-social-environment>
+
+
 
 **If you haven't already, vote!**
