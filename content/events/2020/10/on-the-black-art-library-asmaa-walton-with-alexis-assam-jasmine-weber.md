@@ -61,7 +61,7 @@ registration_url: https://www.eventbrite.com/e/on-the-black-art-library-tickets-
 event_platform:
   - zoom
 ---
-{{< image media="2020/10/is-america-the-america-we-learned-to-imagine" size="lg" >}}
+{{< image media="2020/10/is-america-the-america-we-learned-to-imagine" size="md" >}}
 
 > “The Black Art Library will be a space where people of all ages can come to spend time with these books and learn things that they did not have the opportunity to learn in school or at home. It will be a place local students can come to do research for a project, self-taught artists can come be inspired by images that they see between the pages, and art lovers can spend a day falling in love with the work of an artist they had never even heard about before.” –Asmaa Walton
 
