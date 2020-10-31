@@ -29,7 +29,7 @@ people:
       generations of Black artists who have revolutionized abstract art since
       the 1940s. She currently works for the Philadelphia Museum of Art in her
       second year as the Constance E. Clayton Curatorial Fellow, working within
-      the contemporary art department on a number of currency and upcoming
+      the contemporary art department on a number of current and upcoming
       exhibitions. These include Fault Lines: Contemporary Abstraction by
       Artists from South Asia and the Future Fields Commission in Time-based
       Media, a collaboration between the Philadelphia Museum of Art and the
