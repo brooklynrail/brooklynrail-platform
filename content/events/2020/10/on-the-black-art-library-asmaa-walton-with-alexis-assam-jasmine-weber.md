@@ -62,6 +62,8 @@ registration_url: https://www.eventbrite.com/e/on-the-black-art-library-tickets-
 event_platform:
   - zoom
 ---
+{{< image media="2020/10/is-america-the-america-we-learned-to-imagine" size="lg" >}}
+
 Please join us for our tenth installment of Common Ground for a conversation on the **Black Art Library** in Detroit featuring founder **Asmaa Walton** in conversation with curator **Alexis Assam** and art writer & editor **Jasmine Weber**. TK TK. 
 
 This conversation will be moderated by **Malvika Jolly**, and will close with a poetry reading by **Karisma Price**.
