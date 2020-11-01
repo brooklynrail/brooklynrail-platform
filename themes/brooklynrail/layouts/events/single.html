@@ -147,18 +147,46 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
             {{- $event_organizer = ($.Site.GetPage (printf "/%s/%s" "organizations" (index (.Params.event_organizer) 0))) -}}
             {{- end -}}
 
+
+            {{/* Get event sponsors */}}
+            {{- $event_sponsors := slice -}}
+            {{/* If there are sponsors */}}
+            {{- if .Params.event_sponsor -}}
+              {{/* Loop through and get each sponsor */}}
+              {{- range $i, $sponsor := .Params.event_sponsor -}}
+                {{- $this := ($.Site.GetPage (printf "/%s/%s" "organizations" ($sponsor))) -}}
+                {{- $event_sponsors = $event_sponsors | append $this -}}
+              {{- end -}}
+            {{- end -}}
+
+
+
             {{- $event_collection := index (.Params.collections) 0 -}}
             {{- $event_collection = $.Site.GetPage (printf "/%s/%s" "collections" $event_collection) -}}
 
             {{- if and $event_organizer $event_producer }}
             <div class="sponsor">
               <p>This talk is
-              {{- if .Params.event_sponsor -}}
+              {{- if $event_sponsors -}}
                 {{- $sponsor_copy := $.Site.Data.sponsor_copy.sponsored -}}
                 {{- $copy := (index ($sponsor_copy | shuffle | first 1) 0) -}}
-                {{- $event_sponsor := ($.Site.GetPage (printf "/%s/%s" "organizations" (index (.Params.event_sponsor) 0))) -}}
-                {{- with $event_sponsor }}
-                  {{ $copy.phrase }} our friends at <a class="u-dotted" href="{{ .Params.website }}" title="{{ .Params.name }}"><strong><span>{{ .Params.name }}</span></strong></a> and
+
+                {{- with $event_sponsors }}
+                  {{ $copy.phrase }} our friends at
+
+                  {{- $len := sub (len $event_sponsors) 1 -}}
+                  {{ range $i, $e := $event_sponsors }}
+                    <a class="u-dotted" href="{{- $e.Params.website -}}" title="{{- $e.Params.name -}}"><strong><span>{{- $e.Params.name -}}</span></strong></a>
+
+                    {{- if ge $len 2 -}}
+                      {{- if ne $i $len -}}
+                        {{- if ne $i (sub $len 1) -}}, {{ else -}}, and {{ end -}}
+                      {{- end -}}
+                    {{- else -}}
+                      {{- if ne $i (sub $len 1) -}}{{ else }} and {{ end -}}
+                    {{- end -}}
+                  {{- end }}
+                  and
                 {{ end -}}
               {{- end -}}
 
