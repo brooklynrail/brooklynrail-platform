@@ -45,9 +45,13 @@ outputFormats:
     baseName: info
     mediaType: text/html
     permalinkable: true
+  PODCAST:
+    baseName: "podcast"
+    mediaType: "application/xml"
 
 outputs:
-  section: ["HTML", "INFO"]
+  home: ["HTML", "PODCAST"]
+  section: ["HTML", "INFO", "PODCAST"]
   page: ["HTML", "INFO"]
 
 markup:
