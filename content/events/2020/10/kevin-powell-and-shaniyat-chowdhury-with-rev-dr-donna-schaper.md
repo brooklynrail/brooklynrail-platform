@@ -23,15 +23,14 @@ people:
 
 
       As a pop culture curator, Kevin produced the first exhibit on the history of hip-hop in America at the Rock and Roll Hall of Fame in Cleveland, Ohio, which toured America and overseas. As a humanitarian, Kevin's work includes local, national and international initiatives to end violence against women and girls (including a very well-regarded appearance on The Oprah Winfrey Show highlighting domestic violence); and he has done extensive philanthropic and relief work, ranging from Hurricane Katrina to earthquakes in Haiti and Japan, to Superstorm Sandy in New York, to his annual holiday party and clothing drive for the homeless every December since 9/11.
-  - person: shaniyat-chowdhury
-    event_bio: >-
-      Shaniyat Chowdhury was born in Elmhurst, New York. He graduated from John
-      Jay College of Criminal Justice in 2017. His career experience includes
-      working as a bartender. He served in the United States Marine Corps from
-      2011 to 2017.
-
-
-      In every capacity of his work, Shaniyat serves others. He knows what it’s like to have a thankless job as a bar-back, mold the minds of youth, serve his country, and bring his community together. As the son of Bangladeshi immigrants knows what it’s like to watch his parents work in the hospitality/service industry to make ends meet, suffer the adverse effects of decisions made for union workers, and saw the effects of climate change first-hand while serving in the Marine Corps. Being a part of Alexandria Ocasio-Cortez’s campaign changed his life -- and now he wants to change the lives of the constituents in his district.
+  - person: shaniyat-chowdhury-1
+    event_bio: Shaniyat Chowdhury is an educator and organizer from South Jamaica,
+      Queens. His advocacy ranges from housing and immigrants rights, combating
+      poverty, and foreign relations. He graduated from John Jay College with a
+      Bachelors of Science in Law and Society. He has worked in the New York
+      State Assembly, as a campaign organizer, and most recently ran for
+      Congress to represent New York's 5th Congressional District. He served in
+      the United States Marine Corps as a Field Radio Operator from 2011–2017.
   - person: rev-dr-dona-schaper
     event_bio: "Rev. Dr. Donna Schaper has been Senior Minister of Judson Memorial
       Church since January of 2006. She was formerly at Coral Gables
