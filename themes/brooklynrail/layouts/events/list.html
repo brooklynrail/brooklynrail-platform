@@ -50,22 +50,26 @@
       <div class="grid-row">
         <div class="grid-col-12 tablet:grid-col-10 tablet:grid-offset-1">
           <div class="sponsors">
-            <p>{{- ":heart: Our events are sponsored by: " | emojify -}}
-            {{- $sponsors := ($sponsors | uniq) -}}
-            {{- $len := (len $sponsors) -}}
-            {{- range $key, $val := ($sponsors | uniq) -}}
+            {{- $sponsor_copy := $.Site.Data.sponsor_copy.sponsored -}}
+            {{- $copy := (index ($sponsor_copy | shuffle | first 1) 0) -}}
+            <p>
+              {{- ":heart: Our events are " | emojify }}
+              {{ $copy.phrase }}:
+              {{ $sponsors := ($sponsors | uniq) -}}
+              {{- $len := (len $sponsors) -}}
+              {{- range $key, $val := ($sponsors | uniq) -}}
 
-              {{- if eq $val.Params.donor true -}}
-                {{- with $val.Params.name -}}
-                  {{- if ne $key 0 -}}, {{ end -}}
-                  {{- if eq (add $key 1) $len }}
-                    and
-                  {{ end -}}
-                  <strong>{{- $val.Params.name -}}</strong>
+                {{- if in $val.Params.relationship "donor" -}}
+                  {{- with $val.Params.name -}}
+                    {{- if ne $key 0 -}}, {{ end -}}
+                    {{- if eq (add $key 1) $len }}
+                      and
+                    {{ end -}}
+                    <a href="{{- $val.Params.website -}}?br" title="{{- $val.Params.name -}}"><span>{{- $val.Params.name -}}</span></a>
+                  {{- end -}}
                 {{- end -}}
-              {{- end -}}
 
-            {{- end -}}
+              {{- end -}}
             </p>
           </div>
         </div>
