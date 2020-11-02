@@ -74,6 +74,17 @@ markup:
   events_count: 20
   articles_count: 20
 
+  podcast:
+    title: "The New Social Environment"
+    subtitle: "TKTK"
+    summary: "TKTK"
+    email: "hq@brooklynrail.org"
+    image: "Link to 1400*1400 (or larger) file"
+    category: ""
+    sub_category: ""
+    #num_episodes = 50
+    #iTunesID = 12345677
+
 # Sitemap
 sitemap:
   changefreq            : "daily"
