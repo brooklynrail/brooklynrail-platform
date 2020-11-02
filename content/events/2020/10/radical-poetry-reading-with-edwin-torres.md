@@ -16,8 +16,10 @@ people:
       Anthologies include, Fractured Ecologies, Who Will Speak For America,
       American Poets In The 21st Century: Poetics Of Social Engagement,
       Postmodern American Poetry Vol. 2, and Aloud: Voices From The Nuyorican
-      Poets Café. His essay, \"You Say You Wanna Poli-Po-Asis: Poetry in
-      Politics,\" will be on Jacket2.org this week."
+      Poets Café."
+    related_links:
+      - url: http://jacket2.org/commentary/you-say-you-wanna-poli-po-asis-poetry-and-politics
+        text: Poetry in Politics
   - person: cecilia-vicuna
     event_bio: 'Cecilia Vicuña is a poet, artist, filmmaker and activist. Her work
       addresses pressing concerns of the modern world, including ecological
