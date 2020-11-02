@@ -78,6 +78,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: sisG09IGSVo
 registration_url: https://www.eventbrite.com/e/nse-156-radical-poetry-with-ama-birch-and-bennet-bergman-tickets-125620407019
 event_platform:
   - zoom
