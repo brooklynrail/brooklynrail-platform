@@ -15,4 +15,5 @@ short_bio: "Edwin Torres's books of poetry include, XoeteoX: the infinite word
   Poli-Po-Asis: Poetry in Politics,\" will be on Jacket2.org next week."
 portraits:
   - media: 2020/10/edwin-torres
+rail_contributor_url: https://brooklynrail.org/contributor/edwin-torres
 ---
