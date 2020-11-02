@@ -478,6 +478,14 @@ collections:
         hint: "Add a short description of the person without using their name. [Max 800 characters (~120 words)]"
         required: false
 
+      - label: "Relationship"
+        name: "relationship"
+        widget: "select"
+        multiple: true
+        options: ["donor", "board-member", "advisory-board", "staff", "alumni"]
+        hint: "Donor, Board Member, Advisory Board, Staff, Alumni"
+        required: false
+
       - label: "Portrait Images"
         name: "portraits"
         widget: "list"
@@ -580,6 +588,14 @@ collections:
         name: "twitter"
         widget: "string"
         hint: "Enter the username without the @ handle [e.g. brooklynrail]"
+        required: false
+
+      - label: "Relationship"
+        name: "relationship"
+        widget: "select"
+        multiple: true
+        options: ["donor", "board-member", "advisory-board", "staff", "alumni"]
+        hint: "Donor, Board Member, Advisory Board, Staff, Alumni"
         required: false
 
   # ====================================

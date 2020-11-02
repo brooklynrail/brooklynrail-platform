@@ -8,4 +8,6 @@ email: info@kasmingallery.com
 website: https://www.kasmingallery.com/
 instagram: https://www.instagram.com/kasmingallery/
 twitter: https://twitter.com/Kasmingallery
+relationship:
+  - donor
 ---
