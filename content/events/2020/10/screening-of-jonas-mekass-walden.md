@@ -17,6 +17,7 @@ event_producer:
   - the-brooklyn-rail
 event_platform:
   - zoom
+event_platform_url: https://brooklynrail.org/new-social-environment
 ---
 **On Election Day 2020, we encourage everyone to go out and vote! You can find all details on [where, how, and when to vote here](https://www.vote.org/).**
 
