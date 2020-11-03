@@ -17,6 +17,7 @@ event_producer:
   - the-brooklyn-rail
 event_platform:
   - zoom
+event_platform_url: https://brooklynrail.org/new-social-environment
 ---
 **On Election Day 2020, we encourage everyone to go out and vote! You can find all details on [where, how, and when to vote here](https://www.vote.org/).**
 
@@ -28,14 +29,10 @@ Poet and hero of the American counter-culture, Jonas Mekas, born in Lithuania in
 
 \- Jonas Mekas
 
-
-
 Tune into zoom for the link and password to watch the film.
 
 You can join zoom directly via this link: 
 
 <https://brooklynrail.org/new-social-environment>
-
-
 
 **If you haven't already, vote!**
