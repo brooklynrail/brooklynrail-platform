@@ -1,10 +1,10 @@
 ---
 title: "Monuments Now: Jeffrey Gibson, Paul Ramírez Jonas, and Xaviera Simmons"
 summary: Artists in the Socrates Sculpture Park exhibition Xaviera Simmons,
-  Jeffrey Gibson, and Paul Ramírez Jonas will join Jesse Wilcox to discuss the
-  role of monuments in society and commemorate underrepresented narratives such
-  as diasporic, Indigenous, and queer histories. We'll conclude with a poetry
-  reading from writer, organizer, and educator Jive Poetic.
+  Jeffrey Gibson, and Paul Ramírez Jonas will join curator Jess Wilcox to
+  discuss the role of monuments in society and commemorate underrepresented
+  narratives such as diasporic, Indigenous, and queer histories. We'll conclude
+  with a poetry reading from writer, organizer, and educator Jive Poetic.
 people:
   - person: jeffrey-gibson
     event_bio: >-
