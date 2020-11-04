@@ -36,7 +36,7 @@ poets:
       De-Canon. Dao was born in Vietnam and lives in Portland, OR.
 date: 2020-11-09 13:00:00 -0500
 end_date: 2020-11-09 14:30:00 -0500
-series: 170
+series: 169
 collections:
   - the-new-social-environment
 event_organizer:
