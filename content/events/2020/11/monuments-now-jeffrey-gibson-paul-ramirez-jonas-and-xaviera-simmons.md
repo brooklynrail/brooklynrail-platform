@@ -1,10 +1,10 @@
 ---
-title: "Monuments Now: Jeffrey Gibson, Paul Ramirez Jonas, and Xaviera Simmons"
+title: "Monuments Now: Jeffrey Gibson, Paul Ramírez Jonas, and Xaviera Simmons"
 summary: Artists in the Socrates Sculpture Park exhibition Xaviera Simmons,
-  Jeffrey Gibson, and Paul Ramirez Jonas will join Jesse Wilcox to discuss the
+  Jeffrey Gibson, and Paul Ramírez Jonas will join Jesse Wilcox to discuss the
   role of monuments in society and commemorate underrepresented narratives such
   as diasporic, Indigenous, and queer histories. We'll conclude with a poetry
-  reading from Jive Poetic.
+  reading from writer, organizer, and educator Jive Poetic.
 people:
   - person: jeffrey-gibson
     event_bio: >-
@@ -45,6 +45,12 @@ people:
       another part to performance, and other parts to installation, video, and
       sound works-keeping her practice in constant and consistent rotation,
       shift, and engagement.
+poets:
+  - person: jive-poetic
+    event_bio: "Jive Poetic is a writer, organizer, and educator based in Brooklyn.
+      He is founder of Insurgent Poets Society, Carnival Slam: Cultural
+      Exchange, and co-founder of Brooklyn Poetry Slam. Jive is a curator/host
+      at Nuyorican Poet’s Café and teaches poetry and hip-hop to at-risk youth."
 date: 2020-11-13 13:00:00 -0500
 end_date: 2020-11-13 14:30:00 -0500
 series: 173
