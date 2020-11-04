@@ -1,7 +1,8 @@
 ---
 title: Fred Tomaselli with Toby Kamps
-summary: Visual artist Fred Tomaselli with curator and Rail Editor-at-Large Toby
-  Kamps. We'll conclude with a poetry reading from Dao Strom.
+summary: Visual artist Fred Tomaselli will be in conversation with curator and
+  Rail Editor-at-Large Toby Kamps. We'll conclude with a poetry reading from Dao
+  Strom.
 people:
   - person: fred-tomaselli
     event_bio: "Drawing upon art historical sources and Eastern and Western
@@ -42,6 +43,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-169-fred-tomaselli-tickets-128032471569
 event_platform:
   - zoom
 ---
