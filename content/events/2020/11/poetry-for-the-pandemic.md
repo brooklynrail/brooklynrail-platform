@@ -7,8 +7,7 @@ summary: Actors Bill Murray and Tracie Thoms join Theater of War Productions’
   Poetry for the Pandemic Performance and Discussion
 date: 2020-11-12 19:00:00 -0500
 end_date: 2020-11-12 20:30:00 -0500
-collections:
-  - the-new-social-environment
+collections: []
 event_organizer:
   - theater-of-war
 event_producer:
