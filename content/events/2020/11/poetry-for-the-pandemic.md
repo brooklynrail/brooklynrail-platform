@@ -17,7 +17,7 @@ registration_url: https://www.eventbrite.com/e/poetry-for-the-pandemic-tickets-1
 event_platform:
   - zoom
 ---
-{{< image media="2020/11/poetry-for-the-pandemic-theater-of-war" size="lg" >}}
+{{< image media="2020/11/poetry-for-the-pandemic-theater-of-war" size="md" >}}
 
 An evening of readings and a dialogue among distinguished poets and young poets of tomorrow— a chorus of diverse voices exploring the transformative power of words.
 
