@@ -17,23 +17,15 @@ registration_url: https://www.eventbrite.com/e/poetry-for-the-pandemic-tickets-1
 event_platform:
   - zoom
 ---
+{{< image media="2020/11/poetry-for-the-pandemic-theater-of-war" size="xl" >}}
+
 An evening of readings and a dialogue among distinguished poets and young poets of tomorrow— a chorus of diverse voices exploring the transformative power of words.
 
 Presented by the [Alliance for Young Artists & Writers](https://www.artandwriting.org/) and [Theater of War Productions.](https://theaterofwar.com/)
 
 Featuring:
 
-Dr. Joshua Bennett, Facilitator
-
-Mahogany L. Browne
-
-Juan Felipe Herrera, US Poet Laureate 2015–2017
-
-Molly McCully Brown
-
-Patricia Smith
-
-and special guests: Tracie Thoms and Bill Murray
+Dr. Joshua Bennett (Facilitator), Mahogany L. Browne, Juan Felipe Herrera (US Poet Laureate 2015–2017), Molly McCully Brown, Patricia Smith, and special guests: Tracie Thoms and Bill Murray
 
 [The Class of 2020 National Student Poets:](https://www.artandwriting.org/programs/national-student-poets-program/) Maddie Dietz, Manasi Garg, Isabella Ramirez, Ethan Wang, and Anthony John Wiles, Jr. and alumni of the National Student Poets Program.
 
