@@ -1,7 +1,8 @@
 ---
-title: Natalie Frank with Jason Rosenfeld
-summary: Artist Natalie Frank will be in conversation with Rail Editor-at-Large
-  Jason Rosenfeld. We'll conclude with a poetry reading from Cheena Marie Lo.
+title: Natalie Frank with Phong H. Bui
+summary: Artist Natalie Frank will be in conversation with Rail publisher and
+  artistic director Phong H. Bui. We'll conclude with a poetry reading from
+  Cheena Marie Lo.
 people:
   - person: natalie-frank
     event_bio: Natalie Frank explores contemporary discourse on feminism, sexuality,
@@ -42,4 +43,6 @@ event_producer:
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-170-natalie-frank-tickets-128136069433
 event_platform:
   - zoom
+aliases:
+  - /events/2020/11/10/natalie-frank-with-jason-rosenfeld/
 ---
