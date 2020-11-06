@@ -36,6 +36,17 @@ people:
       Structures: Early Poems 1974-1979 (1996), The Nonconformist's Memorial
       (1993), The Europe of Trusts: Selected Poems (1990), and Singularities
       (1990). "
+  - person: amit-dwibedy
+    event_bio: Biswamit Dwibedy is the author of Ozalid (1913 Press, 2010), Eirik’s
+      Ocean (Portable Press, 2016) and Ancient Guest (HarperCollins, 2017). In
+      2014, he guest-edited a dossier of contemporary Indian poetry for Aufgabe
+      13, published by Litmus Press. He is a co-editor of 1913 Journal and was a
+      judge for the Best Translated Book Award in 2015. In India, he edits Anew
+      Print, a small-press focused on translations from India, and is the
+      Director of the Anew Writing Program, a low-residency, creative writing
+      program–the first of its kind in India. He has an MFA in writing from Bard
+      College and teaches in Bangalore at the Srishti Institute of Art, Design,
+      and Technology.
 date: 2020-11-11 13:00:00 -0500
 end_date: 2020-11-11 14:00:00 -0500
 series: 171
