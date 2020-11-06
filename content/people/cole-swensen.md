@@ -2,16 +2,14 @@
 name: Cole Swensen
 first_name: Cole
 last_name: Swensen
-short_bio: "Cole Swensen is the author of thirteen collections of poetry and has
-  translated ten books of poetry into English from French. Her most recent books
-  include Gravesend (University of California Press, 2012), Stele (Post-Apollo
-  Press, 2012), and Greensward (Ugly Duckling Presse, 2010).  Her translation of
-  Lazy Suzie by Suzanne Doppelt (Litmus Press, 2015) was nominated for the Best
-  Translated Book Award and her translation of Island of the Dead by Jean Frémon
-  (Green Integer, 2002) won the PEN USA Award for Literary Translation. In 2009,
-  Swensen coedited American Hybrid: A Norton Anthology of New Poetry. A book of
-  her essays on poetry, Noise That Stays Noise, was published by the University
-  of Michigan Press in 2011."
+short_bio: Cole Swensen has published 17 volumes of poetry and a collection of
+  critical essays, Noise That Stays Noise. A book of hybrid poem-essays, Art in
+  Time, is coming out from Nightboat in the spring. A former Guggenheim Fellow,
+  she has been a finalist for the National Book Award and has been awarded the
+  Iowa Poetry Prize, the SF State Poetry Center Book Award, and the National
+  Poetry Series. She has also translated over 20 volumes of poetry, prose, and
+  art criticism from French and won the 2004 PEN USA Award in Literary
+  Translation.
 portraits:
   - media: 2020/11/cole-swensen
 ---
