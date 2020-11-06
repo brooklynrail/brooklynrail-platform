@@ -42,6 +42,17 @@ people:
     event_bio: Susan Howe's most recent poetry collection is called Concordance. She
       is currently working on a new collaboration with the composer David
       Grubbs. She lives in Guilford CT.
+  - person: ghazal-mosadeq
+    event_bio: Ghazal Mosadeq is an award-winning writer and poet. She is the winner
+      of the Bayhaqi Short Fiction Prize and was shortlisted for the Khorshid
+      Poetry Prize. She has published three poetry collections, Dar Jame Ma
+      (2010), Biographies (2015), and Supernatural Remedies for Fatal
+      Seasickness (2018). Her poems and short stories have been published in
+      anthologies and magazines in Iran, Canada, the UK, Portugal, and Greece.
+      Actively involved in creating and promoting a dialogue between Persian and
+      English literary traditions, she has embarked on translation from Persian
+      to English and vice versa, and is involved in leading and producing
+      creative writing workshops in Iran, the UK, and Canada.
 date: 2020-11-11 13:00:00 -0500
 end_date: 2020-11-11 14:00:00 -0500
 series: 171
