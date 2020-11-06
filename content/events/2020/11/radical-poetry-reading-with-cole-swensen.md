@@ -1,10 +1,10 @@
 ---
 title: Radical Poetry Reading with Cole Swensen
-deck: Featuring political poetry read by Etel Adnan, Amit Dwibedy, Susan Howe,
-  and Ghazal Mosadeq.
+deck: Featuring political poetry read by Etel Adnan, Biswamit Dwibedy, Susan
+  Howe, and Ghazal Mosadeq.
 summary: Poet Cole Swensen curates the 13th installment in a weekly series of
-  Radical Poetry Readings, featuring Etel Adnan, Amit Dwibedy, Susan Howe, and
-  Ghazal Mosadeq.
+  Radical Poetry Readings, featuring Etel Adnan, Biswamit Dwibedy, Susan Howe,
+  and Ghazal Mosadeq.
 people:
   - person: cole-swensen
     event_bio: Cole Swensen has published 17 volumes of poetry and a collection of
@@ -27,17 +27,17 @@ people:
       She is also the recipient of a PEN Oakland-Josephine Miles Award and in
       2014 was named a member of the Ordre de Chevalier des Arts et des Lettres,
       one of France's highest cultural honors.
-  - person: amit-dwibedy
-    event_bio: Biswamit Dwibedy is the author of Ozalid (1913 Press, 2010), Eirik’s
-      Ocean (Portable Press, 2016) and Ancient Guest (HarperCollins, 2017). In
-      2014, he guest-edited a dossier of contemporary Indian poetry for Aufgabe
-      13, published by Litmus Press. He is a co-editor of 1913 Journal and was a
-      judge for the Best Translated Book Award in 2015. In India, he edits Anew
-      Print, a small-press focused on translations from India, and is the
-      Director of the Anew Writing Program, a low-residency, creative writing
-      program–the first of its kind in India. He has an MFA in writing from Bard
-      College and teaches in Bangalore at the Srishti Institute of Art, Design,
-      and Technology.
+  - person: biswamit-dwibedy
+    event_bio: "Biswamit Dwibedy is the author of six collections of poetry,
+      published in India and the United States, which include Ozalid (1913
+      Press), Hubble Gardener (Spuyten Duyvil), MC3 (Essay Press), and Ancient
+      Guest (HarperCollins). In 2012, he edited a dossier of Indian poetry in
+      translation from seven different regional languages for Aufgabe, published
+      by Litmus Press, New York. He is also the founder and editor of Anew
+      Print, a small press that publishes limited-edition chapbooks from writers
+      in India and abroad. He has taught creative writing and arts practice at
+      the Srishti Institute of Art, Design, and Technology in Bangalore, India,
+      and now teaches at the American University of Paris. "
   - person: susan-howe
     event_bio: "Susan Howe was born on June 10, 1937, in Boston, Massachusetts. She
       is the author of several poetry collections, including Debths (New
