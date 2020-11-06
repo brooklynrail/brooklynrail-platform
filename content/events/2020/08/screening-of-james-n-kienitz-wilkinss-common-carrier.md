@@ -30,7 +30,8 @@ people:
       Film co-editor of the Brooklyn Rail.
 date: 2020-08-20 20:00:00 -0500
 end_date: 2020-08-20 22:00:00 -0500
-collections: []
+collections:
+  - community-listing
 event_organizer:
   - screen-slate
 event_producer:
