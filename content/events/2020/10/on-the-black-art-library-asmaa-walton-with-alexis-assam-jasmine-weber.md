@@ -57,6 +57,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: UCkwhlDTACE
 registration_url: https://www.eventbrite.com/e/on-the-black-art-library-tickets-127510438153
 event_platform:
   - zoom
