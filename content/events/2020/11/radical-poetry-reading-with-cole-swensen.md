@@ -1,8 +1,10 @@
 ---
 title: Radical Poetry Reading with Cole Swensen
-deck: ""
+deck: Featuring political poetry read by Etel Adnan, Amit Dwibedy, Susan Howe,
+  and Ghazal Mosadeq.
 summary: Poet Cole Swensen curates the 13th installment in a weekly series of
-  Radical Poetry Readings.
+  Radical Poetry Readings, featuring Etel Adnan, Amit Dwibedy, Susan Howe, and
+  Ghazal Mosadeq.
 people:
   - person: cole-swensen
     event_bio: Cole Swensen has published 17 volumes of poetry and a collection of
