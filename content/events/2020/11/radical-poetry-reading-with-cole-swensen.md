@@ -27,15 +27,6 @@ people:
       She is also the recipient of a PEN Oakland-Josephine Miles Award and in
       2014 was named a member of the Ordre de Chevalier des Arts et des Lettres,
       one of France's highest cultural honors.
-  - person: susan-howe
-    event_bio: "Susan Howe was born on June 10, 1937, in Boston, Massachusetts. She
-      is the author of several poetry collections, including Debths (New
-      Directions, 2017), which received the 2018 Griffin International Poetry
-      Prize, That This (New Directions, 2010), The Midnight (2003), Kidnapped
-      (2002), The Europe of Trusts (2002), Pierce-Arrow (1999), Frame
-      Structures: Early Poems 1974-1979 (1996), The Nonconformist's Memorial
-      (1993), The Europe of Trusts: Selected Poems (1990), and Singularities
-      (1990). "
   - person: amit-dwibedy
     event_bio: Biswamit Dwibedy is the author of Ozalid (1913 Press, 2010), Eirik’s
       Ocean (Portable Press, 2016) and Ancient Guest (HarperCollins, 2017). In
@@ -47,6 +38,15 @@ people:
       program–the first of its kind in India. He has an MFA in writing from Bard
       College and teaches in Bangalore at the Srishti Institute of Art, Design,
       and Technology.
+  - person: susan-howe
+    event_bio: "Susan Howe was born on June 10, 1937, in Boston, Massachusetts. She
+      is the author of several poetry collections, including Debths (New
+      Directions, 2017), which received the 2018 Griffin International Poetry
+      Prize, That This (New Directions, 2010), The Midnight (2003), Kidnapped
+      (2002), The Europe of Trusts (2002), Pierce-Arrow (1999), Frame
+      Structures: Early Poems 1974-1979 (1996), The Nonconformist's Memorial
+      (1993), The Europe of Trusts: Selected Poems (1990), and Singularities
+      (1990). "
 date: 2020-11-11 13:00:00 -0500
 end_date: 2020-11-11 14:00:00 -0500
 series: 171
