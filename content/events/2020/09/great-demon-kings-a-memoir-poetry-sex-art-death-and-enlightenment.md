@@ -6,7 +6,8 @@ summary: 'Please join Karma Books, Farrar Straus & Giroux, and the John Giorno
   Demons, and Enlightenment" by John Giorno'
 date: 2020-10-01 18:00:00 -0500
 end_date: 2020-10-01 20:00:00 -0500
-collections: []
+collections:
+  - community-listing
 event_sponsor: []
 event_organizer:
   - john-giorno-foundation
