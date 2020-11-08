@@ -1,5 +1,5 @@
 ---
-title: A Conversation with Elena del Rivero, Alahna Odoms, Kara Tucina Olidge, &
+title: A Conversation with Elena del Rivero, Alanah Odoms, Kara Tucina Olidge, &
   Andrea Andersson
 deck: Weekly conversations with activists, social justice practitioners, and
   changemakers.
@@ -17,7 +17,7 @@ registration_url: https://www.eventbrite.com/e/elena-del-rivero-alahna-odoms-kar
 event_platform:
   - zoom
 ---
-Join us for a conversation with **Elena del Rivero**, **Alahna Odoms**, **Kara Tucina Olidge**, & **Andrea Andersson** on the storied history of the 19th Amendment and universal suffrage in this country — at the intersection of feminism, and in the wake of the recent presidential election and our changing Supreme Court.
+Join us for a conversation with **Elena del Rivero**, **Alanah Odoms**, **Kara Tucina Olidge**, & **Andrea Andersson** on the storied history of the 19th Amendment and universal suffrage in this country — at the intersection of feminism, and in the wake of the recent presidential election and our changing Supreme Court.
 
 #### **About this series**
 
