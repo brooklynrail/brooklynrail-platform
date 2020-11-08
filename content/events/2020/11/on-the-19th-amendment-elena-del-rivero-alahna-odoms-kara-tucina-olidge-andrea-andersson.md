@@ -13,7 +13,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
-registration_url: https://www.eventbrite.com/e/elena-del-rivero-alahna-odoms-kara-tucina-olidge-andrea-andersson-tickets-128297817225
+registration_url: https://www.eventbrite.com/e/elena-del-rivero-alanah-odoms-kara-tucina-olidge-andrea-andersson-tickets-128297817225
 event_platform:
   - zoom
 ---
