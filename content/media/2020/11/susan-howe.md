@@ -1,5 +1,5 @@
 ---
-media: /media/files/susan-howe-by-nina-subin.jpeg
+media: /media/files/susanhowe.jpg
 title: Susan Howe
 alt: A photo of poet Susan Howe wearing glasses and looking to the side.
 caption: Nina Subin
