@@ -1,10 +1,10 @@
 ---
-title: A Conversation on Frank Auerbach
-deck: With Catherine Lampert, Jim Lewis, and Phong H. Bui
-summary: Curator, art historian, and frequent sitter for Auerbach, Catherine
-  Lampert, along with writer and novelist Jim Lewis, will join the Rail's
-  publisher and artistic director Phong H. Bui for a conversation on Frank
-  Auerbach. We'll conclude with a poetry reading.
+title: A Conversation on Frank Auerbach with Catherine Lampert, Jim Lewis, and
+  Phong H. Bui
+deck: ""
+summary: Curator and art historian Catherine Lampert and writer and novelist Jim
+  Lewis will join the Rail's publisher and artistic director Phong H. Bui for a
+  conversation on Frank Auerbach. We'll conclude with a poetry reading.
 people:
   - person: catherine-lampert
     event_bio: >
@@ -60,6 +60,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-175-a-conversation-on-frank-auerbach-tickets-128535004659
 event_platform:
   - zoom
 ---
