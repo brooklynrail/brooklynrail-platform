@@ -56,6 +56,8 @@ end_date: 2020-11-17 14:30:00 -0500
 series: 175
 collections:
   - the-new-social-environment
+event_sponsor:
+  - luhring-augustine
 event_organizer:
   - the-brooklyn-rail
 event_producer:
