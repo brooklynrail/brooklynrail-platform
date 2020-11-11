@@ -41,6 +41,26 @@ people:
 
 
       In the midst of a global pandemic that impacts Black people at disproportionate rates, and civil unrest against police brutality and systemic racism, ACLU of Louisiana aims to dismantle white supremacy in our laws and in the legal system-  and move our state toward solidarity and collective liberation.
+  - person: elena-del-rivero
+    event_bio: "Elena del Rivero (Valencia, 1949) is a multidisciplinary artist
+      known for her works on paper and paintings as well as her sculptures,
+      installations and performances. A great source of inspiration for del
+      Rivero is everyday life and experiences and symbolic meaning, especially
+      double entendres. She welcomes improvisation and spontaneity into her
+      works and practice, allowing her projects to evolve and grow with time.
+      Elena del Rivero has had solo exhibitions at institutions and galleries,
+      including: An Archive of Dust, Naves Matadero, Madrid (2019); MOTHER,
+      Travesía Cuatro, Guadalajara (2017); Chant, New Museum, New York (2011);
+      Oeil d’âme, Galería Elvira González, Madrid (2009); Home Suite, The
+      Corcoran Gallery of Art, Washington D.C. (2008); [Swi:t]Home, Performance
+      Drawings, The Drawing Center, New York (2001); Five Kept Letters..., Museo
+      Nacional Centro de Arte Reina Sofía, Madrid (1998) and With Light, Galerie
+      LeLong, New York (1993). Her works are in the public collections of the
+      Metropolitan Museum of Art, New York; Museum of Modern Art, New York; the
+      Blanton Museum, Austin; Yale University Art Gallery, New Haven; National
+      Gallery of Art, Washington D.C.; Baltimore Art Museum; Institut Valenciá
+      d’Art Modern, Valencia; Museo Reina Sofía, Madrid; and others. The artist
+      lives and works between Spain and New York."
 date: 2020-11-12 13:00:00 -0500
 end_date: 2020-11-12 14:30:00 -0500
 collections:
