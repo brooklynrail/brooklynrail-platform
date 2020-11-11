@@ -18,6 +18,16 @@ people:
       at the Bronx Museum of Art and traveling in the spring to the California
       African American Museum in Los Angeles."
     person: andrea-andersson-1
+  - person: kara-tucina-olidge
+    event_bio: Kara Tucina Olidge, Ph.D. is a scholar, arts and educational
+      administrator and the Executive Director of the Amistad Research Center at
+      Tulane University. She is the former Deputy Director of the Schomburg
+      Center for Research in Black Culture, a branch of the New York Public
+      Library based in Harlem. Prior to joining the Schomburg in 2012, Olidge
+      was the Director of the Hetrick-Martin Institute, a nonprofit organization
+      serving lesbian, gay, bisexual and transgender youth in Newark, New
+      Jersey. Her scholarly work focuses on the intersection of art, critical
+      cosmopolitanism and community activism.
 date: 2020-11-12 13:00:00 -0500
 end_date: 2020-11-12 14:30:00 -0500
 collections:
