@@ -5,6 +5,19 @@ deck: Weekly conversations with activists, social justice practitioners, and
   changemakers.
 summary: "Please join us for a conversation on the storied history of the 19th
   Amendment and universal suffrage in this country. "
+people:
+  - event_bio: "Andrea Andersson serves as Founding Director and Chief Curator of
+      Rivers Institute for Contemporary Art & Thought, a multi-platform
+      organization based in New Orleans. As a writer and curator, she has
+      organized internationally touring exhibitions; she coedits a series of
+      artists’ books together with Siglio Press including Adam Pendleton:
+      Becoming Imperceptible, Cecilia Vicuña: About to Happen, and Hinge
+      Pictures: Eight Women Artists Occupy the Third Dimension. She most
+      recently coedited Sanford Biggers: Codeswitch (Yale UP) with Antonio
+      Sergio Bessa, which accompanies the eponymous exhibition currently on view
+      at the Bronx Museum of Art and traveling in the spring to the California
+      African American Museum in Los Angeles."
+    person: andrea-andersson-1
 date: 2020-11-12 13:00:00 -0500
 end_date: 2020-11-12 14:30:00 -0500
 collections:
