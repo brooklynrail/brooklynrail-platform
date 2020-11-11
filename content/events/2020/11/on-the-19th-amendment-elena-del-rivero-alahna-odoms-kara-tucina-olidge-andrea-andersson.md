@@ -28,6 +28,19 @@ people:
       serving lesbian, gay, bisexual and transgender youth in Newark, New
       Jersey. Her scholarly work focuses on the intersection of art, critical
       cosmopolitanism and community activism.
+  - person: alanah-odoms
+    event_bio: >-
+      Alanah Odoms is a civil rights leader, mother, and a professional and
+      spiritual support to countless activists across Louisiana and beyond. As
+      the first Black woman to lead the ACLU of Louisiana in its 65 year
+      history, she has answered the call to defend the Constitution and the Bill
+      of Rights by challenging systemic racial and gender injustice – vestiges
+      of slavery displayed most prominently in Louisiana’s epidemic of mass
+      incarceration, immigrant detention and deportation, and racist policing
+      across the state. 
+
+
+      In the midst of a global pandemic that impacts Black people at disproportionate rates, and civil unrest against police brutality and systemic racism, ACLU of Louisiana aims to dismantle white supremacy in our laws and in the legal system-  and move our state toward solidarity and collective liberation.
 date: 2020-11-12 13:00:00 -0500
 end_date: 2020-11-12 14:30:00 -0500
 collections:
