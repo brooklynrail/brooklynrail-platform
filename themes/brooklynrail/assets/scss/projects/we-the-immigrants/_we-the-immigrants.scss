@@ -39,6 +39,9 @@ main{
       @include u-padding-bottom(0);
       @include u-font('sans', 'xl');
       @include u-text('light');
+      a{
+        @include u-text('black');
+      }
     }
   }
 
@@ -71,6 +74,9 @@ main{
         @include at-media('tablet-lg') {
             @include u-font('sans', 'lg');
             @include u-text('light');
+        }
+        a{
+          @include u-text('black');
         }
     }
 }
