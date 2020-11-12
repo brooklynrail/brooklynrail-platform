@@ -63,17 +63,13 @@ main{
   }
 }
 .content{
-    @include u-padding-y(8);
-    @include at-media('tablet-lg') {
-        @include u-padding-y(10);
-    }
-    // @include u-border-y(1,'solid', 'black');
+    @include u-margin-bottom(4);
     > p{
-        @include u-font('sans', 'lg');
+        @include u-font('sans', 'md');
         @include u-text('normal');
         @include u-line-height('sans', 3);
         @include at-media('tablet-lg') {
-            @include u-font('sans', 'xl');
+            @include u-font('sans', 'lg');
             @include u-text('light');
         }
     }
