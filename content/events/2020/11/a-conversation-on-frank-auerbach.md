@@ -60,6 +60,7 @@ event_sponsor:
   - luhring-augustine
 event_organizer:
   - the-brooklyn-rail
+  - luhring-augustine
 event_producer:
   - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-175-a-conversation-on-frank-auerbach-tickets-128535004659
