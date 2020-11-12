@@ -10,8 +10,8 @@ summary: The _Rail_ is undertaking an urgent project aimed at emphasizing
 type: projects/we-the-immigrants
 nav:
   project:
-    - name: Submit
-      url: https://airtable.com/shrtYBTkppvsYILWj
     - name: About
       url: about
+    - name: Submit
+      url: https://airtable.com/shrtYBTkppvsYILWj
 ---
