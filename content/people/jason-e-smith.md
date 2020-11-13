@@ -8,5 +8,7 @@ short_bio: Jason E. Smith writes about contemporary art, philosophy, and
   section. He is currently finishing two books, one on automation, the other on
   the theory of the "party" in political struggles. He is currently chair of the
   Graduate Art department at Art Center College of Design.
+portraits:
+  - media: 2020/11/jason-e-smith
 rail_contributor_url: https://brooklynrail.org/contributor/jason-e-smith
 ---
