@@ -25,6 +25,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/new-social-environment-176-radical-poetry-with-adjua-gargi-nzinga-greaves-tickets-129031106513
 event_platform:
   - zoom
 ---
