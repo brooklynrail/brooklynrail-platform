@@ -1,5 +1,5 @@
 ---
-title: Fundraiser for the Bay View Newspaper
+title: Fundraiser for the Bay View Newspaper (Day 1)
 deck: Day 1
 summary: Celebrate Bayview Hunters Point and the Bay View National Black Newspaper!
 date: 2020-11-20 21:00:00 -0500
