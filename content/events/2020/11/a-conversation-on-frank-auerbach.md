@@ -51,6 +51,12 @@ people:
       first U.S. retrospective of Jonas Mekas, and Occupy Industry City: Artists
       Need to Create on the Same Scale that Society Has the Capacity to Destroy,
       Year 3.
+poets:
+  - person: shelley-marlow
+    event_bio: "Shelley Marlow wrote Two Augusts In a Row In a Row, art editions,
+      and the new manuscript The Wind Blew Through Like a Chorus of Ghosts.
+      Marlow is a recipient of an Acker Award in writing. Marlow served as prose
+      editor of The Henry Miller Library’s literary journal. "
 date: 2020-11-17 13:00:00 -0500
 end_date: 2020-11-17 14:30:00 -0500
 series: 175
