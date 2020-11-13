@@ -13,6 +13,7 @@ event_organizer:
   - luhring-augustine
 event_producer:
   - luhring-augustine
+registration_url: "[rsvp@luhringaugustine.com](mailto:rsvp@luhringaugustine.com)"
 event_platform:
   - zoom
 ---
