@@ -3,7 +3,8 @@ title: Jason E. Smith with Paul Mattick
 deck: Weekly conversations with activists, social justice practitioners, and
   changemakers.
 summary: "Please join us for a conversation between author Jason E. Smith and
-  Rail Field Notes editor Paul Mattick. We'll conclude with a poetry reading. "
+  Rail Field Notes editor Paul Mattick. We'll conclude with a poetry reading
+  from Brendan Joyce. "
 people:
   - person: jason-e-smith
     event_bio: Jason E. Smith writes about contemporary art, philosophy, and
