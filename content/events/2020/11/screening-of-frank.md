@@ -1,6 +1,6 @@
 ---
 title: Screening of FRANK
-deck: A documentary in which frank Auerbach charts his own artistic history
+deck: A documentary in which Frank Auerbach charts his own artistic history
   through 70 years of work.
 summary: Join Luhring Augustine Gallery for a special online screening of the
   documentary *FRANK*, in which Auerbach charts his own artistic history through
