@@ -21,6 +21,10 @@ people:
       are Theory as Critique: Essays on Capital (Haymarket Books, 2019) and
       Business as Usual: The Economic Crisis and the Failure of Capitalism
       (Reaktion Books, 2011)."
+poets:
+  - person: brendan-joyce
+    event_bio: Brendan Joyce is an unemployed worker, the co-organizer of Grieveland
+      and the author of Character Limit and Love & Solidarity.
 date: 2020-11-19 13:00:00 -0500
 end_date: 2020-11-19 14:30:00 -0500
 collections:
