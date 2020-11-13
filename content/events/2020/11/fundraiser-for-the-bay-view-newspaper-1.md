@@ -13,7 +13,7 @@ event_producer:
 registration_url: https://www.eventbrite.com/e/day-2-fundraiser-for-the-bay-view-newspaper-tickets-128293087077
 event_platform:
   - zoom
-event_platform_url: https://zoom.us/s/93126054358?pwd=RlV1MGdtVjBkRkRGb2E3bGVzMjlqdz09#success
+event_platform_url: ""
 ---
 **[The San Francisco Bay View National Black Newspaper](https://sfbayview.com)**, founded in 1976, is a communications network for the Black community worldwide. Find out more on their website: <https://sfbayview.com/about/>
 
