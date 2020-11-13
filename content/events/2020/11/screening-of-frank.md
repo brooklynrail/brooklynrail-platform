@@ -17,7 +17,7 @@ registration_url: "[rsvp@luhringaugustine.com](mailto:rsvp@luhringaugustine.com)
 event_platform:
   - zoom
 ---
-{{< image media="2020/11/frank-auerbach-head-of-jake" size="md" >}}
+{{< image media="2020/11/frank-auerbach-head-of-jake" size="sm" >}}
 
 The following virtual programming has been organized in conjunction with Luhring Augustine's exhibition *Frank Auerbach: Selected Works, 1978-2016:* <https://www.luhringaugustine.com/exhibitions/frank-auerbach-selected-works-1978-2016>
 
