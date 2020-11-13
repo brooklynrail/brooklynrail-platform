@@ -1,8 +1,9 @@
 ---
 title: Radical Poetry Reading with Adjua Gargi Nzinga Greaves
 deck: ""
-summary: Poet Adjua Gargi Nzinga Greaves curates the 14th Radical Poetry
-  Reading, featuring political poetry read by four friends.
+summary: Poet Adjua Gargi Nzinga Greaves curates the 14th installment in a
+  weekly series of Radical Poetry Reading, featuring political poetry read by
+  four friends.
 people:
   - person: adjua-greaves
     event_bio: "Adjua Gargi Nzinga Greaves (New York City, b. 1980) writes
