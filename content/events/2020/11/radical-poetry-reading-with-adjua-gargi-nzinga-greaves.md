@@ -17,7 +17,7 @@ people:
       Florxal Review."
 date: 2020-11-18 13:00:00 -0500
 end_date: 2020-11-18 14:00:00 -0500
-series: 174
+series: 176
 collections:
   - the-new-social-environment
 event_organizer:
