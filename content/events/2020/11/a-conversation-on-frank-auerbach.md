@@ -4,7 +4,8 @@ title: A Conversation on Frank Auerbach with Catherine Lampert, Jim Lewis, and
 deck: ""
 summary: Curator and art historian Catherine Lampert and writer and novelist Jim
   Lewis will join the Rail's publisher and artistic director Phong H. Bui for a
-  conversation on Frank Auerbach. We'll conclude with a poetry reading.
+  conversation on Frank Auerbach. We'll conclude with a poetry reading from
+  Alicia Ostriker.
 people:
   - person: catherine-lampert
     event_bio: >
@@ -52,11 +53,11 @@ people:
       Need to Create on the Same Scale that Society Has the Capacity to Destroy,
       Year 3.
 poets:
-  - person: shelley-marlow
-    event_bio: "Shelley Marlow wrote Two Augusts In a Row In a Row, art editions,
-      and the new manuscript The Wind Blew Through Like a Chorus of Ghosts.
-      Marlow is a recipient of an Acker Award in writing. Marlow served as prose
-      editor of The Henry Miller Library’s literary journal. "
+  - person: alicia-ostriker
+    event_bio: "Alicia Ostriker is a major American poet and critic. Her most recent
+      collections of poems are Waiting for the Light and The Volcano and After:
+      Selected and New Poems 2002-2019. She is currently the New York State Poet
+      Laureate and a Chancellor of the Academy of American Poets."
 date: 2020-11-17 13:00:00 -0500
 end_date: 2020-11-17 14:30:00 -0500
 series: 175
