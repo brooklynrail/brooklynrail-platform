@@ -1,5 +1,5 @@
 ---
-title: Guest Critic Panel with Amanda Gluibizzi
+title: Guest Critic Panel with Amanda Gluibizzi & Friends
 summary: Please join us for a discussion on Amanda Gluibizzi's November Guest
   Critic page, "On Edge(s)" with Rail managing editor Charles Schultz. We'll
   conclude with a poetry reading from Steve Benson.
