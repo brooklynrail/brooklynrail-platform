@@ -1,7 +1,8 @@
 ---
 title: Brad Kahlhamer with Susan Harris
 summary: Artist Brad Kahlhamer will be in conversation with scholar, curator,
-  and Rail board member Susan Harris. We'll conclude with a poetry reading.
+  and Rail board member Susan Harris. We'll conclude with a poetry reading from
+  Aria Aber.
 people:
   - person: brad-kahlhamer
     event_bio: Brad Kahlhamer is an artist known for his multi-media practice,
@@ -21,6 +22,12 @@ people:
       Association of Art Critics, United States section (AICA-USA). She is an
       independent scholar and curator. Her most recent project is Managing
       Editor, Unfinished Memories: 30 Years of Exit Art, Steidl, 2016."
+poets:
+  - person: aria-aber
+    event_bio: Aria Aber is the author of Hard Damage. She completed her MFA at NYU
+      and holds fellowships from Kundiman, Dickinson House, and the Wisconsin
+      Institute of Creative Writing. Her poems have appeared in the New Yorker,
+      New Republic, Kenyon Review, POETRY, and elsewhere.
 date: 2020-11-16 13:00:00 -0500
 end_date: 2020-11-16 14:30:00 -0500
 series: 174
