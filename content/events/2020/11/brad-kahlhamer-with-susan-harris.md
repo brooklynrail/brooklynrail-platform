@@ -18,10 +18,23 @@ people:
       Art Museum, the Hood Museum of Art, and the San Francisco Museum of Modern
       Art among others.
   - person: susan-harris
-    event_bio: "Susan Harris is co-president of the Board of the International
-      Association of Art Critics, United States section (AICA-USA). She is an
-      independent scholar and curator. Her most recent project is Managing
-      Editor, Unfinished Memories: 30 Years of Exit Art, Steidl, 2016."
+    event_bio: >
+      Susan Harris is an independent scholar and curator with a particular focus
+      on drawing and women artists. She is a contributor to and Board Member of
+      the Rail. She was the Rail Guest Critic of “Recalling the Saints”
+      (November 2016) and Managing Editor of Unfinished Memories: 30 Years of
+      Exit Art. She is co-president of the Board of the International
+      Association of Art Critics, United States section (AICA-USA). Exhibition
+      she has curated include Toxic Beauty: The Art of Frank Moore at The Grey
+      Gallery in New York (co-curated with Lynn Gumpert); Pat Steir: Drawing Out
+      of Line, RISD Museum in Providence, Rhode Island and the Neuberger Museum
+      in Harrison, New York (co-curated with Jan Howard, Curator of Prints,
+      Drawings and Photographs at the RISD Museum); Richard Tuttle: Memento,
+      Museu de Arte Contempornea de Serralves in Porto and cENTER at Centro
+      Galego de Arte Contemporánea (CGAC) in Santiago de Campostela, Spain;
+      Nancy Spero: Weighing the Heart Against a Feather of Truth, CGAC, Spain;
+      Jim Hodges: This Line To You, CGAC, Spain; Venus Drawn Out: 20th Century
+      Drawings by Great Women Artists, The Armory Show, New York; among others. 
 poets:
   - person: aria-aber
     event_bio: Aria Aber is the author of Hard Damage. She completed her MFA at NYU
