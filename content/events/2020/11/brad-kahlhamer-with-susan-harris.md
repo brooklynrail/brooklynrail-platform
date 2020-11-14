@@ -30,11 +30,12 @@ people:
       of Line, RISD Museum in Providence, Rhode Island and the Neuberger Museum
       in Harrison, New York (co-curated with Jan Howard, Curator of Prints,
       Drawings and Photographs at the RISD Museum); Richard Tuttle: Memento,
-      Museu de Arte Contempornea de Serralves in Porto and cENTER at Centro
-      Galego de Arte Contemporánea (CGAC) in Santiago de Campostela, Spain;
-      Nancy Spero: Weighing the Heart Against a Feather of Truth, CGAC, Spain;
-      Jim Hodges: This Line To You, CGAC, Spain; Venus Drawn Out: 20th Century
-      Drawings by Great Women Artists, The Armory Show, New York; among others. 
+      Museu de Arte Contemporânea de Serralves in Porto, Portugal and cENTER at
+      Centro Galego de Arte Contemporánea (CGAC) in Santiago de Compostela,
+      Spain; Nancy Spero: Weighing the Heart Against a Feather of Truth, CGAC,
+      Spain; Jim Hodges: This Line To You, CGAC, Spain; Venus Drawn Out: 20th
+      Century Drawings by Great Women Artists, The Armory Show, New York; among
+      others. 
 poets:
   - person: aria-aber
     event_bio: Aria Aber is the author of Hard Damage. She completed her MFA at NYU
