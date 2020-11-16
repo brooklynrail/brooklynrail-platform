@@ -34,6 +34,9 @@ people:
       and spectacular at the same damn time.
   - person: david-lindsay
     event_bio: David Lindsay is a poet.
+  - person: basie-allen-2
+    event_bio: Basie Allen is a poet and visual artist who lives and also is from
+      New York City
 date: 2020-11-18 13:00:00 -0500
 end_date: 2020-11-18 14:00:00 -0500
 series: 176
