@@ -70,6 +70,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: pNT6qi_4Z3I
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-173-monuments-now-tickets-128050515539
 event_platform:
   - zoom
