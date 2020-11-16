@@ -1,9 +1,10 @@
 ---
 title: Radical Poetry Reading with Adjua Gargi Nzinga Greaves
-deck: ""
+deck: Featuring political poetry read by xtian w, Sasha Banks, David Lindsay,
+  and Basie Allen.
 summary: Poet Adjua Gargi Nzinga Greaves curates the 14th installment in a
-  weekly series of Radical Poetry Reading, featuring political poetry read by
-  four friends.
+  weekly series of Radical Poetry Reading, featuring xtian w, Sasha Banks, David
+  Lindsay, and Basie Allen.
 people:
   - person: adjua-greaves
     event_bio: "Adjua Gargi Nzinga Greaves (New York City, b. 1980) writes
