@@ -1,5 +1,5 @@
 ---
-media: /media/files/basie.jpg
+media: ""
 title: Basie Allen
 alt: "A photo of poet Basie Allen. "
 caption: Courtesy Basie Allen
