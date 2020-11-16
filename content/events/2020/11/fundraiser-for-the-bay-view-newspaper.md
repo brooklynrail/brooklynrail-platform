@@ -19,7 +19,7 @@ event_platform_url: ""
 
 ## About this Event
 
-Come on out to **DAY 1** of the Bay View's incredible fundraiser and celebration to continue on the legacy of our historic National Black Newspaper in our beautiful neighborhood gathering space, **Mendell Plaza**. Tune in on Zoom: **[tinyurl.com/bayview1120](**tinyurl.com/bayview1120**)**. Visit [www.sfbayview.com](www.sfbayview.com) for details!
+Come on out to **DAY 1** of the Bay View's incredible fundraiser and celebration to continue on the legacy of our historic National Black Newspaper in our beautiful neighborhood gathering space, **Mendell Plaza**. Tune in on Zoom: **\[tinyurl.com/bayview1120](**tinyurl.com/bayview1120**)**. Visit [www.sfbayview.com](www.sfbayview.com) for details!
 
 Friday, Nov. 20, includes a lineup of musicians, speakers and food – all local, all multicultural, all love. This event will feature:
 
@@ -40,5 +40,7 @@ Friday, Nov. 20, includes a lineup of musicians, speakers and food – all local
 **Dat Boi Bpoppin, aka Branden Powell**, Bayview resident and hip hop dancer
 
 **Keli Lord**, CCSF's African American Studies Department Ambassador and Bayview resident
+
+BBQ dinner will be provided by Mother Brown's Dining Room.
 
 AAAND: A pop-up art auction!
