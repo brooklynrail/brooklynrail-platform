@@ -36,3 +36,5 @@ Saturday, Nov. 21, includes a lineup of restaurants and speakers from Bayview Hu
 **April Spears** of Cafe Envy & Auntie April's on running Black-owned businesses in Bayview Hunters Point.
 
 Food tasting & exploring: BBQ at Frisco Fried, cocktails at the Jazz Room and pizza at Fox & Lion Bakery.
+
+African and Meditteranean food will be provided by Radio Africa Cafe & Kitchen.
