@@ -17,6 +17,26 @@ people:
       for Wendy’s Subway, and an artist-in-residence at Rauschenberg Residency,
       she is currently based in New York City where she is Young Mother of The
       Florxal Review."
+  - person: xtian-w
+    event_bio: xtian w is a trans femme writer and performer. Their poems & essays
+      appear in [PANK], No, Dear, Bone Bouquet, Jaded Ibis, & Hematopoiesis
+      Press, among others. Current obsessions include—though aren’t limited
+      to—Medusa, hysteria, Trans sensorialities, boundaries, & houseplants. An
+      Aquarius sun / Virgo rising / Capricorn moon, xtian is an MFA candidate in
+      Poetry at NYU & paints their nails in Brooklyn.
+  - person: sasha-banks
+    event_bio: Sasha Banks received her MFA from Pratt Institute in Brooklyn, NY.
+      She is a Pushcart-nominated poet whose work appears in RHINO, The
+      Collagist, Poor Claudia, Kinfolks Quarterly, PBS Newshour, B O D Y
+      Literature, Austin IPF, OBSIDIAN, and has been performed in Tulane
+      University’s Vagina Monologues. Sasha is the creator of Poets for
+      Ferguson. She lives in North Carolina where she is learning to be Black
+      and spectacular at the same damn time.
+  - person: david-lindsay
+    event_bio: David Lindsay is a poet.
+  - person: basie-allen-2
+    event_bio: Basie Allen is a poet and visual artist who lives and also is from
+      New York City
 date: 2020-11-18 13:00:00 -0500
 end_date: 2020-11-18 14:00:00 -0500
 series: 176
