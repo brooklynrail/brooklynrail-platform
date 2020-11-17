@@ -12,5 +12,7 @@ short_bio: "Ashley James joined the curatorial department of the Guggenheim in
   Art Gallery. She has contributed essays and research for books, magazines, and
   catalogues, including publications on Charles White, Palmer Hayden, and
   Howardena Pindell. "
+portraits:
+  - media: 2020/11/ashley-james
 instagram: ohashuhlee
 ---
