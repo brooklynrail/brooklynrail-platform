@@ -26,6 +26,12 @@ people:
       (2017). Casteel is an Assistant Professor of Painting in the Department of
       Arts, Culture, and Media at Rutgers University - Newark. The artist lives
       and works in New York."
+    related_links:
+      - text: "Explore Jordan Casteel's current solo exhibition at the New Museum:
+          Within Reach"
+        url: https://www.newmuseum.org/exhibitions/view/jordan-casteel-within-reach
+      - text: Explore Jordan Casteel's past exhibitions at Marianne Boesky
+        url: https://caseykaplangallery.com/artists/casteel/
   - person: ashley-james
     event_bio: "Ashley James joined the curatorial department of the Guggenheim in
       2019. Her work merges curatorial practice with an academic background
