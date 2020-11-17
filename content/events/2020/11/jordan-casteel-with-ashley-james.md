@@ -26,6 +26,28 @@ people:
       (2017). Casteel is an Assistant Professor of Painting in the Department of
       Arts, Culture, and Media at Rutgers University - Newark. The artist lives
       and works in New York."
+  - person: ashley-james
+    event_bio: "Ashley James joined the curatorial department of the Guggenheim in
+      2019. Her work merges curatorial practice with an academic background
+      rooted in African American studies, English literature, and women’s,
+      gender, and sexuality studies. Prior to joining the Guggenheim, James
+      served as assistant curator of contemporary art at the Brooklyn Museum,
+      where she was the lead curator for the museum’s presentation of Soul of a
+      Nation: Art in the Age of Black Power (2018–19), organized Eric N. Mack:
+      Lemme walk across the room (2019), and is co-curating the forthcoming John
+      Edmonds: A Sidelong Glance (2020). James also served as a Mellon
+      Curatorial Fellow in Drawing and Prints at the Museum of Modern Art, where
+      her work focused on the groundbreaking retrospectives of Adrian Piper
+      (2018) and Charles White (2018–19), and has held positions at the Studio
+      Museum in Harlem and at the Yale University Art Gallery, where she
+      co-organized the exhibition Odd Volumes: Book Art from the Allan Chasanoff
+      Collection (2015). She has contributed essays and research for books,
+      magazines, and catalogues, including publications on Charles White, Palmer
+      Hayden, and Howardena Pindell. James holds a BA from Columbia University
+      and an MA from Yale University, where she is completing a Ph.D. in English
+      literature, African American Studies, and women’s, gender, and sexuality
+      studies, with a dissertation that reorients discourses of Black
+      representation."
 date: 2020-11-30 13:00:00 -0500
 end_date: 2020-11-30 14:30:00 -0500
 series: 183
