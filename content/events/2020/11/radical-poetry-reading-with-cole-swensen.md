@@ -55,6 +55,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: Jt4z5rLQfbM
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-171-radical-poetry-with-cole-swensen-tickets-128201172157
 event_platform:
   - zoom
