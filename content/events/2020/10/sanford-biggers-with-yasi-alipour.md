@@ -1,8 +1,8 @@
 ---
 title: Sanford Biggers with Yasi Alipour
 summary: Artist Sanford Biggers will be in conversation with artist and Rail
-  contributor Yasi Alipour. We'll conclude with a poetry reading from Louis
-  Bury.
+  contributor Yasi Alipour. We'll conclude with a poetry reading from Isabel
+  Sobral.
 people:
   - person: sanford-biggers
     event_bio: Sanford Biggers (b. 1970) was raised in Los Angeles and currently
@@ -33,15 +33,10 @@ people:
       artist/writer/folder who currently lives in Brooklyn and wonders about
       paper, politics, and performance. She is a teacher at Columbia University
       and SVA and is currently a resident at the Sharpe Walentas Studio program.
-poets:
-  - person: louis-bury
-    event_bio: Louis Bury is the author of "Exercises in Criticism," which uses
-      rules and procedures to write poetic criticism about literary constraint.
-      He is Assistant Professor of English at Hostos Community College, CUNY,
-      and writes regularly about visual art for Hyperallergic and BOMB.
-date: 2020-10-16 13:00:00 -0500
-end_date: 2020-10-16 14:00:00 -0500
-series: 153
+poets: []
+date: 2020-11-23 13:00:00 -0500
+end_date: 2020-11-23 14:00:00 -0500
+series: 179
 collections:
   - the-new-social-environment
 event_sponsor:
@@ -50,7 +45,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
-registration_url: https://www.eventbrite.com/e/the-new-social-environment-153-sanford-biggers-tickets-124334617187
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-179-sanford-biggers-tickets-129520636711
 event_platform:
   - zoom
 ---
