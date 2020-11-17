@@ -33,7 +33,9 @@ people:
       Ferguson. She lives in North Carolina where she is learning to be Black
       and spectacular at the same damn time.
   - person: david-lindsay
-    event_bio: David Lindsay is a poet.
+    event_bio: "David Lindsay is a poet and a visual artist. Currently a New York
+      resident, David Lindsay’s work explores the edge of our built environment
+      and its flowers, and where to go from there. "
   - person: basie-allen-2
     event_bio: Basie Allen is a poet and visual artist who is from and also is lives
       in New York City
