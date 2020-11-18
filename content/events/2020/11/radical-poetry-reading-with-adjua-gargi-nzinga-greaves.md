@@ -25,13 +25,10 @@ people:
       Aquarius sun / Virgo rising / Capricorn moon, xtian is an MFA candidate in
       Poetry at NYU & paints their nails in Brooklyn.
   - person: sasha-banks
-    event_bio: Sasha Banks received her MFA from Pratt Institute in Brooklyn, NY.
-      She is a Pushcart-nominated poet whose work appears in RHINO, The
-      Collagist, Poor Claudia, Kinfolks Quarterly, PBS Newshour, B O D Y
-      Literature, Austin IPF, OBSIDIAN, and has been performed in Tulane
-      University’s Vagina Monologues. Sasha is the creator of Poets for
-      Ferguson. She lives in North Carolina where she is learning to be Black
-      and spectacular at the same damn time.
+    event_bio: "Sasha Banks is a poet and educator whose work has appeared in Vanity
+      Fair, PBS Newshour, Poor Claudia, The Fanzine, Obsidian, and other
+      publications. Sasha is a 2019 Rhode Island Writer Colony Fellow. She is
+      the author of america, MINE and received her MFA at Pratt Institute. "
   - person: david-lindsay
     event_bio: "David Lindsay is a poet and a visual artist. Currently a New York
       resident, David Lindsay’s work explores the edge of our built environment
