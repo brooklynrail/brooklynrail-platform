@@ -30,7 +30,7 @@ people:
       - text: "Explore Jordan Casteel's current solo exhibition at the New Museum:
           Within Reach"
         url: https://www.newmuseum.org/exhibitions/view/jordan-casteel-within-reach
-      - text: Explore Jordan Casteel's past exhibitions at Marianne Boesky
+      - text: Explore Jordan Casteel's past exhibitions at Casey Kaplan Gallery
         url: https://caseykaplangallery.com/artists/casteel/
   - person: ashley-james
     event_bio: "Ashley James joined the curatorial department of the Guggenheim in
