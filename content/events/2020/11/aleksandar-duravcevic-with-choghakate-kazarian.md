@@ -1,6 +1,7 @@
 ---
 title: Aleksandar Duravcevic with Choghakate Kazarian
-summary: Aleksandar Duravcevic with Choghakate Kazarian. We'll conclude with a
+summary: Artist Aleksandar Duravcevic will be in conversation with curator, art
+  historian, and Rail guest critic Choghakate Kazarian. We'll conclude with a
   poetry reading.
 people:
   - person: aleksandar-duravcevic
@@ -39,6 +40,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-184-aleksandar-duravcevic-tickets-129763798013
 event_platform:
   - zoom
 ---
