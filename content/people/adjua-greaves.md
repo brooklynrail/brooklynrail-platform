@@ -14,5 +14,6 @@ short_bio: "Adjua Gargi Nzinga Greaves (New York City, b. 1980) writes
 portraits:
   - media: 2020/09/adjua-gargi-nzinga-greaves
 rail_contributor_url: https://brooklynrail.org/contributor/Adjua-Gargi-Nzinga-Greaves
-instagram: terrabot
+website: https://www.agng.info/
+instagram: ""
 ---
