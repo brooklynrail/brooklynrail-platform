@@ -1,5 +1,5 @@
 ---
-name: Dr. Douglas Dreishpoon
+name: Douglas Dreishpoon
 first_name: Douglas
 last_name: Dreishpoon
 short_bio: Dr. Douglas Dreishpoon, Chief Curator Emeritus at the Albright-Knox,
