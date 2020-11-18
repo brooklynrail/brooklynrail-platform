@@ -11,5 +11,7 @@ short_bio: Jeanne Silverthorne (New York) is a sculptor whose process is almost
   been buried in the rubble, bringing the concealed to light suggests “deep
   storage” and many works address what is invisible or packed away. Since 2007
   she has been making a functional rubber crate for every sculpture.
+portraits:
+  - media: 2020/11/jeanne-silverthorne
 website: http://www.jeannesilverthorne.org
 ---
