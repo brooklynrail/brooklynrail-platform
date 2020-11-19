@@ -1,7 +1,8 @@
 ---
 title: Jordan Casteel with Ashley James
 summary: Painter Jordan Casteel will be in conversation with curator Ashley
-  James of the Guggenheim. We'll conclude with a poetry reading.
+  James of the Guggenheim. We'll conclude with a poetry reading from Asiya
+  Wadud.
 people:
   - person: jordan-casteel
     event_bio: "Jordan Casteel (b. 1989, Denver, CO) has rooted her practice in
@@ -54,6 +55,19 @@ people:
       literature, African American Studies, and women’s, gender, and sexuality
       studies, with a dissertation that reorients discourses of Black
       representation."
+poets:
+  - person: asiya-wadud
+    event_bio: Asiya Wadud teaches poetry at Saint Ann’s School and leads an English
+      conversation group for new immigrants at the BPL. Asiya is a member of the
+      Belladonna Collaborative, a Lower Manhattan Cultural Council
+      Artist-in-Residence, and a writer-in-residence at Danspace Project.
+    related_links:
+      - text: day pulls down the sky / a filament in gold leaf
+        url: https://www.spdbooks.org/Products/9781733927109/day-pulls-down-the-sky--a-filament-in-gold-leaf.aspx
+      - text: "No Knowledge Is Complete Until It Passes Through My Body "
+        url: https://nightboat.org/book/no-knowledge-is-complete-until-it-passes-through-my-body/
+      - text: Crosslight for Youngbird
+        url: https://nightboat.org/book/crosslight-for-youngbird/
 date: 2020-11-30 13:00:00 -0500
 end_date: 2020-11-30 14:30:00 -0500
 series: 183
