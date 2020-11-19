@@ -7,7 +7,7 @@ type: projects/we-the-immigrants
 nav:
   project:
     - name: About
-      url: about
+      url: /projects/we-the-immigrants/about
     - name: Submit
       url: https://airtable.com/shrtYBTkppvsYILWj
     - name: Donate
