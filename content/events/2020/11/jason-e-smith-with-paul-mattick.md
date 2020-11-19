@@ -16,7 +16,9 @@ people:
       of Design.
     related_links:
       - url: http://www.reaktionbooks.co.uk/display.asp?ISB=9781789143188&sf1=series&st1=%27Field+Notes%27&ds=Field+Notes&m=3&dc=5
-        text: Smart Machines and Service Work
+        text: Smart Machines and Service Work (UK readers)
+      - text: "Smart Machines and Service Work (US readers) "
+        url: https://press.uchicago.edu/ucp/books/book/distributed/S/bo70564105.html
   - person: paul-mattick
     event_bio: "Paul Mattick is the Rail’s Field Notes editor. His most recent books
       are Theory as Critique: Essays on Capital (Haymarket Books, 2019) and
