@@ -9,7 +9,7 @@ nav:
     - name: All people
       url: /projects/we-the-immigrants/
     - name: About
-      url: about
+      url: /projects/we-the-immigrants/about
     - name: Submit
       url: https://airtable.com/shrtYBTkppvsYILWj
     - name: Donate
