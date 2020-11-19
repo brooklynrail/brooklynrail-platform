@@ -14,4 +14,4 @@ event_producer:
 event_platform:
   - zoom
 ---
-We'll be screening Raymond Pettibon and Toni Morrison from David Koh. Tune in on Zoom for the link and password!
+We'll be screening films from Raymond Pettibon and Toni Morrison from film producer David Koh. Tune in on Zoom for the link and password!
