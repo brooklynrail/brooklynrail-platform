@@ -35,7 +35,7 @@ main{
       @include u-text('center');
       @include u-text('light');
     }
-    p.deck{
+    .deck{
       @include u-padding-bottom(0);
       @include u-font('sans', 'xl');
       @include u-text('light');
