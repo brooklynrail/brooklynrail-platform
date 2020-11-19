@@ -79,6 +79,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-183-jordan-casteel-tickets-129608495499
 event_platform:
   - zoom
 ---
