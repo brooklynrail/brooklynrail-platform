@@ -7,7 +7,7 @@
 ========================================
 ========================================
 ----------------------------------------
-USWDS 2.7.0
+USWDS 2.8.1
 ----------------------------------------
 GENERAL SETTINGS
 ----------------------------------------
@@ -25,7 +25,7 @@ Relative image file path
 ----------------------------------------
 */
 
-$theme-image-path: "../img/uswds";
+$theme-image-path: "/material/img/uswds";
 
 /*
 ----------------------------------------
@@ -50,12 +50,12 @@ Namespace
 $theme-namespace: (
   "grid": (
     namespace: "grid-",
-    output: true
+    output: true,
   ),
   "utility": (
     namespace: "u-",
-    output: false
-  )
+    output: false,
+  ),
 );
 
 /*

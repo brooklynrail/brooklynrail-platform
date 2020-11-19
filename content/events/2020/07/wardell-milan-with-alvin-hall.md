@@ -2,7 +2,7 @@
 title: Wardell Milan with Alvin Hall
 summary: Artist Wardell Milan will discuss their body of work and creative life
   with writer, collector, educator, radio broadcaster, and Rail guest critic,
-  Alvin Hall. We'll close with a poetry reading from Adjua Greaves.
+  Alvin Hall. We'll close with a poetry reading from Adjua Gargi Nzinga Greaves.
 people:
   - person: wardell-milan
     event_bio: Wardell Milan is a visual artist who makes works on paper, painting,
@@ -38,6 +38,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: 1ocV_W8-eZw
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-87-wardell-milan-tickets-113096061364
 event_platform:
   - zoom

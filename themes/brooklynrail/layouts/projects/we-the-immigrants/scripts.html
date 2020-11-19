@@ -1,0 +1,19 @@
+<script src="https://code.jquery.com/jquery-3.4.1.min.js" crossorigin="anonymous"></script>
+<script type="text/javascript">
+
+  jQuery(document).ready(function($) {
+    $('.letter').each(function(){
+			$(this).css('background-color', letter_random_color());
+		});
+    function letter_random_color(){
+      var colors = ['#E6564E', '#F08EFF', '#715639', '#FCB657', '#5E74E1', '#0088AC', '#9898D4', '#599E71'];
+      return random_color = colors[Math.floor(Math.random() * colors.length)];
+    }
+  });
+</script>
+
+<script async="true" src="{{- "material/dist/uswds.min.js" | relURL -}}"></script>
+<script async="true" src="{{- "material/dist/video.js" | relURL -}}"></script>
+
+<script src="https://js.stripe.com/v3/"></script>
+<script src="{{- "material/dist/donate.js" | relURL -}}"></script>

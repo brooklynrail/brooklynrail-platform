@@ -9,6 +9,6 @@ short_bio: "An abstract painter whose work explores color both in the figurative
   possibility of mirroring the complexity of the world as much as it has the
   potential for being distinct. "
 portraits:
-  - media: 2020/06/odili-donald-odita
+  - media: 2020/07/odili-donald-odita
 website: https://jackshainman.com/artists/odili_donald_odita
 ---

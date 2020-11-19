@@ -6,4 +6,6 @@ email: info@studioinaschool.org
 website: https://studioinaschool.org
 instagram: "studioinaschool"
 twitter: "studioinaschool"
+relationship:
+  - donor
 ---

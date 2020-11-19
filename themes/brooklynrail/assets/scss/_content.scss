@@ -64,6 +64,30 @@
       }
     }
   }
+
+  table{
+    @include u-margin-y(6);
+    table-layout: fixed;
+    width: 100%;
+    border-collapse:collapse;
+    
+    th,td{
+      @include u-padding-y('05');
+      @include u-padding-x(0);
+      @include u-padding-right(1);
+      @include u-bg('white');
+      @include u-border(0);
+      @include u-border-y('1px', 'solid', 'gray-20');
+      @include u-font('sans', 'xs');
+    }
+    th{
+      @include u-padding-y(1);
+      @include u-border(0);
+      @include u-bg('white', '!important');
+      @include u-border-top('2px', 'solid', 'gray-60');
+    }
+  }
+
 }
 
 // ===========================
@@ -132,10 +156,11 @@ header{
 
   // Headline / Title
   h1{
-    @include u-margin(0);
-    @include u-margin-bottom('05');
+    @include u-margin-y(0);
+    @include u-margin-bottom(2);
     @include u-display('block');
     @include u-font('sans', 'xl');
+    @include u-line-height('sans', 2);
     @include at-media('tablet-lg') {
       @include u-font('sans', '2xl');
     }
@@ -150,8 +175,11 @@ header{
   .deck{
     @extend .usa-intro;
     @include u-margin(0);
-    @include u-font('sans', 'xl');
+    @include u-font('sans', 'lg');
     @include u-line-height('sans', 2);
     @include u-text('light');
+    @include at-media('tablet-lg') {
+      @include u-font('sans', 'xl');
+    }
   }
 }

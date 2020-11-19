@@ -6,4 +6,6 @@ short_desc: The Hill Art Foundation is a nonprofit organization with the goal of
   education programs.
 email: ""
 website: https://hillartfoundation.org
+relationship:
+  - donor
 ---

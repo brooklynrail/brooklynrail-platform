@@ -1,9 +1,74 @@
 <!DOCTYPE html>
 <html lang="{{- $.Site.LanguageCode | default "en" -}}">
 
-  {{- block "head" . -}}
-    {{- partial "head.html" . -}}
-  {{- end -}}
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  
+    {{/* NOTE: the Site's title, and if there is a page title, that is set too */}}
+    <title>{{- block "title" . -}}{{ with .Params.Title -}}{{- . | markdownify }} | {{ end }}{{ .Site.Title -}}{{- end -}}</title>
+  
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <link rel="canonical" href="{{- .Permalink -}}" />
+    {{- .Hugo.Generator -}}
+  
+  
+    {{/* NOTE: These Hugo Internal Templates can be found starting at https://github.com/spf13/hugo/blob/master/tpl/tplimpl/template_embedded.go#L158 */}}
+    {{/* {{- template "_internal/google_news.html" . -}} */}}
+    {{- partial "meta/schema.html" . -}}
+  
+    {{- partial "meta/opengraph.html" . -}}
+  
+    {{- partialCached "meta/favicons.html" . -}}
+  
+  
+    {{ "<!-- RSS Feeds -->" | safeHTML }}
+    {{- with .OutputFormats.Get "RSS" -}}
+      <link href="{{- .RelPermalink -}}" rel="alternate" type="application/rss+xml" title="{{- $.Site.Title -}}" />
+      <link href="{{- .RelPermalink -}}" rel="feed" type="application/rss+xml" title="{{- $.Site.Title -}}" />
+    {{- end }}
+  
+    {{ "<!-- Sitemap-->" | safeHTML }}
+    <link rel="sitemap" type="application/xml" title="Digital.gov Sitemap" href="{{- "sitemap.xml" | absURL -}}" />
+  
+    {{/* NOTE: For Production make sure you add `HUGO_ENV="production"` before your build command */}}
+    {{- if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production") }}
+    <meta NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    {{- else }}
+    <meta NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+    {{- end }}
+  
+  
+    {{ "<!-- CSS -->" | safeHTML }}
+    <link rel="stylesheet" href='{{- block "styles" . -}}{{- "material/dist/styles.css" | relURL -}}{{- end -}}' type="text/css" media='all' />
+    {{/* Custom CSS — needs to be included before the base styles */}}
+    {{- if $.Params.css -}}
+      {{- range $.Params.css -}}
+        {{- $path := (printf "material/dist/%s" .) | relURL -}}
+        <!-- CUSTOM CSS -->
+        <link rel="stylesheet" media="all" href="{{- $path -}}" type="text/css"/>
+      {{- end -}}
+    {{- end -}}
+  
+    {{/* Add to Calendar */}}
+    {{- if and (eq .Section "events") -}}
+    {{ "<!-- Add to Calendar CSS -->" | safeHTML }}
+    <link href="{{- "material/dist/add-to-cal.css" | relURL -}}" rel="stylesheet" type="text/css">
+    {{ "<!-- Add to Calendar JS -->" | safeHTML }}
+    <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
+    {{- end }}
+  
+    {{ "<!-- Font Awesome -->" | safeHTML }}
+    <link href="{{- "material/dist/fontawesome/css/all.min.css" | relURL -}}" rel="stylesheet" type="text/css">
+  
+  
+    {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
+      {{- partial "meta/google_analytics.html" . -}}
+    {{ end }}
+  
+  </head>
 
   <body class="{{- .Type }} {{ .Kind -}} {{- $.Param "body_classes"  | default "" -}}{{- with getenv "HUGO_ENV" }} {{ . -}}{{- end -}}">
 

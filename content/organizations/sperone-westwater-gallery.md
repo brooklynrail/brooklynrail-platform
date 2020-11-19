@@ -4,4 +4,6 @@ email: info@speronewestwater.com
 website: https://www.speronewestwater.com/
 instagram: speronewestwater
 twitter: SWGallery257
+relationship:
+  - donor
 ---

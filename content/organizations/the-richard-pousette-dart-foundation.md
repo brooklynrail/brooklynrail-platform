@@ -6,4 +6,6 @@ short_desc: Dedicated to advancing the understanding of Richard Pousette-Dart as
   exchange within the arts.
 email: info@pousette-dartfoundation.org
 website: https://pousette-dartfoundation.org
+relationship:
+  - donor
 ---

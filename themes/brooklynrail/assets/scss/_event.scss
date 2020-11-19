@@ -220,6 +220,7 @@
     .people{
       @include u-padding-top(2);
       .person{
+        clear:both;
         @include u-padding-y(3);
         &:first-child{
           @include u-padding-top(0);

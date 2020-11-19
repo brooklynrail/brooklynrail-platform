@@ -41,6 +41,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: HUJguihsQMk
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-83-shaun-leonardo-tickets-112121839440
 event_platform:
   - zoom

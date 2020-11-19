@@ -5,3 +5,6 @@ static/media/files/**/*.jpeg filter=lfs diff=lfs merge=lfs -text
 static/media/files/**/*.svg filter=lfs diff=lfs merge=lfs -text
 static/media/files/**/*.mp4 filter=lfs diff=lfs merge=lfs -text
 static/media/files/**/*.pdf filter=lfs diff=lfs merge=lfs -text
+content/projects/we-the-immigrants/**.gif filter=lfs diff=lfs merge=lfs -text
+content/projects/we-the-immigrants/**.jpg filter=lfs diff=lfs merge=lfs -text
+content/projects/we-the-immigrants/**.png filter=lfs diff=lfs merge=lfs -text
