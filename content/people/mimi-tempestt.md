@@ -11,5 +11,5 @@ short_bio: Mimi Tempestt (she/they) is a multidisciplinary artist, poet, and
   Lambda Literary Writers Retreat for Emerging LGBTQ Voices for poetry in 2021,
   and is currently a creative fellow at The Ruby in San Francisco.
 portraits:
-  - {}
+  - media: 2020/11/mimi-tempestt
 ---
