@@ -12,10 +12,11 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-183-holiday-screening-of-barbara-rubin-tickets-130037532761
 event_platform:
   - zoom
 ---
-{{< image media="2020/11/barbara-rubin-the-exploding-ny-underground" size="md" >}}
+{{< image media="2020/11/barbara-rubin-the-exploding-ny-underground" size="lg" >}}
 
 The Rail wishes a safe and happy holiday to everyone! RSVP to tune in throughout the day to access the film by vimeo link and password. 
 
