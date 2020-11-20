@@ -10,4 +10,6 @@ short_bio: "Isabel Sobral Campos is the author of How to Make Words of Rubble
   in the Boston Review, Brooklyn Rail, BAX 2018: Best American Experimental
   Writing and elsewhere. She is the co-founder of the Sputnik & Fizzle
   publishing series."
+portraits:
+  - media: 2020/11/isabel-sobral-campos
 ---
