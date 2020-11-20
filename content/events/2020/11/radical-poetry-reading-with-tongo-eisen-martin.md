@@ -23,6 +23,13 @@ people:
       2020. She was chosen for Lambda Literary Writers Retreat for Emerging
       LGBTQ Voices for poetry in 2021, and is currently a creative fellow at The
       Ruby in San Francisco.
+  - person: michal-mj-jones
+    event_bio: "Michal ‘MJ’ Jones is a poet & parent in Oakland, CA. Their work is
+      featured or forthcoming at Anomaly, Kissing Dynamite, & Borderlands Texas
+      Poetry Review. They are an Assistant Poetry Editor at Foglifter Press, a
+      journal curating queer and trans voices, and have fellowships from the
+      Hurston/Wright Foundation, VONA/Voices, & Kearny Street Workshop. They are
+      currently an MFA graduate fellow at Mills College. "
   - person: darius-simpson
     event_bio: "Darius Simpson is a writer, educator, performer, and skilled living
       room dancer from Akron, Ohio. He was a recipient of the 2020 Ruth Lilly
