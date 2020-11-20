@@ -11,10 +11,11 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-182-holiday-screening-of-jean-michel-basquiat-tickets-130036734373
 event_platform:
   - zoom
 ---
-{{< image media="2020/11/jean-michel-basquiat-the-radiant-child" size="md" >}}
+{{< image media="2020/11/jean-michel-basquiat-the-radiant-child" size="lg" >}}
 
 The Rail wishes a safe and happy holiday to everyone! RSVP to tune in throughout the day to access the film by vimeo link and password. 
 
