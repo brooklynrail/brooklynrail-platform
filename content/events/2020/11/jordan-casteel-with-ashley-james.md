@@ -70,7 +70,7 @@ poets:
         url: https://nightboat.org/book/crosslight-for-youngbird/
 date: 2020-11-30 13:00:00 -0500
 end_date: 2020-11-30 14:30:00 -0500
-series: 183
+series: 184
 collections:
   - the-new-social-environment
 event_sponsor:
