@@ -50,7 +50,7 @@ people:
       contributing editor for the university's Amistad literary magazine.
 date: 2020-11-25 01:00:00 -0500
 end_date: 2020-11-25 02:00:00 -0500
-series: 180
+series: 181
 collections:
   - the-new-social-environment
 event_organizer:
