@@ -1,8 +1,8 @@
 ---
 title: Jeanne Silverthorne with Douglas Dreishpoon
-summary: Sculptor Jeanne Silverthorne will be in conversation with curator and
-  author Douglas Dreishpoon. We'll conclude with a poetry reading from Kate
-  Colby.
+summary: Sculptor Jeanne Silverthorne will be in conversation with curator,
+  author, and Rail Consulting Editor Douglas Dreishpoon. We'll conclude with a
+  poetry reading from Kate Colby.
 people:
   - person: jeanne-silverthorne
     event_bio: >-
@@ -20,7 +20,7 @@ people:
         url: https://finearts.uky.edu/art-museum/exhibitions/jeanne-silverthorne-more-flesh-and-bone
   - person: dr-douglas-dreishpoon
     event_bio: >-
-      Dr. Douglas Dreishpoon, Chief Curator Emeritus at the Albright-Knox, is
+      Douglas Dreishpoon, Chief Curator Emeritus at the Albright-Knox, is
       currently Director of the Catalogue Raisonné project at the Helen
       Frankenthaler Foundation in New York City. His 26 years of experience in
       museums include such roles as Curator of Collections at the Weatherspoon
@@ -32,7 +32,7 @@ people:
       His essays, interviews, and reviews have been published in numerous catalogues, magazines, and journals, including Art in America, Art Journal, ARTnews, and Sculpture. Recent publications include The Long Curve: 150 Years of Visionary Collecting at the Albright-Knox Art Gallery (Skira, 2011); Guillermo Kuitca: Everything, Paintings and Works on Paper, 1980–2008 (Scala, 2009); ROBERT MANGOLD: Beyond the Line | Paintings and Project 2000–2008 (Abrams, 2009); Ken Price: Slow and Steady Wins the Race, Works on Paper, 1962–2010 (The Drawing Center, 2013); Giving Up One’s Mark: Helen Frankenthaler in the 1960s and 1970s (2014); Imperfections by Chance: Paul Feeley Retrospective, 1954–1965 (2015); and Nothing and Everything: Seven Artists, 1947–1962 (Hauser & Wirth, 2017).
 
 
-      A former board member of the American Section of the International Association of Art Critics, Dreishpoon holds a Bachelor of Arts from Skidmore College, a master’s degree from Tufts University, and a PhD from the Graduate Center of the City University of New York.
+      A former board member of the American Section of the International Association of Art Critics, Dreishpoon holds a Bachelor of Arts from Skidmore College, a master’s degree from Tufts University, and a PhD from the Graduate Center of the City University of New York. He is a Consulting Editor at the Brooklyn Rail. 
 poets:
   - person: kate-colby
     event_bio: Kate Colby is author of seven books of poetry and a book of lyric
