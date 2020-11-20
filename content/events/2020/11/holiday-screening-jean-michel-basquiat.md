@@ -1,7 +1,7 @@
 ---
 title: "Holiday Screening: Jean-Michel Basquiat"
 summary: "Join us for a screening of Jean-Michel Basquiat: The Radiant Child
-  courtesy of Arthouse Films. "
+  courtesy of Arthouse Films and Dakota Group, Ltd. "
 date: 2020-11-26 10:00:00 -0500
 end_date: 2020-11-27 18:00:00 -0500
 series: 182
@@ -18,4 +18,4 @@ event_platform:
 
 The Rail wishes a safe and happy holiday to everyone! RSVP to tune in throughout the day to access the film by vimeo link and password. 
 
-Special thanks to Tamra David, David Koh, and Arthouse Films for making this screening possible.
+Special thanks to Tamra Davis, David Koh, Arthouse Films, and Dakota Group, Ltd. for making this screening possible.
