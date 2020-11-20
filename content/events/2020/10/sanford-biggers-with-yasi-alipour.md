@@ -33,7 +33,23 @@ people:
       artist/writer/folder who currently lives in Brooklyn and wonders about
       paper, politics, and performance. She is a teacher at Columbia University
       and SVA and is currently a resident at the Sharpe Walentas Studio program.
-poets: []
+poets:
+  - person: isabel-sobral-campos
+    event_bio: Isabel Sobral Campos is the author of several books of poetry and
+      chapbooks, most recently "How to Make Words of Rubble/." Her poetry has
+      appeared in the Boston Review, Brooklyn Rail, and elsewhere. She is the
+      co-founder of the Sputnik & Fizzle publishing series.
+    related_links:
+      - text: How to Make Words of Rubble
+        url: https://www.bluefigurepress.com/product-page/how-to-make-words-of-rubble
+      - url: http://www.vegetarianalcoholicpress.com/titles/your-person-doesnt-belong-to-you
+        text: Your Person Doesn’t Belong to You
+      - text: Material
+        url: http://www.nodearmagazine.com/material
+      - url: https://dulcetshop.myshopify.com/products/made-of-stone-isabel-sobral-campos
+        text: You Will Be Made of Stone
+      - url: https://poeticslist.chicagoschoolofpoetics.com/2019/11/new-from-aboveground-press-autobiographical-ecology-by-isabel-sobral-campos/
+        text: Autobiographical Ecology
 date: 2020-11-23 13:00:00 -0500
 end_date: 2020-11-23 14:00:00 -0500
 series: 179
