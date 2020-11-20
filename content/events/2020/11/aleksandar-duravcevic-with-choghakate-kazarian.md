@@ -33,7 +33,7 @@ people:
       the American artist Albert Pinkham Ryder.
 date: 2020-12-01 13:00:00 -0500
 end_date: 2020-12-01 14:30:00 -0500
-series: 184
+series: 185
 collections:
   - the-new-social-environment
 event_organizer:
