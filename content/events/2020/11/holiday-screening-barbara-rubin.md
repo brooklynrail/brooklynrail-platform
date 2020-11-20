@@ -15,8 +15,6 @@ event_producer:
 event_platform:
   - zoom
 ---
-
-
 {{< image media="2020/11/barbara-rubin-the-exploding-ny-underground" size="md" >}}
 
 The Rail wishes a safe and happy holiday to everyone! RSVP to tune in throughout the day to access the film by vimeo link and password. 
