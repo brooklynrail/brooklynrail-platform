@@ -16,10 +16,6 @@ event_platform:
 ---
 The Rail wishes a safe and happy holiday to everyone! RSVP to tune in throughout the day to access the film by vimeo link and password. 
 
-
-
-
-
-
-
 Special thanks to Tamra David, David Koh, and Arthouse Films for making this screening possible.
+
+{{< image media="2020/11/jean-michel-basquiat-the-radiant-child" size="md" >}}
