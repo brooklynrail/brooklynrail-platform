@@ -23,6 +23,12 @@ people:
       2020. She was chosen for Lambda Literary Writers Retreat for Emerging
       LGBTQ Voices for poetry in 2021, and is currently a creative fellow at The
       Ruby in San Francisco.
+  - person: darius-simpson
+    event_bio: "Darius Simpson is a writer, educator, performer, and skilled living
+      room dancer from Akron, Ohio. He was a recipient of the 2020 Ruth Lilly
+      and Dorothy Sargent Rosenberg Poetry Fellowship. His work has appeared or
+      is forthcoming in The Adroit Journal, American Poetry Review, Crab Creek
+      Review and others. "
 date: 2020-11-25 01:00:00 -0500
 end_date: 2020-11-25 02:00:00 -0500
 series: 180
