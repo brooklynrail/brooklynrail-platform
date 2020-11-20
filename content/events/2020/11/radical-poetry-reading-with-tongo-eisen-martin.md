@@ -14,6 +14,15 @@ people:
       "Heaven Is All Goodbyes" was published by the City Lights Pocket Poets
       series, was shortlisted for the Griffin Poetry Prize and won a California
       Book Award and an American Book Award.
+  - person: mimi-tempestt
+    event_bio: Mimi Tempestt (she/they) is a multidisciplinary artist, poet, and
+      daughter of California. She has a MA in Literature from Mills College, and
+      is currently a doctoral student in the Creative/Critical PhD in Literature
+      at UC Santa Cruz. Her debut collection of poems, the monumental
+      misrememberings, is forthcoming with Co-Conspirator Press in November
+      2020. She was chosen for Lambda Literary Writers Retreat for Emerging
+      LGBTQ Voices for poetry in 2021, and is currently a creative fellow at The
+      Ruby in San Francisco.
 date: 2020-11-25 01:00:00 -0500
 end_date: 2020-11-25 02:00:00 -0500
 series: 180
