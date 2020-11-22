@@ -44,9 +44,9 @@
             </h1>
 
             {{- with .Params.Deck -}}
-            <p class="deck">
+            <div class="deck">
               {{- . | markdownify -}}
-            </p>
+            </div>
             {{- end -}}
 
           </div>
@@ -58,7 +58,7 @@
       <div class="grid-container grid-container-desktop">
         <div class="grid-row">
 
-          <div class="grid-col-12 tablet:grid-col-10 tablet:grid-offset-1">
+          <div class="grid-col-12">
 
             {{- if not .Params.deck -}}
             <p class="summary">{{- .Params.summary | markdownify -}}</p>
@@ -90,7 +90,7 @@
 
 
           {{/* Gets the data from the file in /data */}}
-          {{- $wti_data := $.Site.Data.wti -}}
+          {{- $wti_data := $.Site.Data.wti_data -}}
 
           {{/* Loops over each item in the data */}}
           {{- range $i, $person := sort $wti_data "last_name" -}}
@@ -116,50 +116,26 @@
               {{ end }}
             {{ end }}
 
+            {{ $filename := "" }}
+            {{- if $person.filename -}}
+              {{- $filename = (print "" $person.filename) -}}
+            {{- else -}}
+              {{ $last_name := replace $person.last_name "''" "_" }}
+              {{ $last_name = replace $last_name " " "_" }}
+              {{ $last_name = replaceRE "[*,.']" "" $last_name }}
+              {{ $first_name := replace $person.first_name " " "_" }}
+              {{ $first_name = replaceRE "[*()]" "" $first_name }}
+              {{- $filename = printf "%s_%s%s" $first_name $last_name ".jpg" -}}
 
+            {{- end -}}
 
-            {{- if $person.wikipedia_url -}}
-
-              {{/* Builds the query */}}
-              {{- $wikipedia_api := (printf "%s%s%s" "https://en.wikipedia.org/w/api.php?action=query&formatversion=2&titles=" (replace $person.wikipedia_url "https://en.wikipedia.org/wiki/" "" | markdownify) "&prop=pageimages|pageterms&piprop=name&format=json" ) -}}
-
-              {{/*
-                Gets the data from the Wikipedia API:
-                - filename
-                - person's name
-                - description
-
-                Example query
-                https://en.wikipedia.org/w/api.php?action=query&formatversion=2&titles=Chantal_Akerman&prop=pageimages|pageterms&piprop=name&format=json
-              */}}
-
-              {{/* NOTE: Not all of the Wikipedia pages have top images! But the ones that do have been downloaded and put into /content/projects/we-the-immigrants. */}}
-
-              {{- with getJSON $wikipedia_api -}}
-                {{- $pages := .query.pages -}}
-                {{- range $i, $page := $pages -}}
-
-                  {{/* If there is a filename in the Wikipedia API... */}}
-                  {{- if $page.pageimage -}}
-                    {{/* See the bottom of this file for the template */}}
-                    {{/* {{ (print "people/" $page.pageimage) }} */}}
-                    {{- with $.Resources.Match (print "" $page.pageimage) -}}
-                      {{- range . -}}
-                        {{- template "wti_person" (dict "image" .RelPermalink "size" "sm" "format" "square" "person" $person "url" $person.wikipedia_url ) -}}
-                      {{- end -}}
-                    {{- end -}}
-
-
-                  {{/* There is no filename in Wikipedia page (via the API), it probably means that there is not a top photo on the page. So we're going to check to see if there is an airtable image to use */}}
-                  {{/* {{- else if $person.headshot -}}
-
-                    {{- template "wti_person" (dict "image" $person.headshot "size" "sm" "format" "square" "person" $person "url" $person.wikipedia_url ) -}} */}}
-
-                  {{- end -}}
-
-                {{- end -}}
+            {{- with $.Resources.Match $filename -}}
+              {{- range . -}}
+                {{- template "wti_person" (dict "image" .RelPermalink "size" "sm" "format" "square" "person" $person "url" $person.wikipedia_url ) -}}
               {{- end -}}
-            {{- end  -}}
+            {{- end -}}
+
+
 
 
           {{- end -}}
