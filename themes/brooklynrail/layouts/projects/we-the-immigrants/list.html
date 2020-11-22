@@ -121,18 +121,18 @@
               {{- $filename = (print "" $person.filename) -}}
             {{- else -}}
               {{ $last_name := replace $person.last_name "''" "_" }}
-              {{ $last_name = replace $last_name "'" "" }}
-              {{- $filename = printf "%s_%s%s" $person.first_name $last_name ".jpg" -}}
+              {{ $last_name = replace $last_name " " "_" }}
+              {{ $last_name = replaceRE "[*,.']" "" $last_name }}
+              {{ $first_name := replace $person.first_name " " "_" }}
+              {{ $first_name = replaceRE "[*()]" "" $first_name }}
+              {{- $filename = printf "%s_%s%s" $first_name $last_name ".jpg" -}}
 
             {{- end -}}
 
             {{- with $.Resources.Match $filename -}}
-              {{/* YES */}}
-              {{/* {{- range . -}}
+              {{- range . -}}
                 {{- template "wti_person" (dict "image" .RelPermalink "size" "sm" "format" "square" "person" $person "url" $person.wikipedia_url ) -}}
-              {{- end -}} */}}
-            {{- else -}}
-            <p>{{ $person.first_name }} {{ $person.last_name }}</p>
+              {{- end -}}
             {{- end -}}
 
 
