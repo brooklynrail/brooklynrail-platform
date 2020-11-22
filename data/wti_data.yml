@@ -470,7 +470,7 @@
     wikipedia_url: https://en.wikipedia.org/wiki/C._L._R._James
     born_year: "1901"
     origin: "Tridad and Tobago"
-    filename: Flag_of_the_UNIA.svg
+    filename:
 
   - first_name: "Camilo"
     last_name: "Aguirre"
@@ -540,7 +540,7 @@
     wikipedia_url: https://en.wikipedia.org/wiki/Cecilia_Vicu%C3%B1a
     born_year: "1948"
     origin: "Chile"
-    filename: Cecilia-vicuna.jpg
+    filename:
 
   - first_name: "Cecily"
     last_name: "Brown"
@@ -1023,7 +1023,7 @@
     wikipedia_url: https://en.wikipedia.org/wiki/Greta_Garbo
     born_year: "1905"
     origin: "Sweden"
-    filename: Greta_Garbo_in_a_publicity_image_for_"Anna_Christie".jpg
+    filename:
 
   - first_name: "Gulalai"
     last_name: "Ismail"
