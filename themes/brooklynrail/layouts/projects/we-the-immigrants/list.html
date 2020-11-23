@@ -147,7 +147,7 @@
 
   <div class="grid-col-12 tablet:grid-col-2">
     <div class="person">
-      {{- template "media" (dict "image" $image "size" "md" "format" "square" "type" "string" ) -}}
+      {{- template "media" (dict "image" $image "size" $size "format" "square" "type" "string" ) -}}
       <p>
         {{- if $url -}}
           <a href="{{- $url -}}" title="{{- $person.first_name }} {{ $person.last_name -}}">{{- $person.first_name }} {{ $person.last_name -}}</a>
