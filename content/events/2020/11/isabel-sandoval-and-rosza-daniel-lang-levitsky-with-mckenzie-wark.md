@@ -14,6 +14,18 @@ people:
       awards at the Deauville and Hawaii film festivals after premiering in
       Busan. Her feature film Lingua Franca premiered on Netflix in the United
       States in 2020.
+  - person: rosza-daniel-lang-levitsky
+    event_bio: "Rosza Daniel Lang/Levitsky is a cultural worker and organizer based
+      at Brooklyn's Glitter House.  Writing on trans and queer politics has
+      appeared through Visual AIDS, HowlRound, Eyshet Chayil, and in the
+      Lammy-winning anthology Glitter and Grit.  Current projects include: Real
+      Life Experience, recovering trans women's political and cultural writings
+      1974-2000; Critical Reperformance, re-bodying classic and neglected
+      performance scores as an analytic practice and to keep them a living
+      repertoire [www.criticalreperformance.org]; and Koyt Far Dayn  Fardakht, a
+      Yiddish anarchist punk band [www.koytfilth.band].  Founding member of
+      Survived & Punished NY (abolitionist organizing to free criminalized
+      survivors of gendered violence), and other organizing projects."
   - person: mckenzie-wark
     event_bio: "McKenzie Wark is the author, among other things, of Reverse Cowgirl
       (Semiotexte 2019) and Capital is Dead (Verso 2019). She teaches at The New
