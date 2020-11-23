@@ -7,4 +7,6 @@ short_bio: Maya Wiley is a professor of public and urban policy at the New
   a civil rights attorney, was Counsel to New York City Mayor Bill de Blasio. In
   October 2020, Wiley announced her own candidacy to succeed de Blasio as mayor
   of New York.
+portraits:
+  - media: 2020/11/maya-wiley
 ---
