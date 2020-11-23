@@ -22,6 +22,12 @@ people:
       Humanities Festival. His books include Mr. Wilson’s Cabinet of Wonder,
       Pulitzer Prize finalist; and Everything That Rises: A Book of
       Convergences, winner of a National Book Critics Circle Award.
+  - person: maya-wiley
+    event_bio: Maya Wiley is a professor of public and urban policy at the New
+      School and an NBC News and MSNBC legal analyst. Before the New School,
+      Wiley, a civil rights attorney, was Counsel to New York City Mayor Bill de
+      Blasio. In October 2020, Wiley announced her own candidacy to succeed de
+      Blasio as mayor of New York.
 date: 2020-12-04 13:00:00 -0500
 end_date: 2020-12-04 14:30:00 -0500
 series: 188
