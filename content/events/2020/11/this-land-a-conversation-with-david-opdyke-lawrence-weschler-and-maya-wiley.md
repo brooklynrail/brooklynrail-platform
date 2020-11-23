@@ -13,6 +13,15 @@ people:
       suburban sprawl, while his sculptures of ruined monuments mock
       imperialistic hubris. His work is held in the collections of the Brooklyn
       Museum, MoMA, and the Washington Convention Center.
+  - person: lawrence-weschler
+    event_bio: >
+      Lawrence Weschler is the author of over twenty books of narrative
+      nonfiction, most recently And How Are You, Dr. Sacks? (FSG, 2019). He is a
+      former staff writer at the New Yorker, served as director of the New York
+      Institute for the Humanities, and artistic director of the Chicago
+      Humanities Festival. His books include Mr. Wilson’s Cabinet of Wonder,
+      Pulitzer Prize finalist; and Everything That Rises: A Book of
+      Convergences, winner of a National Book Critics Circle Award.
 date: 2020-12-04 13:00:00 -0500
 end_date: 2020-12-04 14:30:00 -0500
 series: 188
