@@ -5,13 +5,15 @@ deck: null
 summary: summary
 type: projects/we-the-immigrants
 menu:
-  project:
-    - Name: "All people"
-      URL: '/projects/we-the-immigrants/'
-    - Name: "About"
-      URL: '/projects/we-the-immigrants/about/'
-    - Name: "Submit"
-      URL: 'https://airtable.com/shrtYBTkppvsYILWj'
+  - Name: "All people"
+    Identifier: "all-people"
+    URL: '/projects/we-the-immigrants/'
+  - Name: "About"
+    Identifier: "about"
+    URL: '/projects/we-the-immigrants/about/'
+  - Name: "Submit"
+    Identifier: "submit"
+    URL: 'https://airtable.com/shrtYBTkppvsYILWj'
 ---
 
 As we look towards the 2020 election, its aftermath, and the future of our fragile democracy, the *Rail* is announcing *We The Immigrants* – an urgent project aimed at elevating the prevalence of immigration, and the significant contributions immigrants make in communities across America and to the cultural fabric of society.
