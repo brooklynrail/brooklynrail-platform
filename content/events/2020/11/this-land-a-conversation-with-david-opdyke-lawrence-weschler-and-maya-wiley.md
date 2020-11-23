@@ -4,6 +4,15 @@ title: "This Land: A Conversation with David Opdyke, Lawrence Weschler, and Maya
 summary: Join David Opdyke, Lawrence Weschler, and Maya Wiley for a conversation
   on This Land’s mural vignettes, the corrupted system that got us here, and
   what it will take to make a new future. We'll conclude with a poetry reading.
+people:
+  - person: david-opdyke
+    event_bio: David Opdyke is an artist known for his trenchant political send-ups
+      of American culture. Opdyke’s political awakening in the early 2000s led
+      to a body of work that confronts the horrors of contemporary America. His
+      hyperreal topographical models of suburbs comment on mall culture and
+      suburban sprawl, while his sculptures of ruined monuments mock
+      imperialistic hubris. His work is held in the collections of the Brooklyn
+      Museum, MoMA, and the Washington Convention Center.
 date: 2020-12-04 13:00:00 -0500
 end_date: 2020-12-04 14:30:00 -0500
 series: 188
