@@ -1,7 +1,5 @@
 
 .header{
-  @include u-padding-y(1);
-  // @include u-padding-bottom(0);
   .kicker{
     @include u-padding-bottom(8);
     @include u-text('center');
@@ -17,7 +15,16 @@
       }
     }
   }
+
+  .logo{
+    @include u-display('block');
+    @include u-margin-top(4);
+    @include u-padding-y(4);
+  }
+
   .rail-logo{
+    @include u-padding-y('105');
+    @include u-display('block');
     svg{
       @include u-margin-x('auto');
       @include u-width('mobile');
@@ -29,10 +36,6 @@
         stroke-width:0;
       }
     }
-  }
-  .logo{
-    @include u-display('block');
-    @include u-padding-y(4);
   }
 }
 
