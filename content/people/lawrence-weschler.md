@@ -9,5 +9,7 @@ short_bio: "Lawrence Weschler is the author of over twenty books of narrative
   Festival. His books include Mr. Wilson’s Cabinet of Wonder, Pulitzer Prize
   finalist; and Everything That Rises: A Book of Convergences, winner of a
   National Book Critics Circle Award."
+portraits:
+  - media: 2020/11/lawrence-weschler
 website: https://lawrenceweschler.com
 ---
