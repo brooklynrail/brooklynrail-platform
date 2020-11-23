@@ -30,8 +30,8 @@ people:
     event_bio: "McKenzie Wark is the author, among other things, of Reverse Cowgirl
       (Semiotexte 2019) and Capital is Dead (Verso 2019). She teaches at The New
       School. "
-date: 2020-12-01 13:00:00 -0500
-end_date: 2020-12-01 14:30:00 -0500
+date: 2020-12-07 13:00:00 -0500
+end_date: 2020-12-07 14:30:00 -0500
 series: 189
 collections:
   - the-new-social-environment
