@@ -1,6 +1,6 @@
 
 .header{
-  @include u-padding-top(15);
+  @include u-padding-top(10);
   @include u-padding-bottom(0);
   .kicker{
     @include u-padding-bottom(8);
@@ -16,6 +16,21 @@
         @include u-text('underline');
       }
     }
+  }
+  .rail-logo{
+    svg{
+      @include u-margin-x('auto');
+      @include u-margin-y(4);
+      @include u-width('mobile');
+      @include u-height(4);
+      @include u-display('block');
+      #brooklynrail-logo{
+        fill: #000;
+        stroke: #000;
+        stroke-width:0;
+      }
+    }
+
   }
 }
 
@@ -45,25 +60,10 @@ main{
     }
   }
 
-  nav.nav-project{
-    @include u-padding-bottom(5);
-    @include u-position('sticky');
-    top:0;
-    ul{
-      @include u-border-top('2px', 'solid', 'base');
-      @include u-text('left');
-      li{
-        @include u-padding-y('05');
-        @include u-padding-left(0);
-        @include u-padding-right(3);
-        @include u-font('sans', 'xl');
-        @include u-text('light');
-        a{
-          @include u-text('black');
-        }
-      }
-    }
+  .main-nav{
+    @include u-padding-bottom(8);
   }
+  
 }
 .content{
     @include u-margin-bottom(4);

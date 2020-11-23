@@ -10,8 +10,6 @@ nav:
       url: about
     - name: Submit
       url: https://airtable.com/shrtYBTkppvsYILWj
-    - name: Donate
-      url: /donate
 ---
 
 This is a living, collaborative project between a wide communinity of artists, printmakers, writers, filmmakers, and poets from across the country, and the [_Brooklyn Rail_](http://brooklynrail.org/). [We invite you to submit »](https://airtable.com/shrtYBTkppvsYILWj)
