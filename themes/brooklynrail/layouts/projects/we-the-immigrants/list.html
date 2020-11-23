@@ -4,6 +4,7 @@
 
 {{ define "header" }}
   {{- .Render "header" -}}
+  {{- partial "main-nav.html" (dict "page" . "menu_data" .Page.Params.menu.project "issues_data" $.Site.Data.issues ) -}}
 {{ end }}
 
 
@@ -12,7 +13,9 @@
 <main class="page h-event" id="main-content" role="main">
   <article>
 
-    {{- if .Page.Params.nav.project -}}
+    {{- if .Page.Params.menu.project -}}
+
+
     <nav class="main-nav">
       <div class="grid-container grid-container-desktop">
         <div class="grid-row">
@@ -220,8 +223,8 @@
                     </optgroup>
                   </select> */}}
                 </li>
-              {{- $currentNode := . -}}
-              {{ range $i, $nav := .Page.Params.nav.project -}}
+
+              {{ range $i, $nav := .Page.Params.menu.project -}}
                 <li>
                   <a class="u-black" href="{{- $nav.url -}}" title="{{- $nav.name -}}"><span>{{- $nav.name -}}</span></a>
                 </li>
