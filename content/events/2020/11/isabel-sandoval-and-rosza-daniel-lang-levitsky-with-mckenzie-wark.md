@@ -39,6 +39,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/new-social-environment-189-isabel-sandoval-rosza-daniel-langlevitsky-tickets-130302076017
 event_platform:
   - zoom
 ---
