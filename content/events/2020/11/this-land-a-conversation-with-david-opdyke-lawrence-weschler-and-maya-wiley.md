@@ -35,8 +35,10 @@ collections:
   - the-new-social-environment
 event_organizer:
   - the-brooklyn-rail
+  - mana-contemporary
 event_producer:
   - the-brooklyn-rail
+  - mana-contemporary
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-188-this-land-with-david-opdyke-tickets-128546378679
 event_platform:
   - zoom
