@@ -6,13 +6,10 @@ summary: summary
 type: projects/we-the-immigrants
 menu:
   - Name: "All people"
-    Identifier: "all-people"
     URL: '/projects/we-the-immigrants/'
-  - Name: "About"
-    Identifier: "about"
+  - Name: "About this project"
     URL: '/projects/we-the-immigrants/about/'
-  - Name: "Submit"
-    Identifier: "submit"
+  - Name: "Submit a name"
     URL: 'https://airtable.com/shrtYBTkppvsYILWj'
 ---
 

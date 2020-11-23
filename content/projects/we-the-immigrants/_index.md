@@ -6,9 +6,9 @@ summary: "An urgent project from The Brooklyn Rail aimed at elevating immigratio
 type: projects/we-the-immigrants
 
 menu:
-  - Name: "About"
+  - Name: "About this project"
     URL: "/projects/we-the-immigrants/about/"
-  - Name: "Submit"
+  - Name: "Submit a name"
     URL: "https://airtable.com/shrtYBTkppvsYILWj"
 
 ---
