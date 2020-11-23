@@ -7,7 +7,7 @@
 ========================================
 ========================================
 ----------------------------------------
-USWDS 2.8.1
+USWDS 2.9.0
 ----------------------------------------
 TYPOGRAPHY SETTINGS
 ----------------------------------------
@@ -167,7 +167,7 @@ $theme-font-type-lang: false;
 $theme-font-type-mono: "roboto-mono";
 
 // sans-serif
-$theme-font-type-sans:  'untitled-sans';
+$theme-font-type-sans: 'untitled-sans';
 
 // serif
 $theme-font-type-serif: 'untitled-serif';
@@ -315,8 +315,8 @@ $theme-font-cond-custom-src: false;
 $theme-font-icon-custom-src: false;
 $theme-font-lang-custom-src: false;
 $theme-font-mono-custom-src: false;
-$theme-font-sans-custom-src:   $theme-font-sans-custom-src;
-$theme-font-serif-custom-src:  $theme-font-serif-custom-src;
+$theme-font-sans-custom-src: $theme-font-sans-custom-src;
+$theme-font-serif-custom-src: $theme-font-serif-custom-src;
 
 /*
 ----------------------------------------
@@ -371,13 +371,13 @@ Or use `false` for unneeded weights.
 ----------------------------------------
 */
 
-$theme-font-weight-thin:          100;
-$theme-font-weight-light:         200;
-$theme-font-weight-normal:        400;
-$theme-font-weight-medium:        500;
-$theme-font-weight-semibold:      false;
-$theme-font-weight-bold:          700;
-$theme-font-weight-heavy:         900;
+$theme-font-weight-thin: 100;
+$theme-font-weight-light: 200;
+$theme-font-weight-normal: 400;
+$theme-font-weight-medium: 500;
+$theme-font-weight-semibold: false;
+$theme-font-weight-bold: 700;
+$theme-font-weight-heavy: 900;
 
 // If USWDS is generating your @font-face rules,
 // should we generate all available weights
