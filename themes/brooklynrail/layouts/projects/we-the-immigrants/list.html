@@ -126,7 +126,7 @@
 
             {{- with $.Resources.Match $filename -}}
               {{- range . -}}
-                {{- template "wti_person" (dict "image" .RelPermalink "size" "xs" "format" "square" "person" $person "url" $person.wikipedia_url ) -}}
+                {{- template "wti_person" (dict "image" .RelPermalink "size" "sm" "format" "square" "person" $person "url" $person.wikipedia_url ) -}}
               {{- end -}}
             {{- end -}}
 
