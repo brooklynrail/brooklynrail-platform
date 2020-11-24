@@ -12,4 +12,5 @@ short_bio: "Alice Burdick is a poet and essayist who lives and writes in Mahone
   the former Lexicon Books, an independent bookstore in Lunenburg."
 portraits:
   - media: 2020/11/alice-burdick
+rail_contributor_url: https://brooklynrail.org/contributor/Alice-Burdick
 ---
