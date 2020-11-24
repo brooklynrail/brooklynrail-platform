@@ -1,6 +1,9 @@
 ---
-title: "About"
-date: 2020-11-24T00:57:07-04:00
+title: About the Brooklyn Rail
+headline: About the _Rail_
+nav_title: About
+summary: About the Brooklyn Rail
+weight: 1
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed volutpat nisl turpis, tincidunt bibendum diam posuere eu.
