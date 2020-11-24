@@ -2,7 +2,7 @@
 title: Aleksandar Duravcevic with Choghakate Kazarian
 summary: Artist Aleksandar Duravcevic will be in conversation with curator, art
   historian, and Rail guest critic Choghakate Kazarian. We'll conclude with a
-  poetry reading.
+  poetry reading from Alice Burdick.
 people:
   - person: aleksandar-duravcevic
     event_bio: >-
@@ -31,6 +31,23 @@ people:
       Musée d’Art Moderne de la Ville de Paris from 2011 — 2018. She is now
       pursuing a Ph.D. at the Courtauld Institute of Art with a dissertation on
       the American artist Albert Pinkham Ryder.
+poets:
+  - person: alice-burdick
+    event_bio: Poet and essayist Alice Burdick lives and writes in Mahone Bay, Nova
+      Scotia. She is the author of four full-length collections of poetry and is
+      involved in the small press community in Canada. She also co-owned the
+      former Lexicon Books, an independent bookstore in Lunenburg.
+    related_links:
+      - text: Book of Short Sentences
+        url: https://www.abebooks.com/Book-Short-Sentences-Alice-Burdick-Stuart/22525387896/bd?cm_mmc=ggl-_-US_Shopp_Trade-_-naa-_-naa&gclid=EAIaIQobChMI6ffWrvOb7QIVD4taBR31TwZwEAQYASABEgKMK_D_BwE
+      - text: Holler
+        url: https://www.goodreads.com/book/show/13586664-holler
+      - text: Flutter
+        url: https://www.mcnallyrobinson.com/9781894469418/alice-burdick/flutter
+      - text: Simple Master
+        url: https://www.goodreads.com/book/show/4895441-simple-master
+      - text: Deportment
+        url: https://www.wlupress.wlu.ca/Books/D/Deportment2
 date: 2020-12-01 13:00:00 -0500
 end_date: 2020-12-01 14:30:00 -0500
 series: 185
