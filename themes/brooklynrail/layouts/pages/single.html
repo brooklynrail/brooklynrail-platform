@@ -11,7 +11,15 @@
           {{- if $pages -}}
             <ul>
             {{- range $pages -}}
-              <li><a href="{{- .Permalink -}}" title="{{- .Title -}}">{{- .Title -}}</a></li>
+
+              {{ if gt .Weight 0 }}
+                {{- if .Params.nav_title -}}
+                  <li><a href="{{- .Permalink -}}" title="{{- .Title -}}">{{- .Params.nav_title -}}</a></li>
+                {{- else -}}
+                  <li><a href="{{- .Permalink -}}" title="{{- .Title -}}">{{- .Title -}}</a></li>
+                {{- end -}}
+              {{ end }}
+
             {{- end -}}
             </ul>
           {{- end -}}
