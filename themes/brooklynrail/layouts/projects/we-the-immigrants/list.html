@@ -37,14 +37,16 @@
       </div>
     </header>
 
-    <section class="all-people">
+    <section>
       <div class="grid-container grid-container-desktop-lg">
         <div class="grid-row">
 
           <div class="grid-col-12">
 
-            {{- if not .Params.deck -}}
-            <p class="summary">{{- .Params.summary | markdownify -}}</p>
+            {{- with .Params.summary -}}
+            <div class="content">
+              <p>{{- . | markdownify -}}</p>
+            </div>
             {{- end -}}
 
             {{- with .Content -}}
@@ -54,13 +56,19 @@
             {{- end -}}
           </div>
         </div>
+      </div>
+    </section>
 
+    <section class="all-people">
+      <div class="grid-container grid-container-desktop-lg">
 
         <!-- create a list with all uppercase letters -->
         {{ $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" }}
 
         <div class="grid-row">
           <div class="grid-col-12">
+            <h2>All names</h2>
+            <p><a href="https://airtable.com/shrtYBTkppvsYILWj"><span>Add your name</span> »</a></p>
             <div class="letters">
               {{- range $letters -}}
                 <a href="#letter_{{ . }}" title="Go to letter {{ . }}">{{ . }}</a>
@@ -70,7 +78,6 @@
         </div>
 
         <div class="grid-row grid-gap-3">
-
 
           {{/* Gets the data from the file in /data */}}
           {{- $wti_data := $.Site.Data.wti_data -}}

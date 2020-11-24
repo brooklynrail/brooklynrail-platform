@@ -51,6 +51,7 @@ main{
 
   header{
     @include u-margin-y(0);
+    @include u-margin-bottom(4);
     h1{
       @include u-text('center');
       @include u-text('light');
@@ -68,22 +69,20 @@ main{
   .main-nav{
     @include u-padding-bottom(8);
   }
-
 }
+
 .content{
-    @include u-margin-bottom(4);
-    > p{
-        @include u-font('sans', 'md');
-        @include u-text('normal');
-        @include u-line-height('sans', 3);
-        @include at-media('tablet-lg') {
-            @include u-font('sans', 'lg');
-            @include u-text('light');
-        }
-        a{
-          @include u-text('black');
-        }
-    }
+  @include u-margin-bottom(4);
+  @include u-font('sans', 'md');
+  @include u-text('normal');
+  @include u-line-height('sans', 3);
+  @include at-media('tablet-lg') {
+    @include u-font('sans', 'lg');
+    @include u-text('light');
+  }
+  a{
+    @include u-text('black');
+  }
 }
 
 .letters{
@@ -100,6 +99,19 @@ main{
 }
 .all-people{
   @include u-margin-y(5);
+  h2{
+    @include u-margin-y(0);
+    @include u-margin-bottom('105');
+    @include u-text('bold');
+    @include u-font('sans', 'lg');
+  }
+  p{
+    @include u-margin-y(0);
+    @include u-font('sans', 'md');
+    a{
+      @include u-text('black');
+    }
+  }
 }
 .person{
   @include u-margin-bottom(5);
@@ -117,13 +129,6 @@ main{
     @include u-text('gray-80');
     span{
       @include u-font('sans', '2xs');
-    }
-  }
-  a{
-    @include u-text('black');
-    @include u-text('no-underline');
-    &:hover{
-      @include u-text('underline');
     }
   }
 }
