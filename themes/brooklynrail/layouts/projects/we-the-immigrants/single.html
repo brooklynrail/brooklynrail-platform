@@ -2,8 +2,13 @@
   {{- printf "material/dist/%s/styles.css" .Type | relURL -}}
 {{ end }}
 
-{{ define "header" }}
-  {{- .Render "header" -}}
+{{ define "rail-sub-head" }}
+  <a class="project_logo" href="/" accesskey="1" title="Home" aria-label="{{ .Site.Title }}">
+    {{- .Render "svg" -}}
+  </a>
+{{ end }}
+
+{{ define "main-nav" }}
   {{- partial "main-nav.html" (dict "page" . "menu_data" $.Page.Params.menu "issues_data" $.Site.Data.issues ) -}}
 {{ end }}
 

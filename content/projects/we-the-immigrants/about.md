@@ -1,8 +1,8 @@
 ---
 title: About
-headline: about
-deck: null
-summary: summary
+headline: About
+deck: ""
+summary: "This is a living, collaborative project between artists, printmakers, writers, filmmakers, and poets from across the country, and the [_Brooklyn Rail_](http://brooklynrail.org/)."
 type: projects/we-the-immigrants
 menu:
   - Name: "All people"
