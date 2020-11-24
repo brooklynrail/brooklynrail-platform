@@ -1,0 +1,2769 @@
+# Regex
+# https://regex101.com/r/5DEnaf/1/
+
+
+# headshot: (.*?)$
+
+# first_name: (.*?)$
+# first_name: "$1"
+
+# last_name: (.*?)$
+# last_name: "'$1'"
+
+# born_year: (.*?)$
+# born_year: "$1"
+
+# origin: (.*?)$
+# origin: "$1"
+
+
+  - first_name:
+    last_name: "Arman"
+    wikipedia_url: https://en.wikipedia.org/wiki/Arman
+    born_year: "1928"
+    origin: "France"
+    filename: Arman_(1969).jpg
+
+  - first_name:
+    last_name: "Christo and Jeanne-Claude"
+    wikipedia_url: https://en.wikipedia.org/wiki/Christo_and_Jeanne-Claude
+    born_year: "1935"
+    origin: "Bulgaria / French Morocco"
+    filename: Jean-Claude_and_Christo,_May_2009_(4)_(cropped).jpg
+
+  - first_name:
+    last_name: "Kimsooja"
+    wikipedia_url: https://en.wikipedia.org/wiki/Kimsooja
+    born_year: "1957"
+    origin: "Korea"
+    filename: LaundryWoman_fnlrgb.jpg
+
+  - first_name: "Abhijit"
+    last_name: "Banerjee"
+    wikipedia_url: https://en.wikipedia.org/wiki/Abhijit_Banerjee
+    born_year: "1961"
+    origin: "India"
+    filename: Abhijit_Banerjee_FT_Goldman_Sachs_Business_Book_of_the_Year_Award_2011_(cropped).jpg
+
+  - first_name: "Abraham"
+    last_name: "Verghese"
+    wikipedia_url: https://en.wikipedia.org/wiki/Abraham_Verghese
+    born_year: "1955"
+    origin: "Ethiopian Empire"
+    filename: Verghese,_Abraham,_blurred_2.jpg
+
+  - first_name: "Ada"
+    last_name: "Werber"
+    wikipedia_url:
+    born_year: "1900"
+    origin: "Austria"
+    filename:
+
+  - first_name: "Adolfas"
+    last_name: "Mekas"
+    wikipedia_url: https://en.wikipedia.org/wiki/Adolfas_Mekas
+    born_year: "1925"
+    origin: "Lithuania"
+    filename: AdolfasMekasTula.jpg
+
+  - first_name: "Ahmed"
+    last_name: "Zewali"
+    wikipedia_url: https://en.wikipedia.org/wiki/Ahmed_Zewail
+    born_year: "1946"
+    origin: "Egypt"
+    filename: Ahmed_Zewail_HD2009_Othmer_Gold_Medal_portrait.JPG
+
+  - first_name: "Aijaz"
+    last_name: "Ahmad"
+    wikipedia_url: https://en.wikipedia.org/wiki/Aijaz_Ahmad
+    born_year: "1932"
+    origin: "Pakistan"
+    filename: Aijaz_Ahmad,_26_April_2013_(Cropped).jpg
+
+  - first_name: "Alain"
+    last_name: "Kirili"
+    wikipedia_url: https://en.wikipedia.org/wiki/Alain_Kirili
+    born_year: "1946"
+    origin: "France"
+    filename: 2007_AK_portrait_museeorangerie.jpg
+
+  - first_name: "Albert"
+    last_name: "Bierstadt"
+    wikipedia_url: https://en.wikipedia.org/wiki/Albert_Bierstadt
+    born_year: "1830"
+    origin: "Prussia"
+    filename: Bierstadt.jpg
+
+  - first_name: "Albert"
+    last_name: "Einstein"
+    wikipedia_url: https://en.wikipedia.org/wiki/Albert_Einstein
+    born_year: "1879"
+    origin: "German Empire"
+    filename: Einstein_1921_by_F_Schmutzer_-_restoration.jpg
+
+  - first_name: "Aldous"
+    last_name: "Huxley"
+    wikipedia_url: https://en.wikipedia.org/wiki/Aldous_Huxley
+    born_year: "1894"
+    origin: "England"
+    filename: Aldous_Huxley_psychical_researcher.png
+
+  - first_name: "Alek"
+    last_name: "Wek"
+    wikipedia_url: https://en.wikipedia.org/wiki/Alek_Wek
+    born_year: "1977"
+    origin: "South Sudan"
+    filename: Alek_Wek,_Red_Dress_Collection_2007.jpg
+
+  - first_name: "Aleksandar"
+    last_name: "Duravcevic"
+    wikipedia_url:
+    born_year: "1970"
+    origin: "Montenegro"
+    filename:
+
+  - first_name: "Aleksandr"
+    last_name: "Solzhenitsyn"
+    wikipedia_url: https://en.wikipedia.org/wiki/Aleksandr_Solzhenitsyn
+    born_year: "1918"
+    origin: "Russian SFSR"
+    filename: Aleksandr_Solzhenitsyn_1974crop.jpg
+
+  - first_name: "Alex"
+    last_name: "Tizon"
+    wikipedia_url: https://en.wikipedia.org/wiki/Alex_Tizon
+    born_year: "1959"
+    origin: "Philippines"
+    filename: Alex_Tizon_University_of_Oregon_2015_-_cropped_(2).jpg
+
+  - first_name: "Alex"
+    last_name: "Trebek"
+    wikipedia_url: https://en.wikipedia.org/wiki/Alex_Trebek
+    born_year: "1940"
+    origin: "Canada"
+    filename: Horace_Newcomb_and_Alex_Trebek_(7268398640)_(cropped).jpg
+
+  - first_name: "Alexander"
+    last_name: "Ney"
+    wikipedia_url: https://en.wikipedia.org/wiki/Alexander_Ney
+    born_year: "1939"
+    origin: "USSR"
+    filename: AlexanderNey.with.SingingGirl.2008.jpg
+
+  - first_name: "Alexis"
+    last_name: "Duque"
+    wikipedia_url:
+    born_year: "1972"
+    origin: "Colombia"
+    filename:
+
+  - first_name: "Alfredo"
+    last_name: "Jaar"
+    wikipedia_url: https://en.wikipedia.org/wiki/Alfredo_Jaar
+    born_year: "1956"
+    origin: "Chile"
+    filename: Alfredo_Jaar_(cropped).jpg
+
+  - first_name: "Ali"
+    last_name: "Tayar"
+    wikipedia_url:
+    born_year: "1959"
+    origin: "Turkey"
+    filename:
+
+  - first_name: "Alice"
+    last_name: "Lee"
+    wikipedia_url:
+    born_year: "1996"
+    origin: "South Korea"
+    filename:
+
+  - first_name: "Alma"
+    last_name: "Peguero"
+    wikipedia_url:
+    born_year: "1984"
+    origin: "Dominican Republic"
+    filename:
+
+  - first_name: "Amartya"
+    last_name: "Sen"
+    wikipedia_url: https://en.wikipedia.org/wiki/Amartya_Sen
+    born_year: "1933"
+    origin: "British India"
+    filename: Amartya_Sen,_c2000_(4379246038).jpg
+
+  - first_name: "Amy"
+    last_name: "Serrano"
+    wikipedia_url: https://en.wikipedia.org/wiki/Amy_Serrano
+    born_year: "1966"
+    origin: "Cuba"
+    filename: Amy_Serrano.JPG
+
+  - first_name: "Ana"
+    last_name: "Mendieta"
+    wikipedia_url: https://en.wikipedia.org/wiki/Ana_Mendieta
+    born_year: "1948"
+    origin: "Cuba"
+    filename: Ana_Mendieta_in_Havana_in_1981.jpg
+
+  - first_name: "Ana Amirpour"
+    last_name: "Lily"
+    wikipedia_url: https://en.wikipedia.org/wiki/Ana_Lily_Amirpour
+    born_year: "1980"
+    origin: "England"
+    filename: Ana_Lily_Amirpour_(cropped).jpg
+
+  - first_name: "Anaïs"
+    last_name: "Nin"
+    wikipedia_url: https://en.wikipedia.org/wiki/Ana%C3%AFs_Nin
+    born_year: "1903"
+    origin: "France"
+    filename: 'George_Leite_and_Anaïs_Nin_at_daliel''s_bookstore_in_Berkeley,_CA,_1946.jpg'
+
+  - first_name: "Ananda"
+    last_name: "Coomaraswamy"
+    wikipedia_url: https://en.wikipedia.org/wiki/Ananda_Coomaraswamy
+    born_year: "1877"
+    origin: "Sri Lanka"
+    filename: Coomaraswamy.jpg
+
+  - first_name: "André"
+    last_name: "Aciman"
+    wikipedia_url: https://en.wikipedia.org/wiki/Andr%C3%A9_Aciman
+    born_year: "1951"
+    origin: "Kingdom of Egypt"
+    filename: André_Aciman_Call_Me_By_Your_Name_Press_Conference_Berlinale_2017_(cropped).jpg
+
+  - first_name: "André"
+    last_name: "Breton"
+    wikipedia_url: https://en.wikipedia.org/wiki/Andr%C3%A9_Breton
+    born_year: "1896"
+    origin: "France"
+    filename: André_Breton.JPG
+
+  - first_name: "Andreas"
+    last_name: "Feinenger"
+    wikipedia_url: https://en.wikipedia.org/wiki/Andreas_Feininger
+    born_year: "1906"
+    origin: "France"
+    filename: The_Library_of_Congress_-_(View_along_US_40_in_Mount_Vernon_Canyon,_Colorado)_(LOC).jpg
+
+  - first_name: "Andrei"
+    last_name: "Codrescu"
+    wikipedia_url: https://en.wikipedia.org/wiki/Andrei_Codrescu
+    born_year: "1946"
+    origin: "Romania"
+    filename: AndreiCodrescu.jpg
+
+  - first_name: "Anna Astvatsaturian"
+    last_name: "Turcotte"
+    wikipedia_url: https://en.wikipedia.org/wiki/Anna_Astvatsaturian_Turcotte
+    born_year: "1978"
+    origin: "USSR (Azerbaijan)"
+    filename: Աննա_Աստվածատուրյան_Թերքոթ.jpg
+
+  - first_name: "Anni"
+    last_name: "Albers"
+    wikipedia_url: https://en.wikipedia.org/wiki/Anni_Albers
+    born_year: "1899"
+    origin: "German Empire"
+    filename:
+
+  - first_name: "Anousheh"
+    last_name: "Ansari"
+    wikipedia_url: https://en.wikipedia.org/wiki/Anousheh_Ansari
+    born_year: "1966"
+    origin: "Iran"
+    filename: AnoushehAnsari.jpg
+
+  - first_name: "Anthony"
+    last_name: "McCall"
+    wikipedia_url: https://en.wikipedia.org/wiki/Anthony_McCall
+    born_year: "1946"
+    origin: "England"
+    filename: LDAC_Whitney.png
+
+  - first_name: "Anthony"
+    last_name: "Quinn"
+    wikipedia_url: https://en.wikipedia.org/wiki/Anthony_Quinn
+    born_year: "1915"
+    origin: "Mexico"
+    filename: Anthony_Quinn_signed.JPG
+
+  - first_name: "Anzia"
+    last_name: "Yezierska"
+    wikipedia_url: https://en.wikipedia.org/wiki/Anzia_Yezierska
+    born_year: "1880"
+    origin: "Russian Empire"
+    filename: Yezierska_CedarRapids_5Mar1921.jpg
+
+  - first_name: "Ariane"
+    last_name: "Lopez-Huici"
+    wikipedia_url: https://en.wikipedia.org/wiki/Ariane_Lopez-Huici
+    born_year: "1945"
+    origin: "France"
+    filename: Ariane_Lopez-Huici.jpg
+
+  - first_name: "Arman"
+    last_name: "Manookian"
+    wikipedia_url: https://en.wikipedia.org/wiki/Arman_Manookian
+    born_year: "1904"
+    origin: "Ottoman Empire"
+    filename: Anonymous_photograph_of_Arman_Manookian_c._1927.jpg
+
+  - first_name: "Arnold"
+    last_name: "Genthe"
+    wikipedia_url: https://en.wikipedia.org/wiki/Arnold_Genthe
+    born_year: "1869"
+    origin: "Germany"
+    filename: Arnold_Genthe_1900.jpg
+
+  - first_name: "Arnold"
+    last_name: "Schoenberg"
+    wikipedia_url: https://en.wikipedia.org/wiki/Arnold_Schoenberg
+    born_year: "1874"
+    origin: "Austria"
+    filename: Arnold_Schoenberg_la_1948.jpg
+
+  - first_name: "Arshile"
+    last_name: "Gorky"
+    wikipedia_url: https://en.wikipedia.org/wiki/Arshile_Gorky
+    born_year: "1904"
+    origin: "Ottoman Empire"
+    filename: Archives_of_American_Art_-_Arshile_Gorky_-_3044.jpg
+
+  - first_name: "Art"
+    last_name: "Spiegelman"
+    wikipedia_url: https://en.wikipedia.org/wiki/Art_Spiegelman
+    born_year: "1948"
+    origin: "Sweden"
+    filename: Art_Spiegelman_(2007).jpg
+
+  - first_name: "Arthur"
+    last_name: "Simms"
+    wikipedia_url:
+    born_year: "1961"
+    origin: "Jamaica"
+    filename:
+
+  - first_name: "Asadata"
+    last_name: "Dafora"
+    wikipedia_url: https://en.wikipedia.org/wiki/Asadata_Dafora
+    born_year: "1890"
+    origin: "Sierra Leone"
+    filename:
+
+  - first_name: "Ayn"
+    last_name: "Rand"
+    wikipedia_url: https://en.wikipedia.org/wiki/Ayn_Rand
+    born_year: "1905"
+    origin: "Russian Empire"
+    filename: Ayn_Rand_(1943_Talbot_portrait).jpg
+
+  - first_name: "Azar"
+    last_name: "Nafisi"
+    wikipedia_url: https://en.wikipedia.org/wiki/Azar_Nafisi
+    born_year: "1948"
+    origin: "Iran"
+    filename: Azar_Nafisi_2015.jpg
+
+  - first_name: "Bahar"
+    last_name: "Behbahani"
+    wikipedia_url:
+    born_year: "1973"
+    origin: "Iran"
+    filename:
+
+  - first_name: "Baik"
+    last_name: "Tae-ung"
+    wikipedia_url: https://en.wikipedia.org/wiki/Baik_Tae-ung
+    born_year: "1962"
+    origin: "South Korea"
+    filename: Baik_Tae-Ung.jpg
+
+  - first_name: "Bapsi"
+    last_name: "Sidhwa"
+    wikipedia_url: https://en.wikipedia.org/wiki/Bapsi_Sidhwa
+    born_year: "1936"
+    origin: "British India"
+    filename: Bapsi_sidhwa_2008.jpg
+
+  - first_name: "Bartolomeo"
+    last_name: "Vanzetti"
+    wikipedia_url: https://en.wikipedia.org/wiki/Sacco_and_Vanzetti
+    born_year: "1888"
+    origin: "Kingdom of Italy"
+    filename: Sacvan.jpg
+
+  - first_name: "Bas"
+    last_name: "Jan Ader"
+    wikipedia_url: https://en.wikipedia.org/wiki/Bas_Jan_Ader
+    born_year: "1942"
+    origin: "The Netherlands"
+    filename:
+
+  - first_name: "Béla"
+    last_name: "Bartók"
+    wikipedia_url: https://en.wikipedia.org/wiki/B%C3%A9la_Bart%C3%B3k
+    born_year: "1881"
+    origin: "Hungary"
+    filename: Bartók_Béla_1927.jpg
+
+  - first_name: "Ben"
+    last_name: "Shahn"
+    wikipedia_url: https://en.wikipedia.org/wiki/Ben_Shahn
+    born_year: "1898"
+    origin: "Russian Empire"
+    filename:
+
+  - first_name: "Bertolt"
+    last_name: "Brecht"
+    wikipedia_url: https://en.wikipedia.org/wiki/Bertolt_Brecht
+    born_year: "1898"
+    origin: "German Empire"
+    filename: Bertolt-Brecht.jpg
+
+  - first_name: "Bharati"
+    last_name: "Mukherjee"
+    wikipedia_url: https://en.wikipedia.org/wiki/Bharati_Mukherjee
+    born_year: "1940"
+    origin: "India"
+    filename: MukherjeeL3.jpg
+
+  - first_name: "Bjarne"
+    last_name: "Stroustrup"
+    wikipedia_url: https://en.wikipedia.org/wiki/Bjarne_Stroustrup
+    born_year: "1950"
+    origin: "Denmark"
+    filename: Bjarne-stroustrup_(cropped).jpg
+
+  - first_name: "Blanka"
+    last_name: "Amezkua"
+    wikipedia_url: https://en.wikipedia.org/wiki/Blanka_Amezkua
+    born_year: "1971"
+    origin: "Mexico"
+    filename:
+
+  - first_name: "Bob"
+    last_name: "Marley"
+    wikipedia_url: https://en.wikipedia.org/wiki/Bob_Marley
+    born_year: "1945"
+    origin: "British Jamaica"
+    filename: Bob-Marley.jpg
+
+  - first_name: "Brian"
+    last_name: "O’Doherty"
+    wikipedia_url: https://en.wikipedia.org/wiki/Brian_O%27Doherty
+    born_year: "1928"
+    origin: "Ireland"
+    filename:
+
+  - first_name: "Brian"
+    last_name: "Wood"
+    wikipedia_url: https://en.wikipedia.org/wiki/Brian_Wood_(artist)
+    born_year: "1948"
+    origin: "Canada"
+    filename: Brian_Wood_visual_artist_New_York.jpg
+
+  - first_name: "C.L.R."
+    last_name: "James"
+    wikipedia_url: https://en.wikipedia.org/wiki/C._L._R._James
+    born_year: "1901"
+    origin: "Tridad and Tobago"
+    filename:
+
+  - first_name: "Camilo"
+    last_name: "Aguirre"
+    wikipedia_url:
+    born_year: "1988"
+    origin: "Colombia"
+    filename:
+
+  - first_name: "Carlos"
+    last_name: "Santana"
+    wikipedia_url: https://en.wikipedia.org/wiki/Carlos_Santana
+    born_year: "1947"
+    origin: "Mexico"
+    filename: Santana_Acer_Arena_(5558151833)_(cropped).jpg
+
+  - first_name: "Carmen"
+    last_name: "Herrera"
+    wikipedia_url: https://en.wikipedia.org/wiki/Carmen_Herrera
+    born_year: "1915"
+    origin: "Republic of Cuba"
+    filename: Carmen_Herrera.jpg
+
+  - first_name: "Carola"
+    last_name: "Eisenberg"
+    wikipedia_url: https://en.wikipedia.org/wiki/Carola_B._Eisenberg
+    born_year: "1917"
+    origin: "Argentina"
+    filename: Carola_Eisenberg_as_HMS_Dean_of_Students_-_Commencement.jpg
+
+  - first_name: "Carole"
+    last_name: "d Inverno"
+    wikipedia_url:
+    born_year: "1956"
+    origin: "Belgium"
+    filename:
+
+  - first_name: "Carole"
+    last_name: "Naggar"
+    wikipedia_url: https://en.wikipedia.org/wiki/Carole_Naggar
+    born_year: "unknown"
+    origin: "Republic of Egypt"
+    filename: Photo_on_11-1-16_at_5.30_PM.jpg
+
+  - first_name: "Cary"
+    last_name: "Grant"
+    wikipedia_url: https://en.wikipedia.org/wiki/Cary_Grant
+    born_year: "1904"
+    origin: "England"
+    filename: Grant,_Cary_(Suspicion)_01_Crisco_edit.jpg
+
+  - first_name: "Catherine (Cassie)"
+    last_name: "Callahan"
+    wikipedia_url:
+    born_year: "1876"
+    origin: "Ireland"
+    filename:
+
+  - first_name: "Cecile"
+    last_name: "Chong"
+    wikipedia_url:
+    born_year: "1964"
+    origin: "Ecuador"
+    filename:
+
+  - first_name: "Cecilia"
+    last_name: "Vicuña"
+    wikipedia_url: https://en.wikipedia.org/wiki/Cecilia_Vicu%C3%B1a
+    born_year: "1948"
+    origin: "Chile"
+    filename:
+
+  - first_name: "Cecily"
+    last_name: "Brown"
+    wikipedia_url: https://en.wikipedia.org/wiki/Cecily_Brown
+    born_year: "1969"
+    origin: "England"
+    filename: Cecily_Brown_2012.jpg
+
+  - first_name: "Celia"
+    last_name: "Cruz"
+    wikipedia_url: https://en.wikipedia.org/wiki/Celia_Cruz
+    born_year: "1925"
+    origin: "Cuba"
+    filename: Celia_Cruz,_1957.jpg
+
+  - first_name: "Celina"
+    last_name: "Su"
+    wikipedia_url:
+    born_year: "1977"
+    origin: "Brazil"
+    filename:
+
+  - first_name: "Chan-Hyo"
+    last_name: "Bae"
+    wikipedia_url: https://en.wikipedia.org/wiki/Chan-Hyo_Bae
+    born_year: "1975"
+    origin: "South Korea"
+    filename: Chan-Hyo_Bae.jpg
+
+  - first_name: "Chang-rae"
+    last_name: "Lee"
+    wikipedia_url: https://en.wikipedia.org/wiki/Chang-Rae_Lee
+    born_year: "1965"
+    origin: "South Korea"
+    filename: Chang-rae_Lee_at_UMich.jpg
+
+  - first_name: "Chantal"
+    last_name: "Akerman"
+    wikipedia_url: https://en.wikipedia.org/wiki/Chantal_Akerman
+    born_year: "1950"
+    origin: "Belgium"
+    filename: Chantal_Akerman_-_video_still_(cropped).jpg
+
+  - first_name: "Charles"
+    last_name: "Mudede"
+    wikipedia_url: https://en.wikipedia.org/wiki/Charles_Mudede
+    born_year: "1969"
+    origin: "Rhodesia"
+    filename: Charles_Mudede_-_Pop_Conference_2016_-_02_(cropped).jpg
+
+  - first_name: "Chike Frankie"
+    last_name: "Edozien"
+    wikipedia_url: https://en.wikipedia.org/wiki/Chike_Frankie_Edozien
+    born_year: "1970"
+    origin: "Nigeria"
+    filename: Headshots.jpg
+
+  - first_name: "Chimamanda Adichie"
+    last_name: "Ngozi"
+    wikipedia_url: https://en.wikipedia.org/wiki/Chimamanda_Ngozi_Adichie
+    born_year: "1977"
+    origin: "Nigeria"
+    filename: Chimamanda_Ngozi_Adichie_9374.JPG
+
+  - first_name: "Chinua"
+    last_name: "Achebe"
+    wikipedia_url: https://en.wikipedia.org/wiki/Chinua_Achebe
+    born_year: "1930"
+    origin: "British Nigeria"
+    filename: Chinua_Achebe,_2008_(cropped).jpg
+
+  - first_name: "Claes"
+    last_name: "Oldenburg"
+    wikipedia_url: https://en.wikipedia.org/wiki/Claes_Oldenburg
+    born_year: "1929"
+    origin: "Sweden"
+    filename: Museum_Ludwig_-_Pressekonferenz_-_Claes_Oldenburg-3979.jpg
+
+  - first_name: "Claude"
+    last_name: "Ake"
+    wikipedia_url: https://en.wikipedia.org/wiki/Claude_Ake
+    born_year: "1939"
+    origin: "British Nigeria"
+    filename: Claude_Ake.jpg
+
+  - first_name: "Cristina"
+    last_name: "García"
+    wikipedia_url: https://en.wikipedia.org/wiki/Cristina_Garc%C3%ADa_(journalist)
+    born_year: "1958"
+    origin: "Republic of Cuba"
+    filename: Cristina_García.jpg
+
+  - first_name: "Daisy"
+    last_name: "Cocco De Filippis"
+    wikipedia_url: https://en.wikipedia.org/wiki/Daisy_Cocco_De_Filippis
+    born_year: "1949"
+    origin: "Dominican Republic"
+    filename: DaisyCoccoDeFilippis.JPG
+
+  - first_name: "Dana"
+    last_name: "Levy"
+    wikipedia_url:
+    born:
+    origin: "Israel"
+    filename:
+
+  - first_name: "David"
+    last_name: "Bowie"
+    wikipedia_url: https://en.wikipedia.org/wiki/David_Bowie
+    born_year: "1947"
+    origin: "England"
+    filename: David-Bowie_Chicago_2002-08-08_photoby_Adam-Bielawski-cropped.jpg
+
+  - first_name: "David"
+    last_name: "Burliuk"
+    wikipedia_url: https://en.wikipedia.org/wiki/David_Burliuk
+    born_year: "1882"
+    origin: "Russian Empire"
+    filename: David_Burliuk_1914.jpg
+
+  - first_name: "David"
+    last_name: "Ho"
+    wikipedia_url: https://en.wikipedia.org/wiki/David_Ho
+    born_year: "1952"
+    origin: "Taiwan"
+    filename: Ho_photo.jpg
+
+  - first_name: "David"
+    last_name: "Reynolds"
+    wikipedia_url:
+    born_year: "1948"
+    origin: "Canada"
+    filename:
+
+  - first_name: "Deborah"
+    last_name: "Wasserman"
+    wikipedia_url:
+    born_year: "1965"
+    origin: "Brazil/Israel"
+    filename:
+
+  - first_name: "Diana Seo Hyung"
+    last_name: "Lee"
+    wikipedia_url:
+    born_year: "1986"
+    origin: "Seoul, South Korea"
+    filename:
+
+  - first_name: "Dinaw"
+    last_name: "Mengestu"
+    wikipedia_url: https://en.wikipedia.org/wiki/Dinaw_Mengestu
+    born_year: "1978"
+    origin: "Ethiopia"
+    filename: Dinaw_Mengestu_3041199.JPG
+
+  - first_name: "Dunya"
+    last_name: "Mikhail"
+    wikipedia_url: https://en.wikipedia.org/wiki/Dunya_Mikhail
+    born_year: "1965"
+    origin: "Iraq"
+    filename: Dunya_mikhail3291781.JPG
+
+  - first_name: "Edgard"
+    last_name: "Varèse"
+    wikipedia_url: https://en.wikipedia.org/wiki/Edgard_Var%C3%A8se
+    born_year: "1883"
+    origin: "France"
+    filename: Edgard_Varese.gif
+
+  - first_name: "Edit"
+    last_name: "deAk"
+    wikipedia_url: https://en.wikipedia.org/wiki/Edit_DeAk
+    born_year: "1948"
+    origin: "Hungary"
+    filename:
+
+  - first_name: "Eduardo"
+    last_name: "Kac"
+    wikipedia_url: https://en.wikipedia.org/wiki/Eduardo_Kac
+    born_year: "1962"
+    origin: "Brazil"
+    filename: Eduardo_Kac_-_Genesis_-_Ars_Electronica_99.jpg
+
+  - first_name: "Edward"
+    last_name: "Said"
+    wikipedia_url: https://en.wikipedia.org/wiki/Edward_Said
+    born_year: "1935"
+    origin: "Mandatory Palestine"
+    filename: Edward_Said_and_Daniel_Barenboim_in_Sevilla,_2002.jpg
+
+  - first_name: "Edward"
+    last_name: "Steichen"
+    wikipedia_url: https://en.wikipedia.org/wiki/Edward_Steichen
+    born_year: "1879"
+    origin: "Luxembourg"
+    filename: Edward_Steichen.jpg
+
+  - first_name: "Edwidge"
+    last_name: "Danticat"
+    wikipedia_url: https://en.wikipedia.org/wiki/Edwidge_Danticat
+    born_year: "1969"
+    origin: "Haiti"
+    filename: Edwidge_Danticat_by_David_Shankbone.jpg
+
+  - first_name: "Eero"
+    last_name: "Saarinen"
+    wikipedia_url: https://en.wikipedia.org/wiki/Eero_Saarinen
+    born_year: "1910"
+    origin: "Russian Empire"
+    filename: Eero-Saarinen.jpg
+
+  - first_name: "Elie"
+    last_name: "Wiesel"
+    wikipedia_url: https://en.wikipedia.org/wiki/Elie_Wiesel
+    born_year: "1928"
+    origin: "Kingdom of Romania"
+    filename: ELIE_WIESEL_(5112581267).jpg
+
+  - first_name: "Elisabeth"
+    last_name: "Kübler-Ross"
+    wikipedia_url: https://en.wikipedia.org/wiki/Elisabeth_K%C3%BCbler-Ross
+    born_year: "1926"
+    origin: "Switzerland"
+    filename:
+
+  - first_name: "Emma"
+    last_name: "Goldman"
+    wikipedia_url: https://en.wikipedia.org/wiki/Emma_Goldman
+    born_year: "1869"
+    origin: "Russian Empire"
+    filename: Emma_Goldman_seated.jpg
+
+  - first_name: "Enrico"
+    last_name: "Fermi"
+    wikipedia_url: https://en.wikipedia.org/wiki/Enrico_Fermi
+    born_year: "1901"
+    origin: "Italy"
+    filename: Enrico_Fermi_1943-49.jpg
+
+  - first_name: "Enrique"
+    last_name: "Chagoya"
+    wikipedia_url: https://en.wikipedia.org/wiki/Enrique_Chagoya
+    born_year: "1953"
+    origin: "Mexico"
+    filename:
+
+  - first_name: "Enrique"
+    last_name: "Martinez Celaya"
+    wikipedia_url: https://en.wikipedia.org/wiki/Enrique_Martinez_Celaya
+    born_year: "1964"
+    origin: "Cuba"
+    filename: Enrique_Martinez_Celaya_(49614371027).jpg
+
+  - first_name: "Erich"
+    last_name: "Fromm"
+    wikipedia_url: https://en.wikipedia.org/wiki/Erich_Fromm
+    born_year: "1900"
+    origin: "German Empire"
+    filename: Erich_Fromm_1974.jpg
+
+  - first_name: "Erik"
+    last_name: "Demaine"
+    wikipedia_url: https://en.wikipedia.org/wiki/Erik_Demaine
+    born_year: "1981"
+    origin: "Canada"
+    filename: Erik_Demaine_2005.jpg
+
+  - first_name: "Erik"
+    last_name: "Erikson"
+    wikipedia_url: https://en.wikipedia.org/wiki/Erik_Erikson
+    born_year: "1902"
+    origin: "German Empire"
+    filename: Erik_Erikson.png
+
+  - first_name: "Ernst"
+    last_name: "Bloch"
+    wikipedia_url: https://en.wikipedia.org/wiki/Ernst_Bloch
+    born_year: "1880"
+    origin: "Switzerland"
+    filename: Bundesarchiv_Bild_183-27348-0008,_Berlin,_Ernst_Bloch_auf_Begegnung_der_Geistesschaffenden.jpg
+
+  - first_name: "Esmeralda"
+    last_name: "Santiago"
+    wikipedia_url: https://en.wikipedia.org/wiki/Esmeralda_Santiago
+    born_year: "1948"
+    origin: "Puerto Rico"
+    filename: Esmeralda_Santiago_2012.jpg
+
+  - first_name: "Etel"
+    last_name: "Adnan"
+    wikipedia_url: https://en.wikipedia.org/wiki/Etel_Adnan
+    born_year: "1925"
+    origin: "French Lebanon"
+    filename: Etel_Adnan,_2008_(cropped).jpg
+
+  - first_name: "Eva"
+    last_name: "Davidova"
+    wikipedia_url:
+    born_year: "1969"
+    origin: "Sofia (Bulgaria) and Madrid (Spain)"
+    filename:
+
+  - first_name: "Eva"
+    last_name: "Davidova"
+    wikipedia_url:
+    born_year: "1970"
+    origin: "Bulgaria"
+    filename:
+
+  - first_name: "Eva"
+    last_name: "Ziesel"
+    wikipedia_url: https://en.wikipedia.org/wiki/Eva_Zeisel
+    born_year: "1906"
+    origin: "Hungary"
+    filename: Eva_Zeisel.jpg
+
+  - first_name: "F.J."
+    last_name: "Duarte"
+    wikipedia_url: https://en.wikipedia.org/wiki/F._J._Duarte
+    born_year: "1954"
+    origin: "Chile"
+    filename: FJ_DUARTE_(2006).jpg
+
+  - first_name: "Fatima"
+    last_name: "Jibrell"
+    wikipedia_url: https://en.wikipedia.org/wiki/Fatima_Jibrell
+    born_year: "1947"
+    origin: "Somalia"
+    filename: Fatima_Jibrell2.jpg
+
+  - first_name: "Felix"
+    last_name: "Gonzales-Torres"
+    wikipedia_url: https://en.wikipedia.org/wiki/F%C3%A9lix_Gonz%C3%A1lez-Torres
+    born_year: "1957"
+    origin: "Republic of Cuba"
+    filename:
+
+  - first_name: "Fernando"
+    last_name: "Cabrera"
+    wikipedia_url: https://en.wikipedia.org/wiki/Fernando_Cabrera_(writer)
+    born_year: "1964"
+    origin: "Dominican Republic"
+    filename: Fernando-Cabrera.jpg
+
+  - first_name: "Fernando"
+    last_name: "Caldeiro"
+    wikipedia_url: https://en.wikipedia.org/wiki/Fernando_Caldeiro
+    born_year: "1958"
+    origin: "Argentina"
+    filename: Fernando_Caldeiro.jpg
+
+  - first_name: "Filippo"
+    last_name: "Fossati"
+    wikipedia_url:
+    born_year: "1965"
+    origin: "Turin, Italy"
+    filename:
+
+  - first_name: "Florencia"
+    last_name: "Escudero"
+    wikipedia_url:
+    born_year: "1987"
+    origin: "Argentina"
+    filename:
+
+  - first_name: "France A."
+    last_name: "Córdova"
+    wikipedia_url: https://en.wikipedia.org/wiki/France_A._C%C3%B3rdova
+    born_year: "1947"
+    origin: "France"
+    filename: France_A._Córdova_official_photo.jpg
+
+  - first_name: "Francesco"
+    last_name: "Clemente"
+    wikipedia_url: https://en.wikipedia.org/wiki/Francesco_Clemente
+    born_year: "1952"
+    origin: "Italy"
+    filename: Michael_Avedon_Francesco_Clemente.jpg
+
+  - first_name: "Francisco"
+    last_name: "Donoso"
+    wikipedia_url:
+    born_year: "1988"
+    origin: "Quito, Ecuador"
+    filename:
+
+  - first_name: "Francisco"
+    last_name: "Moncion"
+    wikipedia_url: https://en.wikipedia.org/wiki/Francisco_Moncion
+    born_year: "1918"
+    origin: "Dominican Republic"
+    filename: Vechten,_Carl_van_-_1947_-_Francisco_Moncion.jpg
+
+  - first_name: "Frank"
+    last_name: "Gehry"
+    wikipedia_url: https://en.wikipedia.org/wiki/Frank_Gehry
+    born_year: "1929"
+    origin: "Canada"
+    filename: Frank_O._Gehry_-_Parc_des_Ateliers_(cropped).jpg
+
+  - first_name: "Franklin Chang"
+    last_name: "Díaz"
+    wikipedia_url: https://en.wikipedia.org/wiki/Franklin_Chang_D%C3%ADaz
+    born_year: "1950"
+    origin: "Costa Rica"
+    filename: Changdiaz.jpg
+
+  - first_name: "Fritz"
+    last_name: "Lang"
+    wikipedia_url: https://en.wikipedia.org/wiki/Fritz_Lang
+    born_year: "1890"
+    origin: "Austria-Hungary"
+    filename: Fritz_Lang_(1969).jpg
+
+  - first_name: "Gary"
+    last_name: "Shteyngart"
+    wikipedia_url: https://en.wikipedia.org/wiki/Gary_Shteyngart
+    born_year: "1972"
+    origin: "USSR"
+    filename: GaryShteyngart.jpg
+
+  - first_name: "Genesis"
+    last_name: "Breyer P-Orridge"
+    wikipedia_url: https://en.wikipedia.org/wiki/Genesis_P-Orridge
+    born_year: "1950"
+    origin: "England"
+    filename: Genesis_P-Orridge_with_Throbbing_Gristle.jpg
+
+  - first_name: "George"
+    last_name: "Balanchine"
+    wikipedia_url: https://en.wikipedia.org/wiki/George_Balanchine
+    born_year: "1904"
+    origin: "Russia"
+    filename: George_Balanchine_(1965).jpg
+
+  - first_name: "George"
+    last_name: "Grosz"
+    wikipedia_url: https://en.wikipedia.org/wiki/George_Grosz
+    born_year: "1893"
+    origin: "Germany"
+    filename: GeorgeGrosz.jpg
+
+  - first_name: "George"
+    last_name: "Maciunas"
+    wikipedia_url: https://en.wikipedia.org/wiki/George_Maciunas
+    born_year: "1931"
+    origin: "Lithuania"
+    filename: Jurgis_Mačiūnas_2016_stamp_of_Lithuania.jpg
+
+  - first_name: "George"
+    last_name: "Santayana"
+    wikipedia_url: https://en.wikipedia.org/wiki/George_Santayana
+    born_year: "1863"
+    origin: "Spain"
+    filename: George_Santayana.jpg
+
+  - first_name: "Ghada"
+    last_name: "Amer"
+    wikipedia_url: https://en.wikipedia.org/wiki/Ghada_Amer
+    born_year: "1963"
+    origin: "Republic of Egypt"
+    filename: 'Ghada_Amer_lors_d''une_conférence_à_Tours.jpg'
+
+  - first_name: "Gonzalo"
+    last_name: "Fonseca"
+    wikipedia_url: https://en.wikipedia.org/wiki/Gonzalo_Fonseca
+    born_year: "1922"
+    origin: "Uruguay"
+    filename: Torre_de_los_Vientos_en_la_RUTA_DE_LA_AMISTAD.jpg
+
+  - first_name: "Grace"
+    last_name: "Jones"
+    wikipedia_url: https://en.wikipedia.org/wiki/Grace_Jones
+    born_year: "1948"
+    origin: "British Jamaica"
+    filename: Grace_Jones_(June_1,_2015).jpg
+
+  - first_name: "Greta"
+    last_name: "Garbo"
+    wikipedia_url: https://en.wikipedia.org/wiki/Greta_Garbo
+    born_year: "1905"
+    origin: "Sweden"
+    filename:
+
+  - first_name: "Gulalai"
+    last_name: "Ismail"
+    wikipedia_url: https://en.wikipedia.org/wiki/Gulalai_Ismail
+    born_year: "1986"
+    origin: "Pakistan"
+    filename: Gulalai_Ismail.jpg
+
+  - first_name: "Ha"
+    last_name: "Jin"
+    wikipedia_url: https://en.wikipedia.org/wiki/Ha_Jin
+    born_year: "1956"
+    origin: "'People''s Republic of China'"
+    filename: Ha_jin_8693.jpg
+
+  - first_name: "Haig"
+    last_name: "Patigian"
+    wikipedia_url: https://en.wikipedia.org/wiki/Haig_Patigian
+    born_year: "1876"
+    origin: "Ottoman Empire"
+    filename: Helen_of_California_by_Haig_Patigian.jpg
+
+  - first_name: "Haile"
+    last_name: "Gerima"
+    wikipedia_url: https://en.wikipedia.org/wiki/Haile_Gerima
+    born_year: "1946"
+    origin: "Italian Ethiopian Empire"
+    filename: Haile_gerima_7698.JPG
+
+  - first_name: "Halim"
+    last_name: "El-Dabh"
+    wikipedia_url: https://en.wikipedia.org/wiki/Halim_El-Dabh
+    born_year: "1921"
+    origin: "British Egypt"
+    filename: Halim_El-Dabh2.jpg
+
+  - first_name: "Hannah"
+    last_name: "Arendt"
+    wikipedia_url: https://en.wikipedia.org/wiki/Hannah_Arendt
+    born_year: "1906"
+    origin: "German Empire"
+    filename: Hannah_Arendt_1975_(cropped).jpg
+
+  - first_name: "Hanne"
+    last_name: "Tierney"
+    wikipedia_url:
+    born_year: "1940"
+    origin: "Bauten, Germany"
+    filename:
+
+  - first_name: "Hannelore"
+    last_name: "Baron"
+    wikipedia_url: https://en.wikipedia.org/wiki/Hannelore_Baron
+    born_year: "1926"
+    origin: "Germany"
+    filename: Hannelore_Baron_in_Studio.jpg
+
+  - first_name: "Hans"
+    last_name: "Bethe"
+    wikipedia_url: https://en.wikipedia.org/wiki/Hans_Bethe
+    born_year: "1906"
+    origin: "Germany"
+    filename: Hans_Bethe.jpg
+
+  - first_name: "Hedda"
+    last_name: "Sterne"
+    wikipedia_url: https://en.wikipedia.org/wiki/Hedda_Sterne
+    born_year: "1910"
+    origin: "Romania"
+    filename:
+
+  - first_name: "Hedy"
+    last_name: "Lamarr"
+    wikipedia_url: https://en.wikipedia.org/wiki/Hedy_Lamarr
+    born_year: "1914"
+    origin: "Austria-Hungary"
+    filename: Hedy_lamarr_-_1940.jpg
+
+  - first_name: "Heinrich"
+    last_name: "Mann"
+    wikipedia_url: https://en.wikipedia.org/wiki/Heinrich_Mann
+    born_year: "1871"
+    origin: "German Empire"
+    filename: Bundesarchiv_Bild_183-R98911,_Heinrich_Mann.jpg
+
+  - first_name: "Herbert"
+    last_name: "Marcuse"
+    wikipedia_url: https://en.wikipedia.org/wiki/Herbert_Marcuse
+    born_year: "1898"
+    origin: "German Empire"
+    filename: Herbert_Marcuse_in_Newton,_Massachusetts_1955.jpeg
+
+  - first_name: "Hiroyuki"
+    last_name: "Ito"
+    wikipedia_url:
+    born_year: "1968"
+    origin: "Tokyo, Japan"
+    filename:
+
+  - first_name: "Huda"
+    last_name: "Akil"
+    wikipedia_url: https://en.wikipedia.org/wiki/Huda_Akil
+    born_year: "1945"
+    origin: "Syria"
+    filename: Huda_Akil_at_UMich.gif
+
+  - first_name: "Hyman"
+    last_name: "Bloom"
+    wikipedia_url: https://en.wikipedia.org/wiki/Hyman_Bloom
+    born_year: "1913"
+    origin: "Russian Empire"
+    filename:
+
+  - first_name: "I.M"
+    last_name: "Pei"
+    wikipedia_url: https://en.wikipedia.org/wiki/I._M._Pei
+    born_year: "1917"
+    origin: "Republic of China"
+    filename: I.M._Pei_(June_2006).jpg
+
+  - first_name: "Igor"
+    last_name: "Stranvinsky"
+    wikipedia_url: https://en.wikipedia.org/wiki/Igor_Stravinsky
+    born_year: "1882"
+    origin: "Russian Empire"
+    filename: Igor_Stravinsky_LOC_32392u.jpg
+
+  - first_name: "Iliana Emilia"
+    last_name: "Garcia"
+    wikipedia_url:
+    born_year: "1970"
+    origin: "Dominican Republic"
+    filename:
+
+  - first_name: "Ilya"
+    last_name: "Bolotowsky"
+    wikipedia_url: https://en.wikipedia.org/wiki/Ilya_Bolotowsky
+    born_year: "1907"
+    origin: "Russia"
+    filename: Archives_of_American_Art_-_Ilya_Bolotowsky_-_3143_CROPPED.jpg
+
+  - first_name: "Ilya"
+    last_name: "Kabakov"
+    wikipedia_url: https://en.wikipedia.org/wiki/Ilya_Kabakov
+    born_year: "1933"
+    origin: "USSR"
+    filename: Ilya_Kabakov.jpg
+
+  - first_name: "Iman"
+    last_name: "Issa"
+    wikipedia_url: https://en.wikipedia.org/wiki/Iman_Issa
+    born_year: "1979"
+    origin: "Republic of Egypt"
+    filename: Iman_Issa.jpg
+
+  - first_name: "Imbolo"
+    last_name: "Mbue"
+    wikipedia_url: https://en.wikipedia.org/wiki/Imbolo_Mbue
+    born_year: "1981"
+    origin: "Cameroon"
+    filename: Imbolo_Mbue_2.png
+
+  - first_name: "Ina"
+    last_name: "Cariño"
+    wikipedia_url:
+    born_year: "1988"
+    origin: "Philippines"
+    filename:
+
+  - first_name: "Isaac"
+    last_name: "Asimov"
+    wikipedia_url: https://en.wikipedia.org/wiki/Isaac_Asimov
+    born_year: "1920"
+    origin: "Russian SFSR"
+    filename: Isaac.Asimov01.jpg
+
+  - first_name: "Isabel"
+    last_name: "Allende"
+    wikipedia_url: https://en.wikipedia.org/wiki/Isabel_Allende
+    born_year: "1942"
+    origin: "Peru"
+    filename: Isabel_Allende_Frankfurter_Buchmesse_2015_(cropped).JPG
+
+  - first_name: "Italo Jose"
+    last_name: "Dejter"
+    wikipedia_url: https://en.wikipedia.org/wiki/Italo_Jose_Dejter
+    born_year: "1939"
+    origin: "Argentina"
+    filename: This_is_a_picture_of_Italo_J._Dejter.jpg
+
+  - first_name: "Jack"
+    last_name: "Delano"
+    wikipedia_url: https://en.wikipedia.org/wiki/Jack_Delano
+    born_year: "1914"
+    origin: "Russia"
+    filename: Jack_Delano_in_his_studio.jpg
+
+  - first_name: "Jack"
+    last_name: "Goldstein"
+    wikipedia_url: https://en.wikipedia.org/wiki/Jack_Goldstein
+    born_year: "1945"
+    origin: "Canada"
+    filename:
+
+  - first_name: "Jack"
+    last_name: "Tworkov"
+    wikipedia_url: https://en.wikipedia.org/wiki/Jack_Tworkov
+    born_year: "1900"
+    origin: "Poland"
+    filename:
+
+  - first_name: "Jacob"
+    last_name: "Riis"
+    wikipedia_url: https://en.wikipedia.org/wiki/Jacob_Riis
+    born_year: "1849"
+    origin: "Denmark"
+    filename: Jacob_Riis_2.jpg
+
+  - first_name: "Jacqueline"
+    last_name: "Winsor"
+    wikipedia_url: https://en.wikipedia.org/wiki/Jacqueline_Winsor
+    born_year: "1941"
+    origin: "Canada"
+    filename:
+
+  - first_name: "Jagdish"
+    last_name: "Bhagwati"
+    wikipedia_url: https://en.wikipedia.org/wiki/Jagdish_Bhagwati
+    born_year: "1934"
+    origin: "British India"
+    filename: Jagdish_N._Bhagwati_Professor_Jagdish_pa_Columbia_University_talar_vid_invigningen_av_Nordiskt_globaliseringsforum_i_Riksgransen_2008-04-02.jpg
+
+  - first_name: "Jaime"
+    last_name: "Davidovich"
+    wikipedia_url: https://en.wikipedia.org/wiki/Jaime_Davidovich
+    born_year: "1936"
+    origin: "Argentina"
+    filename:
+
+  - first_name: "Jaime"
+    last_name: "Escalante"
+    wikipedia_url: https://en.wikipedia.org/wiki/Jaime_Escalante
+    born_year: "1930"
+    origin: "Bolivia"
+    filename: Jaime_Escalante.jpg
+
+  - first_name: "Jaleh"
+    last_name: "Mansoor"
+    wikipedia_url:
+    born_year: "1975"
+    origin: "Iran"
+    filename:
+
+  - first_name: "Jamaica"
+    last_name: "Kincaid"
+    wikipedia_url: https://en.wikipedia.org/wiki/Jamaica_Kincaid
+    born_year: "1949"
+    origin: "British Antigua and Barbuda"
+    filename: Jamaica_Kincaid_2019.jpg
+
+  - first_name: "James"
+    last_name: "Reston"
+    wikipedia_url: https://en.wikipedia.org/wiki/James_Reston
+    born_year: "1909"
+    origin: "Scotland"
+    filename:
+
+  - first_name: "James"
+    last_name: "Fuentes"
+    wikipedia_url:
+    born_year: "1977"
+    origin: "Ecuador"
+    filename:
+
+  - first_name: "Janine"
+    last_name: "Antoni"
+    wikipedia_url: https://en.wikipedia.org/wiki/Janine_Antoni
+    born_year: "1964"
+    origin: "The Bahamas"
+    filename:
+
+  - first_name: "Jascha"
+    last_name: "Heifetz"
+    wikipedia_url: https://en.wikipedia.org/wiki/Jascha_Heifetz
+    born_year: "1901"
+    origin: "Russia"
+    filename: Heifetz_LOC_38890u.jpg
+
+  - first_name: "Jasko"
+    last_name: "Begovic"
+    wikipedia_url:
+    born_year: "1980"
+    origin: "Bosnia and Herzegovina"
+    filename:
+
+  - first_name: "Jessamine"
+    last_name: "Batario"
+    wikipedia_url:
+    born_year: "1982"
+    origin: "Philippines"
+    filename:
+
+  - first_name: "Jessica"
+    last_name: "Hagedorn"
+    wikipedia_url: https://en.wikipedia.org/wiki/Jessica_Hagedorn
+    born_year: "1949"
+    origin: "Phillipines"
+    filename: Jessica_Hagedorn_at_the_2008_Tribeca_Film_Festival.jpg
+
+  - first_name: "Jhumpa"
+    last_name: "Lahiri"
+    wikipedia_url: https://en.wikipedia.org/wiki/Jhumpa_Lahiri
+    born_year: "1967"
+    origin: "England"
+    filename: Jhumpa_Lahiri.jpg
+
+  - first_name: "Jimmy"
+    last_name: "Ernst"
+    wikipedia_url: https://en.wikipedia.org/wiki/Jimmy_Ernst
+    born_year: "1920"
+    origin: "Germany"
+    filename:
+
+  - first_name: "Jo Anna"
+    last_name: "Isaak"
+    wikipedia_url:
+    born_year: "1949"
+    origin: "Canada"
+    filename:
+
+  - first_name: "Joachim"
+    last_name: "Pissarro"
+    wikipedia_url: https://en.wikipedia.org/wiki/Joachim_Pissarro
+    born_year: "4/6/1959"
+    origin: "Caen, Normandy"
+    filename:
+
+  - first_name: "Joe"
+    last_name: "Hill"
+    wikipedia_url: https://en.wikipedia.org/wiki/Joe_Hill
+    born_year: "1879"
+    origin: "Sweden"
+    filename: Joe_hill002.jpg
+
+  - first_name: "John"
+    last_name: "Elderfield"
+    wikipedia_url: https://en.wikipedia.org/wiki/John_Elderfield
+    born_year: "1943"
+    origin: "England"
+    filename:
+
+  - first_name: "John"
+    last_name: "Muir"
+    wikipedia_url: https://en.wikipedia.org/wiki/John_Muir
+    born_year: "1838"
+    origin: "Scotland"
+    filename: John_Muir_c1902.jpg
+
+  - first_name: "John James"
+    last_name: "Audubon"
+    wikipedia_url: https://en.wikipedia.org/wiki/John_James_Audubon
+    born_year: "1785"
+    origin: "Saint-Domingue"
+    filename: John_James_Audubon_1826.jpg
+
+  - first_name: "Joni"
+    last_name: "Mitchell"
+    wikipedia_url: https://en.wikipedia.org/wiki/Joni_Mitchell
+    born_year: "1943"
+    origin: "Canada"
+    filename: Joni_mitchell_1974_(cropped).jpg
+
+  - first_name: "Jose"
+    last_name: "de Creeft"
+    wikipedia_url: https://en.wikipedia.org/wiki/Jose_de_Creeft
+    born_year: "1884"
+    origin: "Spain"
+    filename: JosedeCreeftSignature.jpg
+
+  - first_name: "José"
+    last_name: "Bernal"
+    wikipedia_url: https://en.wikipedia.org/wiki/Jos%C3%A9_Bernal
+    born_year: "1925"
+    origin: "Republic of Cuba"
+    filename: José_Bernal,_Santa_Clara,_Cuba,_1952.jpg
+
+  - first_name: "José"
+    last_name: "Clemente Orozco"
+    wikipedia_url: https://en.wikipedia.org/wiki/Jos%C3%A9_Clemente_Orozco
+    born_year: "1883"
+    origin: "Mexico"
+    filename: Orozco_en_polyforum0001.jpg
+
+  - first_name: "Josef"
+    last_name: "Albers"
+    wikipedia_url: https://en.wikipedia.org/wiki/Josef_Albers
+    born_year: "1888"
+    origin: "German Empire"
+    filename:
+
+  - first_name: "Josefina"
+    last_name: "Baez"
+    wikipedia_url: https://en.wikipedia.org/wiki/Josefina_Baez
+    born_year: "1960"
+    origin: "Dominican Republic"
+    filename: Josefina_Baez.jpg
+
+  - first_name: "Joseph"
+    last_name: "Brodsky"
+    wikipedia_url: https://en.wikipedia.org/wiki/Joseph_Brodsky
+    born_year: "1940"
+    origin: "Russia"
+    filename: Joseph_Brodsky_1988.jpg
+
+  - first_name: "Joseph"
+    last_name: "Pulitzer"
+    wikipedia_url: https://en.wikipedia.org/wiki/Joseph_Pulitzer
+    born_year: "1847"
+    origin: "Kingdom of Hungary"
+    filename: JosephPulitzerPinceNeznpsgov.jpg
+
+  - first_name: "Joseph"
+    last_name: "Stella"
+    wikipedia_url: https://en.wikipedia.org/wiki/Joseph_Stella
+    born_year: "1877"
+    origin: "Italy"
+    filename:
+
+  - first_name: "Joseph Abiodun"
+    last_name: "Balogun"
+    wikipedia_url: https://en.wikipedia.org/wiki/Joseph_Abiodun_Balogun
+    born_year: "1955"
+    origin: "Nigeria"
+    filename: Joseph_Abiodun_Balogun,_PT,_Ph.D.,_FACSM,_FNSP,_FAS,_FRSPH.jpg
+
+  - first_name: "Juan"
+    last_name: "Downey"
+    wikipedia_url: https://en.wikipedia.org/wiki/Juan_Downey
+    born_year: "1940"
+    origin: "Chile"
+    filename:
+
+  - first_name: "Judith"
+    last_name: "Ortiz Cofer"
+    wikipedia_url: https://en.wikipedia.org/wiki/Judith_Ortiz_Cofer
+    born_year: "1952"
+    origin: "Puerto Rico"
+    filename: Judith_Ortiz_Cofer.jpg
+
+  - first_name: "Jule"
+    last_name: "Styne"
+    wikipedia_url: https://en.wikipedia.org/wiki/Jule_Styne
+    born_year: "1905"
+    origin: "England"
+    filename: Jule_Styne_(1961_still).jpg
+
+  - first_name: "Julia"
+    last_name: "Bacha"
+    wikipedia_url: https://en.wikipedia.org/wiki/Julia_Bacha
+    born_year: "1980"
+    origin: "Brazil"
+    filename: Julia_Bacha_(8894757322)_(cropped).jpg
+
+  - first_name: "Julian"
+    last_name: "Stanczak"
+    wikipedia_url: https://en.wikipedia.org/wiki/Julian_Stanczak
+    born_year: "1928"
+    origin: "Poland"
+    filename:
+
+  - first_name: "Julie"
+    last_name: "Mehretu"
+    wikipedia_url: https://en.wikipedia.org/wiki/Julie_Mehretu
+    born_year: "1970"
+    origin: "Ethiopian Empire"
+    filename: Julie_Mehretu,_2015.jpg
+
+  - first_name: "Justin"
+    last_name: "Chin"
+    wikipedia_url: https://en.wikipedia.org/wiki/Justin_Chin
+    born_year: "1969"
+    origin: "Malaysia"
+    filename: Justin_Chin_by_Kevin_Killian.jpg
+
+  - first_name: "Kah Kyung"
+    last_name: "Cho"
+    wikipedia_url: https://en.wikipedia.org/wiki/Kah_Kyung_Cho
+    born_year: "1927"
+    origin: "South Korea"
+    filename: Kah_Kyung_Cho.jpg
+
+  - first_name: "Kahlil"
+    last_name: "Gibran"
+    wikipedia_url: https://en.wikipedia.org/wiki/Kahlil_Gibran
+    born_year: "1883"
+    origin: "Lebanon"
+    filename: Kahlil_Gibran_1913.jpg
+
+  - first_name: "Kaloust"
+    last_name: "Guedel"
+    wikipedia_url: https://en.wikipedia.org/wiki/Kaloust_Guedel
+    born_year: "1956"
+    origin: "British Cyprus"
+    filename: Kaloust_Guedel.jpg
+
+  - first_name: "Karin"
+    last_name: "Waisman"
+    wikipedia_url:
+    born_year: "1960"
+    origin: "Argentina"
+    filename:
+
+  - first_name: "Kátia"
+    last_name: "Bandeira de Mello"
+    wikipedia_url:
+    born_year: "1968"
+    origin: "Rio de Janeiro"
+    filename:
+
+  - first_name: "Katya"
+    last_name: "Grokhovsky"
+    wikipedia_url:
+    born_year: "1977"
+    origin: "Ukraine"
+    filename:
+
+  - first_name: "Kazumi"
+    last_name: "Tanaka"
+    wikipedia_url:
+    born_year: "1962"
+    origin: "Osaka, Japan"
+    filename:
+
+  - first_name: "Keren"
+    last_name: "Benbenisty"
+    wikipedia_url:
+    born_year: "1977"
+    origin: "Israel"
+    filename:
+
+  - first_name: "Khaled"
+    last_name: "Hosseini"
+    wikipedia_url: https://en.wikipedia.org/wiki/Khaled_Hosseini
+    born_year: "1965"
+    origin: "Afghanistan"
+    filename: George_and_Laura_Bush_with_Khaled_Hosseini_in_2007_detail2.JPG
+
+  - first_name: "Kota"
+    last_name: "Ezawa"
+    wikipedia_url: https://en.wikipedia.org/wiki/Kota_Ezawa
+    born_year: "1969"
+    origin: "Germany"
+    filename:
+
+  - first_name: "Kwame Anthony"
+    last_name: "Appiah"
+    wikipedia_url: https://en.wikipedia.org/wiki/Kwame_Anthony_Appiah
+    born_year: "1954"
+    origin: "England"
+    filename: Kwame_Anthony_Appiah_by_David_Shankbone.jpg
+
+  - first_name: "László"
+    last_name: "Moholy-Nagy"
+    wikipedia_url: https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Moholy-Nagy
+    born_year: "1895"
+    origin: "Hungary"
+    filename: Laszlo_Moholy-Nagy_-_photography_from_NARA_-_281845.jpg
+
+  - first_name: "Lee"
+    last_name: "Strasberg"
+    wikipedia_url: https://en.wikipedia.org/wiki/Lee_Strasberg
+    born_year: "1901"
+    origin: "Austrian Poland"
+    filename: Lee_Strasberg-1976.jpg
+
+  - first_name: "Leila"
+    last_name: "Ahmed"
+    wikipedia_url: https://en.wikipedia.org/wiki/Leila_Ahmed
+    born_year: "1940"
+    origin: "Kingdom of Egypt"
+    filename: Leila_Ahmed.jpg
+
+  - first_name: "Leon"
+    last_name: "Dabo"
+    wikipedia_url: https://en.wikipedia.org/wiki/Leon_Dabo
+    born_year: "1864"
+    origin: "France"
+    filename: Leon_Dabo.jpg
+
+  - first_name: "Liam"
+    last_name: "Gillick"
+    wikipedia_url: https://en.wikipedia.org/wiki/Liam_Gillick
+    born_year: "1964"
+    origin: "England"
+    filename:
+
+  - first_name: "Lina"
+    last_name: "Puerta"
+    wikipedia_url:
+    born_year: "1969"
+    origin: "Colombia/USA"
+    filename:
+
+  - first_name: "Lisa"
+    last_name: "Kim"
+    wikipedia_url:
+    born_year: "1974"
+    origin: "South Korea"
+    filename:
+
+  - first_name: "Louis"
+    last_name: "Adamic"
+    wikipedia_url: https://en.wikipedia.org/wiki/Louis_Adamic
+    born_year: "1898"
+    origin: "Slovenia"
+    filename: Louis_Adamic.jpg
+
+  - first_name: "Louise"
+    last_name: "Bourgeois"
+    wikipedia_url: https://en.wikipedia.org/wiki/Louise_Bourgeois
+    born_year: "1911"
+    origin: "France"
+    filename:
+
+  - first_name: "Louise"
+    last_name: "Nevelson"
+    wikipedia_url: https://en.wikipedia.org/wiki/Louise_Nevelson
+    born_year: "1899"
+    origin: "Russian Empire"
+    filename: Louise_Nevelson,_Lynn_Gilbert_(cropped).jpg
+
+  - first_name: "Lucas"
+    last_name: "Samaras"
+    wikipedia_url: https://en.wikipedia.org/wiki/Lucas_Samaras
+    born_year: "1936"
+    origin: "Greece"
+    filename:
+
+  - first_name: "Lucia"
+    last_name: "Hinojosa Gaxiola"
+    wikipedia_url:
+    born_year: "1987"
+    origin: "Mexico City"
+    filename:
+
+  - first_name: "Ludwig"
+    last_name: "Bemelmans"
+    wikipedia_url: https://en.wikipedia.org/wiki/Ludwig_Bemelmans
+    born_year: "1898"
+    origin: "Italy"
+    filename:
+
+  - first_name: "Luigi"
+    last_name: "Ballerini"
+    wikipedia_url:
+    born_year: "1940"
+    origin: "Italy"
+    filename:
+
+  - first_name: "Luigi"
+    last_name: "Ballerini"
+    wikipedia_url:
+    born_year: "1940"
+    origin: "Milano, Italy"
+    filename:
+
+  - first_name: "Luis Alberto"
+    last_name: "Ambroggio"
+    wikipedia_url: https://en.wikipedia.org/wiki/Luis_Alberto_Ambroggio
+    born_year: "1945"
+    origin: "Argentina"
+    filename: Ambroggio.JPG
+
+  - first_name: "Lydia"
+    last_name: "Venieri"
+    wikipedia_url: https://en.wikipedia.org/wiki/Lydia_Venieri
+    born_year: "1964"
+    origin: "Greece"
+    filename:
+
+  - first_name: "Lyudmila"
+    last_name: "Ulitskaya"
+    wikipedia_url: https://en.wikipedia.org/wiki/Lyudmila_Ulitskaya
+    born_year: "1943"
+    origin: "USSR"
+    filename: Lyudmila_Ulitskaya_4.jpg
+
+  - first_name: "Maciek"
+    last_name: "Schejbal"
+    wikipedia_url:
+    born_year: "1958"
+    origin: "Poland"
+    filename:
+
+  - first_name: "Mamadou"
+    last_name: "Diouf"
+    wikipedia_url: https://en.wikipedia.org/wiki/Mamadou_Diouf_(historian)
+    born_year: "unknown"
+    origin: "Senegal"
+    filename: MamadouDiouf2019.jpg
+
+  - first_name: "Manjul"
+    last_name: "Bhargava"
+    wikipedia_url: https://en.wikipedia.org/wiki/Manjul_Bhargava
+    born_year: "1974"
+    origin: "Canada"
+    filename: Manjul_Bhargava_FieldsMedal.jpg
+
+  - first_name: "Marcel"
+    last_name: "Duchamp"
+    wikipedia_url: https://en.wikipedia.org/wiki/Marcel_Duchamp
+    born_year: "1887"
+    origin: "France"
+    filename: Man_Ray,_1920-21,_Portrait_of_Marcel_Duchamp,_gelatin_silver_print,_Yale_University_Art_Gallery.jpg
+
+  - first_name: "Marcela"
+    last_name: "Guerrero"
+    wikipedia_url:
+    born_year: "1980"
+    origin: "San Juan, Puerto Rico"
+    filename:
+
+  - first_name: "Marcial Cayaban"
+    last_name: "Garlitos, Sr."
+    wikipedia_url:
+    born_year: "c. 1904"
+    origin: "Mangatarem, Pangasinan, the Philippines"
+    filename:
+
+  - first_name: "Maria"
+    last_name: "Hinojosa"
+    wikipedia_url: https://en.wikipedia.org/wiki/Maria_Hinojosa
+    born_year: "1961"
+    origin: "Mexico"
+    filename: Maria_Hinojosa.jpg
+
+  - first_name: "Maria"
+    last_name: "Scarpini"
+    wikipedia_url:
+    born_year: "1961"
+    origin: "Italy"
+    filename:
+
+  - first_name: "María"
+    last_name: "Ruiz de Burton"
+    wikipedia_url: https://en.wikipedia.org/wiki/Mar%C3%ADa_Ruiz_de_Burton
+    born_year: "1832"
+    origin: "First Mexican Republic"
+    filename: María_Ruiz_de_Burton.jpg
+
+  - first_name: "María José"
+    last_name: "Castillo"
+    wikipedia_url:
+    born_year: "1988"
+    origin: "Colombia"
+    filename:
+
+  - first_name: "Marina"
+    last_name: "Abramovic"
+    wikipedia_url: https://en.wikipedia.org/wiki/Marina_Abramovi%C4%87
+    born_year: "1946"
+    origin: "FPR Yugoslavia"
+    filename: Marina_Abramović._The_Cleaner_(45524492341).jpg
+
+  - first_name: "Mario"
+    last_name: "Castelnuovo-Tedesco"
+    wikipedia_url: https://en.wikipedia.org/wiki/Mario_Castelnuovo-Tedesco
+    born_year: "1895"
+    origin: "Italy"
+    filename:
+
+  - first_name: "Marisol"
+    last_name: "Escobar"
+    wikipedia_url: https://en.wikipedia.org/wiki/Marisol_Escobar
+    born_year: "1930"
+    origin: "France"
+    filename: Marisol_Escobar_NYWTS.jpg
+
+  - first_name: "Mark"
+    last_name: "di Suvero"
+    wikipedia_url: https://en.wikipedia.org/wiki/Mark_di_Suvero
+    born_year: "1933"
+    origin: "Republic of China"
+    filename: Joan_Mondale_Greeting_Joseph_Hirshhorn.jpg
+
+  - first_name: "Marlena"
+    last_name: "Dietrich"
+    wikipedia_url: https://en.wikipedia.org/wiki/Marlene_Dietrich
+    born_year: "1901"
+    origin: "German Empire"
+    filename: Marlene_Dietrich_in_No_Highway_(1951)_(Cropped).png
+
+  - first_name: "Marlene"
+    last_name: "Tseng Yu"
+    wikipedia_url: https://en.wikipedia.org/wiki/Marlene_Tseng_Yu
+    born_year: "1937"
+    origin: "Taiwan"
+    filename:
+
+  - first_name: "Mary"
+    last_name: "Harris Jones"
+    wikipedia_url: https://en.wikipedia.org/wiki/Mother_Jones
+    born_year: "1837"
+    origin: "Ireland"
+    filename: Mother_Jones_1902-11-04.jpg
+
+  - first_name: "Masami"
+    last_name: "Teraoka"
+    wikipedia_url: https://en.wikipedia.org/wiki/Masami_Teraoka
+    born_year: "1936"
+    origin: "Japan"
+    filename: Masami_Teraoka,_2011.JPG
+
+  - first_name: "Max"
+    last_name: "Beckmann"
+    wikipedia_url: https://en.wikipedia.org/wiki/Max_Beckmann
+    born_year: "1884"
+    origin: "German Empire"
+    filename: Max_beckmann,_auutoritratto_frontale_con_frontone_di_casa_nello_sfondo,_1918.jpg
+
+  - first_name: "Max"
+    last_name: "Ernst"
+    wikipedia_url: https://en.wikipedia.org/wiki/Max_Ernst
+    born_year: "1891"
+    origin: "Germany"
+    filename: Max_Ernst_1968.jpg
+
+  - first_name: "Max"
+    last_name: "Weber"
+    wikipedia_url: https://en.wikipedia.org/wiki/Max_Weber_(artist)
+    born_year: "1881"
+    origin: "Russian Empire"
+    filename: Max_Weber_(artist).jpg
+
+  - first_name: "Maya"
+    last_name: "Deren"
+    wikipedia_url: https://en.wikipedia.org/wiki/Maya_Deren
+    born_year: "1917"
+    origin: "Russian Republic"
+    filename: Maya_Deren.jpg
+
+  - first_name: "Melitta"
+    last_name: "Schmideberg"
+    wikipedia_url: https://en.wikipedia.org/wiki/Melitta_Schmideberg
+    born_year: "1904"
+    origin: "Slovakia"
+    filename: Melitta_Schmideberg-Klein_Wellcome_L0029103.jpg
+
+  - first_name: "Mie"
+    last_name: "Yim"
+    wikipedia_url:
+    born_year: "1963"
+    origin: "South Korea"
+    filename:
+
+  - first_name: "Miguel"
+    last_name: "A. De La Torre"
+    wikipedia_url: https://en.wikipedia.org/wiki/Miguel_A._De_La_Torre
+    born_year: "1958"
+    origin: "Cuba"
+    filename:
+
+  - first_name: "Mihran"
+    last_name: "Mesrobian"
+    wikipedia_url: https://en.wikipedia.org/wiki/Mihran_Mesrobian
+    born_year: "1889"
+    origin: "Ottoman Empire"
+    filename: Mihran_Mesrobian.jpg
+
+  - first_name: "Mikhail"
+    last_name: "Baryshnikov"
+    wikipedia_url: https://en.wikipedia.org/wiki/Mikhail_Baryshnikov
+    born_year: "1948"
+    origin: "Latvia"
+    filename: 27.aprīļa_Saeimas_sēde_(34138762682).jpg
+
+  - first_name: "Mina"
+    last_name: "Cheon"
+    wikipedia_url: https://en.wikipedia.org/wiki/Mina_Cheon
+    born_year: "1973"
+    origin: "South Korea"
+    filename: Mina_Cheon_NYC.jpg
+
+  - first_name: "Mira"
+    last_name: "Nair"
+    wikipedia_url: https://en.wikipedia.org/wiki/Mira_Nair
+    born_year: "1957"
+    origin: "India"
+    filename: MN_main.jpg
+
+  - first_name: "Miriam"
+    last_name: "Laufer"
+    wikipedia_url:
+    born_year: "1918"
+    origin: "Lodz, Poland and Berlin, Germany"
+    filename:
+
+  - first_name: "Mohsen"
+    last_name: "Emadi"
+    wikipedia_url: https://en.wikipedia.org/wiki/Mohsen_Emadi
+    born_year: "1976"
+    origin: "Iran"
+    filename:
+
+  - first_name: "Mohsen"
+    last_name: "Mostafavi"
+    wikipedia_url: https://en.wikipedia.org/wiki/Mohsen_Mostafavi
+    born_year: "1954"
+    origin: "Iran"
+    filename: Mohsen_Mostafavi_06.jpg
+
+  - first_name: "Monika"
+    last_name: "Weiss"
+    wikipedia_url: https://en.wikipedia.org/wiki/Monika_Weiss
+    born_year: "1964"
+    origin: "Poland"
+    filename: Phlegethon-Milczenie.jpg
+
+  - first_name: "Morteza"
+    last_name: "Khaledi"
+    wikipedia_url:
+    born:
+    origin: "Iran?"
+    filename:
+
+  - first_name: "Mulatu"
+    last_name: "Astatke"
+    wikipedia_url: https://en.wikipedia.org/wiki/Mulatu_Astatke
+    born_year: "1943"
+    origin: "Italian Ethiopian Empire"
+    filename: Mulatu_Astatke_Cosmopolite_2017_(221840).jpg
+
+  - first_name: "Nabil"
+    last_name: "Kanso"
+    wikipedia_url: https://en.wikipedia.org/wiki/Nabil_Kanso
+    born_year: "1946"
+    origin: "Lebanon"
+    filename: Nabil_Kanso_2.jpg
+
+  - first_name: "Naomi"
+    last_name: "Lev"
+    wikipedia_url:
+    born_year: "1977"
+    origin: "Israel"
+    filename:
+
+  - first_name: "Nari"
+    last_name: "Ward"
+    wikipedia_url: https://en.wikipedia.org/wiki/Nari_Ward
+    born_year: "1963"
+    origin: "Jamaica"
+    filename:
+
+  - first_name: "Naum"
+    last_name: "Gabo"
+    wikipedia_url: https://en.wikipedia.org/wiki/Naum_Gabo
+    born_year: "1890"
+    origin: "Russian Empire"
+    filename: NaumGabo1957.jpg
+
+  - first_name: "Neil"
+    last_name: "Young"
+    wikipedia_url: https://en.wikipedia.org/wiki/Neil_Young
+    born_year: "1945"
+    origin: "Canada"
+    filename: Neil_Young_1976_closeup.jpg
+
+  - first_name: "Nelson"
+    last_name: "Avila"
+    wikipedia_url: https://en.wikipedia.org/wiki/Nelson_Avila
+    born_year: "1940"
+    origin: "Argentina"
+    filename: AvilaNelson.jpg
+
+  - first_name: "Nicola"
+    last_name: "Sacco"
+    wikipedia_url: https://en.wikipedia.org/wiki/Sacco_and_Vanzetti
+    born_year: "1891"
+    origin: "Kingdom of Italy"
+    filename: Sacvan.jpg
+
+  - first_name: "Nicole"
+    last_name: "Dennis-Benn"
+    wikipedia_url: https://en.wikipedia.org/wiki/Nicole_Dennis-Benn
+    born_year: "1982"
+    origin: "Jamaica"
+    filename: Nicole_d-b_267_(1).jpg
+
+  - first_name: "Niki"
+    last_name: "de Saint Phalle"
+    wikipedia_url: https://en.wikipedia.org/wiki/Niki_de_Saint_Phalle
+    born_year: "1930"
+    origin: "France"
+    filename: Niki_de_Saint_Phalle_by_Lothar_Wolleh.jpg
+
+  - first_name: "Nikola"
+    last_name: "Tesla"
+    wikipedia_url: https://en.wikipedia.org/wiki/Nikola_Tesla
+    born_year: "1856"
+    origin: "Austrian Empire"
+    filename: N.Tesla.JPG
+
+  - first_name: "Nilson"
+    last_name: "Matta"
+    wikipedia_url: https://en.wikipedia.org/wiki/Nilson_Matta
+    born_year: "1985"
+    origin: "Brazil"
+    filename: Nilson_Matta_2013.jpg
+
+  - first_name: "Njideka"
+    last_name: "Akunyili Crosby"
+    wikipedia_url: https://en.wikipedia.org/wiki/Njideka_Akunyili_Crosby
+    born_year: "1983"
+    origin: "Nigeria"
+    filename: Njideka_Akunyili_in_Bronx_Museum.png
+
+  - first_name: "Ocean"
+    last_name: "Vuong"
+    wikipedia_url: https://en.wikipedia.org/wiki/Ocean_Vuong
+    born_year: "1988"
+    origin: "Vietnam"
+    filename: Ocean_vuong_8045064_(48458986647)_(cropped).jpg
+
+  - first_name: "Octavio"
+    last_name: "Zaya"
+    wikipedia_url:
+    born_year: "1954"
+    origin: "Canary Islands"
+    filename:
+
+  - first_name: "Okwui"
+    last_name: "Enwezor"
+    wikipedia_url: https://en.wikipedia.org/wiki/Okwui_Enwezor
+    born_year: "1963"
+    origin: "Nigeria"
+    filename: Okwui_Enwezor_01.JPG
+
+  - first_name: "Ole"
+    last_name: "Edvart Rølvaag"
+    wikipedia_url: https://en.wikipedia.org/wiki/Ole_Edvart_R%C3%B8lvaag
+    born_year: "1876"
+    origin: "Norway"
+    filename: Ole_Edvart_Rølvaag.jpg
+
+  - first_name: "Olu"
+    last_name: "Oguibe"
+    wikipedia_url: https://en.wikipedia.org/wiki/Olu_Oguibe
+    born_year: "1964"
+    origin: "Nigeria"
+    filename: Olu_Oguibe.jpg
+
+  - first_name: "Oscar"
+    last_name: "Bluemner"
+    wikipedia_url: https://en.wikipedia.org/wiki/Oscar_Florianus_Bluemner
+    born_year: "1867"
+    origin: "German Empire"
+    filename: Self-Portrait_(Bluemner).jpg
+
+  - first_name: "Oscar"
+    last_name: "de la Renta"
+    wikipedia_url: https://en.wikipedia.org/wiki/Oscar_de_la_Renta
+    born_year: "1932"
+    origin: "Dominican Republi"
+    filename: Oscar_de_la_Renta_by_foto_di_matti.jpg
+
+  - first_name: "Oswaldo"
+    last_name: "Guayasamín"
+    wikipedia_url: https://en.wikipedia.org/wiki/Oswaldo_Guayasam%C3%ADn
+    born_year: "1919"
+    origin: "Ecuador"
+    filename:
+
+  - first_name: "Otto"
+    last_name: "Klemperer"
+    wikipedia_url: https://en.wikipedia.org/wiki/Otto_Klemperer
+    born_year: "1885"
+    origin: "Poland"
+    filename: Otto_Klemperer.jpg
+
+  - first_name: "Oyvind"
+    last_name: "Fahlstrom"
+    wikipedia_url: https://en.wikipedia.org/wiki/%C3%96yvind_Fahlstr%C3%B6m
+    born_year: "1928"
+    origin: "Brazil"
+    filename: Fahlstro.JPG
+
+  - first_name: "Pac"
+    last_name: "Pobric"
+    wikipedia_url:
+    born_year: "1987"
+    origin: "Sarajevo, Bosnia and Herzegovina"
+    filename:
+
+  - first_name: "Paolo"
+    last_name: "Canevari"
+    wikipedia_url:
+    born_year: "1963"
+    origin: "Italy"
+    filename:
+
+  - first_name: "Paolo"
+    last_name: "Soleri"
+    wikipedia_url: https://en.wikipedia.org/wiki/Paolo_Soleri
+    born_year: "1919"
+    origin: "Italy"
+    filename: Soleri_caricature.JPG
+
+  - first_name: "Paul"
+    last_name: "Chan"
+    wikipedia_url: https://en.wikipedia.org/wiki/Paul_Chan_(artist)
+    born_year: "1973"
+    origin: "Hong Kong"
+    filename: Paul_Chan.jpg
+
+  - first_name: "Paul"
+    last_name: "Hindemith"
+    wikipedia_url: https://en.wikipedia.org/wiki/Paul_Hindemith
+    born_year: "1895"
+    origin: "Germany"
+    filename: Paul_Hindemith_1923.jpg
+
+  - first_name: "Peter"
+    last_name: "Nazareth"
+    wikipedia_url: https://en.wikipedia.org/wiki/Peter_Nazareth
+    born_year: "1940"
+    origin: "Uganda"
+    filename: Peter_Nazareth,_Ugandan-born_critic_and_writer_of_fiction_and_drama._Iowa.jpg
+
+  - first_name: "Philip"
+    last_name: "Guston"
+    wikipedia_url: https://en.wikipedia.org/wiki/Philip_Guston
+    born_year: "1913"
+    origin: "Canada"
+    filename: Philip_Guston_at_a_mural.jpg
+
+  - first_name: "Piet"
+    last_name: "Mondrian"
+    wikipedia_url: https://en.wikipedia.org/wiki/Piet_Mondrian
+    born_year: "1872"
+    origin: "Holland"
+    filename: Piet_Mondriaan.jpg
+
+  - first_name: "Rahul"
+    last_name: "Pandharipande"
+    wikipedia_url: https://en.wikipedia.org/wiki/Rahul_Pandharipande
+    born_year: "1969"
+    origin: "India"
+    filename: Rahul_Pandharipande.jpg
+
+  - first_name: "Raimund"
+    last_name: "Abraham"
+    wikipedia_url: https://en.wikipedia.org/wiki/Raimund_Abraham
+    born_year: "1933"
+    origin: "First Austrian Republic"
+    filename: Fassade_exterieure_ACF.JPG
+
+  - first_name: "Ralph"
+    last_name: "Peña"
+    wikipedia_url:
+    born_year: "1962"
+    origin: "Manila, Philippines"
+    filename:
+
+  - first_name: "Raphael"
+    last_name: "Soriano"
+    wikipedia_url: https://en.wikipedia.org/wiki/Raphael_Soriano
+    born_year: "1904"
+    origin: "Greece"
+    filename: Soriano_Collage.JPG
+
+  - first_name: "Reinaldo"
+    last_name: "Arenas"
+    wikipedia_url: https://en.wikipedia.org/wiki/Reinaldo_Arenas
+    born_year: "1943"
+    origin: "Republic of Cuba"
+    filename:
+
+  - first_name: "Rhina"
+    last_name: "Espaillat"
+    wikipedia_url: https://en.wikipedia.org/wiki/Rhina_Espaillat
+    born_year: "1932"
+    origin: "Dominican Republic"
+    filename: Rhina_Espaillat.jpg
+
+  - first_name: "Ricardo"
+    last_name: "Estanislao Zulueta"
+    wikipedia_url: https://en.wikipedia.org/wiki/Ricardo_Estanislao_Zulueta
+    born_year: "1962"
+    origin: "Cuba"
+    filename:
+
+  - first_name: "Richard"
+    last_name: "Blanco"
+    wikipedia_url: https://en.wikipedia.org/wiki/Richard_Blanco
+    born_year: "1968"
+    origin: "Spain"
+    filename: Richard_Blanco.JPG
+
+  - first_name: "Rikrit"
+    last_name: "Tiravanija"
+    wikipedia_url: https://en.wikipedia.org/wiki/Rirkrit_Tiravanija
+    born_year: "1961"
+    origin: "Argentina"
+    filename:
+
+  - first_name: "Robert"
+    last_name: "Capa"
+    wikipedia_url: https://en.wikipedia.org/wiki/Robert_Capa
+    born_year: "1913"
+    origin: "Austria-Hungary"
+    filename: RobertCapabyGerdaTaro.jpg
+
+  - first_name: "Robert"
+    last_name: "Frank"
+    wikipedia_url: https://en.wikipedia.org/wiki/Robert_Frank
+    born_year: "1924"
+    origin: "Switzerland"
+    filename:
+
+  - first_name: "Robert"
+    last_name: "Graham"
+    wikipedia_url: https://en.wikipedia.org/wiki/Robert_Graham_(sculptor)
+    born_year: "1938"
+    origin: "Mexico"
+    filename:
+
+  - first_name: "Roberto"
+    last_name: "Guerra"
+    wikipedia_url:
+    born_year: "1942"
+    origin: "Peru"
+    filename:
+
+  - first_name: "Roberto"
+    last_name: "Matta"
+    wikipedia_url: https://en.wikipedia.org/wiki/Roberto_Matta
+    born_year: "1911"
+    origin: "Chile"
+    filename: Matta_revista_cleaned.jpg
+
+  - first_name: "Rocío"
+    last_name: "Aranda-Alvarado"
+    wikipedia_url:
+    born_year: "1969"
+    origin: "Santiago, Chile"
+    filename:
+
+  - first_name: "Ronald"
+    last_name: "Bladen"
+    wikipedia_url: https://en.wikipedia.org/wiki/Ronald_Bladen
+    born_year: "1918"
+    origin: "Canada"
+    filename: Ronald_Bladen_(1968).jpg
+
+  - first_name: "Ross"
+    last_name: "Anthony"
+    wikipedia_url:
+    born_year: "1980"
+    origin: "England"
+    filename:
+
+  - first_name: "Rudolf"
+    last_name: "Schindler"
+    wikipedia_url: https://en.wikipedia.org/wiki/Rudolph_Schindler_(architect)
+    born_year: "1887"
+    origin: "Austria"
+    filename: Lovell_Beach_House_02.jpg
+
+  - first_name: "Rudolf"
+    last_name: "Stingel"
+    wikipedia_url: https://en.wikipedia.org/wiki/Rudolf_Stingel
+    born_year: "1956"
+    origin: "Italy"
+    filename:
+
+  - first_name: "Rudolph"
+    last_name: "Valentino"
+    wikipedia_url: https://en.wikipedia.org/wiki/Rudolph_Valentino
+    born_year: "1895"
+    origin: "Kingdom of Italy"
+    filename: Rudolph_Valentino_in_the_Blue_Book_of_the_Screen_01.jpg
+
+  - first_name: "Ruth"
+    last_name: "Westheimer"
+    wikipedia_url: https://en.wikipedia.org/wiki/Ruth_Westheimer
+    born_year: "1928"
+    origin: "Germany"
+    filename: Ruth_Westheimer_(10877).jpg
+
+  - first_name: "Saad Eddin"
+    last_name: "Ibrahim"
+    wikipedia_url: https://en.wikipedia.org/wiki/Saad_Eddin_Ibrahim
+    born_year: "1938"
+    origin: "Kingdom of Egypt"
+    filename: Saad_Eddin_Ibrahim,_Agenda_for_the_New_Millennium_Abu_Dhabi_2009.jpg
+
+  - first_name: "Salman"
+    last_name: "Rushdie"
+    wikipedia_url: https://en.wikipedia.org/wiki/Salman_Rushdie
+    born_year: "1947"
+    origin: "British India"
+    filename: Hayfestival-2016-Salman-Rushdie-1-cu.jpg
+
+  - first_name: "Sangram"
+    last_name: "Majumdar"
+    wikipedia_url:
+    born_year: "1976"
+    origin: "Calcutta, India"
+    filename:
+
+  - first_name: "Sarah"
+    last_name: "Arriagada"
+    wikipedia_url:
+    born_year: "1983"
+    origin: "Germany"
+    filename:
+
+  - first_name: "Sari"
+    last_name: "Dienes"
+    wikipedia_url: https://en.wikipedia.org/wiki/Sari_Dienes
+    born_year: "1898"
+    origin: "Hungary"
+    filename:
+
+  - first_name: "Scherezade"
+    last_name: "García"
+    wikipedia_url: https://en.wikipedia.org/wiki/Scherezade_Garc%C3%ADa
+    born_year: "1966"
+    origin: "Domican Republic"
+    filename: Scherezade_Garcia.jpg
+
+  - first_name: "Sean"
+    last_name: "Scully"
+    wikipedia_url: https://en.wikipedia.org/wiki/Sean_Scully
+    born_year: "1945"
+    origin: "Ireland"
+    filename: Seanscully_2.JPG
+
+  - first_name: "Sergei"
+    last_name: "Rachmaninoff"
+    wikipedia_url: https://en.wikipedia.org/wiki/Sergei_Rachmaninoff
+    born_year: "1873"
+    origin: "Russian Empire"
+    filename: Sergei_Rachmaninoff_cph.3a40575.jpg
+
+  - first_name: "Sergey"
+    last_name: "Mergelyan"
+    wikipedia_url: https://en.wikipedia.org/wiki/Sergey_Mergelyan
+    born_year: "1928"
+    origin: "Transcaucasian Socialist Federative Soviet Republic"
+    filename: SN_Mergelyan_SAE.jpg
+
+  - first_name: "Seu"
+    last_name: "Jorge"
+    wikipedia_url: https://en.wikipedia.org/wiki/Seu_Jorge
+    born_year: "1970"
+    origin: "Brazil"
+    filename: Seu_Jorge.jpg
+
+  - first_name: "Seyyed"
+    last_name: "Hossein Nasr"
+    wikipedia_url: https://en.wikipedia.org/wiki/Seyyed_Hossein_Nasr
+    born_year: "1933"
+    origin: "Iran"
+    filename: Hossein_nasr.jpg
+
+  - first_name: "Shamsi"
+    last_name: "Shams"
+    wikipedia_url:
+    born_year: "1944"
+    origin: "Iran"
+    filename:
+
+  - first_name: "Sharmistha"
+    last_name: "Ray"
+    wikipedia_url:
+    born_year: "1978"
+    origin: "India"
+    filename:
+
+  - first_name: "Shirin"
+    last_name: "Neshat"
+    wikipedia_url: https://en.wikipedia.org/wiki/Shirin_Neshat
+    born_year: "1957"
+    origin: "Iran"
+    filename: Viennale_talk_(2),_Shirin_Neshat.jpg
+
+  - first_name: "Sholeh"
+    last_name: "Wolpé"
+    wikipedia_url: https://en.wikipedia.org/wiki/Sholeh_Wolp%C3%A9
+    born_year: "unknown"
+    origin: "Iran"
+    filename: Sholeh_Wolpe.jpg
+
+  - first_name: "Shreeram"
+    last_name: "Shankar Abhyankar"
+    wikipedia_url: https://en.wikipedia.org/wiki/Shreeram_Shankar_Abhyankar
+    born_year: "1930"
+    origin: "British India"
+    filename: Abhyankar_Grothendieck.jpg
+
+  - first_name: "Shusaku"
+    last_name: "Arakawa"
+    wikipedia_url: https://en.wikipedia.org/wiki/Shusaku_Arakawa
+    born_year: "1936"
+    origin: "Japan"
+    filename: Shusaku_Arakawa_bijutsu-techo_1963-10a.jpg
+
+  - first_name: "Sigmund"
+    last_name: "Laufer"
+    wikipedia_url:
+    born_year: "1920"
+    origin: "Berlin, Germany"
+    filename:
+
+  - first_name: "Silvia"
+    last_name: "Rocciolo"
+    wikipedia_url:
+    born_year: "1960"
+    origin: "Mileto (Calabria), Italy"
+    filename:
+
+  - first_name: "Simone"
+    last_name: "Forti"
+    wikipedia_url: https://en.wikipedia.org/wiki/Simone_Forti
+    born_year: "1935"
+    origin: "Italy"
+    filename: Forti_portrait_2004_Carol_Petersen_web.jpg
+
+  - first_name: "Sinan"
+    last_name: "Antoon"
+    wikipedia_url: https://en.wikipedia.org/wiki/Sinan_Antoon
+    born_year: "1967"
+    origin: "Iraq"
+    filename: 9.13.09AntoonPalmerBanksByLuigiNovi.jpg
+
+  - first_name: "Solmaz"
+    last_name: "Sharif"
+    wikipedia_url: https://en.wikipedia.org/wiki/Solmaz_Sharif
+    born_year: "1983"
+    origin: "Turkey"
+    filename: Solmaz_Sharif_2110380.jpg
+
+  - first_name: "Souleymane Bachir"
+    last_name: "Diagne"
+    wikipedia_url: https://en.wikipedia.org/wiki/Souleymane_Bachir_Diagne
+    born_year: "1955"
+    origin: "Senegal"
+    filename: Souleymane_Bachir_Diagne-Strasbourg-Septembre_2018_(2).jpg
+
+  - first_name: "Stephen"
+    last_name: "Antonakos"
+    wikipedia_url: https://en.wikipedia.org/wiki/Stephen_Antonakos
+    born_year: "1926"
+    origin: "Agios, Nikolaos, Lakonia, Greece"
+    filename: The_Room_by_Stephen_Antonakos,_1974.jpg
+
+  - first_name: "Stokley"
+    last_name: "Carmichael"
+    wikipedia_url: https://en.wikipedia.org/wiki/Stokely_Carmichael
+    born_year: "1941"
+    origin: "Trinidad and Tobaga"
+    filename: Stokely_Carmichael_in_Alabama_1966.jpeg
+
+  - first_name: "Subrahmanyan"
+    last_name: "Chandrasekhar"
+    wikipedia_url: https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar
+    born_year: "1910"
+    origin: "Pakistan"
+    filename: Subrahmanyan_Chandrasekhar.gif
+
+  - first_name: "Sun"
+    last_name: "You"
+    wikipedia_url:
+    born:
+    origin: "Seoul, South Korea"
+    filename:
+
+  - first_name: "Sylvia"
+    last_name: "Sleigh"
+    wikipedia_url: https://en.wikipedia.org/wiki/Sylvia_Sleigh
+    born_year: "1916"
+    origin: "Wales"
+    filename: Le_Bain_Turc,_by_Jean_Auguste_Dominique_Ingres,_from_C2RMF_retouched.jpg
+
+  - first_name: "Tacita"
+    last_name: "Dean"
+    wikipedia_url: https://en.wikipedia.org/wiki/Tacita_Dean
+    born_year: "1965"
+    origin: "England"
+    filename: Tacita_Dean,_2011_-_detail.jpg
+
+  - first_name: "Takashi"
+    last_name: "Murakami"
+    wikipedia_url: https://en.wikipedia.org/wiki/Takashi_Murakami
+    born_year: "1962"
+    origin: "Japan"
+    filename: Takashi_Murakami_at_Versailles_Sept._2010_(crop).jpg
+
+  - first_name: "Tamar"
+    last_name: "Ettun"
+    wikipedia_url:
+    born_year: "1982"
+    origin: "Jerusalem"
+    filename:
+
+  - first_name: "Tamara"
+    last_name: "Kostianovsky"
+    wikipedia_url:
+    born_year: "1974"
+    origin: "Argentina"
+    filename:
+
+  - first_name: "Tania"
+    last_name: "Bruguera"
+    wikipedia_url: https://en.wikipedia.org/wiki/Tania_Bruguera
+    born_year: "1968"
+    origin: "Cuba"
+    filename: Tania_bruguera.jpg
+
+  - first_name: "Théophile"
+    last_name: "Obenga"
+    wikipedia_url: https://en.wikipedia.org/wiki/Th%C3%A9ophile_Obenga
+    born_year: "1936"
+    origin: "Republic of the Congo"
+    filename: Obenga_2.JPG
+
+  - first_name: "Thomas"
+    last_name: "Cole"
+    wikipedia_url: https://en.wikipedia.org/wiki/Thomas_Cole
+    born_year: "1801"
+    origin: "England"
+    filename: Thomas_Cole.jpg
+
+  - first_name: "Thomas"
+    last_name: "Mann"
+    wikipedia_url: https://en.wikipedia.org/wiki/Thomas_Mann
+    born_year: "1875"
+    origin: "German Empire"
+    filename: Thomas_Mann_1929.jpg
+
+  - first_name: "Thomas"
+    last_name: "Nast"
+    wikipedia_url: https://en.wikipedia.org/wiki/Thomas_Nast
+    born_year: "1840"
+    origin: "Kingdom of Bavaria"
+    filename: Thomas_H_Nast.jpg
+
+  - first_name: "Thomas Desaille"
+    last_name: "Tucker"
+    wikipedia_url: https://en.wikipedia.org/wiki/Thomas_DeSaille_Tucker
+    born_year: "1844"
+    origin: "Sierra Leone"
+    filename: Thomas_DeSaille_Tucker.jpg
+
+  - first_name: "Tina"
+    last_name: "Ramirez"
+    wikipedia_url: https://en.wikipedia.org/wiki/Tina_Ramirez
+    born_year: "1929"
+    origin: "Venezuela"
+    filename: Tina_Ramirez.jpg
+
+  - first_name: "Ursula"
+    last_name: "von Rydingsvard"
+    wikipedia_url:
+    born_year: "1942"
+    origin: "Deensen, Germany"
+    filename:
+
+  - first_name: "Urvashi"
+    last_name: "Vaid"
+    wikipedia_url: https://en.wikipedia.org/wiki/Urvashi_Vaid
+    born_year: "1958"
+    origin: "India"
+    filename: Urvashi_Vaid_at_the_1993_NGLTF_Creating_Change_Conference.jpg
+
+  - first_name: "Vahakn"
+    last_name: "Dadrian"
+    wikipedia_url: https://en.wikipedia.org/wiki/Vahakn_Dadrian
+    born_year: "1926"
+    origin: "Turkey"
+    filename: Vahagn_Dadryan.JPG
+
+  - first_name: "Vanessa"
+    last_name: "Beecroft"
+    wikipedia_url: https://en.wikipedia.org/wiki/Vanessa_Beecroft
+    born_year: "1969"
+    origin: "Italy"
+    filename: Vanessa-Beecroft-White-Madonna-with-Twins.jpg
+
+  - first_name: "Viet"
+    last_name: "Thanh Nguyen"
+    wikipedia_url: https://en.wikipedia.org/wiki/Viet_Thanh_Nguyen
+    born_year: "1971"
+    origin: "South Vietnam"
+    filename: Viet_Thanh_Nguyen_-_2015_National_Book_Festival.JPG
+
+  - first_name: "Vija"
+    last_name: "Celmins"
+    wikipedia_url: https://en.wikipedia.org/wiki/Vija_Celmins
+    born_year: "1938"
+    origin: "Latvia"
+    filename:
+
+  - first_name: "Viktor"
+    last_name: "Witkowski"
+    wikipedia_url:
+    born_year: "1979"
+    origin: "Klodzko, Poland"
+    filename:
+
+  - first_name: "Vittoria"
+    last_name: "Chierici"
+    wikipedia_url:
+    born_year: "1955"
+    origin: "Italy"
+    filename:
+
+  - first_name: "Vladimir"
+    last_name: "Nabokov"
+    wikipedia_url: https://en.wikipedia.org/wiki/Vladimir_Nabokov
+    born_year: "1899"
+    origin: "Russian Empire"
+    filename: Vladimir_Nabokov_1973.jpg
+
+  - first_name: "W.H."
+    last_name: "Auden"
+    wikipedia_url: https://en.wikipedia.org/wiki/W._H._Auden
+    born_year: "1907"
+    origin: "England"
+    filename: AudenVanVechten1939.jpg
+
+  - first_name: "Walid"
+    last_name: "Raad"
+    wikipedia_url: https://en.wikipedia.org/wiki/Walid_Raad
+    born_year: "1967"
+    origin: "Lebanon"
+    filename: Walid_Raad.jpg
+
+  - first_name: "Walter"
+    last_name: "Gropius"
+    wikipedia_url: https://en.wikipedia.org/wiki/Walter_Gropius
+    born_year: "1883"
+    origin: "Germany"
+    filename: WalterGropius-1919.jpg
+
+  - first_name: "Wernher"
+    last_name: "von Braun"
+    wikipedia_url: https://en.wikipedia.org/wiki/Wernher_von_Braun
+    born_year: "1912"
+    origin: "German Empire"
+    filename: Wernher_von_Braun_1960.jpg
+
+  - first_name: "Willem"
+    last_name: "de Kooning"
+    wikipedia_url: https://en.wikipedia.org/wiki/Willem_de_Kooning
+    born_year: "1904"
+    origin: "Holland"
+    filename: Willem_de_Kooning_in_his_studio.jpg
+
+  - first_name: "William"
+    last_name: "Wyler"
+    wikipedia_url: https://en.wikipedia.org/wiki/William_Wyler
+    born_year: "1902"
+    origin: "German Empire"
+    filename: William_Wyler_portrait.jpg
+
+  - first_name: "Xavier"
+    last_name: "Cugat"
+    wikipedia_url: https://en.wikipedia.org/wiki/Xavier_Cugat
+    born_year: "1900"
+    origin: "Spain"
+    filename: Xavier_Cugat_(Gottlieb_10661).jpg
+
+  - first_name: "Yaa"
+    last_name: "Gyasi"
+    wikipedia_url: https://en.wikipedia.org/wiki/Yaa_Gyasi
+    born_year: "1989"
+    origin: "Ghana"
+    filename: Yaa_Gyasi,_9_27_(36709389003)_(cropped).jpg
+
+  - first_name: "Yasi"
+    last_name: "Alipour"
+    wikipedia_url:
+    born_year: "1989"
+    origin: "Iran"
+    filename:
+
+  - first_name: "Yasmine"
+    last_name: "Belkaid"
+    wikipedia_url: https://en.wikipedia.org/wiki/Yasmine_Belkaid
+    born_year: "1968"
+    origin: "Algeria"
+    filename: 2017-03-31_-_Yasmine-Belkaid_-_1340.jpg
+
+  - first_name: "Yo-Yo"
+    last_name: "Ma"
+    wikipedia_url: https://en.wikipedia.org/wiki/Yo-Yo_Ma
+    born_year: "1955"
+    origin: "France"
+    filename: Yo-Yo_Ma_2013.jpg
+
+  - first_name: "Yoko"
+    last_name: "Ono"
+    wikipedia_url: https://en.wikipedia.org/wiki/Yoko_Ono
+    born_year: "1933"
+    origin: "Japan"
+    filename: Yokoono_(cropped).JPG
+
+  - first_name: "Yousuf"
+    last_name: "Karsh"
+    wikipedia_url: https://en.wikipedia.org/wiki/Yousuf_Karsh
+    born_year: "1908"
+    origin: "Ottoman Empire"
+    filename: Yousuf_Karsh.jpg
+
+  - first_name: "Ysabel"
+    last_name: "Pinyol Blasi"
+    wikipedia_url:
+    born_year: "1980"
+    origin: "Spain"
+    filename:
+
+  - first_name: "Yucef"
+    last_name: "Merhi"
+    wikipedia_url: https://en.wikipedia.org/wiki/Yucef_Merhi
+    born_year: "1977"
+    origin: "Venezuela"
+    filename: Yucef_Merhi.jpg
+
+  - first_name: "Yves"
+    last_name: "Tanguy"
+    wikipedia_url: https://en.wikipedia.org/wiki/Yves_Tanguy
+    born_year: "1900"
+    origin: "France"
+    filename:
+
+  - first_name: "Zigi"
+    last_name: "Ben-Haim"
+    wikipedia_url: https://en.wikipedia.org/wiki/Zigi_Ben-Haim
+    born_year: "1945"
+    origin: "Iraq"
+    filename: Zigi_Portrait_2.jpg

@@ -1,8 +1,13 @@
 <header class="header">
   <div class="grid-container grid-container-desktop">
     <div class="grid-row">
+      <div class="grid-col-fill">
+        {{- partial "rail-logo" (dict "page" . "link_path" "/" ) -}}
+      </div>
+    </div>
+    
+    <div class="grid-row">
       <div class="grid-col-12 tablet:grid-col-8 tablet:grid-offset-2">
-        <div class="kicker"><a href="https://brooklynrail.org/" title="The Brooklyn Rail">From The <em>Brooklyn Rail</em></a></div>
         <a class="logo" href="/" accesskey="1" title="Home" aria-label="{{ .Site.Title }}">
           {{- .Render "svg" -}}
         </a>

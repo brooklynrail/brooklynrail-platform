@@ -211,6 +211,9 @@ form.rail-form {
       @include u-font('sans', 'lg');
       @include u-text('thin');
     }
+    legend.hidden{
+      @include u-display('none');
+    }
     // Field Group
     .group{
       @include u-display('flex');

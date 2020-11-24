@@ -25,12 +25,11 @@
       }
 
       .issue-select{
-        @include u-margin-right('105');
         select{
           @include u-padding-y(1);
           @include u-padding-x(1);
           @include u-width('card');
-          @include u-font('sans', 'md');
+          @include u-font('sans', 'sm');
           @include u-border(0);
           @include u-text('uppercase');
           @include u-text('medium');

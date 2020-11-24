@@ -4,43 +4,43 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  
+
     {{/* NOTE: the Site's title, and if there is a page title, that is set too */}}
     <title>{{- block "title" . -}}{{ with .Params.Title -}}{{- . | markdownify }} | {{ end }}{{ .Site.Title -}}{{- end -}}</title>
-  
+
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
     <meta name="viewport" content="width=device-width,minimum-scale=1">
     <link rel="canonical" href="{{- .Permalink -}}" />
     {{- .Hugo.Generator -}}
-  
-  
+
+
     {{/* NOTE: These Hugo Internal Templates can be found starting at https://github.com/spf13/hugo/blob/master/tpl/tplimpl/template_embedded.go#L158 */}}
     {{/* {{- template "_internal/google_news.html" . -}} */}}
     {{- partial "meta/schema.html" . -}}
-  
+
     {{- partial "meta/opengraph.html" . -}}
-  
+
     {{- partialCached "meta/favicons.html" . -}}
-  
-  
+
+
     {{ "<!-- RSS Feeds -->" | safeHTML }}
     {{- with .OutputFormats.Get "RSS" -}}
       <link href="{{- .RelPermalink -}}" rel="alternate" type="application/rss+xml" title="{{- $.Site.Title -}}" />
       <link href="{{- .RelPermalink -}}" rel="feed" type="application/rss+xml" title="{{- $.Site.Title -}}" />
     {{- end }}
-  
+
     {{ "<!-- Sitemap-->" | safeHTML }}
     <link rel="sitemap" type="application/xml" title="Digital.gov Sitemap" href="{{- "sitemap.xml" | absURL -}}" />
-  
+
     {{/* NOTE: For Production make sure you add `HUGO_ENV="production"` before your build command */}}
     {{- if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production") }}
     <meta NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
     {{- else }}
     <meta NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
     {{- end }}
-  
-  
+
+
     {{ "<!-- CSS -->" | safeHTML }}
     <link rel="stylesheet" href='{{- block "styles" . -}}{{- "material/dist/styles.css" | relURL -}}{{- end -}}' type="text/css" media='all' />
     {{/* Custom CSS — needs to be included before the base styles */}}
@@ -51,7 +51,7 @@
         <link rel="stylesheet" media="all" href="{{- $path -}}" type="text/css"/>
       {{- end -}}
     {{- end -}}
-  
+
     {{/* Add to Calendar */}}
     {{- if and (eq .Section "events") -}}
     {{ "<!-- Add to Calendar CSS -->" | safeHTML }}
@@ -59,17 +59,17 @@
     {{ "<!-- Add to Calendar JS -->" | safeHTML }}
     <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
     {{- end }}
-  
+
     {{ "<!-- Font Awesome -->" | safeHTML }}
     <link href="{{- "material/dist/fontawesome/css/all.min.css" | relURL -}}" rel="stylesheet" type="text/css">
-  
-  
+
+
     {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
       {{- partial "meta/google_analytics.html" . -}}
     {{ end }}
-  
+
   </head>
-  
+
 
   <body class="{{- .Type }} {{ .Kind -}} {{- $.Param "body_classes"  | default "" -}}{{- with getenv "HUGO_ENV" }} {{ . -}}{{- end -}}">
 
@@ -77,12 +77,36 @@
 
     <div class="paper">
 
-    {{ block "header" . }}
-      {{ partial "header.html" . }}
-      {{ partial "main-nav.html" . }}
-    {{ end }}
+      <div class="usa-overlay"></div>
 
-    {{ block "main" . }}{{ end }}
+      <header class="header">
+        <div class="grid-container">
+          <div class="grid-row">
+            <div class="grid-col-fill">
+              {{- block "rail-logo" . -}}
+                {{- partial "rail-logo" (dict "page" . "link_path" "/" ) -}}
+              {{- end -}}
+            </div>
+          </div>
+          <div class="grid-row">
+            <div class="grid-col-12">
+              {{- block "rail-sub-head" . -}}
+                <div id="sub-head">
+                  <svg viewBox="0 0 1152 32">
+                    <text x="0" y="25">Critical Perspectives on Art, Politics, and Culture  &nbsp;&nbsp;•&nbsp;&nbsp;  Independent and Free</text>
+                  </svg>
+                </div>
+              {{- end -}}
+            </div>
+          </div>
+        </div>
+      </header>
+
+    {{- block "main-nav" . -}}
+      {{- partial "main-nav.html" (dict "page" . "menu_data" $.Site.Menus.primary "issues_data" $.Site.Data.issues ) -}}
+    {{- end -}}
+
+    {{- block "main" . -}}{{- end -}}
 
     {{ block "footer" . }}{{ partialCached "footer.html" . }}{{ end }}
 

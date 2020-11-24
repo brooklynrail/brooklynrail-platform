@@ -41,18 +41,24 @@ const TABLE = 'Table 1'
 
 const saveUser = async ({ email }) => {
   return new Promise((resolve, reject) => {
-    // const { AT_API_KEY: apiKey, BASE, TABLE } = process.env;
+    const { AT_API_KEY: AIRTABLE_JZ, BASE, TABLE } = process.env;
     //
-    // Airtable.configure({
-    //   apiKey
-    // });
+    console.log('email');
+    console.log(email);
+
+    Airtable.configure({
+      endpointUrl: 'https://api.airtable.com',
+      apiKey: process.env.AIRTABLE_JZ
+    })
     //
-    // const base = Airtable.base(BASE);
-    base(TABLE).create({ email }, err => {
+
+    const base = Airtable.base('appGUDrjD5Cifat4M');
+    base('Table 1').create({ email }, err => {
       if (err) return reject(err);
 
       resolve();
     });
+
   });
 };
 
@@ -61,8 +67,9 @@ exports.handler = async event => {
     const data = JSON.parse(event.body);
 
     // await sendThankYouEmail(data);
-
-    if (data.receiveUpdates) {
+    console.log('Airtable Data');
+    console.log(data);
+    if (data.email) {
       await saveUser(data);
     }
     // send a thank you email
@@ -71,7 +78,7 @@ exports.handler = async event => {
     return {
       statusCode: 200,
       body: JSON.stringify({
-        message: "Done!!!"
+        message: "Registration Done!!!"
       })
     };
   } catch (e) {
