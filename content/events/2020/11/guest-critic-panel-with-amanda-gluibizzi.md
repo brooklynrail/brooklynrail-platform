@@ -1,8 +1,9 @@
 ---
 title: Guest Critic Panel with Amanda Gluibizzi & Friends
-summary: Please join us for a discussion on Amanda Gluibizzi's November Guest
-  Critic page, "On Edge(s)" with Rail managing editor Charles Schultz. We'll
-  conclude with a poetry reading from Steve Benson.
+summary: Please join us for a discussion on Amanda Gluibizzi's October Guest
+  Critic page, "On Edge(s)" with Laura Lisbon, Suzanne Silver, and Squeak
+  Cornwath, led by Rail managing editor Charles Schultz. We'll conclude with a
+  poetry reading from Steve Benson.
 people:
   - person: amanda-gluibizzi
     event_bio: Amanda Gluibizzi is an ArtSeen editor at The Brooklyn Rail. An art
@@ -29,8 +30,10 @@ registration_url: https://www.eventbrite.com/e/the-new-social-environment-178-gu
 event_platform:
   - zoom
 ---
-Please join us to discuss the Brooklyn Rail's November Guest Critics page, ***[On Edge(s): How do we speak about painting, and especially those paintings whose edges are exposed, without considering the implications of its edges?](https://brooklynrail.org/2020/10/editorsmessage/On-Edges)***
+Please join us to discuss the Brooklyn Rail's October Guest Critics page, ***[On Edge(s): How do we speak about painting, and especially those paintings whose edges are exposed, without considering the implications of its edges?](https://brooklynrail.org/2020/10/editorsmessage/On-Edges)***
 
 > In 2009 the Museum of Modern Art made a major announcement concerning its displays that was dutifully reported by the *New York Times*: the chief curator of painting and sculpture, Ann Temkin, had decided to remove the frames from the museum’s collection of Abstract Expressionist paintings, thus “freeing” the paintings from the “domestication” of the gallery space.1The paintings had been meant by the creators to go unframed all along, Temkin noted, and the frames contributed to a separation between the paintings’ material immediacy and the viewer’s reception of them. The paper anticipated that viewers would feel astonishment at the paintings “hang\[ing] naked, their rough, paint-splattered edges and rusting staples on view to the world.”......
 
-Read the full article here: <https://brooklynrail.org/2020/10/editorsmessage/On-Edges>
+Read the full article here: [https://brooklynrail.org/2020/10/editorsmessage/On-Edges. ](https://brooklynrail.org/2020/10/editorsmessage/On-Edges)
+
+Amanda will be joined by Laura Lisbon, Suzanne Silver, and Squeak Cornwath and the conversation will be led by Charles Schultz.
