@@ -138,16 +138,16 @@ main{
   }
 }
 .letter{
+  @include u-margin-bottom(5);
   @include u-bg('black');
+  @include u-height('card');
   @include u-text('center');
   @include u-text('thin');
   @include u-font('sans', '3xl');
   font-size: 7rem;
-  height:226px;
   a{
     @include u-text('white');
     @include u-display('block');
-    @include u-padding-top(4);
     @include u-text('no-underline');
     &:hover{
       @include u-text('underline');
