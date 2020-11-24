@@ -1,19 +1,6 @@
 .header{
   @include u-padding-y('105');
 
-  .logo{
-    svg{
-      @include u-width('full');
-      @include u-height('full');
-      #brooklynrail-logo{
-        fill: #fff;
-        stroke: #000;
-        stroke-width:3;
-        // stroke-linecap:round;
-        // stroke-dasharray:1,10;
-      }
-    }
-  }
 
   #sub-head{
     @include u-margin-top('05');

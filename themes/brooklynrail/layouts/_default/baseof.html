@@ -77,8 +77,32 @@
 
     <div class="paper">
 
-    {{- block "header" . -}}
-      {{- partial "header.html" . -}}
+      <div class="usa-overlay"></div>
+
+      <header class="header">
+        <div class="grid-container">
+          <div class="grid-row">
+            <div class="grid-col-fill">
+              {{- block "rail-logo" . -}}
+                {{- partial "rail-logo" (dict "page" . "link_path" "/" ) -}}
+              {{- end -}}
+            </div>
+          </div>
+          <div class="grid-row">
+            <div class="grid-col-12">
+              {{- block "rail-sub-head" . -}}
+                <div id="sub-head">
+                  <svg viewBox="0 0 1152 32">
+                    <text x="0" y="25">Critical Perspectives on Art, Politics, and Culture  &nbsp;&nbsp;•&nbsp;&nbsp;  Independent and Free</text>
+                  </svg>
+                </div>
+              {{- end -}}
+            </div>
+          </div>
+        </div>
+      </header>
+
+    {{- block "main-nav" . -}}
       {{- partial "main-nav.html" (dict "page" . "menu_data" $.Site.Menus.primary "issues_data" $.Site.Data.issues ) -}}
     {{- end -}}
 

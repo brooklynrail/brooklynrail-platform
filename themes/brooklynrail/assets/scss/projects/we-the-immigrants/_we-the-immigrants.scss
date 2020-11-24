@@ -16,10 +16,15 @@
     }
   }
 
-  .logo{
+  .project_logo{
     @include u-display('block');
     @include u-margin-top(4);
     @include u-padding-y(4);
+    @include u-text('center');
+    svg{
+      @include u-width('full');
+      @include u-height('full');
+    }
   }
 
   .rail-logo{
