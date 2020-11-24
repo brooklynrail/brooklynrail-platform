@@ -4,12 +4,12 @@
       <div class="grid-col-12">
         <div class="nav">
           <ul>
-            <li class="issue-select">
 
+            <li class="issue-select">
               <select action="" name="issue" onchange="location = this.options[this.selectedIndex].value;">
                 {{- $issues := .issues_data }}
                 {{ range $i, $issue := $issues -}}
-                  <option {{ if (eq $i 0) -}}selected="selected"{{- end }} value="{{- $issue.path -}}">{{- $issue.issue -}}</option>
+                  <option {{ if (eq $i 0) -}}selected{{- end }} value="{{- $issue.path -}}">{{- $issue.issue -}}</option>
                 {{ end -}}
               </select>
 
