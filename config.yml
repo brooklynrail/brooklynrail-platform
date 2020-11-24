@@ -95,8 +95,8 @@ menu:
       URL             : "/events"
       Weight          : 2
 
-    - Name            : "Store"
-      Identifier      : "store"
+    - Name            : "Shop"
+      Identifier      : "shop"
       URL             : "https://shop.brooklynrail.org/"
       Weight          : 3
 
