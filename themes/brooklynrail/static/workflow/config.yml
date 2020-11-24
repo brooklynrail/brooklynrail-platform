@@ -299,6 +299,12 @@ collections:
         widget: "string"
         hint: "This is headline that will appear on the page. It might be the same as the page title, but has the freedom to be a little more playful. [e.g. Our Wonderful Board Members]"
 
+      - label: "Page nav title"
+        name: "nav_title"
+        widget: "string"
+        required: false
+        hint: ""
+
       - label: "Deck"
         name: "deck"
         minimal: true
@@ -313,22 +319,20 @@ collections:
         default: ""
         hint: "One-sentence description of the page. Try not to repeat the headline."
 
-      - label: "Collections"
-        name: "collections"
-        widget: "relation"
-        multiple: true
-        collection: "collections"
-        searchFields: ["title"]
-        valueField: "{{slug}}"
-        displayFields: ["{{title}}"]
-        default: ["the-new-social-environment"]
-        hint: "The collections this event should be included in."
-        required: false
-
       - label: "Body"
         name: "body"
         widget: "markdown"
         editorComponents: ["image", "donate"]
+
+      - label: "Weight"
+        name: "weight"
+        widget: "number"
+        default: 1
+        value_type: "int"
+        min: 0
+        max: 100
+        step: 1
+        hint: "Pages are ordered by weight, starting with 1. Weight `0` hides a page from the page nav."
 
 
   # ====================================
