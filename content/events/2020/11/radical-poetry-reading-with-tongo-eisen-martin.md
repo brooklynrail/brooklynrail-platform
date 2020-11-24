@@ -48,8 +48,8 @@ people:
       Voices (BNV) International Youth Poetry Slam Contest in New York City.
       Clay graduated from Howard University with a degree in English, and was a
       contributing editor for the university's Amistad literary magazine.
-date: 2020-11-25 01:00:00 -0500
-end_date: 2020-11-25 02:00:00 -0500
+date: 2020-11-25 13:00:00 -0500
+end_date: 2020-11-25 14:00:00 -0500
 series: 181
 collections:
   - the-new-social-environment
