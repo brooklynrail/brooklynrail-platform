@@ -1,13 +1,14 @@
 ---
 title: Donate
 headline: Donate to the Rail
-deck: For over 19 years, individual donations from artists, writers, friends, and patrons have been integral to our independence.
+deck: For more than 20 years, individual donations from artists, writers,
+  friends, and patrons have been integral to our independence.
 summary: Donate to the Brooklyn Rail
 ---
 
 {{< donate placeholder="25" value="25" >}}
 
-For 19 years, The Brooklyn Rail has provided New Yorkers with a free and independent forum to engage with the arts. Despite current instability and distance, we remain committed to making our journal freely available to readers each month.
+Since 2000, the Rail has been dedicated to building community and fostering a free and independent platform for artists of all kinds. 2020 marks the Rail’s 20th anniversary, and we are extending this celebration into 2021. But as a small non-profit, we need your help. Please consider making a donation today: your contribution will directly support contributing writers, guest artists, and production staff in this unprecedented time.
 
 The Rail also now hosts The New Social Environment: Lunchtime Conversations with The Brooklyn Rail, an online programming series. Each day at 1pm we gather as a community for conversations about creative life and artistic expression in our new reality.
 
