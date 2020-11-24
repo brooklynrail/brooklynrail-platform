@@ -313,7 +313,19 @@ collections:
         default: ""
         hint: "One-sentence description of the page. Try not to repeat the headline."
 
-      - label: "Page Copy"
+      - label: "Collections"
+        name: "collections"
+        widget: "relation"
+        multiple: true
+        collection: "collections"
+        searchFields: ["title"]
+        valueField: "{{slug}}"
+        displayFields: ["{{title}}"]
+        default: ["the-new-social-environment"]
+        hint: "The collections this event should be included in."
+        required: false
+
+      - label: "Body"
         name: "body"
         widget: "markdown"
         editorComponents: ["image", "donate"]
