@@ -42,6 +42,14 @@ people:
       Coyote Valley’s reservation for the Pomo people and at Mendocino Community
       College. She still lives in a cabin she built herself, and writes nearly
       every day.
+  - person: cait-okane
+    event_bio: Cait O’Kane was born in Philadelphia and currently lives there with
+      family. She attended a state university in Pennsylvania before spending
+      two years as the Anne Waldman Fellow at the Jack Kerouac School of
+      Disembodied Poetics at Naropa University. For most of her life, Cait
+      worked in supermarkets, in kitchens, on farms, and in warehouses. Along
+      with Devin Brahja Waldman, Cait currently makes music in a band called
+      Notable Deaths.
 date: 2020-12-02 13:00:00 -0500
 end_date: 2020-12-02 14:00:00 -0500
 series: 186
