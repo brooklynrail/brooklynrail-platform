@@ -49,12 +49,12 @@
 
 
               {{/* (donation_amt / donation_goal) */}}
-              {{- $num := (div (float .Params.donation_amt) (float .Params.donation_goal)) }}
-              {{- $num = (mul $num 100) -}}
-              {{- $num = lang.NumFmt 2 $num -}}
+              {{/* {{- $num := (div (float .Params.donation_amt) (float .Params.donation_goal)) }} */}}
+              {{/* {{- $num = (mul $num 100) -}} */}}
+              {{/* {{- $num = lang.NumFmt 2 $num -}} */}}
 
               <div class="progress-bar">
-                <div class="amt" style="width:{{- $num -}}%;">
+                <div class="amt" style="width:4.99%;">
                   <span></span>
                 </div>
               </div>
