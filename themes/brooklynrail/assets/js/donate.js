@@ -10,7 +10,7 @@
 
 jQuery(document).ready(function($) {
 	var errorText = "Failed. You have not been charged.";
-	
+
 	// look out for submit events on the form
 	var submitButton = document.getElementById("btn-donate");
 	// var stripe = Stripe("pk_test_ykFiEaft3Qg1H0Wew5lXhDvM00jXCg2uo5"); // STRIPE_PUBLISHABLE_TEST
@@ -43,7 +43,7 @@ jQuery(document).ready(function($) {
 		// create a stripe session by talking to our netlify function
 		$.ajax({
 			type: "POST",
-			url: "https://brooklynrail.netlify.app/.netlify/functions/get_checkout_session",
+			url: "https://brooklynrail.org/.netlify/functions/get_checkout_session",
 			data: dataJson,
 			error: function(e) {
     		console.log(e);
