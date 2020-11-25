@@ -1,10 +1,10 @@
 ---
 title: Radical Poetry Reading with No Land
 deck: Featuring political poetry read by Cait O'Kane, Julie Ezelle Patton, Lucía
-  Hinojosa Gaxiola, and Mary Norbert Korte.
+  Hinojosa Gaxiola, and Mary Norbert Körte.
 summary: Poet No Land curates the 15th installment in a weekly series of Radical
   Poetry Readings, featuring Cait O'Kane, Julie Ezelle Patton, Lucía Hinojosa
-  Gaxiola, and Mary Norbert Korte.
+  Gaxiola, and Mary Norbert Körte.
 people:
   - person: no-land
     event_bio: "No Land is an artist, poet, filmmaker, photographer, and cultural
