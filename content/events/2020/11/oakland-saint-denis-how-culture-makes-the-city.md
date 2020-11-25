@@ -1,7 +1,7 @@
 ---
 title: "Oakland/Saint-Denis: How Culture Makes the City "
-deck: A conversation with Juliette Donadieu, Simón Adinia Hanukai, Lori Fogarty,
-  Juliette Bompoint, & Malvika Jolly.
+deck: Featuring Juliette Donadieu, Simón Adinia Hanukai, Lori Fogarty, Juliette
+  Bompoint, & Malvika Jolly.
 summary: Please join us for a conversation on the Oakland/Saint-Denis project.
   We'll conclude with a poetry reading by Farid Matuk.
 people:
