@@ -18,6 +18,14 @@ people:
       published by Newest York. She is an advocate for prisoner's rights &
       freedoms, corresponding with and visiting incarcerated artists between
       Mexico and the U.S. "
+  - person: lucia-hinojosa-gaxiola
+    event_bio: Lucía Hinojosa Gaxiola is an interdisciplinary artist & writer. Her
+      time-based practice develops through ephemeral gestures that result in a
+      corpus of text-based, visual and sound pieces. She’s the artistic director
+      of diSONARE, an experimental editorial project from Mexico City. She
+      recently co-founded Rizoma, a series of performance workshops led by an
+      international poet collective for the imprisoned women of Santiaguito de
+      Almoloya de Juárez, Estado de México.
 date: 2020-12-02 13:00:00 -0500
 end_date: 2020-12-02 14:00:00 -0500
 series: 186
