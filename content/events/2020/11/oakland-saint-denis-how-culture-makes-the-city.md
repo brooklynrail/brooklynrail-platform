@@ -4,6 +4,15 @@ deck: A conversation with Juliette Donadieu, Simón Adinia Hanukai, Lori Fogarty
   Juliette Bompoint, & Malvika Jolly
 summary: Please join us for a conversation on the Oakland/Saint-Denis project.
   We'll conclude with a poetry reading by Farid Matuk
+people:
+  - person: juliette-donadieu
+    event_bio: Juliette Donadieu is the Cultural Attaché of the French Embassy in
+      San Francisco since 2017. Previously Head of the production at Gaîté
+      Lyrique, a key digital cultural institution in Paris, Juliette Donadieu
+      focuses her work on the relationship between the arts and technology.
+      Partisan of creating bridges between disciplines and media, she initiated
+      the creation of Villa San Francisco to lead a future-driven dialogue
+      between artists and communities.
 date: 2020-12-03 13:00:00 -0500
 end_date: 2020-12-03 14:30:00 -0500
 collections:
