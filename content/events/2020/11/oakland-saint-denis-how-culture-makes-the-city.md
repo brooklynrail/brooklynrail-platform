@@ -64,10 +64,10 @@ people:
     person: malvika-jolly
 poets:
   - person: farid-matuk
-    event_bio: "Farid Matuk currently serves as poetry editor for FENCE and
-      contributing editor for The Volta. He is the author of This Isa Nice
-      Neighborhood (Letter Machine Editions, 2010), as well as three chapbooks
-      and numerous translations. "
+    event_bio: Farid Matuk teaches in the MFA program at the University of Arizona
+      and is the author of the poetry collections This Isa Nice Neighborhood
+      (Letter Machine Editions, 2010) and The Real Horse (University of Arizona
+      Press, 2018).
 date: 2020-12-03 13:00:00 -0500
 end_date: 2020-12-03 14:30:00 -0500
 collections:
