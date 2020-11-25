@@ -40,6 +40,25 @@ people:
       and cultural spaces in Ile de France), a member of the collegiate body of
       ArtFactories-AutresPart, and a member of the European network
       TransEuropeHalles (cultural Third Places).
+  - person: lori-fogarty
+    event_bio: "Lori Fogarty is the Director and CEO of the Oakland Museum of
+      California, a multidisciplinary museum that brings together collections of
+      art, history, and natural sciences to tell the extraordinary stories of
+      California and its people. Since 2006, Lori has worked to oversee and
+      guide all Museum programmatic and administrative operations and has
+      transitioned OMCA from a public/private cultural institution supported by
+      the City of Oakland and the Oakland Museum of California Foundation to an
+      independent non-profit organization with an innovative new organizational
+      structure. Lori has spearheaded OMCA’s efforts to place the visitor at the
+      center of the Museum experience and to focus the institution’s efforts
+      around community engagement and social impact.  She received major
+      recognition in the museum and non-profit field as the recipient of the
+      John Cotton Dana Award for Leadership from the American Alliance of
+      Museums and the Hank Russo Outstanding Fundraising Professional award from
+      the Association of Fundraising Professionals. Prior to her current
+      position, Lori was executive director of the Bay Area Discovery Museum and
+      was senior deputy director of the San Francisco Museum of Modern Art. Lori
+      is on the Board of the Association of Art Museum Directors.  "
 date: 2020-12-03 13:00:00 -0500
 end_date: 2020-12-03 14:30:00 -0500
 collections:
