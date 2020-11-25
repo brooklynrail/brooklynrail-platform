@@ -59,8 +59,7 @@ people:
       position, Lori was executive director of the Bay Area Discovery Museum and
       was senior deputy director of the San Francisco Museum of Modern Art. Lori
       is on the Board of the Association of Art Museum Directors.  "
-  - event_bio: "Malvika Jolly is a writer and events assistant at the Brooklyn Rail.
-      She tweets @dinnertheatrics. "
+  - event_bio: Malvika Jolly is a writer and events assistant at the Brooklyn Rail.
     person: malvika-jolly
 poets:
   - person: farid-matuk
