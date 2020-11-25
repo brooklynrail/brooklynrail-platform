@@ -3,6 +3,7 @@ title: Staff
 headline: All staff
 summary: The staff at the Brooklyn Rail
 weight: 2
+draft: true
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed volutpat nisl turpis, tincidunt bibendum diam posuere eu.

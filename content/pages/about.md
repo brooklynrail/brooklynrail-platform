@@ -4,6 +4,7 @@ headline: About the _Rail_
 nav_title: About
 summary: About the Brooklyn Rail
 weight: 1
+draft: true
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed volutpat nisl turpis, tincidunt bibendum diam posuere eu.
