@@ -1,9 +1,9 @@
 ---
 title: "Oakland/Saint-Denis: How Culture Makes the City "
 deck: A conversation with Juliette Donadieu, Simón Adinia Hanukai, Lori Fogarty,
-  Juliette Bompoint, & Malvika Jolly
+  Juliette Bompoint, & Malvika Jolly.
 summary: Please join us for a conversation on the Oakland/Saint-Denis project.
-  We'll conclude with a poetry reading by Farid Matuk
+  We'll conclude with a poetry reading by Farid Matuk.
 people:
   - person: juliette-donadieu
     event_bio: Juliette Donadieu is the Cultural Attaché of the French Embassy in
