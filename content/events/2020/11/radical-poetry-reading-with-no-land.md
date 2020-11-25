@@ -5,7 +5,19 @@ deck: Featuring political poetry read by Cait O'Kane, Julie Ezelle Patton, Lucí
 summary: Poet No Land curates the 15th installment in a weekly series of Radical
   Poetry Readings, featuring Cait O'Kane, Julie Ezelle Patton, Lucía Hinojosa,
   and Mary Norbert Korte.
-people: []
+people:
+  - person: no-land
+    event_bio: "No Land is an artist, poet, filmmaker, photographer, and cultural
+      organizer--born and working in New York City. Her work has been recognized
+      for continuing the lineage of downtown NYC counterculture. As a poet &
+      vocalist, she has performed in collaborative works internationally at
+      Jazzfest Berlin, Crossing Borders Festival in the Hague, Enclave Festival
+      (Mexico City), LaMaMa Galleria (NYC), The Kennedy Center (DC), Roulette
+      Intermedium, the University of New Haven, & other venues. In 2018, she
+      released Authentic Artifice, an art-book of poetry and photographs,
+      published by Newest York. She is an advocate for prisoner's rights &
+      freedoms, corresponding with and visiting incarcerated artists between
+      Mexico and the U.S. "
 date: 2020-12-02 13:00:00 -0500
 end_date: 2020-12-02 14:00:00 -0500
 series: 186
