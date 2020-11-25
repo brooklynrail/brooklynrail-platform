@@ -47,7 +47,9 @@
 
             <div class="donate-progress">
 
-              {{- $num := div (float (replace .Params.donation_amt "," "")) (float (replace .Params.donation_goal "," "")) }}
+
+              {{/* (donation_amt / donation_goal) */}}
+              {{- $num := (div (float .Params.donation_amt) (float .Params.donation_goal)) }}
               {{- $num = (mul $num 100) -}}
               {{- $num = lang.NumFmt 2 $num -}}
 
