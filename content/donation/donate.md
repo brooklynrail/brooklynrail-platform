@@ -3,8 +3,8 @@ title: Donate to the Brooklyn Rail
 headline: Donate to the Rail
 deck: This year marks our 20th anniversary as a free and independent publication
 summary: This year is the 20th anniversary of the Rail as a free and independent publication. Donate to the keep the Rail free.
-donation_goal: 250000
-donation_amt: 12470
+donation_goal: 250,000
+donation_amt: 12,470
 donation_count: 12
 ---
 
