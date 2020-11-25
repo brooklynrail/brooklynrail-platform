@@ -18,6 +18,14 @@ people:
       published by Newest York. She is an advocate for prisoner's rights &
       freedoms, corresponding with and visiting incarcerated artists between
       Mexico and the U.S. "
+  - person: cait-okane
+    event_bio: Cait O’Kane was born in Philadelphia and currently lives there with
+      family. She attended a state university in Pennsylvania before spending
+      two years as the Anne Waldman Fellow at the Jack Kerouac School of
+      Disembodied Poetics at Naropa University. For most of her life, Cait
+      worked in supermarkets, in kitchens, on farms, and in warehouses. Along
+      with Devin Brahja Waldman, Cait currently makes music in a band called
+      Notable Deaths.
   - person: julie-patton
     event_bio: She's a bug,  a bird,  a righter,  town crier,  FREE,  a Fool for ya,
       part of an infinite w of poet tree and song,  hand me down
@@ -42,14 +50,6 @@ people:
       Coyote Valley’s reservation for the Pomo people and at Mendocino Community
       College. She still lives in a cabin she built herself, and writes nearly
       every day.
-  - person: cait-okane
-    event_bio: Cait O’Kane was born in Philadelphia and currently lives there with
-      family. She attended a state university in Pennsylvania before spending
-      two years as the Anne Waldman Fellow at the Jack Kerouac School of
-      Disembodied Poetics at Naropa University. For most of her life, Cait
-      worked in supermarkets, in kitchens, on farms, and in warehouses. Along
-      with Devin Brahja Waldman, Cait currently makes music in a band called
-      Notable Deaths.
 date: 2020-12-02 13:00:00 -0500
 end_date: 2020-12-02 14:00:00 -0500
 series: 186
@@ -59,6 +59,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-186-radical-poetry-with-no-land-tickets-130579935101
 event_platform:
   - zoom
 ---
