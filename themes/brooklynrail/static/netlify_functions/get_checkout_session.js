@@ -50,7 +50,6 @@ exports.handler = function(event, context, callback) {
       billing_address_collection: "required",
       payment_method_types: ["card"],
       submit_type: "donate",
-      metadata: ["donation_type" => "online donation"],
       line_items: [
         {
           name: "Donation",
