@@ -26,6 +26,9 @@ people:
       recently co-founded Rizoma, a series of performance workshops led by an
       international poet collective for the imprisoned women of Santiaguito de
       Almoloya de Juárez, Estado de México.
+  - person: julie-patton
+    event_bio: She's a bug,  a bird,  a righter,  town crier,  FREE,  a Fool for ya,
+      part of an infinite w of poet tree and song,  hand me down
 date: 2020-12-02 13:00:00 -0500
 end_date: 2020-12-02 14:00:00 -0500
 series: 186
