@@ -29,6 +29,27 @@ people:
       Wiley, a civil rights attorney, was Counsel to New York City Mayor Bill de
       Blasio. In October 2020, Wiley announced her own candidacy to succeed de
       Blasio as mayor of New York.
+poets:
+  - person: allison-hedgecoke
+    event_bio: Allison Adelle Hedge Coke is author of a memoir, a play, and 7 poetry
+      books including the forthcoming Look at This Blue. A Distinguished
+      Professor at UC Riverside, she teaches Creative Writing and the School of
+      Medicine and directs UCR Writers Week and UCR Along the Chaparral.
+    related_links:
+      - text: The Year of the Rat
+        url: https://www.poetryfoundation.org/poems/154079/the-year-of-the-rat
+      - url: https://coffeehousepress.org/products/dog-road-woman
+        text: Dog Road Woman
+      - text: Off-Season City Pipe
+        url: https://coffeehousepress.org/products/off-season-city-pipe
+      - url: https://www.saltpublishing.com/products/blood-run-9781844712663
+        text: Blood Run
+      - url: https://madhat-press.com/products/burn-by-allison-adelle-hedge-coke
+        text: Burn
+      - url: https://coffeehousepress.org/products/streaming
+        text: Streaming
+      - url: https://www.nebraskapress.unl.edu/nebraska/9780803215276/
+        text: Rock Ghost, Willow, Deer
 date: 2020-12-04 13:00:00 -0500
 end_date: 2020-12-04 14:30:00 -0500
 series: 188
