@@ -2,7 +2,7 @@
 
 
 .hidden{
-  @include u-display('none');
+  @include u-display('none', !important);
 }
 
 // ===========================
