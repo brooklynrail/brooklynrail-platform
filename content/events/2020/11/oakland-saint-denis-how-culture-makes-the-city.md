@@ -25,6 +25,21 @@ people:
       Since launching Kaimera Productions, Simón has created work and taught extensively throughout the U.S., Middle East, South Asia and Europe. Recent directing and devising credits include Les Alibis (Junevents Festival, Atelier De Paris, France), JUPITER (A Play About Power) (La MaMa E.T.C., NYC), Shared Prince, (Cabaret Sauvage, Paris), Rest Upon The Wind (Skirball Center, NY), The Golden Drum Year (University Settlement, NY), Decline & Fall (Tricklock Performance Lab, New Mexico) and Flying Ace and The Storm of the Century (Odin Teatret, Denmark). He has assisted William Forsythe, Anne Bogart and Robert Woodruff.
        
       Simón is an Adjunct Professor at Sciences Po (Paris), and World Theatre Map Ambassador. He holds an MA in Education from the University of San Francisco’s Center for Teaching Excellence and Social Justice, as well as an MFA in Directing from Columbia University.
+  - person: juliette-bompoint
+    event_bio: A graduate of the IEP of Grenoble / Observatory of Cultural Policies,
+      Juliette Bompoint is a multifaceted cultural entrepreneur and Director of
+      Mains d'Oeuvres, a nonprofit arts space in Saint-Ouen, a suburb of Paris.
+      Through a uniquely multidisciplinary approach intertwining music, theater,
+      dance, visual arts, and public spaces, she combines dynamics of
+      cooperation and the social and solidarity economies with cultural
+      subjects, particularly those with an international dimension. She is
+      cofounder of the National Federation of Cultural Employers' Groups and
+      serves as Director of Mains d’Oeuvres, a Member of the National Council of
+      Third Places, President of MAAD93 (a contemporary music network in Seine
+      Saint-Denis), Co-President of Actes-IF (a network of independent artistic
+      and cultural spaces in Ile de France), a member of the collegiate body of
+      ArtFactories-AutresPart, and a member of the European network
+      TransEuropeHalles (cultural Third Places).
 date: 2020-12-03 13:00:00 -0500
 end_date: 2020-12-03 14:30:00 -0500
 collections:
