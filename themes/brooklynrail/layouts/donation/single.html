@@ -41,6 +41,33 @@
     </header>
 
     <section>
+      <div class="grid-container grid-container-desktop-lg">
+        <div class="grid-row">
+          <div class="grid-col-12 tablet:grid-col-10 tablet:grid-offset-1">
+
+            <div class="donate-progress">
+
+              {{- $num := div (float (replace .Params.donation_amt "," "")) (float (replace .Params.donation_goal "," "")) }}
+              {{- $num = (mul $num 100) -}}
+              {{- $num = lang.NumFmt 2 $num -}}
+
+              <div class="progress-bar">
+                <div class="amt" style="width:{{- $num -}}%;">
+                  <span></span>
+                </div>
+              </div>
+              <div class="progress-text">
+                <p>We’ve received <span>$<span>{{- .Params.donation_amt -}}</span></span> from  <span>{{- .Params.donation_count }} donors</span>. Help us reach our goal of <span>${{- .Params.donation_goal -}}</span>!</p>
+              </div>
+
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section>
       <div class="grid-container grid-container-tablet-lg">
         <div class="grid-row">
 
