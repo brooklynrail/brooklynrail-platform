@@ -9,6 +9,7 @@ Donate Shortcode
 {{- $value := (.Get "value") -}}
 
 <div class="shortcode-donate shortcode-donate-sm">
+
   <form class="rail-form" id="donate-form">
     <fieldset>
       <div class="fields">
@@ -27,7 +28,7 @@ Donate Shortcode
             </div>
           </div>
         </div>
-        <div class="group">
+        <div class="group hidden">
           <div class="field">
             <label for="donate-type">Tell us which projects inspired you to donate</label>
             {{- $donation_types := $.Site.Data.donation_types -}}
