@@ -51,10 +51,7 @@ people:
       Collection (2015). She has contributed essays and research for books,
       magazines, and catalogues, including publications on Charles White, Palmer
       Hayden, and Howardena Pindell. James holds a BA from Columbia University
-      and an MA from Yale University, where she is completing a Ph.D. in English
-      literature, African American Studies, and women’s, gender, and sexuality
-      studies, with a dissertation that reorients discourses of Black
-      representation."
+      and a PhD from Yale University."
 poets:
   - person: asiya-wadud
     event_bio: Asiya Wadud teaches poetry at Saint Ann’s School and leads an English
