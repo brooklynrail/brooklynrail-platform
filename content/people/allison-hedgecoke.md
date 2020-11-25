@@ -1,7 +1,7 @@
 ---
-name: Allison HedgeCoke
+name: Allison Adelle Hedge Coke
 first_name: Allison
-last_name: HedgeCoke
+last_name: Coke
 short_bio: Allison Adelle Hedge Coke is the author of seven poetry books The
   Year of the Rat, Dog Road Woman, Off-Season City Pipe, Blood Run, Burn,
   Streaming, and the forthcoming Look at This Blue, the memoir, Rock Ghost,
