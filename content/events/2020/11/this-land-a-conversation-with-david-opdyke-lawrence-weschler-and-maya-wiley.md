@@ -3,7 +3,8 @@ title: "This Land: A Conversation with David Opdyke, Lawrence Weschler, and Maya
   Wiley"
 summary: Join David Opdyke, Lawrence Weschler, and Maya Wiley for a conversation
   on This Land’s mural vignettes, the corrupted system that got us here, and
-  what it will take to make a new future. We'll conclude with a poetry reading.
+  what it will take to make a new future. We'll conclude with a poetry reading
+  from Allison HedgeCoke.
 people:
   - person: david-opdyke
     event_bio: David Opdyke is an artist known for his trenchant political send-ups
