@@ -56,7 +56,7 @@ exports.handler = function(event, context, callback) {
           amount: data.amount,
           currency: "usd",
           quantity: 1,
-          metadata: ["donation_type" => data.type]
+          metadata: ["donation_type" => "data data data"]
         }
       ]
     },

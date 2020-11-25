@@ -43,7 +43,7 @@ jQuery(document).ready(function($) {
 		// create a stripe session by talking to our netlify function
 		$.ajax({
 			type: "POST",
-			url: "https://brooklynrail.org/.netlify/functions/get_checkout_session",
+			url: "/.netlify/functions/get_checkout_session",
 			data: dataJson,
 			error: function(e) {
     		console.log(e);
