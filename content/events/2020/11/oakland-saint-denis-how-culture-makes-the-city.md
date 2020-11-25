@@ -62,6 +62,12 @@ people:
   - event_bio: "Malvika Jolly is a writer and events assistant at the Brooklyn Rail.
       She tweets @dinnertheatrics. "
     person: malvika-jolly
+poets:
+  - person: farid-matuk
+    event_bio: "Farid Matuk currently serves as poetry editor for FENCE and
+      contributing editor for The Volta. He is the author of This Isa Nice
+      Neighborhood (Letter Machine Editions, 2010), as well as three chapbooks
+      and numerous translations. "
 date: 2020-12-03 13:00:00 -0500
 end_date: 2020-12-03 14:30:00 -0500
 collections:
