@@ -20,9 +20,15 @@ people:
       New York and Paris. Originally from Baku, Azerbaijan, he started his
       career in Oakland, California, where he was a founding member of headRush
       Crew and the Co-Artistic Director of the Destiny Arts Youth Performance
-      Company.
-       
-      Since launching Kaimera Productions, Simón has created work and taught extensively throughout the U.S., Middle East, South Asia and Europe. Recent directing and devising credits include Les Alibis (Junevents Festival, Atelier De Paris, France), JUPITER (A Play About Power) (La MaMa E.T.C., NYC), Shared Prince, (Cabaret Sauvage, Paris), Rest Upon The Wind (Skirball Center, NY), The Golden Drum Year (University Settlement, NY), Decline & Fall (Tricklock Performance Lab, New Mexico) and Flying Ace and The Storm of the Century (Odin Teatret, Denmark). He has assisted William Forsythe, Anne Bogart and Robert Woodruff.
+      Company. Since launching Kaimera Productions, Simón has created work and
+      taught extensively throughout the U.S., Middle East, South Asia and
+      Europe. Recent directing and devising credits include Les Alibis
+      (Junevents Festival, Atelier De Paris, France), JUPITER (A Play About
+      Power) (La MaMa E.T.C., NYC), Shared Prince, (Cabaret Sauvage, Paris),
+      Rest Upon The Wind (Skirball Center, NY), The Golden Drum Year (University
+      Settlement, NY), Decline & Fall (Tricklock Performance Lab, New Mexico)
+      and Flying Ace and The Storm of the Century (Odin Teatret, Denmark). He
+      has assisted William Forsythe, Anne Bogart and Robert Woodruff.
        
       Simón is an Adjunct Professor at Sciences Po (Paris), and World Theatre Map Ambassador. He holds an MA in Education from the University of San Francisco’s Center for Teaching Excellence and Social Justice, as well as an MFA in Directing from Columbia University.
   - person: juliette-bompoint
