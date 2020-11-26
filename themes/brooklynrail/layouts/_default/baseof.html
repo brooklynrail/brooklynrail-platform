@@ -42,7 +42,7 @@
 
 
     {{ "<!-- CSS -->" | safeHTML }}
-    <link rel="stylesheet" href='{{- block "styles" . -}}{{- "material/dist/styles.css" | relURL -}}{{- end -}}' type="text/css" media='all' />
+    <link rel="stylesheet" href='{{- block "styles" . -}}{{- "material/dist/styles.css" | relURL -}}{{- end -}}?20201125' type="text/css" media='all' />
     {{/* Custom CSS — needs to be included before the base styles */}}
     {{- if $.Params.css -}}
       {{- range $.Params.css -}}
