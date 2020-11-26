@@ -14,8 +14,7 @@ people:
       the creation of Villa San Francisco to lead a future-driven dialogue
       between artists and communities.
   - person: simon-adinia-hanukai
-    event_bio: >-
-      Simón Adinia Hanukai is a theatermaker, director, educator, and
+    event_bio: Simón Adinia Hanukai is a theatermaker, director, educator, and
       co-artistic Director of Kaimera Productions who splits his time between
       New York and Paris. Originally from Baku, Azerbaijan, he started his
       career in Oakland, California, where he was a founding member of headRush
@@ -28,9 +27,11 @@ people:
       Rest Upon The Wind (Skirball Center, NY), The Golden Drum Year (University
       Settlement, NY), Decline & Fall (Tricklock Performance Lab, New Mexico)
       and Flying Ace and The Storm of the Century (Odin Teatret, Denmark). He
-      has assisted William Forsythe, Anne Bogart and Robert Woodruff.
-       
-      Simón is an Adjunct Professor at Sciences Po (Paris), and World Theatre Map Ambassador. He holds an MA in Education from the University of San Francisco’s Center for Teaching Excellence and Social Justice, as well as an MFA in Directing from Columbia University.
+      has assisted William Forsythe, Anne Bogart and Robert Woodruff. Simón is
+      an Adjunct Professor at Sciences Po (Paris), and World Theatre Map
+      Ambassador. He holds an MA in Education from the University of San
+      Francisco’s Center for Teaching Excellence and Social Justice, as well as
+      an MFA in Directing from Columbia University.
   - person: juliette-bompoint
     event_bio: A graduate of the IEP of Grenoble / Observatory of Cultural Policies,
       Juliette Bompoint is a multifaceted cultural entrepreneur and Director of
