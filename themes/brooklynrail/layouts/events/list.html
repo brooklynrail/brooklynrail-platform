@@ -81,34 +81,7 @@
 
   {{- end -}}
 
-
-  {{/* Past Events ==================== */}}
-  {{/* Gets all $events with a date less than today */}}
-  {{- $past_events := where $events ".Date.Unix" "<" now.Unix -}}
-
-  {{/* Gets only the $past_events with a youtube_id */}}
-  {{/* {{- $past_events := where $past_events ".Params.youtube_id" "!=" nil -}} */}}
-
-  {{- if $past_events -}}
-  <section class="past_events">
-    <div class="grid-container grid-container-widescreen">
-
-      <div class="grid-row">
-        <div class="grid-col-12">
-          <h2 class="heading">Past Events</h2>
-        </div>
-      </div>
-
-      <div class="grid-row mobile-lg:grid-gap-2 tablet:grid-gap-4">
-        {{- range $past_events -}}
-          <div class="grid-col-12 mobile-lg:grid-col-6 tablet-lg:grid-col-4 desktop-lg:grid-col-3">
-            {{- .Render "card-event-past" -}}
-          </div>
-        {{- end -}}
-      </div>
-    </div>
-  </section>
-  {{- end -}}
+  {{- .Render "past-events" -}}
 
 </main>
 
