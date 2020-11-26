@@ -2,6 +2,4 @@
 <script async="true" src="{{- "material/dist/uswds.min.js" | relURL -}}"></script>
 <script async="true" src="{{- "material/dist/video.js" | relURL -}}"></script>
 
-<script src="https://js.stripe.com/v3/"></script>
-<script src="{{- "material/dist/donate.js" | relURL -}}"></script>
-{{/* <script src="{{- "material/dist/signup.js" | relURL -}}"></script> */}}
+{{- block "custom_js" . -}}{{- end -}}
