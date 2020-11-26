@@ -13,8 +13,18 @@ jQuery(document).ready(function($) {
 
 	// look out for submit events on the form
 	var submitButton = document.getElementById("btn-donate");
+	// var stripe = Stripe("pk_test_ykFiEaft3Qg1H0Wew5lXhDvM00jXCg2uo5"); // STRIPE_PUBLISHABLE_TEST
 	var stripe = Stripe("pk_live_etssu1WTxk1CFKZuGX9lBQOU00YxJbQofX"); // STRIPE_PUBLISHABLE
 	var form = document.getElementById("donate-form");
+
+	// Gets all the checked checkboxes
+	function get_checked(){
+		var features = [];
+    $('#donate-form input[type="checkbox"]:checked').each(function() {
+      features.push($(this).val());
+    });
+		return features.join(', ');
+	}
 
 	$('#btn-donate').click(function(e){
 		e.preventDefault();
@@ -23,8 +33,12 @@ jQuery(document).ready(function($) {
 
 		var data = {
 			amount: document.getElementById("donate-amount").valueAsNumber * 100,
+			type: get_checked()
 		};
+
 		var dataJson = JSON.stringify(data);
+
+		console.log(dataJson);
 
 		// create a stripe session by talking to our netlify function
 		$.ajax({

@@ -1,17 +1,33 @@
 ---
-title: Donate
+title: Donate to the Brooklyn Rail
 headline: Donate to the Rail
-deck: For over 19 years, individual donations from artists, writers, friends, and patrons have been integral to our independence.
-summary: Donate to the Brooklyn Rail
+deck: This winter marks the Rail's 20th anniversary as a free and independent publication
+summary: This winter marks the Rail's 20th anniversary as a free and independent publication
+donation_goal: 250,000
+donation_amt: 12,470
+donation_count: 12
 ---
+
 
 {{< donate placeholder="25" value="25" >}}
 
-For 19 years, The Brooklyn Rail has provided New Yorkers with a free and independent forum to engage with the arts. Despite current instability and distance, we remain committed to making our journal freely available to readers each month.
+2020 has been a challenging year for everyone. It’s left us scattered and isolated by a pandemic, confronting our roles in the unjust racial history and present state of our country, all the while organizing in the run up to a critical presidential election.
 
-The Rail also now hosts The New Social Environment: Lunchtime Conversations with The Brooklyn Rail, an online programming series. Each day at 1pm we gather as a community for conversations about creative life and artistic expression in our new reality.
+In the face of this unprecedented time, we rose to meet these challenges by acknowledging and making space for divergent voices and experiences to be heard and seen. We intensified our commitment to connecting artists with the world, and amplifying the role the arts play in shaping our culture and society.  And we aim to increase our impact in the coming year.
 
-Our journal and programming will remain free and independent. But as a small non-profit, we need your help. Please consider making a donation today: your contribution will directly support contributing writers, guest artists, and production staff in this unprecedented time.
+This year, our goal is to raise $250,000, from over 500 people. This would double the amount we raised last year, and the number of people who participated.
+
+As a small non-profit, we need your support. Please consider making a donation today. Your contribution will directly support writers, guest artists, and production staff in this unique time.
+
+The _Rail_ remains committed to producing free and independent forums to engage with the arts.
+
+
+
+## Critical projects we launched in 2020
+
+- **The New Social Environment** — Our daily, live interviews with artists, cultural icons and activists, screened via Zoom during quarantine. Hosted weekdays at `1pm ET / 10am PT`. [View the full archive »](https://brooklynrail.org/events)
+- **We the Immigrants** — an urgent project aimed at elevating immigration in our communities across America and honoring the creative individuals (past and present) who have immigrated to the U.S. and made an impact across the sciences, arts, and humanities. [View the project »](/projects/we-the-immigrants/)
+- **Weekend Journal** — Our video channel on Instagram highlighting the studios and work environments of our friends in the arts and humanities, looking at what they’re working on, what they’re thinking about, and how they’re navigating this year of tumult and social upheaval. [View our recent series »](https://www.instagram.com/brooklynrail/channel/)
 
 ---
 
@@ -23,6 +39,6 @@ Brooklyn, NY 11232
 Mailbox 20
 ```
 
-The Brooklyn Rail is a nonprofit 501(c)(3) organization. Your donation is fully deductible. Donations are non-refundable.
+_The Brooklyn Rail is a nonprofit 501(c)(3) organization. Your donation is fully deductible. Donations are non-refundable._
 
 Questions? Email us at [hq@brooklynrail.org](mailto:hq@brooklynrail.org)

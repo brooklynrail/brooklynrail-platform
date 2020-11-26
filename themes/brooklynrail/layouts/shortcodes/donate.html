@@ -9,6 +9,7 @@ Donate Shortcode
 {{- $value := (.Get "value") -}}
 
 <div class="shortcode-donate shortcode-donate-sm">
+
   <form class="rail-form" id="donate-form">
     <fieldset>
       <div class="fields">
@@ -19,20 +20,32 @@ Donate Shortcode
         {{- end -}}
 
         <div class="group">
-
           <div class="field">
-            <label for="donate-amount">Amount <span class="usa-hint"></span></label>
+            <label for="donate-amount">Amount</label>
             <div class="prefix">
               <span>$</span>
               <input type="number" min="0" placeholder="{{- if $placeholder -}}{{- $placeholder -}}{{- else -}}25{{- end -}}" id="donate-amount" />
             </div>
           </div>
-
+        </div>
+        <div class="group hidden">
+          <div class="field">
+            <label for="donate-type">Tell us which projects inspired you to donate</label>
+            {{- $donation_types := $.Site.Data.donation_types -}}
+            {{- range $donation_types -}}
+              <div class="usa-checkbox">
+                <input class="usa-checkbox__input" id="check-{{- .id -}}" type="checkbox" name="donation_types" value="{{- .id -}}">
+                <label class="usa-checkbox__label" for="check-{{- .id -}}">{{- .type -}}</label>
+              </div>
+            {{- end -}}
+          </div>
+        </div>
+        <div class="group">
           <div class="field">
             <button class="btn btn-md" type="button" id="btn-donate"><span>Donate</span></button>
           </div>
-
         </div>
+
       </div>
     </fieldset>
   </form>
