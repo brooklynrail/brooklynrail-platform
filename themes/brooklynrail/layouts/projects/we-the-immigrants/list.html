@@ -1,6 +1,11 @@
 {{ define "styles" }}
-  {{- printf "material/dist/%s/styles.css" .Type | relURL -}}
+
+  {{- $css := resources.Get (printf "scss/%s/styles.scss" .Type ) | resources.ToCSS | resources.Minify | resources.Fingerprint -}}
+  <link rel="stylesheet" href="{{- $css.RelPermalink -}}" type="text/css" media='all' />
+
 {{ end }}
+
+
 
 {{ define "rail-sub-head" }}
   <a class="project_logo" href="/" accesskey="1" title="Home" aria-label="{{ .Site.Title }}">
