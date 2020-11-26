@@ -41,27 +41,44 @@
     {{- end }}
 
 
-    {{ "<!-- CSS -->" | safeHTML }}
-    <link rel="stylesheet" href='{{- block "styles" . -}}{{- "material/dist/styles.css" | relURL -}}{{- end -}}?20201125' type="text/css" media='all' />
-    {{/* Custom CSS — needs to be included before the base styles */}}
-    {{- if $.Params.css -}}
-      {{- range $.Params.css -}}
-        {{- $path := (printf "material/dist/%s" .) | relURL -}}
-        <!-- CUSTOM CSS -->
-        <link rel="stylesheet" media="all" href="{{- $path -}}" type="text/css"/>
+
+    {{ block "styles" . -}}
+      {{ "<!-- CSS -->" | safeHTML }}
+
+      {{ $main_styles_options := (dict "targetPath" "material/dist/styles.css" "outputStyle" "compressed" "enableSourceMap" true ) -}}
+
+      {{/* Main site styles */}}
+      {{- $main_styles := (resources.Get "scss/styles.scss" | resources.ToCSS $main_styles_options | resources.Fingerprint "md5") -}}
+
+      <link rel="stylesheet" href="{{- $main_styles.RelPermalink -}}" type="text/css" media='all' />
+
+      {{/* Add to Calendar styles */}}
+      {{- if and (eq .Section "events") -}}
+        {{ $addtocal_options := (dict "targetPath" "material/dist/styles.css" "outputStyle" "compressed" "enableSourceMap" true ) -}}
+        {{- $addtocal := (resources.Get "vendor/addtocal.scss" | resources.ToCSS $addtocal_options | resources.Fingerprint "md5") -}}
+        <link rel="stylesheet" href="{{- $addtocal.RelPermalink -}}" type="text/css" media='all' />
       {{- end -}}
-    {{- end -}}
 
-    {{/* Add to Calendar */}}
-    {{- if and (eq .Section "events") -}}
-    {{ "<!-- Add to Calendar CSS -->" | safeHTML }}
-    <link href="{{- "material/dist/add-to-cal.css" | relURL -}}" rel="stylesheet" type="text/css">
-    {{ "<!-- Add to Calendar JS -->" | safeHTML }}
-    <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
+
+      {{/* Custom CSS — needs to be included before the base styles */}}
+      {{- if $.Params.css -}}
+        {{- range $.Params.css -}}
+          {{- $path := (printf "material/dist/%s" .) | relURL -}}
+          <!-- CUSTOM CSS -->
+          <link rel="stylesheet" media="all" href="{{- $path -}}" type="text/css"/>
+        {{- end -}}
+      {{- end -}}
+
+      {{/* Add to Calendar JS */}}
+      {{- if and (eq .Section "events") -}}
+        {{ "<!-- Add to Calendar JS -->" | safeHTML }}
+        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
+      {{- end }}
+
+      {{ "<!-- Font Awesome -->" | safeHTML }}
+      <link href="{{- "material/dist/fontawesome/css/all.min.css" | relURL -}}" rel="stylesheet" type="text/css">
+
     {{- end }}
-
-    {{ "<!-- Font Awesome -->" | safeHTML }}
-    <link href="{{- "material/dist/fontawesome/css/all.min.css" | relURL -}}" rel="stylesheet" type="text/css">
 
 
     {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
