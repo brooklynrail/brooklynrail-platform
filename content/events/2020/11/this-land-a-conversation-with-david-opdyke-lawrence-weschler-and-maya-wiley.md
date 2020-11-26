@@ -3,7 +3,8 @@ title: "This Land: A Conversation with David Opdyke, Lawrence Weschler, and Maya
   Wiley"
 summary: Join David Opdyke, Lawrence Weschler, and Maya Wiley for a conversation
   on This Land’s mural vignettes, the corrupted system that got us here, and
-  what it will take to make a new future. We'll conclude with a poetry reading.
+  what it will take to make a new future. We'll conclude with a poetry reading
+  from Allison HedgeCoke.
 people:
   - person: david-opdyke
     event_bio: David Opdyke is an artist known for his trenchant political send-ups
@@ -28,6 +29,15 @@ people:
       Wiley, a civil rights attorney, was Counsel to New York City Mayor Bill de
       Blasio. In October 2020, Wiley announced her own candidacy to succeed de
       Blasio as mayor of New York.
+poets:
+  - person: allison-hedgecoke
+    event_bio: Allison Adelle Hedge Coke is author of a memoir, a play, and 7 poetry
+      books, including the forthcoming Look at This Blue. A Distinguished
+      Professor at UC Riverside, she teaches Creative Writing and the School of
+      Medicine and directs UCR Writers Week and UCR Along the Chaparral.
+    related_links:
+      - text: For a full list of Allison's publication, visit her website
+        url: http://allisonhedgecoke.com
 date: 2020-12-04 13:00:00 -0500
 end_date: 2020-12-04 14:30:00 -0500
 series: 188
