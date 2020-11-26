@@ -99,6 +99,10 @@ gulp.task("copy-fontawesome_css", () => {
   return gulp.src('./node_modules/@fortawesome/fontawesome-free/css/**/**').pipe(gulp.dest('./themes/brooklynrail/static/material/dist/fontawesome/css'));
 });
 
+gulp.task("copy-fontawesome_scss", () => {
+  return gulp.src('./node_modules/@fortawesome/fontawesome-free/scss/**/**').pipe(gulp.dest('./assets/vendor/fontawesome'));
+});
+
 gulp.task("copy-fontawesome_webfonts", () => {
   return gulp.src('./node_modules/@fortawesome/fontawesome-free/webfonts/**/**').pipe(gulp.dest('./themes/brooklynrail/static/material/dist/fontawesome/webfonts'));
 });
