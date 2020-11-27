@@ -654,6 +654,24 @@ collections:
         default: ""
         hint: "One-sentence description of the page. Try not to repeat the headline."
 
+      - label: "Donation goal"
+        name: "donation_goal"
+        widget: "number"
+        valueType: "int"
+        min: 1
+
+      - label: "Current donations"
+        name: "donation_amt"
+        widget: "number"
+        valueType: "int"
+        min: 1
+
+      - label: "Current # of donors"
+        name: "donation_count"
+        widget: "number"
+        valueType: "int"
+        min: 1
+        
       - label: "Page Copy"
         name: "body"
         widget: "markdown"
