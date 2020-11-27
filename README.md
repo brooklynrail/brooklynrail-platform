@@ -9,7 +9,7 @@
 
 ## Platform Overview
 
-[**The Brooklyn Rail**](https://brooklynrail.org) is made up a few separate platforms seamed that are loosely seamed together. 
+[**The Brooklyn Rail**](https://brooklynrail.org) is made up a few separate platforms seamed that are loosely seamed together.
 
 - **brooklynrail.org** – The main Rail site is largely an old Code Ignighter application. It's database contains all of the issues, articles, and images from the last 20 years of this publication. As an applicaiton, it is in rough shape and we're in the process of moving off of it to a new, more sustainable platform. [**Repo**](https://github.com/brooklynrail/brooklynrail)
 - **brooklynrail.org/events** – The events site is a new platform for the Rail and is being explored as the future foundation for the whole Brooklyn Rail archive. The platform is built on HUGO and running on Netlify. [**Repo**](https://github.com/brooklynrail/brooklynrail-platform)
@@ -29,8 +29,7 @@ Here's how to get set up:
 
 **NPM will run the following scripts:**
 
-- `gulp build && gulp watch` — builds and compresses all of the SCSS and JS files, and copies jquery and uswds js from `node_modules` and puts them in the `/dist/` folder.
-- `hugo serve` — builds all of the pages in hugo and creates a local server at `http://localhost:1313/`
+- `hugo serve` — builds all of the pages in hugo and creates a local server at `http://localhost:1313/`. Hugo will also build and compresses all of the SCSS and JS files.
 
 When Hugo is done building, you should see a success message like:
 
