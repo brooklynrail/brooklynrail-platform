@@ -51,3 +51,11 @@ Donate Shortcode
   </form>
   <p>The Brooklyn Rail is a nonprofit 501(c)(3) organization. Your donation is fully deductible. Questions? Email <a href="mailto:hq@brooklynrail.org" title="email the Brooklyn Rail">hq@brooklynrail.org</a></p>
 </div>
+
+{{- define "custom_js" }}
+  <script src="https://js.stripe.com/v3/"></script>
+
+  {{ $donate_js := (resources.Get "js/donate.js" | js.Build "material/dist/donate.js" | resources.Fingerprint "sha512") -}}
+  <script src="{{- $donate_js.RelPermalink -}}" {{ printf "integrity=%q" $donate_js.Data.Integrity | safeHTMLAttr }} ></script>
+  {{/* <script src="{{- "material/dist/signup.js" | relURL -}}"></script> */}}
+{{- end -}}

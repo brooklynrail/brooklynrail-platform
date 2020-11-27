@@ -29,7 +29,7 @@ ignoreErrors: "error-remote-getjson"
 # Permalink Configuration
 permalinks:
   articles              : ":year/:month/:day/:filename/"
-  donation              : ":filename/"
+  donate                : ":filename/"
   pages                 : ":filename/"
   events                : "events/:year/:month/:day/:filename/"
 
@@ -49,6 +49,8 @@ outputFormats:
 outputs:
   section: ["HTML", "INFO"]
   page: ["HTML", "INFO"]
+
+assetDir: assets
 
 markup:
   highlight:

@@ -1,0 +1,56 @@
+// ====================================
+// Single donation page
+
+.donate {
+
+  // Single Event Page / Header
+  header {
+    @include u-text('center');
+  }
+
+  .donate-progress{
+    @include u-margin-bottom(5);
+    .progress-bar{
+      @include u-margin-bottom(3);
+      @include u-bg('green-cool-10v');
+      @include u-radius('pill');
+      @include u-width('full');
+      @include u-height(4);
+      .amt{
+        @include u-bg('green-cool-40v');
+        @include u-height('full');
+        @include u-radius-left('pill');
+        @include u-display('flex');
+        @include u-flex('justify-end');
+        span{
+          @include u-width(0);
+          @include u-height(0);
+          @include u-position('relative');
+          right:-16px;
+          @include u-display('inline-block');
+          border-top: 16px solid transparent;
+          border-bottom: 16px solid transparent;
+          border-left: 16px solid green;
+          @include u-border-left('green-cool-40v');
+        }
+      }
+    }
+    .progress-text{
+      p{
+        @include u-margin-y('105');
+        @include u-padding-x('105');
+        @include u-font('sans', 'lg');
+        @include u-text('normal');
+        @include u-text('center');
+        span{
+          @include u-text('medium');
+          @include u-text('green-cool-70v');
+          span{
+            @include u-border-bottom('green-cool-40v');
+          }
+        }
+      }
+    }
+  }
+
+}

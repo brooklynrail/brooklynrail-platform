@@ -616,11 +616,11 @@ collections:
 
   # ====================================
   # Donation
-  - name: "donation" # Used in routes, e.g., /workflow/collections/blog
+  - name: "donate" # Used in routes, e.g., /workflow/collections/blog
     label: "Donations" # Used in the UI
     label_singular: "Donation"
     description: "Pages where the Rail can help to raise money for important causes."
-    folder: "content/donation" # path to the folder where files are stored
+    folder: "content/donate" # path to the folder where files are stored
     # path: "{{slug}}" # custom file path
     create: true # Allow users to create new documents in this collection
     identifier_field: title # sets the field that is used to create the slug
