@@ -6,8 +6,8 @@ deck: This winter marks the Rail's 20th anniversary as a free and independent
 summary: This winter marks the Rail's 20th anniversary as a free and independent
   publication
 donation_goal: 250000
-donation_amt: 12470
-donation_count: 12
+donation_amt: 14920
+donation_count: 21
 ---
 
 
