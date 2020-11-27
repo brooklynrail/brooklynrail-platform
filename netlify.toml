@@ -15,7 +15,7 @@
   publish = "public"
 
   # Default build command.
-  command = "gulp build && netlify-lambda && node -p 'process.env' && hugo --gc --minify -b $URL"
+  command = "netlify-lambda && node -p 'process.env' && hugo --gc --minify -b $URL"
 
   # Directory with the serverless Lambda functions to deploy to AWS.
   functions = "themes/brooklynrail/static/netlify_functions"
@@ -23,10 +23,10 @@
 
 # Plugins
 [[plugins]]
-  
+
   package = "netlify-plugin-cache"
     [plugins.inputs]
-    paths = ["public"]  
+    paths = ["public"]
 
 [[plugins]]
   package = "netlify-plugin-debug-cache"
@@ -35,7 +35,7 @@
 
 # Production variables
 [context.production.environment]
-  HUGO_VERSION = "0.69.0"
+  HUGO_VERSION = "0.78.2"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
   URL = "https://brooklynrail.org"
@@ -44,20 +44,20 @@
 command = "hugo --gc --minify --enableGitInfo"
 
 [context.split1.environment]
-HUGO_VERSION = "0.69.0"
+HUGO_VERSION = "0.78.2"
 HUGO_ENV = "production"
 
 [context.deploy-preview]
-command = "gulp build && hugo --gc --minify --buildFuture -b $DEPLOY_URL"
+command = "hugo --gc --minify --buildFuture -b $DEPLOY_URL"
 
 [context.deploy-preview.environment]
-HUGO_VERSION = "0.69.0"
+HUGO_VERSION = "0.78.2"
 
 [context.branch-deploy]
-command = "gulp build && hugo --gc --minify -b $DEPLOY_URL"
+command = "hugo --gc --minify -b $DEPLOY_URL"
 
 [context.branch-deploy.environment]
-HUGO_VERSION = "0.69.0"
+HUGO_VERSION = "0.78.2"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
