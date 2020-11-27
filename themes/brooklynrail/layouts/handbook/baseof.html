@@ -93,7 +93,7 @@
       <script src="https://code.jquery.com/jquery-3.4.1.min.js" crossorigin="anonymous"></script>
 
       {{/* USWDS */}}
-      {{- $uswds_js := (resources.Get "./node_modules/uswds/dist/js/uswds.min.js" | js.Build "material/dist/uswds.min.js" | resources.Fingerprint "sha512") -}}
+      {{- $uswds_js := (resources.Get "js/uswds.min.js" | js.Build "material/dist/uswds.min.js" | resources.Fingerprint "sha512") -}}
       {{/* {{- $uswds_js_map := (resources.Get "material/dist/uswds.min.js.map" | resources.Fingerprint "sha512") -}} */}}
       {{- $video_js := (resources.Get "js/video.js" | js.Build "material/dist/video.js" | resources.Fingerprint "sha512") }}
 
