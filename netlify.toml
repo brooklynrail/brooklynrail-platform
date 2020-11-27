@@ -15,7 +15,7 @@
   publish = "public"
 
   # Default build command.
-  command = "netlify-lambda && node -p 'process.env' && hugo --gc --minify -b $URL"
+  command = "hugo --gc --minify -b $URL"
 
   # Directory with the serverless Lambda functions to deploy to AWS.
   functions = "themes/brooklynrail/static/netlify_functions"
