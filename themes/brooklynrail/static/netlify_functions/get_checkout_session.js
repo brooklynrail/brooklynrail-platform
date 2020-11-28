@@ -44,7 +44,7 @@ exports.handler = function(event, context, callback) {
   // we need to provide a couple of redirect urls:
   stripe.checkout.sessions.create(
     {
-      success_url: "https://brooklynrail.org/donation-thank-you",
+      success_url: "https://brooklynrail.org/thank-you",
       cancel_url: "https://brooklynrail.org/donation-canceled",
       payment_method_types: ["card"],
       billing_address_collection: "required",
