@@ -1,7 +1,8 @@
 ---
 title: Thank you
-headline: Thank you
-deck: For over 19 years, individual donations from artists, writers, friends, and patrons have been integral to our independence.
+headline: Thank you for your donation
+deck: This winter marks the Rail’s 20th anniversary as a free and independent
+  publication
 summary: Thank you for your donation
 ---
 
