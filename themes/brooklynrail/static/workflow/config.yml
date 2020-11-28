@@ -659,19 +659,22 @@ collections:
         widget: "number"
         valueType: "int"
         min: 1
+        required: false
 
       - label: "Current donations"
         name: "donation_amt"
         widget: "number"
         valueType: "int"
         min: 1
+        required: false
 
       - label: "Current # of donors"
         name: "donation_count"
         widget: "number"
         valueType: "int"
         min: 1
-        
+        required: false
+
       - label: "Page Copy"
         name: "body"
         widget: "markdown"
