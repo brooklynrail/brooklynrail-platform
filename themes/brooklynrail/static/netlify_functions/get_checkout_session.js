@@ -50,6 +50,7 @@ exports.handler = function(event, context, callback) {
       billing_address_collection: "required",
       payment_method_types: ["card"],
       submit_type: "donate",
+      mode: "payment",
       line_items: [
         {
           name: "Donation",
@@ -58,7 +59,11 @@ exports.handler = function(event, context, callback) {
           quantity: 1
         }
       ],
-      metadata: { type: "online donation" }
+      payment_intent_data: [
+        {
+          metadata: { type: "online donation" }
+        }
+      ]
     },
     function(err, session) {
       // asynchronously called
