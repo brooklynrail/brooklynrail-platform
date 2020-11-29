@@ -57,7 +57,8 @@ exports.handler = function(event, context, callback) {
           currency: "usd",
           quantity: 1
         }
-      ]
+      ],
+      metadata: { type: "online donation" }
     },
     function(err, session) {
       // asynchronously called
