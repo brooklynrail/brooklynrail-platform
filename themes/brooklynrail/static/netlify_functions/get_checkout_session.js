@@ -59,11 +59,7 @@ exports.handler = function(event, context, callback) {
           quantity: 1
         }
       ],
-      payment_intent_data: [
-        {
-          metadata: { type: "online donation" }
-        }
-      ]
+      metadata: { type: "online donation" }
     },
     function(err, session) {
       // asynchronously called
