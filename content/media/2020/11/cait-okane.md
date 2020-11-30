@@ -1,5 +1,5 @@
 ---
-media: /media/files/26992318_1510485512403787_3508528587696441557_n.jpg
+media: /media/files/caito.png
 title: Cait O'Kane
 alt: A photo of poet Cait O'Kane.
 caption: Courtesy Cait O'Kane
