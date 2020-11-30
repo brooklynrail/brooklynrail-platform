@@ -7,17 +7,20 @@ summary: Poet No Land curates the 15th installment in a weekly series of Radical
   Gaxiola, and Mary Norbert Körte.
 people:
   - person: no-land
-    event_bio: "No Land is an artist, poet, filmmaker, photographer, and cultural
-      organizer--born and working in New York City. Her work has been recognized
-      for continuing the lineage of downtown NYC counterculture. As a poet &
-      vocalist, she has performed in collaborative works internationally at
-      Jazzfest Berlin, Crossing Borders Festival in the Hague, Enclave Festival
-      (Mexico City), LaMaMa Galleria (NYC), The Kennedy Center (DC), Roulette
-      Intermedium, the University of New Haven, & other venues. In 2018, she
+    event_bio: "No Land is an artist, poet, filmmaker, photographer & otherwise--
+      born and working in New York City. Her work has been recognized for
+      continuing the lineage of downtown NYC counterculture, honoring an
+      intuitive vow towards creation. No Land's art evokes reverence for Mystery
+      & her creations serve as protest against all erasure of infinite
+      possibility. As a poet & vocalist, she has performed in collaborative
+      works internationally at Jazzfest Berlin, Crossing Borders Festival in the
+      Hague, Enclave Festival (Mexico City), LaMaMa Galleria (NYC), The Kennedy
+      Center (DC), Roulette Intermedium, the University of New Haven, & more
+      recently on NYC street corners during the 2020 pandemic. In 2018, she
       released Authentic Artifice, an art-book of poetry and photographs,
-      published by Newest York. She is an advocate for prisoner's rights &
-      freedoms, corresponding with and visiting incarcerated artists between
-      Mexico and the U.S. "
+      published by Newest York. She has been grateful to collaborate with
+      luminaries such as Anne Waldman, Daniel Carter, Heroes are Gang Leaders,
+      Pat Steir, Fast Speaking Music, Joanna Mattrey & other special spirits. "
   - person: cait-okane
     event_bio: Cait O’Kane was born in Philadelphia and currently lives there with
       family. She attended a state university in Pennsylvania before spending
