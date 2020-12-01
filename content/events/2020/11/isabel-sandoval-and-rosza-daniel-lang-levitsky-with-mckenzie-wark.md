@@ -30,6 +30,21 @@ people:
     event_bio: "McKenzie Wark is the author, among other things, of Reverse Cowgirl
       (Semiotexte 2019) and Capital is Dead (Verso 2019). She teaches at The New
       School. "
+poets:
+  - person: drew-pham
+    event_bio: Drew Pham is a Vietnamese queer, transgender writer, a child of war
+      refugees, and adjunct English lecturer at CUNY Brooklyn. She previously
+      served in the US Army and was deployed to Afghanistan with the 10th
+      Mountain Division. She serves as an editor at The Wrath-Bearing Tree.
+    related_links:
+      - url: http://www.blunderbussmag.com/author/drew-pham/
+        text: Blunderbuss Magazine
+      - text: Time Magazine
+        url: https://time.com/collection-post/3525408/i-killed-an-enemy-in-afghanistan-and-now-im-fighting-for-my-own-life/
+      - text: The Daily Beast
+        url: https://www.thedailybeast.com/author/drew-pham
+      - url: http://columbiajournal.org/author/drew-pham/
+        text: Columbia Journal
 date: 2020-12-07 13:00:00 -0500
 end_date: 2020-12-07 14:30:00 -0500
 series: 189
