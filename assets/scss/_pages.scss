@@ -18,4 +18,8 @@
     }
   }
 
+  .content{
+    @include u-font('sans', 'md');
+  }
+
 }
