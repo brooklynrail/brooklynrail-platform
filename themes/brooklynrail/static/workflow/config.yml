@@ -494,14 +494,6 @@ collections:
         hint: "Add a short description of the person without using their name. [Max 800 characters (~120 words)]"
         required: false
 
-      - label: "Relationship"
-        name: "relationship"
-        widget: "select"
-        multiple: true
-        options: ["donor", "board-member", "advisory-board", "staff", "alumni"]
-        hint: "Donor, Board Member, Advisory Board, Staff, Alumni"
-        required: false
-
       - label: "Portrait Images"
         name: "portraits"
         widget: "list"
@@ -521,6 +513,20 @@ collections:
         name: "email"
         widget: "string"
         hint: "Example `info@kasmingallery.com`"
+        required: false
+
+      - label: "Relationship"
+        name: "relationship"
+        widget: "select"
+        multiple: true
+        options: ["donor", "board-member", "advisory-board", "staff", "publisher", "section-editor", "consulting-editor", "editor-at-large", "alumni"]
+        hint: "Donor, Board Member, Advisory Board, Staff, Alumni"
+        required: false
+
+      - label: "Job Title"
+        name: "job_title"
+        widget: "string"
+        hint: "Example `Managing Director`"
         required: false
 
       - label: "Rail Contributor URL"
@@ -610,7 +616,7 @@ collections:
         name: "relationship"
         widget: "select"
         multiple: true
-        options: ["donor", "board-member", "advisory-board", "staff", "alumni"]
+        options: ["donor", "board-member", "advisory-board", "staff", "publisher", "section-editor", "consulting-editor", "editor-at-large", "alumni"]
         hint: "Donor, Board Member, Advisory Board, Staff, Alumni"
         required: false
 
@@ -724,6 +730,16 @@ collections:
         name: "body"
         widget: "markdown"
         editorComponents: ["image", "donate"]
+
+      - label: "Weight"
+        name: "weight"
+        widget: "number"
+        default: 1
+        value_type: "int"
+        min: 0
+        max: 100
+        step: 1
+        hint: "Pages are ordered by weight, starting with 1. Weight `0` hides a page from the page nav."
 
   # ====================================
   # Handbook
