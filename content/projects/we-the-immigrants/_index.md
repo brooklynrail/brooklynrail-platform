@@ -10,5 +10,5 @@ menu:
     URL: "/projects/we-the-immigrants/about/"
   - Name: "Submit a name"
     URL: "https://airtable.com/shrtYBTkppvsYILWj"
-
+weight: 1
 ---

@@ -17,7 +17,9 @@ nav:
       url: "#signatures"
     - name: Critical responses
       url: "#critical-responses"
+weight: 4
 ---
+
 {{< note >}}
 *[The Brooklyn Rail](https://brooklynrail.org/)* stands for freedom of expression, collective accountability, and institutional transparency. We feel it is our responsibility to provide space for many perspectives to engage in productive dialogue. It is in this spirit that we share the following open letter from a diverse group of artists, critics, curators, and scholars.
 
@@ -940,6 +942,6 @@ Over 2,600 artists, curators, writers, and critics have signed their names in re
 * “[Why Philip Guston Can Still Provoke Such Furor, and Passion](https://www.nytimes.com/2020/10/02/arts/design/guston-painter-career.html)” (Martha Schwendener / New York Times)
 * “[Directors of Tate and the National Gallery of Art defend controversial decision to delay Philip Guston show](https://www.theartnewspaper.com/news/directors-of-tate-and-the-national-gallery-of-art-defend-controversial-decision-to-delay-philip-guston-show)” (Gareth Harris / The Art Newspaper)
 * “[The Strongest Reactions to the Philip Guston Show’s Postponement Miss Two Key Points](https://news.artnet.com/opinion/philip-guston-now-cancellation-1914529)” (Ben Davis / Artnet)
-* ["Philip Guston Postponed: Curator David Anfam Speaks Out"](https://www.artlyst.com/news/philip-guston-postponed-curator-david-anfam-speaks-out-paul-carter-robinson/) (Paul Carter Robinson / Artlyst) 
+* ["Philip Guston Postponed: Curator David Anfam Speaks Out"](https://www.artlyst.com/news/philip-guston-postponed-curator-david-anfam-speaks-out-paul-carter-robinson/) (Paul Carter Robinson / Artlyst)
 
 And more ...
