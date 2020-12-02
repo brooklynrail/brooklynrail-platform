@@ -1,22 +1,40 @@
 ---
 title: About the Brooklyn Rail
-headline: About the _Rail_
+headline: About the _Brooklyn Rail_
 nav_title: About
-summary: About the Brooklyn Rail
+deck: TKTK
+summary: About the Brooklyn Rail summary....
 weight: 1
-draft: true
 ---
+Founded in October 2000 as a 501(c)(3) nonprofit organization, the Brooklyn Rail exists to support the artist’s journey. It is a gathering place for artists, writers, poets, and people who love the arts.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed volutpat nisl turpis, tincidunt bibendum diam posuere eu.
+The Brooklyn Rail journal is an independent publication on arts, culture, and politics, distributed in print for free at community hubs throughout New York City, and online to readers around the world.
 
-Fusce interdum eleifend est at maximus. Aenean tempor felis eu nisi efficitur scelerisque. Integer nec mi in nisl lobortis feugiat vitae eleifend purus. Etiam consectetur elit ipsum, quis posuere arcu tempus id. Maecenas magna lacus, porttitor id sollicitudin vitae, varius at lectus.
+The Rail’s 10 monthly issues feature reviews of visual art, music, dance, film, theater, artist books, and literature, alongside political commentary and original fiction and poetry.
 
-Sed sed tempor nisl, eu pretium nulla. Nunc aliquam porttitor leo, a viverra nulla sagittis id. Morbi nec quam massa.
+Each week, the Rail hosts artist interviews, poetry readings, and cultural conversations out of its Brooklyn headquarters in Industry City.
 
-Aenean bibendum blandit risus, quis elementum mi dictum sed. Morbi et nisi cursus risus congue laoreet sed id ante. Donec et orci malesuada, malesuada lectus in, tempor est. Phasellus at est dolor.
+Together with our community of readers, writers, and artists, we provide a space for independent intellectual inquiry, free thought, and meaningful dialogue. Come visit us in our New Social Environment, daily at 1pm ET!
 
-Praesent vestibulum tortor quam, facilisis ultrices lorem pretium id.
+## Current Rail Initiatives
 
-Phasellus imperdiet quam sit amet arcu fermentum imperdiet. Fusce quis urna nulla. Suspendisse a massa fringilla, vestibulum magna et, dictum nisl. In non molestie ante.
+{{< current_projects >}}
 
-Duis ex libero, hendrerit in rutrum at, volutpat quis lectus. Duis ut est vel mi porta elementum nec non purus. Aenean arcu sapien, hendrerit vitae lorem ac, accumsan vestibulum sem. Fusce porttitor metus ac auctor auctor.
+\= = = 
+
+River Rail, a series of special issues that bring together artists, scientists, and writers to address environmental issues and climate change.
+https://brooklynrail.org/special/RIVER_RAIL/
+https://brooklynrail.org/special/River_Rail_Colby/
+
+Rail Editions, our small press, publishes books of poetry, experimental fiction, critical essay collections, and artists' writings.
+https://shop.brooklynrail.org/collections/books
+
+Rail Curatorial Projects, exhibitions and programming promoting interdisciplinary collaboration and conversation between different types of thinkers—including artists, critics, scientists, philosophers, art historians, and the public.
+
+July 2019 — Occupy Colby: Artists Need to Create on the Same Scale that Society has the Capacity to Destroy, Year 2, Colby College Museum of Art, Waterville, Maine
+May 2019 — Artists Need to Create on the Same Scale that Society has the Capacity to Destroy: Mare Nostrum, 58th Biennale d’Arte di Venezia, Venice, Italy
+November 2017 — Occupy Mana: Artists Need to Create on the Same Scale that Society has the Capacity to Destroy & Friends in Solidarity, Year 1, Mana Contemporary, Jersey City, New Jersey
+May 2015 — Patricia Cronin – Shrine for Girls, 56th Biennale d’Arte de Venezia, Venice, Italy
+October 2014 — Spaced Out: Migration to the Interior, Red Bull Studio, New York, New York
+June 2014 — Bloodflames Revisited, Paul Kasmin Gallery, New York, New York
+June 2013: Come Together: Surviving Sandy, Year 1, an exhibition of works by over 300 contemporary artists responding to  Hurricane Sandy.
