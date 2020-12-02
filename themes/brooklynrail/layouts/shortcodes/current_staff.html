@@ -1,0 +1,37 @@
+{{/*
+Current Staff Shortcode
+{{< current_staff  >}}
+{{< current_staff format="list" >}}
+*/}}
+
+{{- $format := (.Get "format") -}}
+
+<div class="shortcode-current_staff">
+
+  {{/* Gets all People */}}
+  {{- $people := where $.Site.RegularPages "Section" "people" -}}
+
+  {{/* Gets the Publisher */}}
+  {{- $current_publisher := where $people ".Params.relationship" "intersect" (slice "publisher") -}}
+
+  {{/* Gets all Current staff */}}
+  {{- $current_staff := where $people ".Params.relationship" "intersect" (slice "staff") -}}
+
+  {{/* Gets all Current PAs */}}
+  {{- $current_pa := where $people ".Params.relationship" "intersect" (slice "production-assistant") -}}
+
+  {{/* Gets all Current board members */}}
+  {{- $current_board := where $people ".Params.relationship" "intersect" (slice "board-member") -}}
+
+  {{ $groups := (slice $current_publisher $current_staff $current_pa $current_board $current_pa) }}
+
+  {{- range $i, $group := $groups -}}
+    <div class="group">
+      {{- range $i, $person := $group -}}
+        <p><a href="" title="{{- $person.Params.name -}}">{{- $person.Params.name -}}</a> -- {{- $person.Params.short_bio -}}</p>
+      {{- end -}}
+    </div>
+  {{- end -}}
+
+
+</div>
