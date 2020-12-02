@@ -7,7 +7,7 @@ date: 2020-11-27 10:00:00 -0500
 end_date: 2020-11-27 18:00:00 -0500
 series: 183
 collections:
-  - the-new-social-environment
+  - screening
 event_organizer:
   - the-brooklyn-rail
 event_producer:
