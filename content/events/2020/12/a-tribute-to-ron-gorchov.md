@@ -1,8 +1,9 @@
 ---
 title: A Tribute to Ron Gorchov
-summary: "Yevgeniya Baras, Lisa Corinne Davis, Susan Crile, Odili Donald Odita,
-  Joachim Pissarro, Ray Smith, Robert Storr. Moderated by Phong H. Bui. We'll
-  conclude with a poetry reading from Lucía Hinojosa Gaxiola.    "
+summary: Join us for a tribute to artist Ron Gorchov with Yevgeniya Baras, Lisa
+  Corinne Davis, Susan Crile, Odili Donald Odita, Joachim Pissarro, Ray Smith,
+  Robert Storr. The panel will be moderated by Phong H. Bui. We'll conclude with
+  a poetry reading from Lucía Hinojosa Gaxiola.
 people:
   - person: yevgeniya-baras
     event_bio: Yevgeniya Baras is an artist living and working in Brooklyn, NY. She
