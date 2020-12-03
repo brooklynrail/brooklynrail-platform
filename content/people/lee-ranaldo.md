@@ -8,4 +8,7 @@ short_bio: Lee Ranaldo, musician, visual artist, and writer, co-founded Sonic
   exhibiting visual art and publishing several books of journals, poetry and
   writings on music. His newest LP Names of North End Women was released in
   February 2020 on Mute Records.
+portraits:
+  - media: 2020/12/lee-ranaldo
+twitter: leeranaldo
 ---
