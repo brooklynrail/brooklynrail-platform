@@ -24,6 +24,19 @@ people:
       image transfers, with Sumi ink and compressed charcoal, examine this
       relationship of mutual influence. All are guided by the materiality of
       their media."
+  - person: chuck-smith
+    event_bio: "Mr. Smith is a filmmaker, TV producer, and writer who has produced
+      documentaries and TV series for National Geographic, Discovery, CBS News,
+      and many others. His films include “Barbara Rubin & the Exploding NY
+      Underground” (2019) and “Forrest Bess: Key to the Riddle” (1999). The Bess
+      film was turned into a book and published in 2013 by PowerHouse Books. Mr.
+      Smith’s other independent films and interviews can be found on his YouTube
+      Channel “ChuckSmithNYC” and on Vimeo."
+    related_links:
+      - text: Barbara Rubin & the Exploding NY Underground (2019)
+        url: https://barbararubinmovie.com/index.php
+      - url: https://www.kanopy.com/product/forrest-bess-key-riddle
+        text: "Forrest Bess: Key to the Riddle (1999)"
 date: 2020-12-08 13:00:00 -0500
 end_date: 2020-12-08 14:30:00 -0500
 series: 190
