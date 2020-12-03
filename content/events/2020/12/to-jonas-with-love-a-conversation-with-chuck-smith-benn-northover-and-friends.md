@@ -24,6 +24,20 @@ people:
       image transfers, with Sumi ink and compressed charcoal, examine this
       relationship of mutual influence. All are guided by the materiality of
       their media."
+  - person: lee-ranaldo
+    event_bio: Lee Ranaldo, musician, visual artist, and writer, co-founded Sonic
+      Youth in 1981, and has been active on the New York and International music
+      and art scenes for the past 40+ years as composer, performer and producer;
+      also exhibiting visual art and publishing several books of journals,
+      poetry and writings on music. His newest LP Names of North End Women was
+      released in February 2020 on Mute Records.
+  - person: leah-singer
+    event_bio: Leah Singer is a multi-disciplinary artist working in film, video,
+      photography, printmaking and small book publishing. As a journalist she
+      centers her work on artist interviews most recently with the architect
+      James Wines and the photographer Mitch Epstein. Since the early 90s she
+      has collaborated with musician Lee Ranaldo on live film and music
+      performances.
   - person: chuck-smith
     event_bio: "Mr. Smith is a filmmaker, TV producer, and writer who has produced
       documentaries and TV series for National Geographic, Discovery, CBS News,
@@ -39,13 +53,6 @@ people:
         text: "Forrest Bess: Key to the Riddle (1999)"
       - text: Chuck Smith on Youtube
         url: https://www.youtube.com/user/chucksmithNYC
-  - person: lee-ranaldo
-    event_bio: Lee Ranaldo, musician, visual artist, and writer, co-founded Sonic
-      Youth in 1981, and has been active on the New York and International music
-      and art scenes for the past 40+ years as composer, performer and producer;
-      also exhibiting visual art and publishing several books of journals,
-      poetry and writings on music. His newest LP Names of North End Women was
-      released in February 2020 on Mute Records.
 date: 2020-12-08 13:00:00 -0500
 end_date: 2020-12-08 14:30:00 -0500
 series: 190
