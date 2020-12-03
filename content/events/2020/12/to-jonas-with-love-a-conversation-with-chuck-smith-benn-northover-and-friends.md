@@ -1,7 +1,7 @@
 ---
 title: "To Jonas With Love: A Conversation with Chuck Smith, Benn Northover, and
   Friends"
-summary: Mike Figgis, Raha Raissnia, Lee Renaldo, Leah Singer. Chuck Smith and
+summary: Mike Figgis, Raha Raissnia, Lee Ranaldo, Leah Singer. Chuck Smith and
   Benn Northover.
 people:
   - person: raha-raissnia
@@ -37,6 +37,8 @@ people:
         url: https://barbararubinmovie.com/index.php
       - url: https://www.kanopy.com/product/forrest-bess-key-riddle
         text: "Forrest Bess: Key to the Riddle (1999)"
+      - text: Chuck Smith on Youtube
+        url: https://www.youtube.com/user/chucksmithNYC
 date: 2020-12-08 13:00:00 -0500
 end_date: 2020-12-08 14:30:00 -0500
 series: 190
