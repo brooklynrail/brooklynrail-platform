@@ -58,6 +58,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: 7pByuneo-xA
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-184-aleksandar-duravcevic-tickets-129763798013
 event_platform:
   - zoom
