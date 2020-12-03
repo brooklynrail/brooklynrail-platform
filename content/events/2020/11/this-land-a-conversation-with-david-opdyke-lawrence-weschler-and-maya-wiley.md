@@ -24,11 +24,19 @@ people:
       Pulitzer Prize finalist; and Everything That Rises: A Book of
       Convergences, winner of a National Book Critics Circle Award.
   - person: maya-wiley
-    event_bio: Maya Wiley is a professor of public and urban policy at the New
-      School and an NBC News and MSNBC legal analyst. Before the New School,
-      Wiley, a civil rights attorney, was Counsel to New York City Mayor Bill de
-      Blasio. In October 2020, Wiley announced her own candidacy to succeed de
-      Blasio as mayor of New York.
+    event_bio: >-
+      Maya is a nationally recognized racial justice and equity advocate. She is
+      a leader in city government and in spurring democratic change. As Counsel
+      to the Mayor, she delivered for New York City on civil and immigrant
+      rights, women and minority owned business contracts, universal broadband
+      access and more. After leaving City Hall, she held police accountable as
+      Chair of the Civilian Complaint Review Board, and worked to improve public
+      education as a Co-Chair of the School Diversity Task Force. At the New
+      School, where she served as a University Professor, she founded the
+      Digital Equity Laboratory on universal and inclusive broadband.
+
+
+      Maya is a veteran of both the NAACP Legal Defense and Education Fund and the ACLU, was a former Legal Analyst for NBC News and MSNBC — where she argued against Trump’s attacks on our civil liberties and democratic norms — and was the founder and president of the Center for Social Inclusion. Maya was also Senior Advisor on Race and Poverty at the Open Society Foundations, the largest funder of human rights work the world over.
 poets:
   - person: allison-hedgecoke
     event_bio: Allison Adelle Hedge Coke is author of a memoir, a play, and 7 poetry
