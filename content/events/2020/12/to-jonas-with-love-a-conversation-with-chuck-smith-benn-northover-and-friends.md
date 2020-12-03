@@ -53,6 +53,14 @@ people:
         text: "Forrest Bess: Key to the Riddle (1999)"
       - text: Chuck Smith on Youtube
         url: https://www.youtube.com/user/chucksmithNYC
+  - person: benn-northover
+    event_bio: Benn Northover is an Actor and Director. He was a close friend and
+      collaborator with Jonas Mekas for over two decades, leading to several
+      film and video projects and a number of international gallery exhibitions
+      at institutions including the Centre Pompidou, BFI London and Agnès b.'s
+      Galerie du Jour in Paris. In 2012 Northover co-curated the landmark
+      exhibition of work by Mekas at the Serpentine Gallery in London alongside
+      Hans-Ulrich Obrist.
 date: 2020-12-08 13:00:00 -0500
 end_date: 2020-12-08 14:30:00 -0500
 series: 190
