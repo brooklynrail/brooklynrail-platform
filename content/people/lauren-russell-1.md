@@ -8,4 +8,5 @@ short_bio: Lauren Russell’s first full-length book, What’s Hanging on the Hu
   June, 2020.
 portraits:
   - media: 2020/08/lauren-russell-headshot
+website: https://laurenrussellpoet.com/
 ---
