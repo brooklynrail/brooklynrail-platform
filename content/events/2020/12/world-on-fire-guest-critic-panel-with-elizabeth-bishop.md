@@ -33,6 +33,9 @@ people:
       Teachers College, Columbia University. Her first full-length collection of
       poetry is Love from the Vortex & Other Poems (Kaleidoscope Vibrations,
       2020)
+  - person: nick-bennett
+    event_bio: Nick Bennett is the Curatorial Assistant and Publisher’s Assistant at
+      the Brooklyn Rail.
 date: 2020-12-10 13:00:00 -0500
 end_date: 2020-12-10 14:30:00 -0500
 collections:
