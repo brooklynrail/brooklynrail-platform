@@ -20,6 +20,15 @@ people:
       in BOMB Magazine, The Brooklyn Rail, Nine Mile, and Unearthed. Her first
       chapbook of poems, 'You Are Helping this Great Universe Explode', was
       published by Unrestricted Editions in 2020.
+  - person: adam-wolfond
+    event_bio: "Adam Wolfond is a 17-year old non-speaking autistic/neurodiverse
+      artist, poet, and university lecturer. His chapbook In Way of Music Water
+      Answers Toward Questions Other Than What Is Autism is forthcoming from
+      Unrestricted Interest. He attends high school and is the co-founder of The
+      A Collective in Toronto, where he works in visual art and poetry and
+      collaborates on the PhD dissertation Neurodiversity in Relation: an
+      artistic intraethnography with Estée Klar at York University in Toronto,
+      Canada, where he lives."
 date: 2020-12-09 13:00:00 -0500
 end_date: 2020-12-09 14:00:00 -0500
 series: 188
