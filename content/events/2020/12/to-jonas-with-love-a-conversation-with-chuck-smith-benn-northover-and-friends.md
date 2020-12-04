@@ -1,8 +1,9 @@
 ---
-title: "To Jonas With Love: A Conversation with Chuck Smith, Benn Northover, and
+title: "To Jonas with Love: A Conversation with Chuck Smith, Benn Northover, and
   Friends"
-summary: Mike Figgis, Raha Raissnia, Lee Ranaldo, Leah Singer. Chuck Smith and
-  Benn Northover.
+summary: David Belisle, Mike Figgis, Raha Raissnia, Lee Ranaldo, and Leah Singer
+  will join Chuck Smith and Benn Northover to discuss the recent exhibition "To
+  Jonas with Love."
 people:
   - person: david-belisle
     event_bio: David Belisle is a self-taught analog photographer who got his start
@@ -83,3 +84,4 @@ registration_url: https://www.eventbrite.com/e/the-new-social-environment-190-to
 event_platform:
   - zoom
 ---
+About *To Jonas with Love*:
