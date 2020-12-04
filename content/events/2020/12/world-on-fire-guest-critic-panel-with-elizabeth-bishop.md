@@ -1,19 +1,20 @@
 ---
 title: "World on Fire: Guest Critic Panel with Elizabeth Bishop"
-summary: Please join us for a conversation with **Dr. Elizabeth Bishop**,
-  **Regina Anderson**, **Damaris Dunn**, **Nicole Hamilton**, and **Yolanda
-  Sealey-Ruiz** on the Brooklyn Rail's September Guest Critics Page, "[World on
+summary: Please join us for a conversation with Dr. Elizabeth Bishop, Regina
+  Anderson, Damaris Dunn, Nicole Hamilton, and Yolanda Sealey-Ruiz on the
+  Brooklyn Rail's September Guest Critics Page, "[World on
   Fire](https://brooklynrail.org/2020/9/criticspage)." This discussion will be
   led by Rail Special Projects Editor **Nick Bennett**, and will conclude with a
   poetry reading.
-date: 2020-12-03 22:51:00 -0500
-end_date: 2020-12-03 22:51:00 -0500
+date: 2020-12-10 13:00:00 -0500
+end_date: 2020-12-10 14:30:00 -0500
 collections:
-  - the-new-social-environment
+  - common-ground
 event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/common-ground-world-on-fire-tickets-131547238331
 event_platform:
   - zoom
 ---
