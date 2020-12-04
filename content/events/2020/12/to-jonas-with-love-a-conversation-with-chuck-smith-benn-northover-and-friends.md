@@ -2,8 +2,8 @@
 title: "To Jonas with Love: A Conversation with Chuck Smith, Benn Northover, and
   Friends"
 summary: David Belisle, Mike Figgis, Raha Raissnia, Lee Ranaldo, and Leah Singer
-  will join Chuck Smith and Benn Northover to discuss the recent exhibition "To
-  Jonas with Love," a multimedia exhibition honoring Jonas Mekas.
+  will join Chuck Smith and Benn Northover to discuss "To Jonas with Love," a
+  multimedia exhibition honoring Jonas Mekas.
 people:
   - person: david-belisle
     event_bio: David Belisle is a self-taught analog photographer who got his start
