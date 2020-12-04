@@ -12,12 +12,15 @@
             <ul>
             {{- range $pages -}}
 
-              {{ if gt .Weight 0 }}
-                {{- if .Params.nav_title -}}
-                  <li><a href="{{- .Permalink -}}" title="{{- .Title -}}">{{- .Params.nav_title -}}</a></li>
-                {{- else -}}
-                  <li><a href="{{- .Permalink -}}" title="{{- .Title -}}">{{- .Title -}}</a></li>
-                {{- end -}}
+              {{/* Set the link source  */}}
+              {{- $source := .Permalink -}}
+              {{/* checks to see if there is a defined source URL */}}
+              {{- if .Params.source -}}
+                {{- $source = .Params.source -}}
+              {{- end -}}
+
+              {{- if gt .Weight 0 -}}
+                <li><a href="{{- $source -}}" title="{{- .Title -}}">{{- if .Params.nav_title -}}{{- .Params.nav_title -}}{{- else -}}{{- .Title -}}{{- end -}}</a></li>
               {{ end }}
 
             {{- end -}}
@@ -60,15 +63,12 @@
 
           <section>
             <div class="grid-row">
-              <div class="grid-col-12">
-
-                {{- if not .Params.deck -}}
-                <p class="summary">{{- .Params.summary | markdownify -}}</p>
-                {{- end -}}
+              <div class="grid-col-12 tablet:grid-col-10">
 
                 <div class="content">
                   {{- .Content -}}
                 </div>
+
               </div>
             </div>
           </section>
