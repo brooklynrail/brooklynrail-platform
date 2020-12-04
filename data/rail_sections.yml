@@ -1,0 +1,17 @@
+- id: "arts"
+  name: "Arts"
+  collections:
+    - "arts"
+  people:
+    - charles-schultz
+    - jeremy-zilar
+    - phong-h-bui
+  email: "arts@booklynrail.org"
+
+- id: "art-books"
+  name: "Art Books"
+  collections:
+    - "art-books"
+  people:
+    - charles-schultz
+  email: "artbooks@booklynrail.org"
