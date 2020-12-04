@@ -4,6 +4,13 @@ title: "To Jonas With Love: A Conversation with Chuck Smith, Benn Northover, and
 summary: Mike Figgis, Raha Raissnia, Lee Ranaldo, Leah Singer. Chuck Smith and
   Benn Northover.
 people:
+  - person: david-belisle
+    event_bio: David Belisle is a self-taught analog photographer who got his start
+      capturing the beginnings of the Grunge Movement in Seattle. Since then,
+      he's gone on to photograph The Yeah Yeah Yeahs, Mudhoney, Fleet Foxes and
+      REM (whom he toured with for several years), to name a few. Since 2011,
+      David has lived and worked in New York City as Michael Stipe's studio
+      manager.
   - person: raha-raissnia
     event_bio: "Over the past decade, Raha Raissnia's paintings, drawings, and films
       have unfolded within a permutational, self- reflexive structure. In her
