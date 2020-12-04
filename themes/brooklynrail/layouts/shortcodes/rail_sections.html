@@ -1,0 +1,33 @@
+{{/*
+Rail Sections Shortcode
+{{< rail_sections >}}
+*/}}
+
+
+<div class="shortcode-rail_sections">
+
+  {{/* Gets all sections */}}
+  {{- $rail_sections := $.Site.Data.rail_sections -}}
+
+  {{- range $i, $section := $rail_sections -}}
+
+    {{- if $section.people -}}
+      <p>
+        <strong>{{- $section.name -}}</strong><br/>
+        Editors:
+        {{ $peeps := slice -}}
+        {{- range $i, $person_id := $section.people -}}
+          {{- $person := $.Site.GetPage (printf "/%s/%s" "people" $person_id) -}}
+          {{- $peeps = $peeps | append $person.Params.name -}}
+        {{- end -}}
+        {{ delimit $peeps ", " ", and " }}
+        <br/>
+        Email: <a href="mailto:{{- $section.email -}}" title="email {{ $section.name -}}">{{- $section.email -}}</a> {{ ":envelope:" | emojify }}
+      </p>
+    {{- end -}}
+
+
+  {{- end -}}
+
+
+</div>
