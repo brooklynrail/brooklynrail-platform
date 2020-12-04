@@ -13,7 +13,8 @@ Rail Sections Shortcode
 
     {{- if $section.people -}}
       <p>
-        <strong>{{- $section.name -}}</strong><br/>
+        <strong>{{- $section.name -}}</strong> | <a href="mailto:{{- $section.email -}}?subject=Rail:%20{{- $section.name }}%20submission" title="email {{ $section.name -}}">{{- $section.email -}}</a>
+        <br/>
         Editors:
         {{ $peeps := slice -}}
         {{- range $i, $person_id := $section.people -}}
@@ -21,8 +22,6 @@ Rail Sections Shortcode
           {{- $peeps = $peeps | append $person.Params.name -}}
         {{- end -}}
         {{ delimit $peeps ", " ", and " }}
-        <br/>
-        Email: <a href="mailto:{{- $section.email -}}?subject=Rail:%20{{- $section.name }}%20submission" title="email {{ $section.name -}}">{{- $section.email -}}</a> {{ ":envelope:" | emojify }}
       </p>
     {{- end -}}
 
