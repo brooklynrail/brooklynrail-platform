@@ -13,7 +13,14 @@ people:
       David has lived and worked in New York City as Michael Stipe's studio
       manager.
   - person: mike-figgis
-    event_bio: (bio)
+    event_bio: Mike Figgis has emerged as a visionary filmmaker who thrives on
+      taking risks. Figgis has roots in experimental theater and music, which
+      are just two primary influences that contribute to the creative vision
+      evident in all of his feature films and documentaries. Although he has
+      been at the helm of such quintessentially mainstream movies as Internal
+      Affairs with Richard Gere, the British-born filmmaker has exhibited his
+      more eclectic personal style in films such as Stormy Monday and
+      Liebestraum.
   - person: raha-raissnia
     event_bio: "Over the past decade, Raha Raissnia's paintings, drawings, and films
       have unfolded within a permutational, self- reflexive structure. In her
