@@ -22,7 +22,7 @@ Rail Sections Shortcode
         {{- end -}}
         {{ delimit $peeps ", " ", and " }}
         <br/>
-        Email: <a href="mailto:{{- $section.email -}}" title="email {{ $section.name -}}">{{- $section.email -}}</a> {{ ":envelope:" | emojify }}
+        Email: <a href="mailto:{{- $section.email -}}?subject=Rail:%20{{- $section.name }}%20submission" title="email {{ $section.name -}}">{{- $section.email -}}</a> {{ ":envelope:" | emojify }}
       </p>
     {{- end -}}
 
