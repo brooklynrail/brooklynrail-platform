@@ -29,9 +29,14 @@ people:
       collaborates on the PhD dissertation Neurodiversity in Relation: an
       artistic intraethnography with Estée Klar at York University in Toronto,
       Canada, where he lives."
+  - person: lauren-russell-1
+    event_bio: Lauren Russell’s first full-length book, What’s Hanging on the Hush,
+      came out from Ahsahta Press in 2017. Her second book, Descent, is a winner
+      of the 2019 Tarpaulin Sky Book Awards and came out from Tarpaulin Sky
+      Press in June, 2020
 date: 2020-12-09 13:00:00 -0500
 end_date: 2020-12-09 14:00:00 -0500
-series: 188
+series: 191
 collections:
   - the-new-social-environment
 event_organizer:
