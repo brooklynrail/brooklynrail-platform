@@ -12,6 +12,11 @@ people:
       advocate, Nietzschean, and surf monk. Bishop is the author of two books,
       Becoming Activist (2015) and Embodying Theory (2018). She lives in
       Brooklyn with her dog, Messy.
+  - person: regina-anderson
+    event_bio: Regina Anderson is a Hybrid Socialist dedicated to helping the
+      community and the Executive Director of Food Recovery Network. Regina
+      believes deeply that we all have a part to play in helping our communities
+      thrive and would love to collaborate for action.
 date: 2020-12-10 13:00:00 -0500
 end_date: 2020-12-10 14:30:00 -0500
 collections:
