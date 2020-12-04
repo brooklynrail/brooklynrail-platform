@@ -1,5 +1,5 @@
 ---
-title: "World on Fire: Guest Critic Panel with Elizabeth Bishop"
+title: "World on Fire: Guest Critic Panel with Elizabeth Bishop & Friends"
 deck: Weekly conversations with activists, social justice practitioners, and
   changemakers.
 summary: Please join us for a conversation with Dr. Elizabeth Bishop, Regina
@@ -28,6 +28,11 @@ people:
     event_bio: Nicole Hamilton is a radical educator, trainer, curriculum designer,
       youth worker, circle keeper, and community builder currently working for
       Girls for Gender Equity as the Director of Community Partnerships.
+  - person: yolanda-sealey-ruiz
+    event_bio: Dr. Yolanda Sealey-Ruiz is an award-winning associate professor at
+      Teachers College, Columbia University. Her first full-length collection of
+      poetry is Love from the Vortex & Other Poems (Kaleidoscope Vibrations,
+      2020)
 date: 2020-12-10 13:00:00 -0500
 end_date: 2020-12-10 14:30:00 -0500
 collections:
