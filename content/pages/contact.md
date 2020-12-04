@@ -2,14 +2,23 @@
 title: Contact the Brooklyn Rail
 headline: Contact
 nav_title: Contact us
-summary: Contact the Rail
+summary: Contact the Rail summary
 weight: 3
 ---
 
+For all inquiries, the best way to get in touch with us is by sending us an email to [**hq@brooklynrail.org**](mailto:hq@brooklynrail.org?subject=Contact%20the%20Rail).
 
+### Editorial questions
+If you are a writer looking to reach a specific editor, please see our [submission guidelines](#) for the best person to contact.
 
-Business inquiries
+### Press
+For press inquiries, email the Rail's managing director Sophia Pedlow at [sophia@brooklynrail.org](mailto:sophia@brooklynrail.org).
 
+### Newsletter
+[Sign up for our mailing list](https://brooklynrail.org/newsletter) if you’d like to be notified when new issues are released, upcomming events, or annoucements about special projects.
+
+### Mailing address :envelope:
+Please do not send books to our administrative headquarters. Books for review consideration should be mailed directly to the section editors.
 ```
 The Brooklyn Rail, Inc.
 253 36th Street
@@ -17,17 +26,10 @@ The Brooklyn Rail, Inc.
 Brooklyn, NY 11232
 Mailbox Unit #20
 ```
-To reach us by phone:
-Tel: 718.349.8427
+
+### Phone :telephone_receiver:
+If you need to reach us by phone, please call.
+```
+Office: 718.349.8427
 Fax: 718.349.1327
-Email: hq@brooklynrail.org
-
-
-EDITORIAL INQUIRIES:
-If you are a writer looking to reach a specific editor, please see our submission guidelines for the best email contact.
-
-PRESS INQUIRIES:
-Please do not send books to the administrative headquarters. Books for review consideration should be mailed directly to the section editors. For more information please contact books@brooklynrail.org
-
-JOIN OUR MAILING LIST:
-Please click here to sign up for our mailing list if you’d like to receive occasional updates on our events or other special projects.
+```
