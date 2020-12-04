@@ -3,7 +3,7 @@ title: "To Jonas with Love: A Conversation with Chuck Smith, Benn Northover, and
   Friends"
 summary: David Belisle, Mike Figgis, Raha Raissnia, Lee Ranaldo, and Leah Singer
   will join Chuck Smith and Benn Northover to discuss the recent exhibition "To
-  Jonas with Love," a multimedia exhibition honoring Jonas Mekas
+  Jonas with Love," a multimedia exhibition honoring Jonas Mekas.
 people:
   - person: david-belisle
     event_bio: David Belisle is a self-taught analog photographer who got his start
@@ -84,4 +84,6 @@ registration_url: https://www.eventbrite.com/e/the-new-social-environment-190-to
 event_platform:
   - zoom
 ---
-About *To Jonas with Love*:
+![page1image451141872](blob:https://brooklynrail.netlify.app/99e81ae4-484a-4aa2-87b8-10bc2e19d625)T*o Jonas with Love is* a multimedia exhibition honoring Jonas Mekas curated by Chuck Smith and Benn Northover. For over sixty years, from his earliest days living on Orchard Street in the 1950s until his passing in 2019, Lithuanian filmmaker, poet, and artist Jonas Mekas was a cultural icon of Downtown NYC and a passionate guardian of artistic freedom. As he wandered through- out the city with his ever-present camera, Jonas always sought glimpses of beauty and poetry amid the bustle of the streets.
+
+Through his work and activism he stood as a guiding light for generations of artists and filmmakers. Along the way, he founded Film Culture magazine, the Filmmakers Co-op and Cinematheque, Anthology Film Archives, and the now-legendary Movie Journal col- umn in The Village Voice. This month, Jonas’s friends come together to celebrate the joy and inspiration that Jonas evoked and to remember his vibrant and undying poetic spirit. This exhibition features an eclectic mix of artists and filmmakers whose works either em- body or directly respond to Jonas’s tireless creativity and self-expression. To Jonas with Love will include a traditional gallery installation of photography, painting, drawing, and sculpture at the new Ki Smith Gallery East Village (197 East 4th Street) as well as a film and video installation with projections and monitors at the Gallery’s annex (181 Mott Street).
