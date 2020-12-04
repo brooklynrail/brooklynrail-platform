@@ -24,6 +24,10 @@ people:
       a doctoral degree at the University of Georgia's Mary Frances Early
       College of Education. Her research interests are educational equity and
       Black girl joy.
+  - person: nicole-hamilton
+    event_bio: Nicole Hamilton is a radical educator, trainer, curriculum designer,
+      youth worker, circle keeper, and community builder currently working for
+      Girls for Gender Equity as the Director of Community Partnerships.
 date: 2020-12-10 13:00:00 -0500
 end_date: 2020-12-10 14:30:00 -0500
 collections:
