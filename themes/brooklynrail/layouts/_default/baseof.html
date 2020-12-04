@@ -24,8 +24,18 @@
     {{- partialCached "meta/favicons.html" . -}}
 
 
-    {{ "<!-- RSS Feeds -->" | safeHTML }}
+    {{ if $.Params.source }}
+    {{ "<!-- Redirect =============== -->" | safeHTML }}
+    <meta http-equiv="refresh" content="0; url={{- $.Params.source -}}">
+    <script type="text/javascript">
+      window.location.href = "{{- $.Params.source -}}"
+    </script>
+    {{- end }}
+
+
+
     {{- with .OutputFormats.Get "RSS" -}}
+      {{ "<!-- RSS Feeds -->" | safeHTML }}
       <link href="{{- .RelPermalink -}}" rel="alternate" type="application/rss+xml" title="{{- $.Site.Title -}}" />
       <link href="{{- .RelPermalink -}}" rel="feed" type="application/rss+xml" title="{{- $.Site.Title -}}" />
     {{- end }}
@@ -35,12 +45,12 @@
 
     {{/* NOTE: For Production make sure you add `HUGO_ENV="production"` before your build command */}}
     {{- if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production") }}
+    {{ "<!-- Robots -->" | safeHTML }}
     <meta NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
     {{- else }}
+    {{ "<!-- Robots -->" | safeHTML }}
     <meta NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
     {{- end }}
-
-
 
     {{ block "styles" . -}}
       {{ "<!-- CSS -->" | safeHTML }}
