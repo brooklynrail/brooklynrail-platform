@@ -6,6 +6,12 @@ summary: Please join us for a conversation with Dr. Elizabeth Bishop, Regina
   Fire](https://brooklynrail.org/2020/9/criticspage)." This discussion will be
   led by Rail Special Projects Editor **Nick Bennett**, and will conclude with a
   poetry reading.
+people:
+  - person: elizabeth-bishop
+    event_bio: Dr. Elizabeth Bishop is a writer, researcher, professor, youth
+      advocate, Nietzschean, and surf monk. Bishop is the author of two books,
+      Becoming Activist (2015) and Embodying Theory (2018). She lives in
+      Brooklyn with her dog, Messy.
 date: 2020-12-10 13:00:00 -0500
 end_date: 2020-12-10 14:30:00 -0500
 collections:
