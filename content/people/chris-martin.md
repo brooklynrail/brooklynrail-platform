@@ -12,5 +12,5 @@ short_bio: "Chris Martin is a neurodivergent poet and educator whose fourth book
   Minneapolis, where he also teaches at Hamline University and Carleton
   College."
 portraits:
-  - media: 2020/05/chris-martin
+  - media: 2020/12/chris-martin
 ---
