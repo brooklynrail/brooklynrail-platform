@@ -1,5 +1,7 @@
 ---
 title: "World on Fire: Guest Critic Panel with Elizabeth Bishop"
+deck: Weekly conversations with activists, social justice practitioners, and
+  changemakers.
 summary: Please join us for a conversation with Dr. Elizabeth Bishop, Regina
   Anderson, Damaris Dunn, Nicole Hamilton, and Yolanda Sealey-Ruiz on the
   Brooklyn Rail's September Guest Critics Page, "[World on
