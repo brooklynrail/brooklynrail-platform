@@ -2,7 +2,7 @@
 title: Isabel Sandoval and Rosza Daniel Lang/Levitsky with McKenzie Wark
 summary: Isabel Sandoval and Rosza Daniel Lang/Levitsky will join McKenzie Wark
   for a conversation about the art and everyday cultures of trans women, past
-  and present. We'll conclude with a poetry reading.
+  and present. We'll conclude with a poetry reading from Drew Pham.
 people:
   - person: isabel-sandoval
     event_bio: Isabel Sandoval is a New York-based Filipina filmmaker. She is the
