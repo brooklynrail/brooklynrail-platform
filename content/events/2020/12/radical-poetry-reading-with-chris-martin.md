@@ -14,6 +14,12 @@ people:
       to helping neurodivergent learners transform their lives through writing.
       He lives in Minneapolis, where he also teaches at Hamline University and
       Carleton College."
+  - person: hannah-emerson
+    event_bio: Hannah Emerson is a non-speaking autistic poet from Lafayette, NY, on
+      the historical land of the Onondaga Nation. Her writing has been featured
+      in BOMB Magazine, The Brooklyn Rail, Nine Mile, and Unearthed. Her first
+      chapbook of poems, 'You Are Helping this Great Universe Explode', was
+      published by Unrestricted Editions in 2020.
 date: 2020-12-09 13:00:00 -0500
 end_date: 2020-12-09 14:00:00 -0500
 series: 188
