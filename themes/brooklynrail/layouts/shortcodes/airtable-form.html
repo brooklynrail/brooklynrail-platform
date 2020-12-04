@@ -1,0 +1,17 @@
+{{/*
+Airtable form
+{{< airtable-form src="https://airtable.com/embed/shrUWu4p3pFcvnKdu?backgroundColor=red" height="1036" >}}
+*/}}
+
+{{/* Gets the data from the shortcode */}}
+{{- $src := (.Get "src") -}}
+{{- $height := (.Get "height") -}}
+
+{{- if $src -}}
+<div class="shortcode-airtable shortcode-donate-sm">
+
+  {{- if $height -}}<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>{{- end -}}
+  <iframe class="airtable-embed {{ if $height -}}airtable-dynamic-height{{- end -}}" src="{{- $src -}}" frameborder="0" onmousewheel="" width="100%" height="{{- if $height -}}{{- $height -}}{{- else -}}533{{- end -}}" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+</div>
+{{- end -}}
