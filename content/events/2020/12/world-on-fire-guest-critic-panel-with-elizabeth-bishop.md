@@ -17,6 +17,11 @@ people:
       community and the Executive Director of Food Recovery Network. Regina
       believes deeply that we all have a part to play in helping our communities
       thrive and would love to collaborate for action.
+  - person: damaris-dunn
+    event_bio: Damaris Dunn is a native New Yorker and educator, currently pursuing
+      a doctoral degree at the University of Georgia's Mary Frances Early
+      College of Education. Her research interests are educational equity and
+      Black girl joy.
 date: 2020-12-10 13:00:00 -0500
 end_date: 2020-12-10 14:30:00 -0500
 collections:
@@ -29,8 +34,8 @@ registration_url: https://www.eventbrite.com/e/common-ground-world-on-fire-ticke
 event_platform:
   - zoom
 ---
-Please join us for a conversation emerging out of the Brooklyn Rail's September Guest Critics Page "World on Fire."
+Please join us for a conversation emerging out of the Brooklyn Rail's September Guest Critics Page "[World on Fire](https://brooklynrail.org/2020/9/criticspage)."
 
-> This collection of writing and art is a defense against the violence in our lives, an affirmation of life under the constant threat of erasure. Radical empathy. Stomp traces of fascism with precise intent. Culture jamming. Disruptors on the side of reimagined justice. The orchestration of crashing bricks. How it feels to survive being human in the midst of neverbeforeseen crisis such as we are living through right now. These pages bear witness as they break open words and images to make space for our bodies and lives. Kintsugi, golden joinery. What does it mean to repair? Compassionate urgency. Unlearning. Distance and perception. To be still in the still of the crisis. Biopower recaptured. The politics of survival is insufficient for the moment. – Dr. Elizabeth Bishop
+> This collection of writing and art is a defense against the violence in our lives, an affirmation of life under the constant threat of erasure. Radical empathy. Stomp traces of fascism with precise intent. Culture jamming. Disruptors on the side of reimagined justice. The orchestration of crashing bricks. How it feels to survive being human in the midst of neverbeforeseen crisis such as we are living through right now. These pages bear witness as they break open words and images to make space for our bodies and lives. Kintsugi, golden joinery. What does it mean to repair? Compassionate urgency. Unlearning. Distance and perception. To be still in the still of the crisis. Biopower recaptured. The politics of survival is insufficient for the moment. — Dr. Elizabeth Bishop
 
 Read the full Editor's Message here: <https://brooklynrail.org/2020/09/editorsmessage/World-on-Fire>
