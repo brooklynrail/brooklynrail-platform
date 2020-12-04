@@ -11,6 +11,8 @@ people:
       REM (whom he toured with for several years), to name a few. Since 2011,
       David has lived and worked in New York City as Michael Stipe's studio
       manager.
+  - person: mike-figgis
+    event_bio: (bio)
   - person: raha-raissnia
     event_bio: "Over the past decade, Raha Raissnia's paintings, drawings, and films
       have unfolded within a permutational, self- reflexive structure. In her
