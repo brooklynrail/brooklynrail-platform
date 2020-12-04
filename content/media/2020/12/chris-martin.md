@@ -1,0 +1,7 @@
+---
+media: /media/files/ear.jpg
+title: Chris Martin
+alt: A photo of poet Chris Martin.
+caption: Mary Austin Speaker
+date: 2020-12-04 10:02:00 -0500
+---
