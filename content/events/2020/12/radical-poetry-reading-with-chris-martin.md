@@ -21,7 +21,7 @@ people:
       chapbook of poems, 'You Are Helping this Great Universe Explode', was
       published by Unrestricted Editions in 2020.
   - person: adam-wolfond
-    event_bio: "Adam Wolfond is a 17-year old non-speaking autistic/neurodiverse
+    event_bio: "Adam Wolfond is a 18-year old non-speaking autistic/neurodiverse
       artist, poet, and university lecturer. His chapbook In Way of Music Water
       Answers Toward Questions Other Than What Is Autism is forthcoming from
       Unrestricted Interest. He attends high school and is the co-founder of The
