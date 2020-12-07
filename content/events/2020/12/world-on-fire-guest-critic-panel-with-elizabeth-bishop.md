@@ -19,9 +19,9 @@ people:
       believes deeply that we all have a part to play in helping our communities
       thrive and would love to collaborate for action.
   - person: damaris-dunn
-    event_bio: Damaris Dunn is a native New Yorker and educator, currently pursuing
-      a doctoral degree at the University of Georgia's Mary Frances Early
-      College of Education. Her research interests are educational equity and
+    event_bio: Damaris Dunn is a native New Yorker and educator. She is currently
+      pursuing her doctoral degree at the University of Georgia’s Mary Frances
+      Early College of Education. Her research interests are anti-Blackness and
       Black girl joy.
   - person: nicole-hamilton
     event_bio: Nicole Hamilton is a radical educator, trainer, curriculum designer,
