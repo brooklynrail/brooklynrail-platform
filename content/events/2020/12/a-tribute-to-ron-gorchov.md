@@ -119,6 +119,11 @@ poets:
         url: https://www.disonare.com
       - text: More about Rizoma
         url: https://brooklynrail.org/2020/09/special-report/RIZOMA-Poetry-and-Performance-Workshops
+  - person: vyt-bakaitis
+    event_bio: Vyt Bakaitis lives and works in Brooklyn. Refuge & Occasion, a book
+      of his poems, is due to be published by Station Hill Press. He has just
+      finished Transcience, a book with some new poems and the bulk of
+      translations Vyt has done over the past 50 years.
 date: 2020-12-11 13:00:00 -0500
 end_date: 2020-12-11 14:30:00 -0500
 series: 193
