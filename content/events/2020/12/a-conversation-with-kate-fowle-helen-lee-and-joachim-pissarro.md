@@ -30,7 +30,7 @@ people:
       to the Milken Institute for its art and culture programming. She is the
       Chairman of the American Foundation for the Courtauld Institute of Art,
       where she completed her post-graduate studies after earning a BA from
-      Harvard. Helen is also a Board Member of the Rail.
+      Harvard. Helen is also a Board Member of the Brooklyn Rail.
   - person: joachim-pissaro
     event_bio: "Joachim Pissarro is the Bershad Professor of Art History and
       Director of the Hunter College Galleries, Hunter College, CUNY/City
