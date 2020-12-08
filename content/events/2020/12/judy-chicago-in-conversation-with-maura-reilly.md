@@ -32,27 +32,27 @@ people:
       - text: Current exhibit at Jeffrey Deitch, New York
         url: https://deitch.com/new-york/exhibitions/judy-chicago-what-if-women-ruled-the-world
   - person: maura-reilly
-    event_bio: "Maura Reilly is a curator who has organized dozens of exhibitions
-      internationally with a specific focus on marginalized artists. She has
-      written extensively on global contemporary art and curatorial practice,
-      including, most recently Curatorial Activism: Towards an Ethics of
-      Curating (Thames & Hudson, 2018), which was named a “Top 10 Best Art Book
-      of 2018” by the New York Times. Reilly is the Founding Curator of the
-      Elizabeth A. Sackler Center for Feminist Art at the Brooklyn Museum, where
-      she developed and launched the first exhibition and public programming
-      space in the USA devoted entirely to feminist art. While there, she
-      organized several landmark exhibitions, including the permanent
+    event_bio: "Maura Reilly is a curator and arts writer who has organized dozens
+      of exhibitions internationally with a specific focus on marginalized
+      artists. She has written extensively on global contemporary art and
+      curatorial practice, including, most recently Curatorial Activism: Towards
+      an Ethics of Curating (Thames & Hudson, 2018), which was named a “Top 10
+      Best Art Book of 2018” by the New York Times. Her next book, The Ethical
+      Museum is forthcoming from Thames & Hudson in 2022, followed by a textbook
+      on Feminist Art, also with Thames & Hudson. Reilly is the Founding Curator
+      of the Elizabeth A. Sackler Center for Feminist Art at the Brooklyn
+      Museum, where she developed and launched the first exhibition and public
+      programming space in the USA devoted entirely to feminist art. While
+      there, she organized several landmark exhibitions, including the permanent
       installation of Judy Chicago’s The Dinner Party, the blockbuster Global
       Feminisms (co-curated with Linda Nochlin), Ghada Amer: Love Had No End,
-      among many others. She is a founding member of two initiatives dedicated
-      to fighting discrimination against women in the art world – The Feminist
-      Art Project (TFAP) and Feminist Curators United (FcU). In 2015, Reilly was
-      named one of the Top 50 most influential people in the art world by Art &
-      Auction, in recognition of her advocacy for women artists. She received
-      her M.A. and PhD in art history from the Institute of Fine Arts, New York
-      University, and is an Editor-at-Large for the Brooklyn Rail. Reilly is
-      Associate Professor of Art History and Museum Studies at Arizona State
-      University."
+      Burning Down the House, among others. She is a founding member of two
+      initiatives dedicated to fighting discrimination against women in the art
+      world – The Feminist Art Project (TFAP) and Feminist Curators United
+      (FcU). She received her M.A. and PhD in art history from the Institute of
+      Fine Arts, New York University, and is an Editor-at-Large for the Brooklyn
+      Rail. Dr. Reilly is an Associate Professor of Art History and Museum
+      Studies at Arizona State University. "
 date: 2020-12-14 13:00:00 -0500
 end_date: 2020-12-14 14:30:00 -0500
 series: 194
