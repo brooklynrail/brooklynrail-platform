@@ -62,6 +62,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-195-robert-wilson-and-willem-dafoe-tickets-132178057127
 event_platform:
   - zoom
 ---
