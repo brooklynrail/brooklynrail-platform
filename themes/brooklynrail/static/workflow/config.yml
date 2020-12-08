@@ -154,7 +154,7 @@ collections:
             widget: 'text'
             minimal: true
             pattern: ['^.{0,300}$', "Event bio needs to be 300 characters or less"]
-            hint: "Bio needs to start with the person's name. Max 300 characters."
+            hint: "Bio should not start with the person's name. Max 300 characters."
             required: false
           - label: 'Related Links'
             name: 'related_links'
