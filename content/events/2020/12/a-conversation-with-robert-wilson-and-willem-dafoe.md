@@ -32,8 +32,30 @@ people:
 
 
       Willem is one of the original members of The Wooster Group, the New York based experimental theatre collective. He created and performed in all of the group's work from 1977 through 2005, both in the U.S. and internationally. Since then, he has worked with theatre directors Richard Foreman, Robert Wilson, Romeo Castellucci, and performance artist Marina Abramovic.
-date: 2020-12-08 17:22:00 -0500
-end_date: 2020-12-08 17:57:00 -0500
+  - person: charles-shafaieh
+    event_bio: "With writing on literature, visual art, theatre, film, and music
+      that has appeared in _The New Yorker, The New York Times Book Review,
+      Vogue, The Irish Times, Artforum_, _The Times Literary Supplement,_ and
+      _Kinfolk,_ among other publications, Charles Shafaieh writes regularly on
+      architecture for the Harvard Graduate School of Design, and has
+      contributed material to _The Kinfolk Entrepreneur_ (Artisan 2017) and _The
+      Touch: Spaces Designed for the Senses_ (gestalten 2019). At the Brooklyn
+      Public Library, he co-curates
+      [LitFilm](https://www.bklynlibrary.org/event-series/litfilm), an annual
+      film festival on writers, and manage the [BPL Literary
+      Prize](https://www.bklynlibrary.org/support/bpl-literary-prize). As a
+      freelance editor and fact checker, he has worked with _Harper's Magazine_,
+      Archipelago Books, PEN America, and other organizations, and has been a
+      member of the editorial staffs of _The New York Review of Books_, _The
+      Paris Review,_ and The Criterion Collection. Since 2016, I have been a
+      member of [Words Without Borders](https://www.wordswithoutborders.org/)’
+      Young Publishers Committee."
+    related_links:
+      - text: Charles Shafaieh's website
+        url: https://www.shafaieh.com/
+date: 2020-12-15 13:00:00 -0500
+end_date: 2020-12-15 14:30:00 -0500
+series: 195
 collections:
   - the-new-social-environment
 event_organizer:
