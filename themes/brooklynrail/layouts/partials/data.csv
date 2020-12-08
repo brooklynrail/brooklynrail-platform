@@ -1,0 +1,6 @@
+{{/* Gets all events */}}
+{{- $events := where $.Site.RegularPages  "Section" "events" -}}
+
+{{ range $i, $e := $events }}
+  {{ $e }}
+{{ end }}
