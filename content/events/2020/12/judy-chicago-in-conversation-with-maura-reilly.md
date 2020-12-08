@@ -2,7 +2,7 @@
 title: Judy Chicago in Conversation with Maura Reilly
 summary: Join us for a conversation with artist, author, feminist, and educator
   Judy Chicago and Rail Editor-at-Large Maura Reilly. We'll conclude with a
-  poetry reading.
+  poetry reading by Aaron Shurin.
 people:
   - person: judy-chicago
     event_bio: "Judy Chicago (b. 1939, Chicago) is an artist, author, feminist, and
