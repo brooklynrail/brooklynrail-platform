@@ -45,10 +45,15 @@ outputFormats:
     baseName: info
     mediaType: text/html
     permalinkable: true
+  DATA:
+    baseName: data
+    mediaType: text/csv
+    permalinkable: true
+    isHTML: false
 
 outputs:
-  section: ["HTML", "INFO"]
-  page: ["HTML", "INFO"]
+  section: ["HTML", "INFO", "DATA"]
+  page: ["HTML"]
 
 assetDir: assets
 
