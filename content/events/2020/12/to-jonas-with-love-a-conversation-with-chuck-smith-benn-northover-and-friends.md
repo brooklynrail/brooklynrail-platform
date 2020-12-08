@@ -8,11 +8,11 @@ summary: David Belisle, Mike Figgis, Raha Raissnia, Lee Ranaldo, and Leah Singer
 people:
   - person: david-belisle
     event_bio: David Belisle is a self-taught analog photographer who got his start
-      capturing the beginnings of the Grunge Movement in Seattle. Since then,
-      he's gone on to photograph The Yeah Yeah Yeahs, Mudhoney, Fleet Foxes and
-      REM (whom he toured with for several years), to name a few. Since 2011,
-      David has lived and worked in New York City as Michael Stipe's studio
-      manager.
+      capturing the 90’s music scene in his hometown, Seattle. Since then, he's
+      toured with & photographed bands such as R.E.M., Yeah Yeah Yeahs, Sinead
+      O’Connor, and Patti Smith. He met Jonas Mekas through some good friends
+      shortly after moving to NYC 10 years ago. David is also the studio manager
+      for Michael Stipe.
   - person: mike-figgis
     event_bio: Mike Figgis has emerged as a visionary filmmaker who thrives on
       taking risks. Figgis has roots in experimental theater and music, which
