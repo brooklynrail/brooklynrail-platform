@@ -50,9 +50,7 @@ people:
       Paris Review,_ and The Criterion Collection. Since 2016, I have been a
       member of [Words Without Borders](https://www.wordswithoutborders.org/)’
       Young Publishers Committee."
-    related_links:
-      - text: Charles Shafaieh's website
-        url: https://www.shafaieh.com/
+    related_links: []
 date: 2020-12-15 13:00:00 -0500
 end_date: 2020-12-15 14:30:00 -0500
 series: 195
