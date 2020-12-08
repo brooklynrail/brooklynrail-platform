@@ -62,6 +62,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: RSXKSlLNvrk
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-186-radical-poetry-with-no-land-tickets-130579935101
 event_platform:
   - zoom
