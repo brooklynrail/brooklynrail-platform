@@ -19,6 +19,19 @@ people:
     related_links:
       - text: The Watermill Center
         url: https://www.watermillcenter.org/
+  - person: willem-dafoe
+    event_bio: >-
+      Having made over one hundred films, four time Academy Award nominee Willem
+      Dafoe is internationally respected for bringing versatility, boldness, and
+      dare to some of the most iconic films of our time. His artistic curiosity
+      leads him to projects all over the world, large and small, Hollywood films
+      as well as Independent cinema. Upcoming films include Wes Anderson's _The
+      French Dispatch_, Abel Ferrara's _Siberia_, Paul Schrader's _The Card
+      Counter_, and Robert Eggers' _The Northman_.  He recently wrapped shooting
+      on Guillermo del Toro's _Nightmare Alley_.
+
+
+      Willem is one of the original members of The Wooster Group, the New York based experimental theatre collective. He created and performed in all of the group's work from 1977 through 2005, both in the U.S. and internationally. Since then, he has worked with theatre directors Richard Foreman, Robert Wilson, Romeo Castellucci, and performance artist Marina Abramovic.
 date: 2020-12-08 17:22:00 -0500
 end_date: 2020-12-08 17:57:00 -0500
 collections:
