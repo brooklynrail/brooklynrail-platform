@@ -53,6 +53,15 @@ people:
       Fine Arts, New York University, and is an Editor-at-Large for the Brooklyn
       Rail. Dr. Reilly is an Associate Professor of Art History and Museum
       Studies at Arizona State University. "
+poets:
+  - person: aaron-shurin
+    event_bio: "Aaron Shurin is the author of fourteen books of poetry and prose,
+      including The Blue Absolute, (Nightboat Books, 2020) and Flowers & Skies:
+      Two Talks (Entre Rios Books, 2017). He's Professor Emeritus in the MFA
+      Writing program at the University of San Francisco."
+    related_links:
+      - url: https://nightboat.org/book/the-blue-absolute/
+        text: "The Blue Absolute (Nightboat Books, 2020) "
 date: 2020-12-14 13:00:00 -0500
 end_date: 2020-12-14 14:30:00 -0500
 series: 194
