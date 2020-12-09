@@ -45,6 +45,25 @@ people:
       [Litfilm](https://www.bklynlibrary.org/event-series/litfilm), an annual
       film festival focused on writers."
     related_links: []
+poets:
+  - person: annabel-lee
+    event_bio: Annabel Lee is a poet, publisher, prose writer, translator,
+      filmmaker, musician, educator, editor, typesetter, printer, bookbinder,
+      and artist. She is the publisher of Vehicle Editions and a member of the
+      board of directors of The Poetry Project and was formerly on the board at
+      Center for Book Arts.
+    related_links:
+      - url: https://uglyducklingpresse.org/publications/a-poetics-of-the-press/
+        text: Annabel featured in *A Poetics of the Press*
+      - text: Books by Annabel Lee
+        url: https://www.vehicleeditions.com/books
+      - text: "*The Corona Transmissions: Alternatives for Engaging with COVID-19—from
+          the Physical to the Metaphysical*"
+        url: https://www.simonandschuster.com/books/The-Corona-Transmissions/Sherri-Mitchell/9781644113073
+      - url: https://www.vehicleeditions.com/availableTitles
+        text: Titles published by Vehicle Editions (Annabel Lee, publisher)
+      - url: https://www.poetryproject.org/marathon
+        text: Poetry Project Marathon— a film of Annabel Lee by Jacob Burckhardt
 date: 2020-12-15 13:00:00 -0500
 end_date: 2020-12-15 14:30:00 -0500
 series: 195
