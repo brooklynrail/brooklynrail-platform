@@ -38,6 +38,18 @@ people:
       for the Lunch Poems reading series at the University of
       California–Berkeley, singleton has taught at Saint Mary’s College, Naropa
       University, and New Mexico State University."
+  - person: carmen-gimenez-smith
+    event_bio: Carmen Giménez Smith is the author of numerous poetry collections,
+      including Be Recorder (Graywolf Press, 2019), which was a finalist for the
+      2019 National Book Award in Poetry, the PEN Open Book Award, the Audre
+      Lorde Award for Lesbian Poetry, and the Los Angeles Times Book Prize; and
+      Goodbye, Flicker (University of Massachusetts Press, 2012), winner of the
+      Juniper Prize for Poetry. Her memoir, Bring Down the Little Birds
+      (University of Arizona, 2010) was a finalist for the American Book Award.
+      Giménez Smith received a Howard Foundation grant for creative nonfiction
+      in 2011 and was a 2019 Guggenheim fellow. In 2020, she received the
+      Academy of American Poets Fellowship, which recognizes distinguished
+      poetic achievement.
   - person: anna-maria-hong
     event_bio: "Anna Maria Hong is the author of three recent books: Age of Glass,
       winner of the Poetry Society of America’s Norma Farber First Book Award,
@@ -50,7 +62,7 @@ people:
       Mount Holyoke College."
 date: 2020-12-16 13:00:00 -0500
 end_date: 2020-12-16 14:00:00 -0500
-series: 188
+series: 191
 collections:
   - the-new-social-environment
 event_organizer:
