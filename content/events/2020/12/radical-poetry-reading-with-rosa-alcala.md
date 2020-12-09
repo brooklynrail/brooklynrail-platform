@@ -26,16 +26,6 @@ people:
       author of three books of poetry: Pioneers in the Study of Motion, Utopia
       Minus, and The Market Wonders all from Ahsahta Press. She is a professor
       of creative writing at the University of Arizona.  "
-  - person: anna-maria-hong
-    event_bio: "Anna Maria Hong is the author of three recent books: Age of Glass,
-      winner of the Poetry Society of America’s Norma Farber First Book Award,
-      the novella H & G, and Fablesque, winner of Tupelo Press’s Berkshire
-      Prize. A former Bunting Fellow at the Radcliffe Institute for Advanced
-      Study, she has poetry and fiction published and forthcoming in numerous
-      publications including The Nation, The Iowa Review, Colorado Review,
-      Shenandoah, Plume, Ecotone, jubilat, Pleiades, Poetry Daily, Best New
-      Poets, and The Best American Poetry. She is an Assistant Professor at
-      Mount Holyoke College."
   - person: giovanni-singleton
     event_bio: "giovanni singleton earned a BA from American University and an MFA
       from the New College of California. She is the author of the poetry
@@ -48,6 +38,16 @@ people:
       for the Lunch Poems reading series at the University of
       California–Berkeley, singleton has taught at Saint Mary’s College, Naropa
       University, and New Mexico State University."
+  - person: anna-maria-hong
+    event_bio: "Anna Maria Hong is the author of three recent books: Age of Glass,
+      winner of the Poetry Society of America’s Norma Farber First Book Award,
+      the novella H & G, and Fablesque, winner of Tupelo Press’s Berkshire
+      Prize. A former Bunting Fellow at the Radcliffe Institute for Advanced
+      Study, she has poetry and fiction published and forthcoming in numerous
+      publications including The Nation, The Iowa Review, Colorado Review,
+      Shenandoah, Plume, Ecotone, jubilat, Pleiades, Poetry Daily, Best New
+      Poets, and The Best American Poetry. She is an Assistant Professor at
+      Mount Holyoke College."
 date: 2020-12-16 13:00:00 -0500
 end_date: 2020-12-16 14:00:00 -0500
 series: 188
