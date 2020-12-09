@@ -25,8 +25,10 @@ people:
       Black girl joy.
   - person: nicole-hamilton
     event_bio: Nicole Hamilton is a radical educator, trainer, curriculum designer,
-      youth worker, circle keeper, and community builder currently working for
-      Girls for Gender Equity as the Director of Community Partnerships.
+      youth worker, circle keeper, community builder and lead consultant for
+      Culturvate Consulting LLC. She has served as a Director for Gender Equity
+      since 2010 working with youth and adults in school and community based
+      partnerships.
   - person: yolanda-sealey-ruiz
     event_bio: Dr. Yolanda Sealey-Ruiz is an award-winning associate professor at
       Teachers College, Columbia University. Her first full-length collection of
