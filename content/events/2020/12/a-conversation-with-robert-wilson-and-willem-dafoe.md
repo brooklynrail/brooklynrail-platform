@@ -58,7 +58,8 @@ poets:
       - text: Books by Annabel Lee
         url: https://www.vehicleeditions.com/books
       - text: "*The Corona Transmissions: Alternatives for Engaging with COVID-19—from
-          the Physical to the Metaphysical*"
+          the Physical to the Metaphysical* (All royalties for this book go to
+          the Land Peace foundation, serving First Nations tribes in Maine)"
         url: https://www.simonandschuster.com/books/The-Corona-Transmissions/Sherri-Mitchell/9781644113073
       - url: https://www.vehicleeditions.com/availableTitles
         text: Titles published by Vehicle Editions (Annabel Lee, publisher)
