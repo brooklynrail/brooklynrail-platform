@@ -1,7 +1,10 @@
 ---
 title: Radical Poetry Reading with Rosa Alcalá
+deck: Featuring Susan Briante, giovanni singleton, Carmen Giménez Smith, and
+  Anna Maria Hong.
 summary: Poet Rosa Alcalá curates the 17th installment in a weekly series of
-  Radical Poetry Readings.
+  Radical Poetry Readings, featuring political poetry read by Susan Briante,
+  giovanni singleton, Carmen Giménez Smith, and Anna Maria Hong.
 people:
   - person: rosa-alcala
     event_bio: "Rosa Alcalá is the author of three books of poetry, most recently
