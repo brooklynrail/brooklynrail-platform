@@ -13,6 +13,64 @@
   {{/* Reverses the order of the events, so the next event is at the top */}}
   {{- $future_events := $future_events.Reverse -}}
 
+  <div class="data-csv">
+    <div class="grid-container">
+      <div class="grid-row grid-gap-4">
+        <div class="grid-col-12">
+          title,
+          deck,
+          summary,
+          start-date,
+          end-date,
+          people,
+          series,
+          collections,
+          event-organizer,
+          event-producer,
+          registration_url,
+          event_platform
+        </div>
+      </div>
+    {{ range $i, $event := $events }}
+      <div class="grid-row grid-gap-4">
+        <div class="grid-col-12">
+          "{{ $event.Title }}",
+          "{{ $event.Params.deck }}",
+          "{{ $event.Summary }}",
+          "{{- $event.Date.Format "2006-01-02T15:04:05" -}}",
+          "{{- dateFormat "2006-01-02T15:04:05" (time $event.Params.end_date) -}}",
+          "{{- range $i, $person := $event.Params.people }}
+            {{- if ne $i 0 -}}, {{ end -}}
+            {{- $person.person -}}
+          {{- end -}}",
+          "{{- range $i, $person := $event.Params.poets }}
+            {{- if ne $i 0 -}}, {{ end -}}
+            {{- $person.person -}}
+          {{- end -}}",
+          "{{ $event.Params.series }}",
+          "{{- range $i, $collection := $event.Params.collections }}
+            {{- if ne $i 0 -}}, {{ end -}}
+            {{- $collection -}}
+          {{- end -}}",
+          "{{- range $i, $organizer := $event.Params.event_organizer }}
+            {{- if ne $i 0 -}}, {{ end -}}
+            {{- $organizer -}}
+          {{- end -}}",
+          "{{- range $i, $producer := $event.Params.event_producer }}
+            {{- if ne $i 0 -}}, {{ end -}}
+            {{- $producer -}}
+          {{- end -}}",
+          "{{ $event.Params.registration_url }}",
+          "{{- range $i, $platform := $event.Params.event_platform }}
+            {{- if ne $i 0 -}}, {{ end -}}
+            {{- $platform -}}
+          {{- end -}}"
+        </div>
+      </div>
+    {{ end }}
+    </div>
+  </div>
+
 
 <main class="events" id="main-content" role="main">
 
