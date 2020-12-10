@@ -273,3 +273,10 @@ form.rail-form {
     }
   }
 }
+
+.data-csv{
+  @include u-font('sans', '2xs');
+  .grid-row{
+    @include u-padding-y(1);
+  }
+}
