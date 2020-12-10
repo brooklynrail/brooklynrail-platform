@@ -1,6 +1,6 @@
 ---
 title: How Latina Artists Keep On Keeping On
-summary: Latina artists, performers and writers Carmina Escobar, Carribean
+summary: Latina artists, performers, and writers Carmina Escobar, Carribean
   Fragoza, and Yxta Murray join Rail ArtSeen Editor Amanda Gluibizzi and Art
   Historian Amber Jamilla Musser for a conversation. We conclude with a poetry
   reading.
