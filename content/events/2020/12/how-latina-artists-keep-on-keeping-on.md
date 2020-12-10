@@ -61,6 +61,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/common-ground-how-latina-artists-keep-on-keeping-on-tickets-132469976265
 event_platform:
   - zoom
 ---
