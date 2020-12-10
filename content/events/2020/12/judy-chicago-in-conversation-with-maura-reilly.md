@@ -1,8 +1,8 @@
 ---
 title: Judy Chicago in Conversation with Maura Reilly
-summary: Join us for a conversation with artist, author, feminist, and educator
-  Judy Chicago and Rail Editor-at-Large Maura Reilly. We'll conclude with a
-  poetry reading by Aaron Shurin.
+summary: "Join us for a conversation with two feminist icons: artist, author,
+  feminist, and educator Judy Chicago and Dr. Maura Reilly. We'll conclude with
+  a poetry reading by Aaron Shurin."
 people:
   - person: judy-chicago
     event_bio: >-
@@ -20,9 +20,27 @@ people:
       - text: Current exhibit at Jeffrey Deitch, New York
         url: https://deitch.com/new-york/exhibitions/judy-chicago-what-if-women-ruled-the-world
   - person: maura-reilly
-    event_bio: >-
-      
-      A curator and arts writer who has organized dozens of exhibitions internationally with a specific focus on marginalized artists. She has written extensively on global contemporary art and curatorial practice, including, most recently _Curatorial Activism: Towards an Ethics of Curating_ (Thames & Hudson, 2018), which was named a “Top 10 Best Art Book of 2018” by the _New York Times_. Her next book, _The Ethical Museum_ is forthcoming from Thames & Hudson in 2022, followed by a textbook on _Feminist Art_, also with Thames & Hudson. Reilly is the Founding Curator of the Elizabeth A. Sackler Center for Feminist Art at the Brooklyn Museum, where she developed and launched the first exhibition and public programming space in the USA devoted entirely to feminist art. While there, she organized several landmark exhibitions, including the permanent installation of Judy Chicago’s _The Dinner Party_, the blockbuster _Global Feminisms_ (co-curated with Linda Nochlin), _Ghada Amer: Love Had No End_, _Burning Down the House_, among others. She is a founding member of two initiatives dedicated to fighting discrimination against women in the art world – The Feminist Art Project (TFAP) and Feminist Curators United (FcU). She received her M.A. and PhD in art history from the Institute of Fine Arts, New York University, and is an Editor-at-Large for the Brooklyn Rail. Dr. Reilly is an Associate Professor of Art History and Museum Studies at Arizona State University.
+    event_bio: "A curator and arts writer who has organized dozens of exhibitions
+      internationally with a specific focus on marginalized artists, Dr. Maura
+      Reilly has written extensively on global contemporary art and curatorial
+      practice, including, most recently _Curatorial Activism: Towards an Ethics
+      of Curating_ (Thames & Hudson, 2018), which was named a “Top 10 Best Art
+      Book of 2018” by the _New York Times_. Her next book, _The Ethical Museum_
+      is forthcoming from Thames & Hudson in 2022, followed by a textbook on
+      _Feminist Art_, also with Thames & Hudson. Reilly is the Founding Curator
+      of the Elizabeth A. Sackler Center for Feminist Art at the Brooklyn
+      Museum, where she developed and launched the first exhibition and public
+      programming space in the USA devoted entirely to feminist art. While
+      there, she organized several landmark exhibitions, including the permanent
+      installation of Judy Chicago’s _The Dinner Party_, the blockbuster _Global
+      Feminisms_ (co-curated with Linda Nochlin), _Ghada Amer: Love Had No End_,
+      _Burning Down the House_, among others. She is a founding member of two
+      initiatives dedicated to fighting discrimination against women in the art
+      world – The Feminist Art Project (TFAP) and Feminist Curators United
+      (FcU). She received her M.A. and PhD in art history from the Institute of
+      Fine Arts, New York University, and is an Editor-at-Large for the Brooklyn
+      Rail. Dr. Reilly is an Associate Professor of Art History and Museum
+      Studies at Arizona State University."
 poets:
   - person: aaron-shurin
     event_bio: "Aaron Shurin is the author of fourteen books of poetry and prose,
