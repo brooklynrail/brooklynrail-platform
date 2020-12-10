@@ -11,4 +11,7 @@ short_bio: Experimental vocalist Carmina Escobar is a creative performer,
   but also to investigate radical ideas and concepts regarding the voice.
   Escobar completed an M.F.A. with a specialization in Voice Arts at California
   Institute of the Arts, where she is a professor.
+portraits:
+  - media: 2020/12/carmina-escobar
+website: https://carminaescobar.monster
 ---
