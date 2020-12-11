@@ -2,7 +2,7 @@
 title: A Conversation with Kate Fowle, Helen Lee, and Joachim Pissarro
 summary: Join us for a conversation with MoMA PS1 Director Kate Fowle, hosted by
   Rail Board Member Helen Lee and Rail Consulting Editor Joachim Pissarro. We'll
-  conclude with a poetry reading.
+  conclude with a poetry reading from Coco Fitterman.
 people:
   - person: kate-fowle
     event_bio: >-
