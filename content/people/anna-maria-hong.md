@@ -11,5 +11,7 @@ short_bio: "Anna Maria Hong is the author of three recent books: Age of Glass,
   including The Nation, The Iowa Review, Colorado Review, Shenandoah, Plume,
   Ecotone, jubilat, Pleiades, Poetry Daily, Best New Poets, and The Best
   American Poetry. She is an Assistant Professor at Mount Holyoke College."
+portraits:
+  - media: 2020/12/anna-maria-hong
 website: https://www.annamariahong.net/
 ---
