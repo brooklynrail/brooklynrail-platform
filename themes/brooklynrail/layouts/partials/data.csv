@@ -1,6 +1,6 @@
 {{/* Gets all events */}}
 {{- $events := where $.Site.RegularPages  "Section" "events" -}}
-
-{{ range $i, $e := $events }}
-  {{ $e }}
-{{ end }}
+title,deck,summary,start-date,end-date,people,series,collections,event-organizer,event-producer,registration_url,event_platform
+{{ range $i,$event := $events -}}
+"{{- $event.Title -}}","{{- $event.Params.deck -}}","{{- $event.Summary -}}","{{- $event.Date.Format "2006-01-02T15:04:05" -}}","{{- dateFormat "2006-01-02T15:04:05" (time $event.Params.end_date) -}}","{{- range $i,$person := $event.Params.people -}}{{- if ne $i 0 -}},{{- end -}}{{- $person.person -}}{{- end -}}","{{- range $i,$person := $event.Params.poets -}}{{- if ne $i 0 -}},{{- end -}}{{- $person.person -}}{{- end -}}","{{- $event.Params.series -}}","{{- range $i,$collection := $event.Params.collections -}}{{- if ne $i 0 -}},{{- end -}}{{- $collection -}}{{- end -}}","{{- range $i,$organizer := $event.Params.event_organizer -}}{{- if ne $i 0 -}},{{- end -}}{{- $organizer -}}{{- end -}}","{{- range $i,$producer := $event.Params.event_producer -}}{{- if ne $i 0 -}},{{- end -}}{{- $producer -}}{{- end -}}","{{- $event.Params.registration_url -}}","{{- range $i,$platform := $event.Params.event_platform -}}{{- if ne $i 0 -}},{{- end -}}{{- $platform -}}{{- end -}}"
+{{ end -}}
