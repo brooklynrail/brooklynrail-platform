@@ -1,7 +1,7 @@
 ---
-name: Yxta Murray
+name: Yxta Maya Murray
 first_name: Yxta
-last_name: Murray
+last_name: Maya Murray
 short_bio: "A novelist and an art critic who teaches at Loyola Marymount School
   of Law. Yxta writes about Community Constitutionalism, Criminal Law, Property
   Law, Gender Justice, and Law and Literature. She also writes about the
