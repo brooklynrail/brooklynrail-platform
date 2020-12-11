@@ -29,10 +29,10 @@ people:
       cription) will be published by City Lights in March of 2021. She is Senior
       Writer at the _Tropics of Meta,_ co-editor of UC Press's acclaimed
       California cultural journal, _Boom California_, and is also the founder of
-      South El Monte Arts Posse, an interdisciplinary arts collective_._
-      Carribean is currently the Coordinator of the Kingsley and Kate Tufts
-      Poetry Award at Claremont Graduate University, and she lives in the San
-      Gabriel Valley in LA County."
+      South El Monte Arts Posse, an interdisciplinary arts collective. Carribean
+      is currently the Coordinator of the Kingsley and Kate Tufts Poetry Award
+      at Claremont Graduate University, and she lives in the San Gabriel Valley
+      in LA County."
   - person: yxta-murray
     event_bio: "Yxta Maya Murray is a writer and law professor living in Los
       Angeles. Her novels include _The Good Girl’s Guide to Getting Kidnapped_,
