@@ -1,6 +1,7 @@
 ---
-media: /media/files/murray-yxta-2017.jpg
-title: Yxta Murray
-alt: Yxta Murray
+media: /media/files/murray-author-photo.jpg
+title: Yxta Maya Murray
+alt: Yxta Maya Murray
+caption: Photo by Andrew Brown
 date: 2020-12-10 17:03:00 -0500
 ---
