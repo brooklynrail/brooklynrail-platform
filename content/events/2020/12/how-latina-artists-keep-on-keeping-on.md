@@ -34,14 +34,15 @@ people:
       at Claremont Graduate University, and she lives in the San Gabriel Valley
       in LA County."
   - person: yxta-murray
-    event_bio: "Yxta Maya Murray is a writer and law professor living in Los
-      Angeles. Her novels include _The Good Girl’s Guide to Getting Kidnapped_,
-      _The King’s Gold: An Old World Novel of Adventure_, and _The Queen Jade: A
-      Novel_. Her fiction has appeared in _Ploughshares_, the _Georgia Review_,
-      the _Southern Review_, and the _Los Angeles Review of Books_. She has won
-      a Whiting Writer's Award and an Art Writer's Grant, and she has been a
-      finalist for the ASME Award in Fiction. Her art criticism can be found in
-      _Artforum_, _ARTnews_, _Artillery_, and other periodicals."
+    event_bio: Yxta Maya Murray is a writer and law professor living in Los Angeles.
+      Her most recent works are the forthcoming novel _Art Is Everything_, the
+      short story collection _The World Doesn't Work That Way, but It Could_
+      (2020), and the play _Advice & Consent_ (2019). Her fiction has appeared
+      in _Ploughshares_, the _Georgia Review_, the _Southern Review_, and the
+      _Los Angeles Review of Books_. She has won a Whiting Writer's Award and an
+      Art Writer's Grant, and she has been a finalist for the ASME Award in
+      Fiction. Her art criticism can be found in _Artforum_, _ARTnews_,
+      _Artillery_, and other periodicals.
   - person: amanda-gluibizzi
     event_bio: Amanda Gluibizzi is an ArtSeen editor at the _Brooklyn Rail_. An art
       historian, she is the co-director of The New Foundation for Art History
