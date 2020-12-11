@@ -75,20 +75,6 @@
         <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
       {{- end }}
 
-      {{ "<!-- Font Awesome -->" | safeHTML }}
-      {{ $fontawesome_options := (dict "targetPath" "material/dist/fontawesome/fontawesome.css" "outputStyle" "compressed" "enableSourceMap" true ) -}}
-      {{- $fontawesome := (resources.Get "vendor/fontawesome/fontawesome.scss" | resources.ToCSS $fontawesome_options | resources.Fingerprint "md5") -}}
-      {{ $fontawesome_regular_options := (dict "targetPath" "material/dist/fontawesome/regular.css" "outputStyle" "compressed" "enableSourceMap" true ) -}}
-      {{- $fontawesome_regular := (resources.Get "vendor/fontawesome/regular.scss" | resources.ToCSS $fontawesome_regular_options | resources.Fingerprint "md5") -}}
-      {{ $fontawesome_solid_options := (dict "targetPath" "material/dist/fontawesome/solid.css" "outputStyle" "compressed" "enableSourceMap" true ) -}}
-      {{- $fontawesome_solid := (resources.Get "vendor/fontawesome/solid.scss" | resources.ToCSS $fontawesome_solid_options | resources.Fingerprint "md5") -}}
-      {{ $fontawesome_brands_options := (dict "targetPath" "material/dist/fontawesome/brands.css" "outputStyle" "compressed" "enableSourceMap" true ) -}}
-      {{- $fontawesome_brands := (resources.Get "vendor/fontawesome/brands.scss" | resources.ToCSS $fontawesome_brands_options | resources.Fingerprint "md5") -}}
-      <link rel="stylesheet" href="{{- $fontawesome.RelPermalink -}}" type="text/css" media='all' />
-      <link rel="stylesheet" href="{{- $fontawesome_regular.RelPermalink -}}" type="text/css" media='all' />
-      <link rel="stylesheet" href="{{- $fontawesome_solid.RelPermalink -}}" type="text/css" media='all' />
-      <link rel="stylesheet" href="{{- $fontawesome_brands.RelPermalink -}}" type="text/css" media='all' />
-
     {{- end }}
 
 
