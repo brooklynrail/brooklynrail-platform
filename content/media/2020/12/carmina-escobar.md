@@ -1,5 +1,5 @@
 ---
-media: /media/files/carmina-escobar-la-times-article.jpg
+media: /media/files/howlspace_monolake_3257_edit.jpg
 title: Carmina Escobar
 alt: Carmina Escobar
 date: 2020-12-10 16:46:00 -0500
