@@ -6,38 +6,42 @@ summary: Latina artists, performers, and writers Carmina Escobar, Carribean
   reading.
 people:
   - person: carmina-escobar
-    event_bio: Experimental vocalist Carmina Escobar is a creative performer,
-      interpreter of contemporary music, improviser, sound and intermedia artist
-      from Mexico City. Her work focuses primarily on sound, the voice, the body
-      and their interrelations to physical, social and memory spaces. She has
-      intensely explored the capacities of her voice developing a wide range of
-      vocal techniques that she applies not only to her performance and creative
-      practice but also to investigate radical ideas and concepts regarding the
-      voice.
+    event_bio: "Carmina Escobar is an extreme vocalist and intermedia artist with an
+      active teaching practice. Born in Mexico and based in Los Angeles, Escobar
+      investigates and expresses emotions, politics, states of alienation, and
+      the possibilities of interpersonal connection through voice performances
+      that experiment challenge our understandings of musicality, gender,
+      queerness, race, the spoken word, and the foundations of human
+      communication. She has performed in Cuba, Europe, Mexico, the United
+      States, and Germany. Her work _FIESTA PERPETUA! a communitas ritual of
+      manifestation_ (2018) was included in Pacific Standard Time: LA/LA, Los
+      Angeles. Her new project with Micaela Tobin, _HOWL SPACE_ is a virtual hub
+      offering individualized teaching sessions, workshops, and salons. "
   - person: carribean-fragoza
     event_bio: "The daughter of Mexican immigrants, Carribean Fragoza was raised in
-      South El Monte, California. After graduating from UCLA, Fragoza completed
-      the Creative Writing MFA Program at CalArts, where she worked with writers
-      Douglas Kearney, Steve Erickson and Norman Klein. Today, Fragoza co-edits
-      UC Press's acclaimed California cultural journal, Boom California, and is
-      also the founder of South El Monte Arts Posse, an interdisciplinary arts
-      collective. Her fiction and nonfiction have appeared numerous
-      publications, including BOMB, Huizache, and the Los Angeles Review of
-      Books. She is the co-editor of East of East: The Making of Greater El
-      Monte, published February 2020 by Rutgers University Press and Senior
-      Writer at the Tropics of Meta. Carribean is the Coordinator of the
-      Kingsley and Kate Tufts Poetry Award at Claremont Graduate University, and
-      she lives in the San Gabriel Valley in LA County."
+      South El Monte, California. Her fiction and nonfiction have appeared in
+      numerous publications, including _BOMB,_  _Huizache_, and the _Los Angeles
+      Review of Books._ She is alumna of the  Creative Writing MFA Program at
+      CalArts. Fragoza co-edited _East of East: The Making of Greater El Monte_,
+      published February 2020 by Rutgers University Press. Her forthcoming debut
+      collection of fiction [_Eat the Mouth That
+      Feeds_  _You_](http://www.citylights.com/book/?GCOI=87286100947230&fa=des\
+      cription) will be published by City Lights in March of 2021. She is Senior
+      Writer at the _Tropics of Meta,_ co-editor of UC Press's acclaimed
+      California cultural journal, _Boom California_, and is also the founder of
+      South El Monte Arts Posse, an interdisciplinary arts collective_._
+      Carribean is currently the Coordinator of the Kingsley and Kate Tufts
+      Poetry Award at Claremont Graduate University, and she lives in the San
+      Gabriel Valley in LA County."
   - person: yxta-murray
-    event_bio: "A novelist and an art critic who teaches at Loyola Marymount School
-      of Law. Yxta writes about Community Constitutionalism, Criminal Law,
-      Property Law, Gender Justice, and Law and Literature. She also writes
-      about the relationship between law and visual, conceptual, and performance
-      art. She has published law review articles in the California Law Review,
-      the Columbia Journal of Gender & Law, The Michigan Journal of Race & Law,
-      and has a work on Boyle Heights, the 5th Amendment, and gentrification
-      forthcoming from the N.Y.U Journal of Law & Social Change. She has
-      published six books and won a 1999 Whiting Writer's Award. "
+    event_bio: "Yxta Maya Murray is a writer and law professor living in Los
+      Angeles. Her novels include _The Good Girl’s Guide to Getting Kidnapped_,
+      _The King’s Gold: An Old World Novel of Adventure_, and _The Queen Jade: A
+      Novel_. Her fiction has appeared in _Ploughshares_, the _Georgia Review_,
+      the _Southern Review_, and the _Los Angeles Review of Books_. She has won
+      a Whiting Writer's Award and an Art Writer's Grant, and she has been a
+      finalist for the ASME Award in Fiction. Her art criticism can be found in
+      _Artforum_, _ARTnews_, _Artillery_, and other periodicals."
   - person: amanda-gluibizzi
     event_bio: Amanda Gluibizzi is an ArtSeen editor at The Brooklyn Rail. An art
       historian, she is the co-director of The New Foundation for Art History
