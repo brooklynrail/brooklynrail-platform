@@ -17,8 +17,17 @@ people:
       (Kelsey Street Press, 2018). She is professor of creative writing at the
       University of Texas at El Paso, where she teaches in its Bilingual MFA
       Program. "
-date: 2020-12-09 16:34:00 -0500
-end_date: 2020-12-09 16:34:00 -0500
+  - person: susan-briante
+    event_bio: "Susan Briante is the author most recently of Defacing the Monument,
+      a series of essays on immigration, archives, aesthetics and the state. In
+      a starred review, Publisher’s Weekly calls the collection “a superb
+      examination of the ethical issues facing artists who tell others’ stories”
+      and a “dazzlingly inventive and searching text.” Briante is also the
+      author of three books of poetry: Pioneers in the Study of Motion, Utopia
+      Minus, and The Market Wonders all from Ahsahta Press. She is a professor
+      of creative writing at the University of Arizona. "
+date: 2020-12-16 13:00:00 -0500
+end_date: 2020-12-16 14:00:00 -0500
 series: 196
 collections:
   - the-new-social-environment
