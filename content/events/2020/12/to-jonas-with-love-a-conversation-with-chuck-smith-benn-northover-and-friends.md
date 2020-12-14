@@ -88,6 +88,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: fNmIqvRq3NA
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-190-to-jonas-with-love-tickets-131545908353
 event_platform:
   - zoom
