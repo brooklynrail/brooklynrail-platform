@@ -11,14 +11,11 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-202-screening-of-pat-steir-artist-tickets-132868123133
 event_platform:
   - zoom
 ---
-
-
-
-
-The Rail wishes a safe and happy holiday to everyone! RSVP to tune in throughout the day to access the film by vimeo link and password. 
+The *Rail* wishes a safe and happy holiday to everyone! RSVP to tune in throughout the day to access the film by vimeo link and password. 
 
 Special thanks to Veronica Gonzalez Peña, David Koh, and Rockypoint Productions for making this screening possible.
 
