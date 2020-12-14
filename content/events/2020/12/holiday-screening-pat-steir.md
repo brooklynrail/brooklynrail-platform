@@ -15,6 +15,10 @@ registration_url: https://www.eventbrite.com/e/the-new-social-environment-202-sc
 event_platform:
   - zoom
 ---
+{{< image media="2020/12/pat-steir-artist" size="md" >}}
+
+
+
 The *Rail* wishes a safe and happy holiday to everyone! RSVP to tune in throughout the day to access the film by vimeo link and password. 
 
 Special thanks to Veronica Gonzalez Peña, David Koh, and Rockypoint Productions for making this screening possible.
