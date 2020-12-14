@@ -48,6 +48,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: G_vlJyg9xOk
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-180-jeanne-silverthorne-tickets-129749621611
 event_platform:
   - zoom
