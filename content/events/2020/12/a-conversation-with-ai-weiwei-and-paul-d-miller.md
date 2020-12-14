@@ -39,3 +39,4 @@ registration_url: https://www.eventbrite.com/e/the-new-social-environment-200-ai
 event_platform:
   - zoom
 ---
+**Please note that this conversation will start at 9am ET / 2pm GMT.**
