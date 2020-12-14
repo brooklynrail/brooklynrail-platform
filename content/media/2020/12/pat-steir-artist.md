@@ -1,0 +1,6 @@
+---
+media: /media/files/final-poster-flying-paint-1-scaled.jpg
+title: "Pat Steir: Artist"
+alt: "Pat Steir: Artist"
+date: 2020-12-14 18:21:00 -0500
+---
