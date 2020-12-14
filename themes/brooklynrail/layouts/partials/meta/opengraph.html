@@ -1,7 +1,7 @@
 {{ "<!-- Start of Open Graph tags -->" | safeHTML }}
 
 {{/* Featured image */}}
-{{- $card_filename := print "/material/img/brooklynrail-card-" (index (seq 6 | shuffle) 0) ".png" -}}
+{{- $card_filename := print "https://brooklynrail.org/material/img/brooklynrail-card-" (index (seq 6 | shuffle) 0) ".png" -}}
 
 {{- $meta_title := .Title -}}
 
