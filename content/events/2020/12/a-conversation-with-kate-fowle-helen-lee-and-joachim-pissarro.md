@@ -2,7 +2,7 @@
 title: A Conversation with Kate Fowle, Helen Lee, and Joachim Pissarro
 summary: Join us for a conversation with MoMA PS1 Director Kate Fowle, hosted by
   Rail Board Member Helen Lee and Rail Consulting Editor Joachim Pissarro. We'll
-  conclude with a poetry reading from Coco Fitterman.
+  conclude with a poetry reading from Coco Sofia Fitterman.
 people:
   - person: kate-fowle
     event_bio: >-
@@ -44,6 +44,12 @@ people:
       Art Explained_ (2018, Penn State University Press) is co-authored with
       David Carrier, following _Wild Art_ (Phaidon, 2016). Joachim is a
       Consulting Editor of the Brooklyn Rail."
+poets:
+  - person: coco-sofia-fitterman
+    event_bio: A writer whose poetry has appeared in The Brooklyn Rail, Provence
+      Magazine, and Brand-New-Life, among others. Coco has performed at Haus der
+      Kulturen der Welt, MoMA PS1, American Medium, Printed Matter, and other
+      venues in Berlin and NYC. She is the author of Say It With Flowers.
 date: 2020-12-18 13:00:00 -0500
 end_date: 2020-12-18 14:30:00 -0500
 series: 198
