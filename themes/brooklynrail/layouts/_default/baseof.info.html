@@ -12,7 +12,12 @@
     <meta name="MobileOptimized" content="320">
     <meta name="viewport" content="width=device-width,minimum-scale=1">
     <link rel="canonical" href="{{- .Permalink -}}" />
-    {{- .Hugo.Generator -}}
+    
+    
+    <!-- Hugo info -->
+    {{ printf "<!--Hugo Build Date: %s-->" hugo.BuildDate | safeHTML }}
+    {{ printf "<!--Hugo Commit Hash: %s-->" hugo.CommitHash | safeHTML }}
+    {{ hugo.Generator }}
 
 
     {{/* NOTE: These Hugo Internal Templates can be found starting at https://github.com/spf13/hugo/blob/master/tpl/tplimpl/template_embedded.go#L158 */}}
