@@ -11,6 +11,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://watch.eventive.org/tonimorrisonfilm/play/5fda28438f12b0007e8d28a4
 event_platform:
   - zoom
 ---
