@@ -1,7 +1,8 @@
 ---
 title: A Conversation with Charles Ray and Toby Kamps
 summary: Join us for a conversation with artist Charles Ray and Rail
-  Editor-at-Large Toby Kamps. We'll conclude with a poetry reading.
+  Editor-at-Large Toby Kamps. We'll conclude with a poetry reading from Robert
+  Fitterman.
 people:
   - person: charles-ray
     event_bio: >-
