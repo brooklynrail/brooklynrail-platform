@@ -27,6 +27,21 @@ people:
       contemporary art at the Menil Collection, Toby Kamps is now the director
       of external projects at White Cube Gallery and is an Editor-at-Large for
       the _Brooklyn Rail_.
+poets:
+  - person: robert-fitterman
+    event_bio: Robert Fitterman was born in Creve Coeur near St. Louis, Missouri.
+      Presently, he is writing a long poem--by the same name as this
+      town--loosely based on WC Williams' Paterson. He is the author of 15 books
+      of poetry and teaches writing and poetry at NYU and Bard.
+    related_links:
+      - text: Rob's Word Shop
+        url: https://uglyducklingpresse.org/publications/robs-word-shop/
+      - text: Nevermind
+        url: https://www.spdbooks.org/Products/9780989598569/nevermind.aspx
+      - url: https://uglyducklingpresse.org/publications/no-wait-yep-definitely-still-hate-myself/
+        text: "No Wait. Yep. Definitely Still Hate Myself "
+      - url: http://counterpathpress.org/holocaust-museumrobert-fitterman
+        text: Holocaust Museum
 date: 2020-12-21 13:00:00 -0500
 end_date: 2020-12-21 14:30:00 -0500
 series: 199
