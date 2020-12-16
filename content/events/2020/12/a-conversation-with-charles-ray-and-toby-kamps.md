@@ -32,6 +32,8 @@ end_date: 2020-12-21 14:30:00 -0500
 series: 199
 collections:
   - the-new-social-environment
+event_sponsor:
+  - the-hill-art-foundation
 event_organizer:
   - the-brooklyn-rail
 event_producer:
