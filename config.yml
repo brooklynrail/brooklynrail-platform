@@ -45,9 +45,11 @@ outputFormats:
     baseName: info
     mediaType: text/html
     permalinkable: true
+  JSON:
+    mediaType: application/json
 
 outputs:
-  section: ["HTML", "INFO"]
+  section: ["HTML", "INFO", "JSON"]
   page: ["HTML", "INFO"]
 
 assetDir: assets
