@@ -27,17 +27,15 @@ people:
       Minus, and The Market Wonders all from Ahsahta Press. She is a professor
       of creative writing at the University of Arizona. "
   - person: giovanni-singleton
-    event_bio: "giovanni singleton earned a BA from American University and an MFA
-      from the New College of California. She is the author of the poetry
-      collections AMERICAN LETTERS: works on paper (2017) and Ascension (2011),
-      which won a California Book Award for Poetry. singleton is founding editor
-      of nocturnes (re)view of the literary arts. Her honors and awards include
-      fellowships from the Squaw Valley Community of Writers, Cave Canem, and
-      the Napa Valley Writers Conference. Her work has been anthologized widely
-      and appeared on the Yerba Buena Center for the Arts building. Coordinator
-      for the Lunch Poems reading series at the University of
-      California–Berkeley, singleton has taught at Saint Mary’s College, Naropa
-      University, and New Mexico State University."
+    event_bio: "giovanni singleton is the author of the poetry book Ascension,
+      winner of the California Book Award Gold Medal and the poetry/visual art
+      collection AMERICAN LETTERS: works on paper (Canarium Books). She is
+      founding editor of nocturnes (re)view of the literary arts. Her honors and
+      awards include fellowships from the c3:initiative, Squaw Valley Community
+      of Writers, Cave Canem, and the Napa Valley Writers Conference. She is a
+      recipient of the African American Literature and Culture Society’s Stephen
+      E. Henderson Award and her dreamography is forthcoming in 2021 from Noemi
+      Press."
   - person: carmen-gimenez-smith
     event_bio: Carmen Giménez Smith is the author of numerous poetry collections,
       including Be Recorder (Graywolf Press, 2019), which was a finalist for the
