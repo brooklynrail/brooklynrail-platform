@@ -2,7 +2,7 @@
 title: A Conversation with Ai Weiwei and Paul D. Miller
 summary: Join us for a conversation with artist Ai Weiwei and Rail
   Editor-at-Large Paul D. Miller (aka DJ Spooky). We'll conclude with a poetry
-  reading.
+  reading from Mirene Arsanios.
 people:
   - person: ai-weiwei
     event_bio: >
