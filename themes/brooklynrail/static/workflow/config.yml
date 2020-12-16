@@ -53,8 +53,7 @@ slug:
 # Localhost Editing
 # uses the local proxy server port set in the `npx netlify-cms-proxy-server` command
 # (see the workflow script in packages.json)
-local_backend:
-  url: http://localhost:8081/api/v1
+local_backend: true
 
 # ====================================
 # Collections
