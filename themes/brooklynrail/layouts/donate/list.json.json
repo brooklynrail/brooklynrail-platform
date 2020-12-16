@@ -1,0 +1,69 @@
+{{- $list := where $.Site.RegularPages  "Section" .Section -}}
+{{- $length := (len $list) -}}
+{
+  "version" : "https://jsonfeed.org/version/1",
+  "content" : "{{- .Type -}}",
+  "type" : "list",
+  "title" : "{{- if eq  .Title  .Site.Title -}}{{- .Site.Title -}}{{- else -}}{{- with .Title -}} {{- . -}} |  {{- end -}} {{- .Site.Title -}} {{- end -}}",
+  "description": "{{- if ne  .Title  .Site.Title -}}{{- with .Title -}}{{- . -}}{{- end -}}{{- end -}}",
+  "home_page_url" : "{{- .Site.BaseURL -}}",
+  "count" : "{{- $length -}}",
+  {{- with .OutputFormats.Get "JSON" -}}
+  "feed_url" : "{{- .Permalink -}}",
+  {{- end -}}
+  {{- with $.Param "icon" -}}
+  "icon" : "{{- . | absURL -}}",
+  {{- end -}}
+  {{- with $.Param "favicon" -}}
+  "favicon" : "{{- . | absURL -}}",
+  {{- end -}}
+  {{- with .Section -}}
+  "section" : "{{- . -}}",
+  {{- end -}}
+  {{- with eq .Kind  "taxonomy" -}}
+  "taxonomy" : "{{- $.Data.Singular -}}",
+  "term" : "{{- $.Data.Term -}}",
+  {{- end -}}
+  {{- with .Params.donation_goal -}}
+  "donation_goal" : "{{- . -}}",
+  {{- end -}}
+  {{- with .Params.donation_amt -}}
+  "donation_amt" : "{{- . -}}",
+  {{- end -}}
+  {{- with .Params.donation_count -}}
+  "donation_count" : "{{- . -}}",
+  {{- end -}}
+  "branch" : {{ $.Scratch.Get "branch" | jsonify }},
+  "filename" : {{- with .File -}}{{- .LogicalName | jsonify -}}{{- end -}},
+  "filepath" : {{- with .File -}}{{- .Path | jsonify -}}{{- end -}},
+  "filepathURL" : {{- with .File -}}{{- printf "https://github.com/%s/%s/blob/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") .Path | jsonify -}}{{- end -}},
+  "editpathURL" : {{- with .File -}}{{- printf "https://github.com/%s/%s/edit/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") .Path | jsonify -}}{{- end -}},
+  {{- if .Params.source -}}
+  "source" : "{{- .Params.source -}}",
+  {{- end -}}
+  {{- if .Params.source_url -}}
+  "source_url" : "{{- .Params.source_url -}}",
+  {{- end -}}
+  {{- if .Params.weight -}}
+  "weight" : "{{- .Params.weight -}}",
+  {{- end -}}
+  {{- if .Params.aliases -}}
+  "aliases" : {
+    {{- $aliaslen := .Params.aliases | len -}}
+    {{- $.Scratch.Set "aliascount" 1 -}}
+    {{- range $i, $e := .Params.aliases -}}
+      {{- with $e -}}
+        {{- $aliascount := $.Scratch.Get "aliascount" -}}
+        {{- if eq $aliascount $aliaslen -}}
+          "{{- $i -}}" : "{{- $e -}}"
+        {{- else -}}
+          "{{- $i -}}" : "{{- $e -}}",
+        {{- end -}}
+        {{- $.Scratch.Add "aliascount" 1 -}}
+      {{- end -}}
+    {{- end -}}
+  },
+  {{- end -}}
+  
+  "url" : "{{- .Permalink -}}"
+}
