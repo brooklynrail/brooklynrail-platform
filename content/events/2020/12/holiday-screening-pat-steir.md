@@ -21,4 +21,4 @@ The *Rail* wishes a safe and happy holiday to everyone! RSVP to tune in througho
 
 Special thanks to Veronica Gonzalez Peña, David Koh, and Rockypoint Productions for making this screening possible.
 
-You can find more info on the film [here](https://patsteirthemovie.com/).
+[Find out more about the film »](https://patsteirthemovie.com/)
