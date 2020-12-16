@@ -3,7 +3,7 @@ title: How Latina Artists Keep On Keeping On
 summary: Latina artists, performers, and writers Carmina Escobar, Carribean
   Fragoza, and Yxta Maya Murray join Rail ArtSeen Editor Amanda Gluibizzi and
   Art Historian Amber Jamilla Musser for a conversation. We conclude with a
-  poetry reading.
+  poetry reading from Angel Dominguez.
 people:
   - person: carmina-escobar
     event_bio: "Carmina Escobar is an extreme vocalist and intermedia artist with an
@@ -58,6 +58,18 @@ people:
       Program in Gender Studies and Brown University’s Pembroke Center for
       Teaching and Research on Women. She also writes art criticism for the
       _Brooklyn Rail_."
+poets:
+  - person: angel-dominguez
+    event_bio: Angel Dominguez is a Latinx poet and artist of Yucatec Maya descent,
+      born in Hollywood and raised in Van Nuys, CA by their immigrant family.
+      They're the author of RoseSunWater and Black Lavender Milk. Their third
+      book, DESGRACIADO (the collected letters) is forthcoming from Nightboat
+      Books.
+    related_links:
+      - url: http://www.theoperatingsystem.org/product/rosesunwater/
+        text: RoseSunWater
+      - url: https://nightboat.org/book/black-lavender-milk/
+        text: Black Lavender Milk
 date: 2020-12-17 13:00:00 -0500
 end_date: 2020-12-17 14:30:00 -0500
 collections:
