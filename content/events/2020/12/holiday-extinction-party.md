@@ -15,8 +15,6 @@ event_platform:
 ---
 {{< image media="2020/12/extinction-holiday-salon" size="lg" >}}
 
-
-
 This holiday season, join the next salon in Hovey Brock's series on climate change and the Anthropocene. This conversation will focus on extinction with artists David Brooks, Rachel Frank, Marina Zurkow, Elisabeth Smolarz, and Jude Griebelf. 
 
 To RSVP, direct message @hoveybrock on instagram.
