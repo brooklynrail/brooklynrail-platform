@@ -17,7 +17,7 @@ event_platform:
 ---
 {{< image media="2020/12/toni-morrison-the-pieces-i-am" size="md" >}}
 
-The *Rail* wishes a safe and happy holiday to everyone! RSVP to tune in throughout the day to access the film by vimeo link and password. 
+The *Rail* wishes a safe and happy holiday to everyone! RSVP to tune in throughout the day to access the film by video link and password. 
 
 Special thanks to Timothy Greenfield-Sanders, David Koh, and Magnolia Pictures for making this screening possible.
 
