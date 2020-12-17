@@ -11,7 +11,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
-registration_url: https://watch.eventive.org/tonimorrisonfilm/play/5fda28438f12b0007e8d28a4
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-203-toni-morrison-the-pieces-i-am-tickets-133238244175
 event_platform:
   - zoom
 ---
