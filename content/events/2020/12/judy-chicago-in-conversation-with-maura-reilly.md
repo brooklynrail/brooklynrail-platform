@@ -5,52 +5,70 @@ summary: "Join us for a conversation with two feminist icons: artist, author,
   a poetry reading by Aaron Shurin."
 people:
   - person: judy-chicago
-    event_bio: >-
-      Judy Chicago is a renowned artist, author, feminist, and educator whose
-      career spans almost six decades. Since 1996, she has lived in Belen, New
-      Mexico, where her nonprofit arts organization, Through The Flower, is
-      headquartered and where an art space and resource center has been
-      established. 
-
-
-      Recent exhibitions include  _Judy Chicago: A Reckoning_, ICA Miami, Miami, FL (2018-2019);  _Roots of The Dinner Party: History in the Making_, Brooklyn Museum, Brooklyn, NY (2018); and  _Inside the Dinner Party Studio_, National Museum of Women in the Arts, Washington, D.C. (2017-2018). In the fall of 2019,  _Judy Chicago: Los Angeles_  was presented at Jeffrey Deitch’s Los Angeles Gallery, and an exhibition of her Dior Banners (from the January 2020 Couture show in Paris) are presently on display at Jeffrey Deitch, New York, along with the artist's studies and a special exhibition of her Lady Dior purses. In July 2021, Thames & Hudson will publish  _The Flowering: The Autobiography of Judy Chicago_  with an introduction by Gloria Steinem. 
-
-
-      A retrospective survey of Judy Chicago’s work will be held at the De Young Museum in San Francisco in August 2021 which will be accompanied by an extensive exhibition catalogue. Recently, her fireworks archive has been acquired by the Nevada Museum of Art, home to a large Land art archive, and a year-long exhibition will open there in October 2021. Her print archive was acquired this year by the Jordan Schnitzer Foundation, which will organize a touring exhibition and publish a catalogue raisonné of her prints with an interview by Hans Ulrich Obrist.
-    related_links:
-      - text: Current exhibit at Jeffrey Deitch, New York
-        url: https://deitch.com/new-york/exhibitions/judy-chicago-what-if-women-ruled-the-world
-  - person: maura-reilly
-    event_bio: "Dr. Maura Reilly is a curator and arts writer who has organized
-      dozens of exhibitions internationally with a specific focus on
-      marginalized artists. She has written extensively on global contemporary
-      art and curatorial practice, including, most recently _Curatorial
-      Activism: Towards an Ethics of Curating_ (Thames & Hudson, 2018), which
-      was named a “Top 10 Best Art Book of 2018” by the _New York Times_. Her
-      next book, _The Ethical Museum_ is forthcoming from Thames & Hudson in
-      2022, followed by a textbook on _Feminist Art_, also with Thames & Hudson.
-      Reilly is the Founding Curator of the Elizabeth A. Sackler Center for
-      Feminist Art at the Brooklyn Museum, where she developed and launched the
-      first exhibition and public programming space in the USA devoted entirely
-      to feminist art. While there, she organized several landmark exhibitions,
-      including the permanent installation of Judy Chicago’s _The Dinner Party_,
-      the blockbuster _Global Feminisms_ (co-curated with Linda Nochlin), _Ghada
-      Amer: Love Had No End_, _Burning Down the House_, among others. She is a
-      founding member of two initiatives dedicated to fighting discrimination
-      against women in the art world – The Feminist Art Project (TFAP) and
-      Feminist Curators United (FcU). She received her M.A. and PhD in art
-      history from the Institute of Fine Arts, New York University, and is an
-      Editor-at-Large for the Brooklyn Rail. Dr. Reilly is an Associate
-      Professor of Art History and Museum Studies at Arizona State University."
+    event_bio: "Carmina Escobar is an extreme vocalist and intermedia artist with an
+      active teaching practice. Born in Mexico and based in Los Angeles, Escobar
+      investigates and expresses emotions, politics, states of alienation, and
+      the possibilities of interpersonal connection through voice performances
+      that experiment challenge our understandings of musicality, gender,
+      queerness, race, the spoken word, and the foundations of human
+      communication. She has performed in Cuba, Europe, Mexico, the United
+      States, and Germany. Her work _FIESTA PERPETUA! a communitas ritual of
+      manifestation_ (2018) was included in Pacific Standard Time: LA/LA, Los
+      Angeles. Her new project with Micaela Tobin, _HOWL SPACE_ is a virtual hub
+      offering individualized teaching sessions, workshops, and salons. "
+  - person: carribean-fragoza
+    event_bio: "The daughter of Mexican immigrants, Carribean Fragoza was raised in
+      South El Monte, California. Her fiction and nonfiction have appeared in
+      numerous publications, including _BOMB,_  _Huizache_, and the _Los Angeles
+      Review of Books._ She is alumna of the  Creative Writing MFA Program at
+      CalArts. Fragoza co-edited _East of East: The Making of Greater El Monte_,
+      published February 2020 by Rutgers University Press. Her forthcoming debut
+      collection of fiction [_Eat the Mouth That
+      Feeds_  _You_](http://www.citylights.com/book/?GCOI=87286100947230&fa=des\
+      cription) will be published by City Lights in March of 2021. She is Senior
+      Writer at the _Tropics of Meta,_ co-editor of UC Press's acclaimed
+      California cultural journal, _Boom California_, and is also the founder of
+      South El Monte Arts Posse, an interdisciplinary arts collective. Carribean
+      is currently the Coordinator of the Kingsley and Kate Tufts Poetry Award
+      at Claremont Graduate University, and she lives in the San Gabriel Valley
+      in LA County."
+  - person: yxta-murray
+    event_bio: Yxta Maya Murray is a writer and law professor living in Los Angeles.
+      Her most recent works are the forthcoming novel _Art Is Everything_, the
+      short story collection _The World Doesn't Work That Way, but It Could_
+      (2020), and the play _Advice & Consent_ (2019). Her fiction has appeared
+      in _Ploughshares_, the _Georgia Review_, the _Southern Review_, and the
+      _Los Angeles Review of Books_. She has won a Whiting Writer's Award and an
+      Art Writer's Grant, and she has been a finalist for the ASME Award in
+      Fiction. Her art criticism can be found in _Artforum_, _ARTnews_,
+      _Artillery_, and other periodicals.
+  - person: amanda-gluibizzi
+    event_bio: Amanda Gluibizzi is an ArtSeen editor at the _Brooklyn Rail_. An art
+      historian, she is the co-director of The New Foundation for Art History
+      and the author of _Art and Design in 1960s New York_ (forthcoming).
+  - person: amber-musser
+    event_bio: "Dr. Amber Jamilla Musser is Professor of American Studies at George
+      Washington University. She writes about race, sexuality, and aesthetics.
+      She is the author of _Sensational Flesh: Race, Power, and Masochism_ (NYU
+      Press, 2014) and _Sensual Excess: Queer Femininity and Brown Jouissance_
+      (NYU Press, 2018). She has an MSt in Women’s Studies from Oxford
+      University and received her PhD in History of Science from Harvard
+      University, and has held fellowships at New York University’s Draper
+      Program in Gender Studies and Brown University’s Pembroke Center for
+      Teaching and Research on Women. She also writes art criticism for the
+      _Brooklyn Rail_."
 poets:
-  - person: aaron-shurin
-    event_bio: "Aaron Shurin is the author of fourteen books of poetry and prose,
-      including The Blue Absolute, (Nightboat Books, 2020) and Flowers & Skies:
-      Two Talks (Entre Rios Books, 2017). He's Professor Emeritus in the MFA
-      Writing program at the University of San Francisco."
+  - person: angel-dominguez
+    event_bio: Angel Dominguez is a Latinx poet and artist of Yucatec Maya descent,
+      born in Hollywood and raised in Van Nuys, CA by their immigrant family.
+      They're the author of RoseSunWater and Black Lavender Milk. Their third
+      book, DESGRACIADO (the collected letters) is forthcoming from Nightboat
+      Books.
     related_links:
-      - url: https://nightboat.org/book/the-blue-absolute/
-        text: "The Blue Absolute (Nightboat Books, 2020) "
+      - url: http://www.theoperatingsystem.org/product/rosesunwater/
+        text: RoseSunWater
+      - url: https://nightboat.org/book/black-lavender-milk/
+        text: Black Lavender Milk
 date: 2020-12-14 13:00:00 -0500
 end_date: 2020-12-14 14:30:00 -0500
 series: 194
