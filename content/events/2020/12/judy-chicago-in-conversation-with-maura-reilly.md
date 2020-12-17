@@ -60,6 +60,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: oLigGgMx-YM
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-194-judy-chicago-tickets-131966482301
 event_platform:
   - zoom
