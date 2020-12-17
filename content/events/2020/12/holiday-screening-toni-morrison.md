@@ -21,4 +21,4 @@ The *Rail* wishes a safe and happy holiday to everyone! RSVP to tune in througho
 
 Special thanks to Timothy Greenfield-Sanders, David Koh, and Magnolia Pictures for making this screening possible.
 
-You can find more info on the film [here](https://www.tonimorrisonfilm.com/videos/).
+[Find out more about the film »](https://www.tonimorrisonfilm.com/videos/)
