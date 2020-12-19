@@ -67,6 +67,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: LApktJ_ngVY
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-196-radical-poetry-with-rosa-alcala-tickets-132327612451
 event_platform:
   - zoom
