@@ -36,7 +36,7 @@ people:
       as a programmer for NYFF and is currently a member of the New
       Directors/New Films selection committee."
 date: 2020-12-28 10:00:00 -0500
-end_date: 2020-12-28 18:00:00 -0500
+end_date: 2021-01-01 18:00:00 -0500
 series: 204
 collections:
   - the-new-social-environment
