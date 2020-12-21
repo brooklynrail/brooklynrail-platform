@@ -2,6 +2,7 @@
 title: "Holiday Screening: King of Sanwi"
 summary: Join us for a screening of King of Sanwi (2020) courtesy of the
   filmmaker Akosua Adoma Owusu.
+people: []
 date: 2020-12-28 10:00:00 -0500
 end_date: 2020-12-28 18:00:00 -0500
 series: 204
