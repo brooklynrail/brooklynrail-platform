@@ -52,9 +52,7 @@ portraits:
 event_platform:
   - zoom
 ---
-From all of us at the *Rail*, we wish everyone a safe and happy holiday season! Join us for a week of holiday screenings curated by *Rail* Film Editor Dan Sullivan. Thursday will feature *Point and Line to Plane* (2020) by Sofia Bohdanowicz. 
-
-\[Dan Sullivan blurb here]
+From all of us at the *Rail*, we wish everyone a safe and happy holiday season! Join us for a week of holiday screenings curated by *Rail* Film Editor Dan Sullivan. Thursday will feature *Point and Line to Plane* (2020) by Sofia Bohdanowicz.
 
 Register to receive the video link and password via email. Please note this is not a live screening, but the link and password will be valid for the week of December 28 - January 1.
 
