@@ -54,6 +54,4 @@ From all of us at the *Rail*, we wish everyone a safe and happy holiday season! 
 
 Register to receive the video link and password via email. Please note this is not a live screening, but the link and password will be valid for the week of December 28 - January 1. 
 
-[Find out more about the filmmaker here »](https://akosuaadoma.com/home.html)
-
 [](https://akosuaadoma.com/home.html)
