@@ -31,6 +31,8 @@ end_date: 2021-01-01 18:00:00 -0500
 series: 205
 collections:
   - the-new-social-environment
+event_sponsor:
+  - blue-rider-group
 event_organizer:
   - the-brooklyn-rail
 event_producer:
