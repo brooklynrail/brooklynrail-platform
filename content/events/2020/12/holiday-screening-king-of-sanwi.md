@@ -40,6 +40,8 @@ end_date: 2021-01-01 18:00:00 -0500
 series: 204
 collections:
   - the-new-social-environment
+event_sponsor:
+  - blue-rider-group
 event_organizer:
   - the-brooklyn-rail
 event_producer:
@@ -54,4 +56,4 @@ From all of us at the *Rail*, we wish everyone a safe and happy holiday season! 
 
 Register to receive the video link and password via email. Please note this is not a live screening, but the link and password will be valid for the week of December 28 - January 1. 
 
-This week of holiday screenings is generously supported by the Blue Ride Group at Morgan Stanley. [](https://akosuaadoma.com/home.html)
+This week of holiday screenings is generously supported by the Blue Rider Group at Morgan Stanley. [](https://akosuaadoma.com/home.html)
