@@ -45,6 +45,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-207-screening-point-and-line-to-plane-tickets-133782179099
 portraits:
   - media: 2020/12/sofia-bohdanowicz
 event_platform:
