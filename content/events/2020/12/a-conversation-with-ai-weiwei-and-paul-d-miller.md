@@ -26,6 +26,17 @@ people:
       and Yoko Ono. His 2018 album _DJ Spooky Presents: Phantom Dancehall_
       debuted at #3 on Billboard Reggae. He is an Editor-at-Large of the
       Brooklyn Rail. "
+poets:
+  - person: mirene-arsanios
+    event_bio: Poet and author Mirene Arsanios co-founded the collective 98weeks
+      Research Project in Beirut and is the founding editor of Makhzin, a
+      bilingual English/Arabic magazine for innovative writing. Her next book,
+      The Autobiography of a Language, is forthcoming with Futurepoem (2021).
+    related_links:
+      - url: https://uglyducklingpresse.org/publications/notes-on-mother-tongues/
+        text: Notes On Mother Tongues
+      - text: Mirene in the Brooklyn Rail
+        url: https://brooklynrail.org/contributor/mirene-arsanios
 date: 2020-12-22 09:00:00 -0500
 end_date: 2020-12-22 10:30:00 -0500
 series: 200
