@@ -52,8 +52,6 @@ event_platform:
 ---
 From all of us at the *Rail*, we wish everyone a safe and happy holiday season! Join us for a week of holiday screenings curated by *Rail* Film Editor Dan Sullivan. Monday will feature *King of Sanwi* (2020) by Akosua Adoma Owusu. 
 
-\[Dan Sullivan blurb here]
-
 Register to receive the video link and password via email. Please note this is not a live screening, but the link and password will be valid for the week of December 28 - January 1. 
 
 This week of holiday screenings is generously supported by the Blue Rider Group at Morgan Stanley. [](https://akosuaadoma.com/home.html)
