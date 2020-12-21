@@ -26,8 +26,8 @@ people:
       Movies in the Age of Reagan” (2019, with J. Hoberman). He has also served
       as a programmer for NYFF and is currently a member of the New
       Directors/New Films selection committee."
-date: 2020-12-29 10:00:00 -0500
-end_date: 2020-12-29 18:00:00 -0500
+date: 2020-12-28 10:00:00 -0500
+end_date: 2021-01-01 18:00:00 -0500
 series: 205
 collections:
   - the-new-social-environment
