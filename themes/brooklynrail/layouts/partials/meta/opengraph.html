@@ -22,7 +22,7 @@
 <meta property="og:url" content="{{- .Permalink -}}" />
 {{ if $.Params.youtube_id -}}<meta property='og:video' content='https://www.youtube.com/v/{{ $.Params.youtube_id }}' />{{- end }}
 {{- with $card_filename }}
-<meta property="og:image" content="{{ . | relURL }}" />
+<meta property="og:image" content="{{- . -}}" />
 {{ end -}}
 {{ "<!-- End of Open Graph tags -->" | safeHTML }}
 
@@ -31,7 +31,7 @@
 <meta name="twitter:site" content="@TheBrooklynRail" />
 <meta name="twitter:creator" content="@TheBrooklynRail" />
 {{- with $card_filename }}
-<meta property="twitter:image:src" content="{{ . | relURL }}" />
+<meta property="twitter:image:src" content="{{- . -}}" />
 {{ end -}}
 <meta property="twitter:title" content="{{- $meta_title | default $.Site.Title | markdownify -}}">
 <meta property="twitter:description" content="{{- $meta_description | default $.Site.Params.description | markdownify -}}">
