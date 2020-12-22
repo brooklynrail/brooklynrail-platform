@@ -1,6 +1,6 @@
 ---
 title: Holiday Film Series
-summary: Join us for a virtual film series curated by Rail Fiction Editor Dan
+summary: Join us for a virtual film series curated by Rail Film Editor Dan
   Sullivan, graciously supported by the Blue Rider Group.
 people:
   - person: akosua-adoma-owusu
@@ -97,30 +97,20 @@ event_platform:
 
 While our team is out of the office for the holidays, we hope you will enjoy a week of film screenings curated by our own film section editor Dan Sullivan. **Please note** these are not live events through Zoom. Register to receive a video link and password, which will be valid from Monday, December 28 through Friday, January 1. 
 
-
-
 **NSE #204 | Monday, December 28**
 
 *King of Sanwi* (Akosua Adoma Owusu, 2020, 7 mins)
-
-
 
 **NSE #205 | Tuesday, December 29**
 
 *Field Resistance* (Emily Drummer, 2019, 16 mins)
 
-
-
 **NSE #207 | Thursday, December 31**
 
 *Point and Line to Plane* (Sofia Bohdanowicz, 2020, 17 mins)
 
-
-
 **NSE #208 | Friday, January 1** 
 
 *Drills* (Sarah Friedland, 2020, 17 mins)
-
-
 
 We thank our friends at the Blue Rider Group for graciously sponsoring this week of our NSE series!
