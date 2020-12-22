@@ -1,5 +1,5 @@
 ---
-title: Holiday Film Series
+title: 📽 Holiday Film Series ❄️
 summary: Join us for a virtual film series curated by Rail Film Editor Dan
   Sullivan, graciously supported by the Blue Rider Group.
 people:
