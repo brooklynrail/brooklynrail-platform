@@ -103,9 +103,6 @@ event_producer:
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-204-208-holiday-film-series-tickets-133876565411
 event_platform:
 ---
-### From all of us at the *Brooklyn Rail*, we wish everyone a safe and joyful holiday season!
-
-A week of screenings curated by our film section editor, Dan Sullivan. 
 
 {{< note >}}
 **Note:** Once you register, you'll receive video links and passwords for all of the screenings between Monday, December 28 — Friday, January 1. These are not live events through Zoom. 
@@ -131,8 +128,12 @@ A week of screenings curated by our film section editor, Dan Sullivan.
 
 📽 **_Drills_** (Sarah Friedland, 2020, 17 mins)
 
+**Questions?** Send an email to [nick.bennett@brooklynrail.org](mailto:nick.bennett@brooklynrail.org)
+
 ---
 
-{{< image media="2020/12/blue-rider-group" size="md" >}}
+From all of us at the *Brooklyn Rail*, we wish everyone a safe and joyful holiday season!
+
+{{< image media="2020/12/blue-rider-group" size="sm" >}}
 
 We'd like to thank our friends at the [**Blue Rider Group**](https://advisor.morganstanley.com/blue-rider-group) for graciously sponsoring our events this week!
