@@ -20,11 +20,8 @@ people:
       York University and teaches poetry for NYU’s XE Experimental Humanties
       Deparment. "
   - person: benjamin-krusling
-    event_bio: >-
-      benjamin krusling is a poet and artist in Brooklyn. Their first
-      full-length collection, Glaring, is forthcoming
-
-      from Wendy's Subway, and recent work can be found in Triple Canopy, The Volta, and What/Happens.
+    event_bio: benjamin krusling is a poet and artist based in brooklyn, ny. his
+      first book, Glaring, is forthcoming in 2020 from Wendy’s Subway.
 date: 2020-12-22 13:46:00 -0500
 end_date: 2020-12-22 13:46:00 -0500
 series: 211
