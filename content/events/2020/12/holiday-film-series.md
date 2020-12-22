@@ -91,9 +91,9 @@ people:
       Films selection committee."
 date: 2020-12-28 10:00:00 -0500
 end_date: 2021-01-01 18:00:00 -0500
-series: 204
+series:
 collections:
-  - the-new-social-environment
+  - screening
 event_sponsor:
   - blue-rider-group
 event_organizer:
@@ -102,30 +102,37 @@ event_producer:
   - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-204-208-holiday-film-series-tickets-133876565411
 event_platform:
-  - zoom
 ---
 ### From all of us at the *Brooklyn Rail*, we wish everyone a safe and joyful holiday season!
 
-While our team is out of the office for the holidays, we hope you will enjoy a week of screenings curated by our own film section editor Dan Sullivan. **Please note** these are not live events through Zoom. Register to receive a video link and password, which will be valid from Monday, December 28 through Friday, January 1. 
+A week of screenings curated by our film section editor, Dan Sullivan. 
 
-**NSE #204 | Monday, December 28**
+{{< note >}}
+**Note:** Once you register, you'll receive video links and passwords for all of the screenings between Monday, December 28 — Friday, January 1. These are not live events through Zoom. 
+{{< /note >}}
 
-*King of Sanwi* (Akosua Adoma Owusu, 2020, 7 mins)
+#### Monday, December 28
 
-**NSE #205 | Tuesday, December 29**
+📽 **_King of Sanwi_** (Akosua Adoma Owusu, 2020, 7 mins)
 
-*Field Resistance* (Emily Drummer, 2019, 16 mins)
+#### Tuesday, December 29
 
-**NSE #206 | Wednesday, December 30**
+📽 **_Field Resistance_** (Emily Drummer, 2019, 16 mins)
 
-*The Isolated* (Jay Giampietro, 2020, 15 mins)
+#### Wednesday, December 30
 
-**NSE #207 | Thursday, December 31**
+📽 **_The Isolated_** (Jay Giampietro, 2020, 15 mins)
 
-*Point and Line to Plane* (Sofia Bohdanowicz, 2020, 17 mins)
+#### Thursday, December 31
 
-**NSE #208 | Friday, January 1** 
+📽 **_Point and Line to Plane_** (Sofia Bohdanowicz, 2020, 17 mins)
 
-*Drills* (Sarah Friedland, 2020, 17 mins)
+#### Friday, January 1
 
-We thank our friends at the Blue Rider Group for graciously sponsoring this week of our NSE series!
+📽 **_Drills_** (Sarah Friedland, 2020, 17 mins)
+
+---
+
+{{< image media="2020/12/blue-rider-group" size="md" >}}
+
+We'd like to thank our friends at the [**Blue Rider Group**](https://advisor.morganstanley.com/blue-rider-group) for graciously sponsoring our events this week!
