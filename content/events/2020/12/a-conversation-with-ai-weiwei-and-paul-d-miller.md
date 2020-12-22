@@ -48,6 +48,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: XDbc5g7KmHs
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-200-ai-weiwei-tickets-132189980791
 event_platform:
   - zoom
