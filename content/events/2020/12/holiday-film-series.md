@@ -93,31 +93,31 @@ registration_url: https://www.eventbrite.com/e/the-new-social-environment-204-20
 event_platform:
   - zoom
 ---
-### From all of us at the *Brooklyn Rail*, we wish everyone a safe and joyful holiday season! 
+### From all of us at the *Brooklyn Rail*, we wish everyone a safe and joyful holiday season!
 
 While our team is out of the office for the holidays, we hope you will enjoy a week of film screenings curated by our own film section editor Dan Sullivan. **Please note** these are not live events through Zoom. Register to receive a video link and password, which will be valid from Monday, December 28 through Friday, January 1. 
 
 
 
-**Monday, December 28**
+**NSE #204 | Monday, December 28**
 
 *King of Sanwi* (Akosua Adoma Owusu, 2020, 7 mins)
 
 
 
-**Tuesday, December 29**
+**NSE #205 | Tuesday, December 29**
 
 *Field Resistance* (Emily Drummer, 2019, 16 mins)
 
 
 
-**Thursday, December 31**
+**NSE #207 | Thursday, December 31**
 
 *Point and Line to Plane* (Sofia Bohdanowicz, 2020, 17 mins)
 
 
 
-**Friday, January 1** 
+**NSE #208 | Friday, January 1** 
 
 *Drills* (Sarah Friedland, 2020, 17 mins)
 
