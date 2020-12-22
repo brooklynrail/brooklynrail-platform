@@ -19,8 +19,14 @@ people:
       He’s written elswhere on the internet, holds a PhD in English from New
       York University and teaches poetry for NYU’s XE Experimental Humanties
       Deparment. "
-date: 2021-01-06 13:00:00 -0500
-end_date: 2021-01-06 14:00:00 -0500
+  - person: benjamin-krusling
+    event_bio: >-
+      benjamin krusling is a poet and artist in Brooklyn. Their first
+      full-length collection, Glaring, is forthcoming
+
+      from Wendy's Subway, and recent work can be found in Triple Canopy, The Volta, and What/Happens.
+date: 2020-12-22 13:46:00 -0500
+end_date: 2020-12-22 13:46:00 -0500
 series: 211
 collections:
   - the-new-social-environment
