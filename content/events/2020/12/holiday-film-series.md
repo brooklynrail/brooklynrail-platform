@@ -68,7 +68,7 @@ people:
       Emerging Artist Fellowship at The Bronx Museum.
   - person: dan-sullivan
     event_bio: "Dan Sullivan is an Assistant Programmer for Film at Lincoln Center
-      and the Co-Editor of the film section of _The Brooklyn Rail_. He is a
+      and the Co-Editor of the film section of the _Brooklyn Rail_. He is a
       frequent contributor to _Film Comment_, _Cinema Scope_, and other
       publications. At FLC he has organized or co-organized retrospectives of
       Raúl Ruiz, David Lynch, Jacques Rivette, Germaine Dulac, Pedro Costa, Jane
