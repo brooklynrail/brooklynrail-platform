@@ -95,7 +95,7 @@ event_platform:
 ---
 ### From all of us at the *Brooklyn Rail*, we wish everyone a safe and joyful holiday season!
 
-While our team is out of the office for the holidays, we hope you will enjoy a week of film screenings curated by our own film section editor Dan Sullivan. **Please note** these are not live events through Zoom. Register to receive a video link and password, which will be valid from Monday, December 28 through Friday, January 1. 
+While our team is out of the office for the holidays, we hope you will enjoy a week of screenings curated by our own film section editor Dan Sullivan. **Please note** these are not live events through Zoom. Register to receive a video link and password, which will be valid from Monday, December 28 through Friday, January 1. 
 
 **NSE #204 | Monday, December 28**
 
