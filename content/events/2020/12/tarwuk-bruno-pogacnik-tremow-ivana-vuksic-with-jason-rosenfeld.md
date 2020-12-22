@@ -1,4 +1,5 @@
 ---
+title: TARWUK (Bruno Pogacnik Tremow & Ivana Vukšic) with Jason Rosenfeld
 summary: Collaborative artist duo TARWUK (Bruno Pogacnik Tremow & Ivana Vukšic)
   will be in conversation with Rail Editor-at-Large Jason Rosenfeld. We'll
   conclude with a poetry reading.
@@ -38,9 +39,9 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-209-tarwuk-tickets-133863237547
 portraits:
   - media: 2020/12/tarwuk-bruno-pogacnik-tremow-ivana-vuksic
-title: TARWUK (Bruno Pogacnik Tremow & Ivana Vukšic) with Jason Rosenfeld
 event_platform:
   - zoom
 ---
