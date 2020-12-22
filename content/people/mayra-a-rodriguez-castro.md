@@ -6,4 +6,6 @@ short_bio: "Mayra A. Rodríguez Castro is a poet and translator. Rodríguez is t
   2020). Her translations include the Pornomiseria Manifesto by Luis Ospina and
   Carlos Mayolo (2017) and Ecogenoethnocide by Santiago Arboleda Quiñonez
   (2018)."
+portraits:
+  - media: 2020/12/mayra-a-rodriguez-castro
 ---
