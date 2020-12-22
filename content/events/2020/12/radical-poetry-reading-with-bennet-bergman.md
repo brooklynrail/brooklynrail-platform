@@ -13,6 +13,12 @@ people:
       Literature. He is the founder and editor of Changes, a nonprofit press
       dedicated to publishing exceptional poetry by emerging writers in the
       United States. He lives in New York City.
+  - person: shiv-kotecha
+    event_bio: "Shiv Kotecha is the author of The Switch (Wonder, 2018) and EXTRIGUE
+      (Make Now, 2015). He writes about art, film, and literature for frieze.
+      He’s written elswhere on the internet, holds a PhD in English from New
+      York University and teaches poetry for NYU’s XE Experimental Humanties
+      Deparment. "
 date: 2021-01-06 13:00:00 -0500
 end_date: 2021-01-06 14:00:00 -0500
 series: 211
