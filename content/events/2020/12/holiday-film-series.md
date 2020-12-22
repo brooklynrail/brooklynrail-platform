@@ -41,13 +41,13 @@ people:
     event_bio: Jay Giampietro is a writer, director, actor and musician whose short
       films have played the New York Film Festival, the Maryland Film Festival,
       BAMcinemaFest, Montclair Film Festival, Sidewalk Film Festival and
-      Rotterdam Film Festival. His short films _Unpresidente_” and
-      _Quarterbacks_ were both selected as Vimeo Staff Picks. Most recently, his
-      short film _The Isolated_ premiered at the 58th New York Film Festival in
-      October 2020. His street photography capturing the eccentric denizens of
-      New York City has been praised by _The Village Voice_, _British GQ_, and
-      _The Guardian_. He was selected for the New York Film Festival’s 2016
-      Artist Academy.
+      Rotterdam Film Festival. His short films _Unpresidente_ and _Quarterbacks_
+      were both selected as Vimeo Staff Picks. Most recently, his short film
+      _The Isolated_ premiered at the 58th New York Film Festival in October
+      2020. His street photography capturing the eccentric denizens of New York
+      City has been praised by _The Village Voice_, _British GQ_, and _The
+      Guardian_. He was selected for the New York Film Festival’s 2016 Artist
+      Academy.
   - person: sofia-bohdanowicz
     event_bio: Sofia Bohdanowicz is an award-winning filmmaker from Toronto, she is
       the founder of the production company MAISON DU BONHEUR. She has had
