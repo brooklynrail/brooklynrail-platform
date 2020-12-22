@@ -3,26 +3,6 @@ title: "Holiday Screening: Field Resistance"
 summary: Join us for a screening of Field Resistance (2019) courtesy of the
   filmmaker Emily Drummer.
 people:
-  - person: akosua-adoma-owusu
-    event_bio: Born 1984, Akosua Adoma Owusu is a Ghanaian-American filmmaker whose
-      films address a collision of identities, where the African immigrant
-      located in America has a triple consciousness. Named by IndieWire as one
-      of the 6 pre-eminent Avant-Garde Female Filmmakers Who Redefined Cinema,
-      she has exhibited worldwide, including at the Centre Pompidou, Berlinale,
-      Rotterdam, Locarno, Toronto, New Directors/New Films (NY), and London
-      (BFI). She was a featured artist of the 56th Robert Flaherty Film Seminar
-      programmed by renowned film curator and critic Dennis Lim. Her film _Kwaku
-      Ananse_ won the 2013 Africa Movie Academy Award. Her latest film _White
-      Afro_ won the Medien Patent Verwaltung AG Prize at the 2019 Locarno Film
-      Festival. Her work is included in the collections of the Whitney Museum of
-      American Art, the Centre Georges Pompidou and the Fowler Museum at UCLA.
-      She has received fellowships and grants from the John Simon Guggenheim
-      Memorial Foundation, the Knight Foundation, the Westridge Foundation,
-      Creative Capital, the MacDowell Colony, the Camargo Foundation, the
-      Goethe-Institut Salvador-Bahia and most recently from the Residency
-      Program at the Villa Sträuli in Winterthur. Currently, she divides her
-      time between Ghana and New York, where she works as a Visiting Assistant
-      Professor at the Pratt Institute in Brooklyn.
   - person: dan-sullivan
     event_bio: "Dan Sullivan is an Assistant Programmer for Film at Lincoln Center
       and the Co-Editor of the film section of _The Brooklyn Rail_. He is a
@@ -35,6 +15,20 @@ people:
       Movies in the Age of Reagan” (2019, with J. Hoberman). He has also served
       as a programmer for NYFF and is currently a member of the New
       Directors/New Films selection committee."
+  - person: emily-drummer
+    event_bio: Emily Drummer (b. 1990) is a filmmaker who uses immersive research as
+      a starting point to investigate the dynamic between technology and the
+      natural world. She received her MFA in Film and Video Production from the
+      University of Iowa and her BA from Hampshire College. She is a Princess
+      Grace Film Honoraria recipient and a Flaherty Film Seminar fellow.
+      Drummer’s work has been showcased by venues including Art of the Real at
+      the Film Society of Lincoln Center, Black Box at Edinburgh International
+      Film Festival, London Short Film Festival, Ji.hlava International
+      Documentary Film Festival, and Camden International Film Festival. An
+      article about her work was recently published in the _Brooklyn Rail_.
+    related_links:
+      - url: https://brooklynrail.org/2019/12/film/Subterranean-Cinema-A-Return-to-the-Geo-Imaginaries-of-the-Hollow-Earth
+        text: "Subterranean Cinema: A Return to the Geo-Imaginaries of the Hollow Earth"
 date: 2020-12-28 10:00:00 -0500
 end_date: 2021-01-01 18:00:00 -0500
 series: 205
