@@ -68,16 +68,16 @@ people:
       Emerging Artist Fellowship at The Bronx Museum.
   - person: dan-sullivan
     event_bio: "Dan Sullivan is an Assistant Programmer for Film at Lincoln Center
-      and the Co-Editor of the film section of the _Brooklyn Rail_. He is a
-      frequent contributor to _Film Comment_, _Cinema Scope_, and other
-      publications. At FLC he has organized or co-organized retrospectives of
-      Raúl Ruiz, David Lynch, Jacques Rivette, Germaine Dulac, Pedro Costa, Jane
-      Birkin, and Charlotte Gainsbourg, among others, and various film series
-      including “Going Steadi: 40 Years of Steadicam” (2017), “Heathcliff, It’s
-      Me: Adapting _Wuthering Heights_” (2017), and “Make My Day: American
-      Movies in the Age of Reagan” (2019, with J. Hoberman). He has also served
-      as a programmer for NYFF and is currently a member of the New
-      Directors/New Films selection committee."
+      and the Editor of the film section of the _Brooklyn Rail_. He is a
+      contributor to _Film Comment_, _Cinema Scope_, and other publications. At
+      FLC he has organized or co-organized retrospectives of Raúl Ruiz, David
+      Lynch, Jacques Rivette, Germaine Dulac, Pedro Costa, Jane Birkin, and
+      Charlotte Gainsbourg, among others, and various film series including
+      “Going Steadi: 40 Years of Steadicam” (2017), “Heathcliff, It’s Me:
+      Adapting _Wuthering Heights_” (2017), and “Make My Day: American Movies in
+      the Age of Reagan” (2019, with J. Hoberman). He has also served as a
+      programmer for NYFF and is currently a member of the New Directors/New
+      Films selection committee."
 date: 2020-12-28 10:00:00 -0500
 end_date: 2021-01-01 18:00:00 -0500
 series: 204
