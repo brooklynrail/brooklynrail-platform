@@ -13,6 +13,12 @@ people:
       Literature. He is the founder and editor of Changes, a nonprofit press
       dedicated to publishing exceptional poetry by emerging writers in the
       United States. He lives in New York City.
+  - person: mayra-a-rodriguez-castro
+    event_bio: "Mayra A. Rodríguez Castro is a poet and translator. Rodríguez is the
+      editor of Dream of Europe: Selected Seminars and Interviews (Kenning
+      Editions, 2020). Her translations include the Pornomiseria Manifesto by
+      Luis Ospina and Carlos Mayolo (2017) and Ecogenoethnocide by Santiago
+      Arboleda Quiñonez (2018)."
   - person: shiv-kotecha
     event_bio: "Shiv Kotecha is the author of The Switch (Wonder, 2018) and EXTRIGUE
       (Make Now, 2015). He writes about art, film, and literature for frieze.
@@ -37,6 +43,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-211-radical-poetry-with-bennet-bergman-tickets-133873815185
 portraits:
   - media: 2020/12/layli-long-soldier
 event_platform:
