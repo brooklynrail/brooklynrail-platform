@@ -7,12 +7,8 @@ summary: Poet Bennet Bergman curates the first Radical Poetry Reading of 2021,
   Layli Long Soldier.
 people:
   - person: bennet-bergman
-    event_bio: Bennet Bergman is a poet, educator, and publisher. He earned a BA
-      from Yale University and an MFA from the Iowa Writers’ Workshop. His poems
-      have appeared in The Threepenny Review, Gulf Coast, and Electric
-      Literature. He is the founder and editor of Changes, a nonprofit press
-      dedicated to publishing exceptional poetry by emerging writers in the
-      United States. He lives in New York City.
+    event_bio: Bennet Bergman is writer in New York. He’s also the founding editor
+      of Changes, a new nonprofit book publisher.
   - person: mayra-a-rodriguez-castro
     event_bio: "Mayra A. Rodríguez Castro is a poet and translator. Rodríguez is the
       editor of Dream of Europe: Selected Seminars and Interviews (Kenning
