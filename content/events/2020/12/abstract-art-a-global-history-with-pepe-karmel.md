@@ -31,7 +31,16 @@ people:
     event_bio: Amanda Gluibizzi is an ArtSeen editor at The Brooklyn Rail. An art
       historian, she is the co-director of The New Foundation for Art History
       and the author of Art and Design in 1960s New York (forthcoming).
-poets: []
+poets:
+  - person: chia-lun-chang
+    event_bio: Chia-Lun Chang is author of One Day We Become Whites. Recent work
+      appears in Poetry Society of America, Pinwheel, Apogee, and many others.
+      She teaches contemporary Taiwanese poetry at the Brooklyn Public Library
+      and writes for chatbots. Born and raised in New Taipei City, Taiwan, she
+      lives in NYC.
+    related_links:
+      - url: http://www.nodearmagazine.com/chapbooks#/one-day-we-become-whites
+        text: "One Day We Become Whites "
 date: 2021-01-05 13:00:00 -0500
 end_date: 2021-01-05 14:30:00 -0500
 series: 210
