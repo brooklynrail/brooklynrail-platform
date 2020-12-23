@@ -4,30 +4,36 @@ summary: Artist Sarah Crowner will join artist and Rail Editor-at-Large Tom
   McGlynn for a conversation. We'll conclude with a poetry reading from
   Aristilde Kirby.
 people:
-  - person: sarah-crowner
-    event_bio: "Sarah Crowner was born in Philadelphia in 1974. She earned a BA from
-      the University of California, Santa Cruz, in 1996, and an MFA from Hunter
-      College, City University of New York, in 2002. In her search for a mode of
-      image making that accommodates immediacy and spontaneity, Crowner creates
-      graphic compositions that discretely test the boundaries of abstract
-      painting while also engaging and reshaping its art historical legacy. From
-      afar, the bold geometric forms, clean lines, and elegant arabesques
-      inhabiting her canvases conjure the pristine visual fields of geometric
-      abstraction. On closer viewing, the presence of stitches and seams reveals
-      a craft-oriented methodology in which raw and painted segments of canvas
-      are cut, rearranged, and sewn together using the process-based logic of
-      collage. "
-  - person: tom-mcglynn
-    event_bio: Tom McGlynn is an artist, writer, and independent curator based in
-      the NYC area. His work is represented in the permanent collections of the
-      Whitney Museum, the Museum of Modern Art, and the Cooper-Hewitt National
-      Design Museum of the Smithsonian. He is the director of Beautiful Fields,
-      an organization dedicated to socially-engaged curatorial projects, and is
-      also currently a visiting lecturer at Parsons/the New School. Tom is an
-      Editor-at-Large of the Brooklyn Rail.
+  - person: pepe-karmel
+    event_bio: "Pepe Karmel teaches in the Department of Art History, New York
+      University. His book Picasso and the Invention of Cubism was published by
+      Yale University Press in 2003. He has curated or cocurated many
+      exhibitions and has contributed to numerous exhibition catalogues, as well
+      as to publications including Art in America and the New York Times. His
+      new book Abstract Art: A Global History was published by Thames & Hudson
+      in 2020."
+    related_links:
+      - url: https://www.thamesandhudsonusa.com/books/abstract-art-a-global-history-hardcover
+        text: "Abstract Art: A Global History"
+  - person: alexander-nagel
+    event_bio: "Alexander Nagel is Professor at the Institute of Fine Arts, NYU. His
+      interest in art and religious reform produced Michelangelo and the Reform
+      of Art (2000, winner of the Renaissance Society of America’s Gordan book
+      prize), and The Controversy of Renaissance Art (2011, winner of the
+      College Art Association’s Morey book prize). His interest in the multiple
+      temporalities of art led to the publication of Anachronic Renaissance
+      (co-authored with Christopher Wood, 2010) and Medieval Modern: Art out of
+      Time (2012). His current work addresses questions of orientation and
+      configurations of place in Renaissance art and culture. In 2016, he
+      received an NEH Fellowship for a collaborative project (with Elizabeth
+      Horodowich, NMSU) entitled Amerasia: A Renaissance Discovery."
+  - person: amanda-gluibizzi
+    event_bio: Amanda Gluibizzi is an ArtSeen editor at The Brooklyn Rail. An art
+      historian, she is the co-director of The New Foundation for Art History
+      and the author of Art and Design in 1960s New York (forthcoming).
 date: 2021-01-08 13:00:00 -0500
 end_date: 2021-01-08 14:30:00 -0500
-series: 213
+series: 208
 collections:
   - the-new-social-environment
 event_organizer:
