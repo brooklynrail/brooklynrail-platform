@@ -190,7 +190,6 @@ collections:
         name: "series"
         widget: "number"
         valueType: "int"
-        min: 1
         required: false
 
       - label: "Collections"
