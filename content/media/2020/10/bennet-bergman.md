@@ -1,5 +1,5 @@
 ---
-media: /media/files/bennet-b.jpg
+media: /media/files/bennet-bergman.jpg
 title: Bennet Bergman
 alt: A black and white photo of poet Bennet Bergman with arms crossed.
 caption: Alexei Hay
