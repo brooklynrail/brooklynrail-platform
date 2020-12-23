@@ -1,7 +1,7 @@
 ---
 media: /media/files/bennet-bergman.jpg
 title: Bennet Bergman
-alt: A black and white photo of poet Bennet Bergman with arms crossed.
-caption: Alexei Hay
+alt: A photo of poet Bennet Bergman with his hand covering his face.
+caption: Courtesy Bennet Bergman
 date: 2020-10-16 10:00:00 -0500
 ---
