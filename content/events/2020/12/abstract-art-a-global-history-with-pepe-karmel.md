@@ -4,10 +4,6 @@ summary: "Author of \"Abstract Art: A Global History\" Pepe Karmel will be in
   conversation with Rail ArtSeen Editor Amanda Gluibizzi and art historian
   Alexander Nagel. We'll conclude with a poetry reading from Chia-Lun Chang."
 people:
-  - person: amanda-gluibizzi
-    event_bio: Amanda Gluibizzi is an ArtSeen editor at The Brooklyn Rail. An art
-      historian, she is the co-director of The New Foundation for Art History
-      and the author of Art and Design in 1960s New York (forthcoming).
   - person: pepe-karmel
     event_bio: "Pepe Karmel teaches in the Department of Art History, New York
       University. His book Picasso and the Invention of Cubism was published by
@@ -19,6 +15,22 @@ people:
     related_links:
       - url: https://www.thamesandhudsonusa.com/books/abstract-art-a-global-history-hardcover
         text: "Abstract Art: A Global History"
+  - person: alexander-nagel
+    event_bio: "Alexander Nagel is Professor at the Institute of Fine Arts, NYU. His
+      interest in art and religious reform produced Michelangelo and the Reform
+      of Art (2000, winner of the Renaissance Society of America’s Gordan book
+      prize), and The Controversy of Renaissance Art (2011, winner of the
+      College Art Association’s Morey book prize). His interest in the multiple
+      temporalities of art led to the publication of Anachronic Renaissance
+      (co-authored with Christopher Wood, 2010) and Medieval Modern: Art out of
+      Time (2012). His current work addresses questions of orientation and
+      configurations of place in Renaissance art and culture. In 2016, he
+      received an NEH Fellowship for a collaborative project (with Elizabeth
+      Horodowich, NMSU) entitled Amerasia: A Renaissance Discovery."
+  - person: amanda-gluibizzi
+    event_bio: Amanda Gluibizzi is an ArtSeen editor at The Brooklyn Rail. An art
+      historian, she is the co-director of The New Foundation for Art History
+      and the author of Art and Design in 1960s New York (forthcoming).
 poets: []
 date: 2021-01-05 13:00:00 -0500
 end_date: 2021-01-05 14:30:00 -0500
