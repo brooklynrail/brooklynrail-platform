@@ -20,11 +20,11 @@ people:
       Luis Ospina and Carlos Mayolo (2017) and Ecogenoethnocide by Santiago
       Arboleda Quiñonez (2018)."
   - person: shiv-kotecha
-    event_bio: "Shiv Kotecha is the author of The Switch (Wonder, 2018) and EXTRIGUE
-      (Make Now, 2015). He writes about art, film, and literature for frieze.
-      He’s written elswhere on the internet, holds a PhD in English from New
-      York University and teaches poetry for NYU’s XE Experimental Humanties
-      Deparment. "
+    event_bio: >
+      Shiv Kotecha is the author of The Switch (Wonder, 2018) and EXTRIGUE (Make
+      Now, 2015). He writes about art, film, and literature for frieze, where he
+      is a contributing editor. He’s written elsewhere on the internet, holds a
+      PhD in English from New York University, where he now  teaches poetry. 
   - person: benjamin-krusling
     event_bio: Benjamin Krusling is a poet and artist working in sound and video.
       His first book Glaring is out now from Wendy's Subway.
