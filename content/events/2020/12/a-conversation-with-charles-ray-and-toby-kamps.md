@@ -53,6 +53,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: TieqkXW2YE4
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-199-charles-ray-tickets-132188500363
 event_platform:
   - zoom
