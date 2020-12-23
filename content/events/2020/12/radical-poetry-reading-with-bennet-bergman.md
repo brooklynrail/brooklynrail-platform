@@ -32,7 +32,7 @@ people:
       finalist for the National Book Award.
 date: 2021-01-06 13:00:00 -0500
 end_date: 2021-01-06 14:00:00 -0500
-series: 211
+series: 206
 collections:
   - the-new-social-environment
 event_organizer:
