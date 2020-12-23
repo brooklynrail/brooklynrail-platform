@@ -8,4 +8,6 @@ short_bio: "Pepe Karmel teaches in the Department of Art History, New York
   contributed to numerous exhibition catalogues, as well as to publications
   including Art in America and the New York Times. His new book Abstract Art: A
   Global History was be published by Thames & Hudson in 2020."
+portraits:
+  - media: 2020/12/pepe-karmel
 ---
