@@ -31,6 +31,18 @@ people:
     event_bio: Amanda Gluibizzi is an ArtSeen editor at The Brooklyn Rail. An art
       historian, she is the co-director of The New Foundation for Art History
       and the author of Art and Design in 1960s New York (forthcoming).
+poets:
+  - person: aristilde-kirby
+    event_bio: Aristilde Kirby is a being constellation of given human category
+      [poet]. She has published this [Daisy & Catherine], that [Sonnet
+      Infinitesimal / Material Girl], & the third [Daisy & Catherine².
+      (forthcoming 2021)]. She is a candidate for a master's degree at Bard
+      College.
+    related_links:
+      - text: Daisy & Catherine
+        url: http://www.belladonnaseries.org/chaplets/
+      - text: Sonnet Infinitesimal / Material Girl
+        url: https://bwr.ua.edu/archives-sonnet-infiniteismal-n3-material-girl-n8-aristilde-kirby/
 date: 2021-01-08 13:00:00 -0500
 end_date: 2021-01-08 14:30:00 -0500
 series: 208
