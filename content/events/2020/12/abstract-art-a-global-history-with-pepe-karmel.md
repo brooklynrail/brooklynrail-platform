@@ -43,7 +43,7 @@ poets:
         text: "One Day We Become Whites "
 date: 2021-01-05 13:00:00 -0500
 end_date: 2021-01-05 14:30:00 -0500
-series: 210
+series: 205
 collections:
   - the-new-social-environment
 event_organizer:
