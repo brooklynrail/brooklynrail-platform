@@ -1,7 +1,8 @@
 ---
 title: Sarah Crowner with Tom McGlynn
 summary: Artist Sarah Crowner will join artist and Rail Editor-at-Large Tom
-  McGlynn for a conversation. We'll conclude with a poetry reading.
+  McGlynn for a conversation. We'll conclude with a poetry reading from
+  Aristilde Kirby.
 people:
   - person: sarah-crowner
     event_bio: "Sarah Crowner was born in Philadelphia in 1974. She earned a BA from
