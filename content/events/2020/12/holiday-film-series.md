@@ -1,5 +1,6 @@
 ---
 title: 📽 Holiday Film Series ❄️
+deck: A selection of international short films
 summary: Join us for a virtual film series curated by Rail Film Editor Dan
   Sullivan, graciously supported by the Blue Rider Group.
 people:
@@ -91,7 +92,7 @@ people:
       Films selection committee."
 date: 2020-12-28 10:00:00 -0500
 end_date: 2021-01-01 18:00:00 -0500
-series:
+series: null
 collections:
   - screening
 event_sponsor:
@@ -101,39 +102,23 @@ event_organizer:
 event_producer:
   - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-204-208-holiday-film-series-tickets-133876565411
-event_platform:
+event_platform: null
 ---
-
 {{< note >}}
 **Note:** Once you register, you'll receive video links and passwords for all of the screenings between Monday, December 28 — Friday, January 1. These are not live events through Zoom. 
 {{< /note >}}
-
 #### Monday, December 28
-
-📽 **_King of Sanwi_** (Akosua Adoma Owusu, 2020, 7 mins)
-
+📽 ***King of Sanwi*** (Akosua Adoma Owusu, 2020, 7 mins) The spiritual sequel to her previous film \_Pelourinho, They Don't Really Care About Us\_ (2019) finds Akosua Adoma Owusu deftly, absorbingly synthesizing direct animation and archival footage from the Jackson 5’s 1974 visit to Dakar and Michael's 1992 crowning as an Ivorian king to meditate on the pop icon's relationship to Africa.
 #### Tuesday, December 29
-
-📽 **_Field Resistance_** (Emily Drummer, 2019, 16 mins)
-
+📽 ***Field Resistance*** (Emily Drummer, 2019, 16 mins) Something like a science-fiction documentary, Emily J. Drummer's \_Field Resistance\_ uses the subject of eco-devastation in Iowa as a springboard to conjure the eternal antagonism between humanity and nature and the increasingly blurry line between our fraught, fragile present and the prophesied dystopia to come.
 #### Wednesday, December 30
-
-📽 **_The Isolated_** (Jay Giampietro, 2020, 15 mins)
-
+📽 ***The Isolated*** (Jay Giampietro, 2020, 15 mins) Jay Giampietro's latest ranks among the best artworks to tackle Life in the Time of Covid-19 to date, with the filmmaker exercising his singular eye for street-level surreality as he takes in a locked-down NYC while meeting periodically with a friend, a lonely eccentric anxiously yearning for human connection.
 #### Thursday, December 31
-
-📽 **_Point and Line to Plane_** (Sofia Bohdanowicz, 2020, 17 mins)
-
+📽 ***Point and Line to Plane*** (Sofia Bohdanowicz, 2020, 17 mins) Sofia Bohdanowicz continues her rich, ongoing collaboration with the actor/filmmaker Deragh Campbell in this alluring narrative work, following a young woman from museum in a foreign city to museum in a foreign city as she recalls a friend by way of the paintings of Wassily Kandinsky and Hilma af Klint.
 #### Friday, January 1
-
-📽 **_Drills_** (Sarah Friedland, 2020, 17 mins)
-
+📽 ***Drills*** (Sarah Friedland, 2020, 17 mins) The link between performance and the everyday anxieties of our age is a prevalent subject in the work of Sarah Friedland, and her latest, \_Drills\_, is no exception, a mesmerizing dance film that locates its choreography within the physical movements of preparatory exercises (including active shooter drills and corporate meditation guides).
 **Questions?** Send an email to [nick.bennett@brooklynrail.org](mailto:nick.bennett@brooklynrail.org)
-
----
-
+- - -
 From all of us at the *Brooklyn Rail*, we wish everyone a safe and joyful holiday season!
-
 {{< image media="2020/12/blue-rider-group" size="sm" >}}
-
-We'd like to thank our friends at the [**Blue Rider Group**](https://advisor.morganstanley.com/blue-rider-group) for graciously sponsoring our events this week!
+We'd like to thank our friends at the **[Blue Rider Group](https://advisor.morganstanley.com/blue-rider-group)** for graciously sponsoring our events this week!
