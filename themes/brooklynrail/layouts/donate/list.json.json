@@ -1,3 +1,4 @@
+rail_data(
 {{- $list := where $.Site.RegularPages  "Section" .Section -}}
 {{- $length := (len $list) -}}
 {
@@ -66,4 +67,4 @@
   {{- end -}}
   
   "url" : "{{- .Permalink -}}"
-}
+})
