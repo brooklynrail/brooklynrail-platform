@@ -1,5 +1,5 @@
 ---
-media: /media/files/bennet-bergman.jpg
+media: /media/files/smallerbergman.jpg
 title: Bennet Bergman
 alt: "A photo of poet Bennet Bergman with his hand covering his face. "
 caption: Courtesy Bennet Bergman
