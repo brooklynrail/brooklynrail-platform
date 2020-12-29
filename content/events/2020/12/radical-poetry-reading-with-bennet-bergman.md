@@ -22,7 +22,7 @@ people:
       English from New York University and teaches a poetry seminar for NYU’s
       XE: Experimental Humanities & Social Engagement Master's program. "
   - person: benjamin-krusling
-    event_bio: Benjamin Krusling is a poet and artist working in sound and video.
+    event_bio: Benjamin Krusling is a    poet and artist working in sound and video.
       His first book Glaring is out now from Wendy's Subway.
   - person: layli-long-soldier
     event_bio: Layli Long Soldier earned a BFA from the Institute of American Indian
