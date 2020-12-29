@@ -65,8 +65,8 @@ poets:
         text: Titles published by Vehicle Editions (Annabel Lee, publisher)
       - url: https://www.poetryproject.org/marathon
         text: Poetry Project Marathon— a film of Annabel Lee by Jacob Burckhardt
-date: 2020-12-15 13:00:00 -0500
-end_date: 2020-12-15 14:30:00 -0500
+date: 2020-12-15T13:00:00-0500
+end_date: 2020-12-15T14:30:00-0500
 series: 195
 collections:
   - the-new-social-environment

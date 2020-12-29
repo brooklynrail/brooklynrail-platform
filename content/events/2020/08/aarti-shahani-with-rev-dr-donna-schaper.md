@@ -33,8 +33,8 @@ poets:
       in history, biography, and criticism. He lives near the Vermont border in
       Massachusetts, where he tends to his fish and weeds his gardens on a steep
       hill that was an island in a prehistoric lake.
-date: 2020-08-27 13:00:00 -0500
-end_date: 2020-08-27 14:00:00 -0500
+date: 2020-08-27T13:00:00-0500
+end_date: 2020-08-27T14:00:00-0500
 series: 117
 collections:
   - the-new-social-environment

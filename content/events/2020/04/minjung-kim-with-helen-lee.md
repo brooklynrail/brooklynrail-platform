@@ -2,8 +2,8 @@
 title: Minjung Kim with Helen Lee
 summary: Artist Minjung Kim and _Rail_ board member Helen Lee discuss creative
   life in the context of our new social reality.
-date: 2020-04-23 13:00:00 -0500
-end_date: 2020-04-23 14:00:00 -0500
+date: 2020-04-23T13:00:00-0500
+end_date: 2020-04-23T14:00:00-0500
 series: 28
 collections:
   - the-new-social-environment

@@ -64,8 +64,8 @@ poets:
       Hush. Her work has appeared in The New York Times Magazine, the Academy of
       American Poets’ Poem-a-Day, and The Brooklyn Rail, among others. This fall
       she joins the faculty of Michigan State University.
-date: 2020-08-13 13:00:00 -0500
-end_date: 2020-08-13 14:00:00 -0500
+date: 2020-08-13T13:00:00-0500
+end_date: 2020-08-13T14:00:00-0500
 series: 107
 collections:
   - the-new-social-environment

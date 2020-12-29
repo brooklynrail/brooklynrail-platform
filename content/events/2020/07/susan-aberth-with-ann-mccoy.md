@@ -40,8 +40,8 @@ poets:
       Diasporic Avant Gardes, and Imagined Theatres, among others. He is an
       advocate for environmental & labor justice, health & safety culture, and
       immigrant worker rights. His newest book of poetry is "In Range".
-date: 2020-07-15 13:00:00 -0500
-end_date: 2020-07-15 14:00:00 -0500
+date: 2020-07-15T13:00:00-0500
+end_date: 2020-07-15T14:00:00-0500
 series: 86
 collections:
   - the-new-social-environment

@@ -3,8 +3,8 @@ title: 🎉 The Rail's 20th Anniversary Celebration! 🎉
 summary: Join us for a celebration of the Rail's 20th anniversary and a look
   back at all we've accomplished in 2020.
 people: []
-date: 2020-12-23 13:00:00 -0500
-end_date: 2020-12-23 14:30:00 -0500
+date: 2020-12-23T13:00:00-0500
+end_date: 2020-12-23T14:30:00-0500
 series: 201
 collections:
   - the-new-social-environment

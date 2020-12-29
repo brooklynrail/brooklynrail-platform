@@ -6,8 +6,8 @@ event_organizer:
 youtube_playlist_id:
   - the-new-social-environment
 title: William D. Adams with Phong Bui
-date: 2020-04-13 13:00:00 -0500
-end_date: 2020-04-13 14:00:00 -0500
+date: 2020-04-13T13:00:00-0500
+end_date: 2020-04-13T14:00:00-0500
 series: 20
 collections:
   - the-new-social-environment

@@ -24,8 +24,8 @@ poets:
       essays have appeared in the New York Times, Paris Review, the Rail, and
       many others. She teaches literature and creative writing at NYU and the
       New School.
-date: 2020-11-06 13:00:00 -0500
-end_date: 2020-11-06 14:30:00 -0500
+date: 2020-11-06T13:00:00-0500
+end_date: 2020-11-06T14:30:00-0500
 series: 168
 collections:
   - the-new-social-environment

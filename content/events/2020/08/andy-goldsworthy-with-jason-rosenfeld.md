@@ -38,8 +38,8 @@ poets:
       working to externalize interior femme landscapes. They are the author of
       artbook Saw Palmettos, on hormones, community, and the brain-time
       continuum and chapbook Which One Is the Bridge.
-date: 2020-09-07 13:00:00 -0500
-end_date: 2020-09-07 14:00:00 -0500
+date: 2020-09-07T13:00:00-0500
+end_date: 2020-09-07T14:00:00-0500
 series: 124
 collections:
   - the-new-social-environment

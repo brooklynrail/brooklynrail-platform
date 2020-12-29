@@ -5,8 +5,8 @@ deck: A documentary in which Frank Auerbach charts his own artistic history
 summary: Join Luhring Augustine Gallery for a special online screening of the
   documentary *FRANK*, in which Auerbach charts his own artistic history through
   70 years of work.
-date: 2020-11-15 12:00:00 -0500
-end_date: 2020-11-16 12:00:00 -0500
+date: 2020-11-15T12:00:00-0500
+end_date: 2020-11-16T12:00:00-0500
 collections:
   - community-listing
 event_organizer:

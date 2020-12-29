@@ -6,5 +6,5 @@ alt: These are pencil drawn portraits of Filmmakers Shirin Neshat and Shoja
   publisher Phong Bui.
 credit:
   - phong-h-bui
-date: 2020-05-28 10:38:00 -0500
+date: 2020-05-28T10:38:00-0500
 ---

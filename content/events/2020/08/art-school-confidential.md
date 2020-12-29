@@ -76,8 +76,8 @@ poets:
       Goodnight, Marie, May God Have Mercy on Your Soul(Roof 2017), and Unsolved
       Mysteries, which is forthcoming from Roof this September. She is the
       managing and web literary editor at Social Text. "
-date: 2020-08-18 13:00:00 -0500
-end_date: 2020-08-18 14:00:00 -0500
+date: 2020-08-18T13:00:00-0500
+end_date: 2020-08-18T14:00:00-0500
 series: 110
 collections:
   - the-new-social-environment

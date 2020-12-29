@@ -118,8 +118,8 @@ poets:
     related_links:
       - url: https://www.ornithopterpress.com/store/p2/DROPOUT_by_Camilo_Rold%C3%A1n.html
         text: '"Dropout" by Camilo Roldán'
-date: 2020-09-17 13:00:00 -0500
-end_date: 2020-09-17 14:30:00 -0500
+date: 2020-09-17T13:00:00-0500
+end_date: 2020-09-17T14:30:00-0500
 series: ""
 collections:
   - common-ground

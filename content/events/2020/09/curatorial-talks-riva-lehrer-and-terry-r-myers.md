@@ -26,8 +26,8 @@ people:
       including Art Center College of Design, Otis College of Art and Design,
       Pratt Institute, the Royal College of Art, and the School of the Art
       Institute of Chicago, where he was chair of painting and drawing."
-date: 2020-09-25 15:00:00 -0500
-end_date: 2020-09-25 16:00:00 -0500
+date: 2020-09-25T15:00:00-0500
+end_date: 2020-09-25T16:00:00-0500
 collections: []
 event_organizer:
   - mana-contemporary

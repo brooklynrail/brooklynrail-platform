@@ -4,5 +4,5 @@ title: Peter van Agtmael
 alt: Peter van Agtmael
 credit:
   - christian-hansen
-date: 2020-09-23 17:26:00 -0500
+date: 2020-09-23T17:26:00-0500
 ---

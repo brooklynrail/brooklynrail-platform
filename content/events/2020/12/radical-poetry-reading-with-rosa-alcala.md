@@ -58,8 +58,8 @@ people:
       Shenandoah, Plume, Ecotone, jubilat, Pleiades, Poetry Daily, Best New
       Poets, and The Best American Poetry. She is an Assistant Professor at
       Mount Holyoke College. "
-date: 2020-12-16 13:00:00 -0500
-end_date: 2020-12-16 14:00:00 -0500
+date: 2020-12-16T13:00:00-0500
+end_date: 2020-12-16T14:00:00-0500
 series: 196
 collections:
   - the-new-social-environment

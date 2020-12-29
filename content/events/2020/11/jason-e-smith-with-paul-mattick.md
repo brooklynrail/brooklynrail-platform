@@ -28,8 +28,8 @@ poets:
   - person: brendan-joyce
     event_bio: Brendan Joyce is an unemployed worker, the co-organizer of Grieveland
       and the author of Character Limit and Love & Solidarity.
-date: 2020-11-19 13:00:00 -0500
-end_date: 2020-11-19 14:30:00 -0500
+date: 2020-11-19T13:00:00-0500
+end_date: 2020-11-19T14:30:00-0500
 collections:
   - common-ground
 event_organizer:

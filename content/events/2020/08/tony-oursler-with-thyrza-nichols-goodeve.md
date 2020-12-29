@@ -33,8 +33,8 @@ poets:
       Treatise on Stars and a new edition of her 1989 book, Empathy came out
       this year from New Directions. She lives in northern New Mexico and New
       York City.
-date: 2020-08-14 13:00:00 -0500
-end_date: 2020-08-14 14:00:00 -0500
+date: 2020-08-14T13:00:00-0500
+end_date: 2020-08-14T14:00:00-0500
 series: 108
 collections:
   - the-new-social-environment

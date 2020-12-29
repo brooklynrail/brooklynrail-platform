@@ -51,8 +51,8 @@ people:
       fellowships from Asian American Writers’ Workshop and Poets House.
       Currently, he is poetry editor at Foundry and giving creative advice at
       The Reading.
-date: 2020-09-23 13:00:00 -0500
-end_date: 2020-09-23 14:00:00 -0500
+date: 2020-09-23T13:00:00-0500
+end_date: 2020-09-23T14:00:00-0500
 series: 136
 collections:
   - the-new-social-environment

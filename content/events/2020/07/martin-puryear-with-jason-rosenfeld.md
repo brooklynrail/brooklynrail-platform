@@ -30,8 +30,8 @@ poets:
       Kenyon Review, BOMB,  Apogee, The Literary Review, and other publications.
       He is an educator, a founding member of Unbnd Collective, associate poetry
       editor for BOAAT, and curator of the reading series Dear Ocean.
-date: 2020-07-17 13:00:00 -0500
-end_date: 2020-07-17 14:00:00 -0500
+date: 2020-07-17T13:00:00-0500
+end_date: 2020-07-17T14:00:00-0500
 series: 88
 collections:
   - the-new-social-environment

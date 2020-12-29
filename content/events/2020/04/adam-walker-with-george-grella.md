@@ -10,8 +10,8 @@ event_organizer:
   - the-brooklyn-rail
 registration_url: ""
 youtube_id: 5hO-USN4pTM
-date: 2020-04-09 13:00:00 -0500
-end_date: 2020-04-09 14:00:00 -0500
+date: 2020-04-09T13:00:00-0500
+end_date: 2020-04-09T14:00:00-0500
 series: 18
 event_platform:
   - zoom

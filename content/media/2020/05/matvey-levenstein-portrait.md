@@ -6,5 +6,5 @@ alt: This is a pencil drawn portrait of artist Matvey Levenstein with a gray
 caption: ""
 credit:
   - phong-h-bui
-date: 2020-05-27 15:20:00 -0500
+date: 2020-05-27T15:20:00-0500
 ---

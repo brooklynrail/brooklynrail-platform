@@ -44,8 +44,8 @@ poets:
       Foundation. She is also a publisher, an editor, and the author of three
       books of poetry. She holds a BA from Indiana University and an MFA from
       New Mexico State University.
-date: 2020-09-08 13:00:00 -0500
-end_date: 2020-09-08 14:00:00 -0500
+date: 2020-09-08T13:00:00-0500
+end_date: 2020-09-08T14:00:00-0500
 series: 125
 collections:
   - the-new-social-environment

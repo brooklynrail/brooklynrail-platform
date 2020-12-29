@@ -51,8 +51,8 @@ poets:
     related_links:
       - text: More on Joy Priest
         url: https://upittpress.org/authors/joy-priest/
-date: 2020-11-02 13:00:00 -0500
-end_date: 2020-11-02 17:00:00 -0500
+date: 2020-11-02T13:00:00-0500
+end_date: 2020-11-02T17:00:00-0500
 series: 164
 collections:
   - the-new-social-environment

@@ -2,8 +2,8 @@
 title: Mark Dion and Alexis Rockman with Dr. Julie Reiss
 summary: Artists Mark Dion and Alexis Rockman and art historian Dr. Julie Reiss
   discuss creative life in the context of our new social reality.
-date: 2020-04-10 13:00:00 -0500
-end_date: 2020-04-10 14:00:00 -0500
+date: 2020-04-10T13:00:00-0500
+end_date: 2020-04-10T14:00:00-0500
 series: 19
 collections:
   - the-new-social-environment

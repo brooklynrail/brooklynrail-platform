@@ -47,8 +47,8 @@ people:
       photographs in 2019 at Bridget Donahue, NYC. Eileen has received a
       Guggenheim Fellowship and an award from the American Academy of Arts &
       Letters. They live in New York and Marfa, TX.
-date: 2020-10-28 13:00:00 -0500
-end_date: 2020-10-28 13:00:00 -0500
+date: 2020-10-28T13:00:00-0500
+end_date: 2020-10-28T13:00:00-0500
 series: 161
 collections:
   - the-new-social-environment

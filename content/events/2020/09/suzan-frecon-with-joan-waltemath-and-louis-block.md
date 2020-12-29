@@ -45,8 +45,8 @@ poets:
       She has published 6 collections of poetry and is a contributing editor to
       Tears in the Fence and Osiris. She’s completing a book length poem,
       "Legend of the Winter Trip" and learning to play the Celtic harp.
-date: 2020-09-29 13:00:00 -0500
-end_date: 2020-09-29 14:00:00 -0500
+date: 2020-09-29T13:00:00-0500
+end_date: 2020-09-29T14:00:00-0500
 series: 140
 collections:
   - the-new-social-environment

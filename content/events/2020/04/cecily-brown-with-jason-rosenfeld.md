@@ -2,8 +2,8 @@
 title: Cecily Brown with Jason Rosenfeld
 summary: Painter Cecily Brown and writer Jason Rosenfeld discuss creative life
   in the context of our new social reality.
-date: 2020-04-01 13:00:00 -0500
-end_date: 2020-04-01 14:00:00 -0500
+date: 2020-04-01T13:00:00-0500
+end_date: 2020-04-01T14:00:00-0500
 series: 12
 collections:
   - the-new-social-environment

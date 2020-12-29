@@ -77,8 +77,8 @@ poets:
     related_links:
       - url: https://www.isjones.com/
         text: Website
-date: 2020-10-08 13:00:00 -0500
-end_date: 2020-10-08 14:30:00 -0500
+date: 2020-10-08T13:00:00-0500
+end_date: 2020-10-08T14:30:00-0500
 collections:
   - common-ground
 event_organizer:

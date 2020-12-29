@@ -2,8 +2,8 @@
 title: "Holiday Screening: Toni Morrison"
 summary: "Join us for a screening of Toni Morrison: The Pieces I Am courtesy of
   Timothy Greenfield-Sanders and Magnolia Pictures. "
-date: 2020-12-25 10:00:00 -0500
-end_date: 2020-12-25 18:00:00 -0500
+date: 2020-12-25T10:00:00-0500
+end_date: 2020-12-25T18:00:00-0500
 series: 203
 collections:
   - the-new-social-environment

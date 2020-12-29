@@ -2,8 +2,8 @@
 title: Dorothea Rockburne with Phyllis Tuchman
 summary: Artist Dorothea Rockburne and writer, curator Phyllis Tuchman discuss
   creative life in the context of our new social reality.
-date: 2020-04-28 13:00:00 -0500
-end_date: 2020-04-28 14:00:00 -0500
+date: 2020-04-28T13:00:00-0500
+end_date: 2020-04-28T14:00:00-0500
 series: 31
 collections:
   - the-new-social-environment

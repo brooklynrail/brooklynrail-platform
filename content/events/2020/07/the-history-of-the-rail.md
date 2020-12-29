@@ -34,8 +34,8 @@ poets:
       forthcoming in 2021. She directed The Poetry Project at St. Mark's from
       2007-2018 and most recently, was the recipient of a 2019 FCA grant in
       poetry and Visiting Hugo Writer at the University of Montana 2018-19.
-date: 2020-08-03 13:00:00 -0500
-end_date: 2020-08-03 14:00:00 -0500
+date: 2020-08-03T13:00:00-0500
+end_date: 2020-08-03T14:00:00-0500
 series: 99
 collections:
   - the-new-social-environment

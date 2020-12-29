@@ -49,8 +49,8 @@ poets:
       Patricia Spears Jones is the recipient of The Jackson Poetry Prize and has
       been a culture maven for four decades and was the first African American
       Program Coordinator at The Poetry Project at St. Mark’s Church.
-date: 2020-07-30 13:00:00 -0500
-end_date: 2020-07-30 14:00:00 -0500
+date: 2020-07-30T13:00:00-0500
+end_date: 2020-07-30T14:00:00-0500
 series: 97
 collections:
   - the-new-social-environment

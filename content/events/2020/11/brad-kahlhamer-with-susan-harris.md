@@ -42,8 +42,8 @@ poets:
       and holds fellowships from Kundiman, Dickinson House, and the Wisconsin
       Institute of Creative Writing. Her poems have appeared in the New Yorker,
       New Republic, Kenyon Review, POETRY, and elsewhere.
-date: 2020-11-16 13:00:00 -0500
-end_date: 2020-11-16 14:30:00 -0500
+date: 2020-11-16T13:00:00-0500
+end_date: 2020-11-16T14:30:00-0500
 series: 174
 collections:
   - the-new-social-environment

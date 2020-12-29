@@ -2,8 +2,8 @@
 title: Ali Banisadr with David Anfam
 summary: Painter Ali Banisadr and scholar David Anfam discuss creative life in
   the context of our new social reality.
-date: 2020-05-13 13:00:00 -0500
-end_date: 2020-05-13 14:00:00 -0500
+date: 2020-05-13T13:00:00-0500
+end_date: 2020-05-13T14:00:00-0500
 series: 42
 collections:
   - the-new-social-environment

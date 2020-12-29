@@ -7,8 +7,8 @@ summary: Poet and April 2020 Guest Critic Norma Cole joins the _Rail_’s
   featuring readings from Dale Martin Smith, Susan Briante, Will Alexander,
   Laura Moriarty, Farid Matuk, Susan Gevirtz, Steve Seidenberg, Erín Moure, and
   Aaron Shurin.
-date: 2020-04-29 13:00:00 -0500
-end_date: 2020-04-29 14:00:00 -0500
+date: 2020-04-29T13:00:00-0500
+end_date: 2020-04-29T14:00:00-0500
 series: 32
 collections:
   - the-new-social-environment

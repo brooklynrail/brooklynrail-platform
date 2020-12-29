@@ -63,8 +63,8 @@ poets:
       Scented Rushes, and Vile Lilt, among others. She teaches the English
       language at Pratt Institute. Her work has been translated into Hebrew,
       Dutch, Japanese, Romanian, and Burmese.
-date: 2020-08-24 13:00:00 -0500
-end_date: 2020-08-24 14:00:00 -0500
+date: 2020-08-24T13:00:00-0500
+end_date: 2020-08-24T14:00:00-0500
 series: 114
 collections:
   - the-new-social-environment

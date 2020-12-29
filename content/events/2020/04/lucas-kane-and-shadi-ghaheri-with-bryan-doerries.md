@@ -5,8 +5,8 @@ summary: Writer and director Bryan Doerries with director and choreographer
   context of our new social reality.
 event_organizer:
   - the-brooklyn-rail
-date: 2020-04-16 13:00:00 -0500
-end_date: 2020-04-16 14:00:00 -0500
+date: 2020-04-16T13:00:00-0500
+end_date: 2020-04-16T14:00:00-0500
 series: 23
 collections:
   - the-new-social-environment

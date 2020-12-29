@@ -61,8 +61,8 @@ poets:
       2016 Poetry Prize, as well as the poetry collection, Swan Feast (Bloof
       Books, 2015). She is the founding editor of The Atlas Review. She lives
       and teaches in Madison, Wisconsin.
-date: 2020-09-21 13:00:00 -0500
-end_date: 2020-09-21 14:00:00 -0500
+date: 2020-09-21T13:00:00-0500
+end_date: 2020-09-21T14:00:00-0500
 series: 134
 collections:
   - the-new-social-environment

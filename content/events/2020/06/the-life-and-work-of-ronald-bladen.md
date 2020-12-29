@@ -3,8 +3,8 @@ title: The Life and Work of Ronald Bladen
 deck: ""
 summary: A live conversation and panel discussion on the life and work of
   sculptor Ronald Bladen.
-date: 2020-06-12 13:00:00 -0500
-end_date: 2020-06-12 14:00:00 -0500
+date: 2020-06-12T13:00:00-0500
+end_date: 2020-06-12T14:00:00-0500
 series: 64
 collections:
   - the-new-social-environment

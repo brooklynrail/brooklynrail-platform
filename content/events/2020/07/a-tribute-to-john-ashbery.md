@@ -86,8 +86,8 @@ people:
       and Traffic & Weather (Futurepoem), written during a residency at the
       Lower Manhattan Cultural Council. She is currently working on a new
       collection forthcoming from Black Square Editions.
-date: 2020-07-28 13:00:00 -0500
-end_date: 2020-07-28 14:00:00 -0500
+date: 2020-07-28T13:00:00-0500
+end_date: 2020-07-28T14:00:00-0500
 series: 95
 collections:
   - the-new-social-environment

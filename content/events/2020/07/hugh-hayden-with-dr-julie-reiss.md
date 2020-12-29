@@ -33,8 +33,8 @@ poets:
     related_links:
       - text: A Perfect Vacuum
         url: https://www.aperfectvacuum.club
-date: 2020-08-04 13:00:00 -0500
-end_date: 2020-08-04 14:00:00 -0500
+date: 2020-08-04T13:00:00-0500
+end_date: 2020-08-04T14:00:00-0500
 series: 100
 collections:
   - the-new-social-environment

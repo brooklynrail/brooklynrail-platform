@@ -50,8 +50,8 @@ poets:
         text: You Will Be Made of Stone
       - url: https://poeticslist.chicagoschoolofpoetics.com/2019/11/new-from-aboveground-press-autobiographical-ecology-by-isabel-sobral-campos/
         text: Autobiographical Ecology
-date: 2020-11-23 13:00:00 -0500
-end_date: 2020-11-23 14:00:00 -0500
+date: 2020-11-23T13:00:00-0500
+end_date: 2020-11-23T14:00:00-0500
 series: 179
 collections:
   - the-new-social-environment

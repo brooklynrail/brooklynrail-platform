@@ -33,8 +33,8 @@ poets:
       artist as well as an independent curator, artistic director, and producer.
       Among many other awards, Diggs most recently received a 2020 C.D. Wright
       Award for Poetry from the Foundation of Contemporary Art.
-date: 2020-08-28 13:00:00 -0500
-end_date: 2020-08-28 14:00:00 -0500
+date: 2020-08-28T13:00:00-0500
+end_date: 2020-08-28T14:00:00-0500
 series: 118
 collections:
   - the-new-social-environment

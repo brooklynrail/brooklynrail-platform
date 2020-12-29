@@ -49,8 +49,8 @@ people:
       Berkeley, the Headlands Center for the Arts, and the Lannan Foundation.
       Matuk’s book-arts collaboration with Colombian artist Nancy
       Friedemann-Sánchez is forthcoming in 2021 from Singing Saw Press.
-date: 2020-12-09 13:00:00 -0500
-end_date: 2020-12-09 14:00:00 -0500
+date: 2020-12-09T13:00:00-0500
+end_date: 2020-12-09T14:00:00-0500
 series: 191
 collections:
   - the-new-social-environment

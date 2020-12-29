@@ -2,8 +2,8 @@
 title: Hettie Jones with Bob Holman
 summary: Poet Hettie Jones and _Rail_ contributor Bob Holman discuss creative
   life in the context of our new social reality.
-date: 2020-04-17 13:00:00 -0500
-end_date: 2020-04-17 14:00:00 -0500
+date: 2020-04-17T13:00:00-0500
+end_date: 2020-04-17T14:00:00-0500
 series: 24
 collections:
   - the-new-social-environment

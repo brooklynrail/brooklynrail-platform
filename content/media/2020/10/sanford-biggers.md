@@ -5,5 +5,5 @@ alt: Sanford Biggers
 caption: Photo by Tawnie Bannister
 credit:
   - tawnie-bannister
-date: 2020-10-06 14:39:00 -0500
+date: 2020-10-06T14:39:00-0500
 ---

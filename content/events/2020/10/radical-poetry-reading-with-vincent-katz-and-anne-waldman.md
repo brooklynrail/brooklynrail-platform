@@ -79,8 +79,8 @@ people:
       intern at ArtLab, an art-in-residency and social advocacy program for
       adolescents in the Denver metro area. Patrick lives in Denver, Colorado,
       and attends the CUBE School.
-date: 2020-10-07 13:00:00 -0500
-end_date: 2020-10-07 14:00:00 -0500
+date: 2020-10-07T13:00:00-0500
+end_date: 2020-10-07T14:00:00-0500
 series: 146
 collections:
   - the-new-social-environment

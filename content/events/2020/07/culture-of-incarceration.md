@@ -96,8 +96,8 @@ people:
       exhibitions such as Restoring a Masterpiece: Frank Lloyd Wright‘s
       Guggenheim Museum and Zaha Hadid, a 30-year retrospective of the acclaimed
       architect who designed the MSU Broad. "
-date: 2020-07-23 13:00:00 -0500
-end_date: 2020-07-23 14:00:00 -0500
+date: 2020-07-23T13:00:00-0500
+end_date: 2020-07-23T14:00:00-0500
 series: 92
 collections:
   - the-new-social-environment

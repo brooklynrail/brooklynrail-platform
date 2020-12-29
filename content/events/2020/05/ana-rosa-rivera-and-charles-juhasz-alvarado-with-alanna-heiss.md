@@ -3,8 +3,8 @@ title: Ana Rosa Rivera and Charles Juhasz-Alvarado with Alanna Heiss
 summary: "Artists Ana Rosa Rivera and Charles Juhasz-Alvarado, with Alanna Heiss
   of the alternative spaces movement and PS1, discuss creative life in the
   context of our new social reality., "
-date: 2020-05-28 13:00:00 -0500
-end_date: 2020-05-28 14:00:00 -0500
+date: 2020-05-28T13:00:00-0500
+end_date: 2020-05-28T14:00:00-0500
 series: 53
 collections:
   - the-new-social-environment

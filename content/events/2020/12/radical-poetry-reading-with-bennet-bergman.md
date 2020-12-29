@@ -30,8 +30,8 @@ people:
       chapbook Chromosomory (2010) and the full-length collection Whereas
       (2017), which won the National Books Critics Circle award and was a
       finalist for the National Book Award.
-date: 2021-01-06 13:00:00 -0500
-end_date: 2021-01-06 14:00:00 -0500
+date: 2021-01-06T13:00:00-0500
+end_date: 2021-01-06T14:00:00-0500
 series: 206
 collections:
   - the-new-social-environment

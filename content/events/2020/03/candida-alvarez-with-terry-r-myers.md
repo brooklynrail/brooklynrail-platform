@@ -2,8 +2,8 @@
 title: Candida Alvarez with Terry R. Myers
 summary: Painter Candida Alvarez and critic Terry R. Myers discuss creative life
   in the context of our new social reality.
-date: 2020-03-24 13:00:00 -0500
-end_date: 2020-03-24 14:00:00 -0500
+date: 2020-03-24T13:00:00-0500
+end_date: 2020-03-24T14:00:00-0500
 series: 6
 collections:
   - the-new-social-environment

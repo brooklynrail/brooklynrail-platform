@@ -61,8 +61,8 @@ people:
       Gallery of Art, Washington D.C.; Baltimore Art Museum; Institut Valenciá
       d’Art Modern, Valencia; Museo Reina Sofía, Madrid; and others. The artist
       lives and works between Spain and New York."
-date: 2020-11-12 13:00:00 -0500
-end_date: 2020-11-12 14:30:00 -0500
+date: 2020-11-12T13:00:00-0500
+end_date: 2020-11-12T14:30:00-0500
 collections:
   - common-ground
 event_organizer:

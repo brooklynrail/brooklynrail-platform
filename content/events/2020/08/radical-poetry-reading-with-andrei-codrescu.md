@@ -84,8 +84,8 @@ people:
       “open field investigator” of consciousness, committed to the possibilities
       of radical shifts of language and states of mind to create new modal
       structures and montages of attention. "
-date: 2020-08-26 13:00:00 -0500
-end_date: 2020-08-26 14:00:00 -0500
+date: 2020-08-26T13:00:00-0500
+end_date: 2020-08-26T14:00:00-0500
 series: 116
 collections:
   - the-new-social-environment

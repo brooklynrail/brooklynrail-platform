@@ -58,8 +58,8 @@ poets:
       collections of poems are Waiting for the Light and The Volcano and After:
       Selected and New Poems 2002-2019. She is currently the New York State Poet
       Laureate and a Chancellor of the Academy of American Poets."
-date: 2020-11-17 13:00:00 -0500
-end_date: 2020-11-17 14:30:00 -0500
+date: 2020-11-17T13:00:00-0500
+end_date: 2020-11-17T14:30:00-0500
 series: 175
 collections:
   - the-new-social-environment

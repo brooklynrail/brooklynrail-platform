@@ -47,8 +47,8 @@ poets:
       rules and procedures to write poetic criticism about literary constraint.
       He is Assistant Professor of English at Hostos Community College, CUNY,
       and writes regularly about visual art for Hyperallergic and BOMB.
-date: 2020-10-16 13:00:00 -0500
-end_date: 2020-10-16 14:00:00 -0500
+date: 2020-10-16T13:00:00-0500
+end_date: 2020-10-16T14:00:00-0500
 series: 153
 collections:
   - the-new-social-environment

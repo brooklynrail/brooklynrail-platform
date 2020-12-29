@@ -48,8 +48,8 @@ poets:
       to the hardship, traumas, and political struggle within the Boricua
       Diaspora, Isa has published in magazines and anthologies, and lead The
       Titere Poets Collective and La Cocina Workshop!
-date: 2020-09-18 13:00:00 -0500
-end_date: 2020-09-18 14:00:00 -0500
+date: 2020-09-18T13:00:00-0500
+end_date: 2020-09-18T14:00:00-0500
 series: 133
 collections:
   - the-new-social-environment

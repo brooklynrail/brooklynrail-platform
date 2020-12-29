@@ -2,8 +2,8 @@
 title: Chris Martin with Raymond Foye
 summary: Painter Chris Martin and writer and _Rail_ editor Raymond Foye discuss
   creative life in the context of our new social reality.
-date: 2020-05-25 13:00:00 -0500
-end_date: 2020-05-25 14:00:00 -0500
+date: 2020-05-25T13:00:00-0500
+end_date: 2020-05-25T14:00:00-0500
 series: 50
 collections:
   - the-new-social-environment

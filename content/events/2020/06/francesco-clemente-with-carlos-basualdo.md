@@ -2,8 +2,8 @@
 title: Francesco Clemente with Carlos Basualdo
 summary: Artist Francesco Clemente and curator Carlos Basualdo discuss creative
   life in the context of our new social reality.
-date: 2020-06-05 13:00:00 -0500
-end_date: 2020-06-05 14:00:00 -0500
+date: 2020-06-05T13:00:00-0500
+end_date: 2020-06-05T14:00:00-0500
 series: 59
 collections:
   - the-new-social-environment

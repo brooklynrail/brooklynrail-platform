@@ -5,5 +5,5 @@ alt: Pencil on paper portrait of Artist Mark Dion with off-white background by
   Rail Publisher Phong Bui.
 credit:
   - phong-h-bui
-date: 2020-05-28 18:26:00 -0500
+date: 2020-05-28T18:26:00-0500
 ---

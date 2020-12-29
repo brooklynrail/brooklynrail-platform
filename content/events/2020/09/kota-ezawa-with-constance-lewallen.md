@@ -39,8 +39,8 @@ poets:
     event_bio: Tom Kozlowski holds an MFA in Poetry from Brooklyn College where he
       also teaches as an adjunct in the English Department. His work has
       appeared in PANK and Jacket2, and he has edited The Brooklyn Review.
-date: 2020-09-28 13:00:00 -0500
-end_date: 2020-09-28 14:00:00 -0500
+date: 2020-09-28T13:00:00-0500
+end_date: 2020-09-28T14:00:00-0500
 series: 139
 collections:
   - the-new-social-environment

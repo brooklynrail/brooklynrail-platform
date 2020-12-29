@@ -5,8 +5,8 @@ deck: "Featuring Dr. Joshua Bennett, Mahogany L. Browne, Juan Felipe Herrera,
   Murray"
 summary: Actors Bill Murray and Tracie Thoms join Theater of War Productions’
   Poetry for the Pandemic Performance and Discussion
-date: 2020-11-12 19:00:00 -0500
-end_date: 2020-11-12 20:30:00 -0500
+date: 2020-11-12T19:00:00-0500
+end_date: 2020-11-12T20:30:00-0500
 collections:
   - community-listing
 event_organizer:

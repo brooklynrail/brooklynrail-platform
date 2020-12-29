@@ -45,8 +45,8 @@ poets:
         url: https://www.thedailybeast.com/author/drew-pham
       - url: http://columbiajournal.org/author/drew-pham/
         text: Columbia Journal
-date: 2020-12-07 13:00:00 -0500
-end_date: 2020-12-07 14:30:00 -0500
+date: 2020-12-07T13:00:00-0500
+end_date: 2020-12-07T14:30:00-0500
 series: 189
 collections:
   - the-new-social-environment

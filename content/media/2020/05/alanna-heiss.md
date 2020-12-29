@@ -6,5 +6,5 @@ alt: This is a pencil drawn portrait of the Director of Clocktower Productions,
   Phong Bui.
 credit:
   - phong-h-bui
-date: 2020-05-28 17:49:00 -0500
+date: 2020-05-28T17:49:00-0500
 ---

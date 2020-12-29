@@ -2,8 +2,8 @@
 title: Anne Waldman with Kyle Dacuyan
 summary: Poet Anne Waldman with poet Kyle Dacuyan discuss creative life in the
   context of our new social reality.
-date: 2020-05-12 13:00:00 -0500
-end_date: 2020-05-12 14:00:00 -0500
+date: 2020-05-12T13:00:00-0500
+end_date: 2020-05-12T14:00:00-0500
 series: 41
 collections:
   - the-new-social-environment

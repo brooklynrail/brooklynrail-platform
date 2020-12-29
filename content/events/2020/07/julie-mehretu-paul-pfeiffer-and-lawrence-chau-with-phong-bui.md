@@ -3,8 +3,8 @@ title: Julie Mehretu, Paul Pfeiffer, and Lawrence Chua with Phong Bui
 summary: Julie Mehretu, Paul Pfeiffer, and Lawrence Chua will discuss their work
   and the ongoing programs of Denniston Hill with Rail publisher, Phong Bui.
   We'll conclude with a poetry reading from Vanessa Jimenez Gabb.
-date: 2020-07-06 13:00:00 -0500
-end_date: 2020-07-06 14:00:00 -0500
+date: 2020-07-06T13:00:00-0500
+end_date: 2020-07-06T14:00:00-0500
 series: 79
 collections:
   - the-new-social-environment

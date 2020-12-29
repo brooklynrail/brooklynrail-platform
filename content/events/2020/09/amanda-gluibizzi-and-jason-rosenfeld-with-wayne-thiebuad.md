@@ -48,8 +48,8 @@ poets:
     related_links:
       - text: I Want Something Other than Time (Ugly Duckling Presse, October 2021)
         url: https://uglyducklingpresse.org/contributors/lewis-freedman/
-date: 2020-09-15 13:00:00 -0500
-end_date: 2020-09-15 14:00:00 -0500
+date: 2020-09-15T13:00:00-0500
+end_date: 2020-09-15T14:00:00-0500
 series: 130
 collections:
   - the-new-social-environment

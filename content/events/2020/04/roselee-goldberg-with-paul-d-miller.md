@@ -12,8 +12,8 @@ event_organizer:
 youtube_id: ONyakzC0VbQ
 youtube_playlist_id:
   - the-new-social-environment
-date: 2020-04-06 13:00:00 -0500
-end_date: 2020-04-06 14:00:00 -0500
+date: 2020-04-06T13:00:00-0500
+end_date: 2020-04-06T14:00:00-0500
 series: 15
 event_platform:
   - zoom

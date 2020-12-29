@@ -2,8 +2,8 @@
 title: Lauren Bon with Phong Bui
 summary: Artist **Lauren Bon** with **Phong Bui**, Publisher of the Brooklyn
   Rail discuss creative life in the context of our new social reality.
-date: 2020-04-22 13:00:00 -0500
-end_date: 2020-04-22 14:00:00 -0500
+date: 2020-04-22T13:00:00-0500
+end_date: 2020-04-22T14:00:00-0500
 series: 27
 collections:
   - the-new-social-environment

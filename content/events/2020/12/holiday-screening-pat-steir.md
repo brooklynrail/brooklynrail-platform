@@ -2,8 +2,8 @@
 title: "Holiday Screening: Pat Steir"
 summary: "Join us for a screening of Pat Steir: Artist courtesy of Veronica
   Gonzalez Peña and Rockypoint Productions. "
-date: 2020-12-24 10:00:00 -0500
-end_date: 2020-12-24 18:00:00 -0500
+date: 2020-12-24T10:00:00-0500
+end_date: 2020-12-24T18:00:00-0500
 series: 202
 collections:
   - the-new-social-environment

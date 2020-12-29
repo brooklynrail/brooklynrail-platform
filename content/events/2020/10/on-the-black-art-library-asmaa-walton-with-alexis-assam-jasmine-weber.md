@@ -47,8 +47,8 @@ poets:
     event_bio: Karisma Price is a Cave Canem fellow. Born and raised in New Orleans,
       Louisiana, she is currently a visiting assistant professor at Tulane
       University.
-date: 2020-11-05 13:00:00 -0500
-end_date: 2020-11-05 14:30:00 -0500
+date: 2020-11-05T13:00:00-0500
+end_date: 2020-11-05T14:30:00-0500
 collections:
   - common-ground
 event_sponsor:

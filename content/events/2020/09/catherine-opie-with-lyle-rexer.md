@@ -38,8 +38,8 @@ poets:
       of Shorty Bon Bon, Smoking Lovely, and Where a Nickel Costs a Dime. He is
       a Lucas Arts Literary Fellow, a core faculty member at VONA/Voices of our
       Nation Writing Workshop, and teaches at Phillips Exeter Academy.
-date: 2020-09-11 13:00:00 -0500
-end_date: 2020-09-11 14:00:00 -0500
+date: 2020-09-11T13:00:00-0500
+end_date: 2020-09-11T14:00:00-0500
 series: 128
 collections:
   - the-new-social-environment

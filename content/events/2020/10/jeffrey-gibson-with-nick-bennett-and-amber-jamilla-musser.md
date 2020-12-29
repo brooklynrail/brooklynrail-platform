@@ -36,8 +36,8 @@ poets:
       many others. She's been published in and edited many magazines and
       anthologies. She lives in NYC with a cat (Lefty) and a husband (Johnny
       Stanton), studies Norwegian, and trains in karate. "
-date: 2020-10-12 13:00:00 -0500
-end_date: 2020-10-12 14:00:00 -0500
+date: 2020-10-12T13:00:00-0500
+end_date: 2020-10-12T14:00:00-0500
 series: 149
 collections:
   - the-new-social-environment

@@ -39,8 +39,8 @@ poets:
       Replicants, Animals of Dawn, and the essays “Questions of Accent” among
       others. He is presently writing the poem Camels and Weasels and preparing
       a book of English translations of the Turkish poet Sami Baydar."
-date: 2020-08-07 13:00:00 -0500
-end_date: 2020-08-07 14:00:00 -0500
+date: 2020-08-07T13:00:00-0500
+end_date: 2020-08-07T14:00:00-0500
 series: 103
 collections:
   - the-new-social-environment

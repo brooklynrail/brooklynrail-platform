@@ -2,8 +2,8 @@
 title: Chester Higgins with Phong Bui
 summary: Photographer Chester Higgins will discuss their work in the context of
   our new social reality with Phong Bui, publisher of the Brooklyn Rail.
-date: 2020-06-18 13:00:00 -0500
-end_date: 2020-06-18 14:00:00 -0500
+date: 2020-06-18T13:00:00-0500
+end_date: 2020-06-18T14:00:00-0500
 series: 68
 collections:
   - the-new-social-environment

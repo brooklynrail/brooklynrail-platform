@@ -39,8 +39,8 @@ poets:
         url: https://brooklynrail.org/contributor/mirene-arsanios
       - url: http://www.makhzin.org
         text: Makhzin
-date: 2020-12-22 09:00:00 -0500
-end_date: 2020-12-22 10:30:00 -0500
+date: 2020-12-22T09:00:00-0500
+end_date: 2020-12-22T10:30:00-0500
 series: 200
 collections:
   - the-new-social-environment

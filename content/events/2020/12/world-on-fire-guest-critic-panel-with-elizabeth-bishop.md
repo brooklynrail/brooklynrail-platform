@@ -36,8 +36,8 @@ people:
       2020)
   - person: nick-bennett
     event_bio: Nick Bennett is the Special Projects Editor at the Brooklyn Rail.
-date: 2020-12-10 13:00:00 -0500
-end_date: 2020-12-10 14:30:00 -0500
+date: 2020-12-10T13:00:00-0500
+end_date: 2020-12-10T14:30:00-0500
 collections:
   - common-ground
 event_organizer:

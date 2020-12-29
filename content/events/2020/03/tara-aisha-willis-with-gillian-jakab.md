@@ -2,8 +2,8 @@
 title: Tara Aisha Willis with Gillian Jakab
 summary: Dancer Tara Aisha Willis and the *Rail*'s Dance editor Gillian Jakab
   discuss creative life in the context of our new social reality.
-date: 2020-03-31 13:00:00 -0500
-end_date: 2020-03-31 14:00:00 -0500
+date: 2020-03-31T13:00:00-0500
+end_date: 2020-03-31T14:00:00-0500
 series: 11
 collections:
   - the-new-social-environment

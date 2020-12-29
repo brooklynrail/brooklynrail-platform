@@ -42,8 +42,8 @@ poets:
         text: "No Wait. Yep. Definitely Still Hate Myself "
       - url: http://counterpathpress.org/holocaust-museumrobert-fitterman
         text: Holocaust Museum
-date: 2020-12-21 13:00:00 -0500
-end_date: 2020-12-21 14:30:00 -0500
+date: 2020-12-21T13:00:00-0500
+end_date: 2020-12-21T14:30:00-0500
 series: 199
 collections:
   - the-new-social-environment

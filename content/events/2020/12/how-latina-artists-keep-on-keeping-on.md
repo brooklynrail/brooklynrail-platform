@@ -70,8 +70,8 @@ poets:
         text: RoseSunWater
       - url: https://nightboat.org/book/black-lavender-milk/
         text: Black Lavender Milk
-date: 2020-12-17 13:00:00 -0500
-end_date: 2020-12-17 14:30:00 -0500
+date: 2020-12-17T13:00:00-0500
+end_date: 2020-12-17T14:30:00-0500
 collections:
   - common-ground
 event_organizer:

@@ -79,8 +79,8 @@ people:
       Galerie du Jour in Paris. In 2012 Northover co-curated the landmark
       exhibition of work by Mekas at the Serpentine Gallery in London alongside
       Hans-Ulrich Obrist.
-date: 2020-12-08 13:00:00 -0500
-end_date: 2020-12-08 14:30:00 -0500
+date: 2020-12-08T13:00:00-0500
+end_date: 2020-12-08T14:30:00-0500
 series: 190
 collections:
   - the-new-social-environment

@@ -46,8 +46,8 @@ poets:
     related_links:
       - text: For a full list of Allison's publication, visit her website
         url: http://allisonhedgecoke.com
-date: 2020-12-04 13:00:00 -0500
-end_date: 2020-12-04 14:30:00 -0500
+date: 2020-12-04T13:00:00-0500
+end_date: 2020-12-04T14:30:00-0500
 series: 188
 collections:
   - the-new-social-environment

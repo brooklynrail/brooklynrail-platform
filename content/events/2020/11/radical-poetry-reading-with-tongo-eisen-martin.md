@@ -43,8 +43,8 @@ people:
       State’s Creative Writing program, she strives to be forever in school.
       Meilani bridges worlds with her words and will one day build a fort out of
       books written by Black people. "
-date: 2020-11-25 13:00:00 -0500
-end_date: 2020-11-25 14:00:00 -0500
+date: 2020-11-25T13:00:00-0500
+end_date: 2020-11-25T14:00:00-0500
 series: 181
 collections:
   - the-new-social-environment

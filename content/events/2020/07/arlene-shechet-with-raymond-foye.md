@@ -35,8 +35,8 @@ poets:
       Jubilat, among others. The Juilliard School of Drama commissioned and
       produced his The Serpent and the Dove. He has recorded his poetry on ESPN
       and RCA Records.
-date: 2020-07-13 13:00:00 -0500
-end_date: 2020-07-13 14:00:00 -0500
+date: 2020-07-13T13:00:00-0500
+end_date: 2020-07-13T14:00:00-0500
 series: 84
 collections:
   - the-new-social-environment

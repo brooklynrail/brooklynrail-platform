@@ -50,8 +50,8 @@ poets:
       Magazine, and Brand-New-Life, among others. Coco has performed at Haus der
       Kulturen der Welt, MoMA PS1, American Medium, Printed Matter, and other
       venues in Berlin and NYC. She is the author of Say It With Flowers.
-date: 2020-12-18 13:00:00 -0500
-end_date: 2020-12-18 14:30:00 -0500
+date: 2020-12-18T13:00:00-0500
+end_date: 2020-12-18T14:30:00-0500
 series: 198
 collections:
   - the-new-social-environment

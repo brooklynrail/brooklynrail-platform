@@ -30,8 +30,8 @@ people:
       Grove, Hudson and Catskill, New York). He has contributed the lead text
       for a Phaidon monograph on Cecily Brown that will be published in November
       2020. He is a Senior Writer and Editor-at-Large for the Brooklyn Rail."
-date: 2021-01-04 13:00:00 -0500
-end_date: 2021-01-04 14:30:00 -0500
+date: 2021-01-04T13:00:00-0500
+end_date: 2021-01-04T14:30:00-0500
 series: 204
 collections:
   - the-new-social-environment

@@ -37,8 +37,8 @@ poets:
         url: http://www.belladonnaseries.org/chaplets/
       - text: Sonnet Infinitesimal / Material Girl
         url: https://bwr.ua.edu/archives-sonnet-infiniteismal-n3-material-girl-n8-aristilde-kirby/
-date: 2021-01-08 13:00:00 -0500
-end_date: 2021-01-08 14:30:00 -0500
+date: 2021-01-08T13:00:00-0500
+end_date: 2021-01-08T14:30:00-0500
 series: 208
 collections:
   - the-new-social-environment

@@ -5,5 +5,5 @@ alt: A drawing of Ursula Von Rydingsvard by Phong Bui
 caption: A drawing of Ursula Von Rydingsvard
 credit:
   - phong-h-bui
-date: 2020-06-08 17:34:00 -0500
+date: 2020-06-08T17:34:00-0500
 ---

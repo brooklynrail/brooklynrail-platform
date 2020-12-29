@@ -124,8 +124,8 @@ poets:
       of his poems, is due to be published by Station Hill Press. He has just
       finished Transcience, a book with some new poems and the bulk of
       translations Vyt has done over the past 50 years.
-date: 2020-12-11 13:00:00 -0500
-end_date: 2020-12-11 14:30:00 -0500
+date: 2020-12-11T13:00:00-0500
+end_date: 2020-12-11T14:30:00-0500
 series: 193
 collections:
   - the-new-social-environment

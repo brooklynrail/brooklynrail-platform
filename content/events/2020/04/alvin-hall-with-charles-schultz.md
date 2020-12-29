@@ -5,8 +5,8 @@ event_organizer:
   - the-brooklyn-rail
 
 title: Alvin Hall with Charles Schultz
-date: 2020-04-15 13:00:00 -0500
-end_date: 2020-04-15 14:00:00 -0500
+date: 2020-04-15T13:00:00-0500
+end_date: 2020-04-15T14:00:00-0500
 series: 22
 collections:
   - the-new-social-environment

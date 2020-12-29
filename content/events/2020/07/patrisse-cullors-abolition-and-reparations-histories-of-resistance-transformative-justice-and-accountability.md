@@ -5,8 +5,8 @@ summary: 'Join Metabolic Studio for a time to read up on abolitionist futures
   while crafting together, followed by time for conversation. This week, we’ll
   be reading "Abolition and Reparations: Histories of Resistance, Transformative
   Justice, and Accountability" by Patrisse Cullors.'
-date: 2020-07-24 20:30:00 -0500
-end_date: 2020-07-24 22:00:00 -0500
+date: 2020-07-24T20:30:00-0500
+end_date: 2020-07-24T22:00:00-0500
 collections:
   - abolitionist-reading-native-plant-embroidery
 event_organizer:

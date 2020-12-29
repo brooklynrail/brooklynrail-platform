@@ -2,8 +2,8 @@
 title: Lynn Crawford with Barry Schwabsky
 summary: Fiction writer and art critic Lynn Crawford and art critic Barry
   Schwabsky discuss creative life in the context of our new social reality.
-date: 2020-06-04 13:00:00 -0500
-end_date: 2020-06-04 14:00:00 -0500
+date: 2020-06-04T13:00:00-0500
+end_date: 2020-06-04T14:00:00-0500
 series: 58
 collections:
   - the-new-social-environment

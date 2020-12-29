@@ -2,8 +2,8 @@
 title: Writer Mahogany L. Browne and poet Bob Holman
 summary: Writer Mahogany L. Browne and poet Bob Holman discuss creative life in
   the context of our new social reality.
-date: 2020-05-26 13:00:00 -0500
-end_date: 2020-05-26 14:00:00 -0500
+date: 2020-05-26T13:00:00-0500
+end_date: 2020-05-26T14:00:00-0500
 series: 51
 collections:
   - the-new-social-environment

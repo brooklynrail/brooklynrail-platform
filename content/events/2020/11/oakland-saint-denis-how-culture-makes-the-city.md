@@ -76,8 +76,8 @@ poets:
       and is the author of the poetry collections This Isa Nice Neighborhood
       (Letter Machine Editions, 2010) and The Real Horse (University of Arizona
       Press, 2018).
-date: 2020-12-03 13:00:00 -0500
-end_date: 2020-12-03 14:30:00 -0500
+date: 2020-12-03T13:00:00-0500
+end_date: 2020-12-03T14:30:00-0500
 collections:
   - common-ground
 event_organizer:
