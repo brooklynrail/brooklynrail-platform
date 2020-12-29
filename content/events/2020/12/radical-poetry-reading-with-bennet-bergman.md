@@ -10,17 +10,17 @@ people:
     event_bio: Bennet Bergman is writer in New York. He’s also the founding editor
       of Changes, a new nonprofit book publisher.
   - person: mayra-a-rodriguez-castro
-    event_bio: "Mayra A. Rodríguez Castro is a poet and translator. Rodríguez is the
-      editor of Dream of Europe: Selected Seminars and Interviews (Kenning
-      Editions, 2020). Her translations include the Pornomiseria Manifesto by
-      Luis Ospina and Carlos Mayolo (2017) and Ecogenoethnocide by Santiago
-      Arboleda Quiñonez (2018)."
-  - person: shiv-kotecha
     event_bio: >
-      Shiv Kotecha is the author of The Switch (Wonder, 2018) and EXTRIGUE (Make
-      Now, 2015). He writes about art, film, and literature for frieze, where he
-      is a contributing editor. He’s written elsewhere on the internet, holds a
-      PhD in English from New York University, where he now  teaches poetry. 
+      Mayra A. Rodríguez Castro is a writer and translator. Rodríguez is the
+      editor of Audre Lorde: Dream of Europe – Selected seminars and interviews:
+      1984-1992 (Kenning Editions, 2020). Her writing and contributions appear
+      in Social Text Journal, The Poetry Project Newsletter, South As a State of
+      Mind among others.
+  - person: shiv-kotecha
+    event_bio: "Shiv Kotecha is the author of The Switch (Wonder) and EXTRIGUE (Make
+      Now Books). He writes regularly for frieze magazine. He holds a PhD in
+      English from New York University and teaches a poetry seminar for NYU’s
+      XE: Experimental Humanities & Social Engagement Master's program. "
   - person: benjamin-krusling
     event_bio: Benjamin Krusling is a poet and artist working in sound and video.
       His first book Glaring is out now from Wendy's Subway.
