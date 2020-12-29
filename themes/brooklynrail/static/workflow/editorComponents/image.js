@@ -24,7 +24,7 @@ CMS.registerEditorComponent({
   ],
 
   // Pattern to identify a block as being an instance of this component
-  pattern: /^{{< image media=\"(\S+)\" size=\"(\S+)\" >}}/,
+  pattern: /{{< image media=\"(\S+)\" size=\"(\S+)\" >}}/,
 
   // Function to extract data elements from the regexp match
   fromBlock: function(match) {
