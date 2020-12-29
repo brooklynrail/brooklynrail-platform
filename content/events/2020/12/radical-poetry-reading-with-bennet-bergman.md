@@ -10,11 +10,12 @@ people:
     event_bio: Bennet Bergman is writer in New York. He’s also the founding editor
       of Changes, a new nonprofit book publisher.
   - person: mayra-a-rodriguez-castro
-    event_bio: "Mayra A. Rodríguez Castro is a poet and translator. Rodríguez is the
-      editor of Dream of Europe: Selected Seminars and Interviews (Kenning
-      Editions, 2020). Her translations include the Pornomiseria Manifesto by
-      Luis Ospina and Carlos Mayolo (2017) and Ecogenoethnocide by Santiago
-      Arboleda Quiñonez (2018)."
+    event_bio: >
+      Mayra A. Rodríguez Castro is a writer and translator. Rodríguez is the
+      editor of Audre Lorde: Dream of Europe – Selected seminars and interviews:
+      1984-1992 (Kenning Editions, 2020). Her writing and contributions appear
+      in Social Text Journal, The Poetry Project Newsletter, South As a State of
+      Mind among others.
   - person: shiv-kotecha
     event_bio: >
       Shiv Kotecha is the author of The Switch (Wonder, 2018) and EXTRIGUE (Make
