@@ -99,7 +99,7 @@ collections:
       - label: "Event Copy"
         name: "body"
         widget: "markdown"
-        editorComponents: ["image"]
+        editor_components: ["image"]
         required: false
 
       - label: "People"
@@ -111,9 +111,9 @@ collections:
             name: 'person'
             widget: 'relation'
             collection: "people"
-            searchFields: ["name"]
-            valueField: "{{slug}}"
-            displayFields: ["{{name}}"]
+            search_fields: ["name"]
+            value_field: "{{slug}}"
+            display_fields: ["{{name}}"]
             hint: "Choose a person"
           - label: 'Event Specific Bio'
             name: 'event_bio'
@@ -144,9 +144,9 @@ collections:
             name: 'person'
             widget: 'relation'
             collection: "people"
-            searchFields: ["name"]
-            valueField: "{{slug}}"
-            displayFields: ["{{name}}"]
+            search_fields: ["name"]
+            value_field: "{{slug}}"
+            display_fields: ["{{name}}"]
             hint: "Choose a person. Add new people in 'People'"
           - label: 'Event Specific Bio'
             name: 'event_bio'
@@ -173,23 +173,23 @@ collections:
       - label: "Start time"
         name: "date"
         widget: "datetime"
-        dateFormat: "YYYY-MM-DD" # e.g. 2021-11.23
-        timeFormat: "HH:mm" # e.g. 21:00
-        format: "YYYY-MM-DD HH:mm:00 -0500"
+        date_format: "YYYY-MM-DD" # e.g. 2021-11.23
+        time_format: "HH:mm" # e.g. 21:00
+        format: "YYYY-MM-DDTHH:mm"
         hint: "The start date and time of the event (Note: uses a 24hr clock, e.g. 13:00)"
 
       - label: "End time"
         name: "end_date"
         widget: "datetime"
-        dateFormat: "YYYY-MM-DD" # e.g. 2021-11.23
-        timeFormat: "HH:mm" # e.g. 21:00
-        format: "YYYY-MM-DD HH:mm:00 -0500"
+        date_format: "YYYY-MM-DD" # e.g. 2021-11.23
+        time_format: "HH:mm" # e.g. 21:00
+        format: "YYYY-MM-DDTHH:mm"
         hint: "The end date and time of the event (Note: uses a 24hr clock, e.g. 14:00)"
 
       - label: "Series number"
         name: "series"
         widget: "number"
-        valueType: "int"
+        value_type: "int"
         required: false
 
       - label: "Collections"
@@ -197,9 +197,9 @@ collections:
         widget: "relation"
         multiple: true
         collection: "collections"
-        searchFields: ["title"]
-        valueField: "{{slug}}"
-        displayFields: ["{{title}}"]
+        search_fields: ["title"]
+        value_field: "{{slug}}"
+        display_fields: ["{{title}}"]
         default: ["the-new-social-environment"]
         hint: "The collections this event should be included in."
         required: false
@@ -209,9 +209,9 @@ collections:
         widget: "relation"
         multiple: true
         collection: "organizations"
-        searchFields: ["name", "short_desc"]
-        valueField: "{{slug}}"
-        displayFields: ["{{name}}"]
+        search_fields: ["name", "short_desc"]
+        value_field: "{{slug}}"
+        display_fields: ["{{name}}"]
         hint: "The organizations sponsoring this event. This should not be 'The Brooklyn Rail'."
         required: false
 
@@ -220,9 +220,9 @@ collections:
         widget: "relation"
         multiple: true
         collection: "organizations"
-        searchFields: ["name", "short_desc"]
-        valueField: "{{slug}}"
-        displayFields: ["{{name}}"]
+        search_fields: ["name", "short_desc"]
+        value_field: "{{slug}}"
+        display_fields: ["{{name}}"]
         default: ["the-brooklyn-rail"]
         hint: "Default 'The Brooklyn Rail', otherwise select the organizations that should be credited pulling togther the content of the talk."
         required: false
@@ -232,9 +232,9 @@ collections:
         widget: "relation"
         multiple: true
         collection: "organizations"
-        searchFields: ["name", "short_desc"]
-        valueField: "{{slug}}"
-        displayFields: ["{{name}}"]
+        search_fields: ["name", "short_desc"]
+        value_field: "{{slug}}"
+        display_fields: ["{{name}}"]
         default: ["the-brooklyn-rail"]
         hint: "Default 'The Brooklyn Rail', otherwise select the organization that should be credited with producing the event."
 
@@ -320,7 +320,7 @@ collections:
       - label: "Body"
         name: "body"
         widget: "markdown"
-        editorComponents: ["image", "donate"]
+        editor_components: ["image", "donate"]
 
       - label: "Weight"
         name: "weight"
@@ -382,9 +382,9 @@ collections:
         widget: "relation"
         multiple: true
         collection: "people"
-        searchFields: ["name"]
-        valueField: "{{slug}}"
-        displayFields: ["{{name}}"]
+        search_fields: ["name"]
+        value_field: "{{slug}}"
+        display_fields: ["{{name}}"]
         hint: "This is the person who will receive credit as the author of the image."
         required: false
 
@@ -392,9 +392,9 @@ collections:
       - label: "Date"
         name: "date"
         widget: "datetime"
-        dateFormat: "YYYY-MM-DD" # e.g. 24.12.2021
-        timeFormat: "HH:mm" # e.g. 21:07
-        format: "YYYY-MM-DD HH:mm:00 -0500"
+        date_format: "YYYY-MM-DD" # e.g. 24.12.2021
+        time_format: "HH:mm" # e.g. 21:07
+        format: "YYYY-MM-DDTHH:mm:00-0500"
 
 
   # ====================================
@@ -440,9 +440,9 @@ collections:
         widget: "relation"
         multiple: true
         collection: "organizations"
-        searchFields: ["name", "short_desc"]
-        valueField: "{{slug}}"
-        displayFields: ["{{name}}"]
+        search_fields: ["name", "short_desc"]
+        value_field: "{{slug}}"
+        display_fields: ["{{name}}"]
         hint: "The organizations sponsoring this collection. This should not be 'The Brooklyn Rail'."
         required: false
 
@@ -502,10 +502,10 @@ collections:
             name: "media"
             widget: "relation"
             collection: "media"
-            searchFields: ["media", "title"]
-            valueField: "{{slug}}"
+            search_fields: ["media", "title"]
+            value_field: "{{slug}}"
             required: false
-            displayFields: ["{{title}} — {{date}}"]
+            display_fields: ["{{title}} — {{date}}"]
 
       - label: "Email"
         name: "email"
@@ -661,28 +661,28 @@ collections:
       - label: "Donation goal"
         name: "donation_goal"
         widget: "number"
-        valueType: "int"
+        value_type: "int"
         min: 1
         required: false
 
       - label: "Current donations"
         name: "donation_amt"
         widget: "number"
-        valueType: "int"
+        value_type: "int"
         min: 1
         required: false
 
       - label: "Current # of donors"
         name: "donation_count"
         widget: "number"
-        valueType: "int"
+        value_type: "int"
         min: 1
         required: false
 
       - label: "Page Copy"
         name: "body"
         widget: "markdown"
-        editorComponents: ["image", "donate"]
+        editor_components: ["image", "donate"]
 
         # ====================================
   # Special Projects
@@ -727,7 +727,7 @@ collections:
       - label: "Page Copy"
         name: "body"
         widget: "markdown"
-        editorComponents: ["image", "donate"]
+        editor_components: ["image", "donate"]
 
       - label: "Weight"
         name: "weight"
@@ -776,4 +776,4 @@ collections:
       - label: "Page Copy"
         name: "body"
         widget: "markdown"
-        editorComponents: ["image", "donate"]
+        editor_components: ["image", "donate"]
