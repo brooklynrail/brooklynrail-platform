@@ -1,7 +1,7 @@
 ---
 title: Curatorial Activism, Part 2
-summary: Featuring legendary curators Catherine De Zegher, Rosa
-  Martinez, Camille Morineau, Ann Sutherland Harris, moderated by Dr. Maura
+summary: A conversation featuring legendary curators Camille Morineau, Catherine
+  de Zegher, Rosa Martínez, Ann Sutherland Harris, moderated by Dr. Maura
   Reilly.
 people:
   - person: camille-morineau
@@ -94,6 +94,32 @@ people:
 
 
       The exhibition _Women Artists, 1550-1950_, co-curated with Linda Nochlin, shown in Los Angeles, Austin, Pittsburgh, and Brooklyn in 1976-77, helped to open up the field of women’s studies in the discipline. She has continued to write about women artists of the past and present, especially Artemisia Gentileschi and Alice Neel, as well as the artistic politics and rivalries among both male and female artists.
+  - person: maura-reilly
+    event_bio: "Dr. Maura Reilly is a curator and arts writer who has organized
+      dozens of exhibitions internationally with a specific focus on
+      marginalized artists. She has written extensively on global contemporary
+      art and curatorial practice, including, most recently _Curatorial
+      Activism: Towards an Ethics of Curating_ (Thames & Hudson, 2018), which
+      was named a “Top 10 Best Art Book of 2018” by the New York Times. Her next
+      book, _The Ethical Museum_, is forthcoming from Thames & Hudson in 2022,
+      followed by a textbook on Feminist Art, also with Thames & Hudson. Reilly
+      is the Founding Curator of the Elizabeth A. Sackler Center for Feminist
+      Art at the Brooklyn Museum, where she developed and launched the first
+      exhibition and public programming space in the USA devoted entirely to
+      feminist art. While there, she organized several landmark exhibitions,
+      including the permanent installation of Judy Chicago’s _The Dinner Party_,
+      the blockbuster _Global Feminisms_ (co-curated with Linda Nochlin), _Ghada
+      Amer: Love Had No End_, _Burning Down the House_, among others. Other
+      notable exhibitions include _Miriam Schapiro: An American Visionary_,
+      _Richard Bell: Uz v. Them_, _Nayland Blake: Behavior_, _Carolee
+      Schneemann: Painting, What It Became_, _La Mirada Iracunda (The Furious
+      Gaze)_, _Neo-Queer_, among others. She is a founding member of two
+      initiatives dedicated to fighting discrimination against women in the art
+      world – The Feminist Art Project (TFAP) and Feminist Curators United
+      (FcU). She received her M.A. and PhD in art history from the Institute of
+      Fine Arts, New York University, and is an Editor-at-Large for the
+      _Brooklyn Rail_. Dr. Reilly is an Associate Professor of Art History and
+      Museum Studies at Arizona State University."
 date: 2021-01-07T13:00:00-0500
 end_date: 2021-01-07T14:30:00-0500
 series: ""
