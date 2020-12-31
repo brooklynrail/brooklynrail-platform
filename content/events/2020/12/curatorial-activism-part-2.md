@@ -1,10 +1,9 @@
 ---
 title: Curatorial Activism, Part 2
-deck: A conversation featuring legendary feminist curators Camille Morineau,
+deck: ""
+summary: A conversation featuring legendary feminist curators Camille Morineau,
   Catherine de Zegher, Rosa Martínez, Ann Sutherland Harris, moderated by Maura
   Reilly.
-summary: Please join us for our second installment of Curatorial Activism
-  moderated by curator, arts writer, and _Rail_ Editor-at-Large Maura Reilly.
 people:
   - person: camille-morineau
     event_bio: >
@@ -163,4 +162,6 @@ registration_url: https://www.eventbrite.com/e/the-new-social-environment-207-cu
 event_platform:
   - zoom
 ---
-This will be part of an ongoing Curatorial Activism series taking place the first Thursday of each month. Stay tuned for more details!
+Please join us for our second installment of "Curatorial Activism," moderated by curator Maura Reilly, author of *Curatorial Activism: Towards an Ethics of Curating*. 
+
+This will be an ongoing "Curatorial Activism" series taking place the first Thursday of each month. Stay tuned for more details!
