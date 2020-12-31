@@ -79,6 +79,21 @@ people:
       numerous exhibition catalogues, art journals and newspapers. She is
       currently writing a book on her curatorial visions and experiences.
     related_links: []
+  - person: ann-sutherland-harris
+    event_bio: >
+      Ann Sutherland Harris’s research and teaching has embraced a wide range of
+      topics in the history of art and architecture in European late Renaissance
+      and seventeenth-century art in various media. The literature on
+      seventeenth-century Italian painters was sparse in the 1960s when she
+      began her career. She helped to reconstruct the careers of several
+      artists, including P. F. Mola and Pietro Testa, by publishing documentary
+      information, identifying both paintings and drawings by them and creating
+      a more logical chronology of their work. Her monograph on Andrea Sacchi
+      (1599-1661) is regarded as one of the best of the studies on a major
+      seicento painter published in recent years. 
+
+
+      The exhibition _Women Artists, 1550-1950_, co-curated with Linda Nochlin, shown in Los Angeles, Austin, Pittsburgh, and Brooklyn in 1976-77, helped to open up the field of women’s studies in the discipline. She has continued to write about women artists of the past and present, especially Artemisia Gentileschi and Alice Neel, as well as the artistic politics and rivalries among both male and female artists.
 date: 2021-01-07T13:00:00-0500
 end_date: 2021-01-07T14:30:00-0500
 series: ""
