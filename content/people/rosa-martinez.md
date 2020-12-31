@@ -5,4 +5,5 @@ last_name: Martínez
 short_bio: Rosa Martínez is an independent curator, writer and art collections consultant.
 portraits:
   - media: 2020/12/rosa-martinez
+website: http://www.rosamartinez.com/new/
 ---
