@@ -1,10 +1,10 @@
 ---
 title: Curatorial Activism, Part 2
-deck: A conversation featuring legendary curators Camille Morineau, Catherine de
-  Zegher, Rosa Martínez, Ann Sutherland Harris, moderated by Dr. Maura Reilly.
-summary: Please join us for our second installment of Curatorial Activism
-  moderated by curator, arts writer, and *Rail* Editor-at-Large Dr. Maura
+deck: A conversation featuring legendary feminist curators Camille Morineau,
+  Catherine de Zegher, Rosa Martínez, Ann Sutherland Harris, moderated by Maura
   Reilly.
+summary: Please join us for our second installment of Curatorial Activism
+  moderated by curator, arts writer, and _Rail_ Editor-at-Large Maura Reilly.
 people:
   - person: camille-morineau
     event_bio: >
@@ -125,20 +125,20 @@ people:
       Sutherland Harris received her PhD from the Courtauld Institute of the
       University of London. 
   - person: maura-reilly
-    event_bio: "Dr. Maura Reilly is a curator and arts writer who has organized
-      dozens of exhibitions internationally with a specific focus on
-      marginalized artists. She has written extensively on global contemporary
-      art and curatorial practice, including, most recently _Curatorial
-      Activism: Towards an Ethics of Curating_ (Thames & Hudson, 2018), which
-      was named a “Top 10 Best Art Book of 2018” by the New York Times. Her next
-      book, _The Ethical Museum_, is forthcoming from Thames & Hudson in 2022,
-      followed by a textbook on Feminist Art, also with Thames & Hudson. Reilly
-      is the Founding Curator of the Elizabeth A. Sackler Center for Feminist
-      Art at the Brooklyn Museum, where she developed and launched the first
-      exhibition and public programming space in the USA devoted entirely to
-      feminist art. While there, she organized several landmark exhibitions,
-      including the permanent installation of Judy Chicago’s _The Dinner Party_,
-      the blockbuster _Global Feminisms_ (co-curated with Linda Nochlin), _Ghada
+    event_bio: "Maura Reilly is a curator and arts writer who has organized dozens
+      of exhibitions internationally with a specific focus on marginalized
+      artists. She has written extensively on global contemporary art and
+      curatorial practice, including, most recently _Curatorial Activism:
+      Towards an Ethics of Curating_ (Thames & Hudson, 2018), which was named a
+      “Top 10 Best Art Book of 2018” by the New York Times. Her next book, _The
+      Ethical Museum_, is forthcoming from Thames & Hudson in 2022, followed by
+      a textbook on Feminist Art, also with Thames & Hudson. Reilly is the
+      Founding Curator of the Elizabeth A. Sackler Center for Feminist Art at
+      the Brooklyn Museum, where she developed and launched the first exhibition
+      and public programming space in the USA devoted entirely to feminist art.
+      While there, she organized several landmark exhibitions, including the
+      permanent installation of Judy Chicago’s _The Dinner Party_, the
+      blockbuster _Global Feminisms_ (co-curated with Linda Nochlin), _Ghada
       Amer: Love Had No End_, _Burning Down the House_, among others. Other
       notable exhibitions include _Miriam Schapiro: An American Visionary_,
       _Richard Bell: Uz v. Them_, _Nayland Blake: Behavior_, _Carolee
