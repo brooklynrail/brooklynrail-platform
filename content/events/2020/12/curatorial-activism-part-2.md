@@ -133,6 +133,6 @@ registration_url: https://www.eventbrite.com/e/the-new-social-environment-207-cu
 event_platform:
   - zoom
 ---
-Please join us for our second installment of Curatorial Activism moderated by curator, arts writer, and *Rail* Editor-at-Large **Dr. Maura Reilly**. 
+Please join us for our second installment of Curatorial Activism moderated by curator, arts writer, and *Rail* Editor-at-Large Dr. Maura Reilly. 
 
 This will be part of an ongoing Curatorial Activism series taking place the first Thursday of each month. Stay tuned for more details!
