@@ -83,19 +83,47 @@ people:
     related_links: []
   - person: ann-sutherland-harris
     event_bio: >
-      Ann Sutherland Harris’s research and teaching has embraced a wide range of
-      topics in the history of art and architecture in European late Renaissance
-      and seventeenth-century art in various media. The literature on
+      Ann Sutherland Harris, PhD, is Professor Emerita at the University of
+      Pittsburgh. Her research and teaching have embraced a wide range of topics
+      in the history of art and architecture in European late Renaissance and
+      seventeenth-century art in various media. The literature on
       seventeenth-century Italian painters was sparse in the 1960s when she
       began her career. She helped to reconstruct the careers of several
       artists, including P. F. Mola and Pietro Testa, by publishing documentary
       information, identifying both paintings and drawings by them and creating
       a more logical chronology of their work. Her monograph on Andrea Sacchi
       (1599-1661) is regarded as one of the best of the studies on a major
-      seicento painter published in recent years. 
-
-
-      The exhibition _Women Artists, 1550-1950_, co-curated with Linda Nochlin, shown in Los Angeles, Austin, Pittsburgh, and Brooklyn in 1976-77, helped to open up the field of women’s studies in the discipline. She has continued to write about women artists of the past and present, especially Artemisia Gentileschi and Alice Neel, as well as the artistic politics and rivalries among both male and female artists.
+      seicento painter published in recent years. She also specializes in
+      artists’ drawings, both their correct identification, and their function
+      in the production of both painting and sculpture, with particular emphasis
+      on the drawings of Gian Lorenzo Bernini. She has identified and published
+      drawings by Michelangelo, Bernini, Nicolas Poussin, Claude Lorrain, and
+      many less well-known artists. She has also been interested in the
+      education of artists, including the role of academies and artists’ levels
+      of literacy. Her book _Seventeenth-Century Art and Architecture_ (Laurence
+      King, London, 2005; 2nd ed., 2008) is used widely as a textbook on this
+      vast historical period. Dr. Sutherland Harris co-curated with Linda
+      Nochlin the groundbreaking exhibition _Women Artists, 1550-1950_, which
+      premiered at the Los Angeles County Museum in 1976 (and then traveled to
+      the University Art Museum, Austin, Texas; Carnegie Museum of Art,
+      Pittsburgh; and Brooklyn Museum, New York). The exhibition was the very
+      first exhibition at a major museum in the U.S. dedicated to women artists
+      and it helped reclaim and resurrect women artists who had long been lost
+      to history. For the exhibition, she was responsible for artists active in
+      the 16th to 18th centuries and contributed the catalogue entries for the
+      artists working before 1800, as well as an introduction that provided the
+      essential historical background for the pioneering women artists who
+      emerged in Europe in the mid-sixteenth-century. Feminist activism has
+      played a large role in Sutherland Harris’ career. In 1970, she testified
+      before the US Congress about the discrimination faced by women in higher
+      education, and then helped to establish the Women’s Caucus for Art, an
+      advocacy organization for women active as artists, art historians, and
+      museum professionals; she served as its first President (1972-74). She has
+      continually written about women artists of the past and present, including
+      Artemisia Gentileschi, Sofonisba Anguissola, Lavinia Fontana, Elisabetta
+      Sirani, Alice Neel, Elizabeth Murray, Edna Andrade, among others. Dr.
+      Sutherland Harris received her PhD from the Courtauld Institute of the
+      University of London. 
   - person: maura-reilly
     event_bio: "Dr. Maura Reilly is a curator and arts writer who has organized
       dozens of exhibitions internationally with a specific focus on
