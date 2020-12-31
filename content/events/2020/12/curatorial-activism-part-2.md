@@ -5,7 +5,7 @@ summary: Featuring legendary curators Catherine De Zegher, Rosa
   Reilly.
 date: 2021-01-07T13:00:00-0500
 end_date: 2021-01-07T14:30:00-0500
-series: 207
+series: ""
 collections:
   - common-ground
 event_organizer:
