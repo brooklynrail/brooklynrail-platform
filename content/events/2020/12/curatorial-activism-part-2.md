@@ -18,10 +18,4 @@ event_platform:
 ---
 Please join us for our second installment of Curatorial Activism moderated by curator, arts writer, and *Rail* Editor-at-Large **Dr. Maura Reilly**. 
 
-Catherine De Zegher, who has curated more exhibitions than I can count, including pavilions at the Venice Biennale
-
-Rosa Martinez, who has curated more exhibitions than I can count, including the 2005 Venice Biennale
-
-Camille Morineau, curator of Elles at Centre Pompidou, former Chief Curator there
-
-Ann Sutherland Harris - who curated the VERY FIRST feminist art exhibition in the US in 1976 - co-curated with the late Linda Nochlin.
+Panelists include **Catherine De Zegher**, curator of numerous international exhibitions including the Venice Biennale, Sydney Biennale, and was the Director of the Museum of Fine Arts in Ghent, Blegium; **Rosa Martinez**, who has served as director and curator of the Venice Biennale, São Paulo Art Biennial, and the Moscow Biennale; **Camille Morineau**, curator of the \_elles@centrepompidou\_, which exhibited exclusively female artists from the Pompidou’s collection, where she served as Senior Curator, and founder of Aware, an art historical non-profit devoted to recognizing significant women artists of the 20th century; and **Ann Sutherland Harris**, educator and co-curator of the legendary \_Women Artists: 1550-1950\_ at the Los Angeles County Museum of Art in 1976 with Linda Nochlin.
