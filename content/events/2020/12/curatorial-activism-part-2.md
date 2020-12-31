@@ -57,6 +57,28 @@ people:
       she published a sequel to _Inside the Visible_, for its 25th Anniversary,
       in a Dutch mook (magazine/book) _SeeAllThis #20_.
     person: catherine-de-zegher
+  - person: rosa-martinez
+    event_bio: Rosa Martínez is an independent curator, writer and art collections
+      consultant. She lives in Barcelona where she got her degree in Art
+      History. She was curator of several major international biennials,
+      including Istanbul, 1997; SITE Santa Fe, New Mexico, USA, 1999; Busan,
+      Korea, 2000; Sao Paulo, 2006; Moscow 2005-2007. In 2005, she was director
+      of the 51st International Art Exhibition of the Venice Biennale with the
+      exhibition _Always a Little Further_ in the Arsenale, which made her –
+      together with Maria de Corral, responsible for the Italian Pavilion – the
+      first female director of this event in its 110-year history. Always with a
+      feminist approach, she has also curated significant thematic exhibitions
+      like _Fear Nothing, She Says. When Art Reveals Mystic Truths_ (2015)
+      devoted to the legacy of Saint Teresa of Avila, for the Museo Nacional de
+      Escultura in Valladolid, Spain; _Intimacy is Political. Sex, Gender,
+      Language, Power_ (2017) for the Centro Cultural Metropolitano in Quito,
+      Ecuador, or _In the Name of the Father_ (2019) at the Picasso Museum in
+      Barcelon, Spain. From 2004-7 Martínez served as Chief Curator of the
+      Istanbul Museum of Modern Art. In addition to curating many solo and group
+      shows, she has also been a prolific lecturer and a regular contributor to
+      numerous exhibition catalogues, art journals and newspapers. She is
+      currently writing a book on her curatorial visions and experiences.
+    related_links: []
 date: 2021-01-07T13:00:00-0500
 end_date: 2021-01-07T14:30:00-0500
 series: ""
