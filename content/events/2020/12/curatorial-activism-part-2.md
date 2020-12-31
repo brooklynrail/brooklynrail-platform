@@ -26,6 +26,37 @@ people:
     related_links:
       - text: AWARE
         url: https://awarewomenartists.com/en/a_propos/
+  - event_bio: >
+      Catherine de Zegher is a Member of the Royal Academy of Belgium for
+      Science and the Arts and was the Director of the Museum of Fine Arts, Gent
+      (Belgium). In 2012, she was the Artistic Director of the 18th Biennale of
+      Sydney, Australia, and in 2013 of the 5th Moscow Biennale, Russia. She
+      curated the Australian Pavilion (Simryn Gill) at the 55th Venice Biennale
+      in 2013 and the Belgian Pavilion (Thierry De Cordier) at the 47th Venice
+      Biennale in 1997. As Guest Curator in the Department of Drawings at the
+      Museum of Modern Art, New York, she organized the large-scale exhibition
+      _On Line. Drawing Through the Twentieth Century_ (2010-2011). From
+      2007-2009, de Zegher was the Director of Exhibitions and Publications at
+      the Art Gallery of Ontario in Toronto. Previous to this position, from
+      1999-2006, she was for many years the Executive Director and Chief Curator
+      of The Drawing Center in New York. Before de Zegher took up her career in
+      North America, she was the co-founder and Director of the Kanaal Art
+      Foundation in Kortrijk, Belgium (1988-1998). De Zegher is the curator of
+      many acclaimed historical and contemporary exhibitions, such as _America:
+      Bride of the Sun. 500 Years of Latin America and the Low Countries_ (1992)
+      at the Royal Museum of Fine Art, Antwerp, and _Inside the Visible. An
+      Elliptical Traverse of Twentieth-Century Art in, of, and from the
+      Feminine_ (1994-1996) at the Institute of Contemporary Art in Boston.
+      Several of her projects and books promote the feminine principle. In the
+      last twenty years, de Zegher has received Best Show awards from AICA and
+      AAMC. Author and editor of numerous books on modern and contemporary
+      artists, one of her publications is the October Book _Women Artists at the
+      Millennium_ co-edited with Carol Armstrong (MIT Press). In 2014, de Zegher
+      published _Women’s Work Is Never Done_, an anthology of her collected
+      essays on the work of contemporary women artists. Most recently, in 2020,
+      she published a sequel to _Inside the Visible_, for its 25th Anniversary,
+      in a Dutch mook (magazine/book) _SeeAllThis #20_.
+    person: catherine-de-zegher
 date: 2021-01-07T13:00:00-0500
 end_date: 2021-01-07T14:30:00-0500
 series: ""
