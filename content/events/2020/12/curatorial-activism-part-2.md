@@ -27,6 +27,19 @@ people:
     related_links:
       - text: AWARE
         url: https://awarewomenartists.com/en/a_propos/
+  - person: daria-khan
+    event_bio: Daria Khan is a founder and curator of Mimosa House, an independent
+      non-profit gallery space in London dedicated to supporting artistic
+      experimentation and collaboration among intergenerational women and queer
+      artists. Her recent projects include exhibitions at Austrian Cultural
+      Forum, London; MAST Foundation, Bologna; the 5th Moscow Biennial, Moscow;
+      and Photographers Gallery, London. Khan was a curator in residence at
+      MuseumsQuartier, Vienna; and a participant of the EUNIC program at the
+      Palais de Tokyo, Paris. Khan graduated with an MA in Curating Contemporary
+      Art at the Royal College of Art in 2013.
+    related_links:
+      - url: https://www.mimosahouse.co.uk
+        text: Mimosa House
   - event_bio: >
       Catherine de Zegher is a Member of the Royal Academy of Belgium for
       Science and the Arts and was the Director of the Museum of Fine Arts, Gent
