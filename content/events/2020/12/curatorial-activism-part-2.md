@@ -2,8 +2,8 @@
 title: Curatorial Activism, Part 2
 deck: ""
 summary: A conversation featuring legendary feminist curators Camille Morineau,
-  Catherine de Zegher, Rosa Martínez, Ann Sutherland Harris, moderated by Maura
-  Reilly.
+  Daria Khan, Catherine de Zegher, Rosa Martínez, Ann Sutherland Harris,
+  moderated by Maura Reilly.
 people:
   - person: camille-morineau
     event_bio: >
