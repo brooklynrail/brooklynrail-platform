@@ -2,7 +2,7 @@
 title: TARWUK (Bruno Pogacnik Tremow & Ivana Vukšic) with Jason Rosenfeld
 summary: Collaborative artist duo TARWUK (Bruno Pogacnik Tremow & Ivana Vukšic)
   will be in conversation with Rail Editor-at-Large Jason Rosenfeld. We'll
-  conclude with a poetry reading.
+  conclude with a poetry reading from Daniel Borzutzky.
 people:
   - person: tarwuk-bruno-pogacnik-tremow-ivana-vuksic
     event_bio: TARWUK (Bruno Pogacnik Tremow & Ivana Vukšic) are a collaborative duo
@@ -30,6 +30,20 @@ people:
       Grove, Hudson and Catskill, New York). He has contributed the lead text
       for a Phaidon monograph on Cecily Brown that will be published in November
       2020. He is a Senior Writer and Editor-at-Large for the Brooklyn Rail."
+poets:
+  - person: daniel-borzutzky
+    event_bio: Daniel Borzutzky is a poet and translator. His latest books are "Lake
+      Michigan," "The Performance of Becoming Human," and "Written After a
+      Massacre in the Year 2018". His translation of Galo Ghigliotto’s Valdivia
+      won the 2017 National Translation Award. He teaches at University of
+      Illinois.
+    related_links:
+      - text: Lake Michigan
+        url: https://upittpress.org/books/9780822965220/
+      - url: https://coffeehousepress.org/products/written-after-a-massacre-in-the-year-2018
+        text: Written After a Massacre in the Year 2018
+      - url: https://brooklynartspress.com/portfolio/the-performance-of-becoming-human-by-daniel-borzutzky/
+        text: The Performance of Being Human
 date: 2021-01-04T13:00:00-0500
 end_date: 2021-01-04T14:30:00-0500
 series: 204
