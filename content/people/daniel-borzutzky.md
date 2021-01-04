@@ -12,4 +12,6 @@ short_bio: A poet and translator. His latest books are Lake Michigan (University
   Disappeared Love, and Jaime Luis Huenún’s Port Trakl. He teaches in the
   English and Latin American and Latino Studies Departments at the University of
   Illinois.
+portraits:
+  - media: 2021/01/daniel-borzutzky
 ---
