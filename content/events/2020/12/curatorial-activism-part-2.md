@@ -28,15 +28,20 @@ people:
       - text: AWARE
         url: https://awarewomenartists.com/en/a_propos/
   - person: daria-khan
-    event_bio: Daria Khan is a founder and curator of Mimosa House, an independent
-      non-profit gallery space in London dedicated to supporting artistic
-      experimentation and collaboration among intergenerational women and queer
-      artists. Her recent projects include exhibitions at Austrian Cultural
-      Forum, London; MAST Foundation, Bologna; the 5th Moscow Biennial, Moscow;
-      and Photographers Gallery, London. Khan was a curator in residence at
-      MuseumsQuartier, Vienna; and a participant of the EUNIC program at the
-      Palais de Tokyo, Paris. Khan graduated with an MA in Curating Contemporary
-      Art at the Royal College of Art in 2013.
+    event_bio: Daria Khan is the curator of Mimosa House, an independent non-profit
+      art institution that she founded in 2017 in London. Dedicated to artistic
+      experimentation and collaboration, Mimosa House supports dialogue between
+      intergenerational women and queer artists. Daria’s recent curatorial
+      projects include _Tender Touches_, Austrian Cultural Forum, London;
+      _Mechanisms of Happiness_ at Photographers Gallery, London; _Levitate_ at
+      Freiraum 21 International, MuseumsQuartier Vienna; the Public Programme of
+      the 5th Moscow Biennial, Moscow. Daria was a curator in residency at the
+      MuseumsQuartier, Vienna and a participant of EUNIC programme at the Palais
+      de Tokyo, Paris. Daria participated in various talks and conferences,
+      including Oxford University (Christ Church), School of the Art Institute
+      of Chicago and Centre Pompidou. She received her MA in Curating
+      Contemporary Art from the Royal College of Art, London, and is currently
+      undertaking the MPhil/PhD Art Programme at Goldsmiths University, London.
     related_links:
       - url: https://www.mimosahouse.co.uk
         text: Mimosa House
