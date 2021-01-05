@@ -11,7 +11,7 @@ people:
       - text: AWARE
         url: https://awarewomenartists.com/en/a_propos/
   - person: daria-khan
-    event_bio: Daria Khan is the curator of Mimosa House, an independent non-profit
+    event_bio: The curator of Mimosa House, an independent non-profit
       art institution that she founded in 2017 in London. Dedicated to artistic
       experimentation and collaboration, Mimosa House supports dialogue between
       intergenerational women and queer artists. Daria’s recent curatorial
@@ -29,7 +29,7 @@ people:
       - url: https://www.mimosahouse.co.uk
         text: Mimosa House
   - event_bio: >
-      Catherine de Zegher is a Member of the Royal Academy of Belgium for
+      A Member of the Royal Academy of Belgium for
       Science and the Arts and was the Director of the Museum of Fine Arts, Gent
       (Belgium). In 2012, she was the Artistic Director of the 18th Biennale of
       Sydney, Australia, and in 2013 of the 5th Moscow Biennale, Russia. She
@@ -60,7 +60,7 @@ people:
       in a Dutch mook (magazine/book) _SeeAllThis #20_.
     person: catherine-de-zegher
   - person: rosa-martinez
-    event_bio: Rosa Martínez is an independent curator, writer and art collections
+    event_bio: An independent curator, writer and art collections
       consultant. She lives in Barcelona where she got her degree in Art
       History. She was curator of several major international biennials,
       including Istanbul, 1997; SITE Santa Fe, New Mexico, USA, 1999; Busan,
@@ -83,7 +83,7 @@ people:
     related_links: []
   - person: ann-sutherland-harris
     event_bio: >-
-      Ann Sutherland Harris, PhD, is Professor Emerita at the University of
+      A Professor Emerita at the University of
       Pittsburgh. Her research and teaching have embraced a variety of topics in
       the history of art and architecture in European painting and sculpture in
       late Renaissance and seventeenth-century art. When she began her career in
@@ -105,7 +105,7 @@ people:
 
       Dr. Harris co-curated with Linda Nochlin the groundbreaking exhibition _Women Artists, 1550-1950_, which opened at the Los Angeles County Museum in 1976 and then traveled to the University Art Museum, Austin, Texas; the Carnegie Museum of Art, Pittsburgh; and the Brooklyn Museum, New York). As the first exhibition at major museums in the U.S. dedicated to women artists, it attracted large audiences in both Los Angeles and New York, and thus drew public attention to women artists who were little known except to specialists, among them Sofonisba Anguissola, Lavinia Fontana, Artemisia Gentileschi, Judith Leyster, Rachel Ruysch, and Elizabeth Vigée Lebrun. Major exhibitions have been devoted to all of them since and excellent monographs too, except for Ruysch, though she is always included in exhibitions about flower painters. For the _Women Artists, 1550-1950_ catalogue, Dr. Harris wrote most of the catalogue entries for the artists working before 1800 as well as a substantial essay about the situation of all women in the previous centuries whose weaving, embroidery and manuscript illuminations made them the first women artists in Europe – and thus the ancestors of the pioneering women artists who emerged in Europe in the mid-sixteenth-century. Feminist activism has also played a role in Sutherland Harris’ career. In 1970, she testified before the US Congress about the discrimination faced by women in higher education, and then helped to establish the Women’s Caucus for Art, an advocacy organization for women active as artists, art historians, and museum professionals; she served as its first President (1972-74). She continues to write about women artists of the past and present, including Artemisia Gentileschi, Elisabetta Sirani, Alice Neel, Elizabeth Murray and Edna Andrade, among others. Dr. Sutherland Harris received her PhD from the Courtauld Institute of the University of London. 
   - person: maura-reilly
-    event_bio: "Maura Reilly is a curator and arts writer who has organized dozens
+    event_bio: "A curator and arts writer who has organized dozens
       of exhibitions internationally with a specific focus on marginalized
       artists. She has written extensively on global contemporary art and
       curatorial practice, including, most recently _Curatorial Activism:
