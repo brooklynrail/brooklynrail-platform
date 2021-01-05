@@ -6,30 +6,7 @@ summary: A conversation featuring legendary feminist curators Camille Morineau,
   moderated by Maura Reilly.
 people:
   - person: camille-morineau
-    event_bio: "Camille Morineau is the co-founder and director of AWARE (Archives
-      of Women Artists, Research and Exhibitions), a French non-profit
-      organization dedicated to the creation, indexation and distribution of
-      information on women artists of the 20th century. With degrees from both
-      the École normale supérieure and the Institut national du patrimoine, she
-      has worked for twenty years in public cultural institutions in France,
-      including ten years as curator of the contemporary collections at the
-      musée national d’Art moderne – Centre Georges-Pompidou (Paris). She
-      curated numerous exhibitions there, including _Yves Klein_ (2006),
-      _Gerhard Richter_ (2012), _Roy Lichtenstein_ (2013), and the hanging
-      _elles@centrepompidou_ (2009-2011), which was dedicated solely to female
-      artists from the collections of the musée national d’Art moderne. She has
-      also curated several exhibitions as a free-lance curator, including _Niki
-      de Saint Phalle_ at the Grand Palais (Paris, 2014) and Guggenheim Bilbao
-      (2016), _Ceramix: From Rodin to Schütte_, about the use of ceramics by
-      artists of the 20th and 21st century, at Bonnefanten Museum Maastricht
-      (2015) and La maison rouge, Fondation Antoine de Galbert, with Manufacture
-      de Sèvres (Paris, 2016). From 2016 to October 2019, she served as director
-      of exhibitions and collections at Monnaie de Paris, where she curated the
-      following exhibitions: _Women House_, also shown at the National Museum of
-      Women in the Arts in Washington (2017-2018), _Floor-naments_, an
-      exhibition marking the 40th anniversary of the Centre Pompidou (2017),
-      _Subodh Gupta_ (2018), _Thomas Schütte_ (2019), and _Kiki Smith_
-      (2019-2020)."
+    event_bio: ""
     related_links:
       - text: AWARE
         url: https://awarewomenartists.com/en/a_propos/
@@ -153,6 +130,8 @@ people:
       Fine Arts, New York University, and is an Editor-at-Large for the
       _Brooklyn Rail_. Dr. Reilly is an Associate Professor of Art History and
       Museum Studies at Arizona State University."
+poets:
+  - person: eileen-myles
 date: 2021-01-07T13:00:00-0500
 end_date: 2021-01-07T14:30:00-0500
 series: ""
