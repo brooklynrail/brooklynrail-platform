@@ -31,8 +31,8 @@
     "airtable": "^0.10.0",
     "js-yaml": "^3.14.0",
     "mysql": "^2.18.1",
-    "netlify-cli": "^2.69.0",
-    "netlify-cms": "^2.10.71",
+    "netlify-cli": "^2.70.0",
+    "netlify-cms": "^2.10.79",
     "netlify-cms-lib-widgets": "^1.3.3",
     "netlify-cms-proxy-server": "^1.3.8",
     "netlify-lambda": "^1.6.3",
@@ -47,8 +47,8 @@
     "autoprefixer": "^9.8.6",
     "gulp": "^4.0.2",
     "i": "^0.3.6",
-    "npm": "^6.14.9",
+    "npm": "^6.14.10",
     "npm-run-all": "^4.1.5",
-    "uswds": "^2.9.0"
+    "uswds": "^2.10.0"
   }
 }
