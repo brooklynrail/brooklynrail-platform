@@ -39,6 +39,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: dNlSbc1uYK0
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-211-radical-poetry-with-bennet-bergman-tickets-133873815185
 portraits:
   - media: 2020/12/layli-long-soldier
