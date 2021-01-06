@@ -27,6 +27,8 @@ registration_url: https://www.eventbrite.com/e/common-ground-jonas-mekas-filming
 event_platform:
   - zoom
 ---
+
+
 Thirty years after the tragic and courageous struggle that led the Lithuanian people to regain their independence, two international online panel discussions will be dedicated to Jonas Mekas and his last book, which retraces those events from a personal perspective. Titled *Transcript 04 44’ 14” Lithuania and the Collapse of the USSR* (Humboldt Books, 2020), the book originates from a movie by Mekas which is at the same time a precious historical document and an important piece of avant-garde cinema.
 
 The curators of the publication, Francesco Urbano Ragazzi, will dialogue with other thinkers, artists, and historians in a virtual roundtable involving Italy, France, Israel, Lithuania, and the U.S.
