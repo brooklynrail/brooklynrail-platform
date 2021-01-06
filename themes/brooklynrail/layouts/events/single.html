@@ -226,9 +226,9 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
                 {{- .Content -}}
                 {{- if .Params.people -}}
                   {{- if eq .Params.collection "screening" -}}
-                    <h2>In this talk</h2>
-                  {{- else -}}
                     <h2>In this screening</h2>
+                  {{- else -}}
+                    <h2>In this talk</h2>
                   {{- end -}}
                 {{- end -}}
               {{- end -}}
