@@ -1,6 +1,6 @@
 ---
-name: Francesco
-first_name: Francesco Urbano Ragazzi
+name: Francesco Urbano Ragazzi
+first_name: Francesco
 last_name: Urbano Ragazzi
 short_bio: "Curatorial duo founded in Paris in 2007 and mainly based in Milan.
   In 2015 the team started The Internet Saga, a research platform on the
