@@ -5,7 +5,11 @@ summary: A conversation on re-filming history as subjective media archaeology
   with Kelly Taxter, Lukas Brasiskis, Avi Lubin, and Philippe-Alain Michaud,
   moderated by Francesco Urbano Ragazzi
 people:
-  - person: paul-d-miller-aka-dj-spooky
+  - person: kelly-taxter
+  - person: lukas-brasiskis
+  - person: avi-lubin
+  - person: philippe-alain-michaud
+  - person: francesco-urbano-ragazzi
 date: 2021-01-14T13:00:00-0500
 end_date: 2021-01-14T14:30:00-0500
 collections:
