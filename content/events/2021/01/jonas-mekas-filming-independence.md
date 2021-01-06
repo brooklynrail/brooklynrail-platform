@@ -15,7 +15,7 @@ end_date: 2021-01-14T14:30:00-0500
 collections:
   - common-ground
 event_organizer:
-  - ministry-of-foreign-affairs-republic-of-lithuania
+  - ministry-of-foreign-affairs-of-lithuania
   - lithuanian-culture-institute
   - humboldt-books
   - anthology-film-archives
