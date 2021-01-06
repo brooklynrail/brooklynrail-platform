@@ -15,11 +15,6 @@ end_date: 2021-01-14T14:30:00-0500
 collections:
   - common-ground
 event_organizer:
-  - ministry-of-foreign-affairs-of-lithuania
-  - lithuanian-culture-institute
-  - humboldt-books
-  - anthology-film-archives
-  - scandinavia-house
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
@@ -36,3 +31,5 @@ The curators of the publication, Francesco Urbano Ragazzi, will dialogue with ot
 Organized by the Lithuanian Culture Institute in these different countries in collaboration with Humboldt Books and the Anthology Film Archives, the 2-day event will be hosted by Scandinavia House and the *Brooklyn Rail*.
 
 For the first event on January 13 at Scandivian House, special guest of the gathering will be the first Head of State of the Republic of Lithuania, Vytautas Landsbergis, who described Jonas Mekas’ book with the following words: “Lithuania became part of the American life for some months, for one year, for two years and Jonas took it into his evidence, into his camera. Jonas comes as a reminder and does present Lithuania as a reminder. Lithuania is a little reminder of very great things.” [Learn more about these events on scandinaviahouse.org »](http://www.scandinaviahouse.org/events/virtual-panel-jonas-mekas-filming-independence/).
+
+{{< note >}} **The event is organized in partnership with:** Scandinavia House, The Brooklyn Rail, Humboldt Books, Anthology Film Archives, Consulate General of the Republic of Lithuania in New York, Embassy of the Republic of Lithuania in France, Embassy of the Republic of Lithuania in Italy, Embassy of the Republic of Lithuania in Israel, Lithuanian Culture Institute. {{< /note >}}
