@@ -15,6 +15,11 @@ end_date: 2021-01-14T14:30:00-0500
 collections:
   - common-ground
 event_organizer:
+  - ministry-of-foreign-affairs-republic-of-lithuania
+  - lithuanian-culture-institute
+  - humboldt-books
+  - anthology-film-archives
+  - scandinavia-house
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
