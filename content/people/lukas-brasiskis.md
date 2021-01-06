@@ -14,4 +14,7 @@ short_bio: A PhD Candidate at New York University in the Department of Cinema
   Nowadays (VKS Press, 2013).
 portraits:
   - media: 2021/01/lukas-brasiskis
+website: http://lukasbrasiskis.com/
+instagram: lukasbrasiskis
+linkedIn: https://www.linkedin.com/in/lukas-brasiskis-442a0010
 ---
