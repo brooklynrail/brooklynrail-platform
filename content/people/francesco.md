@@ -14,4 +14,6 @@ short_bio: "Curatorial duo founded in Paris in 2007 and mainly based in Milan.
   and founder of the New American Cinema Group. "
 portraits:
   - media: 2021/01/francesco-urbano-ragazzi
+website: https://www.ffur.eu/
+instagram: the_internet_saga
 ---
