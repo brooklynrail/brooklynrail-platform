@@ -14,5 +14,5 @@ short_bio: "Sarah Crowner was born in Philadelphia in 1974. She earned a BA from
   raw and painted segments of canvas are cut, rearranged, and sewn together
   using the process-based logic of collage. "
 portraits:
-  - media: 2020/12/sarah-crowner
+  - media: 2021/01/sarah-crowner-preferred-image
 ---
