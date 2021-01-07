@@ -26,6 +26,7 @@ people:
       historian, and critic and is the recipient of  a 2019-2020 Sharpe Walentas
       Studio Program Residency. She is represented by Lyles & King Gallery in
       New York City."
+    related_links: []
   - person: charlotte-kent
     event_bio: "CHARLOTTE KENT, PhD is Assistant Professor of Visual Culture in the
       Department of Art and Design at Montclair State University. She received
@@ -46,14 +47,23 @@ poets:
       poems NUMBERS and Graphic Novella. Her second long poem, Traces, with
       Days, includes Poetic Realism (BlazeVOX, forthcoming 2021) and Late Work
       (Black Square Editions, 2020).
-date: 2021-01-07T12:55:00-0500
-end_date: 2021-01-07T12:55:00-0500
+    related_links:
+      - url: https://xexoxial.org/is/graphic_novella/by/rachel_blau_duplessis
+        text: Graphic Novella
+      - url: http://www.blazevox.org/index.php/Shop/new-releases/poetic-realism-by-rachel-blau-duplessis-575/
+        text: Poetic Realism
+      - text: Late Work
+        url: https://www.blacksquareeditions.org/product-page/late-work-by-rachel-blau-duplessis
+date: 2021-01-11T13:00:00-0500
+end_date: 2021-01-11T14:30:00-0500
+series: 209
 collections:
   - the-new-social-environment
 event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-209-mira-schor-with-charlotte-kent-tickets-135731985021
 event_platform:
   - zoom
 ---
