@@ -37,8 +37,8 @@ poets:
       Gabriel has received fellowships from Palm Beach Poetry Festival, The
       Watering Hole, The Conversation Literary Arts Festival, CantoMundo and a
       participant in the Callaloo Writers Workshops.
-date: 2020-10-22 13:00:00 -0500
-end_date: 2020-10-22 14:30:00 -0500
+date: 2020-10-22T13:00:00-0500
+end_date: 2020-10-22T14:30:00-0500
 collections:
   - common-ground
 event_organizer:

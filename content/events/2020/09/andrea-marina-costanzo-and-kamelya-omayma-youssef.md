@@ -5,8 +5,8 @@ summary: Wrenching lyrics and incisive prosody carry the works of Andrea Marina
   communicating their love for home, family, and lovers. Join us on 9/28 at 8PM
   (ET) for an evening of readings that will teach us about the process of
   creating homes inside of ourselves.
-date: 2020-09-28 20:00:00 -0500
-end_date: 2020-09-28 21:30:00 -0500
+date: 2020-09-28T20:00:00-0500
+end_date: 2020-09-28T21:30:00-0500
 collections: []
 event_organizer:
   - the-poetry-project

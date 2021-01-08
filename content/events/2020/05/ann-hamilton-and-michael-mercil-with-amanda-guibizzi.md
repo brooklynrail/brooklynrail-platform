@@ -3,8 +3,8 @@ title: Ann Hamilton and Michael Mercil with Amanda Guibizzi
 summary: Artists Ann Hamilton and Michael Mercil, with art historian and the
   *Rail*'s ArtSeen editor Amanda Gluibizzi, discuss creative life in the context
   of our new social reality.
-date: 2020-05-19 13:00:00 -0500
-end_date: 2020-05-19 14:00:00 -0500
+date: 2020-05-19T13:00:00-0500
+end_date: 2020-05-19T14:00:00-0500
 series: 46
 collections:
   - the-new-social-environment

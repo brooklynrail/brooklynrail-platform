@@ -4,5 +4,5 @@ title: "Canisia Lubrin "
 alt: A black and white photograph of Canisia Lubrin, wearing a white shirt and
   earrings.
 caption: Anna Keenan
-date: 2020-08-26 21:51:00 -0500
+date: 2020-08-26T21:51:00-0500
 ---

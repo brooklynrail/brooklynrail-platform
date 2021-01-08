@@ -49,8 +49,8 @@ people:
       taught at the Cooper Union for the Advancement of Science & Art, Naropa,
       Teachers & Writers Collaborative and Schule fur Dichtung (Vienna,
       Austria).
-date: 2020-11-18 13:00:00 -0500
-end_date: 2020-11-18 14:00:00 -0500
+date: 2020-11-18T13:00:00-0500
+end_date: 2020-11-18T14:00:00-0500
 series: 176
 collections:
   - the-new-social-environment

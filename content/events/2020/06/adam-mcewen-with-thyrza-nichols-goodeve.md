@@ -4,8 +4,8 @@ summary: Artist Adam McEwen will discuss their work and creative life in the
   context of our new social reality with Thyrza Nichols Goodeve, senior art
   critic of the Brooklyn Rail. We will conclude with a reading from poet Chris
   Martin.
-date: 2020-06-22 13:00:00 -0500
-end_date: 2020-06-22 14:00:00 -0500
+date: 2020-06-22T13:00:00-0500
+end_date: 2020-06-22T14:00:00-0500
 series: 70
 collections:
   - the-new-social-environment

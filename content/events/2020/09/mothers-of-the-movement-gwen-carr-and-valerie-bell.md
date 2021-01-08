@@ -11,8 +11,8 @@ poets:
       poetry is a way to translate trauma into meaning, to breathe life into
       untold stories and unspeakable thoughts. Her work explores immigration,
       ancestry, and girlhood. "
-date: 2020-10-15 13:00:00 -0500
-end_date: 2020-10-15 14:00:00 -0500
+date: 2020-10-15T13:00:00-0500
+end_date: 2020-10-15T14:00:00-0500
 collections:
   - common-ground
 event_organizer:

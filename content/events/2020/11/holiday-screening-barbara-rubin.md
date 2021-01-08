@@ -3,8 +3,8 @@ title: "Holiday Screening: Barbara Rubin"
 summary: "Join us for a screening of Barbara Rubin & the Exploding NY
   Underground courtesy of Juno Films. "
 people: []
-date: 2020-11-27 10:00:00 -0500
-end_date: 2020-11-27 18:00:00 -0500
+date: 2020-11-27T10:00:00-0500
+end_date: 2020-11-27T18:00:00-0500
 series: 183
 collections:
   - screening

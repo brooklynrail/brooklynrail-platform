@@ -4,8 +4,8 @@ summary: Poet Ann Lauterbach and the _Rail's_  Poetry Editor Anselm Berrigan
 event_organizer:
   - the-brooklyn-rail
 title: Ann Lauterbach with Anselm Berrigan
-date: 2020-04-08 13:00:00 -0500
-end_date: 2020-04-08 14:00:00 -0500
+date: 2020-04-08T13:00:00-0500
+end_date: 2020-04-08T14:00:00-0500
 series: 17
 collections:
   - the-new-social-environment

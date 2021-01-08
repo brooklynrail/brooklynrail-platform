@@ -2,8 +2,8 @@
 title: Lyle Ashton Harris with McKenzie Wark
 summary: Artist Lyle Ashton Harris and writer and scholar McKenzie Wark discuss
   creative life in the context of our new social reality.
-date: 2020-04-27 13:00:00 -0500
-end_date: 2020-04-27 14:00:00 -0500
+date: 2020-04-27T13:00:00-0500
+end_date: 2020-04-27T14:00:00-0500
 series: 30
 collections:
   - the-new-social-environment

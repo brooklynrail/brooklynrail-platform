@@ -2,8 +2,8 @@
 title: Penny Arcade with Nick Bennett
 summary: Performance artist Penny Arcade and the *Rail*’s Curatorial Assistant
   Nick Bennett discuss creative life in the context of our new social reality.
-date: 2020-04-14 13:00:00 -0500
-end_date: 2020-04-14 14:00:00 -0500
+date: 2020-04-14T13:00:00-0500
+end_date: 2020-04-14T14:00:00-0500
 series: 21
 collections:
   - the-new-social-environment

@@ -74,8 +74,8 @@ people:
       African American Poetry and Poetics, and their chapbook, Reasons for
       Smoking, won the 2016 Seattle Review Chapbook Contest judged by Claudia
       Rankine.
-date: 2020-11-04 13:00:00 -0500
-end_date: 2020-11-04 14:00:00 -0500
+date: 2020-11-04T13:00:00-0500
+end_date: 2020-11-04T14:00:00-0500
 series: 166
 collections:
   - the-new-social-environment

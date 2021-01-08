@@ -59,8 +59,8 @@ poets:
       community. Her poetry is recognized in the Beat, New York School, and
       Black Mountain trajectories, and she has raised the bar as a feminist,
       activist, and powerful performer.
-date: 2020-07-27 13:00:00 -0500
-end_date: 2020-07-27 14:00:00 -0500
+date: 2020-07-27T13:00:00-0500
+end_date: 2020-07-27T14:00:00-0500
 series: 94
 collections:
   - the-new-social-environment

@@ -2,8 +2,8 @@
 title: Jessamine Batario with Phong Bui
 summary: Art Historian Jessamine Batario and host Phong Bui discuss creative
   life in the context of our new social reality.
-date: 2020-03-25 13:00:00 -0500
-end_date: 2020-03-25 14:00:00 -0500
+date: 2020-03-25T13:00:00-0500
+end_date: 2020-03-25T14:00:00-0500
 series: 7
 collections:
   - the-new-social-environment

@@ -2,8 +2,8 @@
 title: An-my Lê with Dr. Lucy Bowditch
 summary: Photographer An-my Lê and art historian Dr. Lucy Bowditch discuss
   creative life in the context of our new social reality.
-date: 2020-05-15 13:00:00 -0500
-end_date: 2020-05-15 14:00:00 -0500
+date: 2020-05-15T13:00:00-0500
+end_date: 2020-05-15T14:00:00-0500
 series: 44
 collections:
   - the-new-social-environment

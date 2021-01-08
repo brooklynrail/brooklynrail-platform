@@ -78,8 +78,8 @@ poets:
     event_bio: "Mona Kareem is the author of three poetry collections, and most
       recently, the chapbook Femme Ghosts. She is currently a
       Translator-in-Residence at Princeton University. "
-date: 2020-09-24 13:00:00 -0500
-end_date: 2020-09-24 14:30:00 -0500
+date: 2020-09-24T13:00:00-0500
+end_date: 2020-09-24T14:30:00-0500
 series: 4
 collections:
   - common-ground

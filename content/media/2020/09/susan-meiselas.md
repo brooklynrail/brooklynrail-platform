@@ -4,5 +4,5 @@ title: Susan Meiselas
 alt: Susan Meiselas
 credit:
   - kevin-grady
-date: 2020-09-23 17:18:00 -0500
+date: 2020-09-23T17:18:00-0500
 ---

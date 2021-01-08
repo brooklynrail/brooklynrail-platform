@@ -48,8 +48,8 @@ poets:
       artist, author of Funeral Diva, out with City Lights in Fall 2020, among
       others. She has been featured in New York Times Magazine, The New Yorker,
       Artforum, Hyperallergic and on the cover of New York Magazine.
-date: 2020-09-10 13:00:00 -0500
-end_date: 2020-09-10 14:30:00 -0500
+date: 2020-09-10T13:00:00-0500
+end_date: 2020-09-10T14:30:00-0500
 series: 2
 collections:
   - common-ground

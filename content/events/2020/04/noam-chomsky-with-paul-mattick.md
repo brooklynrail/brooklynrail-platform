@@ -2,8 +2,8 @@
 title: Noam Chomsky with Paul Mattick
 summary: Scholar Noam Chomsky and the *Rail*’s Field Notes Editor Paul Mattick
   discuss creative life in the context of our new social reality.
-date: 2020-04-30 13:00:00 -0500
-end_date: 2020-04-30 14:00:00 -0500
+date: 2020-04-30T13:00:00-0500
+end_date: 2020-04-30T14:00:00-0500
 series: 33
 collections:
   - the-new-social-environment

@@ -34,8 +34,8 @@ poets:
       can be found at Can We Have Our Ball Back, and artforum.com. he teaches
       for the School of the Art Institute of Chicago's Low-Residency MFA
       Program, and lives in Inverness, CA.
-date: 2020-07-22 13:00:00 -0500
-end_date: 2020-07-22 14:00:00 -0500
+date: 2020-07-22T13:00:00-0500
+end_date: 2020-07-22T14:00:00-0500
 series: 91
 collections:
   - the-new-social-environment

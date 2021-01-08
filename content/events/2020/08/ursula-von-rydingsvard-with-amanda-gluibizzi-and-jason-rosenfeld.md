@@ -35,8 +35,8 @@ poets:
       collection titled, "A Brief Alphabet of Torture," and a novel, "Fish in
       Exile." Her work includes poetry, fiction, film and cross-genre
       collaboration. She was the Fall 2019 fellow at Black Mountain Institute.
-date: 2020-09-01 13:00:00 -0500
-end_date: 2020-09-01 14:00:00 -0500
+date: 2020-09-01T13:00:00-0500
+end_date: 2020-09-01T14:00:00-0500
 series: 120
 collections:
   - the-new-social-environment

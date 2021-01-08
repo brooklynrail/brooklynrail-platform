@@ -3,8 +3,8 @@ title: Jesse Paris Smith and Rebecca Foon with George Grella
 summary: "Musicians and activists Jesse Paris Smith and Rebecca Foon, with
   musician and _Rail_ music editor George Grella, discuss creative life in the
   context of our new social reality. "
-date: 2020-05-27 13:00:00 -0500
-end_date: 2020-05-27 14:00:00 -0500
+date: 2020-05-27T13:00:00-0500
+end_date: 2020-05-27T14:00:00-0500
 series: 52
 collections:
   - the-new-social-environment

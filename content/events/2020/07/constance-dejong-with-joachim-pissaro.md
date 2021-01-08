@@ -31,8 +31,8 @@ poets:
       the author of eleven volumes of poems of which the latest are NINE
       EAST(2013), SAGEBERRY 1(2017), LIVING IN PUBLIC(2018). City Lights will
       publish his new volume of poems titled FACING YOU in 2020.
-date: 2020-07-09 13:00:00 -0500
-end_date: 2020-07-09 14:00:00 -0500
+date: 2020-07-09T13:00:00-0500
+end_date: 2020-07-09T14:00:00-0500
 series: 82
 collections:
   - the-new-social-environment

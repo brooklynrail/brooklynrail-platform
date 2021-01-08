@@ -3,5 +3,5 @@ media: /media/files/mana-contemporary_this-land-a-conversation-with-david-opdyke
 title: David Opdyke, This Land (detail)
 alt: David Opdyke, This Land (detail)
 caption: David Opdyke, This Land (detail), 2019. Courtesy of a private collection
-date: 2020-11-23 14:24:00 -0500
+date: 2020-11-23T14:24:00-0500
 ---

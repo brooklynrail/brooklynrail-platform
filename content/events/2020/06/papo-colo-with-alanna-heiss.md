@@ -2,8 +2,8 @@
 title: Papo Colo with Alanna Heiss
 summary: Artist Papo Colo and Alanna Heiss of the alternative spaces movement
   and PS1 discuss creative life in the context of our new social reality.
-date: 2020-06-08 13:00:00 -0500
-end_date: 2020-06-08 14:00:00 -0500
+date: 2020-06-08T13:00:00-0500
+end_date: 2020-06-08T14:00:00-0500
 series: 60
 collections:
   - the-new-social-environment

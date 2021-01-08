@@ -5,5 +5,5 @@ alt: Natalie Eilbert
 caption: Photo by Mark Koranda
 credit:
   - mark-koranda
-date: 2020-09-01 15:32:00 -0500
+date: 2020-09-01T15:32:00-0500
 ---

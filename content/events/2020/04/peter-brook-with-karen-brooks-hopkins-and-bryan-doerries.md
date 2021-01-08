@@ -3,8 +3,8 @@ title: Peter Brook with Karen Brooks Hopkins and Bryan Doerries
 summary: Special guest **Peter Brook** and hosts **Karen Brooks Hopkins** and
   **Bryan Doerries** discuss creative life in the context of our new social
   reality.
-date: 2020-04-21 13:00:00 -0500
-end_date: 2020-04-21 14:00:00 -0500
+date: 2020-04-21T13:00:00-0500
+end_date: 2020-04-21T14:00:00-0500
 series: 26
 collections:
   - the-new-social-environment

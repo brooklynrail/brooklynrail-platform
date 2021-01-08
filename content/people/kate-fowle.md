@@ -15,4 +15,5 @@ short_bio: "Kate Fowle is the director of MoMA PS1. She was appointed in 2019
 portraits:
   - media: 2020/10/kate-fowle
 website: https://www.moma.org/about/senior-staff/kate-fowle
+instagram: kate.fowle
 ---

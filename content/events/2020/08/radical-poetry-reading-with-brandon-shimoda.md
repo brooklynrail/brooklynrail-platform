@@ -65,8 +65,8 @@ people:
     event_bio: Youna Kwak is a poet, translator, and teacher. Her first poetry
       collection, entitled "sur vie," was published this year by Fathom Books.
       She lives in the Inland Empire.
-date: 2020-09-02 13:00:00 -0500
-end_date: 2020-09-02 14:00:00 -0500
+date: 2020-09-02T13:00:00-0500
+end_date: 2020-09-02T14:00:00-0500
 series: 121
 collections:
   - the-new-social-environment

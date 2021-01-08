@@ -20,8 +20,8 @@ people:
   - person: dan-sullivan
     event_bio: Dan Sullivan is a curator and writer based in New York City and the
       Film co-editor of the Brooklyn Rail.
-date: 2020-08-20 20:00:00 -0500
-end_date: 2020-08-20 22:00:00 -0500
+date: 2020-08-20T20:00:00-0500
+end_date: 2020-08-20T22:00:00-0500
 collections:
   - screening
 event_organizer:

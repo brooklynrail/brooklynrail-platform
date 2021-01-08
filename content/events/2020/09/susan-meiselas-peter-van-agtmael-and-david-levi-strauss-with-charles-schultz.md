@@ -55,8 +55,8 @@ poets:
       in Detroit and New York. His first book of poetry was “License to Carry a
       Gun," and most recently, “The Art of Forgetting.” He writes novels and
       essays and won the Peabody award for the film “Road Scholar.”
-date: 2020-10-01 13:00:00 -0500
-end_date: 2020-10-01 14:00:00 -0500
+date: 2020-10-01T13:00:00-0500
+end_date: 2020-10-01T14:00:00-0500
 series: 142
 collections:
   - the-new-social-environment

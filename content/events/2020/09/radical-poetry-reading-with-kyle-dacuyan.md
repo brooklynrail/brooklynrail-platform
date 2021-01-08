@@ -74,8 +74,8 @@ people:
       Yaqui peoples; I never cease to experience simultaneous grief and deep
       love any time I pay attention to the world. I'm wild with gratitude for
       the space and time to be with all of you."
-date: 2020-09-09 13:00:00 -0500
-end_date: 2020-09-09 14:00:00 -0500
+date: 2020-09-09T13:00:00-0500
+end_date: 2020-09-09T14:00:00-0500
 series: 126
 collections:
   - the-new-social-environment

@@ -4,8 +4,8 @@ summary: Artist and photographer Clifford Ross will discuss their work and
   creative life in the context of our new social reality with art historian, Dr.
   Lucy Bowditch. We will conclude the event with a poetry reading from Steven
   Alvarez.
-date: 2020-06-29 13:00:00 -0500
-end_date: 2020-06-29 14:00:00 -0500
+date: 2020-06-29T13:00:00-0500
+end_date: 2020-06-29T14:00:00-0500
 series: 74
 collections:
   - the-new-social-environment

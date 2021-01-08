@@ -3,5 +3,5 @@ media: /media/files/sheila-pepe-on-moving-through-the-margins-between-craft-quee
 title: Sheila Pepe
 alt: Sheila Pepe
 caption: Courtesy of deCordova Sculpture Park and Museum
-date: 2020-07-02 08:19:00 -0500
+date: 2020-07-02T08:19:00-0500
 ---

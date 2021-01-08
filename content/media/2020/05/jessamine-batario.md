@@ -4,5 +4,5 @@ title: Jessamine Batario
 alt: Drawing of Jessamine Batario by Phong Bui.
 caption: Drawing of Jessamine Batario by Phong Bui.
 credit: "Phong Bui "
-date: 2020-05-15 16:44:00 -0500
+date: 2020-05-15T16:44:00-0500
 ---

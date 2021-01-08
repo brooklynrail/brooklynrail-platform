@@ -6,5 +6,5 @@ alt: A pencil drawing of artist Stanley Whitney against an off-white background
 caption: ""
 credit:
   - phong-h-bui
-date: 2020-05-05 22:46:00 -0500
+date: 2020-05-05T22:46:00-0500
 ---

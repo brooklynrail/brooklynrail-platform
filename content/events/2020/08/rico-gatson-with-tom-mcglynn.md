@@ -30,8 +30,8 @@ poets:
       of two poetry chapbooks, and is included in Out of This World, An
       Anthology of the Poetry of the St. Mark’s Poetry Project, 1966– 1991. His
       collected early poems will be published in 2021.
-date: 2020-08-31 13:00:00 -0500
-end_date: 2020-08-31 14:00:00 -0500
+date: 2020-08-31T13:00:00-0500
+end_date: 2020-08-31T14:00:00-0500
 series: 119
 collections:
   - the-new-social-environment

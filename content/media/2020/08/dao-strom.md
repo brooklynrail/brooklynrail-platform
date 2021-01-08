@@ -4,5 +4,5 @@ title: Dao Strom
 alt: A photograph of Dao Strom in a blue coat, in front of out-of-focus
   landscape of moss and mountains.
 caption: Kyle Macdonald
-date: 2020-08-26 21:58:00 -0500
+date: 2020-08-26T21:58:00-0500
 ---

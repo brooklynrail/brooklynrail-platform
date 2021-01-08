@@ -32,8 +32,8 @@ poets:
       Office Hours Poetry Workshop, assistant poetry editor for the Bellevue
       Literary Review, and teaches at NYU. Her work appears or is forthcoming in
       BOMB, Michigan Quarterly Review, and The Brooklyn Rail.
-date: 2020-07-10 13:00:00 -0500
-end_date: 2020-07-10 14:00:00 -0500
+date: 2020-07-10T13:00:00-0500
+end_date: 2020-07-10T14:00:00-0500
 series: 83
 collections:
   - the-new-social-environment

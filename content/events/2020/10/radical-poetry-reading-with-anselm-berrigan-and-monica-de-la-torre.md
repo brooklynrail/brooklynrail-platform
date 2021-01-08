@@ -87,8 +87,8 @@ people:
       Collaborative, a 2019-2020 Lower Manhattan Cultural Council
       Artist-in-Residence, and also currently a writer-in-residence at Danspace
       Project. She lives in Brooklyn, New York.
-date: 2020-10-14 13:00:00 -0500
-end_date: 2020-10-14 14:00:00 -0500
+date: 2020-10-14T13:00:00-0500
+end_date: 2020-10-14T14:00:00-0500
 series: 151
 collections:
   - the-new-social-environment

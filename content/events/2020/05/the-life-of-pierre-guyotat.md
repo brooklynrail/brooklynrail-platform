@@ -3,8 +3,8 @@ title: The Life of Pierre Guyotat
 summary: Scholar Noura Wedell, philosopher Catherine Malabou, painter Paul
   McCarthy, and scholar Donatien Grau discuss the life of writer Pierre Guyotat
   and creative life in the context of our new social reality.
-date: 2020-05-14 13:00:00 -0500
-end_date: 2020-05-14 14:00:00 -0500
+date: 2020-05-14T13:00:00-0500
+end_date: 2020-05-14T14:00:00-0500
 series: 43
 collections:
   - the-new-social-environment

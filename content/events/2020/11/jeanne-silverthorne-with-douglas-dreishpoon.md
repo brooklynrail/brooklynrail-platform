@@ -39,8 +39,8 @@ poets:
       critical essays. She has received numerous awards and fellowships. Her
       work has appeared in A Public Space, Boston Review, The Brooklyn Rail, and
       many others. She lives in Providence.
-date: 2020-11-24 13:00:00 -0500
-end_date: 2020-11-24 14:30:00 -0500
+date: 2020-11-24T13:00:00-0500
+end_date: 2020-11-24T14:30:00-0500
 series: 180
 collections:
   - the-new-social-environment
@@ -48,6 +48,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: G_vlJyg9xOk
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-180-jeanne-silverthorne-tickets-129749621611
 event_platform:
   - zoom

@@ -3,8 +3,8 @@ title: "LeiLani Dowell: Who are the real looters?"
 summary: Join Metabolic Studio for a time to read up on abolitionist futures
   while crafting together, followed by time for conversation. This week, we’ll
   be reading "Who are the real looters?" by  LeiLani Dowell.
-date: 2020-07-31 20:30:00 -0500
-end_date: 2020-07-31 22:00:00 -0500
+date: 2020-07-31T20:30:00-0500
+end_date: 2020-07-31T22:00:00-0500
 collections:
   - abolitionist-reading-native-plant-embroidery
 event_organizer:

@@ -57,8 +57,8 @@ poets:
         text: Kit Robinson on Pennsound
       - text: Kit Robinson on SF MoMA
         url: https://openspace.sfmoma.org/author/kitrobinson/
-date: 2020-09-25 13:00:00 -0500
-end_date: 2020-09-25 14:30:00 -0500
+date: 2020-09-25T13:00:00-0500
+end_date: 2020-09-25T14:30:00-0500
 series: 138
 collections:
   - the-new-social-environment

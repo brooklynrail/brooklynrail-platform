@@ -5,5 +5,5 @@ alt: Frank Auerbach, Head of Jake
 caption: "Frank Auerbach, Head of Jake, 2006, Oil on canvas, 18 x 18 inches
   (45.7 x 45.7 cm). Private collection, CA. ©Frank Auerbach; Courtesy
   Marlborough Fine Art, London and Luhring Augustine, New York    "
-date: 2020-11-13 08:48:00 -0500
+date: 2020-11-13T08:48:00-0500
 ---

@@ -65,8 +65,8 @@ poets:
     event_bio: "Zohra Saed is a Brooklyn based Afghan American poet. She co-founded
       Upset Press with the poet Robert Booras, and teaches literature at Bard
       High School Early College, Queens. "
-date: 2020-10-02 13:00:00 -0500
-end_date: 2020-10-02 14:30:00 -0500
+date: 2020-10-02T13:00:00-0500
+end_date: 2020-10-02T14:30:00-0500
 series: ""
 collections:
   - common-ground

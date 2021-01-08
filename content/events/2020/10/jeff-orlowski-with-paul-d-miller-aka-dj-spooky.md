@@ -29,8 +29,8 @@ poets:
       that takes Agnes Martin’s final painting as an occasion for a meditation
       on death & birth, history & chance, love & exploitation, all addressed to
       his newborn daughter, Agnes. He is a co-editor at Golias Books.
-date: 2020-10-09 14:00:00 -0500
-end_date: 2020-10-09 15:00:00 -0500
+date: 2020-10-09T14:00:00-0500
+end_date: 2020-10-09T15:00:00-0500
 series: 148
 collections:
   - the-new-social-environment

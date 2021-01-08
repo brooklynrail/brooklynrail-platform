@@ -34,8 +34,8 @@ poets:
       At the National Monument / Always Today (Pioneer Works, 2016), and Pop! in
       Spring (Diez, 2013). He works for BOMB and is a former editor of The
       Poetry Project Newsletter.
-date: 2020-09-03 13:00:00 -0500
-end_date: 2020-09-03 14:00:00 -0500
+date: 2020-09-03T13:00:00-0500
+end_date: 2020-09-03T14:00:00-0500
 series: 1
 collections:
   - common-ground

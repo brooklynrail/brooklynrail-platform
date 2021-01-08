@@ -77,8 +77,8 @@ people:
       Books 2017) What Saves Us: Poems of Empathy and Outrage in the Age of
       Trump (Northwestern University Press 2019) and The Breakbeat Poets Vol. 4:
       LatiNEXT (Haymarket Press 2020)."
-date: 2020-08-19 13:00:00 -0500
-end_date: 2020-08-19 14:00:00 -0500
+date: 2020-08-19T13:00:00-0500
+end_date: 2020-08-19T14:00:00-0500
 series: 111
 collections:
   - the-new-social-environment

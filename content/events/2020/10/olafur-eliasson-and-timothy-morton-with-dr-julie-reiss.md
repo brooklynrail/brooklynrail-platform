@@ -46,8 +46,8 @@ poets:
     event_bio: "Valérie Déus is a poet, film programmer, and radio show host. She is
       the host of Project 35, curates FilmNorth’s Cinema Lounge and is the
       Shorts Programmer for the Provincetown International Film Festival. "
-date: 2020-10-27 13:00:00 -0500
-end_date: 2020-10-27 14:30:00 -0500
+date: 2020-10-27T13:00:00-0500
+end_date: 2020-10-27T14:30:00-0500
 series: 160
 collections:
   - the-new-social-environment

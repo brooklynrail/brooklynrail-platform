@@ -34,8 +34,8 @@ poets:
       teaches in the Writing BFA and Painting MFA programs at Pratt Institute
       and is a student of herbalism in upstate NY. Her first chapbook, Birth
       Dirt, is forthcoming through G L O S S projects.
-date: 2020-09-04 13:00:00 -0500
-end_date: 2020-09-04 14:00:00 -0500
+date: 2020-09-04T13:00:00-0500
+end_date: 2020-09-04T14:00:00-0500
 series: 123
 collections:
   - the-new-social-environment

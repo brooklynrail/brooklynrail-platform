@@ -5,5 +5,5 @@ alt: Jasmine Wahi
 caption: Photo by Dario Calmese
 credit:
   - dario-calmese
-date: 2020-09-14 11:55:00 -0500
+date: 2020-09-14T11:55:00-0500
 ---

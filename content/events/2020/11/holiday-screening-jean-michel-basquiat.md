@@ -2,8 +2,8 @@
 title: "Holiday Screening: Jean-Michel Basquiat"
 summary: "Join us for a screening of Jean-Michel Basquiat: The Radiant Child
   courtesy of Arthouse Films and Dakota Group, Ltd. "
-date: 2020-11-26 10:00:00 -0500
-end_date: 2020-11-27 18:00:00 -0500
+date: 2020-11-26T10:00:00-0500
+end_date: 2020-11-27T18:00:00-0500
 series: 182
 collections:
   - screening

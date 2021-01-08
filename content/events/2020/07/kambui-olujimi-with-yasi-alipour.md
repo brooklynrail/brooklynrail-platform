@@ -31,8 +31,8 @@ poets:
       Bronx. Her poetry is grounded in oral traditions and histories of the
       African Diaspora. She has performed at Apollo Theatre, Nuyorican Poets
       Cafe, and throughout the African diaspora.
-date: 2020-07-29 13:00:00 -0500
-end_date: 2020-07-29 14:00:00 -0500
+date: 2020-07-29T13:00:00-0500
+end_date: 2020-07-29T14:00:00-0500
 series: 96
 collections:
   - the-new-social-environment

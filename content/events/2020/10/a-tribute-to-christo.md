@@ -98,8 +98,8 @@ poets:
       Life Now." He is the founding publisher of Indolent Books and the creator
       of the HIV Here & Now Project. Broder lives in Brooklyn with his husband,
       the poet Jason Schneiderman.
-date: 2020-10-30 13:00:00 -0500
-end_date: 2020-10-30 14:30:00 -0500
+date: 2020-10-30T13:00:00-0500
+end_date: 2020-10-30T14:30:00-0500
 series: 163
 collections:
   - the-new-social-environment

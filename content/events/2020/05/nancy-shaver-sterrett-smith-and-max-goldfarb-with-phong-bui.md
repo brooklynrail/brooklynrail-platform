@@ -3,8 +3,8 @@ title: Nancy Shaver, Sterrett Smith, and Max Goldfarb with Phong Bui
 summary: Artists Nancy Shaver, Sterrett Smith, and Max Goldfarb, collectively
   known as Wolf Tones, with Phong Bui, publisher of the _Rail_, discuss creative
   life in the context of our new social reality.
-date: 2020-05-05 13:00:00 -0500
-end_date: 2020-05-05 14:00:00 -0500
+date: 2020-05-05T13:00:00-0500
+end_date: 2020-05-05T14:00:00-0500
 series: 36
 collections:
   - the-new-social-environment

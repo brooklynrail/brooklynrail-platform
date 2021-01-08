@@ -24,8 +24,8 @@ people:
       Spiritual Solutions to Large Material Problems, Solving Everything (2013),
       to her most recent book I Heart Francis: Letters to the Pope from an
       Unlikely Admirer (2016), among many others."
-date: 2020-08-20 13:00:00 -0500
-end_date: 2020-08-20 14:00:00 -0500
+date: 2020-08-20T13:00:00-0500
+end_date: 2020-08-20T14:00:00-0500
 series: 112
 collections:
   - the-new-social-environment

@@ -2,8 +2,8 @@
 title: Fundraiser for the Bay View Newspaper (Day 2)
 deck: ""
 summary: Come celebrate the neighborhood and the Bay View National Black Newspaper!
-date: 2020-11-21 16:00:00 -0500
-end_date: 2020-11-21 18:00:00 -0500
+date: 2020-11-21T16:00:00-0500
+end_date: 2020-11-21T18:00:00-0500
 collections:
   - community-listing
 event_organizer:

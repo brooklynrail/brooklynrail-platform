@@ -25,8 +25,8 @@ poets:
       Recent writing and translations have appeared in Jacket2, Counter,
       Hyperallergic, The Recluse, and The Brooklyn Rail. He is a member of the
       Ugly Duckling Presse editorial collective.
-date: 2020-08-17 13:00:00 -0500
-end_date: 2020-08-17 14:00:00 -0500
+date: 2020-08-17T13:00:00-0500
+end_date: 2020-08-17T14:00:00-0500
 series: 109
 collections:
   - the-new-social-environment

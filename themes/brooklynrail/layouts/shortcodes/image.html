@@ -16,6 +16,7 @@ Image Shortcode
 {{- $type := (.Get "type") -}}
 
 
+
 {{- template "media" (dict "image" $image "size" $size "format" $size "type" $type )  -}}
 
 {{/* Template: media */}}
@@ -72,15 +73,17 @@ Image Shortcode
       {{- $nf_resize = (print "?nf_resize=smartcrop&w=" $width "&h=" $width ) -}}
     {{ end }}
 
-    {{- if eq $type "page" -}}
+    {{- if eq $type "string" -}}
+      {{/* passed in via a template in Projects */}}
+      <img src="{{- $image -}}{{- $nf_resize -}}" alt="" title="">
+    {{- else -}}
       {{- if $image.Params.media -}}
+        {{/* used in Shortcodes in the body content */}}
         <img src="{{- $image.Params.media -}}{{- $nf_resize -}}" alt="{{- $image.Params.alt -}}" title="{{- $image.Params.alt -}}">
         {{- with $image.Params.caption -}}
           {{- template "figcaption" (dict "caption" . )  -}}
         {{- end -}}
       {{- end -}}
-    {{- else if eq $type "string" -}}
-      <img src="{{- $image -}}{{- $nf_resize -}}" alt="" title="">
     {{- end -}}
 
   </figure>

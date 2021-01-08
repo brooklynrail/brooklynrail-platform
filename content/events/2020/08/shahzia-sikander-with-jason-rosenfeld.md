@@ -38,8 +38,8 @@ poets:
       other writing have appeared in Prolit, The File, and Tinge, among a few
       others. He currently adjunct-instructs courses in English and literature
       at CUNY. "
-date: 2020-08-12 13:00:00 -0500
-end_date: 2020-08-12 14:00:00 -0500
+date: 2020-08-12T13:00:00-0500
+end_date: 2020-08-12T14:00:00-0500
 series: 106
 collections:
   - the-new-social-environment

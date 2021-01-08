@@ -3,8 +3,8 @@ title: Max Hollein with Phong Bui
 summary: Director of the Metropolitan Museum of Art, Max Hollein will discuss
   the role of the art museum in the context of our new social reality with Phong
   Bui publisher of the Brooklyn Rail.
-date: 2020-06-25 13:00:00 -0500
-end_date: 2020-06-25 14:00:00 -0500
+date: 2020-06-25T13:00:00-0500
+end_date: 2020-06-25T14:00:00-0500
 series: 72
 collections:
   - the-new-social-environment

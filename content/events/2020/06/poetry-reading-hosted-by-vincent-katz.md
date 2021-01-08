@@ -4,8 +4,8 @@ summary: Join us for a reading of Vincent Katz's new collection of poems,
   "Broadway for Paul," with poets  Norma Cole, Kyle Dacuyan, Elaine Equi,
   Patricia Spears Jones, Jennifer Moxley, and Jensön Olin, led by poet Vincent
   Katz.
-date: 2020-07-01 13:00:00 -0500
-end_date: 2020-07-01 14:00:00 -0500
+date: 2020-07-01T13:00:00-0500
+end_date: 2020-07-01T14:00:00-0500
 series: 76
 collections:
   - the-new-social-environment

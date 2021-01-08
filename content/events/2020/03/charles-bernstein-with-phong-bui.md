@@ -6,8 +6,8 @@ event_organizer:
 youtube_playlist_id:
   - the-new-social-environment
 title: Charles Bernstein with Phong Bui
-date: 2020-03-19 13:00:00 -0500
-end_date: 2020-03-19 14:00:00 -0500
+date: 2020-03-19T13:00:00-0500
+end_date: 2020-03-19T14:00:00-0500
 series: 3
 collections:
   - the-new-social-environment

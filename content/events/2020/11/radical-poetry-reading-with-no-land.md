@@ -53,8 +53,8 @@ people:
       Coyote Valley’s reservation for the Pomo people and at Mendocino Community
       College. She still lives in a cabin she built herself, and writes nearly
       every day.
-date: 2020-12-02 13:00:00 -0500
-end_date: 2020-12-02 14:00:00 -0500
+date: 2020-12-02T13:00:00-0500
+end_date: 2020-12-02T14:00:00-0500
 series: 186
 collections:
   - the-new-social-environment
@@ -62,6 +62,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: RSXKSlLNvrk
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-186-radical-poetry-with-no-land-tickets-130579935101
 event_platform:
   - zoom

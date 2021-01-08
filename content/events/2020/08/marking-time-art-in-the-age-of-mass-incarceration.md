@@ -83,8 +83,8 @@ poets:
       professor whose numerous books include "The Miraculous" and "A Geniza." He
       is currently writing a book about the Jewish-Egyptian writer Edmond Jabès.
       '
-date: 2020-08-11 13:00:00 -0500
-end_date: 2020-08-11 14:00:00 -0500
+date: 2020-08-11T13:00:00-0500
+end_date: 2020-08-11T14:00:00-0500
 series: 105
 collections:
   - the-new-social-environment

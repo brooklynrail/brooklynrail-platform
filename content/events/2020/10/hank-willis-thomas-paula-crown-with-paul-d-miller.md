@@ -66,8 +66,8 @@ poets:
       translator, editor, educator, and a founder of Belladonna* Collaborative.
       She is a Professor of Writing at Pratt Institute, Naropa University, and
       occasionally for Poets House and The Poetry Project.
-date: 2020-10-29 13:00:00 -0500
-end_date: 2020-10-29 14:30:00 -0500
+date: 2020-10-29T13:00:00-0500
+end_date: 2020-10-29T14:30:00-0500
 collections:
   - common-ground
 event_organizer:

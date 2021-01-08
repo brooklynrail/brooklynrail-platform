@@ -34,8 +34,8 @@ poets:
       mediums to explore hybridity and the intersection of personal and
       collective histories. She is co-founder of She Who Has No Master(s) and
       De-Canon. Dao was born in Vietnam and lives in Portland, OR.
-date: 2020-11-09 13:00:00 -0500
-end_date: 2020-11-09 14:30:00 -0500
+date: 2020-11-09T13:00:00-0500
+end_date: 2020-11-09T14:30:00-0500
 series: 169
 collections:
   - the-new-social-environment

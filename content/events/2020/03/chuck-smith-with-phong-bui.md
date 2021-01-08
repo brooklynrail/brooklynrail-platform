@@ -6,8 +6,8 @@ event_organizer:
 youtube_playlist_id:
   - the-new-social-environment
 title: Chuck Smith with Phong Bui
-date: 2020-03-20 13:00:00 -0500
-end_date: 2020-03-20 14:00:00 -0500
+date: 2020-03-20T13:00:00-0500
+end_date: 2020-03-20T14:00:00-0500
 series: 4
 collections:
   - the-new-social-environment

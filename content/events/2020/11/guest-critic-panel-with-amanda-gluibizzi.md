@@ -17,8 +17,8 @@ poets:
       Maine and is an active member of Midcoast Maine Extinction Rebellion, the
       Climate Psychology Alliance, and USA-Palestine Mental Health Network,
       among others. "What This Is" is forthcoming from Chax Press. '
-date: 2020-11-20 13:00:00 -0500
-end_date: 2020-11-20 14:30:00 -0500
+date: 2020-11-20T13:00:00-0500
+end_date: 2020-11-20T14:30:00-0500
 series: 178
 collections:
   - the-new-social-environment

@@ -42,8 +42,8 @@ poets:
       North Carolina. She is the author of several books including Material Girl
       and Making Water (forthcoming in 2021). Her writings have appeared in
       Jumpcut, Feminist Media Histories, and The Brooklyn Rail.
-date: 2020-08-25 13:00:00 -0500
-end_date: 2020-08-25 14:00:00 -0500
+date: 2020-08-25T13:00:00-0500
+end_date: 2020-08-25T14:00:00-0500
 series: 115
 collections:
   - the-new-social-environment

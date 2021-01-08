@@ -4,8 +4,8 @@ summary: A discussion with Max Kenner, Christopher Rey Pérez, Erica Mateo on th
   Bard Prison Initiative and the College Behind Bars documentary, with historian
   Craig Stevens Wilder and Charles Duncan, Executive Director of The Richard
   Pousette-Dart Foundation.
-date: 2020-06-03 13:00:00 -0500
-end_date: 2020-06-03 14:00:00 -0500
+date: 2020-06-03T13:00:00-0500
+end_date: 2020-06-03T14:00:00-0500
 series: 57
 collections:
   - the-new-social-environment

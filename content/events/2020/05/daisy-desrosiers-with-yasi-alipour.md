@@ -2,8 +2,8 @@
 title: Daisy Desrosiers with Yasi Alipour
 summary: Curator and May 2020 Guest Critic Daisy Desrosiers and artist Yasi
   Alipour discuss creative life in the context of our new social reality.
-date: 2020-05-20 13:00:00 -0500
-end_date: 2020-05-20 14:00:00 -0500
+date: 2020-05-20T13:00:00-0500
+end_date: 2020-05-20T14:00:00-0500
 series: 47
 collections:
   - the-new-social-environment

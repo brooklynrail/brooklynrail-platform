@@ -5,5 +5,5 @@ alt: Maura Reilly
 caption: Photo by Rochelle S. Paris
 credit:
   - rochelle-s-paris
-date: 2020-09-11 21:02:00 -0500
+date: 2020-09-11T21:02:00-0500
 ---

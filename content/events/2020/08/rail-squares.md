@@ -18,8 +18,8 @@ poets:
       post-it notes, in shop-front windows & other spaces. "SAME HERE",
       selections from a decade of poems, was recently released from Adjunct
       Press.
-date: 2020-08-21 13:00:00 -0500
-end_date: 2020-08-21 14:00:00 -0500
+date: 2020-08-21T13:00:00-0500
+end_date: 2020-08-21T14:00:00-0500
 series: 113
 collections:
   - the-new-social-environment

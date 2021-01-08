@@ -39,8 +39,8 @@ poets:
         text: Can We Have Our Ball Back
       - url: https://www.poetryproject.org/publications/the-recluse
         text: The Recluse
-date: 2020-07-02 13:00:00 -0500
-end_date: 2020-07-02 14:00:00 -0500
+date: 2020-07-02T13:00:00-0500
+end_date: 2020-07-02T14:00:00-0500
 series: 77
 collections:
   - the-new-social-environment

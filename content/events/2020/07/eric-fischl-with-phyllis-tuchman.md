@@ -27,8 +27,8 @@ poets:
       collections — "YOU & ME FOREVER," "outside voices, please," "hummingbird
       et partygirl," and "e f g." She has performed her little poetry theater at
       Treefort Music Festival, The Poetry Project, and The Silent Barn. '
-date: 2020-07-21 13:00:00 -0500
-end_date: 2020-07-21 14:00:00 -0500
+date: 2020-07-21T13:00:00-0500
+end_date: 2020-07-21T14:00:00-0500
 series: 90
 collections:
   - the-new-social-environment

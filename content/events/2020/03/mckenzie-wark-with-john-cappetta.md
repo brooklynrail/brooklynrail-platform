@@ -2,8 +2,8 @@
 title: McKenzie Wark with John Cappetta
 summary: Scholar McKenzie Wark and writer John Cappetta discuss creative life in
   the context of our new social reality.
-date: 2020-03-26 13:00:00 -0500
-end_date: 2020-03-26 14:00:00 -0500
+date: 2020-03-26T13:00:00-0500
+end_date: 2020-03-26T14:00:00-0500
 series: 8
 collections:
   - the-new-social-environment

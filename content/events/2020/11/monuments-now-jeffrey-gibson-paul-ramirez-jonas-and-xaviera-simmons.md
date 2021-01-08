@@ -61,8 +61,8 @@ poets:
       He is founder of Insurgent Poets Society, Carnival Slam: Cultural
       Exchange, and co-founder of Brooklyn Poetry Slam. Jive is a curator/host
       at Nuyorican Poet’s Café and teaches poetry and hip-hop to at-risk youth."
-date: 2020-11-13 13:00:00 -0500
-end_date: 2020-11-13 14:30:00 -0500
+date: 2020-11-13T13:00:00-0500
+end_date: 2020-11-13T14:30:00-0500
 series: 173
 collections:
   - the-new-social-environment

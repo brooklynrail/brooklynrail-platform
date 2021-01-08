@@ -3,8 +3,8 @@ title: Alison Scott-Williams and Thomas Cahill with Amei Wallach
 summary: Studio Institute President Thomas Cahill and Studio in a School NYC
   President Alison Scott-Williams with art critic Amei Wallach, discuss creative
   life in the context of our new social reality.
-date: 2020-05-21 13:00:00 -0500
-end_date: 2020-05-21 14:00:00 -0500
+date: 2020-05-21T13:00:00-0500
+end_date: 2020-05-21T14:00:00-0500
 series: 48
 collections:
   - the-new-social-environment

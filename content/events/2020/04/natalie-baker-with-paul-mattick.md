@@ -3,8 +3,8 @@ title: Natalie Baker with Paul Mattick
 summary: Security Studies professor Natalie Baker and the _Rail_'s Field Notes
   editor Paul Mattick discuss creative life in the context of our new social
   reality.
-date: 2020-04-07 13:00:00 -0500
-end_date: 2020-04-07 14:00:00 -0500
+date: 2020-04-07T13:00:00-0500
+end_date: 2020-04-07T14:00:00-0500
 series: 16
 collections:
   - the-new-social-environment

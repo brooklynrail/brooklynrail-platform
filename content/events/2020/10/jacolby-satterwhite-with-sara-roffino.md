@@ -38,8 +38,8 @@ poets:
       will be released in November 2020 from Desuetude Gallery. Her poetry has
       appeared in The Quarterless Review, The Brooklyn Rail, Newest York, and
       Daggers Magazine, among many others. She lives in Queens.
-date: 2020-10-20 13:00:00 -0500
-end_date: 2020-10-20 14:30:00 -0500
+date: 2020-10-20T13:00:00-0500
+end_date: 2020-10-20T14:30:00-0500
 series: 155
 collections:
   - the-new-social-environment

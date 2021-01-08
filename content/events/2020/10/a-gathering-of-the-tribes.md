@@ -49,8 +49,8 @@ people:
       (Fly by Night Press, 2006) and has contributed to three anthologies
       including Word: An Anthology by A Gathering of the Tribes. She is a
       graduate of Skidmore College and a native of North Jersey. "
-date: 2020-10-06 13:00:00 -0500
-end_date: 2020-10-06 14:30:00 -0500
+date: 2020-10-06T13:00:00-0500
+end_date: 2020-10-06T14:30:00-0500
 series: 145
 collections:
   - the-new-social-environment

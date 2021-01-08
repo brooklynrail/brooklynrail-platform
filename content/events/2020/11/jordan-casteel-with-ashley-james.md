@@ -65,8 +65,8 @@ poets:
         url: https://nightboat.org/book/no-knowledge-is-complete-until-it-passes-through-my-body/
       - text: Crosslight for Youngbird
         url: https://nightboat.org/book/crosslight-for-youngbird/
-date: 2020-11-30 13:00:00 -0500
-end_date: 2020-11-30 14:30:00 -0500
+date: 2020-11-30T13:00:00-0500
+end_date: 2020-11-30T14:30:00-0500
 series: 184
 collections:
   - the-new-social-environment
@@ -76,6 +76,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: bIVTbE2d3ds
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-183-jordan-casteel-tickets-129608495499
 event_platform:
   - zoom

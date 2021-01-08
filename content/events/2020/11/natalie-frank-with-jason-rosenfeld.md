@@ -39,8 +39,8 @@ poets:
       currently based in western Massachusetts. They are the author of A Series
       of Un/Natural/Disasters, and the chapbooks NO FILTER and Ephemera &
       Atmospheres.
-date: 2020-11-10 13:00:00 -0500
-end_date: 2020-11-10 14:30:00 -0500
+date: 2020-11-10T13:00:00-0500
+end_date: 2020-11-10T14:30:00-0500
 series: 170
 collections:
   - the-new-social-environment

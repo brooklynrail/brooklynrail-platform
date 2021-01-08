@@ -69,8 +69,8 @@ people:
       Resistance; Evergreen Review; Hyperallergic; KGB Bar Lit Mag; the Rail;
       Altar-ed Bodies, Clarity Haynes; Rilking; LTTR (Lesbians To The Rescue);
       alLuPiNiT; St. Petersburg Review.
-date: 2020-10-21 13:00:00 -0500
-end_date: 2020-10-21 14:00:00 -0500
+date: 2020-10-21T13:00:00-0500
+end_date: 2020-10-21T14:00:00-0500
 series: 156
 collections:
   - the-new-social-environment

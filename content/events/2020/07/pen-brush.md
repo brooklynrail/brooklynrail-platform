@@ -58,8 +58,8 @@ poets:
       the most recent is "Love and I" (Graywolf).  She has been awarded a
       Guggenheim Fellowship, the Lannan Award for Lifetime Achievement, and
       several other awards. She is Professor Emerita in Literature from UCSD.
-date: 2020-07-20 13:00:00 -0500
-end_date: 2020-07-20 14:00:00 -0500
+date: 2020-07-20T13:00:00-0500
+end_date: 2020-07-20T14:00:00-0500
 series: 89
 collections:
   - the-new-social-environment

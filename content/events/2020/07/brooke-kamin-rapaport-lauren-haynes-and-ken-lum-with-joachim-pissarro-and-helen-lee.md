@@ -78,8 +78,8 @@ poets:
     event_bio: "Kimberly Alidio's most recent publications are : once teeth bones
       coral : (Belladonna*) and a cell of falls (Portable Press at Yo-Yo Labs).
       why letter ellipses is forthcoming from selva oscura press this fall."
-date: 2020-08-06 13:00:00 -0500
-end_date: 2020-08-06 14:00:00 -0500
+date: 2020-08-06T13:00:00-0500
+end_date: 2020-08-06T14:00:00-0500
 series: 102
 collections:
   - the-new-social-environment

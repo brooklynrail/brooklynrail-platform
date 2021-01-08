@@ -33,8 +33,8 @@ poets:
       Rattapallax and Bowery Arts & Science collaborative Ghazal."
     person: mary-reilly
     related_links: []
-date: 2020-07-03 13:00:00 -0500
-end_date: 2020-07-03 14:00:00 -0500
+date: 2020-07-03T13:00:00-0500
+end_date: 2020-07-03T14:00:00-0500
 series: 78
 collections:
   - the-new-social-environment

@@ -196,8 +196,8 @@ poets:
       Die Hungry. Her latest projects include the comix poetry zine Pep Talks
       For Broke(n) People and the series, New York Strange. She is currently the
       Prison and Justice Writing Program Director at PEN America.
-date: 2020-10-19 13:00:00 -0500
-end_date: 2020-10-19 14:30:00 -0500
+date: 2020-10-19T13:00:00-0500
+end_date: 2020-10-19T14:30:00-0500
 series: 154
 collections:
   - the-new-social-environment

@@ -4,8 +4,8 @@ deck: John Giorno
 summary: 'Please join Karma Books, Farrar Straus & Giroux, and the John Giorno
   Foundation to celebrate "Great Demon Kings: A Memoir of Poetry, Sex, Art,
   Demons, and Enlightenment" by John Giorno'
-date: 2020-10-01 18:00:00 -0500
-end_date: 2020-10-01 20:00:00 -0500
+date: 2020-10-01T18:00:00-0500
+end_date: 2020-10-01T20:00:00-0500
 collections:
   - community-listing
 event_sponsor: []

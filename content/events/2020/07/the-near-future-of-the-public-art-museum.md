@@ -64,8 +64,8 @@ poets:
       sixteen-book cycle based on Euripides' The Bacchae. Originally from San
       Francisco, he now lives in New York and is freaking out like everybody
       else.
-date: 2020-08-05 13:00:00 -0500
-end_date: 2020-08-05 14:00:00 -0500
+date: 2020-08-05T13:00:00-0500
+end_date: 2020-08-05T14:00:00-0500
 series: 101
 collections:
   - the-new-social-environment

@@ -31,8 +31,8 @@ poets:
       The Poetry Project, he served as Co-Director of National Outreach and
       Membership at PEN America, where he led the launch of a nationwide
       community engagement fund for writers. "
-date: 2020-07-31 13:00:00 -0500
-end_date: 2020-07-31 14:00:00 -0500
+date: 2020-07-31T13:00:00-0500
+end_date: 2020-07-31T14:00:00-0500
 series: 98
 collections:
   - the-new-social-environment

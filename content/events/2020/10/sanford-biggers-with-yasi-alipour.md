@@ -50,8 +50,8 @@ poets:
         text: You Will Be Made of Stone
       - url: https://poeticslist.chicagoschoolofpoetics.com/2019/11/new-from-aboveground-press-autobiographical-ecology-by-isabel-sobral-campos/
         text: Autobiographical Ecology
-date: 2020-11-23 13:00:00 -0500
-end_date: 2020-11-23 14:00:00 -0500
+date: 2020-11-23T13:00:00-0500
+end_date: 2020-11-23T14:00:00-0500
 series: 179
 collections:
   - the-new-social-environment
@@ -61,6 +61,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: Uo6e7s7ohFI
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-179-sanford-biggers-tickets-129520636711
 event_platform:
   - zoom

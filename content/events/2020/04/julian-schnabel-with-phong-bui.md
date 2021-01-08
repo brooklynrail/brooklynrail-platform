@@ -4,8 +4,8 @@ summary: Artist Julian Schnabel and the _Brooklyn Rail's_ publisher Phong Bui
 event_organizer:
   - the-brooklyn-rail
 title: Julian Schnabel with Phong Bui
-date: 2020-04-03 13:00:00 -0500
-end_date: 2020-04-03 14:00:00 -0500
+date: 2020-04-03T13:00:00-0500
+end_date: 2020-04-03T14:00:00-0500
 series: 14
 collections:
   - the-new-social-environment

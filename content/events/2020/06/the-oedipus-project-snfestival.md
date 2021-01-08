@@ -2,8 +2,8 @@
 title: The Oedipus Project
 summary: A dramatic reading of Sophocles’ Oedipus the King as a catalyst for
   powerful, guided conversations about the impact of the COVID-19 pandemic
-date: 2020-06-24 13:00:00 -0500
-end_date: 2020-06-25 15:00:00 -0500
+date: 2020-06-24T13:00:00-0500
+end_date: 2020-06-25T15:00:00-0500
 collections:
   - theater-of-war
 event_organizer:

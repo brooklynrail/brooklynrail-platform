@@ -34,8 +34,8 @@ poets:
       College. She is the founder of the Woke Baby Book Fair and is completing
       her first book of essays on mass incarceration.
     related_links: []
-date: 2020-10-05 13:00:00 -0500
-end_date: 2020-10-05 14:00:00 -0500
+date: 2020-10-05T13:00:00-0500
+end_date: 2020-10-05T14:00:00-0500
 series: 144
 collections:
   - the-new-social-environment

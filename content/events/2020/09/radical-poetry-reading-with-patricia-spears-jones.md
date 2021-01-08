@@ -78,8 +78,8 @@ people:
       Arts Work Center, and attended workshops at Tin House and VONA. Currently
       Jade is pursuing an MFA at Rutgers-Newark and is a proud alum of CUNY
       Hunter.
-date: 2020-09-16 13:00:00 -0500
-end_date: 2020-09-16 14:00:00 -0500
+date: 2020-09-16T13:00:00-0500
+end_date: 2020-09-16T14:00:00-0500
 series: 131
 collections:
   - the-new-social-environment

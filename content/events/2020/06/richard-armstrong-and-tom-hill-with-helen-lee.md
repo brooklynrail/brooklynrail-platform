@@ -5,8 +5,8 @@ summary: Richard Armstrong, Director of the Solomon R. Guggenheim Museum and
   Foundation, Tom Hill of the Hill Art Foundation, and _Rail_ board member Helen
   Lee will discuss how art institutions and museums are adapting in our new
   social reality
-date: 2020-06-09 13:00:00 -0500
-end_date: 2020-06-09 14:00:00 -0500
+date: 2020-06-09T13:00:00-0500
+end_date: 2020-06-09T14:00:00-0500
 series: 61
 collections:
   - the-new-social-environment

@@ -29,8 +29,8 @@ poets:
       and collages detritus into heraldic devices. Former curator at The Poetry
       Project, Site Director of Wendy's Subway, and Rauschenberg
       artist-in-residence, she is now Young Mother of The Florxal Review.
-date: 2020-07-16 13:00:00 -0500
-end_date: 2020-07-16 14:00:00 -0500
+date: 2020-07-16T13:00:00-0500
+end_date: 2020-07-16T14:00:00-0500
 series: 87
 collections:
   - the-new-social-environment

@@ -46,8 +46,8 @@ people:
     event_bio: "Ghazal Mosadeq is a poet and translator. She is the founder of
       Pamenar Press, an independent cross-cultural, multi-lingual publisher
       based in UK, Canada and Iran. "
-date: 2020-11-11 13:00:00 -0500
-end_date: 2020-11-11 14:00:00 -0500
+date: 2020-11-11T13:00:00-0500
+end_date: 2020-11-11T14:00:00-0500
 series: 171
 collections:
   - the-new-social-environment

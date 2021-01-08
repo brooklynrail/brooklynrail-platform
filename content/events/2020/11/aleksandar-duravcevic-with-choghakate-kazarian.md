@@ -49,8 +49,8 @@ poets:
         url: https://www.goodreads.com/book/show/4895441-simple-master
       - text: Deportment
         url: https://www.wlupress.wlu.ca/Books/D/Deportment2
-date: 2020-12-01 13:00:00 -0500
-end_date: 2020-12-01 14:30:00 -0500
+date: 2020-12-01T13:00:00-0500
+end_date: 2020-12-01T14:30:00-0500
 series: 185
 collections:
   - the-new-social-environment
@@ -58,6 +58,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: 7pByuneo-xA
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-184-aleksandar-duravcevic-tickets-129763798013
 event_platform:
   - zoom

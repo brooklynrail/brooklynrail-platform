@@ -13,4 +13,5 @@ short_bio: "Dr. Amber Jamilla Musser PhD is Professor of American Studies at
   also writes art criticism for the Brooklyn Rail."
 portraits:
   - media: 2020/06/amber-musser
+rail_contributor_url: https://brooklynrail.org/contributor/Amber-Jamilla-Musser
 ---

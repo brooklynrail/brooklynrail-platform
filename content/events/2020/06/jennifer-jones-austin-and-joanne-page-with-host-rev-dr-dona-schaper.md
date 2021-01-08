@@ -3,8 +3,8 @@ title: Jennifer Jones Austin and JoAnne Page with Rev. Dr. Donna Schaper
 summary: A discussion on the social and economic well-being of NY's most
   vulnerable, and leading change and strengthening the fabric of our
   communities.
-date: 2020-06-10 13:00:00 -0500
-end_date: 2020-06-10 14:00:00 -0500
+date: 2020-06-10T13:00:00-0500
+end_date: 2020-06-10T14:00:00-0500
 series: 62
 collections:
   - the-new-social-environment

@@ -4,8 +4,8 @@ summary: Painter Lisa Yuskavage and critic Terry R. Myers discuss creative life
 event_organizer:
   - the-brooklyn-rail
 title: Lisa Yuskavage with Terry R. Myers
-date: 2020-03-27 13:00:00 -0500
-end_date: 2020-03-27 14:00:00 -0500
+date: 2020-03-27T13:00:00-0500
+end_date: 2020-03-27T14:00:00-0500
 series: 9
 collections:
   - the-new-social-environment

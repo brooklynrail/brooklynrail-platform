@@ -36,8 +36,8 @@ poets:
       faith and first-gen experience. Upcoming projects include creating a
       spoken word album and songwriting. She is pursuing an MFA at The New
       School.
-date: 2020-10-23 13:00:00 -0500
-end_date: 2020-10-23 14:30:00 -0500
+date: 2020-10-23T13:00:00-0500
+end_date: 2020-10-23T14:30:00-0500
 series: 158
 collections:
   - the-new-social-environment
