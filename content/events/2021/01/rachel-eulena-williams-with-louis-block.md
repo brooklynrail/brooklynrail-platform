@@ -1,7 +1,7 @@
 ---
 title: Rachel Eulena Williams with Louis Block
 summary: Artist Rachel Eulena Williams joins artist and writer Louis Block for a
-  conversation. We'll conclude with a poetry reading.
+  conversation. We'll conclude with a poetry reading from Evelyn Reilly.
 people:
   - person: rachel-eulena-williams
     event_bio: >-
