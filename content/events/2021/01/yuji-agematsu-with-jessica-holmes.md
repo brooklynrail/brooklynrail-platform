@@ -1,7 +1,7 @@
 ---
 title: Yuji Agematsu with Jessica Holmes
 summary: Artist Yuji Agematsu joins writer and critic Jessica Holmes for a
-  conversation. We'll conclude with a poetry reading.
+  conversation. We'll conclude with a poetry reading from Andrew Durbin.
 people:
   - person: yuji-agematsu
     event_bio: Hasegawa, a member of the band Taj Mahal Travellers, and the jazz
