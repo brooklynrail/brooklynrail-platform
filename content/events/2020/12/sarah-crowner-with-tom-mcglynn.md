@@ -46,6 +46,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: 4ULq1RoO32E
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-213-sarah-crowner-with-tom-mcglynn-tickets-133865664807
 event_platform:
   - zoom
