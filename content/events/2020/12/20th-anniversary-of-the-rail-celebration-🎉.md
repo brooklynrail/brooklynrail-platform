@@ -13,6 +13,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: gAPfligcmgY
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-200-the-rails-20th-anniversary-tickets-132870415991
 event_platform:
   - zoom
