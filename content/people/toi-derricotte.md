@@ -15,4 +15,5 @@ short_bio: "Author of 2019 National Book Awards Finalist I: New & Selected
   of Alice James Books."
 portraits:
   - media: 2021/01/toi-derricotte
+website: https://toiderricotte.com
 ---
