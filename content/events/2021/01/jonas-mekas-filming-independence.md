@@ -7,6 +7,27 @@ summary: A conversation on re-filming history as subjective media archaeology
 people:
   - person: kelly-taxter
   - person: lukas-brasiskis
+    event_bio: >
+      A film and media researcher and curator, Brasiskis is currently a PhD
+      candidate at New York University in the Department of Cinema Studies, and
+      an adjunct professor at NYU and CUNY/Brooklyn College. His interests
+      include eco-media, the politics and aesthetics of the world cinema, and
+      intersections between philosophy, moving-image cultures and the
+      contemporary art world. Brasiskis’ texts have been published in both
+      academic and non-academic media and he is currently co-editing a volume on
+      Cinema and the Environment in Eastern Europe for Berghahn Books and Jonas
+      Mekas: The Moving Image for Yale University Press. He has curated a number
+      of screening programs, including Ecology After Nature (e-flux, NY), From
+      Matter to Data: Ecology of Infrastructures (with Inga Lace, Post MoMa, New
+      York), Environmental Memories in East-Central European Art (Alternative
+      Film/Video Festival, Belgrade), Landscape to be Experienced and to be
+      Read: Time, Ecology, Politics on the work of filmmaker James Benning (CAC,
+      Vilnius), Mermaid with The Movie Camera (Spectacle Theater, New York), a
+      program of experimental films Human, Material, Machine (with Leo
+      Goldsmith, CAC, Vilnius, Lithuania), Baltic Poetic Documentary as
+      Ethnographic Cinema (NYU, New York), Welcome to the Anthropocene (CCAMP,
+      Lithuania), the retrospective of the films of Nathaniel Dorsky (CAC,
+      Vilnius) among others.
   - person: avi-lubin
   - person: philippe-alain-michaud
   - person: francesco-urbano-ragazzi
