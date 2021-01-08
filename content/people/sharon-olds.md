@@ -14,4 +14,5 @@ short_bio: Born in San Francisco and educated at Stanford University and
   Arias, was published by Knopf in October 2019. She lives in NYC.
 portraits:
   - media: 2021/01/sharon-olds
+website: https://www.sharonolds.net
 ---
