@@ -25,6 +25,20 @@ people:
     event_bio: Louis Block is a painter based in Brooklyn. His writing has appeared
       in the Brooklyn Rail, Hyperallergic, and Full Bleed Journal, and his work
       has been shown in Baltimore, Philadelphia, New Jersey, and Venice.
+poets:
+  - person: evelyn-reilly
+    event_bio: Evelyn Reilly’s books include Styrofoam, Apocalypso and Echolocation.
+      Her work has been widely anthologized. She has taught at Poetry Project at
+      St. Marks Church and has been a curator of the Segue Reading Series.
+      Portuguese translations of Styrofoam and Echolocation will be published in
+      2021.
+    related_links:
+      - url: https://www.spdbooks.org/Products/9781931824453/apocalypso.aspx
+        text: Apocalypso (Roof Books)
+      - url: https://www.spdbooks.org/Products/9781931824750/echolocation.aspx
+        text: Echolocation (Roof Books)
+      - url: https://www.spdbooks.org/Products/9781931824323/styrofoam.aspx
+        text: Styrofoam (Roof Books)
 date: 2021-01-15T13:00:00-0500
 end_date: 2021-01-15T14:30:00-0500
 series: 213
