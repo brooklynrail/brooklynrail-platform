@@ -47,8 +47,9 @@ poets:
         text: " Poets Pandemic Podcast"
       - url: http://www.brokedownpalacebook.com
         text: BrokeDown Palace
-date: 2021-01-12T13:29:00-0500
-end_date: 2021-01-12T13:29:00-0500
+date: 2021-01-18T13:00:00-0500
+end_date: 2021-01-18T14:30:00-0500
+series: 214
 collections:
   - the-new-social-environment
 event_organizer:
