@@ -56,6 +56,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-214-tishan-hsu-with-martha-schwendener-tickets-136476796773
 event_platform:
   - zoom
 ---
