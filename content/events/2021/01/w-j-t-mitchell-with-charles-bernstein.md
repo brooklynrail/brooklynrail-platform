@@ -1,6 +1,9 @@
 ---
 title: W.J.T. Mitchell with Charles Bernstein
-summary: W.J.T. Mitchell with Charles Bernstein
+summary: "Scholar and theorist of media, visual art, and literature W.J.T.
+  Mitchell joins poet and scholar Charles Bernstein for a conversation on
+  Mitchell's recent book, \"Mental Traveler: A Father, A Son, and a Journey
+  through Schizophrenia\""
 people:
   - person: w-j-t-mitchell
     event_bio: "W. J. T. Mitchell is editor of the interdisciplinary journal,
@@ -31,3 +34,6 @@ event_producer:
 event_platform:
   - zoom
 ---
+How does a parent make sense of a child’s severe mental illness? How does a father meet the daily challenges of caring for his gifted but delusional son, while seeking to overcome the stigma of madness and the limits of psychiatry?  W. J. T. Mitchell’s memoir tells the story—at once  representative and unique—of one family’s encounter with mental illness and bears witness to the life of the talented young man who was his son.
+
+*Mental Traveler: A Father, A Son, and a Journey through Schizophrenia* is available The University of Chicago Press here:<https://press.uchicago.edu/ucp/books/book/chicago/M/bo49299282.html>
