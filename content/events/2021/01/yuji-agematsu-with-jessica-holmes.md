@@ -60,6 +60,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: ebCO_fF52eg
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-210-yuji-agematsu-with-jessica-holmes-tickets-135909822939
 event_platform:
   - zoom
