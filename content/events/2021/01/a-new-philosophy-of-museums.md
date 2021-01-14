@@ -1,9 +1,10 @@
 ---
 title: A New Philosophy of Museums
-summary: Architect Mitchell Joachim of Terreform One and life-long entrepreneur
-  Yoram Roth join composer, multimedia artist, and Rail Editor-at-Large  Paul D.
-  Miller (aka DJ Spooky) for a conversation. We conclude with a poetry reading
-  from Alissa Quart.
+summary: Entrepreneur Yoram Roth and architect Mitchell Joachim join Rail
+  Editor-at-Large Paul D. Miller for a conversation on the unexpected
+  intersections of art and tech, and reimagining the future of museums on the
+  unexpected intersections of art and tech, and reimagining the future of
+  museums. We conclude with a reading by writer Alissa Quart.
 people:
   - person: mitchell-joachim
     event_bio: 'Mitchell Joachim, PhD, Co-Founder of Terreform ONE and an Associate
@@ -31,6 +32,11 @@ people:
       of recording artists, including Metallica, Chuck D, Steve Reich, and Yoko
       Ono. His 2018 album, DJ Spooky Presents: Phantom Dancehall, debuted at #3
       on Billboard Reggae. He is an Editor-at-Large at the Rail. "
+  - person: yoram-roth
+    event_bio: A lifelong entrepreneur with a focus on the creative, real estate and
+      the hospitality sector, Roth is the chairman of Fotografiska New York, as
+      well as of NeueHouse, and has lived in New York and Los Angeles for over
+      20 years.
 date: 2021-01-14T16:41:00-0500
 end_date: 2021-01-14T16:41:00-0500
 collections:
