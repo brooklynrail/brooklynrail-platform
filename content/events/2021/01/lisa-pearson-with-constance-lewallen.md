@@ -28,8 +28,8 @@ people:
       Kaltenbach: The Beginning and The End, at the Manetti Shrem Museum, UC
       Davis, and Reese Palley Gallery (with Jordan Stein), at Cushion Works, San
       Francisco. Lewallen is Editor-at-Large for the Brooklyn Rail."
-date: 2021-01-14T13:31:00-0500
-end_date: 2021-01-14T13:31:00-0500
+date: 2021-01-19T13:00:00-0500
+end_date: 2021-01-19T14:30:00-0500
 collections:
   - the-new-social-environment
 event_organizer:
