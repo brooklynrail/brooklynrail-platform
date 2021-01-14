@@ -24,6 +24,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-216-radical-poetry-reading-with-leila-chatti-tickets-136856813413
 event_platform:
   - zoom
 ---
