@@ -37,6 +37,8 @@ event_organizer:
 event_producer:
   - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-215-lisa-pearson-with-constance-lewallen-tickets-136854913731
+event_platform:
+  - zoom
 ---
 **[About Siglio](http://sigliopress.com/about/)**
 
