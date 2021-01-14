@@ -25,6 +25,11 @@ people:
       been exhibited at MoMA and the Venice Biennale. He earned: PhD at
       Massachusetts Institute of Technology, MAUD Harvard University, M.Arch
       Columbia University. '
+  - person: yoram-roth
+    event_bio: A lifelong entrepreneur with a focus on the creative, real estate and
+      the hospitality sector, Roth is the chairman of Fotografiska New York, as
+      well as of NeueHouse, and has lived in New York and Los Angeles for over
+      20 years.
   - person: paul-d-miller-aka-dj-spooky
     event_bio: "Paul D. Miller, aka DJ Spooky, is a composer, multimedia artist, and
       writer whose work immerses audiences in a blend of genres, global culture,
@@ -32,13 +37,8 @@ people:
       of recording artists, including Metallica, Chuck D, Steve Reich, and Yoko
       Ono. His 2018 album, DJ Spooky Presents: Phantom Dancehall, debuted at #3
       on Billboard Reggae. He is an Editor-at-Large at the Rail. "
-  - person: yoram-roth
-    event_bio: A lifelong entrepreneur with a focus on the creative, real estate and
-      the hospitality sector, Roth is the chairman of Fotografiska New York, as
-      well as of NeueHouse, and has lived in New York and Los Angeles for over
-      20 years.
-date: 2021-01-14T16:41:00-0500
-end_date: 2021-01-14T16:41:00-0500
+date: 2021-01-21T13:00:00-0500
+end_date: 2021-01-21T14:30:00-0500
 collections:
   - common-ground
 event_organizer:
