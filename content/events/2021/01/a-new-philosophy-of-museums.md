@@ -1,7 +1,9 @@
 ---
 title: A New Philosophy of Museums
-summary: Mitchell Joachim and Yoram Roth join Paul D. Miller (aka DJ Spooky). We
-  conclude with a poetry reading from Alissa Quart.
+summary: Architect Mitchell Joachim of Terreform One and life-long entrepreneur
+  Yoram Roth join composer, multimedia artist, and Rail Editor-at-Large  Paul D.
+  Miller (aka DJ Spooky) for a conversation. We conclude with a poetry reading
+  from Alissa Quart.
 people:
   - person: yoram-roth
     event_bio: Yoram Roth (born 1968 in Berlin, Germany) is a life-long entrepreneur
@@ -49,4 +51,5 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/common-ground-a-new-philosophy-of-museums-tickets-136887669705
 ---
