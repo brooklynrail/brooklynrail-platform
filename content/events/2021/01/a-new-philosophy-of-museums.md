@@ -5,6 +5,11 @@ summary: Entrepreneur Yoram Roth and architect Mitchell Joachim join Rail
   intersections of art and tech, and reimagining the future of museums. We
   conclude with a reading by writer Alissa Quart.
 people:
+  - person: yoram-roth
+    event_bio: A lifelong entrepreneur with a focus on the creative, real estate and
+      the hospitality sector, Roth is the chairman of Fotografiska New York, as
+      well as of NeueHouse, and has lived in New York and Los Angeles for over
+      20 years.
   - person: mitchell-joachim
     event_bio: 'Mitchell Joachim, PhD, Co-Founder of Terreform ONE and an Associate
       Professor at NYU. Formerly, he was an architect at the offices of Frank
@@ -24,11 +29,6 @@ people:
       been exhibited at MoMA and the Venice Biennale. He earned: PhD at
       Massachusetts Institute of Technology, MAUD Harvard University, M.Arch
       Columbia University. '
-  - person: yoram-roth
-    event_bio: A lifelong entrepreneur with a focus on the creative, real estate and
-      the hospitality sector, Roth is the chairman of Fotografiska New York, as
-      well as of NeueHouse, and has lived in New York and Los Angeles for over
-      20 years.
   - person: paul-d-miller-aka-dj-spooky
     event_bio: "Paul D. Miller, aka DJ Spooky, is a composer, multimedia artist, and
       writer whose work immerses audiences in a blend of genres, global culture,
