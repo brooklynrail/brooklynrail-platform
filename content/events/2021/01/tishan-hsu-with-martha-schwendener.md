@@ -16,13 +16,14 @@ people:
       biomedical images, and other parts of human, animal and technological
       bodies. The scale of these works is such that the dot matrix of the
       silkscreen is markedly legible, conveying an affect of the digital.  In
-      the 2000s, Hsu explored the use of digital printing on canvas as well as
-      interactive installations using video processed projections with
+      the early 2000s, Hsu explored the use of digital printing on canvas as
+      well as interactive installations using video processed projections with
       motion-sensor technology activated by the body.    His most recent
       paintings, further, almost announce their techno-mediation through an
-      evident digital reproducibility fused with a material affect.  Various
-      re-engaged motifs from his visual vocabulary are now warped and morphing
-      into hardware and screens and become part of a larger corporeal entity.
+      evident digital reproducibility fused with the material affect of
+      pigmented medium.  Various re-engaged motifs from his visual vocabulary
+      are now warped and morphing into hardware and screens and become part of a
+      larger corporeal entity.
     related_links:
       - text: 'On View: "Body Electric" at Museum of Art and Design, Miami Dade College'
         url: http://www.mdcmoad.org/explore/exhibitions.aspx
