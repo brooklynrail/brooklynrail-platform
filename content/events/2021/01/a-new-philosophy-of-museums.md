@@ -2,9 +2,8 @@
 title: A New Philosophy of Museums
 summary: Entrepreneur Yoram Roth and architect Mitchell Joachim join Rail
   Editor-at-Large Paul D. Miller for a conversation on the unexpected
-  intersections of art and tech, and reimagining the future of museums on the
-  unexpected intersections of art and tech, and reimagining the future of
-  museums. We conclude with a reading by writer Alissa Quart.
+  intersections of art and tech, and reimagining the future of museums. We
+  conclude with a reading by writer Alissa Quart.
 people:
   - person: mitchell-joachim
     event_bio: 'Mitchell Joachim, PhD, Co-Founder of Terreform ONE and an Associate
