@@ -44,5 +44,5 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
-registration_url: https://www.eventbrite.com/e/common-ground-a-new-philosophy-of-museums-tickets-136887669705
+registration_url: https://www.eventbrite.com/e/a-new-philosophy-of-museums-tickets-136887669705
 ---
