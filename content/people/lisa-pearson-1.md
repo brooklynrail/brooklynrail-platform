@@ -9,6 +9,6 @@ short_bio: "Lisa Pearson is the founder and publisher of Siglio, an independent
   Brainard, and Robert Seydel as well as It Is Almost That: A Collection of
   Image+Text Work by Women Artists & Writers."
 portraits:
-  - media: 2021/01/lisa-pearson
+  - media: 2021/01/lisa-pearson-preferred-headshot
 website: http://sigliopress.com
 ---
