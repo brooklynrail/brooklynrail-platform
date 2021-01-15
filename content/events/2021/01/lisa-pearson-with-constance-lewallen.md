@@ -28,6 +28,16 @@ people:
       Kaltenbach: The Beginning and The End, at the Manetti Shrem Museum, UC
       Davis, and Reese Palley Gallery (with Jordan Stein), at Cushion Works, San
       Francisco. Lewallen is Editor-at-Large for the Brooklyn Rail."
+poets:
+  - person: adam-degraff
+    event_bio: "DeGraff’s most recent book is Wherewithal a selected poems edited by
+      Anselm Berrigan. He hosts the Kith & Kin reading series in Astoria Queens
+      with Tyler Burba, teaches Poetry at St. Francis Prep in Fresh Meadows
+      Queens and, with Genevieve George, looks after two daughters in Sunnyside
+      Queens. "
+    related_links:
+      - url: https://www.spdbooks.org/Products/9781930068667/wherewithal.aspx
+        text: Wherewithal (Subpress)
 date: 2021-01-19T13:00:00-0500
 end_date: 2021-01-19T14:30:00-0500
 series: 215
