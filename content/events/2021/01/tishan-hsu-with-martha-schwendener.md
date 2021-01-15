@@ -4,20 +4,25 @@ summary: Artist Tishan Hsu joins art critic Martha Schwendener for a
   conversation. We conclude with a poetry reading from Maggie Dubris.
 people:
   - person: tishan-hsu-1
-    event_bio: "Since the mid-1980s, Tishan Hsu’s prescient artistic practice has
-      been probing the cognitive as well as physical effects of transformative
+    event_bio: Since the mid-1980s, Tishan Hsu’s prescient artistic practice has
+      been probing the cognitive as well as physical affects of transformative
       technological advances on our lives. Through the use of unusual materials,
       software tools, and innovative fabrication techniques, his enigmatic
       paintings and sculptures explore and manifest poetic new ways to engage
-      and reimagine the human body. Hsu has been making the majority of his
-      paintings on canvas since the late 1980s using a silkscreen process to
-      juxtapose images of his close-up pastel drawings of flesh with
-      appropriated biomedical images of orifices and body parts. The scale of
-      these works is such that the dot matrix of the silkscreens is markedly
-      legible. His most recent paintings, further, almost announce their
-      techno-mediation through an evident digital reproducibility. Various
+      and reimagine the interface between an organic body and
+      technology.   Since the late-1980s and 90s, Hsu has been making the
+      majority of his paintings on canvas using a silkscreen process to fuse
+      images from scanned pastel drawings of organic skin with appropriated
+      biomedical images, and other parts of human, animal and technological
+      bodies. The scale of these works is such that the dot matrix of the
+      silkscreen is markedly legible, conveying an affect of the digital.  In
+      the 2000s, Hsu explored the use of digital printing on canvas as well as
+      interactive installations using video processed projections with
+      motion-sensor technology activated by the body.    His most recent
+      paintings, further, almost announce their techno-mediation through an
+      evident digital reproducibility fused with a material affect.  Various
       re-engaged motifs from his visual vocabulary are now warped and morphing
-      into hardware and screens and become part of a larger corporeal entity. "
+      into hardware and screens and become part of a larger corporeal entity.
     related_links:
       - text: 'On View: "Body Electric" at Museum of Art and Design, Miami Dade College'
         url: http://www.mdcmoad.org/explore/exhibitions.aspx
