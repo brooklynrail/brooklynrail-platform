@@ -1,8 +1,8 @@
 ---
 title: Lisa Pearson with Constance Lewallen
-summary: Found and publisher of Siglio Press Lisa Pearson joins curator and Rail
-  Editor-at-Large Constance Lewallen. We conclude with a poetry reading from
-  Adam DeGraff.
+summary: Founder and publisher of Siglio Press Lisa Pearson joins curator and
+  Rail Editor-at-Large Constance Lewallen. We conclude with a poetry reading
+  from Adam DeGraff.
 people:
   - person: lisa-pearson-1
     event_bio: "Lisa Pearson is the founder and publisher of Siglio, an independent
