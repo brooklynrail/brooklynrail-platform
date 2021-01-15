@@ -1,5 +1,5 @@
 ---
-media: /media/files/lisa-pearson.photocredit-richard-kraft.jpg
+media: /media/files/lisa-pearson.photocredit-richard-kraft.edited2.jpg
 title: Lisa Pearson (preferred headshot)
 alt: Lisa Pearson
 caption: Courtesy Richard Kraft
