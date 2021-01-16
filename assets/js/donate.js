@@ -14,8 +14,8 @@ jQuery(document).ready(function($) {
 	// look out for submit events on the form
 	var submitButton = document.getElementById("btn-donate");
 	var amountInput = document.getElementById("donate-amount");
-	// var stripe = Stripe("pk_live_etssu1WTxk1CFKZuGX9lBQOU00YxJbQofX"); // STRIPE_PUBLISHABLE
-	var stripe = Stripe(process.env.STRIPE_PUBLISHABLE); // STRIPE_PUBLISHABLE
+	var stripe = Stripe("pk_live_etssu1WTxk1CFKZuGX9lBQOU00YxJbQofX"); // STRIPE_PUBLISHABLE
+	// var stripe = Stripe(process.env.STRIPE_PUBLISHABLE); // STRIPE_PUBLISHABLE
 	
 
 	// Gets all the checked checkboxes

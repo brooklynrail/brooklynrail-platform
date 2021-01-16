@@ -12,8 +12,6 @@
     @include u-maxw("none");
   }
   .fields {
-    legend {
-    }
     input {
       @include u-width("card-lg");
     }
