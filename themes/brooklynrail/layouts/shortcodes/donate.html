@@ -24,7 +24,7 @@ Donate Shortcode
             <label for="donate-amount">Amount</label>
             <div class="prefix">
               <span>$</span>
-              <input type="number" min="0" placeholder="{{- if $placeholder -}}{{- $placeholder -}}{{- else -}}25{{- end -}}" id="donate-amount" />
+              <input required type="number" min="0" placeholder="{{- if $placeholder -}}{{- $placeholder -}}{{- else -}}25{{- end -}}" id="donate-amount" />
             </div>
           </div>
         </div>
@@ -42,7 +42,7 @@ Donate Shortcode
         </div>
         <div class="group">
           <div class="field">
-            <button class="btn btn-md" type="button" id="btn-donate"><span>Donate</span></button>
+            <button class="btn btn-md" type="button" id="btn-donate" disabled><span>Donate</span></button>
           </div>
         </div>
 

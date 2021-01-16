@@ -13,9 +13,9 @@ jQuery(document).ready(function($) {
 
 	// look out for submit events on the form
 	var submitButton = document.getElementById("btn-donate");
-	// var stripe = Stripe("pk_test_ykFiEaft3Qg1H0Wew5lXhDvM00jXCg2uo5"); // STRIPE_PUBLISHABLE_TEST
+	var amountInput = document.getElementById("donate-amount");
 	var stripe = Stripe("pk_live_etssu1WTxk1CFKZuGX9lBQOU00YxJbQofX"); // STRIPE_PUBLISHABLE
-	var form = document.getElementById("donate-form");
+	
 
 	// Gets all the checked checkboxes
 	function get_checked(){
@@ -25,6 +25,19 @@ jQuery(document).ready(function($) {
     });
 		return features.join(', ');
 	}
+
+	// Check if the amountInput field has a value on keyup
+	// If it is empty, make it disabled, otherwise make it enabled and ready to submit
+	// This also accounts for people who enter a value then deleted it
+	$(amountInput).keyup(function(){
+		var value = $(amountInput).val();
+		if (!value){
+			submitButton.disabled = true; // adds the disabled attribute
+		} else {
+			submitButton.disabled = false; // removes the disabled attribute
+		}
+	});
+
 
 	$('#btn-donate').click(function(e){
 		e.preventDefault();
@@ -38,7 +51,6 @@ jQuery(document).ready(function($) {
 
 		var dataJson = JSON.stringify(data);
 
-		console.log(dataJson);
 
 		// create a stripe session by talking to our netlify function
 		$.ajax({
