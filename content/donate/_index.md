@@ -22,6 +22,8 @@ As a small non-profit, we need your support. Please consider making a donation t
 
 The _Rail_ remains committed to producing free and independent forums to engage with the arts.
 
+{{< youtube 3JWqABDPA0k >}}
+
 ## Critical projects we launched in 2020
 
 - **The New Social Environment** — Our daily, live interviews with artists, cultural icons and activists, screened via Zoom during quarantine. Hosted weekdays at `1pm ET / 10am PT`. [View the full archive »](https://brooklynrail.org/events)
