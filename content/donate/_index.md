@@ -10,7 +10,7 @@ donation_amt: 104929
 donation_count: 297
 ---
 
-{{< donate placeholder="25" value="25" >}}
+{{< donate placeholder="250" value="25" >}}
 
 2020 has been a challenging year for everyone. It’s left us scattered and isolated by a pandemic, confronting our roles in the unjust racial history and present state of our country, all the while organizing in the run up to a critical presidential election.
 
