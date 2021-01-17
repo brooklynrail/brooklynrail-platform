@@ -31,14 +31,31 @@ jQuery(document).ready(function($) {
 	// If it is empty, make it disabled, otherwise make it enabled and ready to submit
 	// This also accounts for people who enter a value then deleted it
 	$(amountInput).keyup(function(){
-		var value = $(amountInput).val();
+		var value = $(this).val();
 		if (!value){
 			submitButton.disabled = true; // adds the disabled attribute
+			var text = "Please enter an amount";
+			addHelper(text);
 		} else {
 			submitButton.disabled = false; // removes the disabled attribute
+			removeHelper();
 		}
 	});
 
+	// btn-helper
+	if (submitButton.disabled == true){
+		$('.btn-helper').click(function(e){
+			var text = "Please enter an amount";
+			addHelper(text);
+		});
+	}
+	
+	function addHelper(text){
+		$('.helper').text(text).fadeIn('fast');
+	}
+	function removeHelper(){
+		$('.helper').text('').fadeOut('fast');
+	}
 
 	$('#btn-donate').click(function(e){
 		e.preventDefault();
