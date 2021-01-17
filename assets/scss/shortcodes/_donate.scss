@@ -5,18 +5,53 @@
   @include u-bg("gray-cool-5");
   @include u-radius("md");
   @include u-margin-bottom(5);
-  @include u-padding-x(3);
-  @include u-padding-top(2);
+  @include u-padding-x(2);
+  @include u-padding-top("105");
   @include u-padding-bottom(3);
+  @include at-media("tablet") {
+    @include u-padding-x(3);
+    @include u-padding-bottom(3);
+  }
   .rail-form {
     @include u-maxw("none");
   }
   .fields {
-    input {
-      @include u-width("card-lg");
+    @include u-margin-y(1);
+    @include u-width("full");
+    @include u-display("block");
+    @include at-media("tablet") {
+      @include u-display("flex");
+    }
+    .group {
+      &:last-child {
+        @include u-margin-left(0);
+        @include at-media("tablet") {
+          @include u-margin-left(2);
+        }
+      }
+      .field {
+        @include u-width("full");
+        input {
+          @include u-width("card-lg");
+        }
+        #donate-amount {
+          @include u-width("full");
+          @include at-media("tablet") {
+            @include u-width("mobile");
+          }
+          @include at-media("tablet") {
+            @include u-width("card-lg");
+          }
+        }
+      }
     }
   }
-  .btn {
+  .helper {
+    @include u-font("sans", "xs");
+    @include u-text("gold-50v");
+  }
+  #btn-donate {
+    @include u-margin-top(1);
     @include u-line-height("sans", 3);
     @include u-height(5);
     &:hover {
@@ -28,15 +63,20 @@
       @include u-bg("red-30");
     }
   }
-  p {
-    @include u-margin-bottom(0);
-    @include u-font("sans", "3xs");
-    @include u-text("base-darker");
-    @include at-media("tablet") {
-      @include u-font("sans", "2xs");
-    }
-    a {
-      @include u-text("primary");
+  .content {
+    @include u-border-top("1px", "solid", "gray-20");
+    @include u-margin-top(2);
+    @include u-padding-top(2);
+    p {
+      @include u-margin-bottom(0);
+      @include u-font("sans", "3xs");
+      @include u-text("base-darker");
+      @include at-media("tablet") {
+        @include u-font("sans", "2xs");
+      }
+      a {
+        @include u-text("blue-50v");
+      }
     }
   }
 }
