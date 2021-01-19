@@ -36,6 +36,24 @@ people:
       of recording artists, including Metallica, Chuck D, Steve Reich, and Yoko
       Ono. His 2018 album, DJ Spooky Presents: Phantom Dancehall, debuted at #3
       on Billboard Reggae. He is an Editor-at-Large at the Rail. "
+poets:
+  - person: alissa-quart
+    event_bio: 'Executive Director of the Economic Hardship Reporting Project, poet,
+      film producer, and nonfiction author. Her writing appears in The Nation,
+      Lit Hub, and The New York Times, among others. Her book "Bootstrapped" is
+      forthcoming from Ecco. She produced the Emmy award winning film,
+      "Jackson." '
+    related_links:
+      - url: http://www.jacksonthefilm.com
+        text: Jackson (film)
+      - url: https://www.spdbooks.org/Products/9781881163565/monetized.aspx
+        text: Monetized
+      - url: https://www.harpercollins.com/products/squeezed-alissa-quart?variant=32117924986914
+        text: "Squeezed: Why Our Families Can't Afford America"
+      - url: https://www.orbooks.com/catalog/thoughts-and-prayers/
+        text: Thoughts and Prayers
+      - url: https://www.basicbooks.com/titles/alissa-quart/branded/9780738208626/
+        text: "Branded: The Buying And Selling Of Teenagers"
 date: 2021-01-21T13:00:00-0500
 end_date: 2021-01-21T14:30:00-0500
 collections:
