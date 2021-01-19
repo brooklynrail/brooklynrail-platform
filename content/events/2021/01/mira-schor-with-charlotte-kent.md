@@ -4,56 +4,55 @@ summary: Artist Mira Schor joins visual culture theorist Charlotte Kent for a
   conversation. We conclude with a poetry reading from Rachel Blau DuPlessis.
 people:
   - person: mira-schor
-    event_bio: "Mira Schor is a New York based painter and writer. Her work has
-      always been steeped in the political, the historical, the personal, and
-      the material, including major periods in which gendered narrative and
-      representation of the body have been featured; in other periods the focus
-      of her work has been representation of language in drawing and painting.
-      Schor’s recent work has focused on the experience of living in a moment of
-      radical inequality, climate and political catastrophe, and accelerated
-      time, set against the powerful pull of older notions of time, craft, and
-      visual pleasure. She is the author of A Decade of Negative Thinking:
-      Essays on Art, Politics, and Daily Life (2009), Wet: On Painting,
-      Feminism, and Art Culture (1997) and of the blog A Year of Positive
-      Thinking. She was the co-founder and co-editor with fellow painter Susan
-      Bee of the journal and thirty-year editorial project M/E/A/N/I/N/G. Schor
-      is the recipient of many prestigious awards including a Guggenheim
-      Fellowship in Painting, a Pollock Krasner Grant, the College Art
-      Association’s Frank Jewett Mather Award in Art Criticism, and the Creative
-      Capital / Warhol Foundation Arts Writers Grant. In 2017 she was elected to
-      the National Academy. Schor is the recipient of the 2019 Women’s Caucus
-      for Art Lifetime Achievement Award for her work as a feminist painter, art
-      historian, and critic and is the recipient of  a 2019-2020 Sharpe Walentas
-      Studio Program Residency. She is represented by Lyles & King Gallery in
-      New York City."
-    related_links: []
+    event_bio: Since the mid-1980s, Tishan Hsu’s prescient artistic practice has
+      been probing the cognitive as well as physical affects of transformative
+      technological advances on our lives. Through the use of unusual materials,
+      software tools, and innovative fabrication techniques, his enigmatic
+      paintings and sculptures explore and manifest poetic new ways to engage
+      and reimagine the interface between an organic body and
+      technology.   Since the late-1980s and 90s, Hsu has been making the
+      majority of his paintings on canvas using a silkscreen process to fuse
+      images from scanned pastel drawings of organic skin with appropriated
+      biomedical images, and other parts of human, animal and technological
+      bodies. The scale of these works is such that the dot matrix of the
+      silkscreen is markedly legible, conveying an affect of the digital.  In
+      the early 2000s, Hsu explored the use of digital printing on canvas as
+      well as interactive installations using video processed projections with
+      motion-sensor technology activated by the body.    His most recent
+      paintings, further, almost announce their techno-mediation through an
+      evident digital reproducibility fused with the material affect of
+      pigmented medium.  Various re-engaged motifs from his visual vocabulary
+      are now warped and morphing into hardware and screens and become part of a
+      larger corporeal entity.
+    related_links:
+      - text: 'On View: "Body Electric" at Museum of Art and Design, Miami Dade College'
+        url: http://www.mdcmoad.org/explore/exhibitions.aspx
+      - text: 'On View: "100 Drawings From Now" at the Drawing Center'
+        url: https://drawingcenter.org/exhibitions/100-drawings-from-now
+      - text: 'On View: "Tishan Hsu: Liquid Circuit" at the Sculpture Center'
+        url: https://www.sculpture-center.org/exhibitions/12635/liquid-circuit
   - person: charlotte-kent
-    event_bio: "CHARLOTTE KENT, PhD is Assistant Professor of Visual Culture in the
-      Department of Art and Design at Montclair State University. She received
-      her PhD in Comparative Literature (CUNY Graduate Center), with a
-      certificate in critical theory. Her dissertation focused on the narratives
-      and rhetoric of art writing, with grant funded research at Tate Modern, to
-      contextualize the problematics of the Homeland Security Agency’s claim “if
-      you see something, say something.” Currently, she is co-editing a
-      collection on the absurd in contemporary art. Beyond scholarly
-      contributions to essay collections and journals, Charlotte produces
-      exhibition reviews for Brooklyn Rail, opinion pieces for Clot, and feature
-      articles as well as monthly column for Artists Magazine. In 2019-2020, she
-      was the Guest Editor for the Creative Research Center, producing a series
-      of posts on the topic of Collaboration. "
+    event_bio: Martha Schwendener is an art critic for The New York Times. Her
+      criticism has been published in Artforum, Bookforum, Art in America, The
+      New Yorker, The Village Voice, The Brooklyn Rail, Art Papers,
+      Artforum.com, New Art Examiner, CAA.reviews, Time Out New York, Flash Art,
+      Afterimage, October, Paper Monument and other publications. She received a
+      BA in art history in 1989 from Columbia University and an MA in fiction in
+      2000 from the University of Texas at Austin. She has taught at Hunter
+      College, the School of Visual Arts, Fashion Institute of Technology
+      (SUNY), the University of Texas at Austin, Rhode Island Island School of
+      Design, Pratt Institute, and New York University.
 poets:
   - person: rachel-blau-duplessis
-    event_bio: Author of the multi-volume long poem Drafts, and the recent collage
-      poems NUMBERS and Graphic Novella. Her second long poem, Traces, with
-      Days, includes Poetic Realism (BlazeVOX, forthcoming 2021) and Late Work
-      (Black Square Editions, 2020).
+    event_bio: An NYC-based writer and sound artist. She worked for 25 years as a
+      paramedic which inspired her most recent book BrokeDown Palace. Among
+      other projects, she’s currently working on an opera called Broke. She also
+      does underwater field recording in the parks and rivers of the city.
     related_links:
-      - url: https://xexoxial.org/is/graphic_novella/by/rachel_blau_duplessis
-        text: Graphic Novella
-      - url: http://www.blazevox.org/index.php/Shop/new-releases/poetic-realism-by-rachel-blau-duplessis-575/
-        text: Poetic Realism
-      - text: Late Work
-        url: https://www.blacksquareeditions.org/product-page/late-work-by-rachel-blau-duplessis
+      - url: https://soundcloud.com/maggie_dubris
+        text: " Poets Pandemic Podcast"
+      - url: http://www.brokedownpalacebook.com
+        text: BrokeDown Palace
 date: 2021-01-11T13:00:00-0500
 end_date: 2021-01-11T14:30:00-0500
 series: 209
@@ -63,6 +62,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: SsOIx3MwBl4
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-209-mira-schor-with-charlotte-kent-tickets-135731985021
 event_platform:
   - zoom
