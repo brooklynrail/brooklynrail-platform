@@ -38,11 +38,11 @@ people:
       on Billboard Reggae. He is an Editor-at-Large at the Rail. "
 poets:
   - person: alissa-quart
-    event_bio: 'Executive Director of the Economic Hardship Reporting Project, poet,
-      film producer, and nonfiction author. Her writing appears in The Nation,
-      Lit Hub, and The New York Times, among others. Her book "Bootstrapped" is
-      forthcoming from Ecco. She produced the Emmy award winning film,
-      "Jackson." '
+    event_bio: Executive Director of the Economic Hardship Reporting Project, poet,
+      journalist, and non-fiction author. Her poetry has appeared in The Nation,
+      Lit Hub and many others. Her reportage appears in The New York Times, The
+      Guardian et alia. Her book “Bootstrapped,” is forthcoming from
+      Ecco/HarperCollins.
     related_links:
       - url: http://www.jacksonthefilm.com
         text: Jackson (film)
