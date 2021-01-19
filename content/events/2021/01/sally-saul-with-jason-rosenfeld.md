@@ -34,6 +34,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-220-sally-saul-with-jason-rosenfeld-tickets-137008511145
 event_platform:
   - zoom
 ---
