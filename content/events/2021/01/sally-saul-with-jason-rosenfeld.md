@@ -1,7 +1,7 @@
 ---
 title: Sally Saul with Jason Rosenfeld
 summary: "Sculptor Sally Saul joins Rail Editor-at-Large Jason Rosenfeld for a
-  conversation. We conclude with a poetry reading. "
+  conversation. We conclude with a poetry reading from  Julien Poirier. "
 people:
   - person: sally-saul
     event_bio: >-
