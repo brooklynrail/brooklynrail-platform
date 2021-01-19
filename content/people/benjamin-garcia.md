@@ -11,7 +11,7 @@ short_bio: "Benjamin Garcia’s first collection, THROWN IN THE THROAT (Milkweed
   appeared or are forthcoming in: AGNI, American Poetry Review, Best New Poets
   2020, Kenyon Review, and New England Review."
 portraits:
-  - media: 2021/01/safia-elhillo
+  - media: 2021/01/benjamin-garcia
 email: ""
 website: http://benjamingarciapoet.com/
 instagram: "@bengarciapoet"
