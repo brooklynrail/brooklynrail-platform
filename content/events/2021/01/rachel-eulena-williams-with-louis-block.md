@@ -4,41 +4,55 @@ summary: Artist Rachel Eulena Williams joins artist and writer Louis Block for a
   conversation. We'll conclude with a poetry reading from Evelyn Reilly.
 people:
   - person: rachel-eulena-williams
-    event_bio: >-
-      An artist working at the boundaries between painting and sculpture. Her
-      reconfigured canvases unbind painting from the stretcher, avoiding
-      conventional support systems and imagining a myriad of spatial
-      contortions. Her evident interest in color represents a liberation from,
-      and criticality of, Western art history’s othering of color, and
-      categorizing it as unruly, foreign, and vulgar. Instead, her interest in
-      imagining unrestrained structures exceeds those boundaries and is
-      partially inspired by science fiction. Williams’ drawings also manipulate
-      the way images are presented, playing with assumptions about virtuosity
-      through abstraction.
-
-
-      Williams received a B.F.A. from Cooper Union for the Advancement of Science and Art, New York in 2013. Her work has been exhibited internationally at Loyal Gallery, Stockholm (2019), Ceysson & Bénétière, Sainte Etienne (2018), Night Gallery, Los Angeles (2018), Derek Eller Gallery, New York (2018), Cooper Cole, Toronto (2018), The Journal Gallery, Brooklyn, NY (2017), Mass Gallery, Austin (2017), SomeTime Salon, San Francisco (2017), and Center Street, New York (2017). Williams has held the SIP Fellowship at the Robert Blackburn Printmaking Workshop, New York (2019), 68 Projects, Berlin (2018), and NY Studio Factory, Brooklyn (2014). Rachel Eulena Williams currently lives and works in Brooklyn, New York, USA.
+    event_bio: Since the mid-1980s, Tishan Hsu’s prescient artistic practice has
+      been probing the cognitive as well as physical affects of transformative
+      technological advances on our lives. Through the use of unusual materials,
+      software tools, and innovative fabrication techniques, his enigmatic
+      paintings and sculptures explore and manifest poetic new ways to engage
+      and reimagine the interface between an organic body and
+      technology.   Since the late-1980s and 90s, Hsu has been making the
+      majority of his paintings on canvas using a silkscreen process to fuse
+      images from scanned pastel drawings of organic skin with appropriated
+      biomedical images, and other parts of human, animal and technological
+      bodies. The scale of these works is such that the dot matrix of the
+      silkscreen is markedly legible, conveying an affect of the digital.  In
+      the early 2000s, Hsu explored the use of digital printing on canvas as
+      well as interactive installations using video processed projections with
+      motion-sensor technology activated by the body.    His most recent
+      paintings, further, almost announce their techno-mediation through an
+      evident digital reproducibility fused with the material affect of
+      pigmented medium.  Various re-engaged motifs from his visual vocabulary
+      are now warped and morphing into hardware and screens and become part of a
+      larger corporeal entity.
     related_links:
-      - text: View her current exhibit at CANADA
-        url: https://www.canadanewyork.com/exhibitions/2020/tracing-memory/
+      - text: 'On View: "Body Electric" at Museum of Art and Design, Miami Dade College'
+        url: http://www.mdcmoad.org/explore/exhibitions.aspx
+      - text: 'On View: "100 Drawings From Now" at the Drawing Center'
+        url: https://drawingcenter.org/exhibitions/100-drawings-from-now
+      - text: 'On View: "Tishan Hsu: Liquid Circuit" at the Sculpture Center'
+        url: https://www.sculpture-center.org/exhibitions/12635/liquid-circuit
   - person: louis-block
-    event_bio: Louis Block is a painter based in Brooklyn. His writing has appeared
-      in the Brooklyn Rail, Hyperallergic, and Full Bleed Journal, and his work
-      has been shown in Baltimore, Philadelphia, New Jersey, and Venice.
+    event_bio: Martha Schwendener is an art critic for The New York Times. Her
+      criticism has been published in Artforum, Bookforum, Art in America, The
+      New Yorker, The Village Voice, The Brooklyn Rail, Art Papers,
+      Artforum.com, New Art Examiner, CAA.reviews, Time Out New York, Flash Art,
+      Afterimage, October, Paper Monument and other publications. She received a
+      BA in art history in 1989 from Columbia University and an MA in fiction in
+      2000 from the University of Texas at Austin. She has taught at Hunter
+      College, the School of Visual Arts, Fashion Institute of Technology
+      (SUNY), the University of Texas at Austin, Rhode Island Island School of
+      Design, Pratt Institute, and New York University.
 poets:
   - person: evelyn-reilly
-    event_bio: Evelyn Reilly’s books include Styrofoam, Apocalypso and Echolocation.
-      Her work has been widely anthologized. She has taught at Poetry Project at
-      St. Marks Church and has been a curator of the Segue Reading Series.
-      Portuguese translations of Styrofoam and Echolocation will be published in
-      2021.
+    event_bio: An NYC-based writer and sound artist. She worked for 25 years as a
+      paramedic which inspired her most recent book BrokeDown Palace. Among
+      other projects, she’s currently working on an opera called Broke. She also
+      does underwater field recording in the parks and rivers of the city.
     related_links:
-      - url: https://www.spdbooks.org/Products/9781931824453/apocalypso.aspx
-        text: Apocalypso (Roof Books)
-      - url: https://www.spdbooks.org/Products/9781931824750/echolocation.aspx
-        text: Echolocation (Roof Books)
-      - url: https://www.spdbooks.org/Products/9781931824323/styrofoam.aspx
-        text: Styrofoam (Roof Books)
+      - url: https://soundcloud.com/maggie_dubris
+        text: " Poets Pandemic Podcast"
+      - url: http://www.brokedownpalacebook.com
+        text: BrokeDown Palace
 date: 2021-01-15T13:00:00-0500
 end_date: 2021-01-15T14:30:00-0500
 series: 213
@@ -48,6 +62,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: 5ezhVPl9Pps
 registration_url: https://www.eventbrite.com/e/135875207403
 event_platform:
   - zoom
