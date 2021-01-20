@@ -14,4 +14,5 @@ short_bio: "Rev. Dr. Donna Schaper has been Senior Minister of Judson Memorial
   others."
 portraits:
   - media: 2020/06/rev-dr-dona-schaper
+rail_contributor_url: https://brooklynrail.org/contributor/rev-dr-donna-schaper
 ---
