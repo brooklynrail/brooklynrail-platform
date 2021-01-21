@@ -15,4 +15,6 @@ short_bio: "Artist, author, and former scientist whose work has been exhibited
   Southern California. "
 portraits:
   - media: 2021/01/enrique-martinez-celaya
+website: http://www.martinezcelaya.com
+instagram: studioenriquemartinezcelaya
 ---
