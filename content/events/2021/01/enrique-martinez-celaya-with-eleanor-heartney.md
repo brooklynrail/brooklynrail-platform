@@ -28,7 +28,7 @@ people:
       Transformed Contemporary Art. "
 date: 2021-01-29T13:00:00-0500
 end_date: 2021-01-29T14:30:00-0500
-series: 129
+series: 223
 collections:
   - the-new-social-environment
 event_organizer:
