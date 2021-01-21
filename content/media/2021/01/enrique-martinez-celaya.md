@@ -1,7 +1,7 @@
 ---
 media: /media/files/emc-by-saam-gambay-3.jpg
-title: Enrique Martinez Celaya
-alt: Enrique Martinez Celaya
+title: Enrique Martínez Celaya
+alt: Enrique Martínez Celaya
 caption: Photo by Saam Gambay
 credit:
   - saam-gambay
