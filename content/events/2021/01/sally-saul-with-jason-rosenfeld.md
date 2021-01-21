@@ -25,6 +25,17 @@ people:
       Gallery of Art, Washington, D.C.), and River Crossings (Olana and Cedar
       Grove, Hudson and Catskill, New York). He is a Senior Writer and
       Editor-at-Large for the Brooklyn Rail."
+poets:
+  - person: julien-poirier
+    event_bio: Julien Poirier is the author of Out of Print (City Lights) and Night
+      Mail, an ongoing series of poetry and comics broadcast by the US Postal
+      Service. He was a founding member of the Ugly Duckling Presse collective.
+      He lives in Berkeley and teaches poetry at San Quentin State Prison.
+    related_links:
+      - url: http://www.citylights.com/book/?GCOI=87286100754750&fa=author&person_id=13760
+        text: Out of Print
+      - url: https://uglyducklingpresse.org/contributors/julien-poirier/
+        text: Julien Poirier at UDP
 date: 2021-01-26T13:00:00-0500
 end_date: 2021-01-26T14:30:00-0500
 series: 220
