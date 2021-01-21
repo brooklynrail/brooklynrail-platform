@@ -9,5 +9,6 @@ short_bio: "Jasmine Wahi is a Curator, Activist, TEDx Speaker, and a Founder and
   of intersectional feminism. "
 portraits:
   - media: 2020/09/jasmine-wahi
+rail_contributor_url: https://brooklynrail.org/contributor/Jasmine-Wahi
 website: http://www.jasminewahi.com/
 ---
