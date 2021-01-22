@@ -62,5 +62,6 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: IWEMole-bXc
 registration_url: https://www.eventbrite.com/e/a-new-philosophy-of-museums-tickets-136887669705
 ---
