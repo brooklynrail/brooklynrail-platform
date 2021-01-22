@@ -12,6 +12,8 @@ short_bio: "K. Desireé Milwood is a Brooklyn born Panamanian American poet and
   time, the longest running open mic in the city. Her work has been featured on
   Def Poetry Jam: An Evening of Healing, Power & Poetry. K. Desireé is also a
   front woman for The Band Called Fuse."
+portraits:
+  - media: 2021/01/k-desiree-milwood
 rail_contributor_url: https://brooklynrail.org/contributor/K-Desiree-Milwood
 website: https://kdesireemilwood.com
 instagram: haikuguru
