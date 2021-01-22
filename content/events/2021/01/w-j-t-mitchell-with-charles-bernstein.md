@@ -42,6 +42,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: 2lUgQ8BxPew
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-218-wjt-mitchell-with-charles-bernstein-tickets-136723685223
 event_platform:
   - zoom
