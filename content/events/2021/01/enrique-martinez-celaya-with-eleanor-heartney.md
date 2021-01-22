@@ -1,7 +1,8 @@
 ---
 title: Enrique Martínez Celaya with Eleanor Heartney
 summary: Artist and writer Enrique Martínez Celaya joins art critic and author
-  Eleanor Heartney for a conversation. We'll conclude with a poetry reading.
+  Eleanor Heartney for a conversation. We'll conclude with a poetry reading from
+  David St. John.
 people:
   - person: enrique-martinez-celaya
     event_bio: >-
