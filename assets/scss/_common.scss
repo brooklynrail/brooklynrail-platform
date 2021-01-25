@@ -144,7 +144,10 @@ section.rail-section {
 // ===========================
 // Section
 main {
-  @include u-padding-y(6);
+  @include u-padding-y(0);
+  @include at-media("tablet") {
+    @include u-padding-y(6);
+  }
 }
 
 article {
@@ -166,9 +169,10 @@ section {
 }
 
 .breadcrumb {
-  @include u-margin-top(4);
+  @include u-margin-top(0);
   @include u-font("sans", "sm");
   @include at-media("tablet") {
+    @include u-margin-top(4);
     @include u-font("sans", "md");
   }
   a {
