@@ -111,9 +111,12 @@
     li.usa-nav__primary-item.nav-subscribe {
       @include u-margin-left("auto");
       a {
-        @include u-padding-y(2);
+        @include u-padding-y("105");
         @include u-margin-top("2px");
         @include u-font("sans", "2xs");
+        @include at-media("tablet") {
+          @include u-font("sans", "3xs");
+        }
         @include at-media("tablet-lg") {
           @include u-font("sans", "2xs");
         }
@@ -122,8 +125,11 @@
           @include u-position("absolute");
           @include u-top(1);
           @include u-left("105");
-          @include at-media("tablet-lg") {
+          @include at-media("tablet") {
             @include u-width(3);
+            @include u-left("neg-2");
+          }
+          @include at-media("tablet-lg") {
             @include u-left("neg-105");
           }
         }
