@@ -27,6 +27,21 @@ people:
       contributing editor of Art in America and the author of numerous books,
       including Art & Today, Postmodernism, and After the Revolution: Women Who
       Transformed Contemporary Art. "
+poets:
+  - person: david-st-john
+    event_bio: 'Author of 12 collections of poetry, most recently, "The Last
+      Troubadour: New and Selected Poems," as well as a volume of essays,
+      interviews & reviews, "Where the Angels Come Toward Us." He is a
+      chancellor of the Academy of American Poets and a member of the American
+      Academy of Arts and Sciences.'
+    related_links:
+      - url: https://poetdavidstjohn.com/books/study-for-the-worlds-body/
+        text: Study for the World’s Body, nominated for The National Book Award in
+          Poetry
+      - url: https://poetdavidstjohn.com/books/the-last-troubadour/
+        text: "The Last Troubadour: New and Selected Poems"
+      - url: https://poetdavidstjohn.com/books/where-the-angels-come-toward-us/
+        text: Where the Angels Come Toward Us
 date: 2021-01-29T13:00:00-0500
 end_date: 2021-01-29T14:30:00-0500
 series: 223
