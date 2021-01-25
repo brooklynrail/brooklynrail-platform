@@ -1,19 +1,19 @@
-title                   : "The Brooklyn Rail"
-baseURL                 : "/"
-languageCode            : "en-us"
-theme                   : "brooklynrail"
-themesDir               : "./themes"
-DefaultContentLanguage  : "en"
-SectionPagesMenu        : "main"
-Paginate                : 20
-googleAnalytics         : "UA-24931975-1"
-enableRobotsTXT         : true
-enableEmoji             : true
-enableGitInfo           : true
-buildFuture             : true
-relativeURLs            : true
-refLinksNotFoundURL     : https://brooklynrail.org/
-pluralizelisttitles     : false
+title: "The Brooklyn Rail"
+baseURL: "/"
+languageCode: "en-us"
+theme: "brooklynrail"
+themesDir: "./themes"
+DefaultContentLanguage: "en"
+SectionPagesMenu: "main"
+Paginate: 20
+googleAnalytics: "UA-24931975-1"
+enableRobotsTXT: true
+enableEmoji: true
+enableGitInfo: true
+buildFuture: true
+relativeURLs: true
+refLinksNotFoundURL: https://brooklynrail.org/
+pluralizelisttitles: false
 
 social:
   twitter: thebrooklynrail
@@ -28,17 +28,16 @@ ignoreErrors: "error-remote-getjson"
 
 # Permalink Configuration
 permalinks:
-  articles              : ":year/:month/:day/:filename/"
-  donate                : ":filename/"
-  pages                 : ":filename/"
-  events                : "events/:year/:month/:day/:filename/"
+  articles: ":year/:month/:day/:filename/"
+  donate: ":filename/"
+  pages: ":filename/"
+  events: "events/:year/:month/:day/:filename/"
 
 # Taxonomies
 taxonomies:
   collection: collections
   people: people
   orgs: org
-
 
 outputFormats:
   INFO:
@@ -79,40 +78,89 @@ markup:
 
 # Sitemap
 sitemap:
-  changefreq            : "daily"
-  priority              : 1
-  filename              : "sitemap.xml"
-
+  changefreq: "daily"
+  priority: 1
+  filename: "sitemap.xml"
 
 caches:
   getjson:
     dir: :resourceDir/:project
     maxAge: 48h
 
+# ==============================
 # Main Site navigation
 menu:
   primary:
-    - Name            : "Home"
-      Identifier      : "home"
-      URL             : "/"
-      Weight          : 1
+    - name: "Home"
+      identifier: "home"
+      URL: "/"
+      weight: 1
 
-    - Name            : "Events"
-      Identifier      : "events"
-      URL             : "/events"
-      Weight          : 2
+    - name: "Issues"
+      identifier: "issues"
+      URL: "/archive"
+      weight: 2
+      hasChildren: true
 
-    - Name            : "Shop"
-      Identifier      : "shop"
-      URL             : "https://shop.brooklynrail.org/"
-      Weight          : 3
+    - name: "Events"
+      identifier: "events"
+      URL: "events"
+      weight: 3
+      hasChildren: true
 
-    - Name            : "Subscribe"
-      Identifier      : "subscribe"
-      URL             : "/subscribe"
-      Weight          : 4
+    - name: "Shop"
+      identifier: "shop"
+      URL: "https://shop.brooklynrail.org/"
+      weight: 4
 
-    - Name            : "About"
-      Identifier      : "about"
-      URL             : "/about"
-      Weight          : 5
+    - name: "About"
+      identifier: "about"
+      URL: "/about"
+      weight: 5
+
+    # Events Sub-menu
+    - name: "This week"
+      identifier: "upcoming-events"
+      URL: "/events"
+      weight: 2
+      parent: events
+
+    - name: "Past events"
+      identifier: "past-events"
+      URL: "/events#past"
+      weight: 3
+      parent: events
+
+    - name: "Video archive"
+      identifier: "video-archive"
+      URL: "https://www.youtube.com/thebrooklynrail?sub_confirmation=1"
+      weight: 4
+      parent: events
+
+    - name: "Get updates about future events"
+      identifier: "events-update"
+      URL: "/newsletter"
+      params:
+        class: alt
+      pre: "<i class='far fa-bell'></i>"
+      weight: 5
+      parent: events
+
+    # Issues Sub Menu
+    - name: "All issues »"
+      identifier: "all-issues"
+      URL: "/archive"
+      weight: 2
+      params:
+        class: alt
+      pre: "<i class='far fa-eye'></i>"
+      parent: issues
+
+    - name: "Subscribe to the _Rail_ in print »"
+      identifier: "subscribe-print"
+      URL: "/subscribe"
+      weight: 3
+      params:
+        class: alt
+      pre: "<i class='far fa-newspaper'></i>"
+      parent: issues
