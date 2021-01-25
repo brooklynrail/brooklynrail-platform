@@ -47,6 +47,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: ayAXU779e-M
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-215-lisa-pearson-with-constance-lewallen-tickets-136854913731
 event_platform:
   - zoom
