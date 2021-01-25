@@ -64,7 +64,7 @@
   {{- $menuitem := .menuitem -}}
   {{- $issues_data := .issues_data -}}
 
-  <a class="usa-nav__link {{ if eq ($page.Section | urlize) $menuitem.URL -}}usa-current{{- end -}}" title="{{- $menuitem.Name -}}" href="{{- $menuitem.URL -}}"><span>{{- if $menuitem.Pre -}}<img src="{{- printf "%s%s" "material/img/gifs/" $menuitem.Pre | absURL -}}"/>{{- end }} {{ $menuitem.Name | markdownify -}}</span></a>
+  <a class="usa-nav__link {{ if eq ($page.Section | urlize) $menuitem.URL -}}usa-current{{- end -}}" title="{{- $menuitem.Name -}}" href="{{- $menuitem.URL -}}"><span>{{- if $menuitem.Pre }}{{- $menuitem.Pre }}&nbsp;{{ end }} {{ $menuitem.Name | markdownify -}}</span></a>
 {{- end -}}
 
 
@@ -90,7 +90,7 @@
 
     {{- range $i, $child := . -}}
     <li class="usa-nav__submenu-item {{ $child.Params.class -}}">
-      <a href="{{- $child.URL -}}" title="Events">{{- $child.Pre }} <span>{{ $child.Name | markdownify -}}</span></a>
+      <a href="{{- $child.URL -}}" title="{{ $child.Name | plainify -}}">{{- if $child.Pre }}{{- $child.Pre }}&nbsp;{{ end }} <span>{{ $child.Name | markdownify -}}</span></a>
     </li>
     {{- end -}}
   </ul>
