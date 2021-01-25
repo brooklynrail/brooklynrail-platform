@@ -118,6 +118,7 @@
           @include u-font("sans", "3xs");
         }
         @include at-media("tablet-lg") {
+          @include u-padding-y(2);
           @include u-font("sans", "2xs");
         }
         img {
@@ -126,10 +127,12 @@
           @include u-top(1);
           @include u-left("105");
           @include at-media("tablet") {
-            @include u-width(3);
+            @include u-width("205");
             @include u-left("neg-2");
           }
           @include at-media("tablet-lg") {
+            @include u-width(3);
+            @include u-top(1);
             @include u-left("neg-105");
           }
         }
@@ -160,9 +163,14 @@
       a.btn-donate {
         @include u-margin-top("05");
         @include u-padding-y("105");
+        @include u-padding-x(2);
         @include u-text("uppercase");
         @include u-text("white");
         @include u-bg("primary");
+        @include u-font("sans", "2xs");
+        @include at-media("tablet-lg") {
+          @include u-font("sans", "md");
+        }
       }
     }
   }
@@ -189,10 +197,14 @@
     @include u-bg("white");
     @include u-radius("sm");
     @include u-border("1px", "primary", "solid");
+    i {
+      @include u-margin-left("05");
+    }
   }
   a.btn-donate {
     @include u-padding-x(2);
     @include u-display("inline");
     @include u-width("auto");
+    @include u-text("uppercase");
   }
 }
