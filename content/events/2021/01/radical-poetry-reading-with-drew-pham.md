@@ -24,6 +24,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-226-radical-poetry-with-drew-pham-tickets-138524080253
 event_platform:
   - zoom
 ---
