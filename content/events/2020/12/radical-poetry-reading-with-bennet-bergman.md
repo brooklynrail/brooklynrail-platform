@@ -1,6 +1,6 @@
 ---
 deck: Featuring political poetry read by Mayra A. Rodríguez Castro, Shiv
-  Kotecha, benjamin krusling, and Layli Long Soldier.
+  Kotecha, Benjamin Krusling, and Layli Long Soldier.
 summary: Poet Bennet Bergman curates the first Radical Poetry Reading of 2021,
   featuring Mayra A. Rodríguez Castro, Shiv Kotecha, benjamin krusling, and
   Layli Long Soldier.
@@ -12,6 +12,21 @@ people:
       Literature. He is the founder and editor of Changes, a nonprofit press
       dedicated to publishing exceptional poetry by emerging writers in the
       United States. He lives in New York City.
+  - person: mayra-a-rodriguez-castro
+    event_bio: "Mayra A. Rodríguez Castro is a poet and translator. Rodríguez is the
+      editor of Dream of Europe: Selected Seminars and Interviews (Kenning
+      Editions, 2020). Her translations include the Pornomiseria Manifesto by
+      Luis Ospina and Carlos Mayolo (2017) and Ecogenoethnocide by Santiago
+      Arboleda Quiñonez (2018)."
+  - person: shiv-kotecha
+    event_bio: "Shiv Kotecha is the author of The Switch (Wonder, 2018) and EXTRIGUE
+      (Make Now, 2015). He writes about art, film, and literature for frieze.
+      He’s written elswhere on the internet, holds a PhD in English from New
+      York University and teaches poetry for NYU’s XE Experimental Humanties
+      Deparment. "
+  - person: benjamin-krusling
+    event_bio: Benjamin Krusling is a poet and artist based in Brooklyn, NY. his
+      first book, Glaring, is forthcoming in summer 2020 from Wendy’s Subway.
 poets: []
 date: 2021-01-06T13:00:00-0500
 end_date: 2021-01-06T14:00:00-0500
