@@ -27,6 +27,12 @@ people:
   - person: benjamin-krusling
     event_bio: Benjamin Krusling is a poet and artist based in Brooklyn, NY. his
       first book, Glaring, is forthcoming in summer 2020 from Wendy’s Subway.
+  - person: layli-long-soldier
+    event_bio: Layli Long Soldier earned a BFA from the Institute of American Indian
+      Arts and an MFA with honors from Bard College. She is the author of the
+      chapbook Chromosomory (2010) and the full-length collection Whereas
+      (2017), which won the National Books Critics Circle award and was a
+      finalist for the National Book Award.
 poets: []
 date: 2021-01-06T13:00:00-0500
 end_date: 2021-01-06T14:00:00-0500
