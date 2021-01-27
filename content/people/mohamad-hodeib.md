@@ -10,4 +10,6 @@ short_bio: el-Walad (Mohamad J. Hodeib) is a Brooklyn-based cultural activist &
   poets and literary circle). I host poetry shows and direct writers’ workshops
   since 2011. My first collection of Lebanese colloquial poems was published in
   2013 (الشوارع). Been stranded between Beirut and Brooklyn for some time now.
+portraits:
+  - media: 2021/01/mohamad-hodeib
 ---
