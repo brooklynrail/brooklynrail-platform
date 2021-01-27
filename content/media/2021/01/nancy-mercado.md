@@ -1,5 +1,5 @@
 ---
-media: /media/files/nancy-mercado-by-ricardo-muñiz.jpg
+media: /media/files/_nancy-mercado-by-ricardo-muñiz_.jpg
 title: Nancy Mercado
 alt: Nancy Mercado
 caption: Photo by Ricardo Muñiz
