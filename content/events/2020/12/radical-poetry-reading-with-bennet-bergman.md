@@ -1,7 +1,7 @@
 ---
 deck: Featuring political poetry read by Mayra A. Rodríguez Castro, Shiv
   Kotecha, Benjamin Krusling, and Layli Long Soldier.
-summary: Poet Bennet Bergman curates the first Radical Poetry Reading of 2021,
+summary: Poet Bennet Bergman curates the 21st Radical Poetry Reading of 2021,
   featuring Mayra A. Rodríguez Castro, Shiv Kotecha, Benjamin Krusling, and
   Layli Long Soldier.
 people:
