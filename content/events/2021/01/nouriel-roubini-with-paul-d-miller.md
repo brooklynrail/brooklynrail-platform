@@ -31,6 +31,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-224-nouriel-roubini-with-paul-d-miller-tickets-138657045957
 event_platform:
   - zoom
 ---
