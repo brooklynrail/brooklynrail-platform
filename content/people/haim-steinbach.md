@@ -13,5 +13,5 @@ short_bio: Born in Rehovot, Israel in 1944, Haim Steinbach has lived in the
   Art,  The Whitney Museum, The Dallas Museum of Art, The Guggenheim, Tate
   Modern, among many others.
 portraits:
-  - {}
+  - media: 2021/01/haim-steinbach
 ---
