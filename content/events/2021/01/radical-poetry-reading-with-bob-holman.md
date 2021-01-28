@@ -84,6 +84,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: ccgSvZFkoiA
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-221-radical-poetry-with-bob-holman-tickets-137791697677
 event_platform:
   - zoom
