@@ -5,17 +5,13 @@ summary: Artist Haim Steinbach joins artist and Rail Editor-at-Large Tom McGlynn
   Bridget Talone.
 people:
   - person: haim-steinbach
-    event_bio: Nouriel Roubini is a professor of economics at New York University’s
-      Stern School of Business. He is also CEO of Roubini Macro Associates, LLC,
-      a global macroeconomic consultancy firm in New York, as well as Co-Founder
-      of Rosa & Roubini Associates based out of London. He has published
-      numerous theoretical, empirical and policy papers on international
-      macroeconomic issues and coauthored several books. Dr. Roubini’s views on
-      global economic issues are widely cited by the media, and he is a frequent
-      commentator on various business news programs. Dr. Roubini received an
-      undergraduate degree at Bocconi University in Milan, Italy, and a
-      doctorate in economics at Harvard University. Prior to joining Stern, he
-      was on the faculty of Yale University’s department of economics.
+    event_bio: Tom McGlynn is an artist, writer, and independent curator based in
+      the NYC area. His work is represented in the permanent collections of the
+      Whitney Museum, the Museum of Modern Art, and the Cooper-Hewitt National
+      Design Museum of the Smithsonian. He is the director of Beautiful Fields,
+      an organization dedicated to socially-engaged curatorial projects, and is
+      also currently a visiting lecturer at Parsons/the New School. Tom is an
+      Editor-at-Large of the Brooklyn Rail.
   - person: tom-mcglynn
     event_bio: "Composer, multimedia artist, and writer Paul D. Miller (aka DJ
       Spooky) makes work that immerses audiences in a blend of genres, global
