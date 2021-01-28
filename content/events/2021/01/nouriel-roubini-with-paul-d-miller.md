@@ -22,6 +22,17 @@ people:
       an array of recording artists, including Metallica, Chuck D, Steve Reich,
       and Yoko Ono. His 2018 album DJ Spooky Presents: Phantom Dancehall debuted
       at #3 on Billboard Reggae. He is an Editor-at-Large of the Brooklyn Rail."
+poets:
+  - person: alex-cuff
+    event_bio: Alex Cuff is a writer and public school teacher living in Brooklyn.
+      Her chapbooks include FAMILY, A NATURAL WONDER and I TRY OUT A SENTENCE TO
+      SEE WHETHER I BELIEVE. She’s a graduate of the Milton Avery School of the
+      Arts at Bard College and co-founding editor of No, Dear magazine.
+    related_links:
+      - url: https://ghostproposal.com/store/i-try-out-a-sentence-to-see-whether-i-believe-by-alex-cuff
+        text: I TRY OUT A SENTENCE TO SEE WHETHER I BELIEVE (Ghost Proposal, 2020)
+      - url: http://realitybeach.org/the-press/family-a-natural-wonder/
+        text: FAMILY, A NATURAL WONDER (Reality Beach, 2018)
 date: 2021-02-01T13:00:00-0500
 end_date: 2021-02-01T14:30:00-0500
 series: 224
