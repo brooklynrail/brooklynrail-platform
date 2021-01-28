@@ -14,5 +14,5 @@ short_bio: An Iranian-born visual artist and filmmaker. Azari confronts broad
   His work has been exhibited globally and is included in international
   permanent collections.
 portraits:
-  - media: 2021/01/shirin-neshat-portrait
+  - media: 2021/01/shoja-azari-portrait
 ---
