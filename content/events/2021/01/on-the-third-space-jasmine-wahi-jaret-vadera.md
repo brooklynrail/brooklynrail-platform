@@ -58,6 +58,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: N-ddRzRXg90
 registration_url: https://www.eventbrite.com/e/on-the-third-space-jasmine-wahi-jaret-vadera-tickets-137832860797
 event_platform:
   - zoom
