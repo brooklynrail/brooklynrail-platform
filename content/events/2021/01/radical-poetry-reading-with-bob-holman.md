@@ -2,7 +2,7 @@
 title: Radical Poetry Reading with Bob Holman
 deck: Featuring political poetry read by Samantha Thornhill, Dewi Prysor, Nancy
   Mercado, and Mohamad Hodeib.
-summary: Poet Bob Holman curates the 22nd Radical Poetry Reading, featuring
+summary: Poet Bob Holman curates the 23rd Radical Poetry Reading, featuring
   poetry read by Samantha Thornhill, Dewi Prysor, Nancy Mercado, and Mohamad
   Hodeib.
 people:
