@@ -1,8 +1,8 @@
 ---
 title: Haim Steinbach with Tom McGlynn and Ann C. Collins
 summary: Artist Haim Steinbach joins artist and Rail Editor-at-Large Tom McGlynn
-  and Rail ArtSeen editor Ann C. Collins for a conversation. We conclude with a
-  poetry reading from Bridget Talone.
+  and Ann C. Collins for a conversation. We conclude with a poetry reading from
+  Bridget Talone.
 people:
   - person: haim-steinbach
     event_bio: Born in Rehovot, Israel in 1944, Haim Steinbach has lived in the
