@@ -1,7 +1,7 @@
 ---
 title: Shirin Neshat and Shoja Azari with Charles Shafaieh
-summary: Shirin Neshat and Shoja Azari with Charles Shafaieh. We conclude with
-  a. poetry reading from Ben Fama.
+summary: Artist and filmmakers Shirin Neshat and Shoja Azari join Charles
+  Shafaieh. We conclude with a. poetry reading from Ben Fama.
 people:
   - person: shirin-neshat
     event_bio: >-
@@ -35,13 +35,16 @@ people:
       Azari’s work has been exhibited globally and is included in international
       permanent collections. He lives and works in New York.
   - person: charles-shafaieh
-    event_bio: "Charles' writing on literature, visual art, theatre, film, and music
-      has appeared in The New Yorker, The New York Times Book Review, Vogue, The
-      Irish Times, Artforum, The Times Literary Supplement, and Kinfolk, among
-      other publications. Charles also writes regularly on architecture for the
-      Harvard Graduate School of Design, and have contributed material to The
-      Kinfolk Entrepreneur (Artisan 2017) and The Touch: Spaces Designed for the
-      Senses (gestalten 2019)."
+    event_bio: "Charles Shafaieh is an arts journalist and critic whose writing on
+      theatre, visual art, literature, film, and music has appeared in numerous
+      international publications including The New Yorker, Artforum, The Times
+      Literary Supplement, The Irish Times, and The Weekend Australian Review.
+      Originally from Montana and now based in New York City, he writes
+      regularly on opera for Opera News and on architecture and design for
+      Harvard Design Magazine. His essays have also appeared in multiple books,
+      such as The Touch: Spaces Designed for the Senses (gestalten 2019). With
+      the Brooklyn Public Library, he co-curates Litfilm, an annual film
+      festival focused on writers."
 date: 2021-02-05T13:00:00-0500
 end_date: 2021-02-05T14:30:00-0500
 series: 228
