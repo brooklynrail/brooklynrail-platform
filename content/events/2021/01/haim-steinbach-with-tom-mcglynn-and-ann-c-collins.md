@@ -5,28 +5,33 @@ summary: Artist Haim Steinbach joins artist and Rail Editor-at-Large Tom McGlynn
   Bridget Talone.
 people:
   - person: haim-steinbach
-    event_bio: Born in Rehovot, Israel in 1944, Haim Steinbach has lived in the
-      United States since 1957. He received a BFA from Pratt Institute in 1968,
-      followed by an MFA from Yale University in Connecticut in 1973. In 2018,
-      Steinbach presented the solo exhibition every single day at Museum Kurhaus
-      Kleve, Germany, which traveled to the Museion Bolzano, South Tyrol, Italy
-      in 2019. Also, in 2018, Steinbach presented zerubbabel, the inaugural
-      exhibition of Magasin III, Jaffa, Israel. The artist’s work is represented
-      in the permanent collections of The Museum of Modern Art, The Metropolitan
-      Museum of Art, The Whitney Museum of American Art, The Dallas Museum of
-      Art, The Guggenheim Museum, Tate Modern, The Museum of Contemporary Art,
-      (Los Angeles) and many others. Steinbach’s work has also been included in
-      important group exhibitions at The Museum of Modern Art, The Museum of
-      Contemporary Art, (Chicago) The Hirshhorn Museum, Tate Liverpool, Victoria
-      and Albert Museum, Palais de Tokyo, and the New Museum, among many others.
+    event_bio: Nouriel Roubini is a professor of economics at New York University’s
+      Stern School of Business. He is also CEO of Roubini Macro Associates, LLC,
+      a global macroeconomic consultancy firm in New York, as well as Co-Founder
+      of Rosa & Roubini Associates based out of London. He has published
+      numerous theoretical, empirical and policy papers on international
+      macroeconomic issues and coauthored several books. Dr. Roubini’s views on
+      global economic issues are widely cited by the media, and he is a frequent
+      commentator on various business news programs. Dr. Roubini received an
+      undergraduate degree at Bocconi University in Milan, Italy, and a
+      doctorate in economics at Harvard University. Prior to joining Stern, he
+      was on the faculty of Yale University’s department of economics.
   - person: tom-mcglynn
-    event_bio: Tom McGlynn is an artist, writer, and independent curator based in
-      the NYC area. His work is represented in the permanent collections of the
-      Whitney Museum, the Museum of Modern Art, and the Cooper-Hewitt National
-      Design Museum of the Smithsonian. He is the director of Beautiful Fields,
-      an organization dedicated to socially-engaged curatorial projects, and is
-      also currently a visiting lecturer at Parsons/the New School. Tom is an
-      Editor-at-Large of the Brooklyn Rail.
+    event_bio: "Composer, multimedia artist, and writer Paul D. Miller (aka DJ
+      Spooky) makes work that immerses audiences in a blend of genres, global
+      culture, and environmental and social issues. Miller has collaborated with
+      an array of recording artists, including Metallica, Chuck D, Steve Reich,
+      and Yoko Ono. His 2018 album DJ Spooky Presents: Phantom Dancehall debuted
+      at #3 on Billboard Reggae. He is an Editor-at-Large of the Brooklyn Rail."
+poets:
+  - person: bridget-talone
+    related_links:
+      - url: https://www.spdbooks.org/Products/9780989598590/the-soft-life.aspx
+        text: The Soft Life (Wonder)
+      - url: https://catenarypress.com/books/1ca0c630-a501-4e62-91f9-e277c478e507
+        text: Sous Les Yeux (Catenary Press)
+    event_bio: Bridget Talone is a poet living in Philadelphia. She is the author
+      THE SOFT LIFE (Wonder, 2018).
 date: 2021-02-02T13:00:00-0500
 end_date: 2021-02-02T14:30:00-0500
 series: 225
