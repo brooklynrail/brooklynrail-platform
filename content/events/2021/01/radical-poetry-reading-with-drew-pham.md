@@ -1,9 +1,9 @@
 ---
 title: Radical Poetry Reading with Drew Pham
-deck: Featuring poetry read by Leor Stylar, Benedict Nguyen, Erika Dane
+deck: Featuring poetry read by Leor Stylar, benedict nguyễn, Erika Dane
   Kielsgard, and Marcus Williams.
 summary: Poet Drew Pham curates the 23rd Radical Poetry Reading, featuring
-  poetry read by Leor Stylar, Benedict Nguyen, Erika Dane Kielsgard, and Marcus
+  poetry read by Leor Stylar, benedict nguyễn, Erika Dane Kielsgard, and Marcus
   Williams.
 people:
   - person: drew-pham
