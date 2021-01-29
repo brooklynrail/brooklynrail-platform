@@ -3,7 +3,7 @@ title: Radical Poetry Reading with Drew Pham
 deck: Featuring political poetry read by Leor Stylar, benedict nguyễn, Erika
   Dane Kielsgard, and marcus scott williams.
 summary: Poet Drew Pham curates the 23rd Radical Poetry Reading, featuring Leor
-  Stylar, benedict nguyễn, Erika Dane Kielsgard, and marcus Scott williams.
+  Stylar, benedict nguyễn, Erika Dane Kielsgard, and marcus scott williams.
 people:
   - person: drew-pham
     event_bio: Drew Pham is a queer, transgender writer of Vietnamese heritage, a
