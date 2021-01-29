@@ -1,7 +1,7 @@
 ---
 title: Shirin Neshat and Shoja Azari with Charles Shafaieh
-summary: Artist and filmmakers Shirin Neshat and Shoja Azari join journalist and
-  critic Charles Shafaieh. We conclude with a poetry reading from Ben Fama.
+summary: Artists and filmmakers Shirin Neshat and Shoja Azari join journalist
+  and critic Charles Shafaieh. We conclude with a poetry reading from Ben Fama.
 people:
   - person: shirin-neshat
     event_bio: >-
