@@ -69,6 +69,8 @@ date: 2021-02-04T18:00:00-0500
 end_date: 2021-02-04T19:30:00-0500
 collections:
   - common-ground
+event_sponsor:
+  - arizona-state-university-school-of-art-herberger-institute-for-design-the-arts
 event_organizer:
   - the-brooklyn-rail
 event_producer:
