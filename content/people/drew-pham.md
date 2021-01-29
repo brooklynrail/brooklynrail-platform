@@ -2,6 +2,7 @@
 name: Drew Pham
 first_name: Drew
 last_name: Pham
+pronouns: She/Her, They/Them
 short_bio: Drew Pham is a queer, transgender writer of Vietnamese heritage, a
   child of war refugees, and an adjunct English lecturer at CUNY Brooklyn
   College. Previously, she served in the US Army and deployed to Afghanistan
