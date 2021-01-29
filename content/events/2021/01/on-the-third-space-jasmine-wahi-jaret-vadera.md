@@ -1,5 +1,5 @@
 ---
-title: "On the Third Space: Jasmine Wahi & Jaret Vadera"
+title: "On the Third Space: Jasmine Wahi, Jaret Vadera, K. Desireé Milwood"
 summary: Curator and Dec/Jan guest critic Jasmine Wahi is joined by artist Jaret
   Vadera and poet K. Desireé Milwood for a dialogue on hybridity and the “third
   space” from the social to the political and everything in between. We’ll
@@ -62,4 +62,6 @@ youtube_id: N-ddRzRXg90
 registration_url: https://www.eventbrite.com/e/on-the-third-space-jasmine-wahi-jaret-vadera-tickets-137832860797
 event_platform:
   - zoom
+aliases:
+  - /events/2021/01/28/on-the-third-space-jasmine-wahi-jaret-vadera/
 ---
