@@ -30,6 +30,11 @@ people:
     related_links:
       - url: http://benedict.substack.com/
         text: first quarter moon slush
+  - person: leor-stylar
+    event_bio: Leor Stylar is a poet and fiction writer living in NYC.  Their
+      interests include digital game-making, Jewish folklore and ritual, bodies
+      of water, and gay joy.  They are an MFA candidate in Poetry at CUNY Queens
+      College.
 date: 2021-02-03T13:00:00-0500
 end_date: 2021-02-03T14:30:00-0500
 series: 226
