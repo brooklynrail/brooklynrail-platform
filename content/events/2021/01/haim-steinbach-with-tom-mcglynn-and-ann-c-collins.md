@@ -28,6 +28,15 @@ people:
       an organization dedicated to socially-engaged curatorial projects, and is
       also currently a visiting lecturer at Parsons/the New School. Tom is an
       Editor-at-Large of the Brooklyn Rail.
+  - person: ann-c-collins
+    event_bio: "Ann C. Collins holds a BFA in Film and Television from NYU and an
+      MFA in Art Criticism & Writing from the School of Visual Arts. She is a
+      regular contributor to The Brooklyn Rail’s Art Seen section. Her work has
+      also appeared in Degree Critical and Variables West. Her film editing
+      projects include Joan Didion: The Center Will Not Hold; Can You Bring It:
+      Bill T. Jones and D-Man in the Waters, and the Netflix series The
+      Pharmacist. Her film work has screened at the Sundance, Berlin, and New
+      York film festivals. She lives in Brooklyn."
 poets:
   - person: bridget-talone
     related_links:
