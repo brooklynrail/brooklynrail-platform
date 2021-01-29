@@ -11,5 +11,5 @@ short_bio: Drew Pham is a queer, transgender writer of Vietnamese heritage, a
   Wrath-Bearing Tree, an online literary journal focused on themes of societal
   violence. She lives and works in Brooklyn, New York.
 portraits:
-  - media: 2020/12/drew-pham
+  - media: 2021/01/drew-pham-preferred
 ---
