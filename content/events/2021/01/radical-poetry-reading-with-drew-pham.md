@@ -15,6 +15,11 @@ people:
       Daily Beast, and Columbia Journal, among others. She serves as an editor
       at The Wrath-Bearing Tree, an online literary journal focused on themes of
       societal violence. She lives and works in Brooklyn, New York.
+  - person: leor-stylar
+    event_bio: Leor Stylar is a poet and fiction writer living in NYC.  Their
+      interests include digital game-making, Jewish folklore and ritual, bodies
+      of water, and gay joy.  They are an MFA candidate in Poetry at CUNY Queens
+      College.
   - person: benedict-nguyen
     event_bio: benedict nguyễn is a dancer, writer, and curator based on occupied
       Lenape and Wappinger lands (South Bronx, NY). Their criticism has appeared
@@ -30,11 +35,16 @@ people:
     related_links:
       - url: http://benedict.substack.com/
         text: first quarter moon slush
-  - person: leor-stylar
-    event_bio: Leor Stylar is a poet and fiction writer living in NYC.  Their
-      interests include digital game-making, Jewish folklore and ritual, bodies
-      of water, and gay joy.  They are an MFA candidate in Poetry at CUNY Queens
-      College.
+  - person: erika-dane-kielsgard
+    event_bio: "Erika Kielsgard lives and loves in Jersey City. She teaches English
+      literature and creative writing for CUNY and is an alumna of Brooklyn
+      College's MFA Program, where she serves as an editor-at-large of The
+      Brooklyn Review. Her poems have found generous homes in Bone Bouquet,
+      Cordella Magazine, The Penn Review, and others; most recently, you can
+      find her fiction in Maudlin House. She's reading Magdalena Zurawski's
+      pamphlet: Being Human Is an Occult Practice (Ugly Duckling Presse), and
+      The Plague by Albert Camus in preparation for Laura Marris' new
+      translation."
 date: 2021-02-03T13:00:00-0500
 end_date: 2021-02-03T14:30:00-0500
 series: 226
