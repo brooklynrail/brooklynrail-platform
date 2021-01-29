@@ -63,4 +63,4 @@ registration_url: https://www.eventbrite.com/e/curatorial-activismdecolonial-cur
 event_platform:
   - zoom
 ---
-{{< image media="2021/01/arizona-state-university-school-of-art-herberger-institute-for-design-the-arts" size="xl" >}}
+{{< image media="2021/01/arizona-state-university-school-of-art-herberger-institute-for-design-the-arts" size="lg" >}}
