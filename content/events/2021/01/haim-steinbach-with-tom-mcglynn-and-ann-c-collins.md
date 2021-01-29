@@ -5,6 +5,22 @@ summary: Artist Haim Steinbach joins artist and Rail Editor-at-Large Tom McGlynn
   Bridget Talone.
 people:
   - person: haim-steinbach
+    event_bio: >-
+      Born in Rehovot, Israel in 1944, Haim Steinbach has lived in the United
+      States since 1957. He received a BFA from Pratt Institute in 1968,
+      followed by an MFA from Yale University in Connecticut in 1973. In 2018,
+      Steinbach presented the solo exhibition every single day at Museum Kurhaus
+      Kleve, Germany, which traveled to the Museion Bolzano, South Tyrol, Italy
+      in 2019. Also, in 2018, Steinbach presented zerubbabel, the inaugural
+      exhibition of Magasin III, Jaffa, Israel. In 2013, the Hessel Museum of
+      Art at Bard College in New York mounted a major exhibition of Steinbach’s
+      “Displays,” his site-specific installations since the late 1970s. Entitled
+      once again the world is flat, the exhibition traveled to Kunsthalle Zurich
+      and the Serpentine Gallery, London. 
+
+
+      The artist’s work is represented in the permanent collections of The Museum of Modern Art, New York; The Metropolitan Museum of Art, New York; The Whitney Museum of American Art, New York; The Dallas Museum of Art, Dallas; The Guggenheim Museum, New York; Tate Modern, London; The Museum of Contemporary Art, Los Angeles; Albright Knox Museum, Buffalo, NY; The Carnegie Museum of Art, Pittsburgh; The Hammer Museum, Los Angeles; Stedelijk Museum, Amsterdam; Centre Georges Pompidou, Paris; Israel Museum, Jerusalem; Museum Moderner Kunst, Vienna; and The Museum of Contemporary Art, Chicago.
+  - person: tom-mcglynn
     event_bio: Tom McGlynn is an artist, writer, and independent curator based in
       the NYC area. His work is represented in the permanent collections of the
       Whitney Museum, the Museum of Modern Art, and the Cooper-Hewitt National
@@ -12,13 +28,6 @@ people:
       an organization dedicated to socially-engaged curatorial projects, and is
       also currently a visiting lecturer at Parsons/the New School. Tom is an
       Editor-at-Large of the Brooklyn Rail.
-  - person: tom-mcglynn
-    event_bio: "Composer, multimedia artist, and writer Paul D. Miller (aka DJ
-      Spooky) makes work that immerses audiences in a blend of genres, global
-      culture, and environmental and social issues. Miller has collaborated with
-      an array of recording artists, including Metallica, Chuck D, Steve Reich,
-      and Yoko Ono. His 2018 album DJ Spooky Presents: Phantom Dancehall debuted
-      at #3 on Billboard Reggae. He is an Editor-at-Large of the Brooklyn Rail."
 poets:
   - person: bridget-talone
     related_links:
