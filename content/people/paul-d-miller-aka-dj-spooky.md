@@ -9,6 +9,6 @@ short_bio: "Paul D. Miller, aka DJ Spooky, is a composer, multimedia artist, and
   His 2018 album, DJ Spooky Presents: Phantom Dancehall, debuted at #3 on
   Billboard Reggae."
 portraits:
-  - media: 2020/05/paul-d-miller
+  - media: 2021/01/paul-d-miller-preferred
 website: http://djspooky.com
 ---
