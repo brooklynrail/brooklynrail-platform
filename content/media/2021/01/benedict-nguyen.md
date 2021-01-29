@@ -1,5 +1,5 @@
 ---
-media: /media/files/benedict-nguyễn-photo-by-benedict-nguyễn.jpg
+media: /media/files/benedict-nguyen-photo-by-benedict-nguyen.jpg
 title: benedict nguyễn
 alt: benedict nguyễn
 caption: Courtesy of benedict nguyễn
