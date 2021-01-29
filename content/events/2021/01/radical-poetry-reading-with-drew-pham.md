@@ -1,10 +1,9 @@
 ---
 title: Radical Poetry Reading with Drew Pham
-deck: Featuring poetry read by Leor Stylar, benedict nguyễn, Erika Dane
-  Kielsgard, and Marcus Williams.
-summary: Poet Drew Pham curates the 23rd Radical Poetry Reading, featuring
-  poetry read by Leor Stylar, benedict nguyễn, Erika Dane Kielsgard, and Marcus
-  Williams.
+deck: Featuring political poetry read by Leor Stylar, benedict nguyễn, Erika
+  Dane Kielsgard, and marcus scott williams.
+summary: Poet Drew Pham curates the 23rd Radical Poetry Reading, featuring Leor
+  Stylar, benedict nguyễn, Erika Dane Kielsgard, and marcus Scott williams.
 people:
   - person: drew-pham
     event_bio: Drew Pham is a queer, transgender writer of Vietnamese heritage, a
@@ -45,6 +44,10 @@ people:
       pamphlet: Being Human Is an Occult Practice (Ugly Duckling Presse), and
       The Plague by Albert Camus in preparation for Laura Marris' new
       translation."
+  - person: marcus-scott-williams
+    event_bio: "marcus scott williams is the author of “Sparse Black Whimsy: A
+      Memoir” (2fast2house, 2017) and 'damn near might still be is what it is'
+      (Noemi, 2022). He loves and appreciates you."
 date: 2021-02-03T13:00:00-0500
 end_date: 2021-02-03T14:30:00-0500
 series: 226
