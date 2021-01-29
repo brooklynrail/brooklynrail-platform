@@ -49,6 +49,24 @@ people:
       festival focused on writers."
   - person: megan-tamati-quennell
   - person: maura-reilly
+poets:
+  - person: india-lena-gonzalez
+    event_bio: "Poet, educator, artist, dancer, choreographer, and actor. She
+      received her BA from Columbia University and MFA from NYU. Her work is
+      published in Poets & Writers Magazine, PANK, Pigeon Pages, American
+      Chordata, Glass: A Journal of Poetry, and others. India is a 2020 National
+      Poetry Series finalist."
+    related_links:
+      - url: http://www.glass-poetry.com/poets-resist/gonzalez-fiercer.html
+        text: Poets Resist (Sept 2019)
+      - url: https://pankmagazine.com/tag/india-gonzalez/
+        text: una parda, which is me (July 2020)
+      - url: https://americanchordata.org
+        text: American Chordata (Issue Ten, Fall 2020)
+      - url: https://pigeonpagesnyc.com/all-the-matriarchs-in-spain-are-dead
+        text: all the matriarchs in spain are dead
+      - url: https://www.pw.org/content/my_beloved_black_ancestors
+        text: My Beloved Black Ancestors (Sept/Oct 2020)
 date: 2021-02-04T18:00:00-0500
 end_date: 2021-02-04T19:30:00-0500
 collections:
