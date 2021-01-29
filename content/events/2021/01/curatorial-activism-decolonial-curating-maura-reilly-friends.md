@@ -75,6 +75,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/curatorial-activismdecolonial-curating-maura-reilly-friends-tickets-138960327079
 event_platform:
   - zoom
 ---
