@@ -15,6 +15,21 @@ people:
       Daily Beast, and Columbia Journal, among others. She serves as an editor
       at The Wrath-Bearing Tree, an online literary journal focused on themes of
       societal violence. She lives and works in Brooklyn, New York.
+  - person: benedict-nguyen
+    event_bio: benedict nguyễn is a dancer, writer, and curator based on occupied
+      Lenape and Wappinger lands (South Bronx, NY). Their criticism has appeared
+      in the Brooklyn Rail, Danspace Project’s Journal, Shondaland, the
+      Establishment, Culturebot, among others. Their poetry has appeared or is
+      forthcoming in AAWW’s the Margins, Flypaper, and PANK. They’ve performed
+      in DapperQ Fashion week and in recent works by Sally Silvers, José Rivera,
+      Jr., Monstah Black, and more. As the 2019 Suzanne Fiol Curatorial Fellow
+      at ISSUE Project Room, they created the multidisciplinary performance
+      platform “soft bodies in hard places.” They publish a monthly-ish
+      newsletter “first quarter moon slush” on substack and are sometimes online
+      @xbennyboo.
+    related_links:
+      - url: http://benedict.substack.com/
+        text: first quarter moon slush
 date: 2021-02-03T13:00:00-0500
 end_date: 2021-02-03T14:30:00-0500
 series: 226
