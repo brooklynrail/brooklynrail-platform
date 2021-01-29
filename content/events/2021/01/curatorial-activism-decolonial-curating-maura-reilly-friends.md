@@ -1,9 +1,9 @@
 ---
 title: "Curatorial Activism/Decolonial Curating: Maura Reilly & Friends"
 summary: "A conversation on Indigenous curatorial practices featuring legendary
-  decolonial curators Wanda Nanibush, Richard Bell, Paul Chaat Smith, Megan
-  Tamati-Quennell in conversation with Maura Reilly. We’ll conclude with a
-  poetry reading by India Lena González. "
+  curators Wanda Nanibush, Richard Bell, Paul Chaat Smith, Megan Tamati-Quennell
+  in conversation with Maura Reilly. We’ll conclude with a poetry reading by
+  India Lena González. "
 people:
   - person: shirin-neshat
     event_bio: >-
