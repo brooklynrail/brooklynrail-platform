@@ -1,5 +1,5 @@
 ---
-media: /media/files/india-lena-gonzález_pc-justin-aversano.jpg
+media: /media/files/india-lena-gonzalez_pc-justin-aversano.jpg
 title: India Lena González
 alt: A photo of India Lena González
 caption: Photo by Justin Aversano
