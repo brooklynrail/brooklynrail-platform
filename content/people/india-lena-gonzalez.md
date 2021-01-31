@@ -9,5 +9,5 @@ short_bio: "India Lena González is a poet, educator, and artist. She received
   A Journal of Poetry, among others. A 2020 National Poetry Series finalist,
   India is also a professionally trained dancer, choreographer, and actor."
 portraits:
-  - media: 2021/01/india-lena-gonzalez
+  - media: 2021/01/india-lena-gonzalez-1
 ---
