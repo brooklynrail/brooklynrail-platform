@@ -136,6 +136,6 @@ registration_url: https://www.eventbrite.com/e/curatorial-activismdecolonial-cur
 event_platform:
   - zoom
 ---
-*Please note that this event takes place at **6pm ET**. To get the Zoom link and email reminders, please register at the link above.* 
+*Please note that this event takes place at **6pm EST**. To get the Zoom link and email reminders, please register at the link above.* 
 
 {{< image media="2021/01/arizona-state-university-school-of-art-herberger-institute-for-design-the-arts" size="lg" >}}
