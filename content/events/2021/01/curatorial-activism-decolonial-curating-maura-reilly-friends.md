@@ -17,14 +17,40 @@ people:
       On top of many catalogue essays Nanibush has published widely on
       Indigenous art, politics, history and feminism and sexuality.
   - person: richard-bell
-    event_bio: >-
-      Richard Bell is a member of the Kamilaroi, Kooma, Jiman and Gurang Gurang
-      communities. An activist and artist, Bell works across video, painting,
-      installation and text to pose provocative, complex and humorous challenges
-      to our preconceived ideas of Aboriginal art, as well as addressing
-      contemporary debates around identity, place and politics.
-
-      Solo exhibitions of his work include Richard Bell: Imagining Victory, Western Plains Cultural Centre, Dubbo (2015); Embassy, Perth Institute of Contemporary Arts, Perth (2014); and Imagining Victory, Artspace, Sydney (2013). Uz vs Them, a major touring exhibition of Bell’s work organised by the American Federation of Arts, premiered at Tufts University, Boston in September 2011 and toured to venues across North America throughout 2013. In 2009 an exhibition of Bell’s practice to date, titled I am not sorry, was held at Location One, New York, and he was the recipient of Location One’s International Fellowship for that year. In 2006 his work was the subject of the survey exhibition Positivity presented by the Institute of Modern Art, Brisbane.
+    event_bio: "One of Australia’s most significant artists, Richard Bell works
+      across painting, installation, performance and video work to explore the
+      complex artistic and political problems of Western, colonial, and
+      Indigenous art production. He grew out of a generation of Aboriginal
+      activists and has remained committed to the politics of Aboriginal
+      emancipation and self-determination. In 2003 he was the recipient of the
+      Telstra National Aboriginal Art Award. Bell is represented in most major
+      Australian National and State collections, and has exhibited in a number
+      of solo exhibitions at important institutions in Australia and America. In
+      2013 he was included in the National Gallery of Canada’s largest show of
+      International Indigenous art, Sakàhan, and at the Fifth Moscow Biennale of
+      Contemporary Art. In 2014, Bell’s solo exhibition Embassy opened at the
+      Perth Institute of Contemporary Arts, Perth. In 2015, Bell presented a
+      collaborative exhibition of new work with Emory Douglas at Milani Gallery,
+      and exhibited his major work Embassy (2013-ongoing) as part of Performa
+      15, New York City and the 16th Jakarta Biennale, curated by Charles Esche.
+      Bell also premiered a body of new work as part of the Queensland Art
+      Gallery/Gallery of Modern Art’s 8th Asia Pacific Triennial of Contemporary
+      Art, Brisbane. In early 2016, BELL invites… an exhibition of Bell and work
+      by friends and collaborators opened at the Stedelijk Museum SMBA,
+      Amsterdam, and premiered a new sculptural commission as part of Sonsbeek
+      2016 at the Dutch Art Institute in Arnhem, Netherlands. Bell presented
+      Embassy as part of the 20th Biennale of Sydney, curated by Stephanie
+      Rosenthal, at Cairns Indigenous Art Fair, the Institute of Modern Art,
+      Brisbane, and most recently as part of the Jerusalem Show VIII. In 2017,
+      Bell exhibited in The National: New Australian Art, a comprehensive survey
+      of contemporary Australian art presented by the Museum of Contemporary
+      Art, Art Gallery of New South Wales, and Carriageworks, Sydney. In 2018,
+      he presented his solo exhibition Dredging up the Past at Gertrude
+      Contemporary, Melbourne. In 2019, Bell took his Embassy project to the
+      Venice Biennale as a collateral event and presented work at Padiglione
+      d'Arte Contemporanea Milan. In 2021 Bell has a major solo exhibition at
+      the MCA Sydney. In 2022 Bell will be presenting Embassy at the Tate
+      Modern. He lives and works in Brisbane, Australia."
   - person: paul-chaat-smith
     event_bio: "Paul Chaat Smith (Comanche) joined the Smithsonian’s National Museum
       of the American Indian in 2001, where he now serves as Curator. His
