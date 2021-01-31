@@ -1,6 +1,9 @@
 ---
 title: "Curatorial Activism/Decolonial Curating: Maura Reilly & Friends"
-summary: "A conversation on Indigenous curatorial practices featuring legendary curators Wanda Nanibush, Paul Chaat Smith, Megan Tamati-Quennell and artist Richard Bell in conversation with Maura Reilly. We’ll conclude with a poetry reading by India Lena González."
+summary: A conversation on Indigenous curatorial practices featuring legendary
+  curators Wanda Nanibush, Paul Chaat Smith, Megan Tamati-Quennell and artist
+  Richard Bell in conversation with Maura Reilly. We’ll conclude with a poetry
+  reading by India Lena González.
 people:
   - person: wanda-nanibush
     event_bio: Wanda Nanibush is an Anishinaabe-kwe image and word warrior, curator
@@ -23,11 +26,33 @@ people:
 
       Solo exhibitions of his work include Richard Bell: Imagining Victory, Western Plains Cultural Centre, Dubbo (2015); Embassy, Perth Institute of Contemporary Arts, Perth (2014); and Imagining Victory, Artspace, Sydney (2013). Uz vs Them, a major touring exhibition of Bell’s work organised by the American Federation of Arts, premiered at Tufts University, Boston in September 2011 and toured to venues across North America throughout 2013. In 2009 an exhibition of Bell’s practice to date, titled I am not sorry, was held at Location One, New York, and he was the recipient of Location One’s International Fellowship for that year. In 2006 his work was the subject of the survey exhibition Positivity presented by the Institute of Modern Art, Brisbane.
   - person: paul-chaat-smith
-    event_bio: >-
-      Paul Chaat Smith (Comanche) joined the Smithsonian’s National Museum of the American Indian in 2001, where he now serves as Curator. His exhibitions include Americans, Stretching the Canvas, James Luna’s Emendatio, Fritz Scholder: Indian/Not Indian, and Brian Jungen: Strange Comfort. He’s the coauthor of Like a Hurricane: the Indian Movement from Alcatraz to Wounded Knee (1996), and Everything You Know about Indians Is Wrong (2009). Although he spends most of his time crafting game-changing exhibitions and texts, he also enjoys reading obsessively about the early days of the Soviet space program, watching massive amounts of televised sports (pandemics permitting), and writing about himself in the third person.
+    event_bio: "Paul Chaat Smith (Comanche) joined the Smithsonian’s National Museum
+      of the American Indian in 2001, where he now serves as Curator. His
+      exhibitions include Americans, Stretching the Canvas, James Luna’s
+      Emendatio, Fritz Scholder: Indian/Not Indian, and Brian Jungen: Strange
+      Comfort. He’s the coauthor of Like a Hurricane: the Indian Movement from
+      Alcatraz to Wounded Knee (1996), and Everything You Know about Indians Is
+      Wrong (2009). Although he spends most of his time crafting game-changing
+      exhibitions and texts, he also enjoys reading obsessively about the early
+      days of the Soviet space program, watching massive amounts of televised
+      sports (pandemics permitting), and writing about himself in the third
+      person."
   - person: megan-tamati-quennell
-    event_bio: Megan Tamati-Quennell is Curator of Modern & Contemporary Māori and
-      Indigenous Art at the Te Papa Tongarewa Museum of New Zealand.
+    event_bio: >-
+      Of Te Ātiawa, Ngāti Mutunga, Ngāi Tahu, and Kāti Mamoe descent, Megan
+      Tamati-Quennell is a leading specialist in the field of modern and
+      contemporary Māori & Indigenous art. She currently holds two curatorial
+      positions as Curator of Modern & Contemporary Māori & Indigenous Art at Te
+      Papa in Wellington and Indigenous Curator of Contemporary Art/Kairauhī
+      Taketake Toi Onāianei at the Govett Brewster Art Gallery in New Plymouth.
+      Her research interests include: the contemporary Māori art movement, Māori
+      modernism, Mana Wahine Māori (Māori women artists of the 1930s till
+      today), the Maori Internationals (the contemporary Māori artists who rose
+      to prominence during the 1990s), the bicultural era of New Zealand and
+      Indigenous art curatorial praxis.
+
+
+      Current projects include: curating There is no Before by Dale Harding and Land Site Place, featuring the work of Shona Rapira Davies, Kate Newby, Matt Pine and Ana Iti, for the Govett Brewster Art Gallery, developing a limited edition publication about Détour, the major commission by Michael Parekowhai curated for the opening of the new Toi Art Gallery in Te Papa, and researching and developing an exhibition and publication focused on the women of Māori modernism and writing a chapter, “Ka pū te ruha, ka hao te rangatahi (The old net is laid aside, the new net goes fishing): The quiet revolution, Māori modernism, Gordon Tovey, Pineamine Taiapa, and other motivators of change” for a publication about Indigenous modernisms being published by Duke University Press.
   - person: maura-reilly
     event_bio: "Maura Reilly is a curator and arts writer who has organized dozens
       of exhibitions internationally with a specific focus on marginalized
@@ -85,7 +110,6 @@ registration_url: https://www.eventbrite.com/e/curatorial-activismdecolonial-cur
 event_platform:
   - zoom
 ---
-
 *Please note that this event takes place at **6pm ET**. To get the Zoom link and email reminders, please register at the link above.* 
 
 {{< image media="2021/01/arizona-state-university-school-of-art-herberger-institute-for-design-the-arts" size="lg" >}}
