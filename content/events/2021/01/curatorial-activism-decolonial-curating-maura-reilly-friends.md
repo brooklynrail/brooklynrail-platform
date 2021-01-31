@@ -57,12 +57,12 @@ people:
       exhibitions include Americans, Stretching the Canvas, James Luna’s
       Emendatio, Fritz Scholder: Indian/Not Indian, and Brian Jungen: Strange
       Comfort. He’s the coauthor of Like a Hurricane: the Indian Movement from
-      Alcatraz to Wounded Knee (1996), and Everything You Know about Indians Is
-      Wrong (2009). Although he spends most of his time crafting game-changing
-      exhibitions and texts, he also enjoys reading obsessively about the early
-      days of the Soviet space program, watching massive amounts of televised
-      sports (pandemics permitting), and writing about himself in the third
-      person."
+      Alcatraz to Wounded Knee (The New Press, 1996), and Everything You Know
+      about Indians Is Wrong (University of Minnesota Press, 2009). Although he
+      spends most of his time crafting game-changing exhibitions and texts, he
+      also enjoys reading obsessively about the early days of the Soviet space
+      program, watching massive amounts of televised sports (pandemics
+      permitting), and writing about himself in the third person."
   - person: megan-tamati-quennell
     event_bio: >-
       Of Te Ātiawa, Ngāti Mutunga, Ngāi Tahu, and Kāti Mamoe descent, Megan
@@ -136,6 +136,6 @@ registration_url: https://www.eventbrite.com/e/curatorial-activismdecolonial-cur
 event_platform:
   - zoom
 ---
-*Please note that this event takes place at **6pm ET**. To get the Zoom link and email reminders, please register at the link above.* 
+*Please note that this event takes place at **6pm EST**. To get the Zoom link and email reminders, please register at the link above.* 
 
 {{< image media="2021/01/arizona-state-university-school-of-art-herberger-institute-for-design-the-arts" size="lg" >}}
