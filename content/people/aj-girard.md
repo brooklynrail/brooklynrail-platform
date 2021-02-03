@@ -15,4 +15,5 @@ short_bio: Independent curator and cultural strategist Antoine Girard is
   Projects in Los Angeles.
 portraits:
   - media: 2021/02/aj-girard
+instagram: _ajgirard
 ---
