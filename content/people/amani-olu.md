@@ -13,6 +13,7 @@ short_bio: Founder of Olu & Company, a marketing and business consultancy at the
   Sherry, Elad Lassry, Zoe Crosher, and K8 Hardy. In 2018, Olu organized Rhythm,
   Repetition, and Vocab, an exhibition of abstract works by Allie McGhee and
   Carole Harris at the Detroit Institute of Arts.
-portraits: []
+portraits:
+  - media: 2021/02/olu-amani
 website: http://amaniolu.com
 ---
