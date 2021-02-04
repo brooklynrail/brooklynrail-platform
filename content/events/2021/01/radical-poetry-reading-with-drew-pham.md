@@ -29,7 +29,7 @@ people:
       an organization dedicated to socially-engaged curatorial projects, and is
       also currently a visiting lecturer at Parsons/the New School. Tom is an
       Editor-at-Large of the Brooklyn Rail.
-  - person: ann-c-collins
+  - person: benedict-nguyen
     event_bio: "Ann C. Collins holds a BFA in Film and Television from NYU and an
       MFA in Art Criticism & Writing from the School of Visual Arts. She is a
       regular contributor to The Brooklyn Rail’s Art Seen section. Her work has
