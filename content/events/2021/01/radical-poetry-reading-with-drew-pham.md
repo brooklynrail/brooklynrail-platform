@@ -5,49 +5,48 @@ deck: Featuring political poetry read by Leor Stylar, benedict nguyễn, Erika
 summary: Poet Drew Pham curates the 23rd Radical Poetry Reading, featuring Leor
   Stylar, benedict nguyễn, Erika Dane Kielsgard, and marcus scott williams.
 people:
-  - person: drew-pham
-    event_bio: Drew Pham is a queer, transgender writer of Vietnamese heritage, a
-      child of war refugees, and an adjunct English lecturer at CUNY Brooklyn
-      College. Previously, she served in the US Army and deployed to Afghanistan
-      with the 10th Mountain Division. She has published in Blunderbuss
-      Magazine, McSweeny's, Slice Magazine, Foreign Policy, Time Magazine, The
-      Daily Beast, and Columbia Journal, among others. She serves as an editor
-      at The Wrath-Bearing Tree, an online literary journal focused on themes of
-      societal violence. She lives and works in Brooklyn, New York.
-  - person: leor-stylar
-    event_bio: Leor Stylar is a poet and fiction writer living in NYC.  Their
-      interests include digital game-making, Jewish folklore and ritual, bodies
-      of water, and gay joy.  They are an MFA candidate in Poetry at CUNY Queens
-      College.
-  - person: benedict-nguyen
-    event_bio: benedict nguyễn is a dancer, writer, and curator based on occupied
-      Lenape and Wappinger lands (South Bronx, NY). Their criticism has appeared
-      in the Brooklyn Rail, Danspace Project’s Journal, Shondaland, the
-      Establishment, Culturebot, among others. Their poetry has appeared or is
-      forthcoming in AAWW’s the Margins, Flypaper, and PANK. They’ve performed
-      in DapperQ Fashion week and in recent works by Sally Silvers, José Rivera,
-      Jr., Monstah Black, and more. As the 2019 Suzanne Fiol Curatorial Fellow
-      at ISSUE Project Room, they created the multidisciplinary performance
-      platform “soft bodies in hard places.” They publish a monthly-ish
-      newsletter “first quarter moon slush” on substack and are sometimes online
-      @xbennyboo.
+  - person: haim-steinbach
+    event_bio: >-
+      Born in Rehovot, Israel in 1944, Haim Steinbach has lived in the United
+      States since 1957. He received a BFA from Pratt Institute in 1968,
+      followed by an MFA from Yale University in Connecticut in 1973. In 2018,
+      Steinbach presented the solo exhibition every single day at Museum Kurhaus
+      Kleve, Germany, which traveled to the Museion Bolzano, South Tyrol, Italy
+      in 2019. Also, in 2018, Steinbach presented zerubbabel, the inaugural
+      exhibition of Magasin III, Jaffa, Israel. In 2013, the Hessel Museum of
+      Art at Bard College in New York mounted a major exhibition of Steinbach’s
+      “Displays,” his site-specific installations since the late 1970s. Entitled
+      once again the world is flat, the exhibition traveled to Kunsthalle Zurich
+      and the Serpentine Gallery, London. 
+
+
+      The artist’s work is represented in the permanent collections of The Museum of Modern Art, New York; The Metropolitan Museum of Art, New York; The Whitney Museum of American Art, New York; The Dallas Museum of Art, Dallas; The Guggenheim Museum, New York; Tate Modern, London; The Museum of Contemporary Art, Los Angeles; Albright Knox Museum, Buffalo, NY; The Carnegie Museum of Art, Pittsburgh; The Hammer Museum, Los Angeles; Stedelijk Museum, Amsterdam; Centre Georges Pompidou, Paris; Israel Museum, Jerusalem; Museum Moderner Kunst, Vienna; and The Museum of Contemporary Art, Chicago.
+  - person: tom-mcglynn
+    event_bio: Tom McGlynn is an artist, writer, and independent curator based in
+      the NYC area. His work is represented in the permanent collections of the
+      Whitney Museum, the Museum of Modern Art, and the Cooper-Hewitt National
+      Design Museum of the Smithsonian. He is the director of Beautiful Fields,
+      an organization dedicated to socially-engaged curatorial projects, and is
+      also currently a visiting lecturer at Parsons/the New School. Tom is an
+      Editor-at-Large of the Brooklyn Rail.
+  - person: ann-c-collins
+    event_bio: "Ann C. Collins holds a BFA in Film and Television from NYU and an
+      MFA in Art Criticism & Writing from the School of Visual Arts. She is a
+      regular contributor to The Brooklyn Rail’s Art Seen section. Her work has
+      also appeared in Degree Critical and Variables West. Her film editing
+      projects include Joan Didion: The Center Will Not Hold; Can You Bring It:
+      Bill T. Jones and D-Man in the Waters, and the Netflix series The
+      Pharmacist. Her film work has screened at the Sundance, Berlin, and New
+      York film festivals. She lives in Brooklyn."
+poets:
+  - person: bridget-talone
     related_links:
-      - url: http://benedict.substack.com/
-        text: first quarter moon slush
-  - person: erika-dane-kielsgard
-    event_bio: "Erika Kielsgard lives and loves in Jersey City. She teaches English
-      literature and creative writing for CUNY and is an alumna of Brooklyn
-      College's MFA Program, where she serves as an editor-at-large of The
-      Brooklyn Review. Her poems have found generous homes in Bone Bouquet,
-      Cordella Magazine, The Penn Review, and others; most recently, you can
-      find her fiction in Maudlin House. She's reading Magdalena Zurawski's
-      pamphlet: Being Human Is an Occult Practice (Ugly Duckling Presse), and
-      The Plague by Albert Camus in preparation for Laura Marris' new
-      translation."
-  - person: marcus-scott-williams
-    event_bio: "marcus scott williams is the author of “Sparse Black Whimsy: A
-      Memoir” (2fast2house, 2017) and 'damn near might still be is what it is'
-      (Noemi, 2022). He loves and appreciates you."
+      - url: https://www.spdbooks.org/Products/9780989598590/the-soft-life.aspx
+        text: The Soft Life (Wonder)
+      - url: https://catenarypress.com/books/1ca0c630-a501-4e62-91f9-e277c478e507
+        text: Sous Les Yeux (Catenary Press)
+    event_bio: Bridget Talone is a poet living in Philadelphia. She is the author
+      THE SOFT LIFE (Wonder, 2018).
 date: 2021-02-03T13:00:00-0500
 end_date: 2021-02-03T14:30:00-0500
 series: 226
