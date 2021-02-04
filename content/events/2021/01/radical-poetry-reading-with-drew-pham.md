@@ -51,6 +51,7 @@ people:
 date: 2021-02-03T13:00:00-0500
 end_date: 2021-02-03T14:30:00-0500
 series: 226
+youtube_id: O83AyZyqUfQ
 collections:
   - the-new-social-environment
 event_organizer:
