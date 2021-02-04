@@ -74,11 +74,11 @@ people:
       Her research interests include: the contemporary Māori art movement, Māori
       modernism, Mana Wahine Māori (Māori women artists of the 1930s till
       today), the Maori Internationals (the contemporary Māori artists who rose
-      to prominence during the 1990s), the bicultural era of New Zealand and
+      to prominence during the 1990s, the bicultural era of New Zealand) and
       Indigenous art curatorial praxis.
 
 
-      Current projects include: curating There is no Before by Dale Harding and Land Site Place, featuring the work of Shona Rapira Davies, Kate Newby, Matt Pine and Ana Iti, for the Govett Brewster Art Gallery, developing a limited edition publication about Détour, the major commission by Michael Parekowhai curated for the opening of the new Toi Art Gallery in Te Papa, and researching and developing an exhibition and publication focused on the women of Māori modernism and writing a chapter, “Ka pū te ruha, ka hao te rangatahi (The old net is laid aside, the new net goes fishing): The quiet revolution, Māori modernism, Gordon Tovey, Pineamine Taiapa, and other motivators of change” for a publication about Indigenous modernisms being published by Duke University Press.
+      Current projects include: curating There is no Before by Dale Harding and Land Site Place, featuring the work of Shona Rapira Davies, Kate Newby, Matt Pine and Ana Iti, for the Govett Brewster Art Gallery, developing a limited edition publication about Détour, the major commission by Michael Parekowhai curated for the opening of the new Toi Art Gallery in Te Papa, and researching and developing an exhibition and publication focused on the women of Māori modernism. Megan is also writing a chapter entitled “Ka pū te ruha, ka hao te rangatahi (The old net is laid aside, the new net goes fishing): The quiet revolution, Māori modernism, Gordon Tovey, Pineamine Taiapa, and other motivators of change” for a publication about Indigenous modernisms being published by Duke University Press.
   - person: maura-reilly
     event_bio: "Maura Reilly is a curator and arts writer who has organized dozens
       of exhibitions internationally with a specific focus on marginalized
