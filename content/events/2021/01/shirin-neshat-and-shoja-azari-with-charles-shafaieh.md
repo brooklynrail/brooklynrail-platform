@@ -45,6 +45,9 @@ people:
       such as The Touch: Spaces Designed for the Senses (gestalten 2019). With
       the Brooklyn Public Library, he co-curates Litfilm, an annual film
       festival focused on writers."
+poets:
+  - person: ben-fama
+    event_bio: ""
 date: 2021-02-05T13:00:00-0500
 end_date: 2021-02-05T14:30:00-0500
 series: 228
