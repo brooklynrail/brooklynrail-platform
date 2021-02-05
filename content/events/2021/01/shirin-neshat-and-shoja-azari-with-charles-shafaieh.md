@@ -57,6 +57,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: lWn8IVVrjdQ
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-228-shirin-neshat-and-shoja-azari-tickets-138867724101
 event_platform:
   - zoom
