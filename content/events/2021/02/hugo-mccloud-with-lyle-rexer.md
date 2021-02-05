@@ -1,7 +1,7 @@
 ---
 title: Hugo McCloud with Lyle Rexer
 summary: Artist Hugo McCloud joins critic, curator, and writer Lyle Rexer for a
-  conversation. We'll conclude with a poetry reading.
+  conversation. We'll conclude with a poetry reading from Nicole Wallace.
 people:
   - person: hugo-mccloud
   - person: lyle-rexer
