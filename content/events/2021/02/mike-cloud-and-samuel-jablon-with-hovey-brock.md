@@ -1,7 +1,8 @@
 ---
 title: Mike Cloud and Samuel Jablon with Hovey Brock
 summary: Artists Mike Cloud and Samuel Jablon are joined by artist, educator,
-  and writer Hovey Brock for a conversation. We conclude with a poetry reading.
+  and writer Hovey Brock for a conversation. We conclude with a poetry reading
+  from Zoe Brezsny.
 people:
   - person: mike-cloud
   - person: samuel-jablon
