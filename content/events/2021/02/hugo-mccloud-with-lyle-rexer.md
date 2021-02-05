@@ -1,7 +1,7 @@
 ---
 title: Hugo McCloud with Lyle Rexer
-summary: Artist Hugo McCloud joins critic, curator, and writer Lyle Rexer. We'll
-  conclude with a poetry reading.
+summary: Artist Hugo McCloud joins critic, curator, and writer Lyle Rexer for a
+  conversation. We'll conclude with a poetry reading.
 people:
   - person: hugo-mccloud
   - person: lyle-rexer
@@ -14,6 +14,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-233-hugo-mccloud-tickets-140375722565
 event_platform:
   - zoom
 ---
