@@ -81,31 +81,6 @@ people:
 
 
       Current projects include: curating There is no Before by Dale Harding and Land Site Place, featuring the work of Shona Rapira Davies, Kate Newby, Matt Pine and Ana Iti, for the Govett Brewster Art Gallery, developing a limited edition publication about Détour, the major commission by Michael Parekowhai curated for the opening of the new Toi Art Gallery in Te Papa, and researching and developing an exhibition and publication focused on the women of Māori modernism. Megan is also writing a chapter entitled “Ka pū te ruha, ka hao te rangatahi (The old net is laid aside, the new net goes fishing): The quiet revolution, Māori modernism, Gordon Tovey, Pineamine Taiapa, and other motivators of change” for a publication about Indigenous modernisms being published by Duke University Press.
-  - person: maura-reilly
-    event_bio: "Maura Reilly is a curator and arts writer who has organized dozens
-      of exhibitions internationally with a specific focus on marginalized
-      artists. She has written extensively on global contemporary art and
-      curatorial practice, including, most recently Curatorial Activism: Towards
-      an Ethics of Curating (Thames & Hudson, 2018), which was named a “Top 10
-      Best Art Book of 2018” by the New York Times. Her next book, The Ethical
-      Museum, is forthcoming from Thames & Hudson in 2022, followed by a
-      textbook on Feminist Art, also with Thames & Hudson. Reilly is the
-      Founding Curator of the Elizabeth A. Sackler Center for Feminist Art at
-      the Brooklyn Museum, where she developed and launched the first exhibition
-      and public programming space in the USA devoted entirely to feminist art.
-      While there, she organized several landmark exhibitions, including the
-      permanent installation of Judy Chicago’s The Dinner Party, the blockbuster
-      Global Feminisms (co-curated with Linda Nochlin), Ghada Amer: Love Had No
-      End, Burning Down the House, among others. Other notable exhibitions
-      include Miriam Schapiro: An American Visionary, Richard Bell: Uz v. Them,
-      Nayland Blake: Behavior, Carolee Schneemann: Painting, What It Became, La
-      Mirada Iracunda (The Furious Gaze), Neo-Queer, among others. She is a
-      founding member of two initiatives dedicated to fighting discrimination
-      against women in the art world – The Feminist Art Project (TFAP) and
-      Feminist Curators United (FcU). She received her M.A. and PhD in art
-      history from the Institute of Fine Arts, New York University, and is an
-      Editor-at-Large for the Brooklyn Rail. Dr. Reilly is an Associate
-      Professor of Art History and Museum Studies at Arizona State University."
 poets:
   - person: kyle-carrero-lopez
     event_bio: "Poet, educator, artist, dancer, choreographer, and actor. She
