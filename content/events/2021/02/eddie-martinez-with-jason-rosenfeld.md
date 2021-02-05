@@ -8,6 +8,8 @@ people:
       - text: 'On View through Feb 27th: "Inside Thoughts"'
         url: https://www.miandn.com/exhibitions/eddie-martinez3
   - person: jason-rosenfeld
+poets:
+  - person: ali-black
 date: 2021-02-08T13:00:00-0500
 end_date: 2021-02-08T14:30:00-0500
 series: 229
