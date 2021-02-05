@@ -7,8 +7,8 @@ summary: Independent curator AJ Girard joins Black Art Library founder Asmaa
   legacies of Black art, aesthetics, and culture. We’ll conclude with a poetry
   reading from Kyle Carrero Lopez.
 people:
-  - person: aj-girard
   - person: asmaa-walton
+  - person: aj-girard
   - person: maceo-keeling
   - person: amani-olu
 poets:
