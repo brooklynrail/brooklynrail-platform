@@ -1,9 +1,8 @@
 ---
 title: Black Art Library, Part II
 deck: Featuring Asmaa Walton, AJ Girard, Maceo "Paisley" Keeling, and Amani Olu.
-summary: "AJ Girard in dialogue with Black Art Library founder Asmaa Walton,
-  curator Maceo “Paisley” Keeling, and creative entrepreneur Amani Olu. We’ll
-  conclude with a poetry reading by Kyle Carrero Lopez.  "
+summary: "AJ Girard joins founder Asmaa Walton, Maceo “Paisley” Keeling, and
+  Amani Olu. We’ll conclude with a poetry reading by Kyle Carrero Lopez.  "
 people:
   - person: asmaa-walton
   - person: aj-girard
