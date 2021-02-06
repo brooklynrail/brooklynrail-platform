@@ -1,10 +1,9 @@
 ---
 title: Black Art Library, Part II
 deck: Featuring Asmaa Walton, AJ Girard, Maceo "Paisley" Keeling, and Amani Olu.
-summary: "Independent curator AJ Girard in dialogue with Black Art Library
-  founder Asmaa Walton, curator Maceo “Paisley” Keeling, and creative
-  entrepreneur Amani Olu. We’ll conclude with a poetry reading by Kyle Carrero
-  Lopez. "
+summary: "AJ Girard in dialogue with Black Art Library founder Asmaa Walton,
+  curator Maceo “Paisley” Keeling, and creative entrepreneur Amani Olu. We’ll
+  conclude with a poetry reading by Kyle Carrero Lopez.  "
 people:
   - person: asmaa-walton
   - person: aj-girard
@@ -26,4 +25,4 @@ event_platform:
 ---
 [Black Art Library](https://mocadetroit.org/black-art-library) is on view at MOCAD through April 18, 2021.
 
-You can view our first conversation with Asmaa [here](<[https://brooklynrail.org/events/2020/11/05/on-the-black-art-library-asmaa-walton-with-alexis-assam-jasmine-weber/](<You can view our first conversation with Asmaa here: https://brooklynrail.org/events/2020/11/05/on-the-black-art-library-asmaa-walton-with-alexis-assam-jasmine-weber/>)>).
+You can view our first conversation with Asmaa Walton [here](<[https://brooklynrail.org/events/2020/11/05/on-the-black-art-library-asmaa-walton-with-alexis-assam-jasmine-weber/](<You can view our first conversation with Asmaa here: https://brooklynrail.org/events/2020/11/05/on-the-black-art-library-asmaa-walton-with-alexis-assam-jasmine-weber/>).
