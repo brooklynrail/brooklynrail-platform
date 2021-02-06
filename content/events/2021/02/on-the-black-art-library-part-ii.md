@@ -26,4 +26,4 @@ event_platform:
 ---
 [Black Art Library](https://mocadetroit.org/black-art-library) is on view at MOCAD through April 18, 2021.
 
-You can view our first conversation with Asmaa [here](<[https://brooklynrail.org/events/2020/11/05/on-the-black-art-library-asmaa-walton-with-alexis-assam-jasmine-weber/](<You can view our first conversation with Asmaa here: https://brooklynrail.org/events/2020/11/05/on-the-black-art-library-asmaa-walton-with-alexis-assam-jasmine-weber/>).
+You can view our first conversation with Asmaa Walton [here](<[https://brooklynrail.org/events/2020/11/05/on-the-black-art-library-asmaa-walton-with-alexis-assam-jasmine-weber/](<You can view our first conversation with Asmaa here: https://brooklynrail.org/events/2020/11/05/on-the-black-art-library-asmaa-walton-with-alexis-assam-jasmine-weber/>).
