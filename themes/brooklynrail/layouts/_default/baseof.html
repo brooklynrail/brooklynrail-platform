@@ -35,13 +35,14 @@
     {{- end }}
 
     {{ "<!-- Sitemap-->" | safeHTML }}
+    
     <link rel="sitemap" type="application/xml" title="Digital.gov Sitemap" href="{{- "sitemap.xml" | absURL -}}" />
 
     {{/* NOTE: For Production make sure you add `HUGO_ENV="production"` before your build command */}}
     {{- if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production") }}
-    <meta NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    <meta name="ROBOTS" content="INDEX, FOLLOW">
     {{- else }}
-    <meta NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+    <meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
     {{- end }}
 
 
@@ -86,6 +87,8 @@
       {{- partial "meta/google_analytics.html" . -}}
     {{ end }}
 
+    <!-- Netlify Identity -->
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
 
 
@@ -147,6 +150,18 @@
     {{ end }}
 
     {{- block "custom_js" . -}}{{- end -}}
+
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/workflow";
+            });
+          }
+        });
+      }
+    </script>
 
   </body>
 </html>
