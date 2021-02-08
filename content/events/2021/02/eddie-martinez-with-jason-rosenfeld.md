@@ -3,11 +3,9 @@ title: Eddie Martinez with Jason Rosenfeld
 summary: Artist Eddie Martinez joins Rail editor-at-large Jason Rosenfeld for a
   conversation. We conclude with a poetry reading from Ali Black.
 people:
-  - person: eddie-martinez
-    related_links:
-      - text: 'On View through Feb 27th: "Inside Thoughts"'
-        url: https://www.miandn.com/exhibitions/eddie-martinez3
-  - person: jason-rosenfeld
+  - person: mike-cloud
+  - person: samuel-jablon
+  - person: hovey-brock
 poets:
   - person: ali-black
 date: 2021-02-08T13:00:00-0500
