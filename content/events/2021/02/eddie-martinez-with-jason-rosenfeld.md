@@ -3,8 +3,8 @@ title: Eddie Martinez with Jason Rosenfeld
 summary: Artist Eddie Martinez joins Rail editor-at-large Jason Rosenfeld for a
   conversation. We conclude with a poetry reading from Ali Black.
 people:
-  - person: mike-cloud
-  - person: samuel-jablon
+  - person: eddie-martinez
+  - person: jason-rosenfeld
   - person: hovey-brock
 poets:
   - person: ali-black
