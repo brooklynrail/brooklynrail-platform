@@ -7,6 +7,15 @@ people:
   - person: mike-cloud
   - person: samuel-jablon
   - person: hovey-brock
+poets:
+  - person: zoe-brezsny
+    related_links:
+      - url: https://www.wfmu.org/playlists/ZO
+        text: WFMU radio show
+      - text: Gem
+        url: http://gernenregalia.com
+      - url: https://www.printedmatter.org/catalog/54765/
+        text: Earthworks
 date: 2021-02-09T13:00:00-0500
 end_date: 2021-02-09T14:30:00-0500
 series: 230
