@@ -8,6 +8,9 @@ people:
   - person: aj-girard
   - person: maceo-keeling
   - person: amani-olu
+    related_links:
+      - url: https://olucompany.com
+        text: Olu & Company
 poets:
   - person: kyle-carrero-lopez
 date: 2021-02-11T13:00:00-0500
