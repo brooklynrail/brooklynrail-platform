@@ -38,6 +38,7 @@
     "netlify-lambda": "^1.6.3",
     "netlify-lm-plugin": "^1.0.0",
     "netlify-plugin-cache": "^1.0.3",
+    "react": "^16.14.0",
     "redux": "^4.0.5",
     "seamless-immutable": "^7.1.4",
     "stripe": "^8.126.0",
