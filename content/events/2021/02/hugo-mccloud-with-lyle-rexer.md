@@ -5,6 +5,8 @@ summary: Artist Hugo McCloud joins critic, curator, and writer Lyle Rexer for a
 people:
   - person: hugo-mccloud
   - person: lyle-rexer
+poets:
+  - person: nicole-wallace
 date: 2021-02-12T13:00:00-0500
 end_date: 2021-02-12T14:30:00-0500
 series: 233
