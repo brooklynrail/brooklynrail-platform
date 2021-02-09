@@ -12,7 +12,7 @@ poets:
     related_links:
       - url: https://www.wfmu.org/playlists/ZO
         text: WFMU radio show
-      - text: Gem
+      - text: Gern
         url: http://gernenregalia.com
       - url: https://www.printedmatter.org/catalog/54765/
         text: Earthworks
