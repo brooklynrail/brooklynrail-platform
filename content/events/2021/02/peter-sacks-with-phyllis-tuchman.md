@@ -10,6 +10,9 @@ people:
   - person: phyllis-tuchman
 poets:
   - person: daniel-bouchard
+    related_links:
+      - url: http://www.subpresscollective.com/books/
+        text: Subpress Collective
 date: 2021-02-19T13:00:00-0500
 end_date: 2021-02-19T14:30:00-0500
 series: 238
