@@ -1,6 +1,9 @@
 ---
 title: Art School Confidential, Part 2
-summary: Nato Thompson, Christine Kuan, Robert Storr, Dore Bowen.
+summary: "Vincent Katz, Christine Kuan, Nato Thompson, and Robert Storr will
+  discuss the history and future of art schools and possible alternatives. The
+  conversation will be led by Dore Bowen. We’ll conclude with a poetry reading.
+  "
 people:
   - person: nato-thompson
     related_links:
