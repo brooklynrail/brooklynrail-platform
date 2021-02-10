@@ -1,7 +1,7 @@
 ---
 title: Peter Sacks with Phyllis Tuchman
-summary: Artist Peter Sacks joins Rail Editor-At-Large Phyllis Tuchman for a
-  conversation. We conclude with a poetry reading from Daniel Bouchard.
+summary: Artist Peter Sacks will discuss his work with critic and art historian
+  Phyllis Tuchman. We’ll conclude with a poetry reading from Daniel Bouchard.
 people:
   - person: peter-sacks
     related_links:
@@ -19,6 +19,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-238-peter-sacks-tickets-141207753191
 event_platform:
   - zoom
 ---
