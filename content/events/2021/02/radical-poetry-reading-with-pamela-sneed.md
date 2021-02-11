@@ -4,7 +4,12 @@ deck: Featuring political poetry read by Kyle Dacuyan, Devyn Mañibo, Emilio
   Rojas, and Omotara James.
 summary: Poet Pamela Sneed curates the 25th Radical Poetry Reading, featuring
   Kyle Dacuyan, Devyn Mañibo, Emilio Rojas, and Omotara James.
-people: []
+people:
+  - person: pamela-sneed
+  - person: kyle-dacuyan
+  - person: devyn-manibo
+  - person: emilio-rojas
+  - person: omotara-james
 date: 2021-02-17T13:00:00-0500
 end_date: 2021-02-17T14:30:00-0500
 series: 236
