@@ -7,7 +7,7 @@ short_bio: A poet, performer, and translator who writes poems and makes
   Social Text. He is a 2021 NEA Fellow in Literature and Executive Director of
   The Poetry Project at St. Mark's.
 portraits:
-  - media: 2020/06/portrait-of-kyle-dacuyan-by-phong-bui
+  - media: 2021/02/kyle-dacuyan-2021
 rail_contributor_url: https://brooklynrail.org/contributor/Kyle-Dacuyan
 website: https://www.kyledacuyan.com/about
 ---
