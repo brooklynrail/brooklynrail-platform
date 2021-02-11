@@ -1,7 +1,7 @@
 ---
-name: Genesis Alayon
-first_name: Genesis
-last_name: Alayon
+name: Génesis Alayón
+first_name: Génesis
+last_name: Alayón
 short_bio: A student at Universidad de Los Andes Art School. As an artist, her
   practice surrounds social matters through portraiture, bringing together
   subjects like absence, displacement, and belonging. Her work has been
