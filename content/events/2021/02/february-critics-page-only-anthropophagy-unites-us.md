@@ -21,6 +21,7 @@ people:
       - text: 'Critics Page: "Claudia Andujar: anthropophagie?, fényképezés, yanõmami!"'
         url: https://brooklynrail.org/2021/02/criticspage/Claudia-Andujar-anthropophagie-fenykepezes-yanomami
   - person: ramon-j-stern
+poets:
   - person: caetano-dias
     related_links:
       - text: 'Critics Page: "I Continue My “Auto-phagy” and Winds Gust Over My Own
@@ -35,6 +36,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-234-only-anthropophagy-unites-us-tickets-141344470115
 event_platform:
   - zoom
 ---
