@@ -1,12 +1,31 @@
 ---
 title: "February Critics Page: Only Anthropophagy Unites Us?"
 summary: Please join us for a discussion on our February Guest Critic page with
-  Vivian Braga dos Santos, Vivi Pistache, André Pitol, and Ramon Stern led by
+  Vivian Braga dos Santos, Viviane Pistache, André Pitol, and Ramón Stern led by
   Tiago Gualberto and Rail ArtSeen Editor Sara Roffino. We’ll conclude with a
   poetry reading from Caetano Dias.
 people:
   - person: tiago-gualberto
   - person: sara-roffino
+  - person: vivian-braga-dos-santos
+    related_links:
+      - text: 'Critics Page: "The Almost-Brazilians An Ode to the Voracity of Multiple
+          Identities"'
+        url: https://brooklynrail.org/2021/02/criticspage/The-Almost-Brazilians-An-Ode-to-the-Voracity-of-Multiple-Identities
+  - person: viviane-a-pistache
+    related_links:
+      - text: 'Critics Page: "Cotton Candy in Grandma’s Hair"'
+        url: https://brooklynrail.org/2021/02/criticspage/Cotton-Candy-in-Grandmas-Hair
+  - person: andre-pitol
+    related_links:
+      - text: 'Critics Page: "Claudia Andujar: anthropophagie?, fényképezés, yanõmami!"'
+        url: https://brooklynrail.org/2021/02/criticspage/Claudia-Andujar-anthropophagie-fenykepezes-yanomami
+  - person: ramon-j-stern
+  - person: caetano-dias
+    related_links:
+      - text: 'Critics Page: "I Continue My “Auto-phagy” and Winds Gust Over My Own
+          Ashes"'
+        url: https://brooklynrail.org/2021/02/criticspage/I-Continue-My-Auto-phagy-and-Winds-Gust-Over-My-Own-Ashes
 date: 2021-02-15T13:00:00-0500
 end_date: 2021-02-15T14:30:00-0500
 series: 234
