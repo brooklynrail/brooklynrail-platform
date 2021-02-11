@@ -4,6 +4,9 @@ summary: Please join us for a discussion on our February Guest Critic page with
   Vivian Braga dos Santos, Vivi Pistache, André Pitol, and Ramon Stern led by
   Tiago Gualberto and Rail ArtSeen Editor Sara Roffino. We’ll conclude with a
   poetry reading from Caetano Dias.
+people:
+  - person: tiago-gualberto
+  - person: sara-roffino
 date: 2021-02-15T13:00:00-0500
 end_date: 2021-02-15T14:30:00-0500
 series: 234
