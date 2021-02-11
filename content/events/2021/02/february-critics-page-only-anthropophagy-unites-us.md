@@ -1,6 +1,7 @@
 ---
 title: "February Critics Page: Only Anthropophagy Unites Us?"
-summary: Please join us for a discussion on our February Guest Critic page led
+summary: Please join us for a discussion on our February Guest Critic page
+  with  Vivian Braga dos Santos, Vivi Pistache, André Pitol, and Ramon Stern led
   by Tiago Gualberto and Rail ArtSeen Editor Sara Roffino. We’ll conclude with a
   poetry reading
 date: 2021-02-15T13:00:00-0500
