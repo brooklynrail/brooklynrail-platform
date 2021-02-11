@@ -9,6 +9,7 @@ people:
   - person: genesis-alayon
   - person: miguel-braceli
   - person: luis-moreno-villameadiana
+  - person: tuan-pham
   - person: malvika-jolly
 date: 2021-02-18T13:00:00-0500
 end_date: 2021-02-18T14:30:00-0500
