@@ -13,6 +13,8 @@ end_date: 2021-02-22T16:30:00-0500
 series: 239
 collections:
   - the-new-social-environment
+event_sponsor:
+  - luhring-augustine
 event_organizer:
   - the-brooklyn-rail
 event_producer:
