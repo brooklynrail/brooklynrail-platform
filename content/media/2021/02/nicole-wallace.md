@@ -1,5 +1,5 @@
 ---
-media: /media/files/nicole_wallace_photo.jpg
+media: /media/files/nicole_wallace_cropped.jpg
 title: Nicole Wallace
 alt: Nicole Wallace
 caption: Courtesy of Nicole Wallace
