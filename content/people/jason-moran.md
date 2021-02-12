@@ -12,6 +12,8 @@ short_bio: "Jazz pianist, composer, and performance artist Jason Moran is the
   performances with masters of the form including Charles Lloyd, Bill Frisell,
   and the late Sam Rivers, and his work with his trio The Bandwagon has resulted
   in a profound discography for Blue Note Records. "
+portraits:
+  - media: 2021/02/jason-moran
 website: http://www.jasonmoran.com
 instagram: thejasonmoran
 twitter: morethan88
