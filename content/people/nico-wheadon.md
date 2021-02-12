@@ -16,4 +16,18 @@ short_bio: "An independent art advisor, curator, educator and writer. She,
 portraits:
   - media: 2021/02/nico-wheadon
 website: https://www.nicowheadon.com
+people:
+  - person: shawnda-chapman
+    related_links:
+      - url: https://forwomen.org/
+        text: The Ms. Foundation for Women
+  - person: jamaica-gilmer
+    related_links:
+      - text: The Beautiful Project
+        url: https://www.thebeautifulproject.org/
+  - person: miguel-luciano
+    related_links: []
+  - person: diya-vij
+  - person: nico-wheadon
+rail_contributor_url: https://brooklynrail.org/contributor/Nico-Wheadon
 ---
