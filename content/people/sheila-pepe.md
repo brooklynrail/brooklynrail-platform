@@ -3,15 +3,14 @@ name: Sheila Pepe
 first_name: Sheila
 last_name: Pepe
 pronouns: She/her
-short_bio: Sheila Pepe (b. 1959, Morristown, NJ) has longstanding connections to
-  New England. She earned a BFA in Ceramics from Massachusetts College of Art +
-  Design, Boston, and an MFA from the School of the Museum of Fine Arts at Tufts
-  University. She was a Fellow at the Radcliffe Institute for Advanced Study,
-  Harvard University, from 1997-1998. Pepe has also held teaching positions at
-  many area institutions, including Rhode Island School of Design, Brandeis
-  University, and Williams College. In 2015, Pepe was honored with a
-  Distinguished Alumni Award from Massachusetts College of Art + Design. She
-  lives and works in Brooklyn, NY.
+short_bio: "An artist and educator based in Brooklyn who has exhibited
+  internationally for over 25 years. Her museum exhibitions include Greater New
+  York, P.S.1 /MoMA, Artisterium, Republic of Georgia, ARTInRETI–Fondazione
+  Pistoletto, Italy; Fiber: Sculpture 1960– Present, ICA/Boston, and We Have
+  Never Participated: The 8th Shenzhen Sculpture Biennale, OCAT, China. Her
+  mid-career survey, Sheila Pepe: Hot Mess Formalism traveled to the DeCordova
+  Sculpture Park & Museum, Everson Museum of Art, and the Bemis Center for the
+  Arts. Her work has been widely anthologized in books and scholarly volumes."
 portraits:
   - media: 2020/07/sheila-pepe
 ---
