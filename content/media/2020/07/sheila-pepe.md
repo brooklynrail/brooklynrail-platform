@@ -1,7 +1,9 @@
 ---
-media: /media/files/sheila-pepe-on-moving-through-the-margins-between-craft-queer-art-and-the-canon-900x450-c.jpg
+media: /media/files/sheila-pepe-by-rachel-stern.jpg
 title: Sheila Pepe
 alt: Sheila Pepe
-caption: Courtesy of deCordova Sculpture Park and Museum
+caption: Photo by Rachel Stern
+credit:
+  - rachel-stern
 date: 2020-07-02T08:19:00-0500
 ---
