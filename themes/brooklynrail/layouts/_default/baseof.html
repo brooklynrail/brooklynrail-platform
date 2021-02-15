@@ -57,14 +57,6 @@
 
       <link rel="stylesheet" href="{{- $main_styles.RelPermalink -}}" type="text/css" media='all' />
 
-      {{/* Add to Calendar styles */}}
-      {{- if and (eq .Section "events") -}}
-        {{ $addtocal_options := (dict "targetPath" "material/dist/styles.css" "outputStyle" "compressed" "enableSourceMap" true ) -}}
-        {{- $addtocal := (resources.Get "vendor/addtocal.scss" | resources.ToCSS $addtocal_options | resources.Fingerprint "md5") -}}
-        <link rel="stylesheet" href="{{- $addtocal.RelPermalink -}}" type="text/css" media='all' />
-      {{- end -}}
-
-
       {{/* Custom CSS — needs to be included before the base styles */}}
       {{- if $.Params.css -}}
         {{- range $.Params.css -}}
@@ -73,12 +65,6 @@
           <link rel="stylesheet" media="all" href="{{- $path -}}" type="text/css"/>
         {{- end -}}
       {{- end -}}
-
-      {{/* Add to Calendar JS */}}
-      {{- if and (eq .Section "events") -}}
-        {{ "<!-- Add to Calendar JS -->" | safeHTML }}
-        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
-      {{- end }}
 
     {{- end }}
 
