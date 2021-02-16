@@ -11,6 +11,10 @@ people:
   - person: phong-h-bui
 poets:
   - person: janice-lowe
+    related_links:
+      - url: https://janicealowe.bandcamp.com/album/leaving-cle-songs-of-nomadic-dispersal
+        text: "Digital Album: Leaving CLE Songs of Nomadic Dispersal by Janice Lowe &
+          NAMAROON"
 date: 2021-02-22T15:00:00-0500
 end_date: 2021-02-22T16:30:00-0500
 series: 239
