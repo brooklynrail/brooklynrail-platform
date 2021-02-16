@@ -36,6 +36,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: 2L9x_JFShkQ
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-234-only-anthropophagy-unites-us-tickets-141344470115
 event_platform:
   - zoom
