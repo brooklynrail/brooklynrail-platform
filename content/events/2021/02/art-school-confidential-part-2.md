@@ -24,6 +24,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: p0pBtw0godE
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-235-art-school-confidential-part-2-tickets-141203123343
 event_platform:
   - zoom
