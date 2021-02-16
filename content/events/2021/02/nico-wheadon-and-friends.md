@@ -1,8 +1,8 @@
 ---
 title: Nico Wheadon and friends
 summary: Join author Nico Wheadon in conversation with Shawnda Chapman, Jamaica
-  Gilmer, Miguel Luciano, and Diya Vij on the occasion of her forthcoming book
-  from Rowman & Littlefield Publishing Group.
+  Gilmer, Miguel Luciano, and on the occasion of her forthcoming book from
+  Rowman & Littlefield Publishing Group.
 people:
   - person: shawnda-chapman
     related_links:
