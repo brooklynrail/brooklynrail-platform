@@ -12,5 +12,7 @@ short_bio: An artist whose multidisciplinary works often use public spaces as
   celebrations, won a Year in Review Award from Americans for the Arts/Public
   Art Network. Kraft was born and raised in London and now lives in Los Angeles
   and New York.
+portraits:
+  - media: 2021/02/richard-kraft
 website: http://www.richardkraft.net
 ---
