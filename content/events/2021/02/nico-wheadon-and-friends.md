@@ -14,7 +14,6 @@ people:
         url: https://www.thebeautifulproject.org/
   - person: miguel-luciano
     related_links: []
-  - person: diya-vij
   - person: nico-wheadon
 date: 2021-02-25T13:00:00-0500
 end_date: 2021-02-25T14:30:00-0500
