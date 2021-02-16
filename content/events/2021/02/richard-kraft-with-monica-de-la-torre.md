@@ -5,8 +5,9 @@ summary: Artist Richard Kraft joins Mónica de la Torre for a conversation. We
 people:
   - person: richard-kraft
   - person: monica-de-la-torre
-date: 2021-02-16T17:07:00-0500
-end_date: 2021-02-16T17:07:00-0500
+date: 2021-02-26T13:00:00-0500
+end_date: 2021-02-26T14:30:00-0500
+series: 243
 collections:
   - the-new-social-environment
 event_organizer:
