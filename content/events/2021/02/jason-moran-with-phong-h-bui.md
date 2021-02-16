@@ -1,13 +1,16 @@
 ---
 title: Jason Moran with Phong H. Bui
 summary: "Artist and jazz musician Jason Moran joins Rail publisher and artistic
-  director Phong H. Bui for a conversation. We conclude with a poetry reading. "
+  director Phong H. Bui for a conversation. We conclude with a poetry reading
+  from Janice Lowe. "
 people:
   - person: jason-moran
     related_links:
       - text: 'On View through Feb 27: "The Sound Will Tell You" at Luhring Augustine'
         url: https://www.luhringaugustine.com/exhibitions/jason-moran2
   - person: phong-h-bui
+poets:
+  - person: janice-lowe
 date: 2021-02-22T15:00:00-0500
 end_date: 2021-02-22T16:30:00-0500
 series: 239
