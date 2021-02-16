@@ -19,9 +19,7 @@ registration_url: https://www.eventbrite.com/e/the-new-social-environment-240-et
 event_platform:
   - zoom
 ---
-# ETEL ADNAN with Charles Bernstein
-
-## “We don't think the same way in every language. Language is a tool that acts on us, collaborates with thinking, is not neutral.”
+### “We don't think the same way in every language. Language is a tool that acts on us, collaborates with thinking, is not neutral.”
 
 **Charles Bernstein (Rail)**: In *Surge*, you write, “to enter reality as a boat does the night.” I love that and wonder if you could talk about your epistemology, the way you think of knowledge in the almost negative theological sense of that line? 
 
