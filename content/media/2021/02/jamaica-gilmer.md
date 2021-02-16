@@ -1,5 +1,5 @@
 ---
-media: /media/files/tbp-staff-jamaica-scaled.jpg
+media: /media/files/jamaica-gilmer.jpg
 title: Jamaica Gilmer
 alt: Jamaica Gilmer
 caption: Courtesy of Jamaica Gilmer
