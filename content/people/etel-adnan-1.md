@@ -13,5 +13,7 @@ short_bio: Poet, essayist, and painter Etel Adnan’s career spans more than six
   she was born and raised in Lebanon, but has lived, studied, and worked in
   France and California throughout her life.  Adnan was born in Beirut and now
   lives and works in Paris.
+portraits:
+  - media: 2021/02/etel-adnan
 website: http://www.eteladnan.com
 ---
