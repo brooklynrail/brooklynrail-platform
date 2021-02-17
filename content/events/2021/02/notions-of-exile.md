@@ -26,4 +26,4 @@ event_platform:
 Please join us for a conversation with curators **Fabiola R. Delgado** and **Faride Mereb**, and artists **Génesis Alayón** and **Miguel Braceli** on *Notions of Exile*, an exhibition and programming series exploring the cultural influence of the Venezuelan refugee crisis in the Americas, and broader themes of exile and diaspora. We’ll conclude with a reading by **Luis Moreno Villamediana**. 
 
 **\
-You can view Notions of Exile here: <https://www.notionsofexile.com/>**
+You can view Notions of Exile here: [https://www.notionsofexile.com/. ](https://www.notionsofexile.com/)**Thank you to the Washington Project for the Arts, for their support of this exhibition.
