@@ -1,7 +1,7 @@
 ---
-name: Luis Moreno Villameadiana
+name: Luis Moreno Villamediana
 first_name: Luis
-last_name: Villameadiana
+last_name: Villamediana
 short_bio: Poet, narrator, essayist, critic and translator. Professor at the
   University of Los Andes. He has published the poetry titles Cantares digestos,
   Manual para los días críticos, En defensa del desgaste, Eme sin tilde,
