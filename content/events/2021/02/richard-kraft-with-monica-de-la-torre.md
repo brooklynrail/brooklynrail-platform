@@ -1,8 +1,8 @@
 ---
 title: Richard Kraft with Mónica de la Torre
-summary: Artist Richard Kraft joins Mónica de la Torre for a conversation on
-  Richard's newest book project "It Is What It Is" (Siglio Press, 2021). We'll
-  conclude with a poetry reading.
+summary: Artist Richard Kraft joins poet and translator Mónica de la Torre for a
+  conversation on Richard's newest book project "It Is What It Is" (Siglio
+  Press, 2021). We'll conclude with a poetry reading.
 people:
   - person: richard-kraft
   - person: monica-de-la-torre
