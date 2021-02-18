@@ -4,11 +4,10 @@ summary: "Artist and jazz musician Jason Moran joins Rail publisher and artistic
   director Phong H. Bui for a conversation. We conclude with a poetry reading
   from Janice Lowe. "
 people:
-  - person: jason-moran
-    related_links:
-      - text: 'On View through Feb 27: "The Sound Will Tell You" at Luhring Augustine'
-        url: https://www.luhringaugustine.com/exhibitions/jason-moran2
-  - person: phong-h-bui
+  - person: etel-adnan
+  - person: charles-bernstein
+  - person: miguel-luciano
+  - person: nico-wheadon
 poets:
   - person: janice-lowe
     related_links:
@@ -30,3 +29,4 @@ registration_url: https://www.eventbrite.com/e/the-new-social-environment-239-ja
 event_platform:
   - zoom
 ---
+To celebrate our participation in Printed Matter's Virtual Art Book Fair, we've organized a week of NSE programming highlighting the many voices involved in art books and publishing. From February 24-28, you can view our virtual table and enjoy all the fair has to offer [here](http://pmvabf.org/).
