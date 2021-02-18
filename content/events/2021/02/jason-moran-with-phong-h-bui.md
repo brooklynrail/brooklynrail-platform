@@ -1,8 +1,8 @@
 ---
 title: Jason Moran with Phong H. Bui
 summary: "Artist and jazz musician Jason Moran joins Rail publisher and artistic
-  director Phong H. Bui for a conversation. We conclude with a poetry reading
-  from Janice Lowe. "
+  director Phong H. Bui for a conversation. We conclude with a performance from
+  Janice Lowe. "
 people:
   - person: etel-adnan
   - person: charles-bernstein
