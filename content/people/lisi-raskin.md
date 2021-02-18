@@ -14,5 +14,5 @@ short_bio: Artist who's creative and curricular practices have become
   for children of all ages. Raskin is working on a book about engaged and
   inclusive pedagogy. She is the Department Head of Sculpture at RISD.
 portraits:
-  - media: 2021/02/abigail-deville
+  - media: 2021/02/lisi-raskin
 ---
