@@ -6,6 +6,8 @@ summary: "Join legendary poets and artists Etel Adnan and Charles Bernstein for
 people:
   - person: etel-adnan
   - person: charles-bernstein
+  - person: miguel-luciano
+  - person: nico-wheadon
 date: 2021-02-23T13:00:00-0500
 end_date: 2021-02-23T14:30:00-0500
 series: 240
@@ -19,10 +21,10 @@ registration_url: https://www.eventbrite.com/e/the-new-social-environment-240-et
 event_platform:
   - zoom
 ---
+To celebrate our participation in Printed Matter's Virtual Art Book Fair, we've organized a week of NSE programming highlighting the many voices involved in art books and publishing. From February 24-28, you can view our virtual table and enjoy all the fair has to offer [here](http://pmvabf.org/).
+
+\~\~~
+
 ### “We don't think the same way in every language. Language is a tool that acts on us, collaborates with thinking, is not neutral.”
-
-**Charles Bernstein (Rail)**: In *Surge*, you write, “to enter reality as a boat does the night.” I love that and wonder if you could talk about your epistemology, the way you think of knowledge in the almost negative theological sense of that line? 
-
-**Adnan:** The question of reality is extremely intimidating because it is so encompassing, though we don't know by which angle to face such a question. But I think our sense of reality comes to us through the awareness of being, of when I am. Instead of saying “I think therefore I am,” we can say, “I am therefore I am.” Much simpler [*Laughter*]. And it is what we call life in all its form. A few weeks ago, I received a bunch of peonies and I mistook them for roses and one of the flowers was extremely red. And I thought it will be a rose. And then I looked at it and it wasn't and it kept me thinking, and I thought … 
 
 Read the whole interview: <https://brooklynrail.org/2021/02/art/ETEL-ADNAN-with-Charles-Bernstein>
