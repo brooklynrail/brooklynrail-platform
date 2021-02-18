@@ -15,6 +15,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/radical-poetry-reading-with-barry-schwabsky-tickets-142111492299
 event_platform:
   - zoom
 ---
