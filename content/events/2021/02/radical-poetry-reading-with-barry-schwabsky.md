@@ -4,7 +4,8 @@ deck: Featuring political poetry read by Simone Kearney, Joyelle McSweeney,
   Arthur Sze, and Tyrone Williams.
 summary: Barry Schwabsky curates the 26th Radical Poetry Reading featuring
   Simone Kearney, Joyelle McSweeney, Arthur Sze, and Tyrone Williams.
-people: []
+people:
+  - person: barry-schwabsky
 date: 2021-02-24T13:00:00-0500
 end_date: 2021-02-24T14:30:00-0500
 series: 241
