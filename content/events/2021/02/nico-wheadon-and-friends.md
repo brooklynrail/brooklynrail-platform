@@ -27,3 +27,4 @@ registration_url: https://www.eventbrite.com/e/common-ground-nico-wheadon-and-fr
 event_platform:
   - zoom
 ---
+To celebrate our participation in Printed Matter's Virtual Art Book Fair, we've organized a week of NSE programming highlighting the many voices involved in art books and publishing. From February 24-28, you can view our virtual table and enjoy all the fair has to offer [here](http://pmvabf.org/).
