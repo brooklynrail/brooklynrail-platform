@@ -1,8 +1,8 @@
 ---
 title: Richard Kraft with Mónica de la Torre
-summary: Artist Richard Kraft joins Mónica de la Torre for a conversation on
-  Richard's newest book project "It Is What It Is" (Siglio Press, 2021). We'll
-  conclude with a poetry reading.
+summary: Artist Richard Kraft joins poet and translator Mónica de la Torre for a
+  conversation on Richard's newest book project "It Is What It Is" (Siglio
+  Press, 2021). We'll conclude with a poetry reading.
 people:
   - person: richard-kraft
   - person: monica-de-la-torre
@@ -19,5 +19,9 @@ registration_url: https://www.eventbrite.com/e/the-new-social-environment-243-ri
 event_platform:
   - zoom
 ---
+To celebrate our participation in Printed Matter's Virtual Art Book Fair, we've organized a week of NSE programming highlighting the many voices involved in art books and publishing. From February 24-28, you can view our virtual table and enjoy all the fair has to offer [here](http://pmvabf.org/).
+
+
+
 "IT IS WHAT IT IS": ALL THE CARDS ISSUED TO DONALD TRUMP, JANUARY 2017 - JANUARY 2021
-by RICHARD KRAFT: <http://sigliopress.com/book/trump-cards/>
+by RICHARD KRAFT: [http://sigliopress.com/book/trump-cards](http://sigliopress.com/book/trump-cards/)
