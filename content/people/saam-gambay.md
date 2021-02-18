@@ -1,5 +1,5 @@
 ---
-name: Saam Gambay
+name: Saam Gabbay
 first_name: Saam
-last_name: Gambay
+last_name: Gabbay
 ---
