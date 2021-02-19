@@ -6,8 +6,6 @@ summary: "Join legendary poets and artists Etel Adnan and Charles Bernstein for
 people:
   - person: etel-adnan
   - person: charles-bernstein
-  - person: miguel-luciano
-  - person: nico-wheadon
 date: 2021-02-23T13:00:00-0500
 end_date: 2021-02-23T14:30:00-0500
 series: 240
@@ -21,6 +19,7 @@ registration_url: https://www.eventbrite.com/e/the-new-social-environment-240-et
 event_platform:
   - zoom
 ---
+
 To celebrate our participation in Printed Matter's Virtual Art Book Fair, we've organized a week of NSE programming highlighting the many voices involved in art books and publishing. From February 24-28, you can view our virtual table and enjoy all the fair has to offer [here](http://pmvabf.org/).
 
 \~\~~
