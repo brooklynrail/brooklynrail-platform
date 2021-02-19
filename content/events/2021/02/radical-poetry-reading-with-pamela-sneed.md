@@ -10,8 +10,6 @@ people:
   - person: devyn-manibo
   - person: emilio-rojas
   - person: omotara-james
-  - person: tuan-pham
-  - person: malvika-jolly
 date: 2021-02-17T13:00:00-0500
 end_date: 2021-02-17T14:30:00-0500
 series: 236
