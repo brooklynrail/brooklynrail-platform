@@ -10,6 +10,8 @@ people:
   - person: devyn-manibo
   - person: emilio-rojas
   - person: omotara-james
+  - person: tuan-pham
+  - person: malvika-jolly
 date: 2021-02-17T13:00:00-0500
 end_date: 2021-02-17T14:30:00-0500
 series: 236
@@ -19,6 +21,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: yjn7c-rnnEw
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-236-radical-poetry-with-pamela-sneed-tickets-141197326003
 event_platform:
   - zoom
