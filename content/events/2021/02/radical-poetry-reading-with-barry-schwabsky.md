@@ -6,9 +6,6 @@ summary: Barry Schwabsky curates the 26th Radical Poetry Reading featuring
   Simone Kearney, Joyelle McSweeney, Arthur Sze, and Tyrone Williams.
 people:
   - person: barry-schwabsky
-  - person: jamaica-gilmer
-  - person: miguel-luciano
-  - person: nico-wheadon
 date: 2021-02-24T13:00:00-0500
 end_date: 2021-02-24T14:30:00-0500
 series: 241
@@ -22,4 +19,5 @@ registration_url: https://www.eventbrite.com/e/radical-poetry-reading-with-barry
 event_platform:
   - zoom
 ---
+
 To celebrate our participation in Printed Matter's Virtual Art Book Fair, we've organized a week of NSE programming highlighting the many voices involved in art books and publishing. From February 24-28, you can view our virtual table and enjoy all the fair has to offer [here](http://pmvabf.org/).
