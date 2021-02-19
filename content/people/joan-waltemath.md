@@ -2,8 +2,8 @@
 name: Joan Waltemath
 first_name: Joan
 last_name: Waltemath
-short_bio: Joan Waltemath grew up on the Great Plains and now lives and works in
-  New York City.  Drawing has long been at the root of her artistic practice,
+short_bio: Artist who grew up on the Great Plains and now lives and works in New
+  York City.  Drawing has long been at the root of her artistic practice,
   serving as a way of thinking though visual material in preparation for
   painting.  At the same time Waltemath challenges her drawings to be autonomous
   works, which are made using diverse wet and dry materials.  Her abstract
