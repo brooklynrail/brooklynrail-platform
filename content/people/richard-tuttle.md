@@ -13,4 +13,6 @@ short_bio: One of the most representative American artists of the postwar
   and change. Since the 1970s, Richard Tuttle (b. 1941, Rahway, New Jersey) has
   been the subject of numerous solo exhibitions at museums throughout the world.
   Tuttle lives and works in New York and Abiquiú, New Mexico.
+portraits:
+  - media: 2021/02/richard-tuttle
 ---
