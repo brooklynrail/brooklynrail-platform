@@ -5,7 +5,7 @@ summary: "Artist and jazz musician Jason Moran joins Rail publisher and artistic
   poet, musician Janice Lowe. "
 people:
   - person: jason-moran
-  - person: phong-bui
+  - person: phong-h-bui
 poets:
   - person: janice-lowe
     related_links:
