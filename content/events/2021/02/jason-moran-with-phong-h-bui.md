@@ -10,8 +10,7 @@ poets:
   - person: janice-lowe
     related_links:
       - url: https://janicealowe.bandcamp.com/album/leaving-cle-songs-of-nomadic-dispersal
-        text:
-          "Digital Album: Leaving CLE Songs of Nomadic Dispersal by Janice Lowe &
+        text: "Digital Album: Leaving CLE Songs of Nomadic Dispersal by Janice Lowe &
           NAMAROON"
 date: 2021-02-22T15:00:00-0500
 end_date: 2021-02-22T16:30:00-0500
@@ -24,6 +23,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: wGeaUNLHUq8
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-239-jason-moran-tickets-141457556359
 event_platform:
   - zoom
