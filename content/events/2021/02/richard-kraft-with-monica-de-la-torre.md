@@ -6,6 +6,8 @@ summary: Artist Richard Kraft joins poet and translator Mónica de la Torre for 
 people:
   - person: richard-kraft
   - person: monica-de-la-torre
+poets:
+  - person: peter-gizzi
 date: 2021-02-26T13:00:00-0500
 end_date: 2021-02-26T14:30:00-0500
 series: 243
