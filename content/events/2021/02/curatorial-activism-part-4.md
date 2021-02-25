@@ -12,6 +12,8 @@ people:
   - person: birgit-bosold
   - person: amelia-jones
   - person: maura-reilly
+poets:
+  - person: mimi-tempestt
 date: 2021-03-04T13:00:00-0500
 end_date: 2021-03-04T14:30:00-0500
 collections:
