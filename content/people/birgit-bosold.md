@@ -12,4 +12,6 @@ short_bio: "A board member of the Schwules Museum in Berlin. She was the project
   North America and can be seen in Hong Kong, Shanghai, São Paolo, Nancy, and
   online: http://www.queerexhibition.org/en. She is a freelance consultant in
   portfolio management and a lecturer and author of specialized literature."
+portraits:
+  - media: 2021/02/rene-fietzek
 ---
