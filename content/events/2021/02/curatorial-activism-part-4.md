@@ -1,9 +1,9 @@
 ---
-title: Curatorial Activism, Part 4
-summary: Maura Reilly is joined by Jonathan Katz, Clare Barlow, Juan Vicente
-  Aliaga, Birgit Bosold, Dan Cameron, and Amelia Jones to discuss queer
-  curating, in our fourth installment in Curatorial Activism. We'll conclude
-  with a poetry reading from Mimi Tempest.
+title: "Curatorial Activism/Queer Curating: Maura Reilly & Friends"
+summary: A conversation on queer curatorial practices featuring legendary
+  curators Juan Vicente Aliaga, Clare Barlow, Birgit Bosold, Dan Cameron, Amelia
+  Jones, and Jonathan Katz in conversation with Maura Reilly. We'll conclude
+  with a poetry reading from multidisciplinary artist and poet Mimi Tempestt.
 people:
   - person: juan-vicente-aliaga
     event_bio: "University Reader in Modern and Contemporary Art Theory, Juan
@@ -89,6 +89,28 @@ people:
       Katrina; and in 2016 he organized the exhibition _When Jackie Met Ethyl_
       on Jackie Curtis and Ethyl Eichelberger at Howl! Happening on NYCs Lower
       East Side. "
+  - person: amelia-jones
+    event_bio: "Amelia Jones is Robert A. Day Professor and Vice Dean of Academics
+      and Research in Roski School of Art & Design at the University of Southern
+      California. Amelia is the curator of the critically acclaimed exhibition
+      _Sexual Politics: Judy Chicago’s ‘Dinner Party’ in Feminist Art History_,
+      at the Hammer Museum at UCLA, in 1996, and organized the exhibition
+      _Material Traces: Time and the Gesture in Contemporary Art_ at the Leonard
+      and Bina Ellen Gallery in Montréal in 2013. She also organized the event
+      _Trans-Montréal_ (Performance Studies International, 2015), including
+      performances, while her performance event Live Artists Live took place at
+      USC in 2016.  The former event also resulted in a special issue of
+      Performance Research edited by Amelia entitled “On Trans/Performance,”
+      published in October 2016.  Recent publications include _Seeing
+      Differently: A History and Theory of Identification and the Visual Arts_
+      (2012) and the anthology _Otherwise: Imagining Queer Feminist Art
+      Histories_, co-edited with Erin Silver (2016). The catalogue _Queer
+      Communion: Ron Athey_ (2020), co-edited with Andy Campbell, which
+      accompanies a retrospective of Athey’s work by the same name at
+      Participant Inc. (New York) and ICA (Los Angeles), has just been listed
+      among “Best Art Books 2020” in the _New York Times_. Her book entitled In
+      _Between Subjects: A Critical Genealogy of Queer Performance_ is published
+      in 2021 by Routledge Press.   "
   - person: jonathan-katz
     event_bio: >
       Jonathan D. Katz is perhaps the founding figure in queer art history,
@@ -115,28 +137,6 @@ people:
       doctoral program in queer Visual Studies at the University at Buffalo. He
       has also founded and chaired several major non-profit and queer activist
       organizations. 
-  - person: amelia-jones
-    event_bio: "Amelia Jones is Robert A. Day Professor and Vice Dean of Academics
-      and Research in Roski School of Art & Design at the University of Southern
-      California. Amelia is the curator of the critically acclaimed exhibition
-      _Sexual Politics: Judy Chicago’s ‘Dinner Party’ in Feminist Art History_,
-      at the Hammer Museum at UCLA, in 1996, and organized the exhibition
-      _Material Traces: Time and the Gesture in Contemporary Art_ at the Leonard
-      and Bina Ellen Gallery in Montréal in 2013. She also organized the event
-      _Trans-Montréal_ (Performance Studies International, 2015), including
-      performances, while her performance event Live Artists Live took place at
-      USC in 2016.  The former event also resulted in a special issue of
-      Performance Research edited by Amelia entitled “On Trans/Performance,”
-      published in October 2016.  Recent publications include _Seeing
-      Differently: A History and Theory of Identification and the Visual Arts_
-      (2012) and the anthology _Otherwise: Imagining Queer Feminist Art
-      Histories_, co-edited with Erin Silver (2016). The catalogue _Queer
-      Communion: Ron Athey_ (2020), co-edited with Andy Campbell, which
-      accompanies a retrospective of Athey’s work by the same name at
-      Participant Inc. (New York) and ICA (Los Angeles), has just been listed
-      among “Best Art Books 2020” in the _New York Times_. Her book entitled In
-      _Between Subjects: A Critical Genealogy of Queer Performance_ is published
-      in 2021 by Routledge Press.   "
   - person: maura-reilly
     event_bio: "Maura Reilly is a curator and arts writer who has organized dozens
       of exhibitions internationally with a specific focus on marginalized
