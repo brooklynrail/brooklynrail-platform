@@ -3,7 +3,7 @@ title: Curatorial Activism, Part 4
 summary: Maura Reilly is joined by Jonathan Katz, Clare Barlow, Juan Vicente
   Aliaga, Birgit Bosold, Dan Cameron, and Amelia Jones to discuss queer
   curating, in our fourth installment in Curatorial Activism. We'll conclude
-  with a poetry reading.
+  with a poetry reading from Mimi Tempest.
 people:
   - person: jonathan-katz
   - person: clare-barlow
