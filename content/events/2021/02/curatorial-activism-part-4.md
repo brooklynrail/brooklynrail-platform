@@ -18,6 +18,8 @@ date: 2021-03-04T13:00:00-0500
 end_date: 2021-03-04T14:30:00-0500
 collections:
   - common-ground
+event_sponsor:
+  - arizona-state-university-school-of-art-herberger-institute-for-design-the-arts
 event_organizer:
   - the-brooklyn-rail
 event_producer:
@@ -26,3 +28,4 @@ registration_url: https://www.eventbrite.com/e/common-ground-curatorial-activism
 event_platform:
   - zoom
 ---
+{{< image media="2021/01/arizona-state-university-school-of-art-herberger-institute-for-design-the-arts" size="lg" >}}
