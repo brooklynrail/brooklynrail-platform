@@ -20,6 +20,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/common-ground-curatorial-activism-part-4-tickets-143206002007
 event_platform:
   - zoom
 ---
