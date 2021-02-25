@@ -16,6 +16,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-246-radical-poetry-reading-with-sadia-hassan-tickets-143207953845
 event_platform:
   - zoom
 ---
