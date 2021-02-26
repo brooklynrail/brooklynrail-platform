@@ -13,6 +13,9 @@ people:
   - person: aki-karja
 poets:
   - person: darien-hsu-gee
+    related_links:
+      - url: https://poetrysociety.org/shop/chapbooks/other-small-histories
+        text: Other Small Histories
 date: 2021-03-01T13:00:00-0500
 end_date: 2021-03-01T14:30:00-0500
 series: 244
