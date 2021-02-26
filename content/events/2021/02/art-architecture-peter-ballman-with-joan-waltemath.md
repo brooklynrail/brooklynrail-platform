@@ -1,10 +1,12 @@
 ---
 title: "Art + Architecture: Peter Ballman with Joan Waltemath"
 summary: Architect Peter Ballman joins artist and writer Joan Waltemath for a
-  conversation. We'll conclude with a poetry reading from Rayyane Tabet.
+  conversation. We'll conclude with a poetry reading from Lynn Crawford.
 people:
   - person: peter-ballman
   - person: joan-waltemath
+poets:
+  - person: lynn-crawford
 date: 2021-03-05T13:00:00-0500
 end_date: 2021-03-05T14:30:00-0500
 series: 248
