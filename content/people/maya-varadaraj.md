@@ -2,16 +2,14 @@
 name: Maya Varadaraj
 first_name: Maya
 last_name: Varadaraj
-short_bio: "New York City based artist whose interdisciplinary practice engages
-  South Asian material culture to redefine feminine narratives and
-  representations. Her aesthetic vocabulary references familiar materials such
-  as; vintage advertisements, popular calendar illustrations, and classic
-  image-making techniques such as painted photographs. Varadaraj received her
-  BFA in Apparel Design from RISD before completing a Master's Degree at the
-  SAIC. Varadaraj's work has been exhibited internationally at Vitra Design
-  Museum, Museo Del Disseny Barcelona, Salone De Mobile, Mana Contemporary New
-  Jersey, and Assembly Room New York. She has been featured in publications such
-  as Juxtapoz, and We Make Money Not Art. "
+short_bio: An interdisciplinary artist and designer, she received her Bachelor's
+  of Fine Arts in Apparel Design from the Rhode Island School of Design before
+  completing a Master's Degree at the School of the Art Institute of Chicago.
+  Varadaraj's work has been exhibited internationally at Sapar Contemporary,
+  Vitra Design Museum, Museo Del Disseny Barcelona, Nature Morte, Sakshi
+  Gallery, Salone De Mobile, Mana Contemporary, Established Gallery and Medium
+  Tings among others. She has been featured in publications such as Juxtapoz,
+  Platform Magazine, and We Make Money Not Art.
 portraits:
   - media: 2021/02/maya-varadaraj
 website: https://www.m-vara.com
