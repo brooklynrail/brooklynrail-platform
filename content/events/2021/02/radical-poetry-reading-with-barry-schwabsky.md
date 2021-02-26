@@ -7,9 +7,6 @@ summary: Barry Schwabsky curates the 26th Radical Poetry Reading featuring
 people:
   - person: pamela-sneed
   - person: kyle-dacuyan
-  - person: devyn-manibo
-  - person: emilio-rojas
-  - person: omotara-james
 date: 2021-02-24T13:00:00-0500
 end_date: 2021-02-24T14:30:00-0500
 series: 241
