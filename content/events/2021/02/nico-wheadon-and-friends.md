@@ -26,6 +26,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: 7AQQZslk9tI
 registration_url: https://www.eventbrite.com/e/common-ground-nico-wheadon-and-friends-tickets-141486280273
 event_platform:
   - zoom
