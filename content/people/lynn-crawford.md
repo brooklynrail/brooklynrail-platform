@@ -2,7 +2,7 @@
 name: Lynn Crawford
 first_name: Lynn
 last_name: Crawford
-short_bio: "Fiction writer and art critic, Lynn Crawford’s books include _Solow,
+short_bio: "Fiction writer and art critic. Lynn Crawford’s books include _Solow,
   Blow, Fortification Resort_ (a series of art-related sestinas), _Simply
   Separate People_, _Simply Separate People, Two_, _Shankus & Kitto: A Saga and
   Paula Regossy_ (a detective novel riffing on art seen in Detroit). She is a
