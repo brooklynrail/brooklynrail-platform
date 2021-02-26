@@ -141,11 +141,11 @@ people:
     event_bio: "Maura Reilly is a curator and arts writer who has organized dozens
       of exhibitions internationally with a specific focus on marginalized
       artists. She has written extensively on global contemporary art and
-      curatorial practice, including, most recently Curatorial Activism: Towards
-      an Ethics of Curating (Thames & Hudson, 2018), which was named a “Top 10
-      Best Art Book of 2018” by the New York Times. Her next book, _The Ethical
-      Museum_, is forthcoming from Thames & Hudson in 2022, followed by a
-      textbook on Feminist Art, also with Thames & Hudson. Reilly is the
+      curatorial practice, including, most recently _Curatorial Activism:
+      Towards an Ethics of Curating_ (Thames & Hudson, 2018), which was named a
+      “Top 10 Best Art Book of 2018” by the New York Times. Her next book, _The
+      Ethical Museum_, is forthcoming from Thames & Hudson in 2022, followed by
+      a textbook on Feminist Art, also with Thames & Hudson. Reilly is the
       Founding Curator of the Elizabeth A. Sackler Center for Feminist Art at
       the Brooklyn Museum, where she developed and launched the first exhibition
       and public programming space in the USA devoted entirely to feminist art.
