@@ -6,6 +6,10 @@ summary: Poet Sadia Hassan curates the 27th Radical Poetry Reading, featuring
   Helene Achanzar, Janice Lobo Sapigao, Taylor Johnson, and Nabila Lovelace.
 people:
   - person: sadia-hassan
+  - person: helene-achanzar
+  - person: janice-lobo-sapigao
+  - person: taylor-johnson
+  - person: nabila-lovelace
 date: 2021-03-03T13:00:00-0500
 end_date: 2021-03-03T14:30:00-0500
 series: 246
