@@ -1,10 +1,9 @@
 ---
 title: Radical Poetry Reading with Sadia Hassan
-deck: Featuring political poetry from Helene Achanzar, Janice Sapigao, Taylor
-  Johnson, and Nabila Lovelace.
-summary: Sadia Hassan curates the 27th Radical Poetry Reading featuring
-  political poetry from Helene Achanzar, Janice Sapigao, Taylor Johnson, and
-  Nabila Lovelace.
+deck: Featuring political poetry read by Helene Achanzar, Janice Lobo Sapigao,
+  Taylor Johnson, and Nabila Lovelace
+summary: Poet Sadia Hassan curates the 27th Radical Poetry Reading, featuring
+  Helene Achanzar, Janice Lobo Sapigao, Taylor Johnson, and Nabila Lovelace.
 people:
   - person: sadia-hassan
 date: 2021-03-03T13:00:00-0500
