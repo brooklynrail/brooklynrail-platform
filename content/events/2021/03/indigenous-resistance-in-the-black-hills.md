@@ -38,6 +38,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/indigenous-resistance-in-the-black-hills-tickets-143662441229
 event_platform:
   - zoom
 ---
