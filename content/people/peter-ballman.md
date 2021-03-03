@@ -2,7 +2,7 @@
 name: Peter Ballman
 first_name: Peter
 last_name: Ballman
-short_bio: "a principal of Ballman Khapalova, an architecture practice based in
+short_bio: "A principal of Ballman Khapalova, an architecture practice based in
   Ithaca and New York City.  Through this practice Peter works at a variety of
   scales, from infrastructure to urban playgrounds, always seeking to integrate
   intuitive and imaginative design methods with a rigorous approach to drawing,
