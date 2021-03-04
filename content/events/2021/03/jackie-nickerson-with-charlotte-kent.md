@@ -19,7 +19,7 @@ people:
       For her most recent series, ‘Field Test’, published by Kerber Verlag, October 2020, Nickerson questions the life-style choices of the people of this world and reflects a contemporary reality in which the autonomous human subject is a compromised, problematic entity. Nickerson’s photo sculptures dismantle and reconstruct, protect and destroy the individual human being. ‘Field Test’ is a further elaboration on Nickerson’s long-term interest in how people inhabit, experience and impact on the world around them, and how their circumstances shape and define their lives.
 
 
-      Nickerson divides her time between London and rural Ireland.
+      Nickerson divides her time between London and rural Ireland. She is represented by Jack Shainman Gallery in New York.
     related_links:
       - url: https://jackshainman.com/exhibitions/jackie_nickerson_field_test
         text: "On view through April 3, 2021: JACKIE NICKERSON: FIELD TEST at Jack
