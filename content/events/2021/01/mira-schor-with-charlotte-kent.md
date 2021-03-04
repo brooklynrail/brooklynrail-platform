@@ -7,16 +7,6 @@ people:
   - person: charlotte-kent
 poets:
   - person: rachel-blau-duplessis
-    event_bio:
-      An NYC-based writer and sound artist. She worked for 25 years as a
-      paramedic which inspired her most recent book BrokeDown Palace. Among
-      other projects, she’s currently working on an opera called Broke. She also
-      does underwater field recording in the parks and rivers of the city.
-    related_links:
-      - url: https://soundcloud.com/maggie_dubris
-        text: " Poets Pandemic Podcast"
-      - url: http://www.brokedownpalacebook.com
-        text: BrokeDown Palace
 date: 2021-01-11T13:00:00-0500
 end_date: 2021-01-11T14:30:00-0500
 series: 209
