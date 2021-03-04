@@ -7,4 +7,5 @@ short_desc: Dermot Company is a vertically integrated owner, operator, &
 website: http://dermotcompany.com
 relationship:
   - donor
+  - featured-donor
 ---

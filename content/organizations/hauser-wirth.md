@@ -7,4 +7,6 @@ short_desc: Founded in 1992 in Zurich by Iwan Wirth, Manuela Wirth and Ursula
 website: https://www.hauserwirth.com
 instagram: hauserwirth
 twitter: HauserWirth
+relationship:
+  - featured-donor
 ---

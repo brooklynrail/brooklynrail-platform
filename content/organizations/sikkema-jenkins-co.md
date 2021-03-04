@@ -6,4 +6,5 @@ instagram: sikkemajenkins
 twitter: SikkemaJenkins
 relationship:
   - donor
+  - featured-donor
 ---

@@ -7,4 +7,7 @@ short_desc: Luhring Augustine was founded by Lawrence Luhring and Roland
 website: https://www.luhringaugustine.com
 instagram: luhringaugustine
 twitter: LAG_NYC
+relationship:
+  - donor
+  - featured-donor
 ---

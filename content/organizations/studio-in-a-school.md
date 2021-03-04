@@ -8,4 +8,5 @@ instagram: "studioinaschool"
 twitter: "studioinaschool"
 relationship:
   - donor
+  - featured-donor
 ---
