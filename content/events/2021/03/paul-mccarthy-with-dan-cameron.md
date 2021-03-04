@@ -41,6 +41,8 @@ end_date: 2021-03-12T14:30:00-0500
 series: 253
 collections:
   - the-new-social-environment
+event_sponsor:
+  - hauser-wirth
 event_organizer:
   - the-brooklyn-rail
 event_producer:
