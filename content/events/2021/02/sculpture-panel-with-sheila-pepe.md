@@ -11,12 +11,7 @@ people:
   - person: mary-mattingly
   - person: abigail-deville
   - person: lisi-raskin
-  - person: aki-karja
-poets:
-  - person: darien-hsu-gee
-    related_links:
-      - url: https://poetrysociety.org/shop/chapbooks/other-small-histories
-        text: Other Small Histories
+
 date: 2021-03-26T13:00:00-0500
 end_date: 2021-03-26T14:30:00-0500
 series: 263
