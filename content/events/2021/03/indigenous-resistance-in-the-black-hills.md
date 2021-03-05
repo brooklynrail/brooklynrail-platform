@@ -1,7 +1,8 @@
 ---
 title: Indigenous Resistance in the Black Hills
-summary: "Nick Tilsen & Krystal Two Bulls in conversation with Ash-Lee Woodard
-  Henderson on the Black Hills Land Back campaign. "
+summary: Nick Tilsen & Krystal Two Bulls in conversation with Ash-Lee Woodard
+  Henderson on the Black Hills Land Back campaign. We'll conclude with a
+  performance/reading by Jordan Brien.
 people:
   - person: nick-tilsen
     event_bio: President & CEO of NDN Collective, a national organization dedicated
@@ -30,6 +31,8 @@ people:
       of a warrior: a commitment to the well-being of not only her People and
       their relationship to the land, but that of all Peoples. "
   - person: ash-lee-woodard-henderson
+poets:
+  - person: jordan-brien
 date: 2021-03-11T13:00:00-0500
 end_date: 2021-03-11T14:00:00-0500
 collections:
