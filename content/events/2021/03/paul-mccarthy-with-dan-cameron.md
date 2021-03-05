@@ -18,7 +18,7 @@ people:
       generations of west coast artists and he has exhibited extensively
       worldwide. "
     related_links:
-      - url: https://www.hauserwirth.com/hauser-wirth-exhibitions/31228-paul-mccarthy-ae-sessions-drawing-painting
+      - url: https://www.vip-hauserwirth.com/gallery-exhibitions/paul-mccarthy-ae-sessions-drawing-and-painting?utm_source=brooklynrail&utm_medium=banner&utm_term=mar-2021&utm_content=event-chat-link&utm_campaign=
         text: "On view through April 10, 2021: 'Paul McCarthy A&E Sessions – Drawing and
           Painting' (Hauser & Wirth New York, 22nd Street)"
   - person: dan-cameron
