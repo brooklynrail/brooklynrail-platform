@@ -1,5 +1,5 @@
 ---
-title: "Art + Science: Janna Levin with Paul D. Miller (aka DJ Spooky)"
+title: "The Sound of Science: Janna Levin with Paul D. Miller (aka DJ Spooky)"
 summary: Professor of Physics and Astronomy and Founding Director of the Science
   Studios at Pioneer Works Janna Levin joins composer, multimedia artist, and
   Rail Editor-at-Large Paul D. Miller for a conversation. We conclude with a
@@ -21,4 +21,6 @@ event_producer:
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-249-art-science-janna-levin-paul-d-miller-tickets-144673946669
 event_platform:
   - zoom
+aliases:
+  - /events/2021/03/08/art-science-janna-levin-with-paul-d-miller-aka-dj-spooky/
 ---
