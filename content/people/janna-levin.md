@@ -13,5 +13,7 @@ short_bio: "The Claire Tow Professor of Physics & Astronomy at Barnard College,
   Outer Space_, is the inside story on the discovery of the century: the sound
   of spacetime ringing from the collision of two black holes over a billion
   years ago."
-website: http://jannalevin.com/bio-and-contact/
+portraits:
+  - media: 2021/03/janna-levin
+website: http://jannalevin.com
 ---
