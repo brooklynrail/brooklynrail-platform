@@ -1,7 +1,7 @@
 ---
 title: Paul McCarthy with Dan Cameron
-summary: Artist Paul McCarthy will be in conversation with curator, writer, and
-  educator Dan Cameron. We’ll conclude with a poetry reading.
+summary: Artist Paul McCarthy will be in conversation with curator, educator,
+  and Rail Editor-at-Large Dan Cameron. We’ll conclude with a poetry reading.
 people:
   - person: paul-mccarthy
     event_bio: "Widely considered to be one of the most influential and
