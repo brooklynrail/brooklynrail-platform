@@ -13,5 +13,7 @@ short_bio: An artist who lives in Brooklyn, New York, and is the founder and
   laminated glass sheets to form grand pictographic allegories, which the artist
   calls “frozen cinema”. He holds an Honorary Doctor of Humane Letters from the
   Savannah College of Art and Design.
+portraits:
+  - media: 2021/03/dustin-yellin
 website: https://dustinyellin.com
 ---
