@@ -9,4 +9,6 @@ short_bio: Native New Yorker Ilka Scobie is a poet who teaches in the public
   along with forty other contemporary Italian and American artists. Her recent
   poems have appeared in Urban Grafitti, Vanitas, and Poetry in Performance. She
   is also a deputy editor of LiveMag, a New York based literary magazine.
+portraits:
+  - media: 2021/03/ilka-scobie
 ---
