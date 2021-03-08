@@ -10,5 +10,5 @@ short_bio: The author of The Sudden Country, The Dream Detective and the
   School of Drama commissioned and produced Mr. Mills’ play The Serpent and the
   Dove. He has also recorded his poetry on ESPN and RCA Records.
 portraits:
-  - media: 2021/03/jeffrey-cyphers-wright
+  - media: 2020/07/david-mills-headshot
 ---
