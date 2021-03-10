@@ -1,5 +1,4 @@
 ---
-title: Radical Poetry Reading with Ben Keating
 deck: Featuring political poetry read by Helixx C. Armageddon, Sparrow, Max
   Blagg, Billy Martin, David Mills, Jeffrey Cyphers Wright, Ilka Scobie, and
   Phong H. Bui.
@@ -27,9 +26,11 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: RjF7iL_dwzg
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-251-radical-poetry-reading-with-ben-keating-tickets-144696064825
 portraits:
   - media: 2021/03/ben-keating
+title: Radical Poetry Reading with Ben Keating
 event_platform:
   - zoom
 ---
