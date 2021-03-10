@@ -4,7 +4,9 @@ summary: Professor of Physics and Astronomy and Founding Director of the Science
   Studios at Pioneer Works Janna Levin joins composer, multimedia artist, and
   Rail Editor-at-Large Paul D. Miller for a conversation. We conclude with a
   poetry reading from Bridget Hawkins.
-people: []
+people:
+  - person: janna-levin
+  - person: paul-d-miller-aka-dj-spooky
 poets: []
 date: 2021-03-08T13:00:00-0500
 end_date: 2021-03-08T14:30:00-0500
