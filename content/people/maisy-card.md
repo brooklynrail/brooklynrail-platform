@@ -9,4 +9,8 @@ short_bio: "The author of the novel, These Ghosts are Family, which was
   York Times, Guernica and other publications. Maisy was born in St. Catherine,
   Jamaica, but was raised in Queens, New York. She currently lives in Newark,
   NJ. "
+portraits:
+  - media: 2021/03/maisy-card
+website: http://www.maisycard.com
+instagram: librarylovefest
 ---
