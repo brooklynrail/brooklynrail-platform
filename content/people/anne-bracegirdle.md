@@ -2,14 +2,15 @@
 name: Anne Bracegirdle
 first_name: Anne
 last_name: Bracegirdle
-short_bio: Associate Vice President and Specialist in Christie's Photographs
-  Department. She co-organized Christie’s inaugural Art+Tech Summit in July 2017
-  which focused on blockchain. Anne has ten years of experience at Christie's
-  and received her Master's degree in The History of Photography at Sotheby's
-  Institute of Art. Prior to Christie's she was an associate for Ronald Varney
-  Fine Art Advisors. Anne is dedicated to progressing the art market's
-  blockchain strategy, as well as Christie’s Art+Tech program. She is an advisor
-  for R.A.R.E. Art Labs.
+short_bio: The Head of Sales US for Convelio with experience leading digital
+  strategy at Superblue and as a Specialist at Christie's New York where she
+  spearheaded the Art + Tech initiative. During her ten years at Christie’s she
+  was a specialist of Russian Art, 19th Century European Art, and Photographs.
+  Anne speaks widely on the topic of art and blockchain and has been cited in
+  The New York Times, The Financial Times, Forbes, The Art Newspaper, among
+  others. She has held speaking engagements with SXSW, the World Economic Forum,
+  The FT Festival, and more. Anne has an MA from Sotheby's Institute of Art and
+  a BA from Fordham University.
 portraits:
   - media: 2021/03/anne-bracegirdle
 ---
