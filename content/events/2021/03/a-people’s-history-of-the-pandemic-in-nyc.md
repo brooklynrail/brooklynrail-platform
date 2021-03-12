@@ -18,6 +18,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/a-peoples-history-of-the-pandemic-in-nyc-tickets-145915466087
 event_platform:
   - zoom
 ---
