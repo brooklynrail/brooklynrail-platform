@@ -1,5 +1,5 @@
 ---
-name: Meral
+name: Meral Agish
 first_name: Meral
 last_name: Agish
 short_bio: Community coordinator of the Queens Memory Project, the community
