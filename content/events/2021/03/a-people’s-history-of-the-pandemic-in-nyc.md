@@ -23,4 +23,3 @@ registration_url: https://www.eventbrite.com/e/a-peoples-history-of-the-pandemic
 event_platform:
   - zoom
 ---
-**Please join us for a conversation with Denise Milstein and Ryan Hagen, co-directors of the COVID-19 Oral History, Narrative and Memory Archive, and Meral Agish and Lori Wallach of the Queens Memory COVID-19 Project. They will be joined by Malvika Jolly for a conversation looking back over the past year and how the pandemic has affected our daily lives. We’ll conclude with a reading by poet Connie Mae Oliver.**
