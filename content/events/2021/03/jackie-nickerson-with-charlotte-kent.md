@@ -3,9 +3,11 @@ title: Jackie Nickerson with Charlotte Kent
 summary: Artist Jackie Nickerson will be in conversation with professor and Rail
   contributor Charlotte Kent. We'll conclude with a poetry reading from Jasmin
   Kaur.
-people: []
+people:
+  - person: jackie-nickerson
+  - person: charlotte-kent
 poets:
-  - person: lynn-crawford
+  - person: jasmin-kaur
 date: 2021-03-09T13:00:00-0500
 end_date: 2021-03-09T14:30:00-0500
 series: 250
