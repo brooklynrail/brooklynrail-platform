@@ -49,6 +49,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: UibHzVDL9xg
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-248-art-architecture-peter-ballman-tickets-142971839621
 event_platform:
   - zoom
