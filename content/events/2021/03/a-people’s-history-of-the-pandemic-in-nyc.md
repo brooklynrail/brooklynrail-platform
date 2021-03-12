@@ -8,6 +8,7 @@ people:
   - person: lori-a-wallach
   - person: denise-milstein
   - person: ryan-hagen
+  - person: malvika-jolly
 poets:
   - person: connie-mae-concepcion-oliver
 date: 2021-03-18T13:00:00-0500
