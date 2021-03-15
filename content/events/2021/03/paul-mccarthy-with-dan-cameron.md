@@ -1,7 +1,8 @@
 ---
 title: Paul McCarthy with Dan Cameron
 summary: Artist Paul McCarthy will be in conversation with curator, educator,
-  and Rail Editor-at-Large Dan Cameron. We’ll conclude with a poetry reading.
+  and Rail Editor-at-Large Dan Cameron. We’ll conclude with a poetry reading
+  from Cristine Brache.
 people:
   - person: paul-mccarthy
     event_bio: "Widely considered to be one of the most influential and
@@ -36,6 +37,8 @@ people:
       Katrina; and in 2016 he organized the exhibition When Jackie Met Ethyl on
       Jackie Curtis and Ethyl Eichelberger at Howl! Happening on NYCs Lower East
       Side. "
+poets:
+  - person: cristine-brache
 date: 2021-03-12T13:00:00-0500
 end_date: 2021-03-12T14:30:00-0500
 series: 253
@@ -47,6 +50,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: JEWzrUlfRxo
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-253-paul-mccarthy-tickets-144038907249
 event_platform:
   - zoom
