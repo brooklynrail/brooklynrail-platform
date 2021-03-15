@@ -10,5 +10,5 @@ short_bio: Founder and director of bitforms gallery, a leader in digital,
   Steven is an expert in the new media landscape and its evolving nature, as
   well as an authority on collecting and preserving digital art.
 portraits:
-  - media: 2021/02/peter-sacks
+  - media: 2021/03/steven-sacks
 ---
