@@ -1,7 +1,7 @@
 ---
 media: /media/files/andrea-abi-karam_headshot.jpg
-title: Ron Athey
-alt: Ron Athey by Andrea Abi-Karam
-caption: Photo by Andrea Abi-Karam
+title: Andrea Abi-Karam
+alt: Andrea Abi-Karam by @catphotoshoot
+caption: Photo by @catphotoshoot
 date: 2021-03-16T12:02:00-0500
 ---
