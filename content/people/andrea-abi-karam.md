@@ -17,4 +17,6 @@ short_bio: "A trans, arab-american punk poet-performer cyborg, writing on the
   co-edited We Want It All: An Anthology of Radical Trans Poetics (Nightboat
   Books, 2020). They are a leo currently obsessed with queer terror and
   convertibles."
+portraits:
+  - media: 2021/03/ron-athey
 ---
