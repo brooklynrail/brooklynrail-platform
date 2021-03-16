@@ -13,6 +13,7 @@ short_bio: (b. 1961) identifies as a self-taught artist, having, since 1980,
   most recently the Harpo Foundation Fellowship 2021. Upcoming projects include
   a live art/video production in collaboration with Hermes Pittakos, The
   Asclepeion.
-portraits: []
+portraits:
+  - media: 2021/03/ron-athey-1
 website: https://www.ronathey.org
 ---
