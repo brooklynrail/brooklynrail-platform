@@ -14,5 +14,5 @@ short_bio: "Robert A. Day Professor and Vice Dean of Academics & Research in
   2020.” Her book In Between Subjects: A Critical Genealogy of Queer Performance
   is published in 2021 by Routledge Press.   "
 portraits:
-  - media: 2021/02/amelia-jones
+  - media: 2021/03/amelia-jones
 ---
