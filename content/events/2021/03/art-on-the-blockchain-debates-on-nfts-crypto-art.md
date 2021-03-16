@@ -20,6 +20,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: I7v5vnPG0E8
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-255-art-on-the-blockchain-nfts-crypto-art-tickets-145745842739
 event_platform:
   - zoom
