@@ -8,6 +8,8 @@ people:
     related_links:
       - url: https://brooklynrail.org/events/2021/03/04/curatorial-activism-part-4/
         text: Curatorial Activism panel at the Brooklyn Rail with Maura Reilly
+poets:
+  - person: andrea-abi-karam
 date: 2021-03-22T13:00:00-0500
 end_date: 2021-03-22T14:30:00-0500
 series: 259
