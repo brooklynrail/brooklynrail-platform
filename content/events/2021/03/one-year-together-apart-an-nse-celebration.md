@@ -21,6 +21,7 @@ people:
   - person: nancy-princenthal
   - person: anselm-berrigan
   - person: kyle-dacuyan
+  - person: orlando-hernandez
 date: 2021-03-17T13:00:00-0500
 end_date: 2021-03-17T14:30:00-0500
 series: 256
