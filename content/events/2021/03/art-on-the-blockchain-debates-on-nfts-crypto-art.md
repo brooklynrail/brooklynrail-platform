@@ -4,13 +4,35 @@ summary: Please join us for a discussion with Ry David Bradley, Claudia Hart,
   Steven Sacks, and Anne Bracegirdle, led by professor Charlotte Kent. We'll
   conclude with a poetry reading from Sam Riviere.
 people:
-  - person: ry-david-bradley
-  - person: anne-bracegirdle
-  - person: claudia-hart
-  - person: steven-sacks
-  - person: charlotte-kent
+  - person: nick-tilsen
+    event_bio: President & CEO of NDN Collective, a national organization dedicated
+      to building Indigenous power, Nick Tilsen is a citizen of the Oglala
+      Lakota Nation. He has over 18 years of experience building place-based
+      innovations that have the ability to inform systems change solutions
+      around climate resiliency, sustainable housing, and equitable community
+      development. He founded NDN Collective to scale these place-based
+      solutions while building needed philanthropic, social impact investment,
+      capacity and advocacy infrastructure geared towards building the
+      collective power of Indigenous Peoples. Tilsen has received numerous
+      fellowships and awards from Ashoka, Rockefeller Foundation, Bush
+      Foundation and the Social Impact Award from Claremont-Lincoln University.
+      He has an honorary doctorate degree from Sinte Gleska University.
+  - person: krystal-two-bulls
+    event_bio: "Director of the NDN Collective’s LANDBACK Campaign, Krystal Two
+      Bulls is Oglala Lakota and Northern Cheyenne from Lame Deer, Montana. She
+      has extensive experience as an organizer and on the frontlines with
+      campaign development and management on local, national and transnational
+      campaigns for social, racial and environmental justice. Krystal’s identity
+      as a Native American veteran is central to her organizing and
+      storytelling. At the heart of Krystal’s work are the connections between
+      collective wellness, environmental justice, Indigenous Peoples’ Rights,
+      and anti-militarism. In healing from her experience as a soldier, Krystal
+      has dedicated herself to embodying what she views as the essential quality
+      of a warrior: a commitment to the well-being of not only her People and
+      their relationship to the land, but that of all Peoples. "
+  - person: ash-lee-woodard-henderson
 poets:
-  - person: sam-riviere
+  - person: jordan-brien
 date: 2021-03-16T13:00:00-0500
 end_date: 2021-03-16T14:30:00-0500
 series: 255
