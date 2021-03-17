@@ -11,4 +11,5 @@ short_bio: An Art Historian who lives in Maine. She is currently the Mellon
 portraits:
   - media: 2020/05/jessamine-batario
 rail_contributor_url: https://brooklynrail.org/contributor/Jessamine-Batario
+website: https://jessaminebatario.com
 ---
