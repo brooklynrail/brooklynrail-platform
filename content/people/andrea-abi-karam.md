@@ -20,5 +20,5 @@ short_bio: "A trans, arab-american punk poet-performer cyborg, writing on the
 portraits:
   - media: 2021/03/ron-athey
 website: http://andreak.com/
-instagram: "@wolf_hour"
+instagram: wolf_hour
 ---
