@@ -1,7 +1,9 @@
 ---
 title: Radical Poetry Reading with Stephen Ira
-deck: "Featuring political poetry read by Stephen Ira & friends. "
-summary: "Stephen Ira curates the 29th Radical Poetry Reading. "
+deck: Featuring poetry readings from Kamden Hilliard, Jackie Ess, Trish Salah,
+  and Maxe Crandall
+summary: Stephen Ira curates the 29th Radical Poetry Reading featuring radical
+  poetry read by Kamden Hilliard, Jackie Ess, Trish Salah, and Maxe Crandall.
 people:
   - person: stephen-ira
 date: 2021-03-24T13:00:00-0500
