@@ -1,7 +1,13 @@
 ---
-media: /media/files/solar_anus_0.jpg
+media: /media/files/acephalousminotaurfaveskopje.png
 title: Ron Athey
-alt: Solar Anus (2006) at the Hayward Gallery, in London. Photo by Regis Hertrich
-caption: Solar Anus (2006) at the Hayward Gallery, in London. Photo by Regis Hertrich
+alt: "Ron Athey, Acephalous Monster, 2019, MoCA Skopje. Photo: Andreja Kargačin.
+  [The artist Ron Athey, wearing a minotaur mask, is seated in a shallow box of
+  viscous fluids under a blacklight in shades of blue, white, and pink, covered
+  in drippy fluids.]"
+caption: "Ron Athey, Acephalous Monster, 2019, MoCA Skopje. Photo: Andreja
+  Kargačin. [The artist Ron Athey, wearing a minotaur mask, is seated in a
+  shallow box of viscous fluids under a blacklight in shades of blue, white, and
+  pink, covered in drippy fluids.] Courtesy of Participant Inc."
 date: 2021-03-16T16:34:00-0500
 ---
