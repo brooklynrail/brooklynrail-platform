@@ -11,6 +11,8 @@ people:
   - person: mary-mattingly
   - person: abigail-deville
   - person: lisi-raskin
+poets:
+  - person: jennifer-soong
 date: 2021-03-26T13:00:00-0500
 end_date: 2021-03-26T14:30:00-0500
 series: 263
