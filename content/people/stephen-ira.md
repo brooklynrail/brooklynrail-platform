@@ -11,4 +11,6 @@ short_bio: Stephen Ira is a writer, filmmaker, and performer. His poetry has
   Lambda Literary Fellow. In 2019, he completed an MFA at the Iowa Writers’
   Workshop. He is currently a poetry editor at the speculative magazine Strange
   Horizons.
+portraits:
+  - media: 2021/03/stephen-ira
 ---
