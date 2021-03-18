@@ -4,6 +4,9 @@ summary: Artist Ron Athey joins art historian and professor Amelia Jones for a
   conversation. We’ll conclude with a poetry reading by Andrea Abi-Karam.
 people:
   - person: ron-athey
+    related_links:
+      - url: http://participantinc.org/seasons/season-19/queer-communion-ron-athey
+        text: "Queer Communion: Ron Athey (Feb 14 – April 4, 2021) at Participant Inc"
   - person: amelia-jones
     related_links:
       - url: https://brooklynrail.org/events/2021/03/04/curatorial-activism-part-4/
