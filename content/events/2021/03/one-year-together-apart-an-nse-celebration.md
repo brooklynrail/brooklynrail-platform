@@ -31,6 +31,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: ggYrxze5gNM
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-256-one-year-together-apart-tickets-145913331703
 event_platform:
   - zoom
