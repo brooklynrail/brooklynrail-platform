@@ -1,5 +1,5 @@
 ---
-title: "Cultural Analytics: Speed and Technology with Lev Manovich and McKenzie Wark"
+title: On Cultural Analytics & AI Aesthetics
 summary: Leading digital culture theorist Dr. Lev Manovich joins writer and
   scholar McKenzie Wark for a conversation. We conclude with a poetry reading
   from Stephen Ira.
