@@ -5,6 +5,10 @@ deck: Featuring poetry readings from Kamden Hilliard, Jackie Ess, Trish Salah,
 summary: Stephen Ira curates the 29th Radical Poetry Reading featuring radical
   poetry read by Kamden Hilliard, Jackie Ess, Trish Salah, and Maxe Crandall.
 people:
+  - person: kamden-hilliard
+  - person: jackie-ess
+  - person: trish-salah
+  - person: maxe-crandall
   - person: stephen-ira
 date: 2021-03-24T13:00:00-0500
 end_date: 2021-03-24T14:30:00-0500
