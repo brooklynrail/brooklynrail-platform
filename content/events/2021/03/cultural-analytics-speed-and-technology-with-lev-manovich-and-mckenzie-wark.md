@@ -16,7 +16,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
-registration_url: https://www.eventbrite.com/e/cultural-analytics-speed-technology-with-lev-manovich-and-mckenzie-wark-tickets-147137487185
+registration_url: https://www.eventbrite.com/e/on-cultural-analytics-ai-aesthetics-tickets-147137487185
 event_platform:
   - zoom
 ---
