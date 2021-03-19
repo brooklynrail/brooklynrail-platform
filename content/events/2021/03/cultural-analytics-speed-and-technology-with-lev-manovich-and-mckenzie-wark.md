@@ -1,5 +1,5 @@
 ---
-title: On Cultural Analytics & AI Aesthetics
+title: "On Cultural Analytics & AI Aesthetics: Lev Manovich and McKenzie Wark"
 summary: Leading digital culture theorist Dr. Lev Manovich joins writer and
   scholar McKenzie Wark for a conversation. We conclude with a poetry reading
   from Stephen Ira.
