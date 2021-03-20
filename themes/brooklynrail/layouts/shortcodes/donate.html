@@ -24,7 +24,7 @@ Donate Shortcode
             <label for="donate-amount">Amount</label>
             <div class="prefix">
               <span>$</span>
-              <input type="number" min="0" placeholder="{{- if $placeholder -}}{{- $placeholder -}}{{- else -}}25{{- end -}}" id="donate-amount" />
+              <input required type="number" min="0" placeholder="{{- if $placeholder -}}{{- $placeholder -}}{{- else -}}250{{- end -}}" id="donate-amount" />
             </div>
           </div>
         </div>
@@ -42,14 +42,22 @@ Donate Shortcode
         </div>
         <div class="group">
           <div class="field">
-            <button class="btn btn-md" type="button" id="btn-donate"><span>Donate</span></button>
+            <div class="btn-helper">
+              <button class="btn btn-md" type="button" id="btn-donate" disabled><span>Donate</span></button>
+            </div>
+            
           </div>
         </div>
-
+        
       </div>
+      <p class="helper"></p>
     </fieldset>
   </form>
-  <p>The Brooklyn Rail is a nonprofit 501(c)(3) organization. Your donation is fully deductible. Questions? Email <a href="mailto:hq@brooklynrail.org" title="email the Brooklyn Rail">hq@brooklynrail.org</a></p>
+  <div class="content">
+    <p>The Brooklyn Rail is a nonprofit 501(c)(3) organization. Your donation is fully deductible. Questions? Email <a
+    href="mailto:hq@brooklynrail.org" title="email the Brooklyn Rail">hq@brooklynrail.org</a></p>
+  </div>
+  
 </div>
 
 {{- define "custom_js" }}

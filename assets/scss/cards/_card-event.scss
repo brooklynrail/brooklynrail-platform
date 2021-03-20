@@ -119,34 +119,6 @@
           }
         }
       }
-      .addeventatc{
-        @extend .btn;
-        @include u-margin(0);
-        @include u-padding-y(1);
-        @include u-padding-x('105');
-        @include u-font('sans', 'xs');
-        @include u-bg('gray-5');
-        @include u-radius('sm');
-        @include u-text('gray-80');
-        @include u-border('2px', 'solid', 'gray-5');
-        @include u-width('auto');
-        @include at-media('tablet-lg') {
-          @include u-margin-top(1);
-          @include u-width('full');
-        }
-        &:hover{
-          @include u-bg('gray-10');
-          @include u-text('gray-80');
-          @include u-border('2px', 'solid', 'gray-10');
-          @include u-text('no-underline');
-        }
-        .atc_node{
-          &:hover{
-            @include u-text('no-underline');
-            @include u-border-bottom('2px', 'solid', 'gray-80');
-          }
-        }
-      }
     }
 
   }

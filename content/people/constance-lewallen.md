@@ -14,6 +14,6 @@ short_bio: "Constance Lewallen is an emeritus curator at UCA Berkeley Art Museum
   Beginning and The End, at the Manetti Shrem Museum, and Reese Palley Gallery
   at Cushion Works. Lewallen is an editor at large for the Brooklyn Rail."
 portraits:
-  - media: 2020/07/constance-lewallen
+  - media: 2021/01/constance-lewallen-preferred-headshot
 rail_contributor_url: https://brooklynrail.org/contributor/constance-lewallen
 ---

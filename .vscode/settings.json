@@ -1,0 +1,14 @@
+{
+  "eslint.format.enable": true,
+  "eslint.lintTask.enable": true,
+  "eslint.probe": [
+    "javascript",
+    "html",
+    "markdown",
+    "scss"
+  ],
+  "eslint.validate": [
+  ],
+  "gitlens.advanced.fileHistoryFollowsRenames": true,
+  "editor.formatOnSave": true
+}

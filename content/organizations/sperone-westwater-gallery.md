@@ -6,4 +6,5 @@ instagram: speronewestwater
 twitter: SWGallery257
 relationship:
   - donor
+  - featured-donor
 ---

@@ -1,29 +1,99 @@
-<nav class="main-nav">
-  <div class="grid-container">
-    <div class="grid-row">
-      <div class="grid-col-12">
-        <div class="nav">
-          <ul>
+{{- $issues_data := .issues_data -}}
+{{- $page := .page -}}
+{{- $currentsection := $page.CurrentSection -}}
 
-            <li class="issue-select">
-              <select action="" name="issue" onchange="location = this.options[this.selectedIndex].value;">
-                {{- $issues := .issues_data }}
-                {{ range $i, $issue := $issues -}}
-                  <option {{ if (eq $i 0) -}}selected{{- end }} value="{{- $issue.path -}}">{{- $issue.issue -}}</option>
-                {{ end -}}
-              </select>
+{{- $gif := print "/material/img/gifs/" (index (slice "cool-ghost.gif" "floating_heart.gif" "heart-pulse-pixels.gif" "shiny.gif" "rainbow-bounce.gif" "sparkleheart.gif" "yay2.gif" | shuffle) 0) -}}
 
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="grid-col-12">
+
+      <div class="menu-mobile">
+        <button class="usa-menu-btn">Menu <i class="fas fa-bars"></i></button>
+        <a class="btn btn-donate" href="#" title="Donate">Donate</a>
+      </div>
+      
+      <nav aria-label="Primary navigation" class="usa-nav main-nav">
+        <div class="usa-nav__inner">
+          <button class="usa-nav__close">
+            <img src="/material/img/uswds/close.svg" role="img" alt="close">
+          </button>
+          
+          <ul class="usa-nav__primary usa-accordion">
+
+            {{/*  Gets the current page URL  */}}
+            {{- $currentURL := trim $page.URL "/" -}}
+            {{- $parent := $page.Parent -}}
+            {{- range $i, $menuitem := .menu_data -}}
+            <li class="usa-nav__primary-item nav-{{- $menuitem.Identifier -}}">
+              {{- if .HasChildren -}}
+                {{- template "nav-list-item-sub" (dict "menuitem" $menuitem "page" $page "issues_data" $issues_data ) -}}
+              {{- else -}}
+                {{- template "nav-list-item" (dict "menuitem" $menuitem "page" $page) -}}
+              {{- end -}}
             </li>
-          {{- $currentNode := .page -}}
-          {{- range $i, $item := .menu_data -}}
-            <li>
-              <a class="u-black {{ if eq $currentNode.URL $item.URL }}current{{- end -}}" href="{{- $item.URL -}}" title="{{- $item.Name -}}"><span>{{- $item.Name -}}</span></a>
+            {{- end -}}
+
+            <li class="usa-nav__primary-item nav-subscribe">
+              <a href="/subscribe" title="Become a subscriber">
+                <img src="{{- $gif -}}" alt="" />
+                <span>
+                  Become a subscriber 
+                  <em>for $9/month</em>
+                </span>
+              </a>
             </li>
-          {{- end -}}
-            <li class="donate"><a class="u-white" href="/donate" title="Donate to the Brooklyn Rail"><span>Donate</span></a></li>
+
+            <li class="usa-nav__primary-item nav-donate"><a class="btn btn-donate" href="/donate" title="Donate">Donate</a></li>
+            
           </ul>
         </div>
-      </div>
+      </nav>
+
     </div>
   </div>
-</nav>
+</div>
+
+
+
+{{/* Template: list menu templates ============================ */}}
+
+
+{{- define "nav-list-item" -}}
+  {{- $page := .page -}}
+  {{- $menuitem := .menuitem -}}
+  {{- $issues_data := .issues_data -}}
+
+  <a class="usa-nav__link {{ if eq ($page.Section | urlize) $menuitem.URL -}}usa-current{{- end -}}" title="{{- $menuitem.Name -}}" href="{{- $menuitem.URL -}}"><span>{{- if $menuitem.Pre }}{{- $menuitem.Pre }}&nbsp;{{ end }} {{ $menuitem.Name | markdownify -}}</span></a>
+{{- end -}}
+
+
+{{- define "nav-list-item-sub" -}}
+  {{- $page := .page -}}
+  {{- $menuitem := .menuitem -}}
+  {{- $issues_data := .issues_data -}}
+
+  <button class="usa-accordion__button usa-nav__link {{ if eq ($page.Section | urlize) $menuitem.URL -}}usa-current{{- end -}}" aria-expanded="false" aria-controls="extended-nav-{{- $menuitem.Identifier -}}"><span>{{- $menuitem.Name -}}</span></button>
+  
+  {{- with $menuitem.Children -}}
+  <ul id="extended-nav-{{- $menuitem.Identifier -}}" class="usa-nav__submenu">
+
+    {{- if eq $menuitem.Identifier "issues" -}}
+      {{- $issues := first 10 $issues_data }}
+      {{- range $i, $issue := $issues -}}
+      <li class="usa-nav__submenu-item">
+        <a href="{{- $issue.path -}}" class=""><span>{{- $issue.issue | markdownify }}</span> {{ if not $i -}}<span
+            class="new">new!</span>{{- end -}}</a>
+      </li>
+      {{- end -}}
+    {{- end -}}
+
+    {{- range $i, $child := . -}}
+    <li class="usa-nav__submenu-item {{ $child.Params.class -}}">
+      <a href="{{- $child.URL -}}" title="{{ $child.Name | plainify -}}">{{- if $child.Pre }}{{- $child.Pre }}&nbsp;{{ end }} <span>{{ $child.Name | markdownify -}}</span></a>
+    </li>
+    {{- end -}}
+  </ul>
+  {{- end -}}  
+{{- end -}}
+

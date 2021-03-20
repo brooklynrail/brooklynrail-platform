@@ -10,4 +10,5 @@ instagram: https://www.instagram.com/kasmingallery/
 twitter: https://twitter.com/Kasmingallery
 relationship:
   - donor
+  - featured-donor
 ---

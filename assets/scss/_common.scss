@@ -1,8 +1,7 @@
 // Common type elements
 
-
-.hidden{
-  @include u-display('none', !important);
+.hidden {
+  @include u-display("none", !important);
 }
 
 // ===========================
@@ -17,52 +16,51 @@
 // - u-black
 // - u-white
 a.u-primary {
-  @include u-text('primary', !important);
-  @include u-text('no-underline');
-  &:hover{
-    span{
-      @include u-border-bottom('2px', 'solid', 'primary');
+  @include u-text("primary", !important);
+  @include u-text("no-underline");
+  &:hover {
+    span {
+      @include u-border-bottom("2px", "solid", "primary");
     }
   }
 }
 a.u-primary-dotted {
-  @include u-text('primary', !important);
-  @include u-text('no-underline');
-  &:hover{
-    span{
-      @include u-border-bottom('2px', 'dotted', 'primary');
+  @include u-text("primary", !important);
+  @include u-text("no-underline");
+  &:hover {
+    span {
+      @include u-border-bottom("2px", "dotted", "primary");
     }
   }
 }
 a.u-black {
-  @include u-text('black', !important);
-  @include u-text('no-underline');
-  &:hover{
-    span{
-      @include u-border-bottom('2px', 'solid', 'black');
+  @include u-text("black", !important);
+  @include u-text("no-underline");
+  &:hover {
+    span {
+      @include u-border-bottom("2px", "solid", "black");
     }
   }
 }
 a.u-white {
-  @include u-text('white', !important);
-  @include u-text('no-underline');
-  &:hover{
-    span{
-      @include u-border-bottom('2px', 'solid', 'white');
+  @include u-text("white", !important);
+  @include u-text("no-underline");
+  &:hover {
+    span {
+      @include u-border-bottom("2px", "solid", "white");
     }
   }
 }
 
-
 // ===========================
 // overlay
 
-a.overlay{
-  display:contents;
-  @include u-text('no-underline');
-  &:hover{
-    .hover{
-      @include u-text('underline');
+a.overlay {
+  display: contents;
+  @include u-text("no-underline");
+  &:hover {
+    .hover {
+      @include u-text("underline");
     }
   }
 }
@@ -70,204 +68,201 @@ a.overlay{
 // ===========================
 // Headings
 
-h2{
-  a{
-    @include u-text('no-underline');
-    @include u-text('black');
-    &:hover{
-      @include u-text('underline');
+h2 {
+  a {
+    @include u-text("no-underline");
+    @include u-text("black");
+    &:hover {
+      @include u-text("underline");
     }
   }
 }
 
-
-
 // ===========================
 // Rail Buttons
-.btn{
+.btn {
   @extend .usa-button;
   @include u-margin(0);
-  @include u-padding-y('105');
-  @include u-padding-x('05');
-  @include u-text('medium');
-  @include u-font('sans', 'xs');
-  @include u-line-height('sans', 1);
-  @include at-media('tablet-lg') {
-    @include u-font('sans', 'md');
+  @include u-padding-y("105");
+  @include u-padding-x("05");
+  @include u-text("medium");
+  @include u-font("sans", "xs");
+  @include u-line-height("sans", 1);
+  @include at-media("tablet-lg") {
+    @include u-font("sans", "md");
   }
-  &:hover{
-    @include u-bg('primary');
+  &:hover {
+    @include u-bg("primary");
   }
 }
 
-.btn-xs{
+.btn-xs {
   @extend .btn;
   @include u-margin(0);
-  @include u-padding-y('05');
-  @include u-padding-x('105');
-  @include u-font('sans', 'xs');
+  @include u-padding-y("05");
+  @include u-padding-x("105");
+  @include u-font("sans", "xs");
 }
 
-.btn-sm{
+.btn-sm {
   @extend .btn;
   @include u-margin(0);
   @include u-padding-y(1);
-  @include u-padding-x('105');
-  @include u-font('sans', 'xs');
+  @include u-padding-x("105");
+  @include u-font("sans", "xs");
 }
 
-.btn-md{
+.btn-md {
   @extend .btn;
   @include u-margin(0);
   @include u-padding-y(1);
   @include u-padding-x(2);
-  @include u-font('sans', 'md');
+  @include u-font("sans", "md");
 }
 
-.btn-lg{
+.btn-lg {
   @extend .usa-button--big;
-  @include u-font('sans', 'sm');
-  @include at-media('tablet-lg') {
-    @include u-font('sans', 'md');
+  @include u-font("sans", "sm");
+  @include at-media("tablet-lg") {
+    @include u-font("sans", "md");
   }
   @include u-padding-y(2);
-  @include u-padding-x('205');
-  &:hover{
-    @include u-bg('primary');
+  @include u-padding-x("205");
+  &:hover {
+    @include u-bg("primary");
   }
 }
-
 
 // ===========================
 // Rail Section
 // This provides a class for page sections in the Rail, that extends the use of .usa-section
 
-section.rail-section{
+section.rail-section {
   @extend .usa-section;
 }
 
-
 // ===========================
 // Section
-main{
-  @include u-padding-y(6);
+main {
+  @include u-padding-y(3);
+  @include at-media("tablet") {
+    @include u-padding-y(6);
+  }
 }
 
-
-article{
-  header{
+article {
+  header {
     @include u-margin-bottom(6);
   }
 }
 
 // ===========================
 // Section
-section{
-
-  .summary{
+section {
+  .summary {
     @include u-margin(0);
     @include u-margin-bottom(3);
-    @include u-font('sans', 'lg');
-    @include u-text('light');
-    @include u-maxw('tablet');
-  }
-
-}
-
-
-.breadcrumb{
-  @include u-margin-top(4);
-  @include u-font('sans', 'sm');
-  @include at-media('tablet') {
-    @include u-font('sans', 'md');
-  }
-  a{
-    @include u-padding-y('05');
-    @include u-radius('sm');
+    @include u-font("sans", "lg");
+    @include u-text("light");
+    @include u-maxw("tablet");
   }
 }
 
+.breadcrumb {
+  @include u-margin-top(0);
+  @include u-font("sans", "sm");
+  @include at-media("tablet") {
+    @include u-margin-top(4);
+    @include u-font("sans", "md");
+  }
+  a {
+    @include u-padding-y("05");
+    @include u-radius("sm");
+  }
+}
 
-.divider{
-  svg{
+.divider {
+  svg {
     @include u-margin-y(5);
-    @include u-margin-x('auto');
-    @include u-width('full');
+    @include u-margin-x("auto");
+    @include u-width("full");
   }
 }
-
 
 // ===========================
 // Forms
 form.rail-form {
   @extend .usa-form;
   @include u-margin-bottom(2);
-  fieldset{
+  fieldset {
     @extend .usa-fieldset;
     // The heading in the form
-    legend{
+    legend {
       @extend .usa-legend;
       @include u-margin-bottom(2);
-      @include u-font('sans', 'lg');
-      @include u-text('thin');
+      @include u-font("sans", "lg");
+      @include u-text("thin");
     }
-    legend.hidden{
-      @include u-display('none');
+    legend.hidden {
+      @include u-display("none");
     }
     // Field Group
-    .group{
-      @include u-display('flex');
-      @include u-flex('align-end');
-      .field{
+    .group {
+      @include u-display("flex");
+      @include u-flex("align-end");
+      .field {
         @include u-margin-y(0);
-        @include u-margin-right('105');
-        &:last-child{
+        @include u-margin-right("105");
+        &:last-child {
           @include u-margin-right(0);
         }
       }
     }
 
     // Field
-    .field{
-      @include u-margin-bottom('205');
-      label{
+    .field {
+      @include u-margin-bottom("205");
+      label {
         @extend .usa-label;
         @include u-margin-top(0);
-        @include u-margin-bottom('05');
-        @include u-font('sans', 'sm');
+        @include u-margin-bottom("05");
+        @include u-font("sans", "sm");
       }
-      input{
+      input {
         @extend .usa-input;
         @include u-margin(0);
         @include u-padding-y(1);
         @include u-padding-x(1);
         @include u-height(5);
-        @include u-font('sans', 'md');
-        @include u-line-height('sans', 1);
-        @include u-border('1px', 'solid', 'gray-20');
-        @include u-radius('sm');
+        @include u-font("sans", "md");
+        @include u-line-height("sans", 1);
+        @include u-border("1px", "solid", "gray-20");
+        @include u-radius("sm");
+        &::placeholder {
+          @include u-text("gray-30");
+        }
       }
-      .prefix{
-        @include u-display('flex');
-        @include u-flex('align-center');
-        span{
-          @include u-display('block');
+
+      .prefix {
+        @include u-display("flex");
+        @include u-flex("align-center");
+        span {
+          @include u-display("block");
           @include u-padding-y(1);
-          @include u-padding-x('05');
-          @include u-padding-left(1);
+          @include u-padding-x("105");
           @include u-height(5);
-          @include u-bg('white');
-          @include u-font('sans', 'md');
-          @include u-line-height('sans', 2);
-          @include u-border('1px', 'solid', 'gray-20');
-          @include u-border-right(0);
-          @include u-radius('sm');
+          @include u-bg("gray-cool-10");
+          @include u-font("sans", "md");
+          @include u-line-height("sans", 2);
+          @include u-border("1px", "solid", "gray-20");
+          @include u-radius("sm");
+          @include u-radius-right(0);
           @include u-height(5);
           white-space: nowrap;
         }
-        input{
+        input {
           @include u-border-left(0);
-          @include u-padding-left(0);
+          @include u-radius-left(0);
         }
       }
     }

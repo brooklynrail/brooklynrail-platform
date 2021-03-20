@@ -8,4 +8,5 @@ email: info@pousette-dartfoundation.org
 website: https://pousette-dartfoundation.org
 relationship:
   - donor
+  - featured-donor
 ---

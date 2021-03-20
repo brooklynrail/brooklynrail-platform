@@ -45,15 +45,16 @@
     {{- end }}
 
     {{ "<!-- Sitemap-->" | safeHTML }}
+    
     <link rel="sitemap" type="application/xml" title="Digital.gov Sitemap" href="{{- "sitemap.xml" | absURL -}}" />
 
     {{/* NOTE: For Production make sure you add `HUGO_ENV="production"` before your build command */}}
     {{- if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production") }}
     {{ "<!-- Robots -->" | safeHTML }}
-    <meta NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    <meta name="ROBOTS" content="INDEX, FOLLOW">
     {{- else }}
     {{ "<!-- Robots -->" | safeHTML }}
-    <meta NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+    <meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
     {{- end }}
 
     {{ block "styles" . -}}
@@ -66,14 +67,6 @@
 
       <link rel="stylesheet" href="{{- $main_styles.RelPermalink -}}" type="text/css" media='all' />
 
-      {{/* Add to Calendar styles */}}
-      {{- if and (eq .Section "events") -}}
-        {{ $addtocal_options := (dict "targetPath" "material/dist/styles.css" "outputStyle" "compressed" "enableSourceMap" true ) -}}
-        {{- $addtocal := (resources.Get "vendor/addtocal.scss" | resources.ToCSS $addtocal_options | resources.Fingerprint "md5") -}}
-        <link rel="stylesheet" href="{{- $addtocal.RelPermalink -}}" type="text/css" media='all' />
-      {{- end -}}
-
-
       {{/* Custom CSS — needs to be included before the base styles */}}
       {{- if $.Params.css -}}
         {{- range $.Params.css -}}
@@ -83,12 +76,6 @@
         {{- end -}}
       {{- end -}}
 
-      {{/* Add to Calendar JS */}}
-      {{- if and (eq .Section "events") -}}
-        {{ "<!-- Add to Calendar JS -->" | safeHTML }}
-        <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
-      {{- end }}
-
     {{- end }}
 
 
@@ -96,6 +83,8 @@
       {{- partial "meta/google_analytics.html" . -}}
     {{ end }}
 
+    <!-- Netlify Identity -->
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
 
 
@@ -157,6 +146,18 @@
     {{ end }}
 
     {{- block "custom_js" . -}}{{- end -}}
+
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/workflow";
+            });
+          }
+        });
+      }
+    </script>
 
   </body>
 </html>

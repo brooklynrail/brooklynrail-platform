@@ -8,4 +8,5 @@ email: ""
 website: https://hillartfoundation.org
 relationship:
   - donor
+  - featured-donor
 ---

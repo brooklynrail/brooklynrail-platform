@@ -1,14 +1,12 @@
 # The Brooklyn Rail / Editing Workflow
 # https://brooklynrail.org/workflow
 
-
 # ====================================
 display_url: https://brooklynrail.org
 site_url: https://brooklynrail.org
 
 # logo_url — sets the logo in the admin
 logo_url: https://brooklynrail.org/images/dist/brooklynrail-logo-red.png
-
 
 # ====================================
 # Account settings
@@ -17,7 +15,6 @@ backend:
   repo: brooklynrail/brooklynrail-platform
   site_domain: brooklynrail.netlify.com
   base_url: https://api.netlify.com
-
 
 # ====================================
 # Workflow -- NetlifyCMS editorial workflow tools
@@ -33,7 +30,6 @@ commit_messages:
   deleteMedia: 'Delete "{{path}}"'
   openAuthoring: "{{message}}, {{author-login}}"
 
-
 # ====================================
 # Media
 # Where media will be stored in the repo
@@ -41,14 +37,12 @@ media_folder: "/static/media/files"
 # Path for uploaded media on the live site
 public_folder: "/media/files"
 
-
 # ====================================
 # Configuration
 # slug — sets how filenames for entries are created and sanitized.
 slug:
   encoding: "unicode"
   clean_accents: true
-
 
 # Localhost Editing
 # uses the local proxy server port set in the `npx netlify-cms-proxy-server` command
@@ -58,7 +52,6 @@ local_backend: true
 # ====================================
 # Collections
 collections:
-
   # ====================================
   # Events
   - name: "events" # Used in routes, e.g., /workflow/collections/blog
@@ -75,7 +68,6 @@ collections:
       preview: false
 
     fields: # The fields for each document, usually in frontmatter
-
       - label: "Event Title"
         name: "title"
         minimal: true
@@ -107,33 +99,33 @@ collections:
         widget: "list"
         required: false
         fields:
-          - label: 'Person'
-            name: 'person'
-            widget: 'relation'
+          - label: "Person"
+            name: "person"
+            widget: "relation"
             collection: "people"
             search_fields: ["name"]
             value_field: "{{slug}}"
             display_fields: ["{{name}}"]
             hint: "Choose a person"
-          - label: 'Event Specific Bio'
-            name: 'event_bio'
-            widget: 'text'
+          - label: "Event Specific Bio"
+            name: "event_bio"
+            widget: "text"
             minimal: true
             hint: "No more than two short paragraphs"
             required: false
-          - label: 'Related Links'
-            name: 'related_links'
-            widget: 'list'
+          - label: "Related Links"
+            name: "related_links"
+            widget: "list"
             hint: "add no more than three related links for this author"
             required: false
             fields:
-              - label: 'Link Text'
-                name: 'text'
-                widget: 'string'
+              - label: "Link Text"
+                name: "text"
+                widget: "string"
                 hint: "Add a clear headline ot title. Do not include the name of the site you're linking to."
-              - label: 'Link'
-                name: 'url'
-                widget: 'string'
+              - label: "Link"
+                name: "url"
+                widget: "string"
                 hint: "Add the full URL of the link (e.g. https://brooklynrail.org/2020/05/example)"
 
       - label: "Poets"
@@ -141,34 +133,35 @@ collections:
         widget: "list"
         required: false
         fields:
-          - label: 'Person'
-            name: 'person'
-            widget: 'relation'
+          - label: "Person"
+            name: "person"
+            widget: "relation"
             collection: "people"
             search_fields: ["name"]
             value_field: "{{slug}}"
             display_fields: ["{{name}}"]
             hint: "Choose a person. Add new people in 'People'"
-          - label: 'Event Specific Bio'
-            name: 'event_bio'
-            widget: 'text'
+          - label: "Event Specific Bio"
+            name: "event_bio"
+            widget: "text"
             minimal: true
-            pattern: ['^.{0,300}$', "Event bio needs to be 300 characters or less"]
+            pattern:
+              ["^.{0,300}$", "Event bio needs to be 300 characters or less"]
             hint: "Bio should not start with the person's name. Max 300 characters."
             required: false
-          - label: 'Related Links'
-            name: 'related_links'
-            widget: 'list'
+          - label: "Related Links"
+            name: "related_links"
+            widget: "list"
             hint: "example"
             required: false
             fields:
-              - label: 'Link Text'
-                name: 'text'
-                widget: 'string'
+              - label: "Link Text"
+                name: "text"
+                widget: "string"
                 hint: "Use a clear title or headline"
-              - label: 'Link'
-                name: 'url'
-                widget: 'string'
+              - label: "Link"
+                name: "url"
+                widget: "string"
                 hint: "e.g https://brooklynrail.org/2020/06/editorsmessage/The-Mirror-Displaced-Artists-Writing-on-Art"
 
       - label: "Start time"
@@ -266,13 +259,11 @@ collections:
         hint: "Enter the URL where people can join"
         required: false
 
-      - label: 'Redirects'
-        name: 'aliases'
-        widget: 'list'
+      - label: "Redirects"
+        name: "aliases"
+        widget: "list"
         hint: "Enter the path(s) that will break when you change the title of the page or the URL. They will redirect to the new URL. Separate multiple paths with commas [e.g. /events/2020/06/19/example, /events/2020/06/19/example-title ]"
         required: false
-
-
 
   # ====================================
   # Pages
@@ -333,7 +324,6 @@ collections:
         step: 1
         hint: "Pages are ordered by weight, starting with 1. Weight `0` hides a page from the page nav."
 
-
   # ====================================
   # Media
 
@@ -389,14 +379,12 @@ collections:
         hint: "This is the person who will receive credit as the author of the image."
         required: false
 
-
       - label: "Date"
         name: "date"
         widget: "datetime"
         date_format: "YYYY-MM-DD" # e.g. 24.12.2021
         time_format: "HH:mm" # e.g. 21:07
         format: "YYYY-MM-DDTHH:mm:00-0500"
-
 
   # ====================================
   # Collections
@@ -447,7 +435,6 @@ collections:
         hint: "The organizations sponsoring this collection. This should not be 'The Brooklyn Rail'."
         required: false
 
-
   # ====================================
   # People
 
@@ -489,7 +476,11 @@ collections:
       - label: "Short Bio"
         name: "short_bio"
         widget: "text"
-        pattern: ['^.{0,800}$', "Short bio needs to be less than 800 characters (~120 words)"]
+        pattern:
+          [
+            "^.{0,800}$",
+            "Short bio needs to be less than 800 characters (~120 words)",
+          ]
         hint: "Add a short description of the person without using their name. [Max 800 characters (~120 words)]"
         required: false
 
@@ -518,7 +509,18 @@ collections:
         name: "relationship"
         widget: "select"
         multiple: true
-        options: ["donor", "board-member", "advisory-board", "staff", "publisher", "section-editor", "consulting-editor", "editor-at-large", "alumni"]
+        options:
+          [
+            "donor",
+            "board-member",
+            "advisory-board",
+            "staff",
+            "publisher",
+            "section-editor",
+            "consulting-editor",
+            "editor-at-large",
+            "alumni",
+          ]
         hint: "Donor, Board Member, Advisory Board, Staff, Alumni"
         required: false
 
@@ -557,8 +559,6 @@ collections:
         widget: "string"
         required: false
 
-
-
   # ====================================
   # Organizations
 
@@ -583,7 +583,8 @@ collections:
       - label: "Short description"
         name: "short_desc"
         widget: "text"
-        pattern: ['^.{0,240}$', "Short bio needs to be less than 240 characters"]
+        pattern:
+          ["^.{0,240}$", "Short bio needs to be less than 240 characters"]
         hint: "Add a short description of the organization without using their name. [Max 240 characters]"
         required: false
 
@@ -615,7 +616,19 @@ collections:
         name: "relationship"
         widget: "select"
         multiple: true
-        options: ["donor", "board-member", "advisory-board", "staff", "publisher", "section-editor", "consulting-editor", "editor-at-large", "alumni"]
+        options:
+          [
+            "featured-donor",
+            "donor",
+            "board-member",
+            "advisory-board",
+            "staff",
+            "publisher",
+            "section-editor",
+            "consulting-editor",
+            "editor-at-large",
+            "alumni",
+          ]
         hint: "Donor, Board Member, Advisory Board, Staff, Alumni"
         required: false
 

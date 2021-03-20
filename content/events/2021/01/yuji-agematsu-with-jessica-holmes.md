@@ -1,7 +1,7 @@
 ---
 title: Yuji Agematsu with Jessica Holmes
 summary: Artist Yuji Agematsu joins writer and critic Jessica Holmes for a
-  conversation. We'll conclude with a poetry reading.
+  conversation. We'll conclude with a poetry reading from Andrew Durbin.
 people:
   - person: yuji-agematsu
     event_bio: Hasegawa, a member of the band Taj Mahal Travellers, and the jazz
@@ -35,6 +35,22 @@ people:
       holds a BA in both art history and history from the University of
       Rochester, and an MFA in art criticism and writing from the School of
       Visual Arts."
+poets:
+  - person: andrew-durbin
+    event_bio: "Author of MacArthur Park and Skyland and editor of Jacolby
+      Satterwhite’s The Matriarch’s Rhapsody, Kevin Killian’s Fascination, and
+      chapbook series Say bye to reason and hi to everything. His works appears
+      in The Believer, BOMB, Boston Review, and elsewhere. He is the editor of
+      frieze magazine. "
+    related_links:
+      - url: https://nightboat.org/book/macarthur-park/
+        text: MacArthur Park (2017)
+      - url: https://nightboat.org/book/skyland/
+        text: Skyland (2020)
+      - url: https://mitpress.mit.edu/books/fascination
+        text: "Fascination: Memoirs (Kevin Killian)"
+      - url: https://becapricious.com/publications/say-bye-to-reason-and-hi-to-everything/
+        text: Say bye to reason and hi to everything (2015)
 date: 2021-01-12T13:00:00-0500
 end_date: 2021-01-12T14:30:00-0500
 series: 210
@@ -44,6 +60,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: ebCO_fF52eg
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-210-yuji-agematsu-with-jessica-holmes-tickets-135909822939
 event_platform:
   - zoom
