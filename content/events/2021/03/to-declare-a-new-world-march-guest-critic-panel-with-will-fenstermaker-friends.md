@@ -7,6 +7,8 @@ summary: Join us for the Rail's March Guest Critic Panel with Will Fenstermaker
 people:
   - person: will-fenstermaker
   - person: charles-schultz
+poets:
+  - person: cynthia-cruz
 date: 2021-03-29T13:00:00-0500
 end_date: 2021-03-29T14:30:00-0500
 series: 264
