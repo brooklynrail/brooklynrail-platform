@@ -3,7 +3,7 @@ title: "To Declare a New World: March Guest Critic Panel with Will Fenstermaker
   & Friends"
 summary: Join us for the Rail's March Guest Critic Panel with Will Fenstermaker
   and friends, led by Rail managing editor Charles Schultz. We'll conclude with
-  a poetry reading.
+  a poetry reading from Cynthia Cruz.
 people:
   - person: will-fenstermaker
   - person: charles-schultz
