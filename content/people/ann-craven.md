@@ -11,7 +11,7 @@ short_bio: Known for her lush, serial portraits of the moon, birds, and flowers,
   (CMCA), Rockland, Maine (2019); Shane Campbell Gallery, Chicago (2019); Karma,
   New York (2018); Southard Reid, London (2017); Maccarone, New York (2016);
   among others. Her paintings are in the public collections of the Dallas Museum
-  of Art, MoMA, Whitney Museum of American Art, New Museum, among others
+  of Art, MoMA, Whitney Museum of American Art, New Museum, among others.
 portraits:
   - media: 2021/03/ann-craven
 website: http://www.anncraven.com
