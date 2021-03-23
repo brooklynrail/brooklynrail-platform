@@ -5,9 +5,9 @@ summary: "Painter Andrea Marie Breiling joins art critic Barry Schwabsky. We
 people:
   - person: andrea-marie-breiling
   - person: barry-schwabsky
-date: 2021-04-02T13:00:00-0500
-end_date: 2021-04-02T14:30:00-0500
-series: 268
+date: 2021-03-30T13:00:00-0500
+end_date: 2021-03-30T14:30:00-0500
+series: 265
 collections:
   - the-new-social-environment
 event_organizer:
