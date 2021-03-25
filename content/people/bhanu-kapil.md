@@ -8,7 +8,8 @@ short_bio: "A British-Indian emigrant to the United States. She is the author of
   project for future children] (2009), Schizophrene (2011), and Ban en Banlieue
   (2015). Since 2007, she has been incubating “Ban” through performances, talks,
   and collaborations in the U.S., India, and the U.K. She lives in Colorado
-  where she teaches Interdisciplinary Studies at Naropa University."
+  where she teaches Interdisciplinary Studies at Naropa University. She won the
+  TS Eliot Prize for her book, How to Wash A Heart."
 portraits:
   - media: 2021/03/bhanu-kapil
 website: https://nightboat.org/bio/bhanu-kapil/
