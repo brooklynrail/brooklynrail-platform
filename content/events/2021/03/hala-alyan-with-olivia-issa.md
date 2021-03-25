@@ -6,6 +6,8 @@ summary: "Author Hala Alyan joins organizer Olivia Issa for a conversation on
 people:
   - person: hala-alyan-1
   - person: olivia-issa
+poets:
+  - person: ghinwa-jawhari
 date: 2021-04-01T13:00:00-0500
 end_date: 2021-04-01T14:30:00-0500
 collections:
