@@ -5,8 +5,11 @@ summary: Join us for the Rail's March Guest Critic Panel with Will Fenstermaker
   and friends, led by Rail managing editor Charles Schultz. We'll conclude with
   a poetry reading from Cynthia Cruz.
 people:
-  - person: will-fenstermaker
+  - person: sarah-cowan
+  - person: pac-pobric
+  - person: kaitlyn-kramer
   - person: charles-schultz
+  - person: pac-pobric
 poets:
   - person: cynthia-cruz
 date: 2021-03-29T13:00:00-0500
