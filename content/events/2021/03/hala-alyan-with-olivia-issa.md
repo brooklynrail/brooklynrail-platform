@@ -1,7 +1,8 @@
 ---
 title: Hala Alyan with Olivia Issa
 summary: "Author Hala Alyan joins organizer Olivia Issa for a conversation on
-  her new novel The Arsonists’ City. We’ll conclude with a poetry reading. "
+  her new novel The Arsonists’ City. We’ll conclude with a poetry reading from
+  Ghinwa Jawhari. "
 people:
   - person: hala-alyan-1
   - person: olivia-issa
