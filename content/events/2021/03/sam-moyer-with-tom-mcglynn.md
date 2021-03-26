@@ -1,7 +1,7 @@
 ---
 title: Sam Moyer with Tom McGlynn
-summary: Artist Sam Moyer joins artist and writer Tom McGlynn for a
-  conversation. We conclude with a poetry reading.
+summary: Artist Sam Moyer joins Rail Editor-at-Large Tom McGlynn for a
+  conversation. We conclude with a poetry reading from Martin Corless-Smith.
 people:
   - person: sam-moyer
   - person: tom-mcglynn
