@@ -5,6 +5,8 @@ summary: Artist Sam Moyer joins Rail Editor-at-Large Tom McGlynn for a
 people:
   - person: sam-moyer
   - person: tom-mcglynn
+poets:
+  - person: martin-corless-smith
 date: 2021-04-02T13:00:00-0500
 end_date: 2021-04-02T14:30:00-0500
 series: 268
