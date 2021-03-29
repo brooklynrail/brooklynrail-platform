@@ -2,8 +2,9 @@
 title: "To Declare a New World: March Guest Critic Panel with Will Fenstermaker
   & Friends"
 summary: Join us for the Rail's March Guest Critic Panel with Sarah Cowan, Pac
-  Pobric, Kaitlyn Kramer, and Will Fenstermaker led by Rail managing editor
-  Charles Schultz. We'll conclude with a poetry reading from Cynthia Cruz.
+  Pobric, Kaitlyn Kramer, and Will Fenstermaker led by Rail Managing Editor
+  Charles Schultz. We'll conclude with a poetry reading from Helixx C.
+  Armageddon.
 people:
   - person: sarah-cowan
   - person: pac-pobric
@@ -11,7 +12,7 @@ people:
   - person: will-fenstermaker
   - person: charles-schultz
 poets:
-  - person: cynthia-cruz
+  - person: helixx-c-armageddon
 date: 2021-03-29T13:00:00-0500
 end_date: 2021-03-29T14:30:00-0500
 series: 264
