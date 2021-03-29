@@ -2,7 +2,7 @@
 name: Lauren Fejarang
 first_name: Lauren
 last_name: Fejarang
-short_bio: A Los Angeles-born Pacific Islander, is a sculptor, painter and
+short_bio: A Los Angeles-born Pacific Islander, is a sculptor and
   interdisciplinary artist based in Los Angeles. Fejarang received her MFA from
   Art Center College of Design, Pasadena, CA in 2013. Her practice utilizes
   materials such as concrete and paper, to address questions around
