@@ -9,7 +9,8 @@ people:
   - person: sarah-cowan
   - person: pac-pobric
   - person: kaitlyn-kramer
-  - person: will-fenstermaker
+  - person: christopher-alessandrini
+  - person: christopher-alessandrini
   - person: charles-schultz
 poets:
   - person: helixx-c-armageddon
