@@ -10,7 +10,7 @@ people:
   - person: pac-pobric
   - person: kaitlyn-kramer
   - person: christopher-alessandrini
-  - person: christopher-alessandrini
+  - person: will-fenstermaker
   - person: charles-schultz
 poets:
   - person: helixx-c-armageddon
