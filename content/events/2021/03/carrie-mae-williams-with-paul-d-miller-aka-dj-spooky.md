@@ -1,7 +1,7 @@
 ---
-title: Carrie Mae Williams with Paul D. Miller (aka DJ Spooky)
-summary: Artist Carrie Mae Williams joins Rail Editor-at-Large Paul D. Miller
-  for a conversation. We conclude with a poetry reading.
+title: Carrie Mae Weems with Paul D. Miller (aka DJ Spooky)
+summary: Artist Carrie Mae Weems joins Rail Editor-at-Large Paul D. Miller for a
+  conversation. We conclude with a poetry reading.
 people:
   - person: carrie-mae-weems
   - person: paul-d-miller-aka-dj-spooky
