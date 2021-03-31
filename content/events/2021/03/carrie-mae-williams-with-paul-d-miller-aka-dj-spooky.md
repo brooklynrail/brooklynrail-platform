@@ -17,4 +17,6 @@ event_producer:
 registration_url: https://www.eventbrite.com/e/new-social-environment-269-carrie-mae-williams-tickets-148785775259
 event_platform:
   - zoom
+aliases:
+  - /events/2021/04/05/carrie-mae-weems-with-paul-d-miller-aka-dj-spooky/
 ---
