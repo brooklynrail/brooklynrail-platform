@@ -7,4 +7,5 @@ short_bio: is a native New Yorker and educator, currently pursuing a doctoral
   Her research interests are educational equity and Black girl joy.
 portraits:
   - media: 2020/12/damaris-dunn-headshot
+rail_contributor_url: https://brooklynrail.org/contributor/Damaris-Dunn
 ---
