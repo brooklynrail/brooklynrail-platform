@@ -15,6 +15,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: e4YFeQpIwmc
 registration_url: https://www.eventbrite.com/e/radical-poetry-reading-with-mei-mei-berssenbrugge-tickets-147681155311
 event_platform:
   - zoom
