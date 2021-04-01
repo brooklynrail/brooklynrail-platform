@@ -7,4 +7,5 @@ short_bio: is a writer, researcher, professor, youth advocate, Nietzschean, and
   Embodying Theory (2018). She lives in Brooklyn with her dog, Messy.
 portraits:
   - media: 2020/12/elizabeth-bishop-headshot
+twitter: DrBishopDigital
 ---
