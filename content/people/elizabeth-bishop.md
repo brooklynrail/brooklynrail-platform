@@ -8,4 +8,15 @@ short_bio: is a writer, researcher, professor, youth advocate, Nietzschean, and
 portraits:
   - media: 2020/12/elizabeth-bishop-headshot
 twitter: DrBishopDigital
+people:
+  - person: regina-anderson
+  - person: gwendolyn-baxley
+  - person: damaris-dunn
+  - person: carolyn-eanes
+  - person: nicole-hamilton
+  - person: ioanna-opidee
+  - person: tamsen-wojtanowski
+  - person: nassim-zerriffi
+  - person: elizabeth-bishop
+rail_contributor_url: https://brooklynrail.org/contributor/Elizabeth-Bishop
 ---
