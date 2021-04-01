@@ -27,3 +27,4 @@ registration_url: https://www.eventbrite.com/e/into-the-stratosphere-with-dr-bis
 event_platform:
   - zoom
 ---
+{{< image media="2021/04/expedition-22-crew-nasa" size="xl" >}}
