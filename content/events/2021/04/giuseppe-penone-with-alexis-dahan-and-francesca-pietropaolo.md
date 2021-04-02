@@ -7,7 +7,7 @@ people:
   - person: giuseppe-penone
     related_links:
       - url: https://www.mariangoodman.com/exhibitions/giuseppe-penone-new-york-leaves-of-grass/
-        text: "Giuseppe Penone: On view through April 19, 2021 at Marian Goodman"
+        text: "Giuseppe Penone: On view through April 17, 2021 at Marian Goodman"
   - person: alexis-dahan
   - person: francesca-pietropaolo
 date: 2021-04-09T13:00:00-0500
