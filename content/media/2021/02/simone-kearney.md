@@ -1,5 +1,5 @@
 ---
-media: /media/files/simone-kearney.jpg
+media: /media/files/simone-kearney-photo.jpg
 title: Simone Kearney
 alt: Simone Kearney
 caption: Courtesy of Simone Kearney
