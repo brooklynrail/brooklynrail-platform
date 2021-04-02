@@ -16,6 +16,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: Tc_lb_14rZM
 registration_url: https://www.eventbrite.com/e/new-social-environment-268-sam-moyer-with-tom-mcglynn-tickets-148227950791
 event_platform:
   - zoom
