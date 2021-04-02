@@ -1,9 +1,9 @@
 ---
 title: "Radical Poetry Reading with Mary Reilly "
-deck: Featuring Tongo Eisen-Martin, Ani Gjika, Sy Hoawah, Jack Jung, and Luljeta
-  Lleshanaku
+deck: Featuring Tongo Eisen-Martin, Ani Gjika, Sy Hoahwah, Jack Jung, and
+  Luljeta Lleshanaku
 summary: Mary Reilly curates the 31st Radical Poetry Reading featuring poetry
-  read by Tongo Eisen-Martin, Ani Gjika, Sy Hoawah, Jack Jung, and Luljeta
+  read by Tongo Eisen-Martin, Ani Gjika, Sy Hoahwah, Jack Jung, and Luljeta
   Lleshanaku.
 people:
   - person: tongo-eisen-martin
