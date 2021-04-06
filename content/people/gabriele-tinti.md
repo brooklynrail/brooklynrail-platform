@@ -13,4 +13,6 @@ short_bio: "A recent recipient of the 2018 Montale Poetry Award, Gabriele Tinti
   the Farnese Hercules, the Hercules by Scopas, the Elgin
   Marbles  from  the  Parthenon,  the  Barberini  Faun  and  many  other  maste\
   rpieces. "
+portraits:
+  - media: 2021/04/gabriele-tinti
 ---
