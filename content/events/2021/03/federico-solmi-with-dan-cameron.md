@@ -2,10 +2,12 @@
 title: Federico Solmi with Dan Cameron
 summary: "Artist Federico Solmi joins curator, educator, and Rail
   Editor-at-Large Dan Cameron for a conversation. We’ll conclude with a poetry
-  reading. "
+  reading from Urayoán Noel. "
 people:
   - person: federico-solmi
   - person: dan-cameron
+poets:
+  - person: urayoan-noel
 date: 2021-04-06T13:00:00-0500
 end_date: 2021-04-06T14:30:00-0500
 series: 270
