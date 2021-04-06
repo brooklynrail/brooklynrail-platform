@@ -1,7 +1,7 @@
 ---
-media: /media/files/urayoannoelredcreditluiscarle-e1567538792317.jpeg
+media: /media/files/urayoannoelcreditluiscarleimg_0112.jpeg
 title: Urayoán Noel
-alt: A photo of poet Urayoán Noel in a red hat and jacket.
+alt: A photo of poet Urayoán Noel by Luis Carle
 caption: Luis Carle
 date: 2020-10-30T12:37:00-0500
 ---
