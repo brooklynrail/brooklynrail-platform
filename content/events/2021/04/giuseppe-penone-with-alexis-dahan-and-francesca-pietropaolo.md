@@ -31,3 +31,6 @@ registration_url: https://www.eventbrite.com/e/new-social-environment-273-giusep
 event_platform:
   - zoom
 ---
+🌹 This event will have audio language channels in English & Italian. Press the globe button in the toolbar to choose a language to listen in. We recommend you select one language and mute original audio. View Zoom step by step guide for more details: <https://support.zoom.us/hc/en-us/articles/360034919791-Language-interpretation-in-meetings-and-webinars#h_6802bbbc-2ec9-47cb-a04c-6aac35914d82>
+
+*Please note, due to the technical complexity of holding an event in two languages we are unable to provide closed captioning during this event.*
