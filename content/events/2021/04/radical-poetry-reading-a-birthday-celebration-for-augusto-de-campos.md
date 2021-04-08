@@ -14,8 +14,8 @@ people:
   - person: nancy-perloff
   - person: monica-de-la-torre
   - person: caetano-veloso
-date: 2021-04-15T13:00:00-0500
-end_date: 2021-04-15T14:30:00-0500
+date: 2021-04-14T13:00:00-0500
+end_date: 2021-04-14T14:30:00-0500
 series: 276
 collections:
   - the-new-social-environment
