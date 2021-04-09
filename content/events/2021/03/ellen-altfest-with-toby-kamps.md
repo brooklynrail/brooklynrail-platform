@@ -1,7 +1,7 @@
 ---
 title: Ellen Altfest with Toby Kamps
 summary: Artist Ellen Altfest joins Rail Editor-at-Large Toby Kamps for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading from Forrest Gander.
 people:
   - person: ellen-altfest
   - person: toby-kamps
