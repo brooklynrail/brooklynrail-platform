@@ -1,9 +1,8 @@
 ---
 title: On Art At A Time Like This
-summary: Curators **Barbara Pollack** and **Anne Verhallen** join senior art
-  critic **Thyrza Nichols Goodeve** for a conversation on [Art At A Time Like
-  This](https://artintimeslikethis.com/). We will conclude with a poetry
-  reading.
+summary: Curators Barbara Pollack and Anne Verhallen join Rail Editor-at-Large
+  Thyrza Nichols Goodeve for a conversation on Art At A Time Like This. We will
+  conclude with a poetry reading.
 people:
   - person: barbara-pollack
   - person: anne-verhallen
