@@ -1,10 +1,12 @@
 ---
 title: Alex Hay with Amanda Gluibizzi
 summary: Artist Alex Hay joins Rail ArtSeen Editor Amanda Gluibizzi for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading from Nada Gordon.
 people:
   - person: alex-hay
   - person: amanda-gluibizzi
+poets:
+  - person: nada-gordon
 date: 2021-04-13T13:00:00-0500
 end_date: 2021-04-13T14:30:00-0500
 series: 275
