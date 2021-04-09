@@ -4,7 +4,7 @@ deck: Marjorie Perloff with Charles Bernstein, Sergio Bessa, Odile Cisneros,
   Craig Dworkin, Nancy Perloff, Mónica de la Torre, and Caetano Veloso
 summary: Please join us for a birthday celebration for Augusto de Campos led by
   Marjorie Perloff with Charles Bernstein, Sergio Bessa, Odile Cisneros, Craig
-  Dworkin, Nancy Perloff, Mónica de la Torre, and Caetano Veloso
+  Dworkin, Nancy Perloff, Mónica de la Torre, and Caetano Veloso,
 people:
   - person: marjorie-perloff
   - person: charles-bernstein
