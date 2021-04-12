@@ -21,6 +21,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: fQ6XI2c5i4Y
 registration_url: https://www.eventbrite.com/e/new-social-environment-271-radical-poetry-reading-with-mary-reilly-tickets-149178134817
 event_platform:
   - zoom
