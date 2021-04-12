@@ -16,6 +16,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: 7Qt-kZAZ23U
 registration_url: https://www.eventbrite.com/e/hala-alyan-with-olivia-issa-tickets-148242885461
 event_platform:
   - zoom
