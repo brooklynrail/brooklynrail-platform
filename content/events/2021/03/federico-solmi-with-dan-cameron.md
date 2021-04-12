@@ -17,6 +17,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: 2wdnpJ1fdQ4
 registration_url: https://www.eventbrite.com/e/new-social-environment-270-federico-solmi-tickets-148927870269
 event_platform:
   - zoom
