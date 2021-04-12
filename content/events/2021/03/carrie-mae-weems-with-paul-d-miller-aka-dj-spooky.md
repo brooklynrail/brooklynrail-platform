@@ -16,6 +16,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: RKSkK94FPjA
 registration_url: https://www.eventbrite.com/e/new-social-environment-269-carrie-mae-williams-tickets-148785775259
 event_platform:
   - zoom
