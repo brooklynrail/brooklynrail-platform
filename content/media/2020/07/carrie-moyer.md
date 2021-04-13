@@ -1,7 +1,7 @@
 ---
-media: /media/files/carriemoyer_13.jpg
+media: /media/files/moyer_headshot_2020.jpg
 title: Carrie Moyer
 alt: Carrie Moyer
-caption: "Photo credit: Jamie Beck"
+caption: ""
 date: 2020-07-02T08:10:00-0500
 ---
