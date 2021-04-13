@@ -14,5 +14,5 @@ short_bio: Often drawing from socio-political conditions in post-apartheid South
   number of acclaimed operas and theatrical productions.
 portraits:
   - media: 2021/04/william-kentridge-portrait-drawing
-website: https://www.mariangoodman.com/artists/49-william-kentridge/
+website: https://www.kentridge.studio
 ---
