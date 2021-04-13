@@ -1,12 +1,14 @@
 ---
 title: On Art At A Time Like This
-summary: Curators Barbara Pollack and Anne Verhallen join Rail Editor-at-Large
-  Thyrza Nichols Goodeve for a conversation on Art At A Time Like This. We will
-  conclude with a poetry reading from Kathe Burkhart.
+summary: Collaborative artist duo Thukral & Tagra and curators Barbara Pollack
+  and Anne Verhallen join Rail Editor-at-Large Thyrza Nichols Goodeve for a
+  conversation on Art At A Time Like This. We will conclude with a poetry
+  reading from Kathe Burkhart.
 people:
   - person: barbara-pollack
   - person: anne-verhallen
   - person: thyrza-nichols-goodeve
+  - person: thukral-tagra
 poets:
   - person: kathe-burkhart
     related_links:
