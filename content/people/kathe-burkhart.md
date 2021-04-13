@@ -2,8 +2,8 @@
 name: Kathe Burkhart
 first_name: Kathe
 last_name: Burkhart
-short_bio: 'Writer and artist based in New York City and Amsterdam, Kathe
-  Burkhart engages gender roles, sexuality, celebrity, and language in an
+short_bio: 'Writer and artist based in New York City and Amsterdam, **Kathe
+  Burkhart** engages gender roles, sexuality, celebrity, and language in an
   interdisciplinary practice. Her Liz Taylor Series uses Pop Art imagery and
   assemblage to critique representation and the sexual politics of identity. Her
   visual art has been widely exhibited nationally and internationally and she
