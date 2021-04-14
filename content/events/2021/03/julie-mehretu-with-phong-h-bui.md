@@ -10,6 +10,8 @@ end_date: 2021-04-16T14:30:00-0500
 series: 278
 collections:
   - the-new-social-environment
+event_sponsor:
+  - marian-goodman-gallery
 event_organizer:
   - the-brooklyn-rail
 event_producer:
