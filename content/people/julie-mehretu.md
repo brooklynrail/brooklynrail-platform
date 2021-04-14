@@ -15,4 +15,5 @@ short_bio: (b. 1970, Addis Ababa, Ethiopia) lives and works in New York City. In
   society.
 portraits:
   - media: 2020/07/julie-mehretu
+website: https://www.mariangoodman.com/artists/julie-mehretu/
 ---
