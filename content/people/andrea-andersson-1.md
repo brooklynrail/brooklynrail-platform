@@ -14,5 +14,5 @@ short_bio: "Founding Director & Chief Curator of Rivers Institute for
   Eye_, forthcoming Fall 2021 in coordination with Montes-Michie's first solo
   institutional exhibition."
 portraits:
-  - media: 2020/07/andrea-andersson
+  - media: 2020/11/andrea-andersson
 ---
