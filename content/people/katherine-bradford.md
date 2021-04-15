@@ -2,8 +2,8 @@
 name: Katherine Bradford
 first_name: Katherine
 last_name: Bradford
-short_bio: New York based artist Katherine Bradford is known for her paintings
-  of people in luminous fields of color. Bradford paints with a formal
+short_bio: New York based **Katherine Bradford** is known for her paintings of
+  people in luminous fields of color. Bradford paints with a formal
   inventiveness and a shifting sense of figure and ground, giving narrative
   weight to her characters who may appear as heroes or lovers, families or
   couples, businessman or isolated individuals. She began her career as artist
