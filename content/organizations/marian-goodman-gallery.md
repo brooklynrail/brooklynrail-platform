@@ -6,5 +6,5 @@ short_desc: For over forty years, Marian Goodman Gallery has played an important
   internationally.
 website: https://www.mariangoodman.com
 relationship:
-  - donor
+  - featured-donor
 ---
