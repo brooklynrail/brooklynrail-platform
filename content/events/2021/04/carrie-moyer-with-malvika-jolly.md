@@ -1,7 +1,7 @@
 ---
 title: Carrie Moyer with Malvika Jolly
 summary: "Artist Carrie Moyer joins writer Malvika Jolly for a conversation. We
-  conclude with a poetry reading. "
+  conclude with a poetry reading from Samita Simha. "
 people:
   - person: carrie-moyer
   - person: malvika-jolly
