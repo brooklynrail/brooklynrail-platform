@@ -14,4 +14,5 @@ short_bio: "A Brooklyn-based writer whose book *Agnes Martin: Her Life and Art*
   and is currently on the faculty of the School of Visual Arts."
 portraits:
   - media: 2021/03/nancy-princenthal
+rail_contributor_url: https://brooklynrail.org/contributor/nancy-princenthal
 ---
