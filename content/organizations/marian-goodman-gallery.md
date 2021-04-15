@@ -5,4 +5,6 @@ short_desc: For over forty years, Marian Goodman Gallery has played an important
   establish a vital dialogue among artists and institutions working
   internationally.
 website: https://www.mariangoodman.com
+relationship:
+  - donor
 ---
