@@ -12,5 +12,7 @@ short_bio: Breaching the divisions between portrait, landscape, and history
   choreographies, multiple moving viewpoints, and realistic cycles of day and
   night that unfold in ‘real time’ over the course of an entire year. _(Bio text
   by Robin Mackay)_
+portraits:
+  - media: 2021/04/john-gerrard
 website: http://www.johngerrard.net/
 ---
