@@ -8,7 +8,7 @@ short_bio: Brazilian Singer, Guitarist, and Political Activist **Caetano
   has remained a constant creative influence and best-selling performing artist
   and composer ever since. Veloso has won nine Latin Grammy Awards and two
   Grammy Awards. On November 14, 2012, Veloso was honored as the Latin Recording
-  Academy Person of the Year.[1]
+  Academy Person of the Year.
 portraits:
   - media: 2021/04/caetano-veloso
 ---
