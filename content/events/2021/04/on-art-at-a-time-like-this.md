@@ -32,6 +32,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: H4NrggM0m08
 registration_url: https://www.eventbrite.com/e/art-at-a-time-like-this-tickets-150065378587
 event_platform:
   - zoom
