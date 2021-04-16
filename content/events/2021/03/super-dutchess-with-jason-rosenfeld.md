@@ -20,7 +20,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
-youtube_id: https://youtu.be/JMSmqIwPCes
+youtube_id: JMSmqIwPCes
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-265-super-dutchess-tickets-148239049989
 event_platform:
   - zoom
