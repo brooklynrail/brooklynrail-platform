@@ -16,6 +16,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: 6_l2YFzxfVo
 registration_url: https://www.eventbrite.com/e/new-social-environment-278-julie-mehretu-tickets-149054617373
 event_platform:
   - zoom
