@@ -4,6 +4,10 @@ summary: "Artist Carrie Moyer joins writer Malvika Jolly for a conversation. We
   conclude with a poetry reading from Samita Simha. "
 people:
   - person: carrie-moyer
+    related_links:
+      - url: https://www.dcmooregallery.com/exhibitions/carrie-moyer-analog-time
+        text: "Carrie Moyer: Analog Time is on view through May 1, 2021 at DC Moore
+          Gallery"
   - person: malvika-jolly
 date: 2021-04-20T13:00:00-0500
 end_date: 2021-04-20T14:30:00-0500
