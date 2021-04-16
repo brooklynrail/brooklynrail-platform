@@ -1,6 +1,6 @@
 ---
 title: William Kentridge with Charles Shafaieh
-summary: Artist William Kentridge joins journalist and critic Charles Shafaieh
+summary: Artist William Kentridge joins Rail Editor-at-Large Charles Shafaieh
   for a conversation. We conclude with a poetry reading from Kit Schluter.
 people:
   - person: william-kentridge
