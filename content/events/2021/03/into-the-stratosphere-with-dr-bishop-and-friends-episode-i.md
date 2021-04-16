@@ -8,9 +8,10 @@ summary: "Join Dr. Elizabeth Bishop and friends for the first conversation in a
   conclude with a poetry reading from Adam Falkner. "
 people:
   - person: regina-anderson
-    related_links:
-      - text: On Circular Economy, September 2020 Critics Page
-        url: https://brooklynrail.org/2020/09/criticspage/On-Circular-Economy
+    event_bio: Toby Kamps is former director of Blaffer Museum of Art, and curator
+      of modern and contemporary art at the Menil Collection. He is now the
+      director of external projects at White Cube Gallery and is an
+      Editor-at-Large for the Brooklyn Rail.
   - person: gwendolyn-baxley
   - person: damaris-dunn
   - person: carolyn-eanes
@@ -19,11 +20,8 @@ people:
   - person: tamsen-wojtanowski
   - person: nassim-zerriffi
   - person: elizabeth-bishop
-    related_links:
-      - url: https://brooklynrail.org/2020/09/editorsmessage/World-on-Fire
-        text: "World on Fire: Editors Message, September 2020 Critics Page"
 poets:
-  - person: zack-pieper
+  - person: adam-falkner
     event_bio: Zack Pieper's work spans poetry, sound, song, radio art, and
       performance. He creates large mosaics of small ghosts drawn on hundreds of
       post-it notes, in shop-front windows & other spaces. "SAME HERE",
