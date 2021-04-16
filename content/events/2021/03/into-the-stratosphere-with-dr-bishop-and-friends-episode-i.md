@@ -23,7 +23,12 @@ people:
       - url: https://brooklynrail.org/2020/09/editorsmessage/World-on-Fire
         text: "World on Fire: Editors Message, September 2020 Critics Page"
 poets:
-  - person: adam-falkner
+  - person: zack-pieper
+    event_bio: Zack Pieper's work spans poetry, sound, song, radio art, and
+      performance. He creates large mosaics of small ghosts drawn on hundreds of
+      post-it notes, in shop-front windows & other spaces. "SAME HERE",
+      selections from a decade of poems, was recently released from Adjunct
+      Press.
 date: 2021-04-08T12:30:00-0500
 end_date: 2021-04-08T14:00:00-0500
 collections:
@@ -32,6 +37,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: 9qV-CnXzRqg
 registration_url: https://www.eventbrite.com/e/into-the-stratosphere-with-dr-bishop-and-friends-episode-i-tickets-148941908257
 event_platform:
   - zoom
