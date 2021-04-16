@@ -16,6 +16,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: DH9ZRMr5Utg
 registration_url: https://www.eventbrite.com/e/new-social-environment-275-alex-hay-tickets-149019963723
 event_platform:
   - zoom
