@@ -1,6 +1,6 @@
 ---
 title: Katherine Bradford with Nancy Princenthal
-summary: "Artist Katherine Bradford joins writer and Rail guest critic Nancy
+summary: "Artist Katherine Bradford joins art writer and Rail contributor Nancy
   Princenthal for a conversation. We conclude with a poetry reading. "
 people:
   - person: katherine-bradford
