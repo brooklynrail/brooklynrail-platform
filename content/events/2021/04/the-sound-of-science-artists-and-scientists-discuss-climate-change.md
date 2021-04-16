@@ -59,3 +59,4 @@ registration_url: https://www.eventbrite.com/e/the-sound-of-science-artists-and-
 event_platform:
   - zoom
 ---
+Please note this event is planned to run until **3:30pm EST.** We'll open with an artist dialog followed by a musical performance followed by a second dialog on the intersections between music and science. As always, we'll have an audience q&a and close with a poetry reading.
