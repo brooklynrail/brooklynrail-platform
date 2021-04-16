@@ -23,6 +23,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: VUoIZVw4wVg
 registration_url: https://www.eventbrite.com/e/radical-poetry-reading-a-birthday-celebration-for-augusto-de-campos-tickets-150087436563
 event_platform:
   - zoom
