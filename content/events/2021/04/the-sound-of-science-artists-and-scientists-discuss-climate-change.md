@@ -63,6 +63,6 @@ Please note this event is planned to run until about **3:30pm EST.** We'll open 
 
 > **1pm EST:** Artist dialog with Andrea Andersson, Torkwase Dyson, John Gerrard, and Miranda Massie hosted by Paul D. Miller
 >
-> **2pm EST:** Musical performances from The ClimateMusic Project, DJ Spooky, and Jacqueline Asutermann with Eve Ó Donnell and Lea Luka Tiziana Sikau
+> **2pm EST:** Musical performances from The ClimateMusic Project, DJ Spooky, and Jacqueline Austermann with Eve Ó Donnell and Lea Luka Tiziana Sikau
 >
-> **2:30pm EST:** Science and Music dialog with Jacqueline Asutermann, Laurie Goldman, Dr. Andrew Jones, Andrew Revkin, and Erik Ian Walker hosted by Paul D. Miller
+> **2:30pm EST:** Science and Music dialog with Jacqueline Austermann, Laurie Goldman, Dr. Andrew Jones, Andrew Revkin, and Erik Ian Walker hosted by Paul D. Miller
