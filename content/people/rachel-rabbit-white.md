@@ -8,4 +8,6 @@ short_bio: "Poet, Vice “sex scenes” columnist (formerly of Playboy and Thoug
   series, _Work For Love_ (Triangle House). Her most recent publication is an
   expanded reissue of _Porn Carnival_ titled, _Porn Carnival: Paradise
   Edition_."
+portraits:
+  - media: 2021/04/rachel-rabbit-white
 ---
