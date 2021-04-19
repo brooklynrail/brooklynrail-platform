@@ -9,6 +9,8 @@ people:
         text: "Carrie Moyer: Analog Time is on view through May 1, 2021 at DC Moore
           Gallery"
   - person: malvika-jolly
+poets:
+  - person: samita-sinha
 date: 2021-04-20T13:00:00-0500
 end_date: 2021-04-20T14:30:00-0500
 series: 280
