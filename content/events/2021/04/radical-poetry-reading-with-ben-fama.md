@@ -6,6 +6,7 @@ people:
   - person: rachel-rabbit-white
   - person: mo-romney
   - person: maya-martinez
+  - person: rachel-oyster-kim
   - person: ben-fama
 date: 2021-04-21T13:00:00-0500
 end_date: 2021-04-21T14:30:00-0500
