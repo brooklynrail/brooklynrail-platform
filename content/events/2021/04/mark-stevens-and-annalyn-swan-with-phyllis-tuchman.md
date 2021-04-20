@@ -15,7 +15,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
-registration_url: https://www.eventbrite.com/manage/events/151677253749/online-event
+registration_url: https://www.eventbrite.com/e/new-social-environment-285-mark-stevens-and-annalyn-swan-tickets-151677253749
 event_platform:
   - zoom
 ---
