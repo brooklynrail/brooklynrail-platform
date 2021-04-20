@@ -1,5 +1,7 @@
 ---
 title: Radical Poetry Reading with Ben Fama
+deck: Featuring poetry read by Rachel Rabbit White, Mo Romney, Maya Martinez,
+  and Rachel Oyster Kim.
 summary: Ben Fama curates the 33rd Radical Poetry Reading featuring poetry read
   by Rachel Rabbit White, Mo Romney, Maya Martinez, and Rachel Oyster Kim.
 people:
