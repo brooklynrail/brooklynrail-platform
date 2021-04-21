@@ -19,6 +19,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: k-n4GJYjlBc
 registration_url: https://www.eventbrite.com/e/radical-poetry-reading-with-ben-fama-tickets-151127549569
 event_platform:
   - zoom
