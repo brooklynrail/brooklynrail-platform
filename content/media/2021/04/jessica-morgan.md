@@ -1,11 +1,7 @@
 ---
-media: /media/files/jessica-morgan-dia-art-foundation-director.jpg.webp
+media: /media/files/don_stahl_0519_dia_women-177.jpg
 title: Jessica Morgan
-alt: Jessica Morgan at Dia’s Chelsea location during the installation of its
-  current Robert Ryman exhibition. Photographed by Norman Jean Roy, Vogue, March
-  2016
-caption: Jessica Morgan at Dia’s Chelsea location during the installation of its
-  current Robert Ryman exhibition. Photographed by Norman Jean Roy, Vogue, March
-  2016
+alt: Jessica Morgan, photo courtesy of Dia Art Foundation
+caption: Jessica Morgan, photo courtesy of Dia Art Foundation
 date: 2021-04-20T16:28:00-0500
 ---
