@@ -14,13 +14,7 @@ people:
   - person: maya-martinez
   - person: rachel-oyster-kim
   - person: ben-fama
-poets:
-  - person: zack-pieper
-    event_bio: Zack Pieper's work spans poetry, sound, song, radio art, and
-      performance. He creates large mosaics of small ghosts drawn on hundreds of
-      post-it notes, in shop-front windows & other spaces. "SAME HERE",
-      selections from a decade of poems, was recently released from Adjunct
-      Press.
+poets: []
 date: 2021-04-21T13:00:00-0500
 end_date: 2021-04-21T14:30:00-0500
 series: 281
@@ -30,7 +24,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
-youtube_id: k-n4GJYjlBc
+youtube_id: ""
 registration_url: https://www.eventbrite.com/e/radical-poetry-reading-with-ben-fama-tickets-151127549569
 event_platform:
   - zoom
