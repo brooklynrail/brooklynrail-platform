@@ -1,5 +1,5 @@
 ---
-title: "Age of No Consequences: Zoom in White Supremacy"
+title: "Age of No Consequences: Zoom in White Supremacy with Hongzheng Han"
 summary: Eng-Beng Lim, John Kuo Wei Tchen, and William Beer join curator
   Hongzheng Han for a panel discussing the troubling rise in anti-Asian
   violence, targeted systemic racism, and cybersecurity risks in the age of
