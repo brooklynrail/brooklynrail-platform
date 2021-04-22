@@ -1,7 +1,7 @@
 ---
 title: Jessica Morgan with Helen Lee and Joachim Pissarro
-summary: Director of Dia Art Foundation Jessica Morgan joins Rail board member
-  Helen Lee and Rail consulting editor Joachim Pissarro. We conclude with a
+summary: Director of Dia Art Foundation Jessica Morgan joins Rail Board Member
+  Helen Lee and Rail Consulting Editor Joachim Pissarro. We conclude with a
   poetry reading.
 people:
   - person: jessica-morgan-1
