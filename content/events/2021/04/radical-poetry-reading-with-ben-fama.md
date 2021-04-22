@@ -6,10 +6,6 @@ summary: Ben Fama curates the 33rd Radical Poetry Reading featuring poetry read
   by Rachel Rabbit White, Mo Romney, Maya Martinez, and Rachel Oyster Kim.
 people:
   - person: rachel-rabbit-white
-    event_bio: Toby Kamps is former director of Blaffer Museum of Art, and curator
-      of modern and contemporary art at the Menil Collection. He is now the
-      director of external projects at White Cube Gallery and is an
-      Editor-at-Large for the Brooklyn Rail.
   - person: mo-romney
   - person: maya-martinez
   - person: rachel-oyster-kim
@@ -24,7 +20,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
-youtube_id: ""
+youtube_id: VWIcJrxpUq4
 registration_url: https://www.eventbrite.com/e/radical-poetry-reading-with-ben-fama-tickets-151127549569
 event_platform:
   - zoom
