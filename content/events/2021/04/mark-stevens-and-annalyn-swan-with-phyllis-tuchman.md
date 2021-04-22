@@ -1,7 +1,8 @@
 ---
 title: Mark Stevens and Annalyn Swan with Phyllis Tuchman
 summary: Authors Mark Stevens and Annalyn Swan join Rail Editor-at-Large Phyllis
-  Tuchman for a conversation. We conclude with a poetry reading.
+  Tuchman for a conversation. We conclude with a poetry reading from Jorie
+  Graham.
 people:
   - person: annalyn-swan
   - person: mark-stevens
