@@ -5,8 +5,8 @@ summary: Artist and educator Patty Chang joins writer Malvika Jolly for a
 people:
   - person: patty-chang
   - person: malvika-jolly
-date: 2021-04-26T13:00:00-0500
-end_date: 2021-04-26T14:30:00-0500
+date: 2021-04-26T19:00:00-0500
+end_date: 2021-04-26T20:30:00-0500
 series: 284
 collections:
   - the-new-social-environment
