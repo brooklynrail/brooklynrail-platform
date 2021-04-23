@@ -9,4 +9,5 @@ short_bio: "An artist, activist, and educator **Suzi Q. Smith**’s debut poetry
   from Finishing Line Press in June 2021. "
 portraits:
   - media: 2021/04/suzie-q-smith
+website: https://suziqsmith.com
 ---
