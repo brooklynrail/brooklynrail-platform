@@ -8,4 +8,5 @@ short_bio: is a Hybrid Socialist dedicated to helping the community and the
   collaborate for action.
 portraits:
   - media: 2020/12/regina-anderson-headshot
+rail_contributor_url: https://brooklynrail.org/contributor/Regina-Anderson
 ---

@@ -3,17 +3,14 @@ name: Carrie Moyer
 first_name: Carrie
 last_name: Moyer
 pronouns: She/her
-short_bio: "Carrie Moyer is an artist and writer. Her work has been exhibited
-  widely, in both the US and Europe. Museums shows include the 2017 Whitney
-  Biennial, and a traveling survey, Carrie Moyer: Pirate Jenny,  that originated
-  at the Tang Museum in 2013. Moyer has received awards from the Guggenheim and
-  Joan Mitchell Foundations, Anonymous Was a Woman, and Creative Capital among
-  others. With photographer Sue Schaffner, she co-founded one of the first
-  lesbian public art projects, Dyke Action Machine!. Moyer's writing has
-  appeared anthologies and periodicals such as Art in America, Brooklyn Rail,
-  Artforum, Modern Painters and others. Moyer is a Professor in the Art and Art
-  History Department where she is the Director of the Graduate Program. Moyer is
-  represented by DC Moore Gallery."
+short_bio: Artist known for her sumptuous paintings on canvas, **Carrie Moyer**
+  is recognized as one of the most distinctive, powerful, and thoughtful
+  painters of her generation. Moyer's work explores and extends the legacy of
+  American Abstraction while paying homage to many of its seminal female
+  figures, including Georgia O’Keeffe, Helen Frankenthaler, and Elizabeth
+  Murray. Moyer was featured in the 2017 Whitney Museum Biennial and is
+  represented by DC Moore Gallery. Her exhibition at DC Moore Gallery titled
+  _Analog Time_ is on view through May 1, 2021.
 portraits:
   - media: 2020/07/carrie-moyer
 email: ""

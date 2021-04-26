@@ -18,7 +18,7 @@ backend:
 
 # ====================================
 # Workflow -- NetlifyCMS editorial workflow tools
-publish_mode: editorial_workflow
+# publish_mode: editorial_workflow
 open_authoring: false # accept contributions (forks) from GitHub users
 branch: master
 squash_merges: true # squash all commits into a single commit when the PR is merged
@@ -107,12 +107,6 @@ collections:
             value_field: "{{slug}}"
             display_fields: ["{{name}}"]
             hint: "Choose a person"
-          - label: "Event Specific Bio"
-            name: "event_bio"
-            widget: "text"
-            minimal: true
-            hint: "No more than two short paragraphs"
-            required: false
           - label: "Related Links"
             name: "related_links"
             widget: "list"
@@ -141,14 +135,6 @@ collections:
             value_field: "{{slug}}"
             display_fields: ["{{name}}"]
             hint: "Choose a person. Add new people in 'People'"
-          - label: "Event Specific Bio"
-            name: "event_bio"
-            widget: "text"
-            minimal: true
-            pattern:
-              ["^.{0,300}$", "Event bio needs to be 300 characters or less"]
-            hint: "Bio should not start with the person's name. Max 300 characters."
-            required: false
           - label: "Related Links"
             name: "related_links"
             widget: "list"

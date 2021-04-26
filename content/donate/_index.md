@@ -1,22 +1,20 @@
 ---
 title: Donate to the Brooklyn Rail
 headline: Donate to the Rail
-deck: This winter marks the Rail's 20th anniversary as a free and independent
+deck: This year marks the Rail's 20th anniversary as a free and independent
   publication
-summary: This winter marks the Rail's 20th anniversary as a free and independent
+summary: This year marks the Rail's 20th anniversary as a free and independent
   publication
 donation_goal: 250000
 donation_amt: 251182
 donation_count: 410
 ---
 
-{{< donate placeholder="250" value="25" >}}
+{{< donate placeholder="100" value="25" >}}
 
-2020 has been a challenging year for everyone. It’s left us scattered and isolated by a pandemic, confronting our roles in the unjust racial history and present state of our country, all the while organizing in the run up to a critical presidential election.
+2020 was a challenging year for everyone. It’s left us scattered and isolated by a pandemic, confronting our roles in the unjust racial history and present state of our country, all the while organizing in the run up to a critical presidential election.
 
-In the face of this unprecedented time, we rose to meet these challenges by acknowledging and making space for divergent voices and experiences to be heard and seen. We intensified our commitment to connecting artists with the world, and amplifying the role the arts play in shaping our culture and society. And we aim to increase our impact in the coming year.
-
-**This year, our goal is to raise $250,000, from over 500 people.** This would double the amount we raised last year, and the number of people who participated.
+In the face of this unprecedented time, we rose to meet these challenges by acknowledging and making space for divergent voices and experiences to be heard and seen. We intensified our commitment to connecting artists with the world, and amplifying the role the arts play in shaping our culture and society. And we aim to increase our impact in 2021.
 
 As a small non-profit, we need your support. Please consider making a donation today. Your contribution will directly support writers, guest artists, and production staff in this unique time.
 
