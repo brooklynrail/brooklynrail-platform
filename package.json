@@ -28,7 +28,7 @@
     "@fortawesome/fontawesome-free": "^5.14.0",
     "@octokit/core": "^3.2.1",
     "@octokit/plugin-request-log": "^1.0.2",
-    "airtable": "^0.10.0",
+    "airtable": "^0.10.1",
     "js-yaml": "^3.14.0",
     "mysql": "^2.18.1",
     "netlify-cli": "^2.71.0",

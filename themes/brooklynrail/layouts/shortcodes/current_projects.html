@@ -1,0 +1,29 @@
+{{/*
+Current Projects Shortcode
+{{< current_projects  >}}
+{{< current_projects format="list" >}}
+*/}}
+
+{{- $format := (.Get "format") -}}
+
+<div class="shortcode-current_projects">
+
+  {{- $projects := where $.Site.Pages "Section" "projects" -}}
+
+  {{- range $i, $project := $projects -}}
+    {{ with $format }}
+    <ul>
+      {{- range $project.Sections -}}
+      <li>
+        <a href="{{- .Permalink -}}" title="{{- .Title -}}">{{- .Title -}}</a> — {{ .Summary | markdownify }}
+      </li>
+      {{- end -}}
+    </ul>
+    {{- else -}}
+      {{- range $project.Sections -}}
+        <p><a href="{{- .Permalink -}}" title="{{- .Title -}}"><strong>{{- .Title -}}</strong></a><br/>{{ .Summary | markdownify }}</p>
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+
+</div>
