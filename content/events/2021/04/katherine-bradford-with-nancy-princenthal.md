@@ -14,6 +14,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: 0culHMwfEVc
 registration_url: https://www.eventbrite.com/e/new-social-environment-283-katherine-bradford-tickets-150645359325
 event_platform:
   - zoom
