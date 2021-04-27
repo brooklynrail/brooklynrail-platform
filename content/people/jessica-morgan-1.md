@@ -2,16 +2,16 @@
 name: Jessica Morgan
 first_name: Jessica
 last_name: Morgan
-short_bio: Director of Dia Art Foundation since January 2015, **Jessica Morgan**
-  was named Nathalie de Gunzburg Director in October 2017. Prior to this, Morgan
-  was The Daskalopoulos Curator, International Art, at Tate Modern in London
-  from 2010 to 2014, and was Curator at Tate from 2002 to 2010. Morgan played a
-  key role in the growth of Tate’s collection—driving the development of the
-  museum’s holdings of mid-century and emerging art from North America, the
-  Middle East, North Africa, and South Asia. Morgan was previously Chief Curator
-  at the Institute of Contemporary Art, Boston, and a curator at the Museum of
-  Contemporary Art, Chicago. She has published extensively in Artforum and
-  Parkett as well as other journals and scholarly publications.
+short_bio: Nathalie de Gunzburg Director of Dia Art Foundation **Jessica
+  Morgan** was named Nathalie de Gunzburg Director in October 2017. Prior to
+  this, Morgan was The Daskalopoulos Curator, International Art, at Tate Modern
+  in London from 2010 to 2014, and was Curator at Tate from 2002 to 2010. Morgan
+  played a key role in the growth of Tate’s collection—driving the development
+  of the museum’s holdings of mid-century and emerging art from North America,
+  the Middle East, North Africa, and South Asia. Morgan was previously Chief
+  Curator at the Institute of Contemporary Art, Boston, and a curator at the
+  Museum of Contemporary Art, Chicago. She has published extensively in Artforum
+  and Parkett as well as other journals and scholarly publications.
 portraits:
   - media: 2021/04/jessica-morgan
 ---
