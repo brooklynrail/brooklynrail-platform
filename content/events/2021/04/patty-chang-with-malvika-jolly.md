@@ -16,6 +16,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: S0QeFJ97Jv0
 registration_url: https://www.eventbrite.com/e/new-social-environment-284-patty-chang-tickets-152096890895
 event_platform:
   - zoom
