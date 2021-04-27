@@ -55,6 +55,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: DpEAxeKQkuU
 registration_url: https://www.eventbrite.com/e/the-sound-of-science-artists-and-scientists-discuss-climate-change-tickets-150935485099
 event_platform:
   - zoom
