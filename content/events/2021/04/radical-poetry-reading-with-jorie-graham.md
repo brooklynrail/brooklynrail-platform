@@ -5,6 +5,7 @@ deck: Featuring Claudia Rankine, Forrest Gander, Victoria Chang, D.A Powell, and
 summary: Jorie Graham curates the 35th Radical Poetry Reading featuring Claudia
   Rankine, Forrest Gander, Victoria Chang, D.A Powell, and Jericho Brown.
 people:
+  - person: jorie-graham
   - person: claudia-rankine
   - person: jericho-brown
   - person: d-a-powell
