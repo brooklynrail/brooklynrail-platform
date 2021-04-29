@@ -1,7 +1,7 @@
 ---
 title: Noel Anderson with Robert Shane
 summary: Artist Noel Anderson joins professor and Rail critic Robert Shane for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading from Johannes Göransson.
 people:
   - person: noel-anderson
   - person: robert-shane
