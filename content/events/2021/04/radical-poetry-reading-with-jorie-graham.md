@@ -11,8 +11,8 @@ people:
   - person: d-a-powell
   - person: victoria-chang
   - person: forrest-gander-1
-date: 2021-05-05T13:00:00-0500
-end_date: 2021-05-05T14:30:00-0500
+date: 2021-05-05T11:00:00-0500
+end_date: 2021-05-05T12:30:00-0500
 series: 291
 collections:
   - the-new-social-environment
