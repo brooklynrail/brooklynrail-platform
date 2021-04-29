@@ -4,7 +4,8 @@ deck: "Featuring Damaris Dunn, Tené Howard, Carmelyn Malalis, and Dr. Yolanda
   Sealey-Ruiz "
 summary: Join Dr. Elizabeth Bishop and friends for Episode 2 in this series that
   brings together various educators and activists into the rhizomatic orbit of
-  solidarity, knowledge building, and critical love.
+  solidarity, knowledge building, and critical love. We conclude with a poetry
+  reading from Jamila Liscott.
 people:
   - person: damaris-dunn
   - person: tene-howard
