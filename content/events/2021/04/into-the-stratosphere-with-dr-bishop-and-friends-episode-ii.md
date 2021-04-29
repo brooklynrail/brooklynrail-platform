@@ -28,4 +28,4 @@ event_platform:
 ---
 {{< image media="2021/04/into-the-stratosphere-episode-ii-image" size="lg" >}}
 
-### **Watch Episode 1 here:** <https://brooklynrail.org/events/2021/04/08/into-the-stratosphere-with-dr-bishop-and-friends-episode-i/>
+### **[Watch Episode 1 >>](https://brooklynrail.org/events/2021/04/08/into-the-stratosphere-with-dr-bishop-and-friends-episode-i/)**[](https://brooklynrail.org/events/2021/04/08/into-the-stratosphere-with-dr-bishop-and-friends-episode-i/)
