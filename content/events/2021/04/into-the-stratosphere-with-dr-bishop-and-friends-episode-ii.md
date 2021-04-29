@@ -1,11 +1,10 @@
 ---
-title: "Into the Stratosphere with Dr. Bishop and Friends: Episode II "
+title: "Into the Stratosphere with Dr. Bishop and Friends: Radical Healing"
 deck: "Featuring Damaris Dunn, Tené Howard, Carmelyn Malalis, and Dr. Yolanda
   Sealey-Ruiz "
-summary: Join Dr. Elizabeth Bishop and friends for the second conversation in
-  this series that brings together various educators and activists into the
-  rhizomatic orbit of solidarity, knowledge building, and critical love. We
-  conclude with a poetry reading.
+summary: Join Dr. Elizabeth Bishop and friends for Episode 2 in this series that
+  brings together various educators and activists into the rhizomatic orbit of
+  solidarity, knowledge building, and critical love.
 people:
   - person: damaris-dunn
   - person: tene-howard
@@ -27,4 +26,6 @@ registration_url: https://www.eventbrite.com/e/into-the-stratosphere-with-dr-bis
 event_platform:
   - zoom
 ---
-{{< image media="2021/04/expedition-22-crew-nasa" size="lg" >}}
+{{< image media="2021/04/into-the-stratosphere-episode-ii-image" size="lg" >}}
+
+### **Watch Episode 1 here:** <https://brooklynrail.org/events/2021/04/08/into-the-stratosphere-with-dr-bishop-and-friends-episode-i/>
