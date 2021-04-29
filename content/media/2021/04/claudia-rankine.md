@@ -1,7 +1,7 @@
 ---
-media: /media/files/claudia-rankine-option-1-ricardo-de-aratanha-.jpeg
+media: /media/files/claudia-rankine-preferred-headshot-tanya-marcuse-.png
 title: Claudia Rankine
-alt: Claudia Rankine, photo courtesy of Ricardo De Aratanha
-caption: Photo courtesy of Ricardo De Aratanha
+alt: Claudia Rankine, photo courtesy of Tanya Marcuse
+caption: Photo courtesy of Tanya Marcuse
 date: 2021-04-29T12:48:00-0500
 ---
