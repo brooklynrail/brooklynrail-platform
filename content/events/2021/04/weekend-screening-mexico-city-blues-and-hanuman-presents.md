@@ -44,7 +44,7 @@ RSVP to tune in Saturday, May 15, and Sunday, May 16 to access the films by Vime
 Produced and Directed by Vivien Bittencourt & Vincent Katz, Mexico City Blues was recorded Live at The Knitting Factory, New York City, December 4, 1988. Runtime: 30 minutes.**
 
 \
-\
+
 
 {{< image media="2021/04/hanuman-presents" size="lg" >}}
 
