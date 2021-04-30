@@ -13,13 +13,12 @@ event_organizer:
 event_producer:
   - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/weekend-screening-painting-after-postmodernism-with-barbara-rose-tickets-152767478641
-event_platform:
-  - zoom
+event_platform: null
 ---
-The celebrate the *Rail*’s Tribute to Barbara Rose (forthcoming in the May 2021 online issue), **RSVP** through the link above to tune in throughout the weekend to access the film by vimeo link and password. 
+The celebrate the *Rail*’s Tribute to Barbara Rose (forthcoming in the May 2021 online issue), **RSVP** through the link above to tune in throughout the weekend to access the film by Vimeo link and password. 
 
-*Please note this is not a live event and RSVP will be available starting Monday, May 3.* 
+*Please note this is not a live event.* 
 
-Special thanks to filmmaker *Teri Wehn Damisch* for making this screening possible.
+Special thanks to filmmaker Teri Wehn Damisch for making this screening possible.
 
-{{< image media="2021/04/painting-after-post-modernism-film-cover-image" size="xl" >}}
+{{< image media="2021/04/painting-after-post-modernism-film-cover-image" size="lg" >}}
