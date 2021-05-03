@@ -4,9 +4,12 @@ summary: Director of Dia Art Foundation Jessica Morgan joins Rail Board Member
   Helen Lee and Rail Consulting Editor Joachim Pissarro. We conclude with a
   poetry reading from Andrea Brady.
 people:
-  - person: jessica-morgan-1
-  - person: helen-lee
-  - person: joachim-pissaro
+  - person: jorie-graham
+  - person: claudia-rankine
+  - person: jericho-brown
+  - person: d-a-powell
+  - person: suzi-q-smith
+  - person: forrest-gander-1
 date: 2021-04-30T13:00:00-0500
 end_date: 2021-04-30T14:30:00-0500
 series: 288
