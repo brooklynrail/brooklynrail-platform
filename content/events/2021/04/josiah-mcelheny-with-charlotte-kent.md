@@ -5,6 +5,8 @@ summary: Artist Josiah McElheny joins Rail Editor-at-Large Charlotte Kent for a
 people:
   - person: josiah-mcelheny
   - person: charlotte-kent
+poets:
+  - person: eileen-r-tabios
 date: 2021-05-03T13:00:00-0500
 end_date: 2021-05-03T14:30:00-0500
 series: 289
