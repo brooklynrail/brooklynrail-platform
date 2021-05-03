@@ -16,6 +16,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: KjyzCt6UOMs
 registration_url: https://www.eventbrite.com/e/new-social-environment-288-jessica-morgan-tickets-151863829803
 event_platform:
   - zoom
