@@ -20,7 +20,7 @@ RSVP to tune in Saturday, May 15, and Sunday, May 16 to access the films by vime
 {{< image media="2021/04/mexico-city-blues" size="lg" >}}
 
 \
-***Mexico City Blues*** documents a reading that took place at the famed Knitting Factory on Houston Street in New York City on Sunday, December 4, 1988, of Jack Kerouac’s book-length poem “Mexico City Blues,” called by poet Michael McClure, “the great modern religious poem.” Allen Ginsberg often praised this poem, and the poet Vincent Katz, feeling there was something in the poem he was missing, conceived the event at the Knitting Factory as a way of getting into its deep structure: a group of musicians provided an improvised accompaniment for a cast of readers that included, in addition to Ginsberg, Charles Bernstein, Richard Hell, Bob Holman, Gerard Malanga, Judith Malina, Eileen Myles, Jerome Rothenberg, Carl Solomon, Lewis Warsh, Hal Willner, and many more. Filmmakers Bittencourt and Katz traveled to the Bay Area to interview Beat legends Lawrence Ferlinghetti and Michael McClure about Kerouac’s poem, the former somewhat con, the latter unreservedly pro. The original edit was done by Henry Hills. A new edit, by Oliver Katz, restores some readings and readers left out of the original cut and expands the treatment of the event, which attempted to follow Kerouac’s description of his poem: 
+*Mexico City Blues* documents a reading that took place at the famed Knitting Factory on Houston Street in New York City on Sunday, December 4, 1988, of Jack Kerouac’s book-length poem “Mexico City Blues,” called by poet Michael McClure, “the great modern religious poem.” Allen Ginsberg often praised this poem, and the poet Vincent Katz, feeling there was something in the poem he was missing, conceived the event at the Knitting Factory as a way of getting into its deep structure: a group of musicians provided an improvised accompaniment for a cast of readers that included, in addition to Ginsberg, Charles Bernstein, Richard Hell, Bob Holman, Gerard Malanga, Judith Malina, Eileen Myles, Jerome Rothenberg, Carl Solomon, Lewis Warsh, Hal Willner, and many more. Filmmakers Bittencourt and Katz traveled to the Bay Area to interview Beat legends Lawrence Ferlinghetti and Michael McClure about Kerouac’s poem, the former somewhat con, the latter unreservedly pro. The original edit was done by Henry Hills. A new edit, by Oliver Katz, restores some readings and readers left out of the original cut and expands the treatment of the event, which attempted to follow Kerouac’s description of his poem: 
 
 > *I want to be considered a jazz poet*
 > *blowing a long blues in an afternoon jam*
@@ -34,10 +34,9 @@ RSVP to tune in Saturday, May 15, and Sunday, May 16 to access the films by vime
 
 **Improvised Musical Accompaniment provided by:** Mark Ettinger, Dennis Mitcheltree, Charlie Morrow, Samir Safwat, and others. Interviews with Michael McClure and Lawrence Ferlinghetti. Edited by Henry Hills & Oliver Katz. Camera by Vivien Bittencourt. Performance concept by Vincent Katz.
 
-**\
-Produced and Directed by Vivien Bittencourt & Vincent Katz, Mexico City Blues was recorded Live at The Knitting Factory, New York City, December 4, 1988. Runtime: 30 minutes.**
+**Produced and Directed by Vivien Bittencourt & Vincent Katz, Mexico City Blues was recorded at The Knitting Factory, New York City, December 4, 1988. Runtime: 30 minutes.**
 
->
+
 
 {{< image media="2021/04/hanuman-presents" size="lg" >}}
 
@@ -50,8 +49,8 @@ The video is greatly enhanced by the poetic imagery of late underground filmmake
 **\
 Readers:** Gregory Corso, Elaine Equi, Bob Flanagan, Amy Gerstler, Allen Ginsberg, Richard Hell, Herbert Huncke, Vincent Katz, Taylor Mead, Cookie Mueller, Eileen Myles, Rene Ricard, David Trinidad, John Wieners.
 
-With excerpts from films by Rudy Burckhardt. Introduced by Raymond Foye. Edited by David Dawkins and Henry Hills.
+With excerpts from films by Rudy Burckhardt. Introduced by Raymond Foye. Edited by David Dawkins and Henry Hills. Titles by Tabboo!
 
-Produced and Directed by Vivien Bittencourt & Vincent Katz, *Hanuman Presents!* is a reading at the Poetry Project, St. Mark's Church, New York, May 18, 1989. Runtime: 42 minutes, 47 seconds.
+Produced and Directed by Vivien Bittencourt & Vincent Katz, *Hanuman Presents!* was recorded at the Poetry Project, St. Mark's Church, New York City, May 18, 1989. Runtime: 42 minutes, 47 seconds.
 
 ### Special thanks to Vivien Bittencourt, Vincent Katz, and Oliver Katz for making these screenings possible.
