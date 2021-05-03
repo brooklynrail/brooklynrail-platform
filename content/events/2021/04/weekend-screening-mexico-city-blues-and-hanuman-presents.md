@@ -35,7 +35,7 @@ RSVP to tune in Saturday, May 15, and Sunday, May 16 to access the films by vime
 
 **Improvised Musical Accompaniment provided by:** Mark Ettinger, Dennis Mitcheltree, Charlie Morrow, Samir Safwat, and others. Interviews with Michael McClure and Lawrence Ferlinghetti. Edited by Henry Hills & Oliver Katz. Camera by Vivien Bittencourt. Performance concept by Vincent Katz.
 
-**Produced and Directed by Vivien Bittencourt & Vincent Katz, Mexico City Blues was recorded at The Knitting Factory, New York City, December 4, 1988. Runtime: 30 minutes.**
+Produced and Directed by Vivien Bittencourt & Vincent Katz, Mexico City Blues was recorded at The Knitting Factory, New York City, December 4, 1988. Runtime: 30 minutes.
 
 {{< image media="2021/04/hanuman-presents" size="lg" >}}
 
