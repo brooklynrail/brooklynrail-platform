@@ -5,6 +5,8 @@ summary: Artist Noel Anderson joins professor and Rail critic Robert Shane for a
 people:
   - person: noel-anderson
   - person: robert-shane
+poets:
+  - person: johannes-goransson
 date: 2021-05-04T13:00:00-0500
 end_date: 2021-05-04T14:30:00-0500
 series: 290
