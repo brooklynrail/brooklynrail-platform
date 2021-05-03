@@ -6,13 +6,12 @@ summary: Mahogany L. Browne curates the 34th Radical Poetry Reading featuring
   poetry read by Camryn Bruno, Adam Falkner, Cathy Linh Che, Tongo Eisen-Martin,
   Suzi Q. Smith, and Caroline Rothstein.
 people:
-  - person: mahogany-l-browne
-  - person: adam-falkner
-  - person: tongo-eisen-martin
-  - person: caroline-rothstein-1
-  - person: suzi-q-smith
-  - person: camryn-bruno
-  - person: cathy-linh-che
+  - person: jorie-graham
+  - person: claudia-rankine
+  - person: jericho-brown
+  - person: d-a-powell
+  - person: victoria-chang
+  - person: forrest-gander-1
 date: 2021-04-28T13:00:00-0500
 end_date: 2021-04-28T14:30:00-0500
 series: 286
@@ -22,6 +21,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: 4a-wnKMYcdc
 registration_url: https://www.eventbrite.com/e/radical-poetry-reading-with-mahogany-l-browne-tickets-152005256815
 event_platform:
   - zoom
