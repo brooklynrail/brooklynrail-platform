@@ -13,6 +13,8 @@ people:
   - person: d-a-powell
   - person: victoria-chang
   - person: forrest-gander-1
+poets:
+  - person: kwame-opoku-duku-1
 date: 2021-05-06T12:30:00-0500
 end_date: 2021-05-06T14:00:00-0500
 collections:
