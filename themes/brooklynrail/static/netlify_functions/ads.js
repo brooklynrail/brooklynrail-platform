@@ -11,9 +11,7 @@ exports.handler = function(event, context, callback) {
     // view: "All Ads", // All Ads view
     view: "viwHVo4UGy4UGG71l", // Current Ads view
   }).eachPage(function page(records, fetchNextPage) {
-    var all_records = shuffle(records); // shuffles all the order of records
-
-    all_records.forEach(function(record) {
+    records.forEach(function(record) {
       allRecords.push(record)
     })
     fetchNextPage()
