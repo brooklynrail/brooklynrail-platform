@@ -5,16 +5,14 @@ deck: "Featuring Damaris Dunn, Tené Howard, Carmelyn P. Malalis, and Dr. Yoland
 summary: Join Dr. Elizabeth Bishop and friends for Episode 2 in this series that
   brings together various educators and activists into the rhizomatic orbit of
   solidarity, knowledge building, and critical love. We conclude with a poetry
-  reading from Jamila Liscott.
+  reading from Kwame Opoku-Duku.
 people:
-  - person: damaris-dunn
-  - person: tene-howard
-    related_links:
-      - url: http://www.sadienash.org/
-        text: Sadie Nash Leadership Project
-  - person: carmelyn-malalis
-  - person: yolanda-sealey-ruiz
-  - person: elizabeth-bishop
+  - person: jorie-graham
+  - person: claudia-rankine
+  - person: jericho-brown
+  - person: d-a-powell
+  - person: victoria-chang
+  - person: forrest-gander-1
 date: 2021-05-06T12:30:00-0500
 end_date: 2021-05-06T14:00:00-0500
 collections:
