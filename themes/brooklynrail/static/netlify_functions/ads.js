@@ -28,7 +28,7 @@ exports.handler = function(event, context, callback) {
           'cache-control': 'Cache-Control: max-age=60, public'
         },
         statusCode: 200,
-        body: JSON.stringify({ records: allRecords })
+        body: JSON.stringify(rail_ads({ records: allRecords }))
       }
       
       callback(null, response)
