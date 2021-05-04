@@ -1,9 +1,9 @@
 ---
-name: Carmelyn Malalis
+name: Carmelyn P. Malalis
 first_name: Carmelyn
 last_name: Malalis
 short_bio: Chair and Commissioner of the NYC Commission on Human Rights,
-  **Carmelyn Malalis** was appointed in November 2014 following more than a
+  **Carmelyn P. Malalis** was appointed in November 2014 following more than a
   decade in private practice as an advocate for employees' rights in the
   workplace. Previously, Commissioner Malalis was a partner at Outten & Golden
   LLP where she co-founded and co-chaired its Lesbian, Gay, Bisexual, and
