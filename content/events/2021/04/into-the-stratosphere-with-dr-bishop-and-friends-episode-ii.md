@@ -1,6 +1,6 @@
 ---
 title: "Into the Stratosphere with Dr. Bishop and Friends: Radical Healing"
-deck: "Featuring Damaris Dunn, Tené Howard, Carmelyn Malalis, and Dr. Yolanda
+deck: "Featuring Damaris Dunn, Tené Howard, Carmelyn P. Malalis, and Dr. Yolanda
   Sealey-Ruiz "
 summary: Join Dr. Elizabeth Bishop and friends for Episode 2 in this series that
   brings together various educators and activists into the rhizomatic orbit of
