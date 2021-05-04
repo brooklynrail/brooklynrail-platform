@@ -22,13 +22,15 @@ exports.handler = function(event, context, callback) {
       callback(err)
     } else {
       console.log(allRecords.length)
+      const body = JSON.stringify(`rail_ads&#40;{ records: allRecords }&#41;`)
+      
       const response = {
         headers: {
           'content-type': 'application/json',
           'cache-control': 'Cache-Control: max-age=60, public'
         },
         statusCode: 200,
-        body: JSON.stringify(rail_ads({ records: allRecords }))
+        body: body
       }
       
       callback(null, response)
