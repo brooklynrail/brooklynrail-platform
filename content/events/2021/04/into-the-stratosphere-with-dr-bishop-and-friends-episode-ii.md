@@ -7,12 +7,14 @@ summary: Join Dr. Elizabeth Bishop and friends for Episode 2 in this series that
   solidarity, knowledge building, and critical love. We conclude with a poetry
   reading from Kwame Opoku-Duku.
 people:
-  - person: jorie-graham
-  - person: claudia-rankine
-  - person: jericho-brown
-  - person: d-a-powell
-  - person: victoria-chang
-  - person: forrest-gander-1
+  - person: damaris-dunn
+  - person: tene-howard
+    related_links:
+      - url: http://www.sadienash.org/
+        text: Sadie Nash Leadership Project
+  - person: carmelyn-malalis
+  - person: yolanda-sealey-ruiz
+  - person: elizabeth-bishop
 poets:
   - person: kwame-opoku-duku-1
 date: 2021-05-06T12:30:00-0500
@@ -27,6 +29,7 @@ registration_url: https://www.eventbrite.com/e/into-the-stratosphere-with-dr-bis
 event_platform:
   - zoom
 ---
+
 {{< image media="2021/04/into-the-stratosphere-episode-ii-image" size="lg" >}}
 
 ### **[Watch Episode 1 >>](https://brooklynrail.org/events/2021/04/08/into-the-stratosphere-with-dr-bishop-and-friends-episode-i/)**[](https://brooklynrail.org/events/2021/04/08/into-the-stratosphere-with-dr-bishop-and-friends-episode-i/)
