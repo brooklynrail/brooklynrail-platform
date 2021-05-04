@@ -13,5 +13,7 @@ short_bio: A Ghanaian-American poet and fiction writer, **Kwame Opoku-Duku** is
   climate change and environmental justice. It was supported by an Impact Artist
   Residency through the Human Impacts Institute. Kwame is represented by Annie
   DeWitt at The Shipman Agency.
+portraits:
+  - media: 2021/05/kwame-opoku-duku
 website: https://www.kwamethethird.com
 ---
