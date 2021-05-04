@@ -22,7 +22,7 @@ exports.handler = function(event, context, callback) {
       callback(err)
     } else {
       console.log(allRecords.length)
-      const body = JSON.stringify(`rail_ads&#40;{ records: ${allRecords} }&#41;`)
+      const body = JSON.stringify("rail_ads(" + { records: allRecords } + ")")
       
       const response = {
         headers: {
