@@ -1,5 +1,5 @@
 ---
-name: Serena Caffey
+name: Serena Caffrey
 first_name: Serena
 last_name: Caffrey
 short_bio: Transdisciplinary artist Serena Caffrey investigates time, longing,
