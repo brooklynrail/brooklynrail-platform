@@ -2,17 +2,19 @@
 name: Mira Schor
 first_name: Mira
 last_name: Schor
-short_bio: 'A New York based painter and writer. Her work is steeped in the
-  political, the historical, the personal, and the material; in other periods
-  her work focused on representation of language in drawing and painting. Recent
-  work focuses on the experience of living in a moment of radical inequality,
-  climate and political catastrophe, and accelerated time, set against the
-  powerful pull of older notions of time, craft, and visual pleasure. She is
-  author of "A Decade of Negative Thinking: Essays on Art, Politics, and Daily
-  Life" and several other titles. She was co-founder and co-editor with Susan
-  Bee of the journal and editorial project M/E/A/N/I/N/G. In 2017 she was
-  elected to the National Academy. She is represented by Lyles & King Gallery.'
+short_bio: "Working at the intersection of politics and theory, **Mira Schor**
+  is an artist noted for her contributions to feminist art history. Her works
+  center on the representation of language in drawing and painting, and her
+  current work focuses on the experience of living in a moment of radical
+  inequality, austerity, and accelerated time, set against the powerful pull of
+  older notions of time, craft, and visual pleasure. Her work has been widely
+  exhibited, including at the Hammer Museum, P.S.1, The Neuberger Museum, The
+  Jewish Museum, and The Aldrich Museum. She is the recipient of awards from the
+  Guggenheim, Rockefeller, Marie Walsh Sharpe, and Pollock-Krasner Foundations,
+  as well as the College Art Association’s Frank Jewett Mather Award in Art
+  Criticism. "
 portraits:
   - media: 2021/01/mira-schor
-website: http://www.lylesandking.com/mira-schor-1
+  - media: 2021/05/mira-schor-swsp
+website: http://www.miraschor.com
 ---
