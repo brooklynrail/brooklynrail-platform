@@ -1,9 +1,8 @@
 ---
 title: "Weekend Screening: Painting After Postmodernism with Barbara Rose"
 deck: ""
-summary: "Join us for a special weekend screening of Painting After
-  Postmodernism with the late art historian Barbara Rose, courtesy of filmmaker
-  Teri Wehn Damisch. "
+summary: Join us for a special weekend screening of Painting After Postmodernism
+  with the late art historian Barbara Rose, courtesy of producer Roberto Polo.
 date: 2021-05-08T07:00:00-0500
 end_date: 2021-05-09T11:59:00-0500
 collections:
