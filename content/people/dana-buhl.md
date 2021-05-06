@@ -11,5 +11,5 @@ short_bio: Working in original and found imagery, objects, and video, **Dana
   Studio Program.
 portraits:
   - media: 2021/05/dana-buhl-swsp
-website: http://www.danabuhl.info
+website: ""
 ---
