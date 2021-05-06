@@ -1,7 +1,8 @@
 ---
 title: "Body/Magic: Liz Cohen and friends"
-summary: Liz Cohen, Dhyandra Lawson, Julio César Morales, and Olga Viso join for
-  a conversation. We conclude with a poetry reading.
+summary: Liz Cohen, Dhyandra Lawson, Julio César Morales, and Olga Viso discuss
+  Liz Cohen's current exhibition "Body/Magic" at the ASU Art Museum. We conclude
+  with a poetry reading.
 people:
   - person: liz-cohen
   - person: dhyandra-lawson
