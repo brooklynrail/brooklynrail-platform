@@ -1,7 +1,7 @@
 ---
 title: Keltie Ferris with Tom McGlynn
 summary: Artist Keltie Ferris joins artist and Rail Editor-at-Large Tom McGlynn
-  for a conversation. We conclude with a poetry reading from Serena Caffrey.
+  for a conversation. We conclude with a performance from Serena Caffrey.
 people:
   - person: keltie-ferris
   - person: tom-mcglynn
