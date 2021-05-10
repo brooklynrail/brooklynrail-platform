@@ -7,6 +7,8 @@ people:
   - person: kelly-baum
   - person: randy-griffey
   - person: jason-rosenfeld
+poets:
+  - person: devin-goldring
 date: 2021-05-10T13:00:00-0500
 end_date: 2021-05-10T14:30:00-0500
 series: 294
