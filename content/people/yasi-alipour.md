@@ -3,16 +3,17 @@ name: Yasi Alipour
 first_name: Yasi
 last_name: Alipour
 pronouns: She/her
-short_bio: "Exploring queer issues within a wider Middle Eastern context, **Yasi
-  Alipour**’s research-based practice spans sculpture, installation,
-  performance, drawing, writing, lectures, and experimentation—probing personal
-  history to parse issues around political instability and interrupted
-  histories. Alipour holds an MFA from Columbia University, a BFA from the
-  School of Visual Arts, and a BS from the University of Tehran. Her work has
-  been exhibited at Times Square Space, the Museum of Contemporary Art Vojvodina
-  (Serbia), the Miriam and Ira D. Wallach Art Gallery at Columbia University,
-  False Flag, Flatiron Prow, Art Space, Art Therapy Project, and Pulse
-  Contemporary Art Fair (Miami). "
+short_bio: Using paper and intricate folds, **Yasi Alipour** explores systems of
+  math and history. In her series “As Dreams Become History,” for example,
+  Alipour asked Iranian friends born after the revolution to share second-hand
+  memories of that decade shared by family and older friends. These texts she
+  paired with sheets of paper printed with black ink and then folded into
+  geometric tessellations referencing Middle Eastern abstraction. Her practice
+  spans sculpture, installation, performance, drawing, writing, lectures, and
+  experimentation and probes personal history to parse issues around political
+  instability and interrupted histories. Her artistic practice is founded on the
+  lived experience of a Middle Eastern queer and a citizen with a politically
+  unhinged society and an interrupted history.
 portraits:
   - media: 2020/07/yasi-alipour
   - media: 2021/05/yasi-alipour-swsp
