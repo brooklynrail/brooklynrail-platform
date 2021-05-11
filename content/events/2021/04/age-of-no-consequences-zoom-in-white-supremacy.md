@@ -17,7 +17,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
-youtube_id: DsmlE2znpvQ
+youtube_id: ""
 registration_url: https://www.eventbrite.com/e/age-of-no-consequences-zoom-in-white-supremacy-tickets-151992947999
 event_platform:
   - zoom
