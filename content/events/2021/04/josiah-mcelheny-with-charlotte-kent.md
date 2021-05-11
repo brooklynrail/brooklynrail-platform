@@ -16,6 +16,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: gJoOposKS8c
 registration_url: https://www.eventbrite.com/e/new-social-environment-289-josiah-mcelheny-tickets-152756654265
 event_platform:
   - zoom
