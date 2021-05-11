@@ -1,8 +1,7 @@
 ---
-media: /media/files/joy.jpg
-title: Joy Priest (2020-08)
-alt: A black and white photograph of poet Joy Priest in front of blurred lights
-  and structures.
-caption: Landon Antonetti
+media: /media/files/joy-priest.jpg
+title: Joy Priest
+alt: Joy Priest
+caption: ""
 date: 2020-08-14T09:38:00-0500
 ---
