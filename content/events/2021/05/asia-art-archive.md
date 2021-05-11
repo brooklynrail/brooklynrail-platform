@@ -1,5 +1,5 @@
 ---
-title: "Asia Art Archive "
+title: Asia Art Archive in America
 summary: Jane DeBevoise, Hilary Chasse, Cici Wu, Furen Dai, and Christopher Ho
   join to discuss the non-profit’s history, current programs, and future
   aspirations. We conclude with a musical performance from Theresa Abalos.
