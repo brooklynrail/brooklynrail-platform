@@ -25,6 +25,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: TpD8pq9iTq0
 registration_url: https://www.eventbrite.com/e/into-the-stratosphere-with-dr-bishop-and-friends-episode-ii-tickets-152780750337
 event_platform:
   - zoom
