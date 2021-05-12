@@ -18,6 +18,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: 3uqa076dB9M
 registration_url: https://www.eventbrite.com/e/new-social-environment-294-alice-neel-people-come-first-tickets-153546292093
 event_platform:
   - zoom
