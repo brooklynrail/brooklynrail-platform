@@ -30,7 +30,6 @@ registration_url: https://www.eventbrite.com/e/into-the-stratosphere-with-dr-bis
 event_platform:
   - zoom
 ---
-
 {{< image media="2021/04/into-the-stratosphere-episode-ii-image" size="lg" >}}
 
 ### **[Watch Episode 1 >>](https://brooklynrail.org/events/2021/04/08/into-the-stratosphere-with-dr-bishop-and-friends-episode-i/)**[](https://brooklynrail.org/events/2021/04/08/into-the-stratosphere-with-dr-bishop-and-friends-episode-i/)
