@@ -9,4 +9,5 @@ short_bio: Pittsburgh-based creative from San Jose, CA, **Theresa Seguritan
 portraits:
   - media: 2021/05/theresa-seguritan-abalos
 website: https://www.theresaabalos.com
+instagram: t_seguritan_abalos
 ---
