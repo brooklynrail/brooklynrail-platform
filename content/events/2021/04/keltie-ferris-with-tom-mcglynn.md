@@ -16,6 +16,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: nuzVnoZ6958
 registration_url: https://www.eventbrite.com/e/new-social-environment-293-keltie-ferris-tickets-152577843437
 event_platform:
   - zoom
