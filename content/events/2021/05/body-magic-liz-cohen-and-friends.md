@@ -17,6 +17,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: c5a4PXiRtxk
 registration_url: https://www.eventbrite.com/e/new-social-environment-295-bodymagic-liz-cohen-and-friends-tickets-153548498693
 event_platform:
   - zoom
