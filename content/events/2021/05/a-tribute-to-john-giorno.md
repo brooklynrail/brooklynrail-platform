@@ -1,7 +1,9 @@
 ---
 title: A Tribute to John Giorno
-summary: Featuring conversations and readings from Penny Arcade, Kyle Dacuyan,
-  Colin Dickerman, Christian Haye, Bob Holman, Chris Martin, and Michael Stipe
+summary: Join us for a tribute to John Giorno hosted by Rail Publisher and
+  Artistic Director Phong H. Bui and featuring conversations and readings from
+  Penny Arcade, Kyle Dacuyan, Colin Dickerman, Christian Haye, Bob Holman, Chris
+  Martin, and Michael Stipe.
 people:
   - person: penny-arcade
   - person: kyle-dacuyan
