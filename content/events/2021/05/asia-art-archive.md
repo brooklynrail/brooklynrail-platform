@@ -9,6 +9,8 @@ people:
   - person: cici-wu
   - person: furen-dai
   - person: christopher-ho
+poets:
+  - person: theresa-seguritan-abalos
 date: 2021-05-20T13:00:00-0500
 end_date: 2021-05-20T14:30:00-0500
 collections:
