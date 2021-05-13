@@ -1,14 +1,16 @@
 ---
 title: Asia Art Archive in America
 summary: Jane DeBevoise, Hilary Chasse, Cici Wu, Furen Dai, and Christopher Ho
-  join to discuss the non-profit’s history, current programs, and future
-  aspirations. We conclude with a musical performance from Theresa Abalos.
+  join writer Malvika Jolly to discuss the non-profit’s history, current
+  programs, and future aspirations. We conclude with a musical performance from
+  Theresa Abalos.
 people:
   - person: jane-debevoise
   - person: hilary-chasse
   - person: cici-wu
   - person: furen-dai
   - person: christopher-ho
+  - person: malvika-jolly
 poets:
   - person: theresa-seguritan-abalos
 date: 2021-05-20T13:00:00-0500
