@@ -1,6 +1,6 @@
 ---
 media: /media/files/martin_chris_2.jpg
-title: Chris Martin
+title: Chris Martin (portrait)
 alt: A drawing of Chris Martin by Phong Bui
 credit:
   - phong-h-bui
