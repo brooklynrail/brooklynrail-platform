@@ -1,7 +1,7 @@
 ---
 title: Is It Ours? Art, Copyright, and Public Interest with Martha Buskirk and
   Joan Kee
-summary: "Author and Art Historian Martha Buskirk joins Rail Editor-at-Large
+summary: "Author and art historian Martha Buskirk joins Rail Editor-at-Large
   Joan Kee for a conversation. We’ll conclude with a poetry reading. "
 people:
   - person: martha-buskirk
