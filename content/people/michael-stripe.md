@@ -1,7 +1,7 @@
 ---
-name: Michael Stripe
+name: Michael Stipe
 first_name: Michael
-last_name: Stripe
+last_name: Stipe
 short_bio: Artist, producer and singer/songwriter **Michael Stipe** (American,
   born 1960). He fronted the band R.E.M. for 31 years, selling over 100 million
   records and touring the world. As a film producer, he made over 25 feature
