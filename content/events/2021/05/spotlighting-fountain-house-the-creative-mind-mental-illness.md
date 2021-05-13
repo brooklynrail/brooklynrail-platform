@@ -1,8 +1,8 @@
 ---
 title: "Spotlighting Fountain House: The Creative Mind & Mental Illness "
 summary: Featuring conversations with Agnes Gund, Issa Ibrahim, Kay Redfield
-  Jamison, Lyle Rexer, Patterson Sims, Susan Spangenberg, Dr. Aswin Vasan, and
-  Darren Walker hosted by Phong H. Bui to benefit Fountain House.
+  Jamison, Lyle Rexer, Susan Spangenberg, Dr. Aswin Vasan, and Darren Walker
+  hosted by Phong H. Bui to benefit Fountain House.
 people:
   - person: ashwin-vasan
   - person: agnes-gund
