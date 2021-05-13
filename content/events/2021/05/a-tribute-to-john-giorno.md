@@ -8,6 +8,7 @@ people:
   - person: christian-haye
   - person: colin-dickerman
   - person: michael-stripe
+  - person: chris-martin-1
   - person: bob-holman
   - person: phong-h-bui
 date: 2021-05-21T13:00:00-0500
