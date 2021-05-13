@@ -19,4 +19,6 @@ event_producer:
 registration_url: https://www.eventbrite.com/e/new-social-environment-300-suzanne-mcclelland-tickets-154756325335
 event_platform:
   - zoom
+aliases:
+  - /events/2021/05/18/suzanne-mcclelland-with-jason-rosenfeld-and-amanda-gluibizzi/
 ---
