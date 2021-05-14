@@ -14,7 +14,7 @@ event_producer:
 registration_url: https://www.eventbrite.com/e/weekend-screening-mexico-city-blues-and-hanuman-presents-tickets-153343878669
 event_platform: null
 ---
-**RSVP** to tune in **Saturday, May 15**, and **Sunday, May 16** to access the films by vimeo link and password. 
+**RSVP** to tune in **any time** **Saturday, May 15, and Sunday, May 16** to access the films by vimeo link and password. 
 
 {{< image media="2021/04/mexico-city-blues" size="lg" >}}
 
