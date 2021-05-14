@@ -14,7 +14,7 @@ event_producer:
 registration_url: https://www.eventbrite.com/e/weekend-screening-mexico-city-blues-and-hanuman-presents-tickets-153343878669
 event_platform: null
 ---
-**RSVP** to tune in **any time** **Saturday, May 15, and Sunday, May 16** to access the films by vimeo link and password. 
+**RSVP** to tune in **any time** **Saturday, May 15, and Sunday, May 16** to access the films by vimeo link and password. Films Screening will be available all day Saturday and Sunday.
 
 {{< image media="2021/04/mexico-city-blues" size="lg" >}}
 
@@ -27,13 +27,15 @@ event_platform: null
 > *my ideas vary and sometimes roll from*
 > *chorus to chorus or from halfway through*
 > *a chorus to halfway into the next.*
+>
+>
 > — Vivien Bittencourt and Vincent Katz
 
 **Readers:** Barbara Barg, Charles Bernstein, Lee Ann Brown, Maggie Dubris, Allen Ginsberg, Richard Hell, Bob Holman, Lita Hornick, Vicki Hudspith, Vincent Katz, Rochelle Kraut, Gerard Malanga, Judith Malina, Eileen Myles, Simon Pettet, Hanon Reznikov, Bob Rosenthal, Jerome Rothenberg, Tom Savage, Elio Schneeman, Michael Scholnick, Carl Solomon, Steven Taylor, David Trinidad, Lewis Warsh, Hal Willner, Nina Zivancevic.
 
 **Improvised Musical Accompaniment provided by:** Mark Ettinger, Dennis Mitcheltree, Charlie Morrow, Samir Safwat, and others. Interviews with Michael McClure and Lawrence Ferlinghetti. Edited by Henry Hills & Oliver Katz. Camera by Vivien Bittencourt. Performance concept by Vincent Katz.
 
-Produced and Directed by Vivien Bittencourt & Vincent Katz, Mexico City Blues was recorded at The Knitting Factory, New York City, December 4, 1988. Runtime: 30 minutes.
+Produced and Directed by Vivien Bittencourt & Vincent Katz, *Mexico City Blues* was recorded at The Knitting Factory, New York City, December 4, 1988. Runtime: 30 minutes.
 
 {{< image media="2021/04/hanuman-presents" size="lg" >}}
 
