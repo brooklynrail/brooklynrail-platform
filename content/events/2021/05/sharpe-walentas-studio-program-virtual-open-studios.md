@@ -25,6 +25,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: 9Sg-F9FWOos
 registration_url: https://www.eventbrite.com/e/new-social-environment-298-sharpe-walentas-studio-program-tickets-153700884483
 event_platform:
   - zoom
