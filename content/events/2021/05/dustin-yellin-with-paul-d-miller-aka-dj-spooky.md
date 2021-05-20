@@ -10,7 +10,8 @@ people:
       - text: Pioneer Works
         url: https://pioneerworks.org/
   - person: paul-d-miller-aka-dj-spooky
-poets: []
+poets:
+  - person: travis-chi-wing-lau
 date: 2021-05-24T13:00:00-0500
 end_date: 2021-05-24T14:30:00-0500
 series: 304
