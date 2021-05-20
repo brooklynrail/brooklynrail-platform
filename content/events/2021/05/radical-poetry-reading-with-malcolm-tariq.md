@@ -5,6 +5,7 @@ summary: Malcolm Tariq curates the 38th Radical Poetry Reading featuring Mary
   Taylor.
 people:
   - person: malcolm-tariq
+  - person: mary-moore-easter
 date: 2021-05-26T13:00:00-0500
 end_date: 2021-05-26T14:30:00-0500
 series: 306
