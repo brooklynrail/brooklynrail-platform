@@ -12,5 +12,6 @@ short_bio: "For twenty five years, **Steve Seid** was a Media Curator at the
   Area, 1945-2000_, co-edited with Steve Anker and Kathy Geritz;_Ant Farm
   1968-1978_, co-edited with Constance Lewallen; and his recent solo effort,
   _Media Burn: Ant Farm and the Making of An Image_."
-portraits: []
+portraits:
+  - media: 2021/05/steve-seid
 ---
