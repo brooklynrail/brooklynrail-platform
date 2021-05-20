@@ -2,6 +2,6 @@
 media: /media/files/Jason-Rosenfeld-headshot.jpg
 title: Jason Rosenfeld
 alt: A black and white photo of Jason Rosenfeld
-caption: Jason Rosenfeld
+caption: ""
 date: 2020-06-08T17:28:00-0500
 ---
