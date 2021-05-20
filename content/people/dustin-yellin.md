@@ -3,7 +3,7 @@ name: Dustin Yellin
 first_name: Dustin
 last_name: Yellin
 short_bio: An artist who lives in Brooklyn, New York, **Dustin Yellin** is the
-  founder and director of Pioneer Works, a multidisciplinary cultural center
+  Founder and Director of Pioneer Works, a multidisciplinary cultural center
   that builds community through the arts and sciences to create an open and
   inspired world. In tandem to his institution-building social practice,
   Yellin’s artwork makes the hidden forces of nature and commerce legible.
