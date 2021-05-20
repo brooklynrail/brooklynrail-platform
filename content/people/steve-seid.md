@@ -2,17 +2,15 @@
 name: Steve Seid
 first_name: Steve
 last_name: Seid
-short_bio: "For twenty five years, **Steve Seid** was a Film and Video Curator
-  at the Pacific Film Archive at the University of California, Berkeley. He
-  organized over 1,000 programs of video art, film, and new media for the PFA’s
-  public programs. He has taught video aesthetics and history courses at the
-  University of California, Berkeley, San Francisco State University, the
-  California College of Arts, and the San Francisco Art Institute. Following on
-  the preservation of videotapes from the National Center for Experiments in
-  Television (1967-1975), Seid curated _Videospace_ (2000), a gallery exhibition
-  dedicated to the first TV Lab. He co-curated the first museum retrospective of
-  _Ant Farm_, the ‘60s/’70s art collective and creators of _Cadillac Ranch_ and
-  _Media Burn_, which toured internationally. "
-portraits:
-  - media: 2021/05/steve-seid
+short_bio: "For twenty five years, **Steve Seid** was a Media Curator at the
+  Pacific Film Archive at the University of California, Berkeley. During that
+  time, he presented almost a thousand public programs, featuring experimental
+  media, forgotten film genres, and a sampling of international cinema. He
+  recently worked on the restoration of Steven Arnold’s _Luminous Procuress_
+  (1971) and poet Ruth Weiss’s only film effort, _The Brink_ (1961). Seid has
+  published _Radical Light: Alternative Film & Video in the San Francisco Bay
+  Area, 1945-2000_, co-edited with Steve Anker and Kathy Geritz;_Ant Farm
+  1968-1978_, co-edited with Constance Lewallen; and his recent solo effort,
+  _Media Burn: Ant Farm and the Making of An Image_."
+portraits: []
 ---
