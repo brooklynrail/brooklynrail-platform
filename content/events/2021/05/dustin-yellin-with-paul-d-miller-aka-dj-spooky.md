@@ -6,6 +6,9 @@ summary: "Artist and Founder of Pioneer Works Dustin Yellin joins Rail
   with a poetry reading by Travis Chi Wing Lau. "
 people:
   - person: dustin-yellin
+    related_links:
+      - text: Pioneer Works
+        url: https://pioneerworks.org/
   - person: paul-d-miller-aka-dj-spooky
 poets: []
 date: 2021-05-24T13:00:00-0500
