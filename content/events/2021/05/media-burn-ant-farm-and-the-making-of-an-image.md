@@ -1,6 +1,6 @@
 ---
 title: "Media Burn: Ant Farm and the Making of an Image "
-deck: ""
+deck: Chip Lord, Steve Seid, and Constance Lewallen in converastion
 summary: Artist Chip Lord and curator Steve Seid join Rail Editor-at-Large
   Constance Lewallen for a conversation. We conclude with a poetry reading.
 people:
