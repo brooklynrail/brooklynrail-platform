@@ -10,6 +10,8 @@ people:
         url: https://salon94.com/exhibitions/huma-bhabha-facing-giants-2021
   - person: amanda-gluibizzi
   - person: jason-rosenfeld
+poets:
+  - person: daisy-atterbury
 date: 2021-05-28T13:00:00-0500
 end_date: 2021-05-28T14:30:00-0500
 series: 308
