@@ -9,10 +9,10 @@ short_bio: "Musician and writer **Adele Bertei** is an original member of New
   Thomas Dolby, Sandra Bernhard, Culture Club, Scritti Politti, John Lurie,
   Arthur Baker, Whitney Houston, Sheena Easton, Lydia Lunch, the Pointer
   Sisters, and the Anubian Lights. Bertei's stories and essays appear in *The
-  New Fuck You: Adventures in Lesbian Reading* (MIT Press, 1995), and *Women Who
-  Rock: Bessie to Beyonce, Girl Groups to Riot Grrrl* (Black Dog & Leventhal,
-  2018). Bertei's second book *Why Labelle Matters* was released by University
-  of Texas Press in March 2021."
+  New Fuck You: Adventures in Lesbian Reading* (MIT Press, 1995) and other
+  anthologies. Bertei's first book *Peter and the Wolves* (Smog Veil Records,
+  2020) was recently followed by *Why Labelle Matters,* which was released with
+  University of Texas Press in March 2021. "
 portraits:
   - media: 2021/05/adele-bertei
 ---
