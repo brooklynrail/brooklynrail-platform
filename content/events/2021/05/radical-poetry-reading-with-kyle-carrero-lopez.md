@@ -10,6 +10,7 @@ people:
   - person: jessica-abughattas
   - person: anais-duplan
   - person: omotara-james-1
+  - person: i-s-jones-1
 date: 2021-06-16T13:00:00-0500
 end_date: 2021-06-16T14:30:00-0500
 collections:
