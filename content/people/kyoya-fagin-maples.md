@@ -1,8 +1,8 @@
 ---
-name: "Kyoya Fagin Maples "
-first_name: Kyoga
+name: "Kwoya Fagin Maples "
+first_name: Kwoga
 last_name: Fagin Maples
-short_bio: Writer from Charleston, **Kyoya Fagin Maples** is the author of
+short_bio: Writer from Charleston, **Kwoya Fagin Maples** is the author of
   *Mend* (University Press of Kentucky 2018), a finalist for the 2019
   Hurston/Wright Legacy Award for Poetry and the Housatonic Book Award for
   Poetry, which tells the story of the birth of obstetrics and gynecology in
