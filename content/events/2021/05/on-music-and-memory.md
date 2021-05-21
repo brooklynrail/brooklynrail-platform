@@ -16,6 +16,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/on-music-and-memory-with-adele-bertei-luc-sante-bob-holman-tickets-156196324411
 event_platform:
   - zoom
 ---
