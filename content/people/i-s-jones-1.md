@@ -12,6 +12,6 @@ short_bio: "Queer American Nigerian poet and music journalist, **I.S. Jones** is
   elsewhere. Her chapbook *Spells Of My Name* is forthcoming with Newfound in
   2021."
 portraits:
-  - media: 2021/03/i-s-jones
+  - media: 2020/10/i-s-jones-headshot-by-nicholas-nicholas-short-crop
 website: https://www.isjones.com
 ---
