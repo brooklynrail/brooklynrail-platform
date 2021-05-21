@@ -2,7 +2,7 @@
 name: Adele Bertei
 first_name: Adele
 last_name: Bertei
-short_bio: "Vocalist, songwriter, and performer, **Adele Bertai** is an original
+short_bio: "Vocalist, songwriter, and performer, **Adele Bertei** is an original
   member of New York incendiaries The Contortions. She played a lead role in
   filmmaker Lizzie Borden’s *Born in Flames* (1983) and her all-girl band The
   Bloods was the first “out” band of queer women. Bertai has worked with Tears
