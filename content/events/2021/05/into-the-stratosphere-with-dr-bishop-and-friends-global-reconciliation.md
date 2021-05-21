@@ -1,0 +1,24 @@
+---
+title: "Into the Stratosphere with Dr. Bishop and Friends: Global Reconciliation"
+deck: Featuring Henry Beltrán Pérez, Kris Primacio, Mohit Mukherjee, Diana
+  Pinacho, and Dr. Maritza Lozano.
+summary: Join Dr. Elizabeth Bishop and friends for Episode 3 in this series that
+  brings together various educators and activists into the rhizomatic orbit of
+  solidarity, knowledge building, and critical love. We conclude with a poetry
+  reading from Ghinwa Jawhari.
+people:
+  - person: elizabeth-bishop
+date: 2021-06-03T13:00:00-0500
+end_date: 2021-06-03T14:30:00-0500
+collections:
+  - common-ground
+event_organizer:
+  - the-brooklyn-rail
+event_producer:
+  - the-brooklyn-rail
+event_platform:
+  - zoom
+---
+**[Watch Episode 1 »](https://brooklynrail.org/events/2021/04/08/into-the-stratosphere-with-dr-bishop-and-friends-episode-i/)**
+
+**[Watch Episode 2 »](https://brooklynrail.org/events/2021/05/06/into-the-stratosphere-with-dr-bishop-and-friends-episode-ii/)**
