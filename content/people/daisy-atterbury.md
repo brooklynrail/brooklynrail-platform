@@ -9,9 +9,8 @@ short_bio: "Based in NYC and New Mexico, **Daisy Atterbury** has written for
   fellowship in archival research from Lost and Found: the CUNY Poetics Document
   Initiative. They are Consulting Curator for the Living Room Series of Virtual
   Live Poetry at CCA Santa Fe. They're finishing their PhD at The Graduate
-  Center, CUNY. "
+  Center, CUNY."
 portraits:
   - media: 2021/05/daisy-atterbury
-job_title: ""
 website: https://daisyatterbury.com/
 ---
