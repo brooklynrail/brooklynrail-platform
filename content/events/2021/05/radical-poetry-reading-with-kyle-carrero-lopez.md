@@ -8,6 +8,7 @@ summary: Kyle Carrero Lopez curates the 41st Radical Poetry Reading featuring
 people:
   - person: kyle-carrero-lopez
   - person: jessica-abughattas
+  - person: anais-duplan
 date: 2021-06-16T13:00:00-0500
 end_date: 2021-06-16T14:30:00-0500
 collections:
