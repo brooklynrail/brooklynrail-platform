@@ -1,10 +1,9 @@
 ---
 title: Radical Poetry Reading with Kyle Carrero Lopez
-deck: Featuring poetry read by Jessica Abughattas, Anaïs Duplan, Omotara James,
-  I.S. Jones, and Fargo Nissim Tbakhi.
-summary: Kyle Carrero Lopez curates the 41st Radical Poetry Reading featuring
-  Jessica Abughattas, Anaïs Duplan, Omotara James, I.S. Jones, and Fargo Nissim
-  Tbakhi.
+deck:
+  "Featuring poetry read by Jessica Abughattas, Ana&#239;s Duplan, Omotara James,
+  I.S. Jones, and Fargo Nissim Tbakhi."
+summary: "Kyle Carrero Lopez curates the 41st Radical Poetry Reading featuring Jessica Abughattas, Ana&#239;s Duplan, Omotara James, I.S. Jones, and Fargo Nissim Tbakhi."
 people:
   - person: kyle-carrero-lopez
   - person: jessica-abughattas
