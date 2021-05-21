@@ -9,7 +9,7 @@ short_bio: "Poet **Mary Moore Easter** is the author of *Free Papers: poems
   the author of three other books of poetry: *The Body of the World* (Minnesota
   Book Award in Poetry Finalist 2019), *Walking from Origins* (Heywood Press
   1993) and *From the Flutes of Our Bones* (Nodin Press 2020). Her poems have
-  been widely published in **Poetry*, *Prairie Schooner*, *The Christian
+  been widely published in *Poetry*, *Prairie Schooner*, *The Christian
   Century*, *Water~Stone*, *SoFloPoJo*, and several anthologies. Easter founded
   and directed Carleton College’s dance program, and is a Cave Canem fellow."
 portraits:
