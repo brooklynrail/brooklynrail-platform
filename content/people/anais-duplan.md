@@ -2,8 +2,8 @@
 name: Anaïs Duplan
 first_name: Anaïs
 last_name: Duplan
-short_bio: "Trans* poet, artist, and curator, **Anaïs Duplan** is the author of
-  a book of essays *Blackspace: On the Poetics of an Afrofuture* (Black Ocean,
+short_bio: "Trans poet, artist, and curator, **Anaïs Duplan** is the author of a
+  book of essays *Blackspace: On the Poetics of an Afrofuture* (Black Ocean,
   2020), a full-length poetry collection, *Take This Stallion* (Brooklyn Arts
   Press, 2016), and a chapbook, *Mount Carmel and the Blood of Parnassus*
   (Monster House Press, 2017). He was a 2017–2019 joint Public Programs fellow
