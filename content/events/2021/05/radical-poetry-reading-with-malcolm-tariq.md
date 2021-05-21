@@ -1,9 +1,9 @@
 ---
 title: Radical Poetry Reading with Malcolm Tariq
-deck: Featuring poetry read by Mary Moore Easter, Yolanda J. Franklin, Kyoya
+deck: Featuring poetry read by Mary Moore Easter, Yolanda J. Franklin, Kwoya
   Fagin Maples, and Courtney Faye Taylor.
 summary: Malcolm Tariq curates the 38th Radical Poetry Reading featuring Mary
-  Moore Easter, Yolanda J. Franklin, Kyoya Fagin Maples, and Courtney Faye
+  Moore Easter, Yolanda J. Franklin, Kwoya Fagin Maples, and Courtney Faye
   Taylor.
 people:
   - person: malcolm-tariq
