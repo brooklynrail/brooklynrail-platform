@@ -8,6 +8,9 @@ summary: Join Dr. Elizabeth Bishop and friends for Episode 3 in this series that
   reading from Ghinwa Jawhari.
 people:
   - person: elizabeth-bishop
+  - person: diana-k-pinacho
+poets:
+  - person: ghinwa-jawhari
 date: 2021-06-03T12:30:00-0500
 end_date: 2021-06-03T14:00:00-0500
 collections:
