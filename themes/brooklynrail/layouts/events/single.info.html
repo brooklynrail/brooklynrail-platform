@@ -43,7 +43,7 @@
               {{- $youtube_copy = $youtube_copy | append "~ ~ ~\n\n" "The Rail has a tradition of ending our conversations with a poem, and on this day we were fortunate to have" }}
               {{ range $i, $poet := .Params.poets -}}
                 {{- $person := $.Site.GetPage (printf "/%s/%s" "people" $poet.person) -}}
-                {{- $youtube_copy = $youtube_copy | append " " $person.Params.name -}}
+                {{- $youtube_copy = $youtube_copy | append " " ($person.Params.name | safeHTML)  -}}
               {{- end }}
               
               {{- $youtube_copy = $youtube_copy | append " reading." -}}
