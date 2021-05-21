@@ -7,6 +7,7 @@ summary: Kyle Carrero Lopez curates the 41st Radical Poetry Reading featuring
   Tbakhi.
 people:
   - person: kyle-carrero-lopez
+  - person: jessica-abughattas
 date: 2021-06-16T13:00:00-0500
 end_date: 2021-06-16T14:30:00-0500
 collections:
