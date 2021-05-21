@@ -6,6 +6,7 @@ summary: Songwriter and vocalist Adele Bertei and writer Luc Sante join poet Bob
   reading.
 people:
   - person: adele-bertei
+  - person: lucia-hinojosa-gaxiola
 date: 2021-05-27T13:00:00-0500
 end_date: 2021-05-27T14:30:00-0500
 collections:
