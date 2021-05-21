@@ -9,7 +9,7 @@ people:
   - person: kyle-carrero-lopez
   - person: jessica-abughattas
   - person: anais-duplan
-  - person: omotara-james-1
+  - person: omotara-james
   - person: i-s-jones-1
   - person: fargo-nissim-tbakhi
 date: 2021-06-16T13:00:00-0500
