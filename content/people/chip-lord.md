@@ -2,7 +2,7 @@
 name: Chip Lord
 first_name: Chip
 last_name: Lord
-short_bio: Trained as an architect, **Chip Lord** was a founding partner of Ant
+short_bio: "Trained as an architect, **Chip Lord** was a founding partner of Ant
   Farm. With this collective, he produced the video art classics _Media Burn_
   and _The Eternal Frame_ as well as the public sculpture _Cadillac Ranch_ in
   Amarillo, Texas, and the _House of the Century_, outside of Houston. Lord grew
@@ -11,7 +11,7 @@ short_bio: Trained as an architect, **Chip Lord** was a founding partner of Ant
   and is included in the collections of the Museum of Modern Art, The Tate
   Modern, the San Francisco Museum of Modern Art, the FRAC Centre, the Pompidou
   Centre, and the Berkeley Art Museum and Pacific Film Archive. He is Professor
-  Emeritus in the Department of Film & Digital Media, U.C. Santa Cruz.
+  Emeritus in the Department of Film & Digital Media, U.C. Santa Cruz."
 portraits:
   - media: 2021/05/chip-lord
 ---

@@ -8,7 +8,7 @@ short_bio: "Founder and CEO of the International Surf Therapy Organization
   empathetic, and solutions-oriented professional. She applies her genuine love
   for the sport of surfing and proven knowledge of the therapeutic benefits of
   the ocean to help advance exposure and research on surf therapy as a health
-  intervention. "
+  intervention."
 portraits:
   - media: 2021/05/kris-primacio-headshot
 ---
