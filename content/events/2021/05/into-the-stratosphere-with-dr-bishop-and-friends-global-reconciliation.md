@@ -9,6 +9,7 @@ summary: Join Dr. Elizabeth Bishop and friends for Episode 3 in this series that
 people:
   - person: elizabeth-bishop
   - person: diana-k-pinacho
+  - person: kris-primacio
 poets:
   - person: ghinwa-jawhari
 date: 2021-06-03T12:30:00-0500
