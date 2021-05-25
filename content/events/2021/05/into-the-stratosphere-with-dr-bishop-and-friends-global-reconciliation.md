@@ -10,6 +10,7 @@ people:
   - person: elizabeth-bishop
   - person: diana-k-pinacho
   - person: kris-primacio
+  - person: henry-beltran-perez
 poets:
   - person: ghinwa-jawhari
 date: 2021-06-03T12:30:00-0500
