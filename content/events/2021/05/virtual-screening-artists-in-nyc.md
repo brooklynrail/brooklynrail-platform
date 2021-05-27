@@ -2,8 +2,8 @@
 title: "Virtual Screening: Artists in NYC "
 summary: RSVP to receive a link + password to view Artists in NYC, a documentary
   by Terence Donnellan
-date: 2021-05-29T07:00:00-0500
-end_date: 2021-05-31T23:59:00-0500
+date: 2021-05-31T00:00:00-0500
+end_date: 2021-05-31T00:00:00-0500
 collections:
   - screening
 event_organizer:
