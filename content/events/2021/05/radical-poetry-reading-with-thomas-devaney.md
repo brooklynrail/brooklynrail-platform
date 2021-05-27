@@ -1,5 +1,7 @@
 ---
 title: Radical Poetry Reading with Thomas Devaney
+deck: "Featuring performances from Tara Middleton, Cynthia Dewi Oka, and Thomas
+  Devaney. "
 summary: "The 40th Radical Poetry Reading featuring performances from Tara
   Middleton, Cynthia Dewi Oka, and Thomas Devaney. "
 people:
