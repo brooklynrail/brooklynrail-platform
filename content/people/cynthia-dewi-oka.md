@@ -15,6 +15,7 @@ short_bio: "Poet **Cynthia Dewi Oka** is the author of _Fire Is Not a Country_,
   Indonesia. "
 portraits:
   - media: 2021/05/cynthia-dewi-oka
+website: https://cynthiadewioka.com/
 instagram: freedewi
 twitter: freedewi
 ---
