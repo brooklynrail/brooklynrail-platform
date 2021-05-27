@@ -25,6 +25,8 @@ Produced by Sanja Frank and Terence Donnellan, Directed by Terence Donnellan
 
 Watch the trailer on [the film’s website](https://www.artistsinnyc.com/) and learn more about Terence on [his website](https://www.blasketmcmanusproductions.com/). 
 
-**Please note**: this is not a live event. RSVP to receive a link + password to view the film from May 29-31.
-
 *Special thanks to Sanja Frank and Terence Donnellan for making this virtual screening possible!*
+
+
+
+##### Please note: this is not a live event. RSVP to receive a link + password to view the film from May 29-31.
