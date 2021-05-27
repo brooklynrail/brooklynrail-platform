@@ -14,5 +14,6 @@ short_bio: Interdisciplinary artist **Nina Katchadourian**’s work includes
   Art Center at Stanford University and the BYU Museum of Art. An accompanying
   monograph is available from Tower Books.
 portraits:
-  - {}
+  - media: 2021/05/nina-katchadourian
+website: http://www.ninakatchadourian.com/
 ---
