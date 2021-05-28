@@ -1,11 +1,13 @@
 ---
 title: Radical Poetry Reading with Thomas Devaney
-deck: "Featuring performances from Tara Middleton, Cynthia Dewi Oka, and Thomas
-  Devaney. "
-summary: "The 39th Radical Poetry Reading featuring performances from Tara
-  Middleton, Cynthia Dewi Oka, and Thomas Devaney. "
+deck: "Featuring performances from Samuel R. Delany, Tara Middleton, Linda
+  Norton, Cynthia Dewi Oka, and Thomas Devaney. "
+summary: "The 39th Radical Poetry Reading featuring performances from Samuel R.
+  Delany, Tara Middleton, Linda Norton, Cynthia Dewi Oka, and Thomas Devaney. "
 people:
+  - person: samuel-r-delany
   - person: tara-middleton
+  - person: linda-norton
   - person: cynthia-dewi-oka
   - person: thomas-devaney
 date: 2021-06-02T13:00:00-0500
