@@ -1,7 +1,9 @@
 ---
 title: Dustin Yellin with Paul D. Miller (aka DJ Spooky)
 deck: A conversation on art, science, and the environment
-summary: "Artist and Founder of Pioneer Works Dustin Yellin joins Rail Editor-at-Large Paul D. Miller (aka DJ spooky) for a conversation. We conclude with a poetry reading by Travis Chi Wing Lau."
+summary: Artist and Founder of Pioneer Works Dustin Yellin joins Rail
+  Editor-at-Large Paul D. Miller (aka DJ spooky) for a conversation. We conclude
+  with a poetry reading by Travis Chi Wing Lau.
 people:
   - person: dustin-yellin
     related_links:
@@ -19,6 +21,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: 5Iuhu9IsPq0
 registration_url: https://www.eventbrite.com/e/new-social-environment-304-dustin-yellin-with-paul-d-miller-tickets-156123193675
 event_platform:
   - zoom
