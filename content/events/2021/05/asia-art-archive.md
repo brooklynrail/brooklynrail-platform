@@ -21,6 +21,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: WXQwmuLCUkM
 registration_url: https://www.eventbrite.com/e/common-ground-asia-art-archive-tickets-154449018171
 event_platform:
   - zoom
