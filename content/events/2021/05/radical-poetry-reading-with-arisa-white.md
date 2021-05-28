@@ -17,6 +17,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: pIA-7BZHJO0
 registration_url: https://www.eventbrite.com/e/radical-poetry-reading-with-arisa-white-tickets-154473346939
 event_platform:
   - zoom
