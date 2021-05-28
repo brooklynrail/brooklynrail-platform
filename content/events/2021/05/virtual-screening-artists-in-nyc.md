@@ -2,8 +2,8 @@
 title: "Virtual Screening: Artists in NYC "
 summary: RSVP to receive a link + password to view Artists in NYC, a documentary
   by Terence Donnellan
-date: 2021-05-31T00:00:00-0500
-end_date: 2021-05-31T00:00:00-0500
+date: 2021-05-31T09:00:00-0500
+end_date: 2021-05-31T21:00:00-0500
 collections:
   - screening
 event_organizer:
@@ -26,7 +26,5 @@ Produced by Sanja Frank and Terence Donnellan, Directed by Terence Donnellan
 Watch the trailer on [the film’s website](https://www.artistsinnyc.com/) and learn more about Terence on [his website](https://www.blasketmcmanusproductions.com/). 
 
 *Special thanks to Sanja Frank and Terence Donnellan for making this virtual screening possible!*
-
-
 
 ##### Please note: this is not a live event. RSVP to receive a link + password to view the film from May 29-31.
