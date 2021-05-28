@@ -2,15 +2,17 @@
 name: Samuel R. Delany
 first_name: Samuel
 last_name: Delany
-short_bio: "Novelist and critic **Samuel R. Delaney** taught literature and
-  creative writing at the University of Massachusetts and Temple University, and
-  won four Nebula Awards and a Hugo Award by the time he was 27. He was inducted
-  into the Science Fiction Hall of Fame in 2002, by which time he’d also been
-  chosen by the _Lambda Literary Report_ as one of the 50 people who had done
-  the most to change our view of gayness in the last half-century. In 2013, he
-  was named the 31st Damon Knight Memorial Foundation Grand Master by the
-  Science Fiction and Fantasy Writers of America. Delany is the author of
-  several novels and collections of critical essays. "
+short_bio: "In 2016, **Samuel R. Delany** was inducted into the New York State
+  Writers Hall of Fame. He is the author of _Babel-17_, _Nova, Dhalgren_, _Dark
+  Reflections, Atlantis: Three Tales_, the _Return to Nevèrÿon_ series, an
+  autobiography, _The Motion of Light in Water_, and the paired essays _Times
+  Square Red / Times Square Blue_. _Dark Reflections_ won the Stonewall Book
+  Award for 2008, and in 2015 he won the Nicolas Guillén Award for Philosophical
+  Literature, in 1997 the Kessler Award for LGBTQ Studies, and only this year,
+  the Anisfield-Wolf Award. He has won Nebula Awards from the Science Fiction
+  Writers of America, and two Hugo Awards from the World Science Fiction
+  Convention. In 2013, he was made a Grand Master of Science Fiction, following
+  in the steps of Asimov, Heinlein, and Le Guin."
 portraits:
   - media: 2021/05/samuel-r-delany
 website: https://www.samueldelany.com/
