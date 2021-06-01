@@ -8,6 +8,11 @@ people:
   - person: samuel-r-delany
   - person: tara-middleton
   - person: linda-norton
+    related_links:
+      - text: "More information on Wite Out: Love and Work"
+        url: https://drive.google.com/file/d/1SRg_Z9fMwwRPAtwhF4o6ymjCxBVQ6f3O/view
+      - text: "SFMOMA Open Space Profile "
+        url: https://openspace.sfmoma.org/author/lindanorton/
   - person: cynthia-dewi-oka
   - person: thomas-devaney
 date: 2021-06-02T13:00:00-0500
