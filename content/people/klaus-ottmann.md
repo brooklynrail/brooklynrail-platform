@@ -7,12 +7,12 @@ short_bio: "Curator, critic, academic, and administrator **Dr. Klaus Ottmann**�
   Collection, he oversees the curatorial department and leads the museum’s
   University of Maryland Center for Art and Knowledge. He has curated more than
   60 exhibitions internationally and was curator of the 2006 SITE Santa Fe
-  Biennial. He has also curated major exhibitions at the Hirshhorn Museum and
-  Sculpture Garden, the Los Angeles Museum of Contemporary Art, among others. A
-  recognized scholar on the works of the French artist Yves Klein, Dr. Ottmann
-  translated and published the first volume in English devoted to the artist’s
-  writings: _Overcoming the Problematics of Art: The Writings of Yves Klein_
-  (Putnam: Spring Publications, 2007)."
+  Biennial. In 2013, Ottmann curated _JENNIFER BARTLETT: HISTORY OF THE
+  UNIVERSE—Works 1970–2011_ for the Pennsylvania Academy of Fine Arts,
+  Philadelphia and the Parrish Art Museum, Water Mill, N.Y. and in 2020 he
+  authored the catalogue for an exhibition at The Phillips Collection, _JENNIFER
+  BARTLETT & PIERRE BONNARD: In and Out of the Garden_ (which was scheduled to
+  open last summer, but has been postponed)."
 portraits:
   - media: 2021/06/klaus-ottmann
 ---
