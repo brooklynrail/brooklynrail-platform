@@ -11,7 +11,7 @@ short_bio: "Interdisciplinary artist **Nina Katchadourian**’s work includes
   audio tour on the subject of dust for the Museum of Modern Art as part of
   their program “Artists Experiment.” Her solo museum survey _Curiouser_ opened
   at the Blanton Museum in 2017 and traveled to the Cantor Art Center at
-  Stanford, and the BYU Museum of Art. Her current exhibition _Cumulus_ is on
+  Stanford and the BYU Museum of Art. Her current exhibition _Cumulus_ is on
   view at Pace Gallery, New York until June 26th. "
 portraits:
   - media: 2021/05/nina-katchadourian
