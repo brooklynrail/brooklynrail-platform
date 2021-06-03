@@ -19,6 +19,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/new-social-environment-315-a-conversation-on-jennifer-bartlett-tickets-158009704279
 event_platform:
   - zoom
 ---
