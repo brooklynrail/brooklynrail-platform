@@ -102,8 +102,14 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
               {{- else -}}
 
                 {{- with .Params.registration_url -}}
-                  {{/* Registration button */}}
+                  {{/* OLD Registration button */}}
                   <a class="u-white register" href="{{- . -}}" title="Register"><button class="btn btn-lg btn-register" type="button" name="register"><span>Register</span></button></a>
+                {{- else -}}
+                  {{- with .Params.event_id -}}
+                    {{/* NEW Registration button */}}
+                    {{/* https://airtable.com/shrZwZHHxdeEANeeT?prefill_EventID=recWw93gqTOoJgg6O&prefill_First+name=Sophia */}}
+                    <a class="u-white register" href="#register" title="Register"><button class="btn btn-lg btn-register" type="button" name="register"><span>Register</span></button></a>
+                  {{- end -}}
                 {{- end -}}
               {{- end -}}
 
@@ -264,22 +270,28 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
 
             </div>
 
-            {{/* If is NOT a Future Event (Past event) */}}
-            {{- if and (eq $future_event true) (in .Params.event_producer "the-brooklyn-rail") -}}
 
-              {{- if in .Params.event_platform "zoom" -}}
-              <div class="content event-logistics">
-                {{- partial "event-logistics" . | markdownify -}}
-              </div>
-              {{- end -}}
-
-            {{- end -}}
-
-            {{- partial "tags.html" . -}}
+          </div>
         </div>
       </div>
-    </section>
 
+      
+    </section>
   </article>
+  {{/* If is NOT a Future Event (Past event) */}}
+  {{- if and (eq $future_event true) -}}
+
+    {{- if .Params.registration_url -}}
+    {{- else -}}
+      {{- if .Params.event_id -}}
+        {{- partial "event-register-form" (dict "page" . "event_id" .Params.event_id "start_date" .Date ) -}}
+      {{- end -}}
+    {{- end -}}
+
+  {{- end -}}
+
 </main>
-{{ end }}
+
+
+
+{{- end -}}
