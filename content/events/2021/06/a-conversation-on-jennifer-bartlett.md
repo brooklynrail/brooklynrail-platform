@@ -3,7 +3,7 @@ title: A Conversation on Jennifer Bartlett
 deck: Featuring Phong H. Bui, Klaus Ottmann, and Raphael Rubinstein moderated by
   Eleanor Heartney
 summary: "Phong H. Bui, Klaus Ottmann, and Raphael Rubinstein join Eleanor
-  Heartney for conversation on artist Jennifer Bartlett. We conclude with a
+  Heartney for a conversation on artist Jennifer Bartlett. We conclude with a
   poetry reading. "
 people:
   - person: phong-h-bui
