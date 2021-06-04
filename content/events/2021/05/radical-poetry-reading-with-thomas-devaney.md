@@ -23,6 +23,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: 4qHNQXZKjdw
 registration_url: https://www.eventbrite.com/e/radical-poetry-reading-with-thomas-devaney-tickets-157133026111
 event_platform:
   - zoom
