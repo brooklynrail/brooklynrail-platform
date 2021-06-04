@@ -1,5 +1,5 @@
 ---
-title: "Publishing in Transit: New York Review of Books"
+title: "Publishing-in-Transit: New York Review of Books"
 deck: Editors and Writers in Conversation
 summary: Editors and writers Edwin Frank, Arvind Krishna Mehrotra, and Eugene
   Ostashevsky join Cole Swensen in conversation. We conclude with a poetry
@@ -22,4 +22,4 @@ registration_url: https://www.eventbrite.com/e/publishing-in-transit-new-york-re
 event_platform:
   - zoom
 ---
-*Publishing in Transit* is a new monthly series designed to celebrate editors, all of the often-unrecognized work that they do, and the community-based and conversational nature of contemporary innovative literary publishing.
+*Publishing-in-Transit* is a new monthly series designed to celebrate editors, all of the often-unrecognized work that they do, and the community-based and conversational nature of contemporary innovative literary publishing.
