@@ -1,9 +1,10 @@
 ---
 title: Radical Poetry Reading with Paolo Javier
-deck: Featuring readings from R. Zamora Linmark, Shaheen Qureshi, Kiki Rivera,
+deck: Featuring poetry read by R. Zamora Linmark, Shaheen Qureshi, Kiki Rivera,
   and Charles Valle.
-summary: The 40th Radical Poetry Reading featuring readings from R. Zamora
-  Linmark, Shaheen Qureshi, Kiki Rivera, Charles Valle, and Paolo Javier.
+summary: "Paolo Javier curates the 40th Radical Poetry Reading featuring
+  readings from R. Zamora Linmark, Shaheen Qureshi, Kiki Rivera, and Charles
+  Valle. "
 people:
   - person: paolo-javier
   - person: r-zamora-linmark
