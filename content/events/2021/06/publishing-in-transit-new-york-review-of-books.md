@@ -1,5 +1,5 @@
 ---
-title: "Publishing-in-Transit: New York Review of Books"
+title: "Publishing-in-Transit: New York Review Books"
 deck: Editors and Writers in Conversation
 summary: Editors and writers Edwin Frank, Arvind Krishna Mehrotra, and Eugene
   Ostashevsky join Cole Swensen in conversation. We conclude with a poetry
