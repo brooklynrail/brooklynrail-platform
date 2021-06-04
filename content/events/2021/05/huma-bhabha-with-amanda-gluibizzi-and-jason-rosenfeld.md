@@ -21,6 +21,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: CjjWVV0egPM
 registration_url: https://www.eventbrite.com/e/new-social-environment-308-huma-bhabha-tickets-156146304801
 event_platform:
   - zoom
