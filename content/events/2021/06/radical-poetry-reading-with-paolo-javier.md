@@ -19,6 +19,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/radical-poetry-reading-with-paolo-javier-tickets-158167923517
 event_platform:
   - zoom
 ---
