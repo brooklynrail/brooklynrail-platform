@@ -3,7 +3,7 @@ title: Curating in the Blockchain Landscape
 deck: Featuring Christiana Ine-Kimba Boyle, Anika Meier, and Kelani Nichole
   moderated by Charlotte Kent
 summary: Join us for a discussion with Christiana Ine-Kimba Boyle, Anika Meier,
-  and Kelani Nichole led by Rail Editor-at-Large Charlotte Kent. We’ll conclude
+  and Kelani Nichole led by Rail Editor-at-Large Charlotte Kent. We conclude
   with a poetry reading.
 people:
   - person: christiana-ine-kimba-boyle
