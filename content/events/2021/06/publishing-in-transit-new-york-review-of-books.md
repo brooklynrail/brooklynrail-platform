@@ -1,9 +1,9 @@
 ---
 title: "Publishing-in-Transit: New York Review Books"
 deck: Editors and Writers in Conversation
-summary: Editors and writers Edwin Frank, Arvind Krishna Mehrotra, and Eugene
-  Ostashevsky join Cole Swensen in conversation. We conclude with a poetry
-  reading.
+summary: Writer and NYRB editor Edwin Frank joins NYRB authors Arvind Krishna
+  Mehrotra and Eugene Ostashevsky in a conversation hosted by Cole Swensen. We
+  conclude with a reading by the three featured writers.
 people:
   - person: edwin-frank
   - person: arvind-krishna-mehrotra
