@@ -23,6 +23,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: lAg23W2j4Uk
 registration_url: https://www.eventbrite.com/e/into-the-stratosphere-with-dr-bishop-and-friends-global-reconciliation-tickets-156199628293
 event_platform:
   - zoom
