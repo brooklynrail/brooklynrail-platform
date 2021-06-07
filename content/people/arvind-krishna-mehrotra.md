@@ -8,9 +8,7 @@ short_bio: "Poet, translator, editor, and anthologist **Arvind Krishna
   Poets); a translation (with Sara Rai) of Vinod Kumar Shukla's Hindi short
   fiction _Blue Is Like Blue_ (HarperCollins); and, as editor, _The Book of
   Indian Essays: Two Hundred Years of English Prose_ (Black Kite). His _Songs of
-  Kabir_ was published in NYRB Classics in 2011. He has also edited Arun
-  Kolatkar’s _Collected Poems in English_ (Bloodaxe) and _History of Indian
-  Literature in English_ (Columbia University Press)."
+  Kabir_ was published in NYRB Classics in 2011. "
 portraits:
   - media: 2021/06/arvind-krishna-mehrotra
 ---
