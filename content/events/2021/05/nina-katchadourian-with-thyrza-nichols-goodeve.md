@@ -17,6 +17,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: -oWU-xIc4EE
 registration_url: https://www.eventbrite.com/e/new-social-environment-313-nina-katchadourian-tickets-157112059399
 event_platform:
   - zoom
