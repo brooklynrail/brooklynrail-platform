@@ -6,11 +6,11 @@ summary: "Paolo Javier curates the 40th Radical Poetry Reading featuring
   readings from R. Zamora Linmark, Shaheen Qureshi, Kiki Rivera, and Charles
   Valle. "
 people:
-  - person: paolo-javier
   - person: r-zamora-linmark
   - person: shaheen-qureshi
   - person: kiki-rivera
   - person: charles-valle
+  - person: paolo-javier
 date: 2021-06-09T13:00:00-0500
 end_date: 2021-06-09T14:30:00-0500
 collections:
