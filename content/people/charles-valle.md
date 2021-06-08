@@ -11,5 +11,5 @@ short_bio: Writer **Charles Valle** was born in Manila, Philippines and
   Stake](https://fonografeditions.com/catalog/f0no11-charles-valle-proof-of-stake-an-elegy/)*,
   is forthcoming from Fonograf Editions in June 2021.
 portraits:
-  - media: 2021/06/charles-valle-headshot-correctly-oriented
+  - media: 2021/06/charles-valle-completely-new-to-circumvent-flipping
 ---
