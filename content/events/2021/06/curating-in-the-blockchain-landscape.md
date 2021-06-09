@@ -28,6 +28,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: lOjji2p3Qu4
 registration_url: https://www.eventbrite.com/e/new-social-environment-314-curating-in-the-blockchain-landscape-tickets-158034670955
 event_platform:
   - zoom
