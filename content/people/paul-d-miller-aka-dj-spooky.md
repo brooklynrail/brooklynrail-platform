@@ -1,5 +1,5 @@
 ---
-name: Paul D. Miller, aka DJ Spooky
+name: Paul D. Miller (aka DJ Spooky)
 first_name: Paul
 last_name: Miller
 short_bio: "Composer, multimedia artist, and writer **Paul D. Miller (aka DJ
