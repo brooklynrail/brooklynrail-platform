@@ -15,7 +15,7 @@ short_bio: Artist, writer, and teacher **Ashley Hunt** is based in Los Angeles.
   Contemporary Art Quarterly_, and the _Los Angeles Review of Books_. Hunt
   teaches in the Photography and Media Program at CalArts.
 portraits:
-  - {}
+  - media: 2021/06/ashley-hunt
 website: http://correctionsproject.com/wordpress/
 instagram: __ashley_hunt__
 ---
