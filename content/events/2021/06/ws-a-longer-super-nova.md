@@ -1,6 +1,6 @@
 ---
 title: "WS, a longer super nova "
-deck: Directed by Arthur Jafa and produced by Nanette Nelms
+deck: Digital screenings June 12 - 26
 summary: A digital screening as part of the 2021 River To River Festival,
   presented by Lower Manhattan Cultural Council. Directed by Arthur Jafa and
   produced by Nanette Nelms.
