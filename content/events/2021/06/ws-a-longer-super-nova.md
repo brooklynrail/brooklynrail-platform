@@ -17,7 +17,9 @@ event_platform: null
 ---
 {{< image media="2021/06/ws-a-longer-super-nova" size="lg" >}}
 
-Arthur Jafa separates sound from image, only to collide them, forcing both eye and ear to find their balance in heart connection. In his *WS, a longer super nova*, Jafa gives us a glimpse into the genius mind of Jazz Master Wayne Shorter being his inimitable stream of conscious self. Jafa records an ongoing and intimately wild conversation between Mestre Shorter and jazz force esperanza spalding.\
+Arthur Jafa separates sound from image, only to collide them, forcing both eye and ear to find their balance in heart connection. In his *WS, a longer super nova*, Jafa gives us a glimpse into the genius mind of Jazz Master Wayne Shorter being his inimitable stream of conscious self. Jafa records an ongoing and intimately wild conversation between Mestre Shorter and jazz force esperanza spalding.
+
+\
 The conversation takes place the Gehry Residence, a famously deconstructed habitable art space. *WS, a longer super nova*, a slice of life profile, a blues haiku, captures the dark matter entity that is Wayne Shorter. 
 
 *Presented in partnership with The Clemente Soto Vélez Cultural & Educational Center and The Broad Stage.*
