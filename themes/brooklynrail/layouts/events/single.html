@@ -282,9 +282,18 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
   {{- if and (eq $future_event true) -}}
 
     {{- if .Params.registration_url -}}
+        <div class="grid-row">
+      <div class="grid-col-12 tablet:grid-col-10 tablet:grid-offset-1">
+        <div class="event-logistics">
+          {{- partial "event-logistics" . | markdownify -}}
+          {{- partial "tags.html" . -}}
+        </div>
+      </div>
+    </div>
     {{- else -}}
       {{- if .Params.event_id -}}
         {{- partial "event-register-form" (dict "page" . "event_id" .Params.event_id "start_date" .Date ) -}}
+        
       {{- end -}}
     {{- end -}}
 
