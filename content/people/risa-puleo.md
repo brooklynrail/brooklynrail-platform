@@ -5,7 +5,7 @@ last_name: Puleo
 pronouns: She/her
 short_bio: "Curator **Risa Puleo** researches the entanglement between the
   Americas and Europe during the early modern period with a focus on how
-  indigenous American objects and people were important to the formation of the
+  Indigenous American objects and people were important to the formation of the
   Wunderkammer and Early Modern Museum through their collection as objects of
   wonder, scrutiny, spectacle, and study. Her exhibition _Walls Turned Sideways:
   Artists Confront the American Justice System_ at Contemporary Arts Museum in
