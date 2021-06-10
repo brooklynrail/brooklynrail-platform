@@ -23,7 +23,7 @@ The conversation takes place the Gehry Residence, a famously deconstructed habit
 
 *Presented in partnership with The Clemente Soto Vélez Cultural & Educational Center and The Broad Stage.*
 
-**The digital screening will be accompanied by a conversation between Wayne Shorter, esperanza spalding, Greg Tate, and Craig Street.** 
+**The digital screening will be accompanied by a filmed conversation between Wayne Shorter, esperanza spalding, Greg Tate, and Craig Street.**
 
 **Select digital streaming dates on June 12, 17, and 24 at 8 pm; June 19 and 26 at 3 pm, exclusively on LMCC.net** 
 
