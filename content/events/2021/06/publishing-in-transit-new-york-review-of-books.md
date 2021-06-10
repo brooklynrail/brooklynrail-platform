@@ -18,6 +18,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: 0FTnFGQTmSA
 registration_url: https://www.eventbrite.com/e/publishing-in-transit-new-york-review-of-books-tickets-158172184261
 event_platform:
   - zoom
