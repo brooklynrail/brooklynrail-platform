@@ -15,7 +15,7 @@ event_producer:
 registration_url: https://www.eventbrite.com/e/river-to-river-festival-2021-digital-screenings-ws-a-longer-super-nova-tickets-156772931057
 event_platform: null
 ---
-{{< image media="2021/06/lmcc-river-to-river-header" size="lg" >}}
+{{< image media="2021/06/ws-a-longer-super-nova" size="lg" >}}
 
 Arthur Jafa separates sound from image, only to collide them, forcing both eye and ear to find their balance in heart connection. In his *WS, a longer super nova*, Jafa gives us a glimpse into the genius mind of Jazz Master Wayne Shorter being his inimitable stream of conscious self. Jafa records an ongoing and intimately wild conversation between Mestre Shorter and jazz force esperanza spalding.\
 The conversation takes place the Gehry Residence, a famously deconstructed habitable art space. *WS, a longer super nova*, a slice of life profile, a blues haiku, captures the dark matter entity that is Wayne Shorter. 
@@ -30,4 +30,4 @@ Runtime: 28 minutes
 
 **RSVP above or here for a link to screening: <https://www.eventbrite.com/e/river-to-river-festival-2021-digital-screenings-ws-a-longer-super-nova-tickets-156772931057>**
 
-{{< image media="2021/06/ws-a-longer-super-nova" size="lg" >}}
+{{< image media="2021/06/lmcc-river-to-river-header" size="lg" >}}
