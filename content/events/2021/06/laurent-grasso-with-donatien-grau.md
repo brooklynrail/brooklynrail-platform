@@ -1,6 +1,6 @@
 ---
 title: Laurent Grasso with Donatien Grau
-summary: "Artists Laurent Grasso joins Rail Editor-at-Large Donatien Grau for a
+summary: "Artist Laurent Grasso joins Rail Editor-at-Large Donatien Grau for a
   conversation. We conclude with a poetry reading from Sandra Simonds. "
 people:
   - person: laurent-grasso
@@ -19,3 +19,4 @@ event_producer:
 event_platform:
   - zoom
 ---
+For the last four years, artist Laurent Grasso has been engaged in a conversation with \_Brooklyn Rail\_ Editor-at-Large Donatien Grau for Grasso's installation and film project \_Artificialis\_ at Musée d'Orsay—a film especially created for this institution, in conjunction with the exhibition \_The Origins of the World, The Invention of Nature in the 19th century\_. Grasso and Grau discuss their collaboration on this project as well as broader issues present in Grasso's work—the relation between history and futurism, the status of knowledge and images, the transformations of the world in which we live.
