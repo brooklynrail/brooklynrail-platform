@@ -159,7 +159,7 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
 
             {{- if and $event_organizer $event_producer }}
             <div class="sponsor">
-              <p>This talk is
+              <p>This event is
               {{- if $event_sponsors -}}
                 {{- $sponsor_copy := $.Site.Data.sponsor_copy.sponsored -}}
                 {{- $copy := (index ($sponsor_copy | shuffle | first 1) 0) -}}
@@ -211,15 +211,18 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
 
               <p class="summary">{{- .Summary | markdownify -}}</p>
 
+
+              {{- if .Params.people -}}
+                {{- if in .Params.collections "screening" -}}
+                  <h2>In this screening</h2>
+                {{- else -}}
+                  <h2>In this talk</h2>
+                {{- end -}}
+              {{- end -}}
+              
+
               {{- if .Content -}}
                 {{- .Content -}}
-                {{- if .Params.people -}}
-                  {{- if eq .Params.collection "screening" -}}
-                    <h2>In this screening</h2>
-                  {{- else -}}
-                    <h2>In this talk</h2>
-                  {{- end -}}
-                {{- end -}}
               {{- end -}}
 
 
