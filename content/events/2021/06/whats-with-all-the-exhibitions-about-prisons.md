@@ -2,8 +2,8 @@
 title: "What's With All the Exhibitions About Prisons? "
 deck: Featuring Ashley Hunt, Rachel Nelson, and Risa Puleo in conversation with
   Pete Brook
-summary: Artists, curators, and art historians Ashley Hunt, Rachel Nelson, and
-  Risa Puleo join Pete Brook for a conversation. We conclude with a poetry
+summary: Curators and educators Ashley Hunt, Rachel Nelson, and Risa Puleo join
+  writer and curator Pete Brook for a conversation. We conclude with a poetry
   reading.
 people:
   - person: ashley-hunt
@@ -20,7 +20,6 @@ people:
 date: 2021-06-17T13:00:00-0500
 end_date: 2021-06-17T14:30:00-0500
 collections:
-  - the-new-social-environment
   - common-ground
 event_organizer:
   - the-brooklyn-rail
