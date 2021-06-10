@@ -4,8 +4,8 @@ first_name: Yasi
 last_name: Alipour
 pronouns: She/her
 short_bio: Using paper and intricate folds, **Yasi Alipour** explores systems of
-  math and history. In her series “As Dreams Become History,” for example,
-  Alipour asked Iranian friends born after the revolution to share second-hand
+  math and history. In her series _As Dreams Become History_, for example,
+  Alipour asked Iranian friends born after the revolution to share secondhand
   memories of that decade shared by family and older friends. These texts she
   paired with sheets of paper printed with black ink and then folded into
   geometric tessellations referencing Middle Eastern abstraction. Her practice
