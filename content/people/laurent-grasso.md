@@ -3,16 +3,17 @@ name: Laurent Grasso
 first_name: Laurent
 last_name: Grasso
 pronouns: he/him
-short_bio: Born in France in 1972, **Laurent Grasso** has developed a
-  fascination with the visual possibilities related to the science of
-  electromagnetic energy, radio waves, and naturally occurring phenomena. Grasso
-  explores these sciences as they apply to paranormal activity, a favorite
-  subject of 18th century scientists and philosophers, often used as parlor
-  entertainment during the Victorian era.  Incorporating imagery culled from the
-  cinema and art history, Grasso works in video, sculpture, painting, and
-  drawing, to recreate phenomena—both human and natural—that set up surreal and
-  ambiguous juxtapositions of time and space. Grasso lives and works in Paris,
-  France.
+short_bio: Born in 1972, French conceptual artist **Laurent Grasso** creates
+  mysterious atmospheres through immersive and labyrinthine installations that
+  challenge the boundaries of our perceptions and knowledge. Like a film
+  director, he arranges and stages diverse realities in order to create hypnotic
+  systems. Often conceived as quasi-autonomous vision machines, Grasso’s
+  projects attempt to capture and restore phenomena invisible to the human eye
+  and mind. Their scopic dimension questions the will to control, whether it is
+  a question of surveillance, political power, military strategy, or astronomy.
+  Combining the most prospective theories and scientific tools with the oldest
+  beliefs, his works invite us to travel through time and into an interfolding
+  of worlds.
 portraits:
   - media: 2021/06/laurent-grasso
 website: http://laurentgrasso.com/
