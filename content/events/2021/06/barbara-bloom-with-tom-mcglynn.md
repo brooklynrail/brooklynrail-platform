@@ -19,6 +19,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/new-social-environment-319-barbara-bloom-tickets-159065524265
 event_platform:
   - zoom
 ---
