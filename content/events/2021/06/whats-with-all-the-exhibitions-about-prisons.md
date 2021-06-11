@@ -25,6 +25,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/common-ground-whats-with-all-the-exhibitions-about-prisons-tickets-159067050831
 event_platform:
   - zoom
 ---
