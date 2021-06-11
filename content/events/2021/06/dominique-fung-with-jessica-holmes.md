@@ -17,6 +17,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: sShIqUrX4eo
 registration_url: https://www.eventbrite.com/e/new-social-environment-318-dominique-fung-tickets-158169562419
 event_platform:
   - zoom
