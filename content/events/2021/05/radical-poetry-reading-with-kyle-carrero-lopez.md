@@ -21,6 +21,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: oi2471xhRP8
 registration_url: https://www.eventbrite.com/e/radical-poetry-reading-with-kyle-carrero-lopez-tickets-156211329291
 event_platform:
   - zoom
