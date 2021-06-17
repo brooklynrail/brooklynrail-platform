@@ -17,6 +17,8 @@ people:
           Contemporary Arts Museum Houston"
         url: https://camh.org/event/walls-turned-sideways/
   - person: pete-brook
+poets:
+  - person: jimmy-santiago-baca
 date: 2021-06-17T13:00:00-0500
 end_date: 2021-06-17T14:30:00-0500
 collections:
