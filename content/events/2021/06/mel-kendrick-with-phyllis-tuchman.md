@@ -7,6 +7,7 @@ people:
     related_links:
       - text: "Mel Kendrick: Seeing Things in Things"
         url: https://addison.andover.edu/Exhibitions/Kendrick/Pages/default.aspx
+  - person: phyllis-tuchman
 date: 2021-06-25T13:00:00-0500
 end_date: 2021-06-25T14:30:00-0500
 series: 328
