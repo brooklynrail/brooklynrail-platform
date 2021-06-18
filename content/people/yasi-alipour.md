@@ -3,17 +3,10 @@ name: Yasi Alipour
 first_name: Yasi
 last_name: Alipour
 pronouns: She/her
-short_bio: Using paper and intricate folds, **Yasi Alipour** explores systems of
-  math and history. In her series “As Dreams Become History,” for example,
-  Alipour asked Iranian friends born after the revolution to share second-hand
-  memories of that decade shared by family and older friends. These texts she
-  paired with sheets of paper printed with black ink and then folded into
-  geometric tessellations referencing Middle Eastern abstraction. Her practice
-  spans sculpture, installation, performance, drawing, writing, lectures, and
-  experimentation and probes personal history to parse issues around political
-  instability and interrupted histories. Her artistic practice is founded on the
-  lived experience of a Middle Eastern queer and a citizen with a politically
-  unhinged society and an interrupted history.
+short_bio: Iranian artist, writer, and folder **Yasi Alipour** currently lives
+  in Brooklyn and wonders about paper, politics, and performance. She received
+  her MFA from Columbia University and is a teacher at Columbia and SVA, New
+  York. She is currently a resident at the Sharpe-Walentas Studio Program.
 portraits:
   - media: 2020/07/yasi-alipour
   - media: 2021/05/yasi-alipour-swsp

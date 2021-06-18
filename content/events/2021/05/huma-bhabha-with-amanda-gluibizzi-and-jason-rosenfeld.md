@@ -6,7 +6,7 @@ summary: Artist Huma Bhabha joins Rail Artseen Editor Amanda Gluibizzi and
 people:
   - person: huma-bhabha
     related_links:
-      - text: Facing Giants at Salon94
+      - text: Facing Giants at Salon 94
         url: https://salon94.com/exhibitions/huma-bhabha-facing-giants-2021
   - person: amanda-gluibizzi
   - person: jason-rosenfeld
@@ -21,6 +21,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: CjjWVV0egPM
 registration_url: https://www.eventbrite.com/e/new-social-environment-308-huma-bhabha-tickets-156146304801
 event_platform:
   - zoom
