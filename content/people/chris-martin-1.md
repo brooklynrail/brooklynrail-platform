@@ -13,4 +13,5 @@ short_bio: "Contemporary American abstract painter **Chris Martin**'s wide range
   neon paint. Martin lives and works in Brooklyn, NY. "
 portraits:
   - media: 2020/05/chris-martin
+rail_contributor_url: https://brooklynrail.org/contributor/chris-martin
 ---
