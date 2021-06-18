@@ -5,7 +5,7 @@ deck: Featuring poetry read by Garrett Caples, Neeli Cherkovski, Aggie Falk,
   Waldman
 summary: A poetry reading with Garrett Caples, Neeli Cherkovski, Aggie Falk,
   Jack Hirschman, Kaye McDonough, Jackson Meazle, Margaret Randall, and Anne
-  Waldman, organized by Raymond Foye.
+  Waldman, organized by Rail Consulting Editor Raymond Foye.
 people:
   - person: garrett-caples
   - person: neeli-cherkovski
