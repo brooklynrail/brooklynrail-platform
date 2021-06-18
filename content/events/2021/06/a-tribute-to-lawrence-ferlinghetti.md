@@ -3,9 +3,9 @@ title: A Tribute to Lawrence Ferlinghetti
 deck: Featuring poetry read by Garrett Caples, Neeli Cherkovski, Aggie Falk,
   Jack Hirschman, Kaye McDonough, Jackson Meazle, Margaret Randall, and Anne
   Waldman
-summary: A poetry reading with Radical Poetry Reading with Garrett Caples, Neeli
-  Cherkovski, Aggie Falk, Jack Hirschman, Kaye McDonough, Jackson Meazle,
-  Margaret Randall, and Anne Waldman, organized by Raymond Foye.
+summary: A poetry reading with Garrett Caples, Neeli Cherkovski, Aggie Falk,
+  Jack Hirschman, Kaye McDonough, Jackson Meazle, Margaret Randall, and Anne
+  Waldman, organized by Raymond Foye.
 people:
   - person: garrett-caples
   - person: neeli-cherkovski
