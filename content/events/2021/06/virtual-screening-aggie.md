@@ -10,6 +10,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/virtual-screening-aggie-tickets-160254271841
 event_platform: null
 ---
 {{< image media="2021/06/aggie-film" size="lg" >}}
