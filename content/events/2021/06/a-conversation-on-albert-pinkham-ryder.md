@@ -28,4 +28,4 @@ event_platform:
 ---
 ***A WILD NOTE OF LONGING: ALBERT PINKHAM RYDER AND A CENTURY OF AMERICAN ART*** opens at the New Bedford Whaling Museum in New Bedford, Massachusetts on June 24 and is on view through October 31, 2021. 
 
-[Explore the exhibition on the museum's website](https://www.whalingmuseum.org/exhibition/a-wild-note-of-longing/).
+**[Explore the exhibition on the museum's website](https://www.whalingmuseum.org/exhibition/a-wild-note-of-longing/).**
