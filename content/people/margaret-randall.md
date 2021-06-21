@@ -13,5 +13,5 @@ short_bio: "Writer, translator, photographer, and social activist **Margaret
   Freire Prize."
 portraits:
   - media: 2021/06/margaret-randall
-website: http://www.margaretrandall.org.
+website: http://www.margaretrandall.org
 ---
