@@ -1,11 +1,11 @@
 ---
 title: A Tribute to Lawrence Ferlinghetti
-deck: Featuring poetry read by Will Alexander, Garrett Caples, Neeli Cherkovski,
-  Aggie Falk, Jack Hirschman, Kaye McDonough, Jackson Meazle, Margaret Randall,
-  Anne Waldman, and hosted by Sparrow
-summary: A poetry reading with Will Alexander, Garrett Caples, Neeli Cherkovski,
-  Aggie Falk, Jack Hirschman, Kaye McDonough, Jackson Meazle, Margaret Randall,
-  Anne Waldman, and hosted by Sparrow.
+deck: A poetry reading featuring Will Alexander, Garrett Caples, Neeli
+  Cherkovski, Aggie Falk, Jack Hirschman, Kaye McDonough, Jackson Meazle,
+  Margaret Randall, and Anne Waldman, hosted by Sparrow
+summary: A poetry reading featuring Will Alexander, Garrett Caples, Neeli
+  Cherkovski, Aggie Falk, Jack Hirschman, Kaye McDonough, Jackson Meazle,
+  Margaret Randall, and Anne Waldman, hosted by Sparrow
 people:
   - person: will-alexander
   - person: garrett-caples
@@ -30,4 +30,4 @@ registration_url: https://www.eventbrite.com/e/copy-of-new-social-environment-32
 event_platform:
   - zoom
 ---
-Organized by *Rail* Consulting Editor Raymond Foye.
+A special thanks to *Rail* Consulting Editor Raymond Foye for organizing this event.
