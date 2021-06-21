@@ -10,4 +10,5 @@ short_bio: "**Jack Hirschman** was born in New York City. He earned degrees from
   California, Los Angeles. He lives in San Francisco."
 portraits:
   - media: 2021/06/jack-hirschman
+rail_contributor_url: https://brooklynrail.org/contributor/jack-hirschman
 ---
