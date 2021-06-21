@@ -9,4 +9,5 @@ short_bio: "**Neeli Cherkovski** is a poet, memoirist, literary chronicler, and
   Josephine Miles PEN Award."
 portraits:
   - media: 2021/06/neeli-cherkovski
+rail_contributor_url: https://brooklynrail.org/contributor/Neeli-Cherkovski
 ---
