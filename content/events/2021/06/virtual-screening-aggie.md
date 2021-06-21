@@ -1,5 +1,7 @@
 ---
 title: "Virtual Screening: Aggie"
+deck: A documentary that explores the nexus of art, race, and justice through
+  the story of art collector and philanthropist Agnes Gund's life
 summary: Join us for a virtual screening of Aggie, directed by Catherine Gund
   and courtesy of Aubin Pictures
 date: 2021-06-24T13:00:00-0500
