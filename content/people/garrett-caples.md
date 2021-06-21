@@ -8,4 +8,5 @@ short_bio: "**Garrett Caples** is a poet and an editor at City Lights Books. He
   Books."
 portraits:
   - media: 2021/06/garrett-caples
+rail_contributor_url: https://brooklynrail.org/contributor/garrett-caples
 ---
