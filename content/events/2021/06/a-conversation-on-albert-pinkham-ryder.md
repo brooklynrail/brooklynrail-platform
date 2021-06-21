@@ -13,6 +13,8 @@ people:
   - person: bill-jensen
   - person: chris-martin-1
   - person: choghakate-kazarian
+poets:
+  - person: ali-van
 date: 2021-06-21T13:00:00-0500
 end_date: 2021-06-21T14:30:00-0500
 series: 324
