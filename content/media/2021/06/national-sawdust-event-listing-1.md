@@ -1,5 +1,5 @@
 ---
-media: /media/files/art-by-natalie-frank-and-erin-pollock.tif
+media: /media/files/art-by-natalie-frank-and-erin-pollock.jpg
 title: National Sawdust Event Listing (1)
 alt: Art by Natalie Frank and Erin Pollock
 caption: Art by Natalie Frank and Erin Pollock. Courtesy of National Sawdust.
