@@ -1,11 +1,11 @@
 ---
 title: A Tribute to Lawrence Ferlinghetti
 deck: A poetry reading featuring Will Alexander, Garrett Caples, Neeli
-  Cherkovski, Aggie Falk, Jack Hirschman, Kaye McDonough, Jackson Meazle,
-  Margaret Randall, and Anne Waldman, hosted by Sparrow
+  Cherkovski, Aggie Falk, Jack Hirschman, Kaye McDonough, Margaret Randall, and
+  Anne Waldman, hosted by Sparrow
 summary: A poetry reading featuring Will Alexander, Garrett Caples, Neeli
-  Cherkovski, Aggie Falk, Jack Hirschman, Kaye McDonough, Jackson Meazle,
-  Margaret Randall, and Anne Waldman, hosted by Sparrow
+  Cherkovski, Aggie Falk, Jack Hirschman, Kaye McDonough, Margaret Randall, and
+  Anne Waldman, hosted by Sparrow
 people:
   - person: will-alexander
   - person: garrett-caples
@@ -13,7 +13,6 @@ people:
   - person: aggie-falk
   - person: jack-hirschman
   - person: kaye-mcdonough
-  - person: jackson-meazle
   - person: margaret-randall
   - person: ann-waldman
   - person: sparrow
