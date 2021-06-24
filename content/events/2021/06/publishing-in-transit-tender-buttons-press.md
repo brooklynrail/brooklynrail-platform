@@ -1,5 +1,5 @@
 ---
-title: "Publishing in Transit: Tender Buttons Press"
+title: "Publishing-in-Transit: Tender Buttons Press"
 deck: Editors and Writers in Conversation
 summary: Writer and critic Cole Swensen joins Lee Ann Brown, poet and founding
   editor of Tender Buttons Press, alongside authors Anne Waldman and Lucia
