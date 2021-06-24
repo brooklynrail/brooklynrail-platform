@@ -1,8 +1,8 @@
 ---
 title: Hashim Sarkis with Paul D. Miller
-summary: Architect, educator, and scholar Hashim Sarkis joins Paul D. Miller for
-  a conversation on the 2021 Venice Architecture Biennale. We conclude with a
-  poetry reading.
+summary: Architect, educator, and scholar Hashim Sarkis joins Rail
+  Editor-at-Large Paul D. Miller for a conversation on the 2021 Venice
+  Architecture Biennale. We conclude with a poetry reading.
 people:
   - person: hashim-sarkis
     related_links:
