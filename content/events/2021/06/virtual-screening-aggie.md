@@ -23,6 +23,6 @@ event_platform: null
 
 **[With an introduction by *Rail* Publisher & Artistic Director Phong H. Bui](https://vimeo.com/567117834)**.  
 
-A very special thanks to Aubin Pictures and Strand Releasing for making this screening possible. 
+A very special thanks to director Catherine Gund, Aubin Pictures, and Strand Releasing for making this screening possible. 
 
 **[Read more and view the trailer on the film's website »](https://aggiefilm.com/)**
