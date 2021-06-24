@@ -2,10 +2,10 @@
 title: A Conversation on Albert Pinkham Ryder
 deck: Featuring William C. Agee, Christina Connett Brophy, Elizabeth Broun, Bill
   Jensen, and Chris Martin in conversation with Choghakate Kazarian
-summary: "Art historians and curators William C. Agee, Christina Connett Brophy,
+summary: Art historians and curators William C. Agee, Christina Connett Brophy,
   Elizabeth Broun and artists Bill Jensen and Chris Martin join Rail
   Editor-at-Large Choghakate Kazarian for a conversation. We conclude with a
-  poetry reading. "
+  poetry reading by Ali Van.
 people:
   - person: william-c-agee
   - person: christina-connett-brophy
