@@ -5,6 +5,9 @@ summary: Architect, educator, and scholar Hashim Sarkis joins Paul D. Miller for
   poetry reading.
 people:
   - person: hashim-sarkis
+    related_links:
+      - url: https://www.labiennale.org/en/architecture/2021/statement-hashim-sarkis
+        text: How Will We Live Together? Biennale Architettura 2021
   - person: paul-d-miller-aka-dj-spooky
 date: 2021-06-29T13:00:00-0500
 end_date: 2021-06-29T14:30:00-0500
