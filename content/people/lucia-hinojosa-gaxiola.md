@@ -2,7 +2,7 @@
 name: Lucía Hinojosa Gaxiola
 first_name: Lucía
 last_name: Hinojosa Gaxiola
-short_bio: Lucía Hinojosa Gaxiola is an interdisciplinary artist & writer. Her
+short_bio: Interdisciplinary artist and writer **Lucía Hinojosa Gaxiola's**
   time-based practice develops through ephemeral gestures that result in a
   corpus of text-based, visual and sound pieces. She’s the artistic director of
   diSONARE, an experimental editorial project from Mexico City. She recently
@@ -11,5 +11,6 @@ short_bio: Lucía Hinojosa Gaxiola is an interdisciplinary artist & writer. Her
   Estado de México.
 portraits:
   - media: 2020/11/lucia-hinojosa-gaxiola
+rail_contributor_url: https://brooklynrail.org/contributor/lucia-hinojosa
 website: https://www.luciahinojosa.com/
 ---
