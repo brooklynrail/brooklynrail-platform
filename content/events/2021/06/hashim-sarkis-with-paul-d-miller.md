@@ -1,8 +1,8 @@
 ---
 title: Hashim Sarkis with Paul D. Miller
 summary: Architect, educator, and scholar Hashim Sarkis joins Rail
-  Editor-at-Large Paul D. Miller for a conversation on the 2021 Venice
-  Architecture Biennale. We conclude with a poetry reading.
+  Editor-at-Large Paul D. Miller for a conversation on La Biennale di Venezia
+  2021. We conclude with a poetry reading.
 people:
   - person: hashim-sarkis
     related_links:
@@ -18,7 +18,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: recN37ADtzJ70muJp
 event_platform:
   - zoom
-event_id: recN37ADtzJ70muJp
 ---
