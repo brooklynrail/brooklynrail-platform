@@ -1,0 +1,55 @@
+<section id="register">
+  <div class="grid-container grid-container-tablet-lg">
+    <div class="grid-row">
+      <div class="grid-col-12 tablet:grid-col-10 tablet:grid-offset-1">
+        <h2>🎟 Register</h2>
+        <div class="register-copy">
+          <div>
+            <p><strong>{{ .page.Title -}}</strong></p>
+            {{- with .page.Params.Deck -}}
+              <p class="deck">
+                {{- . | markdownify -}}
+              </p>
+            {{- end -}}
+            {{ with .page.Date }}
+              {{ $start_date := . }}
+              <p class="date"><i class="far fa-calendar"></i>&nbsp;
+              <time class="dt-start" datetime="{{- dateFormat "2006-01-02T15:04:05Z07:00" (time $start_date) -}}">{{- dateFormat "Mon, Jan 2" (time $start_date) -}}</time>
+              &nbsp;at&nbsp;
+              {{ if gt $start_date.Minute 0 -}}{{- dateFormat "3:04" (time $start_date) -}}{{- else -}}{{- dateFormat "3" (time $start_date) -}}{{- end -}}&nbsp;
+              {{- $event_start_time_suffix := dateFormat "PM" (time $start_date) -}}
+              {{- $event_start_time_suffix := replace $event_start_time_suffix "PM" "p.m." -}}
+              {{- $event_start_time_suffix := replace $event_start_time_suffix "AM" "a.m." -}}
+              {{- $event_start_time_suffix -}}&nbsp;ET <span>/</span>
+              {{ $event_start_time_suffix_pt := dateFormat "PM" ((time $start_date).Add ( -3 | duration "hour" )) -}}
+              {{- $event_start_time_suffix_pt := replace $event_start_time_suffix_pt "PM" "p.m." -}}
+              {{- $event_start_time_suffix_pt := replace $event_start_time_suffix_pt "AM" "a.m." -}}
+              {{- if gt $start_date.Minute 0 -}}{{- dateFormat "3:04" ((time $start_date).Add ( -3 | duration "hour" )) -}}{{- else -}}{{- dateFormat "3" ((time $start_date).Add ( -3 | duration "hour" )) -}}{{- end -}}&nbsp;{{- $event_start_time_suffix_pt -}}&nbsp;PT</p>
+            {{ end }}  
+          </div>
+          
+        </div>
+        
+        
+      </div>
+    </div>
+    <div class="grid-row">
+      <div class="grid-col-12 tablet:grid-col-10 tablet:grid-offset-1">
+        <div class="event-register">
+          <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrZwZHHxdeEANeeT?backgroundColor=orangeLight&prefill_Event+IDs={{- .event_id -}}" frameborder="0" onmousewheel="" width="100%" height="1062"></iframe>
+        </div>
+      </div>
+    </div>
+    <div class="grid-row">
+      <div class="grid-col-12 tablet:grid-col-10 tablet:grid-offset-1">
+        <div class="event-logistics">
+          {{- partial "event-logistics" . | markdownify -}}
+          {{- partial "tags.html" . -}}
+        </div>
+      </div>
+    </div>
+    
+    
+  </div>
+</section>
+

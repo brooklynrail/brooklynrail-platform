@@ -1,0 +1,28 @@
+
+#register {
+  @include u-padding-y('205');
+  @include u-bg('gray-warm-5');
+  h2{
+    @include u-font('sans', 'xl');
+  }
+  .event-register{
+    @include u-margin-y(5);
+  }
+  .register-copy{
+    @include u-bg('white');
+    @include u-radius('md');
+    @include u-padding-y('105');
+    @include u-padding-x('205');
+    @include u-font('sans', 'md');
+    @include u-display('flex');
+    p{
+      @include u-margin-top(0);
+      @include u-margin-bottom(1);
+    }
+    .date{
+      @include u-text('indigo-warm-60v');
+      @include u-text('medium');
+      @include u-font('sans', 'sm');
+    }
+  }
+}
