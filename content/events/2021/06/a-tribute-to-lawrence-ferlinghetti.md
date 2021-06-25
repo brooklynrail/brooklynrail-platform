@@ -25,6 +25,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: DhFUS_RGq8k
 registration_url: https://www.eventbrite.com/e/copy-of-new-social-environment-326-a-tribute-to-lawrence-ferlinghetti-tickets-160253846569
 event_platform:
   - zoom
