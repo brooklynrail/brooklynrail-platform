@@ -20,5 +20,6 @@ event_producer:
   - the-brooklyn-rail
 event_platform:
   - zoom
+event_id: recbQvoPdMZ8t6kBi
 ---
 Publishing-in-Transit is a new monthly series celebrating contemporary literary editors, all of the often-unrecognized work that they do, and the community-based and conversational nature of contemporary innovative literary publishing. View the [first installment](https://brooklynrail.org/events/2021/06/10/publishing-in-transit-new-york-review-of-books/) featuring New York Review Books here.

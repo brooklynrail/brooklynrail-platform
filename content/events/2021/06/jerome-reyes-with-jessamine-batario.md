@@ -15,7 +15,7 @@ event_organizer:
 event_producer:
   - the-brooklyn-rail
 registration_url: ""
+event_id: recBC1s9WuZVFq83X 
 event_platform:
   - zoom
-event_platform_url: ""
 ---
