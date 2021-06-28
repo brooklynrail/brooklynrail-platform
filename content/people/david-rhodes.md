@@ -5,7 +5,11 @@ last_name: Rhodes
 pronouns: he/him
 short_bio: New York-based artist and writer **David Rhodes** is originally from
   Manchester, UK. He is a regular contributor to the _Brooklyn Rail_ and  has
-  published reviews in _Artforum_, _artcritical_, among other publications.
+  published reviews in _Artforum_, _artcritical_, among other publications. He
+  has paintings in the permanent collections of The Museum of Fine Arts Houston
+  and The Huntington Museum, Los Angeles. He published a book on Bernard Frize
+  in 2019, part of the Lund Humphries series on contemporary painting, edited by
+  Barry Schwabsky.
 portraits:
   - media: 2021/06/david-rhodes
 rail_contributor_url: https://brooklynrail.org/contributor/David-Rhodes
