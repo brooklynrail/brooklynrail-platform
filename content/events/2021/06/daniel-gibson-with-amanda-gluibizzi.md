@@ -10,7 +10,7 @@ people:
   - person: amanda-gluibizzi
 date: 2021-07-06T13:00:00-0500
 end_date: 2021-07-06T14:00:00-0500
-series: 334
+series: 335
 collections:
   - the-new-social-environment
 event_organizer:
