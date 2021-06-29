@@ -3,7 +3,7 @@ name: Lilly Wei
 first_name: Lilly
 last_name: Wei
 short_bio: "New York-based independent curator, writer, journalist and critic
-  **Lill Wei** writes on global contemporary art and emerging art and artists,
+  **Lilly Wei** writes on global contemporary art and emerging art and artists,
   reporting frequently on international exhibitions and biennials. She has
   written for dozens of publications here and abroad and is a longtime
   contributor to _Art in America_ and a contributing editor at _ARTnews_. She is
