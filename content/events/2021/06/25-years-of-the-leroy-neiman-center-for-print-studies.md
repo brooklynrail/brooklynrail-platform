@@ -37,12 +37,6 @@ event_producer:
 event_platform:
   - zoom
 ---
-To learn more about the LeRoy Neiman Center for Print Studies at Columbia University, visit their website » 
+[To learn more about the LeRoy Neiman Center for Print Studies at Columbia University, visit their website » ](https://www.neiman.arts.columbia.edu)
 
-Link: <https://www.neiman.arts.columbia.edu/>
-
-
-
-To learn about LeRoy Neiman, visit the foundation’s website »
-
-**Link: <https://www.leroyneimanfoundation.org/>**
+[To learn about LeRoy Neiman, visit the foundation’s website »](https://www.leroyneimanfoundation.org)
