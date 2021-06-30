@@ -1,15 +1,16 @@
 ---
 title: 25 Years of the LeRoy Neiman Center for Print Studies
-deck: Artists Sanford Biggers, Kiki Smith, Sarah Sze, Rirkrit Tiravanija, and
-  Tomas Vu join Lilly Wei for a conversation
-summary: "Artists Sanford Biggers, Kiki Smith, Sarah Sze, Rirkrit Tiravanija,
-  and Tomas Vu join Lilly Wei for a conversation. We will conclude with a poetry
-  reading. "
+deck: Artists Sanford Biggers, Shahzia Sikander, Kiki Smith, Sarah Sze, Rirkrit
+  Tiravanija, and Tomas Vu join Lilly Wei for a conversation
+summary: "Artists Sanford Biggers, Shahzia Sikander, Kiki Smith, Sarah Sze,
+  Rirkrit Tiravanija, and Tomas Vu join Lilly Wei for a conversation. We will
+  conclude with a poetry reading. "
 people:
   - person: sanford-biggers
     related_links:
       - url: https://brooklynrail.org/2021/03/art/SANFORD-BIGGERS-with-Yasi-Alipour
         text: "Sanford Biggers in conversation with Yasi Alipour "
+  - person: shahzia-sikander
   - person: kiki-smith
     related_links: []
   - person: sarah-sze
