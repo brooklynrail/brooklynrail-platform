@@ -9,19 +9,6 @@ people:
         text: "Sanford Biggers in conversation with Yasi Alipour "
   - person: amanda-gluibizzi
     related_links: []
-  - person: sarah-sze
-    related_links:
-      - text: "Sarah Sze in conversation with Phong H. Bui "
-        url: https://brooklynrail.org/2010/10/art/phong-bui-with-sarah-sze
-  - person: rirkrit-tiravanija
-    related_links:
-      - url: https://brooklynrail.org/2004/02/art/rirkrit-tiravanija
-        text: Rirkrit Tiravanija in conversation with Delia Bajo and Brainard Carey
-  - person: tomas-vu
-    related_links:
-      - text: Tomas Vu in conversation with Phong H. Bui
-        url: https://brooklynrail.org/2019/09/art/TOMAS-VU-with-Phong-Bui
-  - person: lilly-wei
 date: 2021-07-06T13:00:00-0500
 end_date: 2021-07-06T14:00:00-0500
 series: 335
