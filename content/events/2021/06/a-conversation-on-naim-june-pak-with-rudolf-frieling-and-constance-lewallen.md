@@ -1,7 +1,8 @@
 ---
 title: "A Conversation on Nam June Paik with Rudolf Frieling and Constance Lewallen "
 summary: "Curator Rudolf Frieling joins Rail Editor-at-Large Constance Lewallen
-  for a conversation on Nam June Paik. We conclude with a poetry reading. "
+  for a conversation on Nam June Paik. We conclude with a musical performance by
+  Clara Joy. "
 people:
   - person: rudolph-frieling
     related_links:
