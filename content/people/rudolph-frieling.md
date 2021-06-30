@@ -1,6 +1,6 @@
 ---
-name: Rudolph Frieling
-first_name: Rudolph
+name: Rudolf Frieling
+first_name: Rudolf
 last_name: Frieling
 short_bio: "Curator of Media Arts at the San Francisco Museum of Modern Art
   (SFMOMA), **Rudolf Frieling** is  the co-curator of the recent retrospectives
