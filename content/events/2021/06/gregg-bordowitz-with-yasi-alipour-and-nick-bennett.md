@@ -9,6 +9,8 @@ people:
         text: "Gregg Bordowitz: I Wanna Be Well at MoMA PS1"
       - url: https://brooklynrail.org/2020/07/art/GREGG-BORDOWITZ-with-Yasi-Alipour
         text: Gregg Bordowitz in conversation with Yasi Alipour
+  - person: yasi-alipour
+  - person: nick-bennett-1
 date: 2021-07-16T13:00:00-0500
 end_date: 2021-07-16T14:00:00-0500
 series: 343
