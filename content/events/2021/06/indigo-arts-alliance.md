@@ -1,8 +1,9 @@
 ---
 title: Indigo Arts Alliance
 deck: Cultivating the artistic development of people of African descent
-summary: "Co-founders Marcia and Daniel Minter join Jessamine Batario for a
-  conversation. We conclude with a poetry reading by Brandon Wint. "
+summary: "Co-founders Marcia and Daniel Minter join art historian Jessamine
+  Batario for a conversation. We conclude with a poetry reading by Brandon Wint.
+  "
 people:
   - person: marcia-minter
   - person: daniel-minter
