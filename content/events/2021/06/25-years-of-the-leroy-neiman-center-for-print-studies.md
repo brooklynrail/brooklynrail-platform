@@ -3,7 +3,7 @@ title: 25 Years of the LeRoy Neiman Center for Print Studies
 deck: Artists Sanford Biggers, Shahzia Sikander, Kiki Smith, Sarah Sze, Rirkrit
   Tiravanija, and Tomas Vu join Lilly Wei for a conversation
 summary: "Artists Sanford Biggers, Shahzia Sikander, Kiki Smith, Sarah Sze,
-  Rirkrit Tiravanija, and Tomas Vu join Lilly Wei for a conversation. We will
+  Rirkrit Tiravanija, and Tomas Vu join Lilly Wei for a conversation. We
   conclude with a poetry reading. "
 people:
   - person: sanford-biggers
