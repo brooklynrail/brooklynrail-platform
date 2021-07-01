@@ -1,9 +1,9 @@
 ---
 title: Radical Poetry Reading with Neeli Cherkovski
-deck: Featuring poetry read by Kyle Harvey, Danny Rosen, Seth Amos, Cherkovski,
+deck: Featuring poetry read by Seth Amos, Kyle Harvey, Danny Rosen, Cherkovski,
   and friends
-summary: Neeli Cherkovski curates the 43rd Radical Poetry Reading featuring Kyle
-  Harvey, Danny Rosen, Seth Amos, and friends.
+summary: Neeli Cherkovski curates the 43rd Radical Poetry Reading featuring Seth
+  Amos, Kyle Harvey, Danny Rosen, and friends.
 people:
   - person: neeli-cherkovski
   - person: seth-amos
