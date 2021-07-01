@@ -8,6 +8,8 @@ people:
   - person: marcia-minter
   - person: daniel-minter
   - person: jessamine-batario
+poets:
+  - person: brandon-wint
 date: 2021-07-08T13:00:00-0500
 end_date: 2021-07-08T14:00:00-0500
 series: 337
