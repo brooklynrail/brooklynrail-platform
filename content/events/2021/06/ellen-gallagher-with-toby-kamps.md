@@ -1,7 +1,7 @@
 ---
 title: Ellen Gallagher with Toby Kamps
-summary: "Artist Ellen Gallagher joins Rail Editor-at-Large Toby Kamps for a
-  conversation. We conclude with a musical performance by Laszlo Horvath. "
+summary: Artist Ellen Gallagher joins Rail Editor-at-Large Toby Kamps for a
+  conversation. We conclude with a poetry reading.
 people:
   - person: ellen-gallagher
     related_links:
