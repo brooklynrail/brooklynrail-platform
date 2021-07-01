@@ -9,6 +9,8 @@ people:
         text: "Sanford Biggers in conversation with Yasi Alipour "
   - person: amanda-gluibizzi
     related_links: []
+poets:
+  - person: anna-gurton-wachter
 date: 2021-07-06T13:00:00-0500
 end_date: 2021-07-06T14:00:00-0500
 series: 335
