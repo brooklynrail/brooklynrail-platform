@@ -11,8 +11,9 @@ short_bio: Poet, book publisher, and founding editor of Tender Buttons Press,
   In 1989, Brown founded Tender Buttons Press, which is dedicated to publishing
   experimental women’s poetry. She has taught at Brown University, Naropa
   University, Bard College, and elsewhere, and held fellowships with the
-  MacDowell Colony, Yaddo, and others. She is currently the Judith E. Wilson
-  Poetry Fellow at Cambridge University.
+  MacDowell Colony, Yaddo, and others. From 2017–18, she was the Judith E.
+  Wilson Poetry Fellow at Cambridge University.
 portraits:
   - media: 2021/06/lee-ann-brown
+rail_contributor_url: https://brooklynrail.org/contributor/lee-ann-brown
 ---
