@@ -2,7 +2,7 @@
 name: Sarah Sze
 first_name: Sarah
 last_name: Sze
-short_bio: Artist **Sarah Sze** makes work that attempts to navigate and model
+short_bio: Artist **Sarah Sze** makes work that strives to navigate and model
   the ceaseless proliferation of information and objects in contemporary life.
   Incorporating elements of painting, architecture, and installation within her
   sculpture, Sze investigates the value we place on objects and explores how
