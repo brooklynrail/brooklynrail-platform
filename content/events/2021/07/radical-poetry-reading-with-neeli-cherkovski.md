@@ -7,9 +7,9 @@ summary: Neeli Cherkovski curates the 43rd Radical Poetry Reading featuring Seth
 people:
   - person: neeli-cherkovski
   - person: seth-amos
+  - person: aggie-falk
   - person: kyle-harvey
   - person: danny-rosen
-  - person: aggie-falk
 date: 2021-07-07T13:00:00-0500
 end_date: 2021-07-07T14:30:00-0500
 series: 336
