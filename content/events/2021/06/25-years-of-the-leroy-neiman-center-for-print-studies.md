@@ -2,9 +2,9 @@
 title: 25 Years of the LeRoy Neiman Center for Print Studies
 deck: Artists Sanford Biggers, Shahzia Sikander, Kiki Smith, Sarah Sze, Rirkrit
   Tiravanija, and Tomas Vu join Lilly Wei for a conversation
-summary: "Artists Sanford Biggers, Shahzia Sikander, Kiki Smith, Sarah Sze,
+summary: Artists Sanford Biggers, Shahzia Sikander, Kiki Smith, Sarah Sze,
   Rirkrit Tiravanija, and Tomas Vu join Lilly Wei for a conversation. We
-  conclude with a poetry reading. "
+  conclude with a poetry reading by Noa Mendoza.
 people:
   - person: sanford-biggers
     related_links:
@@ -26,6 +26,8 @@ people:
       - text: Tomas Vu in conversation with Phong H. Bui
         url: https://brooklynrail.org/2019/09/art/TOMAS-VU-with-Phong-Bui
   - person: lilly-wei
+poets:
+  - person: noa-mendoza
 date: 2021-07-05T13:00:00-0500
 end_date: 2021-07-05T14:00:00-0500
 series: 334
