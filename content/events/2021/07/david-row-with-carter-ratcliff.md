@@ -13,7 +13,8 @@ people:
     related_links:
       - text: What is Art—and Why Even Ask?
         url: https://brooklynrail.org/2013/09/editorsmessage/what-is-artand-why-even-ask
-poets: []
+poets:
+  - person: evan-kennedy
 date: 2021-07-09T13:00:00-0500
 end_date: 2021-07-09T14:30:00-0500
 series: 338
