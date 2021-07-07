@@ -10,7 +10,8 @@ people:
   - person: karina-aquilera-skvirsky
   - person: adan-vallecillo
   - person: dan-cameron
-poets: []
+poets:
+  - person: celina-su
 date: 2021-07-15T13:00:00-0500
 end_date: 2021-07-15T14:30:00-0500
 collections:
