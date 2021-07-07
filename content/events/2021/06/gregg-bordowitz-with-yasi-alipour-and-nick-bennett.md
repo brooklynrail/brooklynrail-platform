@@ -1,7 +1,8 @@
 ---
 title: Gregg Bordowitz with Yasi Alipour and Nick Bennett
-summary: "Artist Gregg Bordowitz joins artist and writer Yasi Alipour and writer
-  Nick Bennett for a conversation. We conclude with a poetry reading. "
+summary: Artist Gregg Bordowitz joins artist and writer Yasi Alipour and writer
+  Nick Bennett for a conversation. We conclude with a musical performance by
+  Laszlo Horvath.
 people:
   - person: gregg-bordowitz
     related_links:
@@ -11,6 +12,8 @@ people:
         text: Gregg Bordowitz in conversation with Yasi Alipour
   - person: yasi-alipour
   - person: nick-bennett-1
+poets:
+  - person: laszlo-horvath
 date: 2021-07-16T13:00:00-0500
 end_date: 2021-07-16T14:00:00-0500
 series: 343
