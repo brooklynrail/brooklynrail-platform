@@ -1,6 +1,6 @@
 ---
-title: Senga Negudi and Amanda Sroka with Jason Rosenfeld
-summary: Artist Senga Negudi and curator Amanda Sroka join Rail Editor-at-Large
+title: Senga Nengudi and Amanda Sroka with Jason Rosenfeld
+summary: Artist Senga Nengudi and curator Amanda Sroka join Rail Editor-at-Large
   Jason Rosenfeld for a conversation. We conclude with a poetry reading.
 people:
   - person: senga-negudi
