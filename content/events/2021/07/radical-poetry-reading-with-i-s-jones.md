@@ -4,12 +4,13 @@ deck: Featuring poetry read by Camonghne Felix, Patrycja Humienik, Ladan Osman,
   and Gaia Rajan
 summary: I.S. Jones curates the 45th Radical Poetry Reading featuring poetry
   read by immigrant daughters Camonghne Felix, Patrycja Humienik, Ladan Osman,
-  and Gaia Rajann.
+  and Gaia Rajan.
 people:
   - person: i-s-jones-1
   - person: camonghne-felix
   - person: patrycja-humienik
   - person: ladan-osman
+  - person: gaia-rajan
 date: 2021-07-14T13:00:00-0500
 end_date: 2021-07-14T14:30:00-0500
 series: 341
