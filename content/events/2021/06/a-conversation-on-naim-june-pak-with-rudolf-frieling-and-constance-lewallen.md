@@ -12,7 +12,7 @@ people:
 poets:
   - person: clara-joy
 date: 2021-07-12T13:00:00-0500
-end_date: 2021-07-05T14:30:00-0500
+end_date: 2021-07-12T14:30:00-0500
 series: 339
 collections:
   - the-new-social-environment
