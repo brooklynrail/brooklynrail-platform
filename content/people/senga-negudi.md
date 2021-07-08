@@ -1,5 +1,5 @@
 ---
-name: Senga Negudi
+name: Senga Nengudi
 first_name: Senga
 last_name: Negudi
 short_bio: Born in Chicago in 1943, **Senga Nengudi** lives and works in
