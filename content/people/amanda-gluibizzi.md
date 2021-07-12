@@ -2,8 +2,8 @@
 name: Amanda Gluibizzi
 first_name: Amanda
 last_name: Gluibizzi
-short_bio: "Formerly Associate Professor at Ohio State University, Amanda
-  Gluibizzi is the founding Co-Director of the New Foundation for Art History
+short_bio: "Formerly Associate Professor at Ohio State University, **Amanda
+  Gluibizzi** is the founding Co-Director of the New Foundation for Art History
   (NFAH) and Artseen Editor for the _Brooklyn Rail_. She specializes in mid- and
   late-20th century art, design, and urbanism in the United States, Europe, and
   Latin America. Amanda is the author of _Art and Design in 1960s New York_
