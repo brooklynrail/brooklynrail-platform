@@ -33,9 +33,9 @@ During the weeks of July 19 and 26, we are celebrating the sections that make th
 
 
 
-### Monday, July 19, 2021: Field Notes 
+### Monday, July 19, 2021: Field Notes
 
-A conversation with Dean of Public Health at Drexel University Ana Diez Roux and Field Notes editor Paul Mattick 
+A conversation with writer and communist geographer Phil A. Neel and Field Notes editor Paul Mattick 
 
 ### Tuesday, July 20, 2021: Artseen + ArTonic
 
