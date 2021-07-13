@@ -24,16 +24,15 @@ event_platform:
 ---
 On Thursday, July 22, Books editor Joseph Salvatore is joined by writers John Domini, Yvonne C. Garrett, Tony Leuzzi, Tanjil Rashid, and Andrea Scrima for a conversation on the passions and rationales for book criticism at this moment.
 
-
-During the weeks of July 19 and 26, we are celebrating the sections that make the Brooklyn Rail with curated conversations, performances, and readings by our section editors. RSVP for this event or any others below to receive a selection of links to videos and additional reading and viewing materials.
-
-
-
-## This week’s schedule: 
+During the weeks of July 19 and 26, we are celebrating the sections that make the *Brooklyn Rail* with curated conversations, performances, and readings by our section editors. RSVP for this event or any others below to receive a selection of links to videos and additional reading and viewing materials.
 
 
 
-### Monday, July 19, 2021: Field Notes 
+### This week’s schedule
+
+
+
+### Monday, July 19, 2021: Field Notes
 
 A conversation with Dean of Public Health at Drexel University Ana Diez Roux and Field Notes editor Paul Mattick 
 
