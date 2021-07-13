@@ -1,8 +1,8 @@
 ---
 title: "It's Complicated: Race & Ethnicity in Latin American Art"
-deck: Featuring Flávio Cerqueira, Karina Aquilera Skvirsky, and Adán Vallecillo
+deck: Featuring Flávio Cerqueira, Karina Aguilera Skvirsky, and Adán Vallecillo
   in conversation with Dan Cameron
-summary: Artists Flávio Cerqueira, Karina Aquilera Skvirsky, and Adán Vallecillo
+summary: Artists Flávio Cerqueira, Karina Aguilera Skvirsky, and Adán Vallecillo
   join Rail Editor-at-Large Dan Cameron for a conversation. We conclude with a
   poetry reading by Celina Su.
 people:
