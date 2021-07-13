@@ -5,10 +5,12 @@ deck: "A conversation with Benjamin Clifford, Amanda Gluibizzi, Jessica Holmes,
 summary: Join us for a week of conversations, performances, and readings curated
   by the Rail’s section editors.
 people:
-  - person: benjamin-clifford
+  - person: john-domini
   - person: amanda-gluibizzi
-  - person: jessica-holmes
+  - person: tony-leuzzi
   - person: charles-schultz
+  - person: andrea-scrima
+  - person: joseph-salvatore
 date: 2021-07-20T13:00:00-0500
 end_date: 2021-07-20T14:30:00-0500
 series: ""
@@ -17,7 +19,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
-event_id: recZRflaFZRkGOgdH
+event_id: ""
 event_platform:
   - youtube
 ---
