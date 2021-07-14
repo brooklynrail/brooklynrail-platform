@@ -8,6 +8,9 @@ people:
   - person: thomas-fichter
   - person: darius-jones
   - person: patricia-nicholson-parker
+    related_links:
+      - url: https://www.artsforart.org/vision.html
+        text: Vision Festival
   - person: george-grella
 date: 2021-07-23T13:00:00-0500
 end_date: 2021-07-23T14:30:00-0500
