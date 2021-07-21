@@ -1,0 +1,31 @@
+---
+title: "Summer Series: Film"
+deck: A conversation with Harrison Blackman, Anthony Hawley, Daniel LoPilato,
+  Ella Turenne, Edward Charles Mendez, and Laura Jane Valenza
+summary: Join us for a week of conversations, performances, and readings curated
+  by the Rail’s section editors.
+people:
+  - person: harrison-blackman
+  - person: anthony-hawley
+  - person: daniel-lopilato
+  - person: ella-turenne
+  - person: edward-charles-mendez
+  - person: laura-jane-valenza
+date: 2021-07-27T13:00:00-0500
+end_date: 2021-07-27T14:30:00-0500
+collections: []
+event_organizer:
+  - the-brooklyn-rail
+event_producer:
+  - the-brooklyn-rail
+event_id: rec8ikfRs4ax2ZfRM
+portraits:
+  - media: 2021/07/daniel-lopilato
+event_platform:
+  - youtube
+---
+This summer, we are celebrating the sections of the *Brooklyn Rail* with conversations, performances, and readings curated by our editors. This 2-week YouTube video series offers a view behind the scenes with the editors, artists, and writers that make the publication.
+
+On Monday, July 26, Film editors Edward Charles Mendez and Laura Jane Valenza are joined by writers Harrison Blackman, Anthony Hawley, Daniel LoPilato, and Ella Turenne for a conversation on film criticism. 
+
+Check out the other events this week devoted to our sections [](https://brooklynrail.org/events/2021/07/20/summer-series-artseen-and-artonic/)[](https://brooklynrail.org/events/2021/07/19/summer-series-field-notes/)**Dance**, [](https://brooklynrail.org/events/2021/07/20/summer-series-artseen-and-artonic/)**Theater**, [](https://brooklynrail.org/events/2021/07/22/summer-series-books/)**Poetry**, and [](https://brooklynrail.org/events/2021/07/23/summer-series-music/)**Fiction**. Register below to one, some, or all of these events to receive selected materials for each episode.
