@@ -10,8 +10,9 @@ short_bio: "Poet and a scholar, **Charles Bernstein** is a foundational member
   has published dozens of books, including poetry as well as essay collections,
   pamphlets, translations, collaborations, and libretti. His poetry has been
   widely anthologized and translated, and it has appeared in over 500 magazines
-  and periodicals. His most recent book _Topsy-Turvy_ will be released later
-  this month by the University of Chicago Press. "
+  and periodicals. His most recent book _Topsy-Turvy_ was published by the
+  University of Chicago Press. "
 portraits:
   - media: 2021/01/charles-bernstein
+rail_contributor_url: https://brooklynrail.org/contributor/charles-bernstein
 ---
