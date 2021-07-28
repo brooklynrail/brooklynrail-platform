@@ -26,6 +26,6 @@ event_platform:
 ---
 This summer, we are celebrating the sections of the *Brooklyn Rail* with conversations, performances, and readings curated by our editors. This 2-week YouTube video series offers a view behind the scenes with the editors, artists, and writers that make the publication.
 
-On Monday, July 26, Film editors Edward Charles Mendez and Laura Jane Valenza are joined by writers Harrison Blackman, Anthony Hawley, Daniel LoPilato, and Ella Turenne for a conversation on film criticism. 
+On Tuesday, July 27, Film editors Edward Charles Mendez and Laura Jane Valenza are joined by writers Harrison Blackman, Anthony Hawley, Daniel LoPilato, and Ella Turenne for a conversation on film criticism. 
 
 Check out the other events this week devoted to our sections [](https://brooklynrail.org/events/2021/07/20/summer-series-artseen-and-artonic/)[](https://brooklynrail.org/events/2021/07/19/summer-series-field-notes/)**[Dance](https://brooklynrail.org/events/2021/07/26/summer-series-dance/)**, [](https://brooklynrail.org/events/2021/07/20/summer-series-artseen-and-artonic/)**[Theater](https://brooklynrail.org/events/2021/07/28/summer-series-theater/)**, [](https://brooklynrail.org/events/2021/07/22/summer-series-books/)**[Poetry](https://brooklynrail.org/events/2021/07/29/summer-series-poetry/)**, and [](https://brooklynrail.org/events/2021/07/23/summer-series-music/)**[Fiction](https://brooklynrail.org/events/2021/07/30/summer-series-fiction/)**. Register below to one, some, or all of these events to receive selected materials for each episode.
