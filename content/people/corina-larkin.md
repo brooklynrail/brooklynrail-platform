@@ -10,6 +10,8 @@ short_bio: "Visual artist and writer **Corina Larkin** is the Executive Director
   She holds degrees from Purchase College, Cornell University, the University of
   Pennsylvania and SAIS/Johns Hopkins University. Prior to assuming the position
   of Executive Director, Ms. Larkin served on CUE’s board for eight years. "
+portraits:
+  - media: 2021/07/corina-larkin
 rail_contributor_url: https://brooklynrail.org/contributor/corina-larkin
 website: https://cueartfoundation.org/
 ---
