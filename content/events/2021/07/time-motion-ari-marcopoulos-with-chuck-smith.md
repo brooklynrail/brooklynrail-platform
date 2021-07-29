@@ -10,6 +10,9 @@ people:
           2021"
         url: https://red-walrus-nrna.squarespace.com/exhibitions/new-portfolio-item
   - person: robert-slifkin
+    related_links:
+      - text: "Ari Marcopoulos: Fast Breaks"
+        url: https://brooklynrail.org/2020/09/artseen/Ari-Marcopoulos-Fast-Breaks
   - person: chuck-smith
 poets:
   - person: laura-henrikson
