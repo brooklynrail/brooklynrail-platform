@@ -1,14 +1,15 @@
 ---
-title: "Time Motion: Ari Marcopoulos with Chuck Smith"
-summary: Artist, filmmaker, and photographer Ari Marcopoulos joins filmmaker
-  Chuck Smith for a conversation. We conclude with a poetry reading by Laura
-  Henrikson.
+title: "Time Motion: Ari Marcopoulos with Robert Slifkin and Chuck Smith"
+summary: Artist, filmmaker, and photographer Ari Marcopoulos joins writer Robert
+  Slifkin and filmmaker Chuck Smith for a conversation. We conclude with a
+  poetry reading by Laura Henrikson.
 people:
   - person: ari-marcopoulos
     related_links:
       - text: "Ari Marcopoulos: Time Motion at Archive Project Space through August 28,
           2021"
         url: https://red-walrus-nrna.squarespace.com/exhibitions/new-portfolio-item
+  - person: robert-slifkin
   - person: chuck-smith
 poets:
   - person: laura-henrikson
