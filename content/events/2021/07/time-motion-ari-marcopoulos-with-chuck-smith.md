@@ -10,7 +10,8 @@ people:
           2021"
         url: https://red-walrus-nrna.squarespace.com/exhibitions/new-portfolio-item
   - person: chuck-smith
-poets: []
+poets:
+  - person: laura-henrikson
 date: 2021-08-02T13:00:00-0500
 end_date: 2021-08-02T14:30:00-0500
 series: 354
