@@ -21,3 +21,4 @@ event_id: recyNrNVs4ik9l53p
 event_platform:
   - zoom
 ---
+More participants to be announced!
