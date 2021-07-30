@@ -1,6 +1,6 @@
 ---
-name: Theodore S. Berger
-first_name: Theodore
+name: Ted Berger
+first_name: Ted
 last_name: Berger
 pronouns: he/him
 short_bio: Arts funder, advocate, and activist **Ted Berger** is the Executive
