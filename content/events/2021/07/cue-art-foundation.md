@@ -4,7 +4,8 @@ deck: Featuring Ted Berger, Miatta Kawinzi, Corina Larkin, Kambui Olujimi, Lilly
   Wei, and Ann C. Collins in conversation
 summary: CUE Executive Director Corina Larkin, Board Members Ted Berger and
   Lilly Wei, and artists Miatta Kawinzi and Kambui Olujimi join Rail contributor
-  Ann C. Collins for a conversation. We conclude with a poetry reading.
+  Ann C. Collins for a conversation. We conclude with a poetry reading by Miatta
+  Kawinzi.
 people:
   - person: theodore-s-berger
   - person: miatta-kawinzi
