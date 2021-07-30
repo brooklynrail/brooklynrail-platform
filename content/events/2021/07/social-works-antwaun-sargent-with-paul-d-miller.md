@@ -11,6 +11,8 @@ people:
       - text: "New Black Vanguard: Photography between Art and Fashion (Aperture, 2019)"
         url: https://aperture.org/new-and-noteworthy/the-new-black-vanguard-photography-between-art-and-fashion/
   - person: paul-d-miller-aka-dj-spooky
+poets:
+  - person: lucia-hinojosa-gaxiola
 date: 2021-08-06T13:00:00-0500
 end_date: 2021-08-06T14:30:00-0500
 series: 358
