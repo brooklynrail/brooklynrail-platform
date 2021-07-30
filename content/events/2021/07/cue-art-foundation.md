@@ -1,10 +1,10 @@
 ---
 title: CUE Art Foundation
-deck: Featuring Theodore S. Berger, Corina Larkin, Kambui Olujimi, Lilly Wei,
-  and Ann C. Collins in conversation
-summary: CUE Executive Director Corina Larkin, Board Members Theodore S. Berger
-  and Lilly Wei, and artist Kambui Olujimi join Rail contributor Ann C. Collins
-  for a conversation. We conclude with a poetry reading.
+deck: Featuring Ted Berger, Corina Larkin, Kambui Olujimi, Lilly Wei, and Ann C.
+  Collins in conversation
+summary: CUE Executive Director Corina Larkin, Board Members Ted Berger and
+  Lilly Wei, and artist Kambui Olujimi join Rail contributor Ann C. Collins for
+  a conversation. We conclude with a poetry reading.
 people:
   - person: theodore-s-berger
   - person: corina-larkin
