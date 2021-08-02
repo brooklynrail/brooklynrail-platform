@@ -11,6 +11,13 @@ people:
   - person: miatta-kawinzi
   - person: corina-larkin
   - person: kambui-olujimi-1
+    related_links:
+      - text: Fantasy America on view at the Warhol Museum, Pittsburgh through August
+          30, 2021
+        url: https://www.warhol.org/exhibition/fantasy-america/
+      - text: New Histories, New Futures on view at the Cleveland Museum of Art through
+          September 12, 2021
+        url: https://www.clevelandart.org/exhibitions/new-histories-new-futures
   - person: lilly-wei
   - person: ann-c-collins
 date: 2021-08-05T13:00:00-0500
