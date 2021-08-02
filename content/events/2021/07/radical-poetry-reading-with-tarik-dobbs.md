@@ -10,11 +10,11 @@ people:
     related_links:
       - text: Field of No Justice (Akashic Books 2021)
         url: https://www.saraelkamel.com/chapbook
-poets:
   - person: torrin-a-greathouse
     related_links:
       - text: Wound from the Mouth of a Wound (Milkweed Editions 2020)
         url: https://milkweed.org/book/wound-from-the-mouth-of-a-wound
+poets: []
 date: 2021-08-04T13:00:00-0500
 end_date: 2021-08-04T14:30:00-0500
 series: 356
