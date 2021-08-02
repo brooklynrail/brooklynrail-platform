@@ -1,8 +1,8 @@
 ---
 title: Radical Poetry Reading with Tarik Dobbs
-deck: Featuring poetry read by Steven Duong, Sara Elkamel, and torrin a. greathouse.
+deck: Featuring poetry read by Steven Duong, Sara Elkamel, and torrin a. greathouse
 summary: Tarik Dobbs curates the 46th Radical Poetry Reading featuring poetry
-  read by Steven Duong, Sara Elkamel, and torrin a. greathouse,
+  read by Steven Duong, Sara Elkamel, and torrin a. greathouse.
 people:
   - person: tarik-dobbs
     related_links:
