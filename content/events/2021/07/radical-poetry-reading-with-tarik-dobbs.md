@@ -1,7 +1,7 @@
 ---
 title: Radical Poetry Reading with Tarik Dobbs
-summary: "Tarik Dobbs curates the 46th Radical Poetry Reading featuring poetry
-  read by Dobbs and friends. "
+summary: Tarik Dobbs curates the 46th Radical Poetry Reading featuring poetry
+  read by Steven Duong, Sara Elkamel, and torrin a. greathouse,
 people:
   - person: tarik-dobbs
 date: 2021-08-04T13:00:00-0500
