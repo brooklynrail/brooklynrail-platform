@@ -5,6 +5,9 @@ summary: Tarik Dobbs curates the 46th Radical Poetry Reading featuring poetry
   read by Steven Duong, Sara Elkamel, and torrin a. greathouse,
 people:
   - person: tarik-dobbs
+    related_links:
+      - text: Dancing on the Tarmac (Yemassee 2021)
+        url: https://www.xn--pp8hv5gba.ws/chap
   - person: steven-duong
   - person: sara-elkamel
     related_links:
