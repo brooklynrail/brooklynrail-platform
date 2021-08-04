@@ -8,6 +8,8 @@ people:
   - person: jeffrey-gibson
   - person: carrie-moyer
   - person: dan-cameron
+poets:
+  - person: ama-birch
 date: 2021-08-10T13:00:00-0500
 end_date: 2021-08-10T14:30:00-0500
 series: 360
