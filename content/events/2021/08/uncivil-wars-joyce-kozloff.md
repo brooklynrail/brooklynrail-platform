@@ -2,7 +2,7 @@
 title: "Uncivil Wars: Joyce Kozloff"
 deck: Featuring Joyce Kozloff and Ann McCoy
 summary: Artist Joyce Kozloff joins Rail Editor-at-Large Ann McCoy for a
-  conversation. We conclude with a poetry reading by PJ Lombardo..
+  conversation. We conclude with a poetry reading by PJ Lombardo.
 people:
   - person: joyce-kozloff
     related_links:
@@ -22,3 +22,4 @@ event_id: rec0zvrfsK4Tx6C9e
 event_platform:
   - zoom
 ---
+[Visit the gallery's website for more details on the exhibition **»**](https://www.dcmooregallery.com/exhibitions/joyce-kozloff-uncivil-wars)
