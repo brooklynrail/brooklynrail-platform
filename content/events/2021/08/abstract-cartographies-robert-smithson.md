@@ -8,6 +8,7 @@ summary: Holt/Smithson Foundation Director Lisa Le Feuvre and Dedalus Foundation
 people:
   - person: lisa-le-feuvre
   - person: jack-flam
+  - person: james-meyer
   - person: phyllis-tuchman
 poets:
   - person: gaia-rajan
