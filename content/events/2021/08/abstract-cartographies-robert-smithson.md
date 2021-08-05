@@ -1,10 +1,10 @@
 ---
 title: "Abstract Cartographies: Robert Smithson"
-deck: Featuring Lisa Le Feuvre, Jack Flam, and Phyllis Tuchman
-summary: Holt/Smithson Foundation Director Lisa Le Feuvre and Dedalus Foundation
-  Director Jack Flam join Rail Editor-at-Large Phyllis Tuchman for a
-  conversation on Robert Smithson. We conclude with a poetry reading by Gaia
-  Rajan.
+deck: Featuring Lisa Le Feuvre, Jack Flam, James Meyer, and Phyllis Tuchman
+summary: Holt/Smithson Foundation Director Lisa Le Feuvre, Dedalus Foundation
+  Director Jack Flam, and Curator at the National Gallery of Art James Meyer
+  join Rail Editor-at-Large Phyllis Tuchman for a conversation on Robert
+  Smithson. We conclude with a poetry reading by Gaia Rajan.
 people:
   - person: lisa-le-feuvre
   - person: jack-flam
