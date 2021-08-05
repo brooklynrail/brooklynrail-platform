@@ -1,9 +1,9 @@
 ---
 title: Radical Poetry Reading with Joy Priest
-deck: Featuring poetry read by Gbenga Adesina, Sanam Shariff, Bernardo Wade, and
+deck: Featuring poetry read by Gbenga Adesina, Sanam Sheriff, Bernardo Wade, and
   Taylor Byas
 summary: Joy Priest curates the 47th Radical Poetry Reading featuring poetry
-  read by Gbenga Adesina, Sanam Shariff, Bernardo Wade, and Taylor Byas.
+  read by Gbenga Adesina, Sanam Sheriff, Bernardo Wade, and Taylor Byas.
 people:
   - person: joy-priest
   - person: gbenga-adesina
