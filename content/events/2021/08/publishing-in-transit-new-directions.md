@@ -11,13 +11,14 @@ people:
   - person: forrest-gander-1
 date: 2021-08-12T13:00:00-0500
 end_date: 2021-08-12T14:30:00-0500
-series: 510
+series: ""
 collections:
   - common-ground
 event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: rec82N2h6cj0QTR9O
 event_platform:
   - zoom
 ---
