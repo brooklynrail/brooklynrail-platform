@@ -11,7 +11,7 @@ people:
   - person: forrest-gander-1
 date: 2021-08-12T13:00:00-0500
 end_date: 2021-08-12T14:30:00-0500
-series: ""
+series: 362
 collections:
   - common-ground
 event_organizer:
