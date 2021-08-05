@@ -1,9 +1,9 @@
 ---
 title: "heroes and sheroes: Corita Kent"
 deck: Featuring Jeffrey Gibson, Carrie Moyer, and Dan Cameron
-summary: Artists Jeffrey Gibson and Carrie Moyer join Rail Editor-at-Large for a
-  conversation on the legacy of artist Corita Kent. We conclude with a poetry
-  reading by Ama Birch.
+summary: Artists Jeffrey Gibson and Carrie Moyer join Rail Editor-at-Large Dan
+  Cameron for a conversation on the legacy of artist Corita Kent. We conclude
+  with a poetry reading by Ama Birch.
 people:
   - person: jeffrey-gibson
   - person: carrie-moyer
@@ -23,3 +23,4 @@ event_id: recu80mrBaRviMMPb
 event_platform:
   - zoom
 ---
+[Visit the gallery's website for more details on the exhibition **»**](http://www.andrewkreps.com/exhibitions)
