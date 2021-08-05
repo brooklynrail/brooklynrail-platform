@@ -7,6 +7,8 @@ summary: Writer and literary critic Cole Swensen joins Declan Spring, Vice
   conclude with a reading by Spring.
 people:
   - person: cole-swensen
+  - person: declan-spring
+  - person: forrest-gander-1
 date: 2021-08-12T13:00:00-0500
 end_date: 2021-08-12T14:30:00-0500
 series: 510
