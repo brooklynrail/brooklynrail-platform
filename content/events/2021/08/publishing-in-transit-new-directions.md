@@ -3,7 +3,7 @@ title: "Publishing-in-Transit: New Directions"
 deck: Editors and Writers in Conversation
 summary: Writer and literary critic Cole Swensen joins Declan Spring, Vice
   President & Senior Editor at New Directions Press, alongside authors Forrest
-  Gander and Thalia Field. We'll open with readings by Gander and Field, and
+  Gander and Thalia Field, for a conversation on literary publishing. We
   conclude with a reading by Spring.
 people:
   - person: cole-swensen
