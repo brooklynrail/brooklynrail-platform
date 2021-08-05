@@ -2,7 +2,7 @@
 title: "Social Works: Antwaun Sargent with Paul D. Miller"
 summary: Independent writer, curator, and critic Antwaun Sargent joins Rail
   Editor-at-Large Paul D. Miller for a conversation. We conclude with a poetry
-  reading.
+  reading by Lucía Hinojosa Gaxiola.
 people:
   - person: antwaun-sargent
     related_links:
