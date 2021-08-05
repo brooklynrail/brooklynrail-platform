@@ -9,6 +9,8 @@ people:
       - url: https://www.dcmooregallery.com/exhibitions/joyce-kozloff-uncivil-wars
         text: "Joyce Kozloff: Uncivil Wars on view at DC Moore Gallery, New York"
   - person: ann-mccoy
+poets:
+  - person: pj-lombardo
 date: 2021-08-09T13:00:00-0500
 end_date: 2021-08-09T14:30:00-0500
 series: 359
