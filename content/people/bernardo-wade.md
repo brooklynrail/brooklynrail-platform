@@ -8,4 +8,6 @@ short_bio: Writer and artist from New Orleans, **Bernardo Wade** tries at poems
   Review*. He is a Watering Hole Fellow. He also moonlights as an equity and
   justice advocate. His words are published or forthcoming in *Crazyhorse*,
   *Hayden’s Ferry Review*, *Southern Humanities Review*, and others.
+portraits:
+  - media: 2021/08/bernardo-wade-headshot
 ---
