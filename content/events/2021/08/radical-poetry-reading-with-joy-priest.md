@@ -12,6 +12,7 @@ people:
         text: "Poems in Narrative → "
   - person: sanam-sheriff
   - person: bernardo-wade
+  - person: taylor-byas
 date: 2021-08-11T13:00:00-0500
 end_date: 2021-08-11T14:30:00-0500
 series: 361
