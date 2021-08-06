@@ -12,4 +12,6 @@ short_bio: Black Chicago native currently living in Cincinnati, Ohio, **Taylor
   in Spring 2023 from Soft Skull Press. She is represented by Rena Rossner of
   the Deborah Harris Agency. [Check out her chapbook here
   →](https://www.taylorbyas.com/books)
+portraits:
+  - media: 2021/08/taylor-byas-headshot
 ---
