@@ -9,6 +9,7 @@ people:
   - person: cole-swensen
   - person: declan-spring
   - person: forrest-gander-1
+  - person: thalia-field
 date: 2021-08-12T13:00:00-0500
 end_date: 2021-08-12T14:30:00-0500
 series: 362
