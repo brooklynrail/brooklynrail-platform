@@ -1,5 +1,5 @@
 ---
-name: Karina Aquilera Skvirsky
+name: Karina Aguilera Skvirsky
 first_name: Karina
 last_name: Skvirsky
 short_bio: Multidisciplinary artist **Karina Aguilera Skvirsky**’s practice
