@@ -6,10 +6,11 @@ summary: Artists Flávio Cerqueira, Karina Aguilera Skvirsky, and Adán Vallecil
   join Rail Editor-at-Large Dan Cameron for a conversation. We conclude with a
   poetry reading by Celina Su.
 people:
-  - person: flavio-cerqueira
+  - person: i-s-jones-1
   - person: karina-aquilera-skvirsky
   - person: adan-vallecillo
   - person: dan-cameron
+  - person: gaia-rajan
 poets:
   - person: celina-su
 date: 2021-07-15T13:00:00-0500
@@ -20,6 +21,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: VysCn7xlNpY
 event_id: recvDWuRGaahWqgoo
 portraits:
   - media: 2021/07/adan-vallecillo
