@@ -22,6 +22,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: NmnboY56XGo
 event_id: recMaUIkdw1dtwelp
 portraits:
   - media: 2021/07/antwaun-sargent
