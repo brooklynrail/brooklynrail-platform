@@ -27,3 +27,4 @@ portraits:
 event_platform:
   - zoom
 ---
+[Visit the gallery’s website for more details on the exhibition **»**](https://www.pacegallery.com/exhibitions/joann-verburg/)
