@@ -1,5 +1,5 @@
 ---
-title: "Abstract Cartographies: Robert Smithson"
+title: "Abstract Cartography: Robert Smithson"
 deck: Featuring Lisa Le Feuvre, Jack Flam, James Meyer, and Phyllis Tuchman
 summary: Holt/Smithson Foundation Director Lisa Le Feuvre, Dedalus Foundation
   President Jack Flam, and Curator at the National Gallery of Art James Meyer
