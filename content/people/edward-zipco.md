@@ -3,7 +3,7 @@ name: Edward Zipco
 first_name: Edward
 last_name: Zipco
 pronouns: he/him
-short_bio: "Photographer, writer, and gallerist **Edward Zipco** is the
+short_bio: "Photographer, writer, and gallery director **Edward Zipco** is the
   co-founder and director of Superchief Gallery, an independent artist-run
   gallery with permanent large scale warehouse locations in New York and Los
   Angeles. Encompassing a broad scope of contemporary art, Superchief presents
