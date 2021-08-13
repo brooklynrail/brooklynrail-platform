@@ -11,7 +11,7 @@ short_bio: "One of the most urgent and critical art writers working today,
   latest work is *Co-Illusion: Dispatches from the End of Communication* (MIT
   Press 2020) exposing a new 'iconopolitics' in which words and images lose
   their connection to reality.⁠ [Find more about his books here
-  →](https://mitpress.mit.edu/contributors/david-levi-strauss) "
+  →](https://mitpress.mit.edu/contributors/david-levi-strauss)"
 portraits:
   - media: 2020/05/david-levi-portrait
 rail_contributor_url: https://brooklynrail.org/contributor/david-levi-strauss
