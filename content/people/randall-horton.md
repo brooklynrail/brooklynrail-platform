@@ -3,8 +3,8 @@ name: Randall Horton
 first_name: Randall
 last_name: Horton
 pronouns: he/him
-short_bio: Poet **Randall Horton is a Professor of English at the University of
-  New Haven and is currently the only tenured full professor in the United
+short_bio: Poet **Randall Horton** is a Professor of English at the University
+  of New Haven and is currently the only tenured full professor in the United
   States at a university or college with seven felony convictions. He is the
   recipient of the Gwendolyn Brooks Poetry Award, a National Endowment of the
   Arts Fellowship in Literature, among many other honors. He currently sits on
