@@ -3,9 +3,12 @@ title: Radical Poetry Reading with Pierre Joris
 deck: Featuring poetry read by Allen Fisher, Randall Horton, Layli Long Soldier,
   and Tracie Morris
 summary: Pierre Joris curates the 48th Radical Poetry Reading featuring poetry
-  read by Allen Fisher, Randall Horton, Layli Long Soldier, and Tracie Morris
+  read by Allen Fisher, Randall Horton, Layli Long Soldier, and Tracie Morris.
 people:
   - person: pierre-joris
+    related_links:
+      - url: https://www.superchiefgallerynft.com/
+        text: Superchief Gallery NFT
   - person: allen-fisher
   - person: randall-horton
   - person: layli-long-soldier
