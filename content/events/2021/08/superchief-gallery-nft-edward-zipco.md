@@ -10,6 +10,7 @@ people:
       - url: https://www.superchiefgallerynft.com/
         text: Superchief Gallery NFT
   - person: paul-d-miller-aka-dj-spooky
+  - person: gbenga-adesina
 date: 2021-08-17T13:00:00-0500
 end_date: 2021-08-17T14:30:00-0500
 series: 365
