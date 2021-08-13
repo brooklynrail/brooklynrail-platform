@@ -2,7 +2,7 @@
 title: "For Now: JoAnn Verburg"
 deck: Featuring JoAnn Verburg and Jean Dykstra
 summary: Artist JoAnn Verburg joins Rail contributor Jean Dykstra for a
-  conversation. We conclude with a poetry reading by Charles L. North.
+  conversation. We conclude with a poetry reading by Charles North.
 people:
   - person: joann-verburg
     related_links:
