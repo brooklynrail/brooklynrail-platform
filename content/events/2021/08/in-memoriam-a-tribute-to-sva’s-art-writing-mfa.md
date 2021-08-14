@@ -1,9 +1,9 @@
 ---
 title: A Tribute to SVA’s Art Writing MFA
 deck: Featuring David Levi Strauss and friends
-summary: Writer and critic David Levi Strauss joins a panel of writers, scholar,
-  and faculty in tribute to the MFA program in Art Writing at the School of
-  Visual Arts in New York. We conclude with a poetry reading.
+summary: Writer and critic David Levi Strauss joins a panel of writers,
+  scholars, and faculty in tribute to the MFA program in Art Writing at the
+  School of Visual Arts in New York. We conclude with a poetry reading.
 people:
   - person: david-levi-strauss
 poets: []
