@@ -3,7 +3,7 @@ title: "Superchief Gallery NFT: Edward Zipco"
 deck: Featuring Edward Zipco and Paul D. Miller
 summary: Photographer, writer, and gallery director Edward Zipco joins Rail
   Editor-at-Large Paul D. Miller for a conversation. We conclude with a poetry
-  reading.
+  reading by Gbenga Adesina.
 people:
   - person: edward-zipco
     related_links:
