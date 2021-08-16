@@ -10,7 +10,7 @@ short_bio: Poet, writer, and activist **Layli Long Soldier** holds a B.F.A. from
   a Whiting Award, and a finalist for the 2017 National Book Award. She has also
   received the 2018 PEN/Jean Stein Award, the 2018 National Book Critics Circle
   Award and a 2021 Academy of Arts and Letters Award for Literature. She is the
-  author of *Chromosomory* (Q Avenue Press 2010) and WHEREAS (Graywolf Press
+  author of *Chromosomory* (Q Avenue Press 2010) and *WHEREAS* (Graywolf Press
   2017). She resides in Santa Fe, New Mexico.
 portraits:
   - media: 2021/08/layli-long-soldier-headshot
