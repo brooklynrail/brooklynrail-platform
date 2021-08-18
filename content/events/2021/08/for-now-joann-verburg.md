@@ -21,6 +21,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: WmrezHPLN0w
 event_id: recOz6esbg74aeUP2
 portraits:
   - media: 2021/08/charles-north
