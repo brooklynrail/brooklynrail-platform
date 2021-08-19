@@ -1,5 +1,5 @@
 ---
-media: /media/files/strauss_david_levi_2.jpg
+media: /media/files/david-levi-strauss.jpeg
 title: David Levi Strauss, portrait
 alt: This is a pencil drawn portrait of Writer David Levi Strauss with a shaded
   black background, drawn by the Rail’s publisher Phong Bui.
