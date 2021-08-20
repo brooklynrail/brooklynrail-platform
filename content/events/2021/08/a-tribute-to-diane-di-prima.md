@@ -11,7 +11,6 @@ people:
   - person: cedar-sigo
   - person: david-levi-strauss
   - person: ann-waldman
-  - person: ann-waldman
 date: 2021-08-25T13:00:00-0500
 end_date: 2021-08-25T14:30:00-0500
 series: 371
