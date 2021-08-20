@@ -8,7 +8,11 @@ people:
   - person: brigitte-caland
   - person: claire-gilman
   - person: eleanor-heartney
-poets: []
+poets:
+  - person: bernardo-wade-1
+    related_links:
+      - url: https://brooklynrail.org/events/2021/08/11/radical-poetry-reading-with-joy-priest/
+        text: Radical Poetry Reading with Joy Priest
 date: 2021-08-23T13:00:00-0500
 end_date: 2021-08-23T14:30:00-0500
 series: 369
