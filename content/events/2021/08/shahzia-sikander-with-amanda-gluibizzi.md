@@ -1,24 +1,11 @@
 ---
-title: Shahzia Sikander with Amanda Gluibizzi
-deck: ""
-summary: "Artist Shahzia Sikander joins Artseen editor Amanda Gluibizzi for a
-  conversation on 'Shahzia Sikander: Extraordinary Realities' on view at the
-  Morgan Library & Museum through September 26, 2021. We conclude with a poetry
-  reading by Sanam Sherif."
+title: "Extraordinary Realities: Shahzia Sikander"
+deck: Featuring Shahzia Sikander with Amanda Gluibizzi
+summary: Artist Shahzia Sikander joins Artseen editor Amanda Gluibizzi for a
+  conversation. We conclude with a poetry reading by Sanam Sherif.
 people:
   - person: shahzia-sikander
   - person: amanda-gluibizzi
-  - person: michael-brenson
-  - person: phong-h-bui
-  - person: will-fenstermaker
-  - person: jessica-holmes
-  - person: emmanuel-iduma
-  - person: jen-kabat
-  - person: jennifer-krasinski
-  - person: nancy-princenthal
-  - person: david-levi-strauss
-  - person: ann-c-collins
-  - person: charles-schultz
 poets:
   - person: sanam-sheriff
 date: 2021-08-27T13:00:00-0500
@@ -30,6 +17,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: recyWqac3bXijgGN5
 event_platform:
   - zoom
 ---
