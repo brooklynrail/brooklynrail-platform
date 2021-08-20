@@ -1,9 +1,9 @@
 ---
 title: A Tribute to SVA’s Art Writing MFA
 deck: "Featuring Debra Bricker Balken, Hakim Bishara, Michael Brenson, Phong H.
-  Bui, Will Fenstermaker, Jessica Holmes, Emmanuel Iduma, Nancy Princenthal, Jen
-  Kabat, Jennifer Krasinski, and David Levi Strauss in conversation with Charles
-  Schultz and Ann C. Collins "
+  Bui, Will Fenstermaker, Jessica Holmes, Emmanuel Iduma, Nancy Princenthal,
+  Jennifer Kabat, Jennifer Krasinski, and David Levi Strauss in conversation
+  with Charles Schultz and Ann C. Collins "
 summary: Rail Consulting Editor David Levi Strauss joins a panel of writers,
   scholars, and faculty in tribute to the MFA program in Art Writing at the
   School of Visual Arts in New York. We conclude with a poetry reading.
