@@ -1,6 +1,7 @@
 ---
 title: A.I.R. Gallery
-deck: Featuring Susan Bee, Roxana Fabius, Kat Griefen, JoAnne McFarland, Joan Snitzer
+deck: Featuring Susan Bee, Roxana Fabius, Kat Griefen, JoAnne McFarland, Joan
+  Snitzer, and Jessica Holmes
 summary: "A.I.R. Gallery members Susan Bee, Roxana Fabius, Kat Griefen, JoAnne
   McFarland, and Joan Snitzer join Rail Editor-at-Large Jessica Holmes for a
   conversation. We conclude with a poetry reading. "
@@ -12,6 +13,8 @@ people:
   - person: roxana-fabius
   - person: kat-griefen
   - person: joanne-mcfarland
+  - person: joan-snitzer
+  - person: jessica-holmes
 poets: []
 date: 2021-08-26T13:00:00-0500
 end_date: 2021-08-26T14:30:00-0500
