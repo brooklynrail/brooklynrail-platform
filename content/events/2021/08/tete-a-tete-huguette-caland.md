@@ -3,7 +3,7 @@ title: "Tête-à-Tête: Huguette Caland"
 deck: Featuring Brigitte Caland, Claire Gilman, and Eleanor Heartney
 summary: Scholar and chef Brigitte Caland and curator Claire Gilman join Rail
   Editor-at-Large Eleanor Heartney for a conversation on Huguette Caland. We
-  conclue with a poetry reading by Bernardo Wade.
+  conclude with a poetry reading by Bernardo Wade.
 people:
   - person: brigitte-caland
   - person: claire-gilman
