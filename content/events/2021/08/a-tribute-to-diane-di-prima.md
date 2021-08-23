@@ -12,6 +12,8 @@ people:
   - person: david-levi-strauss
   - person: ann-waldman
   - person: ammiel-alcalay
+  - person: robert-kelly
+  - person: sara-larsen
 date: 2021-08-25T13:00:00-0500
 end_date: 2021-08-25T14:30:00-0500
 series: 371
