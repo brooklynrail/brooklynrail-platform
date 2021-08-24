@@ -2,7 +2,7 @@
 title: "Extraordinary Realities: Shahzia Sikander"
 deck: Featuring Shahzia Sikander with Amanda Gluibizzi
 summary: Artist Shahzia Sikander joins Artseen editor Amanda Gluibizzi for a
-  conversation. We conclude with a poetry reading by Sanam Sherif.
+  conversation. We conclude with a poetry reading by Sanam Sheriff.
 people:
   - person: shahzia-sikander
   - person: amanda-gluibizzi
