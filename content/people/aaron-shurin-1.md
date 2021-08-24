@@ -14,5 +14,5 @@ short_bio: "Poet and essayist **Aaron Shurin** is the author of fourteen books
   Professor Emeritus for the MFA Writing Program at the University of San
   Francisco."
 portraits:
-  - media: 2020/12/aaron-shurin-1
+  - media: 2021/08/aaron-shurin-headshot-use-this-one
 ---
