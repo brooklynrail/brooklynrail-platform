@@ -14,6 +14,7 @@ people:
   - person: ammiel-alcalay
   - person: robert-kelly
   - person: sara-larsen
+  - person: aaron-shurin-1
 date: 2021-08-25T13:00:00-0500
 end_date: 2021-08-25T14:30:00-0500
 series: 371
