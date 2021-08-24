@@ -1,10 +1,11 @@
 ---
 title: A.I.R. Gallery
-deck: Featuring Susan Bee, Roxana Fabius, Kat Griefen, JoAnne McFarland, Joan
-  Snitzer, and Jessica Holmes
-summary: "A.I.R. Gallery directors, members, and staff Susan Bee, Roxana Fabius,
-  Kat Griefen, JoAnne McFarland, and Joan Snitzer join Rail Editor-at-Large
-  Jessica Holmes for a conversation. We conclude with a poetry reading. "
+deck: Featuring Susan Bee, Christian Camacho-Light, Roxana Fabius, Kat Griefen,
+  Maxine Henryson, JoAnne McFarland, Joan Snitzer, and Jessica Holmes
+summary: "A.I.R. Gallery directors, members, and staff Susan Bee, Christian
+  Camacho-Light, Roxana Fabius, Kat Griefen, Maxine Henryson, JoAnne McFarland,
+  and Joan Snitzer join Rail Editor-at-Large Jessica Holmes for a conversation.
+  We conclude with a poetry reading by JoAnne McFarland. "
 people:
   - person: susan-bee
     related_links:
