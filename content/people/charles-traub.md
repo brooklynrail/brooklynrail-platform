@@ -1,8 +1,4 @@
 ---
-name: Charles Traub
-first_name: Charles
-last_name: Traub
-pronouns: he/him
 short_bio: Charles H. Traub is the chair of the MFA Program in Photography,
   Video & Related Media at the School of Visual Arts in New York City. He holds
   an MS from the Institute of Design at the Illinois Institute of Technology and
@@ -14,10 +10,21 @@ short_bio: Charles H. Traub is the chair of the MFA Program in Photography,
   Award, and a Distinguished Service Award from the Children’s Aide Society of
   New York. His book _Tickey-Book_ will be published in September 2021 by
   Damiani.
+poets:
+  - person: cynthia-dewi-oka
+name: Charles H. Traub
+last_name: Traub
+pronouns: he/him
+people:
+  - person: charles-traub
+  - person: lyle-rexer
+first_name: Charles
 portraits:
   - media: 2021/08/charles-traub
 rail_contributor_url: https://brooklynrail.org/contributor/charles-traub
 website: http://www.charlestraub.com/
 instagram: charlestraub
 twitter: CharlesTraub
+event_producer:
+  - the-brooklyn-rail
 ---
