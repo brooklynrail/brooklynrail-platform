@@ -21,4 +21,4 @@ event_id: recARWs8MFngY5pFc
 event_platform:
   - zoom
 ---
-*[Onyedika Chuke: The Forever Museum Archive_Circa 6000BCE](https://pioneerworks.org/exhibitions/onyedika-chuke-the-forever-museum-archive_circa-6000bce)* is on view at Pioneer Works, New York, through October 31, 2021.
+*[Onyedika Chuke: The Forever Museum Archive_Circa 6000BCE](https://pioneerworks.org/exhibitions/onyedika-chuke-the-forever-museum-archive_circa-6000bce),* co-presented by LMCC and Pioneer Works, is on view at LMCC's Arts Center on Governors Island, New York, through October 31, 2021.
