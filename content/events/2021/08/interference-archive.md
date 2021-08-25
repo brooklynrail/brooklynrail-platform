@@ -21,3 +21,4 @@ event_producer:
 event_platform:
   - zoom
 ---
+Interference Archive is a volunteer-run library, gallery, and archive of historical materials related to social and political activism based in Brooklyn, New York. [Find out more about their exhibitions and programs here  →](https://interferencearchive.org/category/exhibitions/)
