@@ -8,7 +8,7 @@ short_bio: Charles H. Traub is the chair of the MFA Program in Photography,
   co-founders of here is new york, a Democracy of Photographs, which received
   the Brendan Gill Award of the Municipal Arts Society, Cornell Capa Infinity
   Award, and a Distinguished Service Award from the Children’s Aide Society of
-  New York. His book _Tickey-Book_ will be published in September 2021 by
+  New York. His book _Tickey-Boo_ will be published in September 2021 by
   Damiani.
 poets:
   - person: cynthia-dewi-oka
