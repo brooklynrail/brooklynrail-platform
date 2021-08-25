@@ -7,7 +7,7 @@ short_bio: "Writer **Tennessee Reed** is the author of seven poetry collections,
   States, Alaska, Hawaii, England, the Netherlands, Spain, Germany, Switzerland,
   Italy, Israel, and Japan. She is the chairperson of PEN Oakland and managing
   editor of *Konch Magazine*. Her most recent poetry collection *Califia
-  Burning* was released by Dalkey Archive Press in 2020. "
+  Burning: Poems, 2012-2019* was released by Dalkey Archive Press in 2020. "
 portraits:
   - media: 2021/08/tennessee-reed
 ---
