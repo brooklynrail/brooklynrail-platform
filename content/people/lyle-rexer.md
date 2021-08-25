@@ -17,4 +17,5 @@ short_bio: "Independent critic, curator and writer **Lyle Rexer** is the author
 portraits:
   - media: 2020/07/lyle-rexer
 rail_contributor_url: https://brooklynrail.org/contributor/lyle-rexer
+instagram: lylerexer
 ---
