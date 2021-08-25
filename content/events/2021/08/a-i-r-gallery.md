@@ -16,6 +16,7 @@ people:
   - person: joanne-mcfarland
   - person: joan-snitzer
   - person: jessica-holmes
+  - person: christian-camacho-light
 poets: []
 date: 2021-08-26T13:00:00-0500
 end_date: 2021-08-26T14:30:00-0500
