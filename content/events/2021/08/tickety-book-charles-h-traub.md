@@ -1,5 +1,5 @@
 ---
-title: "Tickety-Book: Charles H. Traub"
+title: "Tickety-Boo: Charles H. Traub"
 deck: Featuring Charles H. Traub and Lyle Rexer
 summary: Artist Charles H. Traub joins critic, curator, and writer Lyle Rexer
   for a conversation. We conclude with a poetry reading by Cynthia Dewi Oka.
