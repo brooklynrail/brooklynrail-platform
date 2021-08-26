@@ -11,7 +11,7 @@ people:
   - person: megan-n-liberty
 date: 2021-09-02T13:00:00-0500
 end_date: 2021-09-02T14:30:00-0500
-series: 377
+series: ""
 collections:
   - common-ground
 event_organizer:
