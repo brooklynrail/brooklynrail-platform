@@ -4,7 +4,7 @@ deck: Featuring Kevin Caplicki, Sophie Glidden-Lyon, and Megan N. Liberty
 summary: Interference Archive founder Kevin Caplicki and volunteer coordinator
   Sophie Glidden-Lyon join Rail Art Books Editor Megan N. Liberty for a
   conversation on social movements, cultural production, and the Interference
-  Archive. We conclude with a poetry reading.
+  Archive. We conclude with a poetry reading by Chariot Wish.
 people:
   - person: kevin-caplicki
   - person: sophie-glidden-lyon
