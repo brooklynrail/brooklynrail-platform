@@ -1,9 +1,9 @@
 ---
 title: The Near Future of the Public Art Museum
-summary: "Writers and art critics, Amanda Fortini, Mary Abbe Hintz, and Seph
+summary: Writers and art critics, Amanda Fortini, Mary Abbe Hintz, and Seph
   Rodney will discuss art criticism in the context of our new social reality
   with Rail guest critic, David Carrier. We'll conclude with a poetry reading
-  from Brandon Downing. "
+  from I.S. Jones
 people:
   - person: amanda-fortini
     event_bio: "Amanda Fortini has written about art, design, architecture, fashion,
@@ -58,12 +58,7 @@ people:
       criticism for Apollo, art critical, Artforum, Artus and Burlington
       Magazine. And he has been a guest editor for The Brooklyn Rail."
 poets:
-  - person: brandon-downing
-    event_bio: Brandon Downing’s collections of poetry include The Shirt Weapon,
-      Dark Brandon, AT ME, and Mellow Actions. He recently completed a
-      sixteen-book cycle based on Euripides' The Bacchae. Originally from San
-      Francisco, he now lives in New York and is freaking out like everybody
-      else.
+  - person: i-s-jones-1
 date: 2020-08-05T13:00:00-0500
 end_date: 2020-08-05T14:00:00-0500
 series: 101
