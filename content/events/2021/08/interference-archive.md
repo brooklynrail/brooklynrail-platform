@@ -9,6 +9,8 @@ people:
   - person: kevin-caplicki
   - person: sophie-glidden-lyon
   - person: megan-n-liberty
+poets:
+  - person: chariot-wish
 date: 2021-09-02T13:00:00-0500
 end_date: 2021-09-02T14:30:00-0500
 series: ""
