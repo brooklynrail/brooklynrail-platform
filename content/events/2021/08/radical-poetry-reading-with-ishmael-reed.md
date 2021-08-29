@@ -6,6 +6,7 @@ summary: Ishmael Reed curates the 50th Radical Poetry Reading featuring poetry
   read by Theo Konrad Auer, Boadiba, Kim McMillon, and Tennessee Reed.
 people:
   - person: ishmael-reed
+  - person: theo-konrad-auer
   - person: tennessee-reed
 date: 2021-09-01T13:00:00-0500
 end_date: 2021-09-01T14:30:00-0500
