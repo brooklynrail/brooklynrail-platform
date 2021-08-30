@@ -20,6 +20,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: COfZDsQ1A-I
 event_id: reckCIFzMLYCwOvIo
 portraits:
   - media: 2021/08/amanda-nedham
