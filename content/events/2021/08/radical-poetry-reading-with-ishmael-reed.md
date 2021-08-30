@@ -8,6 +8,8 @@ people:
   - person: ishmael-reed
   - person: theo-konrad-auer
   - person: boadiba
+  - person: kim-mcmillon
+  - person: tennessee-reed
 date: 2021-09-01T13:00:00-0500
 end_date: 2021-09-01T14:30:00-0500
 series: 376
