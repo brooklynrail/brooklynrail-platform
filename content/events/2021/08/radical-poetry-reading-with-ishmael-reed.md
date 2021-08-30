@@ -7,7 +7,7 @@ summary: Ishmael Reed curates the 50th Radical Poetry Reading featuring poetry
 people:
   - person: ishmael-reed
   - person: theo-konrad-auer
-  - person: tennessee-reed
+  - person: boadiba
 date: 2021-09-01T13:00:00-0500
 end_date: 2021-09-01T14:30:00-0500
 series: 376
