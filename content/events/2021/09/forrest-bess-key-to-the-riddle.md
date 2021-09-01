@@ -17,8 +17,8 @@ event_platform: null
 ---
 {{< image media="2021/09/forrest-bess-key-to-the-riddle" size="md" >}}
 
-The *Rail* wishes a safe and happy holiday to everyone! RSVP to receive a video link and password available throughout the day. 
+##### The *Rail* wishes a safe and happy holiday to everyone! 
 
-Special thanks to Chuck Smith and Ari Marcopoulos for making this screening possible.
+##### RSVP to receive a video link and password available throughout the day. 
 
-[Watch the trailer here »](https://vimeo.com/ondemand/forrestbess)
+##### [Watch the trailer here »](https://vimeo.com/ondemand/forrestbess)
