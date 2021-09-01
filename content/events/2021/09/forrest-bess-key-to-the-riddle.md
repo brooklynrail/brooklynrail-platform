@@ -19,6 +19,6 @@ event_platform: null
 
 The *Rail* wishes a safe and happy holiday to everyone! 
 
-RSVP to receive a video link and password available through the day on September 6, 2021. 
+RSVP to receive a video link and password available throughout the day on September 6, 2021. 
 
 [Watch the trailer here »](https://vimeo.com/ondemand/forrestbess)
