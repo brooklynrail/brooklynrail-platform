@@ -10,8 +10,8 @@ short_bio: "Writer and visual artist originally from Birmingham, Alabama,
   American Experimental Writing*. Her poetry comics have been featured
   internationally. Bates currently serves as the Social Media Manager of Open
   Books: A Poem Emporium, a contributing editor for *Bull City Press*, and a
-  University of Washington teaching fellow. With Luther Hughes and Dujie Tahat,
-  [she co-hosts the podcast The Poet Salon →](https://www.thepoetsalon.com/)"
+  University of Washington teaching fellow. [With Luther Hughes and Dujie Tahat,
+  she co-hosts the podcast The Poet Salon →](https://www.thepoetsalon.com/)"
 portraits:
   - media: 2021/09/gabrielle-bates
 ---
