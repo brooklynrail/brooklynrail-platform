@@ -2,9 +2,10 @@
 title: Radical Poetry Reading with Forrest Gander
 deck: ""
 summary: "Forrest Gander curates the 51st Radical Poetry Reading featuring
-  poetry read by Rosmarie Waldrop, Ranjit Hoskote, and more. "
+  poetry read by Ranjit Hoskote, Rosmarie Waldrop, and more. "
 people:
   - person: forrest-gander-1
+  - person: ranjit-hoskote
   - person: rosmarie-waldrop
 date: 2021-09-08T13:00:00-0500
 end_date: 2021-09-08T14:30:00-0500
