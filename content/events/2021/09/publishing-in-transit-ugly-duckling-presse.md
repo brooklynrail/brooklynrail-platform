@@ -3,8 +3,8 @@ title: "Publishing-in-Transit: Ugly Duckling Presse"
 deck: Editors and Writers in Conversation
 summary: Writer and literary critic Cole Swensen joins Ugly Duckling Presse
   cofounder Matvei Yankelevich alongside authors Mónica de la Torre and Rachel
-  Levitsky for a conversation on literary publishing We open with readings by de
-  la Torre and Levitsky and conclude with a poetry reading by Yankelevich.
+  Levitsky for a conversation on literary publishing. We open with readings by
+  de la Torre and Levitsky and conclude with a poetry reading by Yankelevich.
 people:
   - person: cole-swensen
   - person: monica-de-la-torre
