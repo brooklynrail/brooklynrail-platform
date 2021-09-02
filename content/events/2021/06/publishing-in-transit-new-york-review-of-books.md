@@ -28,3 +28,5 @@ event_platform:
 [View our second installment featuring Tender Buttons Press →](https://brooklynrail.org/events/2021/06/10/publishing-in-transit-new-york-review-of-books/)
 
 [View our third installment featuring New Directions →](https://brooklynrail.org/events/2021/06/10/publishing-in-transit-new-york-review-of-books/)
+
+[View our (upcoming) fourth installment featuring Ugly Duckling Presse →](https://brooklynrail.org/events/2021/09/09/publishing-in-transit-ugly-duckling-presse/)
