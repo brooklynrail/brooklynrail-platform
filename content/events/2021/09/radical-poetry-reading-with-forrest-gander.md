@@ -8,6 +8,7 @@ people:
   - person: forrest-gander-1
   - person: ranjit-hoskote
   - person: rosmarie-waldrop
+  - person: david-shook
 date: 2021-09-08T13:00:00-0500
 end_date: 2021-09-08T14:30:00-0500
 series: 381
