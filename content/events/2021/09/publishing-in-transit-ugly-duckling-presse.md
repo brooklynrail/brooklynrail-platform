@@ -8,6 +8,7 @@ summary: "Writer and literary critic Cole Swensen is joined by Ugly Duckling
 people:
   - person: cole-swensen
   - person: monica-de-la-torre
+  - person: rachel-levitsky
 date: 2021-09-09T13:00:00-0500
 end_date: 2021-09-09T14:30:00-0500
 collections:
