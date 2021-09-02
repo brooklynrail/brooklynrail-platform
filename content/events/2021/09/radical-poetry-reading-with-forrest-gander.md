@@ -1,6 +1,7 @@
 ---
 title: Radical Poetry Reading with Forrest Gander
-deck: ""
+deck: Featuring poetry read by David Shook, Ranjit Hoskote, Rosmarie Waldrop,
+  and more
 summary: "Forrest Gander curates the 51st Radical Poetry Reading featuring
   poetry read by David Shook, Ranjit Hoskote, Rosmarie Waldrop, and more. "
 people:
