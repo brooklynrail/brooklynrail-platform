@@ -1,7 +1,7 @@
 ---
-title: A Conversation with KAWS, Julie Curtiss, Anne Pasternak, and Peter Saul
+title: A Conversation with Julie Curtiss, KAWS, Anne Pasternak, and Peter Saul
 deck: With Rail Editor-at-Large Jason Rosenfeld
-summary: Artists KAWS, Julie Curtiss, Peter Saul and Brooklyn Museum Director
+summary: Artists Julie Curtiss, KAWS, Peter Saul and Brooklyn Museum Director
   Anne Pasternak join Rail Editor-at-Large Jason Rosenfeld for a conversation.
   We conclude with a poetry reading by Gabrielle Bates.
 people:
