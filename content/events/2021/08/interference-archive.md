@@ -9,6 +9,8 @@ people:
   - person: kevin-caplicki
   - person: sophie-glidden-lyon
   - person: megan-n-liberty
+  - person: kim-mcmillon
+  - person: tennessee-reed
 poets:
   - person: chariot-wish
 date: 2021-09-02T13:00:00-0500
@@ -20,6 +22,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: yQxr_dQSCAI
 event_id: recsY3LDQhs9mwJjn
 event_platform:
   - zoom
