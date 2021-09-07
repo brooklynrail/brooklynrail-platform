@@ -5,13 +5,13 @@ summary: Artists Julie Curtiss, KAWS, Peter Saul and Brooklyn Museum Director
   Anne Pasternak join Rail Editor-at-Large Jason Rosenfeld for a conversation.
   We conclude with a poetry reading by Gabrielle Bates.
 people:
+  - person: julie-curtiss
   - person: kaws
     related_links:
       - url: https://www.brooklynmuseum.org/exhibitions/kaws_what_party
         text: "KAWS: WHAT PARTY at the Brooklyn Museum, February 26–September 5, 2021 "
       - text: KAWS with Jason Rosenfeld in the June 2021 issue of the Rail
         url: https://brooklynrail.org/2021/06/art/KAWS-with-Jason-Rosenfeld
-  - person: julie-curtiss
   - person: anne-pasternak
   - person: peter-saul
   - person: jason-rosenfeld
