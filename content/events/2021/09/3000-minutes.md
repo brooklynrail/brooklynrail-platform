@@ -1,8 +1,8 @@
 ---
 title: 3000 Minutes
-deck: A durational sound work by Lauren Bon
+deck: A durational sound work by Lauren Bon and the Sonic Divison of Metabolic Studio
 summary: Join us for a public recitation to conclude the durational sound work
-  3,000 Minutes by Lauren Bon.
+  3,000 Minutes by Lauren Bon and the Sonic Divison of Metabolic Studio.
 people:
   - person: lauren-bon
     related_links: []
