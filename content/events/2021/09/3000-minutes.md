@@ -10,6 +10,7 @@ collections:
 event_organizer: []
 event_producer:
   - the-brooklyn-rail
+registration_url: https://www.eventbrite.com/e/3000-minutes-tickets-170162343149
 event_platform:
   - zoom
 ---
