@@ -1,14 +1,16 @@
 ---
 title: Radical Poetry Reading with Forrest Gander
-deck: Featuring poetry read by David Shook, Ranjit Hoskote, Rosmarie Waldrop,
-  and more
+deck: "Featuring poetry read by Vievee Francis, Ranjit Hoskote, David Shook, and
+  Rosmarie Waldrop. "
 summary: "Forrest Gander curates the 51st Radical Poetry Reading featuring
-  poetry read by David Shook, Ranjit Hoskote, Rosmarie Waldrop, and more. "
+  poetry read by Vievee Francis, Ranjit Hoskote, David Shook, and Rosmarie
+  Waldrop. "
 people:
   - person: forrest-gander-1
+  - person: vievee-francis
   - person: ranjit-hoskote
-  - person: rosmarie-waldrop
   - person: david-shook
+  - person: rosmarie-waldrop
 date: 2021-09-08T13:00:00-0500
 end_date: 2021-09-08T14:30:00-0500
 series: 381
@@ -22,4 +24,3 @@ event_id: recgidUt8JiYp4x1q
 event_platform:
   - zoom
 ---
-##### **More participants to be announced.**
