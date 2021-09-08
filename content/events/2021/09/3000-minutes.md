@@ -3,6 +3,9 @@ title: 3000 Minutes
 deck: A durational sound work by Lauren Bon
 summary: Join us for a public recitation to conclude the durational sound work
   3,000 Minutes by Lauren Bon.
+people:
+  - person: lauren-bon
+    related_links: []
 date: 2021-09-12T12:00:00-0500
 end_date: 2021-09-12T14:00:00-0500
 collections:
@@ -18,4 +21,4 @@ event_platform:
 
 *3000 minutes* can be listened to live beginning Friday, September 10 on [www.satelliteradiochoir.org](http://www.satelliteradiochoir.org/). The transmission will be streamed live from the silo on the edge of the Owens dry lake in Payahuunadü, a place where Lauren Bon’s Metabolic Studio Sonic Division operates.
 
-A public recitation will be held over zoom on Sunday, September 12 at 12pm ET / 9am PT to conclude this sound work.
+A public recitation will be held over Zoom on Sunday, September 12 at 12pm ET / 9am PT to conclude this sound work.
