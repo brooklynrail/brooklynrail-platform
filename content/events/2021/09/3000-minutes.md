@@ -7,9 +7,7 @@ date: 2021-09-12T12:00:00-0500
 end_date: 2021-09-12T14:00:00-0500
 collections:
   - community-listing
-event_organizer:
-  - the-brooklyn-rail
-  - metabolic-studio-1
+event_organizer: []
 event_producer:
   - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/3000-minutes-tickets-170162343149
