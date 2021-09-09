@@ -29,3 +29,4 @@ event_id: recrojdsuvvK01MCd
 event_platform:
   - zoom
 ---
+[Visit the foundation’s website for more details on the exhibition **»**](https://www.resnickpasslof.org/exhibitions/mattressworld)
