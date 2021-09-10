@@ -20,4 +20,4 @@ event_producer:
 event_platform:
   - zoom
 ---
-Second Shift Studio Space is a nonprofit residency program and art space serving people marginalized due to gender identity. [Find out more about their programs here →](https://secondshiftstudiospace.org/)
+**Second Shift Studio Space** is a nonprofit residency program and art space serving people marginalized due to gender identity. [Find out more about their programs here →](https://secondshiftstudiospace.org/)
