@@ -19,6 +19,6 @@ short_bio: "Trans, arab-american punk poet-performer cyborg **Andrea Abi-Karam**
   queer terror and convertibles."
 portraits:
   - media: 2021/03/ron-athey
-website: http://andreak.com/
+website: http://andreaak.com/
 instagram: wolf_hour
 ---
