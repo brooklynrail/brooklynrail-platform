@@ -11,4 +11,5 @@ short_bio: Assistant Professor of Visual Culture at Montclair State University
 portraits:
   - media: 2020/09/charlotte-kent
 rail_contributor_url: https://brooklynrail.org/contributor/charlotte-kent
+website: https://ckent.art/
 ---
