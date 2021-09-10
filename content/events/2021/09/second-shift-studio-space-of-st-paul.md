@@ -1,23 +1,24 @@
 ---
 title: "Second Shift Studio Space of St. Paul "
-deck: Featuring Chris Larson, Jennifer Newsom,Tina Tavera, Kriss Zulkosky,
+deck: Featuring Chris Larson, Jennifer Newsom, Tina Tavera, Kriss Zulkosky,
   Roshan Ganu, Shen Xin, and Andrew Woolbright
-summary: Board members Chris Larson, Jenifer Newsom, Tina Tavera, and Kriss
-  Zulkosky join resident artists Roshan Ganu and Shen Xin for a conversation
-  with artist, critic, and curator Andrew Woolbright. We conclude with a poetry
-  reading by John Latta.
+summary: Second Shift Studio Space board members Chris Larson, Jenifer Newsom,
+  Tina Tavera, and Kriss Zulkosky join resident artists Roshan Ganu and Shen Xin
+  for a conversation with artist, critic, and curator Andrew Woolbright. We
+  conclude with a poetry reading by John Latta.
 people:
   - person: andrew-paul-woolbright
-date: 2021-09-16T14:00:00-0500
+date: 2021-09-16T13:00:00-0500
 end_date: 2021-09-16T14:30:00-0500
-series: 387
+series: ""
 collections:
-  - the-new-social-environment
+  - common-ground
 event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: rec1Q5oqNmxmmcuRw
 event_platform:
   - zoom
 ---
-**Second Shift Studio Space** is a nonprofit residency program and art space serving people marginalized due to gender identity.** [Find out more about their programs »](https://secondshiftstudiospace.org/)**[](https://secondshiftstudiospace.org/)
+Second Shift Studio Space is a nonprofit residency program and art space serving people marginalized due to gender identity. [Find out more about their programs here →](https://secondshiftstudiospace.org/)
