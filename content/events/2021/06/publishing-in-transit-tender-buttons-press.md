@@ -23,4 +23,10 @@ event_id: recbQvoPdMZ8t6kBi
 event_platform:
   - zoom
 ---
-Publishing-in-Transit is a new monthly series celebrating contemporary literary editors, all of the often-unrecognized work that they do, and the community-based and conversational nature of contemporary innovative literary publishing. View the [first installment](https://brooklynrail.org/events/2021/06/10/publishing-in-transit-new-york-review-of-books/) featuring New York Review Books here.
+Publishing-in-Transit is a new monthly series celebrating contemporary literary editors, all of the often-unrecognized work that they do, and the community-based and conversational nature of contemporary innovative literary publishing. This is our second installment. 
+
+[View our first installment featuring New York Review Books →](https://brooklynrail.org/events/2021/06/10/publishing-in-transit-new-york-review-of-books/)
+
+[View our third installment featuring New Directions →](https://brooklynrail.org/events/2021/06/10/publishing-in-transit-new-york-review-of-books/)
+
+[View our (upcoming) fourth installment featuring Ugly Duckling Presse →](https://brooklynrail.org/events/2021/09/09/publishing-in-transit-ugly-duckling-presse/)

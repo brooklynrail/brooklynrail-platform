@@ -23,4 +23,10 @@ registration_url: https://www.eventbrite.com/e/publishing-in-transit-new-york-re
 event_platform:
   - zoom
 ---
-*Publishing-in-Transit* is a new monthly series designed to celebrate editors, all of the often-unrecognized work that they do, and the community-based and conversational nature of contemporary innovative literary publishing.
+*Publishing-in-Transit* is a new monthly series designed to celebrate editors, all of the often-unrecognized work that they do, and the community-based and conversational nature of contemporary innovative literary publishing. This is our first installment. 
+
+[View our second installment featuring Tender Buttons Press →](https://brooklynrail.org/events/2021/06/10/publishing-in-transit-new-york-review-of-books/)
+
+[View our third installment featuring New Directions →](https://brooklynrail.org/events/2021/06/10/publishing-in-transit-new-york-review-of-books/)
+
+[View our (upcoming) fourth installment featuring Ugly Duckling Presse →](https://brooklynrail.org/events/2021/09/09/publishing-in-transit-ugly-duckling-presse/)
