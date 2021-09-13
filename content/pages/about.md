@@ -1,22 +1,21 @@
 ---
 title: About the Brooklyn Rail
-headline: About the _Rail_
+headline: About the _Brooklyn Rail_
 nav_title: About
-summary: About the Brooklyn Rail
+deck: TKTK
+summary: About the Brooklyn Rail summary....
 weight: 1
-draft: true
 ---
+Founded in October 2000 as a 501(c)(3) nonprofit organization, the Brooklyn Rail exists to support the artist’s journey. It is a gathering place for artists, writers, poets, and people who love the arts.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed volutpat nisl turpis, tincidunt bibendum diam posuere eu.
+The Brooklyn Rail journal is an independent publication on arts, culture, and politics, distributed in print for free at community hubs throughout New York City, and online to readers around the world.
 
-Fusce interdum eleifend est at maximus. Aenean tempor felis eu nisi efficitur scelerisque. Integer nec mi in nisl lobortis feugiat vitae eleifend purus. Etiam consectetur elit ipsum, quis posuere arcu tempus id. Maecenas magna lacus, porttitor id sollicitudin vitae, varius at lectus.
+The Rail’s 10 monthly issues feature reviews of visual art, music, dance, film, theater, artist books, and literature, alongside political commentary and original fiction and poetry.
 
-Sed sed tempor nisl, eu pretium nulla. Nunc aliquam porttitor leo, a viverra nulla sagittis id. Morbi nec quam massa.
+Each week, the Rail hosts artist interviews, poetry readings, and cultural conversations out of its Brooklyn headquarters in Industry City.
 
-Aenean bibendum blandit risus, quis elementum mi dictum sed. Morbi et nisi cursus risus congue laoreet sed id ante. Donec et orci malesuada, malesuada lectus in, tempor est. Phasellus at est dolor.
+Together with our community of readers, writers, and artists, we provide a space for independent intellectual inquiry, free thought, and meaningful dialogue. Come visit us in our New Social Environment, daily at 1pm ET!
 
-Praesent vestibulum tortor quam, facilisis ultrices lorem pretium id.
+## Current Rail Initiatives
 
-Phasellus imperdiet quam sit amet arcu fermentum imperdiet. Fusce quis urna nulla. Suspendisse a massa fringilla, vestibulum magna et, dictum nisl. In non molestie ante.
-
-Duis ex libero, hendrerit in rutrum at, volutpat quis lectus. Duis ut est vel mi porta elementum nec non purus. Aenean arcu sapien, hendrerit vitae lorem ac, accumsan vestibulum sem. Fusce porttitor metus ac auctor auctor.
+{{< current_projects >}}

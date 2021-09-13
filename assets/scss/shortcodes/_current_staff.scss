@@ -1,0 +1,17 @@
+// ====================================
+// Donate
+
+.shortcode-current_staff{
+  .group{
+    @include u-margin-bottom(5);
+  }
+  p{
+    @include u-margin-bottom(1);
+    @include u-maxw('tablet');
+    @include at-media('tablet') {
+    }
+    a{
+      @include u-text('primary');
+    }
+  }
+}
