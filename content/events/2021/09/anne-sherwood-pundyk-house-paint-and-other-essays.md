@@ -16,8 +16,7 @@ registration_url: "https://www.eventbrite.com/e/anne-sherwood-pundyk-house-pain\
   t-and-other-essays
   opening-reception-registration  170492070372?utm_campaign=post_publish&utm_me\
   dium=email&utm_source=eventbrite&u tm_content=shortLinkNewEmail "
-event_platform:
-  - zoom
+event_platform: null
 ---
 {{< image media="2021/09/anne-sherwood-pundyk-house-paint-and-other-essays" size="lg" >}}
 
