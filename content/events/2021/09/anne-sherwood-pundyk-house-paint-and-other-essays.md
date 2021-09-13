@@ -7,7 +7,7 @@ people:
 date: 2021-09-19T13:00:00-0500
 end_date: 2021-09-20T23:59:00-0500
 collections:
-  - community-listing
+  - sponsored-listing
 event_organizer:
   - thebrownstoneart
 event_producer:
