@@ -12,7 +12,7 @@ short_bio: "Artist **David Reed** attended the Skowhegan School of Painting and
   exhibitions include _Two by Two: Mary Heilmann & David Reed_, Museum für
   Gegenwart, Hamburger Bahnhof, Berlin, Germany (2015),  _David Reed: Vice and
   Reflection – An Old Painting, New Paintings and Animations_, Pérez Art Museum,
-  Miami, FL (2016), and _David Reed: New Paintings at Gagosian) (2020)."
+  Miami, FL (2016), and _David Reed: New Paintings at Gagosian_ (2020)."
 portraits:
   - media: 2021/09/david-reed
 rail_contributor_url: https://brooklynrail.org/contributor/david-reed
