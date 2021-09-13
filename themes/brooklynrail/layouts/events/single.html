@@ -287,14 +287,16 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
     If is NOT a Future Event (Past event)
     and is not a sponsored listing
   */}}
-  {{- if and (eq $future_event true) (not in .Params.collections "sponsored-listing") -}}
+  {{- if and (eq $future_event true) -}}
 
     {{- if .Params.registration_url -}}
         <div class="grid-row">
       <div class="grid-col-12 tablet:grid-col-10 tablet:grid-offset-1">
         <div class="event-logistics">
-          {{- partial "event-logistics" . | markdownify -}}
-          {{- partial "tags.html" . -}}
+          {{- if not in .Params.collections "sponsored-listing"  -}}
+            {{- partial "event-logistics" . | markdownify -}}
+            {{- partial "tags.html" . -}}
+          {{- end -}}
         </div>
       </div>
     </div>
