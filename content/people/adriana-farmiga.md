@@ -13,5 +13,6 @@ short_bio: Artist and educator **Adriana Farmiga** was named Assistant Dean of
 portraits:
   - media: 2021/09/adriana-farmiga
 website: http://www.adrianafarmiga.com/
-twitter: farmiga
+instagram: farmiga
+twitter: ""
 ---
