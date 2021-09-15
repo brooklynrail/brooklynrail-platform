@@ -2,7 +2,7 @@
 title: "Second Shift Studio Space of St. Paul "
 deck: Featuring Chris Larson, Jennifer Newsom, Tina Tavera, Kriss Zulkosky,
   Roshan Ganu, Shen Xin, and Andrew Woolbright
-summary: Second Shift Studio Space board members Chris Larson, Jenifer Newsom,
+summary: Second Shift Studio Space board members Chris Larson, Jennifer Newsom,
   Tina Tavera, and Kriss Zulkosky join resident artists Roshan Ganu and Shen Xin
   for a conversation with artist, critic, and curator Andrew Woolbright. We
   conclude with a poetry reading by John Latta.
