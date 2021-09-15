@@ -13,7 +13,7 @@ people:
   - person: david-reed
   - person: charlotte-kent
 poets:
-  - person: andrea-abi-karam
+  - person: andrea-abi-karam-1
 date: 2021-09-14T13:00:00-0500
 end_date: 2021-09-14T14:30:00-0500
 series: 385
