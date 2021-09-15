@@ -7,7 +7,15 @@ summary: Second Shift Studio Space board members Chris Larson, Jennifer Newsom,
   for a conversation with artist, critic, and curator Andrew Woolbright. We
   conclude with a poetry reading by John Latta.
 people:
+  - person: chris-larson-1
+  - person: jennifer-newsom
+  - person: tina-tavera
+  - person: kriss-zulkosky
+  - person: roshan-ganu
+  - person: shen-xin
   - person: andrew-paul-woolbright
+poets:
+  - person: john-latta
 date: 2021-09-16T13:00:00-0500
 end_date: 2021-09-16T14:30:00-0500
 series: ""
