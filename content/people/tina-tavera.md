@@ -11,7 +11,6 @@ short_bio: Multimedia artist, independent curator, and activist **Maria Cristina
   awards from the McKnight Visual Arts, Bush Foundation, Smithsonian Latino
   Museum Studies program, MOMA-New York, Metropolitan Regional Arts Council
   (MRAC), Minnesota State Arts Board, and Institute of Mexicans Abroad (IME).
-  Tavera is a 2021–22 Artist in Residence at Second Shift Studio Space.
 portraits:
   - media: 2021/09/tina-tavera
 ---
