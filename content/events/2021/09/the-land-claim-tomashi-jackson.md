@@ -1,9 +1,9 @@
 ---
 title: "The Land Claim: Tomashi Jackson"
 deck: Featuring Jackson, Adriana Farmiga, and Lee Ann Norman
-summary: Artist Tomashi Jackson joins artist and writer Adriana Farmiga and
-  writer Lee Ann Norman for a conversation. We conclude with a poetry reading by
-  Erin Marie Lynch.
+summary: Artist Tomashi Jackson joins artist Adriana Farmiga and writer Lee Ann
+  Norman for a conversation. We conclude with a poetry reading by Erin Marie
+  Lynch.
 people:
   - person: tomashi-jackson
   - person: adriana-farmiga
