@@ -8,7 +8,7 @@ short_bio: Multidisciplinary artist **Tomashi Jackson** (b. 1980, Houston, TX)
   material investigations in dialogue with recent histories of displacement and
   disenfranchisement of people of color, resulting in formalist compositions of
   exuberant color, bold geometries, and intricate layerings of material. Recent
-  solo exhibitions include_Brown II_, Radcliffe Institute for Advanced Study at
+  solo exhibitions include _Brown II_, Radcliffe Institute for Advanced Study at
   Harvard University, Cambridge, MA (2021); _The Land Claim at the Parrish Art
   Museum_, Water Mill, NY (2021); _Love Rollercoaster_, Wexner Center for the
   Arts, Columbus, OH (2020); among many others. She was awarded the Joan
