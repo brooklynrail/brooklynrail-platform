@@ -8,7 +8,8 @@ people:
   - person: erik-lindman
   - person: louis-block
   - person: tom-mcglynn
-poets: []
+poets:
+  - person: elizabeth-lothian
 date: 2021-09-20T13:00:00-0500
 end_date: 2021-09-20T14:30:00-0500
 series: 389
