@@ -1,9 +1,9 @@
 ---
 title: "Balke (Prélude): Erik Lindman"
 deck: Featuring Lindman, Louis Block, and Tom McGlynn
-summary: Artist Erik Lindman joins Rail Editor-at-Large Tom McGlynn and artist
-  and writer Louis Block for a conversation. We conclude with a poetry reading
-  by Elizabeth Lothian.
+summary: Artist Erik Lindman joins artist and writer Louis Block and Rail
+  Editor-at-Large Tom McGlynn for a conversation. We conclude with a poetry
+  reading by Elizabeth Lothian.
 people:
   - person: erik-lindman
   - person: louis-block
