@@ -1,11 +1,13 @@
 ---
 title: Mildred's Lane
-deck: Featuring J. Morgan Puett and friends
-summary: Ambassador of entanglement J. Morgan Puett and friends join for a
-  conversation on Mildred's Lane. We conclude with a poetry reading by Patrycja
-  Humienik.
+deck: Featuring David Brooks, Mark Dion, J. Morgan Puett, Thyrza Nicholas
+  Goodeve, and friends
+summary: Ambassador of entanglement J. Morgan Puett is joined by David Brooks,
+  Mark Dion, Thyrza Nicholas Goodeve, and friends for a conversation on
+  Mildred's Lane. We conclude with a poetry reading by Patrycja Humienik.
 people:
   - person: j-morgan-puett
+  - person: thyrza-nichols-goodeve
 poets:
   - person: patrycja-humienik
 date: 2021-09-23T13:00:00-0500
