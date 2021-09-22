@@ -1,6 +1,7 @@
 ---
 title: Radical Poetry Reading with Rajiv Mohabir
-summary: "Rajiv Mohabir curates the 54rd Radical Poetry Reading "
+summary: Rajiv Mohabir curates the 54rd Radical Poetry Reading featuring poetry
+  read by Mohabir and friends.
 people:
   - person: rajiv-mohabir
 date: 2021-09-29T12:00:00-0500
@@ -12,7 +13,10 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: recrBzrElUisUrxu4
 event_platform:
   - zoom
 ---
-More readers announced soon!
+**More readers to be announced.** 
+
+***Please note this reading will begin at 12pm ET / 9am PT.***
