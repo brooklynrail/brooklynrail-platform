@@ -7,11 +7,14 @@ summary: Ambassador of entanglement J. Morgan Puett is joined by David Brooks,
   Mildred's Lane. We conclude with a poetry reading by Patrycja Humienik.
 people:
   - person: j-morgan-puett
+  - person: mark-dion
+  - person: david-brooks
   - person: thyrza-nichols-goodeve
 poets:
   - person: patrycja-humienik
 date: 2021-09-23T13:00:00-0500
 end_date: 2021-09-23T14:30:00-0500
+series: 392
 collections:
   - common-ground
 event_organizer:
@@ -25,7 +28,3 @@ event_platform:
 **[Read more about Mildred's Lane on their website »](http://www.mildredslane.com/)**
 
 ***[What is Mildred's Lane?](https://www.youtube.com/watch?v=jb_P3NI-8jY)***
-
-
-
-More participants to be announced.
