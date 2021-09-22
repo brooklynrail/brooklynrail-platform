@@ -2,6 +2,7 @@
 name: Taylor Johnson
 first_name: Taylor
 last_name: Johnson
+pronouns: he/they
 short_bio: Poet **Taylor Johnson** is the author of *Inheritance* (Alice James
   Books 2020), winner of the 2021 Norma Farber First Book Award from the Poetry
   Society of America. His work appears in the *Paris Review, The Baffler,
