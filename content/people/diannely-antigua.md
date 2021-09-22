@@ -3,7 +3,7 @@ name: Diannely Antigua
 first_name: Diannely
 last_name: Antigua
 short_bio: Dominican American poet and educator **Diannely Antigua** was born
-  and raised in Massachusetts.Her debut collection *Ugly Music* (YesYes Books
+  and raised in Massachusetts. Her debut collection *Ugly Music* (YesYes Books
   2019) was the winner of the Pamet River Prize and a 2020 Whiting Award. She is
   the recipient of fellowships from CantoMundo, Community of Writers, and the
   Fine Arts Work Center Summer Program. Her work has been nominated for the
