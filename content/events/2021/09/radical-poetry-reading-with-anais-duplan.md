@@ -1,6 +1,7 @@
 ---
 title: Radical Poetry Reading with Anaïs Duplan
-summary: Bernardo Wade curates the 56th Radical Poetry Reading
+summary: Anaïs Duplan curates the 56th Radical Poetry Reading featuring poetry
+  read by Duplan and friends.
 people:
   - person: anais-duplan
 date: 2021-10-20T13:00:00-0500
@@ -12,7 +13,8 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: recNCZpgaMSH4EH4D
 event_platform:
   - zoom
 ---
-More readers announced soon!
+**More readers to be announced.**
