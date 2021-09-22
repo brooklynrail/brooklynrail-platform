@@ -1,10 +1,14 @@
 ---
 title: Radical Poetry Reading with Bernardo Wade
-deck: Featuring Diannely Antigua, Ross Gay, and Taylor Johnson
+deck: Featuring Ross Gay, Diannely Antigua, Taylor Johnson, and El Williams
 summary: Bernardo Wade curates the 53rd Radical Poetry Reading featuring poetry
-  read by Diannely Antigua, Ross Gay, and Taylor Johnson.
+  read by Ross Gay, Diannely Antigua, Taylor Johnson, and El Williams
 people:
   - person: bernardo-wade-1
+  - person: ross-gay
+  - person: diannely-antigua
+  - person: taylor-johnson-1
+  - person: el-williams
 poets: []
 date: 2021-09-22T13:00:00-0500
 end_date: 2021-09-22T14:30:00-0500
