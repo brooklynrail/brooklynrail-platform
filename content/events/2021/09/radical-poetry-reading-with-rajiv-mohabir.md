@@ -1,6 +1,6 @@
 ---
 title: Radical Poetry Reading with Rajiv Mohabir
-summary: Rajiv Mohabir curates the 54rd Radical Poetry Reading featuring poetry
+summary: Rajiv Mohabir curates the 54th Radical Poetry Reading featuring poetry
   read by Mohabir and friends.
 people:
   - person: rajiv-mohabir
