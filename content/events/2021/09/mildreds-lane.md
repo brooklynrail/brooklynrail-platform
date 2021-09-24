@@ -17,7 +17,7 @@ poets:
   - person: patrycja-humienik
 date: 2021-09-23T13:00:00-0500
 end_date: 2021-09-23T14:30:00-0500
-series: 392
+series: ""
 collections:
   - common-ground
 event_organizer:
