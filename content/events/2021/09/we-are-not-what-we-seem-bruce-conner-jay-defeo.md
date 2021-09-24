@@ -16,6 +16,8 @@ end_date: 2021-10-01T14:30:00-0500
 series: 398
 collections:
   - the-new-social-environment
+event_sponsor:
+  - paula-cooper-gallery
 event_organizer:
   - the-brooklyn-rail
 event_producer:
