@@ -15,4 +15,7 @@ short_bio: " Indo-Caribbean American poet **Rajiv Mohabir** is the author of
   University of Hawaii. Mohabir is a professor at Emerson College."
 portraits:
   - media: 2021/09/rajiv-mohabir
+website: http://www.rajivmohabir.com/about
+instagram: rajivmohabir
+twitter: rajivmohabir
 ---
