@@ -1,5 +1,5 @@
 ---
-title: "We are not what we seem: Bruce Conner & Jay DeFeo"
+title: 'BRUCE CONNER & JAY DEFEO: ("we are not what we seem")'
 deck: Featuring Stuart Comer, Rachel Federman, Laura Hoptman, and Constance Lewallen
 summary: Curators Stuart Comer, Rachel Federman, and Laura Hoptman join Rail
   Editor-at-Large Constance Lewallen for a conversation. We conclude with a
