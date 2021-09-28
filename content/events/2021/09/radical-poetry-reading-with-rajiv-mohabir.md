@@ -8,6 +8,14 @@ people:
     related_links:
       - text: Cutlish (Four Way Books, September 2021)
         url: https://fourwaybooks.com/site/cutlish/
+  - person: desiree-c-bailey
+    related_links:
+      - url: https://yalebooks.yale.edu/book/9780300256536/what-noise-against-cane
+        text: What Noise Against the Cane (Yale University Press, April 2021)
+  - person: aruni-kashyap
+    related_links:
+      - text: "There Is No Good Time For Bad News (Future Cycle Press, April 2021) "
+        url: https://www.arunikashyap.com/
   - person: cynthia-dewi-oka
 date: 2021-09-29T12:00:00-0500
 end_date: 2021-09-29T13:30:00-0500
