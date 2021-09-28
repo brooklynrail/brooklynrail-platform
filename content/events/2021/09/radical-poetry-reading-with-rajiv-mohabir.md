@@ -17,6 +17,9 @@ people:
       - text: "There Is No Good Time For Bad News (Future Cycle Press, April 2021) "
         url: https://www.arunikashyap.com/
   - person: cynthia-dewi-oka
+    related_links:
+      - url: https://nupress.northwestern.edu/9780810144217/fire-is-not-a-country/
+        text: Fire Is Not a Country (Northwestern University Press, November 2021)
 date: 2021-09-29T12:00:00-0500
 end_date: 2021-09-29T13:30:00-0500
 series: 396
