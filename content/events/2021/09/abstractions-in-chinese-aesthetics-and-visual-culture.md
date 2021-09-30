@@ -14,6 +14,8 @@ end_date: 2021-10-04T21:30:00-0500
 series: 399
 collections:
   - the-new-social-environment
+event_sponsor:
+  - dermot-comany
 event_organizer:
   - the-brooklyn-rail
 event_producer:
