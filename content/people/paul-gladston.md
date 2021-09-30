@@ -3,7 +3,7 @@ name: Paul Gladston
 first_name: Paul
 last_name: Gladston
 pronouns: he/him
-short_bio: "Art historian **Paul Gladston** is the inaugural Judith Neilson
+short_bio: "Cultural historian **Paul Gladston** is the inaugural Judith Neilson
   Professor (Chair) of Contemporary Art at the University of New South Wales,
   Sydney. He was previously Professor (Chair) of Contemporary Visual Cultures
   and Critical Theory, Director of the Centre for Contemporary East Asian Visual
