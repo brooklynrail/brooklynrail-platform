@@ -18,6 +18,7 @@ collections:
   - the-new-social-environment
 event_sponsor:
   - paula-cooper-gallery
+  - dermot-comany
 event_organizer:
   - the-brooklyn-rail
 event_producer:
