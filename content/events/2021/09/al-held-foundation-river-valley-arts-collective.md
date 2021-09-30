@@ -13,7 +13,7 @@ people:
   - person: gabriela-salazar
   - person: jessica-holmes
 poets:
-  - person: louis-block
+  - person: anya-bernstein
 date: 2021-09-30T13:00:00-0500
 end_date: 2021-09-30T14:30:00-0500
 collections:
