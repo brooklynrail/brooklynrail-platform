@@ -3,7 +3,7 @@ title: Printed Matter
 deck: Featuring Max Schumann, Megan N. Liberty, and friends
 summary: Printed Matter Executive Director Max Schumann and friends join Rail
   Art Books Editor Megan N. Liberty for a conversation. We conclude with a
-  poetry reading by Kendra Sullivan.
+  poetry reading.
 people:
   - person: max-schumann
   - person: megan-n-liberty
