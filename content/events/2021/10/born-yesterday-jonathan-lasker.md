@@ -3,7 +3,7 @@ title: "Born Yesterday: Jonathan Lasker"
 deck: Featuring Lasker and Choghakate Kazarian
 summary: Artist Jonathan Lasker joins Rail Editor-at-Large Choghakate Kazarian
   for a conversation. We conclude with a collaborative reading by Jessica Grim &
-  Melanie Neilson
+  Melanie Neilson.
 people:
   - person: jonathan-lasker
     related_links:
