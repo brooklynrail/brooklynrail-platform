@@ -2,7 +2,7 @@
 title: A Tribute to Alain Kirili
 deck: ""
 summary: Featuring Francis Greenburger, Maria Mitchell, Robert C. Morgan, Carter
-  Ratcliff, Rebecca Smith, and Phong H. Bui
+  Ratcliff, Dorothea Rockburne, Rebecca Smith, and Phong H. Bui
 people:
   - person: francis-greenburger
   - person: maria-mitchell
