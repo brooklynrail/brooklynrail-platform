@@ -6,6 +6,8 @@ summary: Artist Caroline Kent joins Rail Artseen Editor Amanda Gluibizzi for a
 people:
   - person: caroline-kent
   - person: amanda-gluibizzi
+poets:
+  - person: malvika-jolly
 date: 2021-10-05T13:00:00-0500
 end_date: 2021-10-05T14:30:00-0500
 series: 400
