@@ -1,6 +1,6 @@
 ---
 title: Abstractions in Chinese Aesthetics and Visual Culture
-deck: Feautring Johnson Chang, Pepe Karmel, Carol Yinghua Lu, and Paul Gladston
+deck: Featuring Johnson Chang, Pepe Karmel, Carol Yinghua Lu, and Paul Gladston
 summary: Curators and art historians Johnson Chang, Pepe Karmel, and Carol
   Yinghua Lu join Rail contributor Paul Gladston for a conversation. We conclude
   with a poetry reading.
