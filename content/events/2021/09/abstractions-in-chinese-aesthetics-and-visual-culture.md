@@ -9,6 +9,8 @@ people:
   - person: pepe-karmel
   - person: carol-yinghua-lu
   - person: paul-gladston
+poets:
+  - person: nancy-huang
 date: 2021-10-04T20:00:00-0500
 end_date: 2021-10-04T21:30:00-0500
 series: 399
