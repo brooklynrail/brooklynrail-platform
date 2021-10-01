@@ -8,6 +8,7 @@ people:
   - person: maria-mitchell
   - person: robert-c-morgan
   - person: carter-ratcliff
+  - person: dorothea-rockburne
   - person: rebecca-smith
   - person: phong-h-bui
 date: 2021-10-06T13:00:00-0500
