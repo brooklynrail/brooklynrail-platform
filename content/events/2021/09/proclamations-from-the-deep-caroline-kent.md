@@ -2,7 +2,7 @@
 title: "Proclamations from the deep: Caroline Kent"
 deck: Featuring Kent and Amanda Gluibizzi
 summary: Artist Caroline Kent joins Rail Artseen Editor Amanda Gluibizzi for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading by Malvika Jolly.
 people:
   - person: caroline-kent
   - person: amanda-gluibizzi
