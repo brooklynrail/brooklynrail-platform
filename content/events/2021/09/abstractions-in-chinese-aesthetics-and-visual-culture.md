@@ -26,4 +26,4 @@ event_id: rectXncW3r0yqVqZR
 event_platform:
   - zoom
 ---
-***Please note*** to accommodate the varying time zones of our guests, this conversation with take place **8pm ET New York** (Monday October 4); **10am AET Sydney** (Tuesday October 5); **8am CST** **Hong Kong & Beijing** (Tuesday, October 5).
+***Please note*** to accommodate the varying time zones of our guests, this conversation will take place **8pm ET New York** (Monday October 4); **10am AET Sydney** (Tuesday October 5); **8am CST** **Hong Kong & Beijing** (Tuesday, October 5).
