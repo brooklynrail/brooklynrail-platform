@@ -3,7 +3,7 @@ title: Printed Matter
 deck: Featuring Max Schumann, Lucy R. Lippard, Megan N. Liberty, and friends
 summary: Printed Matter Executive Director Max Schumann, co-founder Lucy R.
   Lippard, and friends join Rail Art Books Editor Megan N. Liberty for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading by Jacob Bromberg.
 people:
   - person: max-schumann
   - person: lucy-r-lippard
