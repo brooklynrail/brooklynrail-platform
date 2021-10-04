@@ -10,6 +10,9 @@ people:
       - url: https://brooklynrail.org/2016/07/art/jonathan-lasker-with-phong-bui
         text: Jonathan Lasker in conversation with Phong H. Bui (July/August 2016)
   - person: choghakate-kazarian
+poets:
+  - person: jessica-grim
+  - person: melanie-neilson
 date: 2021-10-08T15:00:00-0500
 end_date: 2021-10-08T16:30:00-0500
 series: 403
