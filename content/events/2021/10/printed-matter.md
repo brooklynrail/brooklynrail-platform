@@ -1,9 +1,11 @@
 ---
 title: Printed Matter
-deck: Featuring Max Schumann, Lucy R. Lippard, Megan N. Liberty, and friends
+deck: Featuring Max Schumann, Lucy R. Lippard, Paul John, Chang Yuchen, and
+  Megan N. Liberty
 summary: Printed Matter Executive Director Max Schumann, co-founder Lucy R.
-  Lippard, and friends join Rail Art Books Editor Megan N. Liberty for a
-  conversation. We conclude with a poetry reading by Jacob Bromberg.
+  Lippard, and artists Paul John and Chang Yuchen join Rail Art Books Editor
+  Megan N. Liberty for a conversation. We conclude with a poetry reading by
+  Jacob Bromberg.
 people:
   - person: max-schumann
   - person: lucy-r-lippard
@@ -11,6 +13,8 @@ people:
       - url: https://brooklynrail.org/2017/12/art/LUCY-LIPPARD-with-Jarrett-Earnest
         text: Lucy Lippard in conversation with Jarrett Earnest (December 2017/January
           2018)
+  - person: paul-john
+  - person: chang-yuchen
   - person: megan-n-liberty
 poets:
   - person: jacob-bromberg
