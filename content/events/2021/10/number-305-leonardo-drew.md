@@ -1,6 +1,6 @@
 ---
 title: "Number 305: Leonardo Drew"
-deck: Featuring Drew and Eleanor Hartney.
+deck: Featuring Drew and Eleanor Hartney
 summary: Artist Leonardo Drew joins art critic and author Eleanor Hartney for a
   conversation. We conclude with a poetry reading by Imogen Xtian.
 people:
@@ -9,6 +9,7 @@ people:
 poets: []
 date: 2021-10-11T13:00:00-0500
 end_date: 2021-10-11T14:30:00-0500
+series: 404
 collections:
   - the-new-social-environment
 event_sponsor:
