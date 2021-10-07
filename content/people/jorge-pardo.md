@@ -13,7 +13,7 @@ short_bio: Artist **Jorge Pardo’s** work explores the intersection of
   Artist Award (2001); the Louis Comfort Tiffany Foundation Award (1995). Pardo
   studied at the University of Illinois, Chicago and received his BFA from Art
   Center College of Design in Pasadena, California. Born in Havana, Cuba in
-  1963, he currently lives and works in Merida, Mexico.**
+  1963, he currently lives and works in Merida, Mexico.
 portraits:
   - media: 2021/10/jorge-pardo
 ---
