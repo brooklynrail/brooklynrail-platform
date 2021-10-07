@@ -14,5 +14,5 @@ short_bio: "Independent printer **Paul John** is a co-founder and director of
   Printmaking Workshop. "
 portraits:
   - media: 2021/10/paul-john
-website: http://www.pauljohninternetart.info/
+website: https://thinkingaboutmyfavoritetree.com/
 ---
