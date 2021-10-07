@@ -5,8 +5,10 @@ summary: David Shapiro curates the 55th Radical Poetry Reading featuring poetry
   read by Kate Farrell, Joanna Fuhrman, Charles North, Michael Palmer, and
   Shapiro.
 people:
-  - person: joanna-fuhrman
   - person: david-shapiro
+  - person: kate-farrell
+  - person: charles-north-1
+  - person: charles-north-1
 date: 2021-10-13T13:00:00-0500
 end_date: 2021-10-13T14:30:00-0500
 series: 406
