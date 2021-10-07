@@ -1,8 +1,9 @@
 ---
 title: "Radical Poetry Reading with David Shapiro "
-deck: Featuring Kate Farrell, Joanna Fuhrman, and Michael Palmer
+deck: Featuring Kate Farrell, Joanna Fuhrman, Charles North, and Michael Palmer
 summary: David Shapiro curates the 55th Radical Poetry Reading featuring poetry
-  read by  Kate Farrell, Joanna Fuhrman, Michael Palmer, and Shapiro.
+  read by Kate Farrell, Joanna Fuhrman, Charles North, Michael Palmer, and
+  Shapiro.
 people:
   - person: joanna-fuhrman
   - person: david-shapiro
@@ -17,6 +18,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: recQS4nBsFRSHPgdX
 event_platform:
   - zoom
 ---
