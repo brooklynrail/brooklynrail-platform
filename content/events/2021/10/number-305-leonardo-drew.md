@@ -1,8 +1,9 @@
 ---
 title: "Number 305: Leonardo Drew"
 deck: Featuring Drew and Eleanor Hartney
-summary: Artist Leonardo Drew joins art critic and author Eleanor Hartney for a
-  conversation. We conclude with a poetry reading by Imogen Xtian.
+summary: Artist Leonardo Drew joins art critic, author, and Rail Editor-at-Large
+  Eleanor Hartney for a conversation. We conclude with a poetry reading by
+  Imogen Xtian.
 people:
   - person: leonardo-drew
   - person: eleanor-heartney
