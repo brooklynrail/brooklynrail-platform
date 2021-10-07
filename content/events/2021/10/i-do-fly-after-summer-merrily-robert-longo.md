@@ -1,6 +1,6 @@
 ---
 title: "I do fly / After summer merrily: Robert Longo "
-deck: Featuring Longo and Jason Rosenfeld.
+deck: Featuring Longo and Jason Rosenfeld
 summary: Artist Robert Longo joins Rail Editor-at-Large Jason Rosenfeld for a
   conversation. We conclude with a poetry reading by I.S. Jones.
 people:
