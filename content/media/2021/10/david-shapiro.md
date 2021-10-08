@@ -1,5 +1,5 @@
 ---
-media: /media/files/img_0118.jpg
+media: /media/files/david-shapiro.jpg
 title: David Shapiro
 alt: A portrait of David Shapiro
 caption: ""
