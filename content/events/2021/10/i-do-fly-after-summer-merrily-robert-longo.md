@@ -23,4 +23,8 @@ event_id: recVOTadTphACf3tM
 event_platform:
   - zoom
 ---
+***Please note*** this event will take place at **2pm ET / 11am PT**.
+
+
+
 **[Visit the gallery’s website for more details on the exhibition »](https://www.pacegallery.com/exhibitions/robert-longo/)**
