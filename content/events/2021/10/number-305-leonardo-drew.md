@@ -10,7 +10,8 @@ people:
       - text: Leonardo Drew in conversation with Charles Schultz (July/August 2019)
         url: https://brooklynrail.org/2019/07/art/LEONARDO-DREW-with-Charles-Schultz
   - person: eleanor-heartney
-poets: []
+poets:
+  - person: charles-theonia-1
 date: 2021-10-11T13:00:00-0500
 end_date: 2021-10-11T14:30:00-0500
 series: 404
