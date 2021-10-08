@@ -10,7 +10,19 @@ people:
     related_links:
       - url: https://cavecanempoets.org/announcing-the-winner-of-the-2018-cave-canem-poetry-prize/
         text: Winner of the 2018 Cave Canem Poetry Prize
+  - person: chekwube-danladi
+    related_links:
+      - text: "2019 Cave Canem Poetry Prize Reading: Chekwube Danladi"
+        url: https://cavecanempoets.org/calendar/2019-cave-canem-poetry-prize-reading-chekwube-danladi/
+  - person: brionne-janae
+    related_links:
+      - text: 2020 Cave Canem Northwestern University Press Poetry Prize
+        url: https://cavecanempoets.org/brionne-janae-wins-2020-cave-canem-northwestern-university-press-poetry-prize/
   - person: cole-swensen
+  - person: wale-ayinla
+    related_links:
+      - text: 2020 Toi Derricotte and Cornelius Eady Chapbook Prize
+        url: https://cavecanempoets.org/wale-ayinla-wins-2020-toi-derricotte-and-cornelius-eady-chapbook-prize/
 date: 2021-10-14T12:00:00-0500
 end_date: 2021-10-14T13:30:00-0500
 collections:
