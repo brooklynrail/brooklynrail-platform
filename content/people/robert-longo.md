@@ -3,16 +3,16 @@ name: Robert Longo
 first_name: Robert
 last_name: Longo
 pronouns: He/Him
-short_bio: Artist **Robert Longo** was born in 1953 in Brooklyn, New York, and
-  now lives and works in New York City. In 2016, the Garage Museum of
-  Contemporary Art, Moscow, presented a major exhibition of his works alongside
-  those of Francisco Goya and Sergei Eisenstein. The exhibition, titled Proof,
-  traveled to the Brooklyn Museum in 2017 and to the Deichtorhallen Hamburg in
-  2018. Longo additionally has had one-person exhibitions at the Musée d‘art
-  moderne et d‘art contemporain, Nice; Kunstmuseen Krefeld, Germany; Albertina,
-  Vienna; and Isetan Museum of Art, Tokyo, among others. He has been included in
-  Documenta 7 and 8, the 1983 and 2004 Whitney Biennials, and the 47th Venice
-  Biennale.
+short_bio: Artist **Robert Longo** (b. Brooklyn, 1953) lives and works in New
+  York. His work is represented in major museums and private collections,
+  including the collections of MoMA, New York; The Broad Collection, Los
+  Angeles; and the Centre Georges Pompidou in Paris. Longo is represented by
+  Galerie Thaddaeus Ropac; London, Paris, Salzburg. For the last 40 years Longo
+  was represented by Metro Pictures, New York. His debut solo exhibition at his
+  new representation, Pace Gallery, is on view until October 23rd. Another
+  presentation of Longo’s work opens on the seventh floor of Pace’s gallery in
+  New York on November 4th. Currently Longo also has solo exhibitions at the
+  Palm Springs Art Museum, California; and at Guild Hall, East Hampton.
 portraits:
   - media: 2021/10/robert-longo
 website: https://www.robertlongo.com
