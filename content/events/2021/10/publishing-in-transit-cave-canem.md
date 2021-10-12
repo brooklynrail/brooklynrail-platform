@@ -1,6 +1,7 @@
 ---
 title: "Publishing-in-Transit: Cave Canem"
-deck: Editors and Writers in Conversation
+deck: Featuring Chekwube Danladi, Brionne Janae, and Wale Ayinla with Malcolm
+  Tariq and Cole Swensen
 summary: Cave Canem Programs Manager Malcolm Tariq and poets Chekwube Danladi,
   Brionne Janae, and Wale Ayinla join writer and literary critic Cole Swensen
   for a conversation on literary publishing. We open with readings by the
