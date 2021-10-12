@@ -6,6 +6,9 @@ summary: David Shapiro curates the 55th Radical Poetry Reading featuring poetry
   Shapiro.
 people:
   - person: david-shapiro
+    related_links:
+      - url: https://citylights.com/city-lights-published/in-memory-of-an-angel/
+        text: In Memory of an Angel (City Lights 2017) →
   - person: kate-farrell
   - person: joanna-fuhrman
   - person: charles-north-1
