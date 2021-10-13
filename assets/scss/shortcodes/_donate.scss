@@ -15,12 +15,18 @@
 
   // Buttons for selecting donation amounts
   .options{
-    @include u-padding-y(3);
+    @include u-padding-y(1);
     @include u-width('full');
     @include u-display('flex');
-    @include u-flex('justify');
     @include u-flex('wrap');
+    justify-content: center;
+    @include at-media("tablet-lg") {
+      @include u-flex('justify');
+      @include u-flex('row');
+    }
+    gap-x:1em;
     button{
+      @include u-margin-bottom(1);
       @include u-padding-x(3);
       @include u-padding-y(2);
       @include u-radius("lg");
@@ -29,6 +35,18 @@
       @include u-text("medium");
       @include u-border(0);
       @include u-cursor("pointer");
+      width:49%;
+      @include at-media("tablet-lg") {
+        @include u-width('auto');
+        @include u-flex('justify');
+      }
+      &:nth-child(odd) {
+        @include u-margin-right(1);
+        @include at-media("tablet-lg") {
+          @include u-margin-right(0);
+        }
+        
+      };
       &:last-child {
         @include u-margin-right(0);
       };
@@ -110,8 +128,7 @@
   }
   
   .content {
-    @include u-border-top("1px", "solid", "gray-20");
-    @include u-margin-top(2);
+    @include u-margin-top(1);
     @include u-padding-top(2);
     p {
       @include u-margin-bottom(0);
@@ -125,9 +142,17 @@
       }
     }
     pre{
-      @include u-padding-y(1);
+      @include u-padding-y(2);
       @include u-padding-x(2);
+      @include u-padding-right(9);
+      @include u-radius('lg');
+      // @include u-padding(0);
+      @include u-bg('white');
+      @include u-display('inline-block');
       @include u-font("mono", "2xs");
     }
+  }
+  .terms{
+    @include u-border-top("1px", "solid", "gray-20");
   }
 }
