@@ -12,6 +12,16 @@ Donate Shortcode
 
   <form class="rail-form" id="donate-form">
     <fieldset>
+      
+      <div class="options">
+        <button class="amount" data-amount="25.00">$25</button>
+        <button class="amount" data-amount="50.00">$50</button>
+        <button class="amount" data-amount="100.00">$100</button>
+        <button class="amount" data-amount="500.00">$500</button>
+        <button class="amount" data-amount="1000.00">$1,000</button>
+        <button class="amount" data-amount="10000.00">$10,000 +</button>
+      </div>
+
       <div class="fields">
         {{- if $heading -}}
           <legend>{{- $heading -}}</legend>
@@ -21,10 +31,10 @@ Donate Shortcode
 
         <div class="group">
           <div class="field">
-            <label for="donate-amount">Amount</label>
+            <label for="donate-amount">Choose your amount</label>
             <div class="prefix">
               <span>$</span>
-              <input required type="number" min="0" placeholder="{{- if $placeholder -}}{{- $placeholder -}}{{- else -}}250{{- end -}}" id="donate-amount" />
+              <input required type="number" placeholder="{{- if $placeholder -}}{{- $placeholder -}}{{- else -}}250{{- end -}}" name="amount" id="donate-amount" pattern="^\d+(?:\.\d{1,2})?$" title="Currency" min="0" value="" step="0.01" />
             </div>
           </div>
         </div>
@@ -45,17 +55,27 @@ Donate Shortcode
             <div class="btn-helper">
               <button class="btn btn-md" type="button" id="btn-donate" disabled><span>Donate</span></button>
             </div>
-            
           </div>
         </div>
         
       </div>
       <p class="helper"></p>
+
+      <div class="usa-checkbox transaction-fee-checkbox">
+        <input class="usa-checkbox__input" id="transaction-fee" type="checkbox" name="donation_types" value="" data-fee="">
+        <label class="usa-checkbox__label" for="transaction-fee">Include the <span>$0.00</span> processing fee?</label>
+      </div>
+
     </fieldset>
   </form>
+  <div class="content"><p><strong>Or skip the fees mail a check to:</strong>
+    <pre>The Brooklyn Rail
+253 36th Street, 3rd Floor, Suite C304
+Brooklyn, NY 11232
+Mailbox 20</pre></p></div>
   <div class="content">
     <p>The Brooklyn Rail is a nonprofit 501(c)(3) organization. Your donation is fully deductible. Questions? Email <a
-    href="mailto:hq@brooklynrail.org" title="email the Brooklyn Rail">hq@brooklynrail.org</a></p>
+    href="mailto:donate@brooklynrail.org" title="email the Brooklyn Rail">donate@brooklynrail.org</a> ❤️</p>
   </div>
   
 </div>
