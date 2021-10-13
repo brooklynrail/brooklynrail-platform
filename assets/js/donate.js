@@ -67,7 +67,7 @@ jQuery(document).ready(function($) {
 	function getFee(current_val){
 		if (current_val == 0){ return 0 }
 
-		var _fee = { Percent: 2.9, Fixed: 0.30 }
+		var _fee = { Percent: 2.9, Fixed: 1.50 }
 		var amount = parseFloat(current_val);
 
 		// get the new Total
