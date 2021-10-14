@@ -36,6 +36,10 @@ Donate Shortcode
               <span>$</span>
               <input required type="number" placeholder="{{- if $placeholder -}}{{- $placeholder -}}{{- else -}}250{{- end -}}" name="amount" id="donate-amount" pattern="^\d+(?:\.\d{1,2})?$" title="Currency" min="0" value="" step="0.01" />
             </div>
+            <div class="usa-checkbox transaction-fee-checkbox">
+              <input class="usa-checkbox__input" id="transaction-fee" type="checkbox" name="donation_types" value="" data-fee="">
+              <label class="usa-checkbox__label" for="transaction-fee">Include the <span>$0.00</span> processing fee?</label>
+            </div>
           </div>
         </div>
         <div class="group hidden">
@@ -61,10 +65,7 @@ Donate Shortcode
       </div>
       <p class="helper"></p>
 
-      <div class="usa-checkbox transaction-fee-checkbox">
-        <input class="usa-checkbox__input" id="transaction-fee" type="checkbox" name="donation_types" value="" data-fee="">
-        <label class="usa-checkbox__label" for="transaction-fee">Include the <span>$0.00</span> processing fee?</label>
-      </div>
+      
 
     </fieldset>
   </form>
