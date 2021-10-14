@@ -1,8 +1,9 @@
 ---
 title: "From My Window: Lois Dodd"
 deck: Featuring Dodd and Barry Schwabsky
-summary: "Painter Lois Dodd joins critic Barry Schwabsky for a conversation. We
-  close with a reading from Anselm Berrigan's Pregrets by S. David. "
+summary: "Painter Lois Dodd joins Rail Editor-at-Large Barry Schwabsky for a
+  conversation. We close with a reading from Anselm Berrigan's Pregrets by S.
+  David. "
 people:
   - person: lois-dodd
   - person: barry-schwabsky
