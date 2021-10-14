@@ -1,0 +1,11 @@
+{{/*
+Instagram Shortcode
+{{< instagram align="right" >}}
+*/}}
+
+{{- $align := (.Get "align") -}}
+
+<div class="shortcode-instagram {{ if $align -}}align-{{- $align -}}{{- end -}}">
+  {{- $contents := .Inner -}}
+  {{- $contents -}}
+</div>

@@ -1,0 +1,38 @@
+// ====================================
+// Donate
+
+.shortcode-instagram {
+  @include u-margin-top(2, !important);
+  @include u-margin-bottom(2, !important);
+  @include u-margin-right("neg-3");
+  @include u-margin-left(0);
+  margin-right: 0;
+  @include u-width("full");
+  @include u-float("right");
+  @include at-media("tablet-lg") {
+    @include u-margin-top(1,  !important);
+    @include u-margin-left(3);
+    margin-right: -3rem;
+    @include u-width("auto");
+  }
+  @include at-media("desktop") {
+    margin-right: -6rem;
+    @include u-width("mobile");
+  }
+  iframe{
+    @include u-maxw("full");
+  }
+}
+.align-right{
+  @include u-float("right");
+}
+.align-left {
+  @include u-float("left");
+  @include at-media("tablet-lg") {
+    @include u-margin-right(5);
+    margin-left: -3rem;
+  }
+  @include at-media("desktop") {
+    margin-left: -10rem;
+  }
+}
