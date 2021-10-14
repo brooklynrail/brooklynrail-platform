@@ -9,7 +9,7 @@ poets:
   - person: pierre-joris
 date: 2021-10-21T13:00:00-0500
 end_date: 2021-10-21T14:30:00-0500
-series: 412
+series: ""
 collections:
   - common-ground
 event_sponsor:
@@ -18,6 +18,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: recg9aHZoVuvKEMYR
 event_platform:
   - zoom
 ---
