@@ -2,9 +2,11 @@
 title: "A Little Piece of Light: Donna Hylton"
 deck: Donna Hylton with JoAnne Page
 summary: Criminal justice activists Donna Hylton and JoAnne Page sit down for a
-  conversation on alternatives to incarceration. We conclude with a poetry
-  reading.
+  conversation on alternatives to incarceration. We conclude with a reading of
+  Galal El-Behairy's 'Letters from Tora Prison' by Pierre Joris.
 people: []
+poets:
+  - person: pierre-joris
 date: 2021-10-21T13:00:00-0500
 end_date: 2021-10-21T14:30:00-0500
 series: 412
