@@ -158,14 +158,14 @@
       }
     }
     pre{
-      @include u-padding-y(2);
-      @include u-padding-x(2);
+      @include u-padding-y('105');
+      @include u-padding-x('105');
       @include u-padding-right(9);
       @include u-radius('lg');
-      // @include u-padding(0);
       @include u-bg('white');
+      @include u-text('base-dark');
       @include u-display('inline-block');
-      @include u-font("mono", "2xs");
+      @include u-font("sans", "2xs");
     }
   }
   .terms{
