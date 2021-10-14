@@ -15,5 +15,6 @@ short_bio: "Artist **Kon Trubkovich** uses recollection as the primary source
   permanent collections. Born in Moscow, Russia, Trubkovich lives and works in
   Brooklyn, NY. "
 portraits:
-  - media: 2021/10/kon-trubkovich-1
+  - media: 2021/10/kon-trubkovich
+instagram: trubkovich
 ---
