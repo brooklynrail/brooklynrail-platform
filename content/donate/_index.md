@@ -3,8 +3,8 @@ title: Donate to the Brooklyn Rail
 headline: Donate to the Rail
 deck: Help us build a $10 million endowment to keep the Brooklyn Rail
   independent and free for generations to come
-summary: This year marks the Rail's 20th anniversary as a free and independent
-  publication
+summary: Help us build a $10 million endowment to keep the Brooklyn Rail
+  independent and free for generations to come
 donation_goal: 250000
 donation_amt: 251182
 donation_count: 410
