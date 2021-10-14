@@ -53,7 +53,7 @@ exports.handler = function(event, context, callback) {
       mode: "payment",
       line_items: [
         {
-          name: "Donation",
+          name: "Endowment Donation",
           amount: data.amount,
           currency: "usd",
           quantity: 1
