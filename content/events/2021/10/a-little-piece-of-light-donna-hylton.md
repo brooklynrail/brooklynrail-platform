@@ -7,8 +7,8 @@ summary: Criminal justice activists Donna Hylton and JoAnne Page sit down for a
 people: []
 poets:
   - person: pierre-joris
-date: 2021-10-21T13:00:00-0500
-end_date: 2021-10-21T14:30:00-0500
+date: 2021-10-21T12:30:00-0500
+end_date: 2021-10-21T14:00:00-0500
 series: ""
 collections:
   - common-ground
