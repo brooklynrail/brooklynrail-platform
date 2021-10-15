@@ -3,18 +3,18 @@ name: Pierre Joris
 first_name: Pierre
 last_name: Joris
 pronouns: he/him
-short_bio: "Poet **Pierre Joris** was raised in Luxembourg and has moved between
-  Europe, the U.S., and North Africa for half a century now, publishing close to
-  fifty books of poetry, essays, translations, and anthologies. Recent
-  publications include _The Agony of I.B._ (a play commissioned & produced in
-  June 2016 by the Théatre National du Luxembourg; Editions PHI), _An American
-  Suite_ (early poems; inpatient press, 2016), _Barzakh: Poems 2000-2012_ (Black
-  Widow Press, 2014), and _Breathturn into Timestead: The Collected Later Poetry
-  of Paul Celan_ (FSG, 2014). When not on the road, he lives in Sorrentinostan
-  (Bay Ridge, Brooklyn) with his wife, multimedia performance artist and writer
-  Nicole Peyrafitte."
+short_bio: "Poet, translator, essayist, anthologist **Pierre Joris** has moved
+  between Europe. the United States, and North Africa for 55 years, publishing
+  over 80 books of poetry, essays, translations, and anthologies Most recently,
+  *Fox-trails, -tales & -trots* (Black Fountain Press 2020), the translations
+  *Memory Rose into Threshold Speech: The Collected Earlier Poetry of Paul
+  Celan* (FGS 2020), and *A City Full of Voices: Essays on the Work of Robert
+  Kelly* and *Microliths: Posthumous Prose of Paul Celan,* *A City Full of
+  Voices: Essays on the Work of Robert Kelly* (all Contra Mundum Press 2020).
+  When not on the road, he lives in Bay Ridge, Brooklyn, with his wife,
+  multimedia praticienne Nicole Peyrafitte."
 portraits:
-  - media: 2021/08/pierre-joris
+  - media: 2021/10/pierre-joris-oct-2021-updated-headshot
 rail_contributor_url: https://brooklynrail.org/contributor/pierre-joris
 website: http://pierrejoris.com/
 twitter: pjoris
