@@ -12,6 +12,6 @@ short_bio: "Writer and critic **Hazem Fahmy** from Cairo runs the media
   Shot_, and _Mizna_. His performances have been featured on _Button Poetry_ and
   _Write About Now_. "
 portraits:
-  - {}
+  - media: 2021/10/hazem-fahmy
 website: http://www.hazem-fahmy.com/
 ---
