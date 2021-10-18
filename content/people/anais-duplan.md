@@ -1,6 +1,6 @@
 ---
-name: "Anaïs Duplan"
-first_name: "Anaïs"
+name: Anaïs Duplan
+first_name: Anaïs
 last_name: Duplan
 short_bio: "Trans poet, artist, and curator, **Anaïs Duplan** is the author of a
   book of essays *Blackspace: On the Poetics of an Afrofuture* (Black Ocean,
@@ -10,7 +10,7 @@ short_bio: "Trans poet, artist, and curator, **Anaïs Duplan** is the author of 
   at the Museum of Modern Art and the Studio Museum in Harlem. In 2016, he
   founded the Center for Afrofuturist Studies, an artist residency program for
   artists of color, based at Iowa City’s artist-run organization Public Space
-  One. He works as Program Manager at Recess."
+  One."
 portraits:
   - media: 2021/05/anais-duplan-headshot
 ---
