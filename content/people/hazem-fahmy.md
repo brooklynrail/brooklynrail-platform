@@ -3,7 +3,7 @@ name: Hazem Fahmy
 first_name: Hazem
 last_name: Fahmy
 pronouns: He/Him
-short_bio: "Writer and critic **Hazem Fahmy** from Cairo runs the media
+short_bio: "Writer and critic from Cairo, **Hazem Fahmy** runs the media
   criticism newsletter _Zam Zoum_, on Letterdrop. His debut chapbook,
   _Red//Jild//Prayer_ won the 2017 Diode Editions Contest. A Kundiman and
   Watering Hole Fellow, his poetry has appeared, or is forthcoming in _The Best
