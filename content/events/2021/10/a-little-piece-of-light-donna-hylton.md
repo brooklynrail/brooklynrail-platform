@@ -4,7 +4,9 @@ deck: Donna Hylton with JoAnne Page
 summary: Criminal justice activists Donna Hylton and JoAnne Page sit down for a
   conversation on alternatives to incarceration. We conclude with a reading of
   Galal El-Behairy's 'A Letter from Tora Prison' by Pierre Joris.
-people: []
+people:
+  - person: donna-hylton
+  - person: joanne-page
 poets:
   - person: pierre-joris
 date: 2021-10-21T12:30:00-0500
