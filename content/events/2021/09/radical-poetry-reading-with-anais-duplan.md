@@ -1,10 +1,13 @@
 ---
 title: Radical Poetry Reading with Anaïs Duplan
-deck: Featuring Duplan, Fargo Nissim Tbakhi, Aristilde Kirby, and Hazem Fahmy.
+deck: Featuring Duplan, Fargo Nissim Tbakhi, Aristilde Kirby, and Hazem Fahmy
 summary: Anaïs Duplan curates the 56th Radical Poetry Reading featuring poetry
   read by Duplan, Fargo Nissim Tbakhi, Aristilde Kirby, and Hazem Fahmy.
 people:
   - person: anais-duplan
+  - person: fargo-nissim-tbakhi
+  - person: aristilde-kirby
+  - person: hazem-fahmy
 date: 2021-10-20T13:00:00-0500
 end_date: 2021-10-20T14:30:00-0500
 series: 411
