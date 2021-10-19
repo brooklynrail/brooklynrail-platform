@@ -7,6 +7,7 @@ summary: Danusha Laméris curates the 58th Radical Poetry Reading featuring
   Torres, and Laméris.
 people:
   - person: danusha-lameris-1
+  - person: nickole-brown
 date: 2021-11-03T13:00:00-0500
 end_date: 2021-11-03T14:30:00-0500
 series: 421
