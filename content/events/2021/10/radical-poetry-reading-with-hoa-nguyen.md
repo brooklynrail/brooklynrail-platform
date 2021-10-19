@@ -1,7 +1,9 @@
 ---
 title: Radical Poetry Reading with Hoa Nguyen
-deck: "Featuring Nguyen and friends "
-summary: "Hoa Nguyen curates the 57th Radical Poetry Reading. "
+deck: Featuring Vi Khi Nao, Diana Khoi Nguyen, Dao Strom, and Souvankham Thammavongsa
+summary: "Hoa Nguyen curates the 57th Radical Poetry Reading featuring poetry
+  read by Vi Khi Nao, Diana Khoi Nguyen, Dao Strom, Souvankham Thammavongsa, and
+  Nguyen. "
 people:
   - person: hoa-nguyen
 date: 2021-10-27T13:00:00-0500
@@ -20,4 +22,4 @@ portraits:
 event_platform:
   - zoom
 ---
-More readers to be announced!
+*More info to come!*
