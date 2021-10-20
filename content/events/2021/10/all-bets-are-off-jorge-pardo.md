@@ -5,6 +5,9 @@ summary: Artist Jorge Pardo joins Rail Publisher and Artistic Director Phong H.
   Bui for a conversation. We conclude with a poetry reading by Kendra Sullivan.
 people:
   - person: jorge-pardo
+    related_links:
+      - text: Leonardo Drew in conversation with Charles Schultz (July/August 2019)
+        url: https://brooklynrail.org/2019/07/art/LEONARDO-DREW-with-Charles-Schultz
   - person: phong-h-bui
 poets:
   - person: kendra-sullivan
@@ -19,6 +22,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: W90RvdQyR_U
 event_id: recIVBvPBFaUTawiF
 event_platform:
   - zoom
