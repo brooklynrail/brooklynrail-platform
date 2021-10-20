@@ -24,4 +24,4 @@ event_id: rec8qOXqbQt08Cbvl
 event_platform:
   - zoom
 ---
-[Check out *Lois Dodd: From My Window* on view at Alexandra Gallery through Oct 23 →](https://www.alexandregallery.com/current-exhibitions)
+[Check out *Lois Dodd: From My Window* on view at Alexandre Gallery through Oct 30 →](https://www.alexandregallery.com/current-exhibitions)
