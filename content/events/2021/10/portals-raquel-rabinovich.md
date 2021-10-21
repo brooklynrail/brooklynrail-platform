@@ -24,4 +24,4 @@ portraits:
 event_platform:
   - zoom
 ---
-[Check out *Raquel Rabinovich: Portals* on view at Hutchinson Modern & Contemporary, up until November 5 →](https://hutchinsonmodern.com/exhibitions/22-raquel-rabinovich-portals/works/)
+**[Check out *Raquel Rabinovich: Portals* on view at Hutchinson Modern & Contemporary, up until November 5 →](https://hutchinsonmodern.com/exhibitions/22-raquel-rabinovich-portals/works/)**
