@@ -1,6 +1,6 @@
 ---
 title: "Una Stanza Per Panza: Donald Judd"
-deck: Featuring Amy Adler and Joan Kee
+deck: Featuring Amy Adler, Joan Kee, and friends
 summary: Law Professor Amy Adler and friends join Rail Editor-at-Large Joan Kee
   for a conversation on Donald Judd’s “Una stanza per Panza,” published as a
   special edition in the Rail’s October issue. We conclude with a poetry
@@ -19,6 +19,8 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: reckK57qrErqjSOVy
 event_platform:
   - zoom
 ---
+***More participants to be announced.***
