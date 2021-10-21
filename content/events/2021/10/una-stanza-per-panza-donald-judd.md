@@ -24,3 +24,5 @@ event_platform:
   - zoom
 ---
 ***More participants to be announced.***
+
+**[Read Donald Judd's essay "Una Stanza Per Panza" printed in the Rail's October 2021 issue →](https://brooklynrail.org/2021/10/art/Una-Stanza-Per-Panza)**
