@@ -23,4 +23,4 @@ event_id: recpWWtXlTkctzqUW
 event_platform:
   - zoom
 ---
-[Check out *David Salle: Tree of Life* on view at Skarstedt Gallery until October 30 →](https://www.skarstedt.com/exhibitions/david-salle-tree-of-life)
+**[Check out *David Salle: Tree of Life* on view at Skarstedt Gallery until October 30 →](https://www.skarstedt.com/exhibitions/david-salle-tree-of-life)**
