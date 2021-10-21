@@ -10,9 +10,9 @@ people:
   - person: joan-kee
 date: 2021-10-28T13:00:00-0500
 end_date: 2021-10-28T14:30:00-0500
-series: 417
+series: ""
 collections:
-  - the-new-social-environment
+  - common-ground
 event_sponsor:
   - dermot-comany
 event_organizer:
