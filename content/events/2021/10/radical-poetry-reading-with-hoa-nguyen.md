@@ -8,7 +8,7 @@ people:
   - person: hoa-nguyen
 date: 2021-10-27T13:00:00-0500
 end_date: 2021-10-27T14:30:00-0500
-series: 417
+series: 416
 collections:
   - the-new-social-environment
 event_sponsor:
