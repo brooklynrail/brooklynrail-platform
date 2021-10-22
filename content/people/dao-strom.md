@@ -1,20 +1,24 @@
 ---
-short_bio: Dao Strom is the author of the poetry collection, Instrument
-  (Fonograf Editions), and its musical companion piece, Traveler’s Ode
-  (Antiquated Future Records), forthcoming this fall; a bilingual poetry-art
-  book, You Will Always Be Someone From Somewhere Else; an experimental memoir,
-  We Were Meant To Be a Gentle People, and song cycle, East/West; and two books
-  of fiction. She has received awards from the Creative Capital Foundation,
-  Literary Arts, RACC, the NEA, and others. She is the co-founder of two
-  collaborative art projects, She Who Has No Master(s), and De-Canon. Dao Strom
-  was born in Vietnam and grew up in the Sierra Nevada foothills of California.
-  She lives in Portland, Oregon.
-title: Radical Poetry Reading with Brandon Shimoda
-deck: Featuring political poetry read by Aditi Machado, Angel Dominguez, Canisia
-  Lubrin, Dao Strom, S*an D. Henry-Smith, and Youna Kwak
+short_bio: Artist **Dao Strom** works with three “voices”—written, sung,
+  visual—to explore hybridity and the intersection of personal and collective
+  histories. The author of five books and two song-cycles, most recently the
+  poetry collection, _Instrument_ (Fonograf Editions, 2020), and its companion
+  album, _Traveler’s Ode_ (Antiquated Future Records, 2020), Strom was born in
+  Vietnam and grew up in the Sierra Nevadas of California. She is also
+  co-founder and director of two collective art projects, She Who Has No
+  Master(s), and De-Canon.
 summary: Poet Brandon Shimoda curates the third installment in a new series of
   Radical Poetry Readings, featuring Aditi Machado, Angel Dominguez, Canisia
   Lubrin, Dao Strom, S*an D. Henry-Smith, and Youna Kwak.
+event_platform_url: https://zoom.us/j/168237583?pwd=QWhtUHZxWElyOXV5UHVNWWZHdlhIQT09
+deck: Featuring political poetry read by Aditi Machado, Angel Dominguez, Canisia
+  Lubrin, Dao Strom, S*an D. Henry-Smith, and Youna Kwak
+registration_url: https://www.eventbrite.com/e/the-new-social-environment-121-radical-poetry-with-brandon-shimoda-tickets-118410181039
+event_organizer:
+  - the-brooklyn-rail
+name: Dao Strom
+pronouns: she/her/hers
+date: 2020-09-02 13:00:00 -0500
 people:
   - person: brandon-shimoda
     event_bio: >
@@ -82,24 +86,19 @@ people:
     event_bio: Youna Kwak is a poet, translator, and teacher. Her first poetry
       collection, entitled “sur vie,” was published this year by Fathom Books.
       She lives in the Inland Empire.
-date: 2020-09-02 13:00:00 -0500
 end_date: 2020-09-02 14:00:00 -0500
-series: 121
+last_name: Strom
+portraits:
+  - media: 2021/10/dao-strom
+twitter: herandthesea
 collections:
   - the-new-social-environment
-event_organizer:
-  - the-brooklyn-rail
-registration_url: https://www.eventbrite.com/e/the-new-social-environment-121-radical-poetry-with-brandon-shimoda-tickets-118410181039
-event_platform_url: https://zoom.us/j/168237583?pwd=QWhtUHZxWElyOXV5UHVNWWZHdlhIQT09
-name: Dao Strom
-pronouns: she/hers
-last_name: Strom
+series: 121
 event_producer:
   - the-brooklyn-rail
-portraits:
-  - media: 2020/08/dao-strom
 event_platform:
   - zoom
+title: Radical Poetry Reading with Brandon Shimoda
 first_name: Dao
 website: https://www.daostrom.com/
 ---
