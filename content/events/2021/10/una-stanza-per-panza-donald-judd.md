@@ -3,11 +3,13 @@ title: "Una Stanza Per Panza: Donald Judd"
 deck: Featuring Amy Adler, Joan Kee, and friends
 summary: Law Professor Amy Adler and friends join Rail Editor-at-Large Joan Kee
   for a conversation on Donald Judd’s “Una stanza per Panza,” published as a
-  special edition in the Rail’s October issue. We conclude with a poetry
-  reading.
+  special edition in the Rail’s October issue. We conclude with a poetry reading
+  by Sarah Ghazal Ali.
 people:
   - person: amy-adler
   - person: joan-kee
+poets:
+  - person: sarah-ghazal-ali
 date: 2021-10-28T13:00:00-0500
 end_date: 2021-10-28T14:30:00-0500
 series: ""
