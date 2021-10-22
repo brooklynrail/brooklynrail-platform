@@ -1,12 +1,15 @@
 ---
 title: "Portals: Raquel Rabinovich"
 deck: Featuring Rabinovich, Ann McCoy, and Alex Bacon
-summary: "Artist Raquel Rabinovich joins Rail Editor-at-Large Ann McCoy and art
-  historian Alex Bacon for a conversation. We conclude with a poetry reading. "
+summary: Artist Raquel Rabinovich joins Rail Editor-at-Large Ann McCoy and art
+  historian Alex Bacon for a conversation. We conclude with a poetry reading by
+  Rachel Levitsky.
 people:
   - person: raquel-rabinovich
   - person: ann-mccoy
   - person: alex-bacon
+poets:
+  - person: rachel-levitsky
 date: 2021-10-29T13:00:00-0500
 end_date: 2021-10-29T14:30:00-0500
 series: 418
