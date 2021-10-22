@@ -2,7 +2,8 @@
 title: "Tree of Life: David Salle"
 deck: Featuring Salle and Jason Rosenfeld
 summary: Artist and writer David Salle joins Rail Editor-at-Large Jason
-  Rosenfeld for a conversation. We conclude with a poetry reading.
+  Rosenfeld for a conversation. We conclude with a poetry reading by Carlos
+  Egaña.
 people:
   - person: david-salle
     related_links: []
