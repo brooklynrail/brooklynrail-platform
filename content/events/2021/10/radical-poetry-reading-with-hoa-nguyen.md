@@ -6,6 +6,10 @@ summary: "Hoa Nguyen curates the 57th Radical Poetry Reading featuring poetry
   Nguyen. "
 people:
   - person: hoa-nguyen
+  - person: vi-khi-nao
+  - person: diana-khoi-nguyen
+  - person: dao-strom
+  - person: souvankham-thammavongsa
 date: 2021-10-27T13:00:00-0500
 end_date: 2021-10-27T14:30:00-0500
 series: 416
@@ -23,4 +27,3 @@ portraits:
 event_platform:
   - zoom
 ---
-*More info to come!*
