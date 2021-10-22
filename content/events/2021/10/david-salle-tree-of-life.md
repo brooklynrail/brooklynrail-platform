@@ -8,7 +8,8 @@ people:
   - person: david-salle
     related_links: []
   - person: jason-rosenfeld
-poets: []
+poets:
+  - person: carlos-egana
 date: 2021-10-26T18:00:00-0500
 end_date: 2021-10-26T19:30:00-0500
 series: 415
