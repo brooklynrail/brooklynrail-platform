@@ -13,9 +13,9 @@ people:
   - person: aggie-falk
   - person: celia-hirschman
   - person: pierre-joris
+  - person: elaine-katzenberger
   - person: tongo-eisen-martin
   - person: devorah-major
-  - person: elaine-katzenberger
   - person: gail-mitchell
 date: 2021-11-10T13:00:00-0500
 end_date: 2021-11-10T14:30:00-0500
