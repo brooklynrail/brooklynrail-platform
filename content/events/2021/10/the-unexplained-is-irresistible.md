@@ -2,14 +2,13 @@
 title: " The Unexplained is Irresistible"
 deck: "A discussion on the work of Lennart Anderson "
 summary: A’Dora Phillips will moderate a discussion on the work of Lennart
-  Anderson with Jennifer Samet, Brian Schumacher, Amy Weiskopf, & John Yau,
-  Moderated by A’Dora Phillips.
+  Anderson with Jennifer Samet, Brian Schumacher, Amy Weiskopf, and John Yau.
 people:
   - person: a’dora-phillips
   - person: jennifer-samet
-  - person: a’dora-phillips
+  - person: brian-schumacher
   - person: amy-weiskopf
-  - person: john-yau-1
+  - person: john-yau
 date: 2021-10-25T06:30:00-0500
 end_date: 2021-10-31T23:30:00-0500
 collections:
