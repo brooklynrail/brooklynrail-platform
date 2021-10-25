@@ -7,8 +7,8 @@ summary: Cynthia Dewi Oka curates the 60th Radical Poetry Reading featuring
   and Rajiv Mohabir.
 people:
   - person: cynthia-dewi-oka
-  - person: rajiv-mohabir
   - person: cortney-lamar-charleston
+  - person: airea-d-matthews
 date: 2021-11-17T14:00:00-0500
 end_date: 2021-11-17T14:30:00-0500
 series: 431
