@@ -1,9 +1,9 @@
 ---
 title: Radical Poetry Reading with Cynthia Dewi Oka
-deck: Featuring Cortney Lamar Charleston, Airea Dee Matthews, Trapeta Mayson,
-  and Rajiv Mohabir
+deck: Featuring Cortney Lamar Charleston, Airea D. Matthews, Trapeta Mayson, and
+  Rajiv Mohabir
 summary: Cynthia Dewi Oka curates the 60th Radical Poetry Reading featuring
-  poetry read by Cortney Lamar Charleston, Airea Dee Matthews, Trapeta Mayson,
+  poetry read by Cortney Lamar Charleston, Airea D. Matthews, Trapeta Mayson,
   and Rajiv Mohabir.
 people:
   - person: cynthia-dewi-oka
