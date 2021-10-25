@@ -2,8 +2,7 @@
 title: Radical Poetry Reading with Cynthia Dewi Oka
 deck: Featuring Cortney Lamar Charleston, Airea Dee Matthew, and Rajiv Mohabir
 summary: Cynthia Dewi Oka curates the 60th Radical Poetry Reading featuring
-  poetry read by **Cortney Lamar Charleston, Airea Dee Mathew, and Rajiv
-  Mohabir.**
+  poetry read by Cortney Lamar Charleston, Airea Dee Matthew, and Rajiv Mohabir.
 people:
   - person: cynthia-dewi-oka
   - person: rajiv-mohabir
