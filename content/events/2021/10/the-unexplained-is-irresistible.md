@@ -9,7 +9,7 @@ people:
   - person: brian-schumacher
   - person: amy-weiskopf
   - person: john-yau
-date: 2021-10-25T06:30:00-0500
+date: 2021-10-26T18:30:00-0500
 end_date: 2021-10-31T23:30:00-0500
 collections:
   - sponsored-listing
