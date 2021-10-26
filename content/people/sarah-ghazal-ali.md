@@ -9,5 +9,5 @@ short_bio: Pakistani-American writer, editor, and educator, **Sarah Ghazal Ali**
   currently serves as Editor-in-Chief of *Palette Poetry*. She lives in
   California and is drawn like a moth to all things green.
 portraits:
-  - media: 2021/10/sarah-ghazal-ali
+  - media: 2021/10/sarah-ghazal-ali-new-upload
 ---
