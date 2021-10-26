@@ -19,6 +19,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: 6mi84Oiqq6w
 event_id: reczWZWLC2qoNLkpU
 portraits:
   - media: 2021/10/thomas-schutte
