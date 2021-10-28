@@ -8,5 +8,6 @@ short_bio: Art historian and attorney based in New York, **Virginia Rutledge**
   at Cravath, Swaine & Moore LLP, and vice president and general counsel of
   Creative Commons. She is now in private practice focusing on intellectual
   property, contemporary art, and cultural organizations.
-portraits: []
+portraits:
+  - media: 2021/10/virginia-rutledge
 ---
