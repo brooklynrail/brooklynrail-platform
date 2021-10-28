@@ -21,6 +21,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: _z4xt5yjm9w
 event_id: recMvQbTiTH4eoizd
 portraits:
   - media: 2021/10/hoa-nguyen
