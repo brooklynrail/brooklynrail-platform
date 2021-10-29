@@ -2,7 +2,7 @@
 title: "NEW NORMAL PICTURES: Gilbert & George"
 deck: Featuring Gilbert & George and Dan Cameron
 summary: Artists Gilbert & George join Rail Editor-at-Large Dan Cameron for a
-  conversation. We conclude with a reading of poems by David Robilliard.
+  conversation. We conclude with a reading of David Robilliard's poems.
 people:
   - person: gilbert-george
     related_links: []
