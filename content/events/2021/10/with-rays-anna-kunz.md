@@ -1,7 +1,7 @@
 ---
 title: "With Rays: Anna Kunz"
 deck: Featuring Kunz and David Rhodes
-summary: Artist Anna Kuns joins Rail Editor-at-Large David Rhodes for a
+summary: Artist Anna Kunz joins Rail Editor-at-Large David Rhodes for a
   conversation. We conclude with a poetry reading by Jessica Jacobs.
 people:
   - person: anna-kunz
