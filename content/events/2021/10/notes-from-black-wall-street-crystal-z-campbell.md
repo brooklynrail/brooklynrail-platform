@@ -1,12 +1,14 @@
 ---
 title: "Notes from Black Wall Street: Crystal Z Campbell"
 deck: Featuring Campbell and Andrew Woolbright
-summary: "Artist Crystal Z Campbell joins Rail contributor Andrew Woolbright for
-  a conversation. We conclude with a poetry reading. "
+summary: Artist Crystal Z Campbell joins Rail contributor Andrew Woolbright for
+  a conversation. We conclude with a poetry reading from Keetje Kuipers.
 people:
   - person: crystal-z-campbell
     related_links: []
   - person: andrew-paul-woolbright
+poets:
+  - person: keetje-kuipers
 date: 2021-11-01T13:00:00-0500
 end_date: 2021-11-01T14:30:00-0500
 series: 419
