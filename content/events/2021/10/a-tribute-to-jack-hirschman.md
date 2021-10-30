@@ -20,6 +20,7 @@ people:
   - person: gail-mitchell
   - person: alejandro-murguia
   - person: luis-rodriguez
+  - person: steven-c-wilson
 date: 2021-11-10T13:00:00-0500
 end_date: 2021-11-10T14:30:00-0500
 series: 426
