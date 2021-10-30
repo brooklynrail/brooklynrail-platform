@@ -34,3 +34,4 @@ event_id: recZWXing9v6geEdl
 event_platform:
   - zoom
 ---
+*This event will feature the debut of a photo essay on Jack Hirschman by Bay Area photographer Steven C. Wilson.*
