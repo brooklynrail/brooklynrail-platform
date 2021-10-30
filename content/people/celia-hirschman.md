@@ -12,7 +12,7 @@ short_bio: "Daughter of Jack Hirschman and Ruth Hirschman—now Seymour—who me
   died of lymphoma at age 25. Celia has made her career as a marketing expert in
   the music business, overseeing the careers of many recording artists over the
   past 35 years. She offers free food to all out of her “tiny free food pantry”
-  on the corner of her home. She feeds hundreds of people every day. "
+  on the corner of her home. She feeds hundreds of people each week."
 portraits:
   - media: 2021/10/celia-hirschman
 ---
