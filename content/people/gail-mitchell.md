@@ -9,10 +9,10 @@ short_bio: A poet and jeweler by trade, **Gail Mitchell** is a native of San
   through her narratives of alternative historical perspectives. With a Masters
   degree from San Francisco State University, she has worked with several former
   San Francisco Poet Laureates, most recently, Jack Hirschman, in his anthology,
-  _Building Socialism Fighting Fascism_. Her book _Bone Songs_ (1999), published
-  by Taurean Horn Press, has been used by poet, author, teacher and artist
-  Troung Tran, as a textbook in his undergraduate writing course at SF State
-  University.
+  _Building Socialism Fighting Fascism_ (Homeward Press, 2021). Her book _Bone
+  Songs_ (Taurean Horn Press, 1999) has been used as a textbook by poet, author,
+  teacher and artist Troung Tran in his undergraduate writing course at San
+  Francisco State.
 portraits:
   - media: 2021/10/gail-mitchell
 ---
