@@ -1,7 +1,7 @@
 ---
 title: Monika Baer with Tom McGlynn
-summary: "Artists Monika Baer joins Rail Editor-at-Large Tom McGlynn for a
-  conversation. We conclude with a poetry reading. "
+summary: Artists Monika Baer joins Rail Editor-at-Large Tom McGlynn for a
+  conversation. We conclude with a poetry reading by Malvika Jolly.
 people:
   - person: monika-baer
     related_links:
@@ -10,6 +10,8 @@ people:
       - text: Exhibition review by Dan Cameron
         url: https://brooklynrail.org/2021/06/artseen/Monika-Baer
   - person: tom-mcglynn
+poets:
+  - person: malvika-jolly
 date: 2021-06-22T13:00:00-0500
 end_date: 2021-06-22T14:30:00-0500
 series: 325
