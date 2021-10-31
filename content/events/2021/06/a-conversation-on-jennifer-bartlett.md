@@ -4,12 +4,14 @@ deck: Featuring Phong H. Bui, Klaus Ottmann, and Raphael Rubinstein moderated by
   Eleanor Heartney
 summary: "Phong H. Bui, Klaus Ottmann, and Raphael Rubinstein join Eleanor
   Heartney for a conversation on artist Jennifer Bartlett. We conclude with a
-  poetry reading. "
+  poetry reading by Malvika Jolly. "
 people:
   - person: phong-h-bui
   - person: klaus-ottmann
   - person: raphael-rubinstein
   - person: eleanor-heartney
+poets:
+  - person: malvika-jolly
 date: 2021-06-08T13:00:00-0500
 end_date: 2021-06-08T14:30:00-0500
 series: 315
