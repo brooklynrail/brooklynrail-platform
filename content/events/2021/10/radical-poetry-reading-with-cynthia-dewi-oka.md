@@ -11,7 +11,7 @@ people:
   - person: airea-d-matthews
   - person: trapeta-b-mayson
   - person: rajiv-mohabir
-date: 2021-11-17T14:00:00-0500
+date: 2021-11-17T13:00:00-0500
 end_date: 2021-11-17T14:30:00-0500
 series: 431
 collections:
