@@ -1,24 +1,24 @@
 ---
 title: "Mind/Mirror: Jasper Johns"
-deck: Featuring Carlos Basualdo, Scott Rothkopf, Joachim Pissarro, and Richard Shiff
+deck: Featuring Carlos Basualdo, Scott Rothkopf, and Richard Shiff
 summary: Curators Scott Rothkopf and Carlos Basualdo join Rail Consulting Editor
-  Joachim Pissarro and art historian Richard Shiff for a conversation on the
-  simultaneous Jasper Johns exhibitions at the Whitney Museum of American Art
-  and Philadelphia Museum of Art. We conclude with a poetry reading.
+  Richard Shiff for a conversation on the simultaneous Jasper Johns exhibitions
+  at the Whitney Museum of American Art and Philadelphia Museum of Art. We
+  conclude with a poetry reading.
 people:
   - person: scott-rothkopf
   - person: carlos-basualdo
-  - person: joachim-pissaro
   - person: richard-shiff
-date: 2021-11-08T13:00:00-0500
-end_date: 2021-11-08T14:30:00-0500
-series: 424
+date: 2021-11-12T15:00:00-0500
+end_date: 2021-11-12T16:30:00-0500
+series: 428
 collections:
   - the-new-social-environment
 event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: recaZbhlRKk5RkXg6
 portraits:
   - media: 2021/10/scott-rothkopf
 event_platform:
