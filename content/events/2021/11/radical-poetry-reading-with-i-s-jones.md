@@ -2,8 +2,8 @@
 title: Radical Poetry Reading with I.S. Jones
 deck: Featuring Dalia Elhassen, Sarah Ghazal Ali, and more
 summary: I.S. Jones curates the 63rd Radical Poetry Reading celebrating the
-  release of "Spells of My Name," featuring poetry read by Dalia Elhassen, Sarah
-  Ghazal Ali, and more.
+  release of her chapbook, featuring poetry read by Dalia Elhassen, Sarah Ghazal
+  Ali, and more.
 people:
   - person: i-s-jones-1
   - person: sarah-ghazal-ali
