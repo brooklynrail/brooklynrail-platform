@@ -16,6 +16,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: CtLtkIS1jNY
 event_id: rec8ukyDONf0vCKX6
 portraits:
   - media: 2021/10/gilbert-george
