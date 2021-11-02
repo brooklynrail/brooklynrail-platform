@@ -18,6 +18,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: mb0EID_NqAc
 event_id: rectNc8MDX1cYk1uX
 portraits:
   - media: 2021/10/crystal-z-campbell
