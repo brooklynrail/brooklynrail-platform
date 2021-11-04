@@ -4,6 +4,8 @@ summary: Artist Robin F. Williams joins the Rail for a conversation. We conclude
   with a poetry reading by Carolyn Ferrucci.
 people:
   - person: robin-f-williams
+poets:
+  - person: carolyn-ferrucci
 date: 2021-11-08T13:00:00-0500
 end_date: 2021-11-08T14:30:00-0500
 series: 424
