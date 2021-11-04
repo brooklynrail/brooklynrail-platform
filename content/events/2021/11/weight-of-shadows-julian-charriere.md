@@ -6,6 +6,8 @@ summary: Artist Julian Charrière joins art historian Julie Reiss for a
 people:
   - person: julian-charriere
   - person: dr-julie-reiss
+poets:
+  - person: matt-reeck
 date: 2021-11-09T13:00:00-0500
 end_date: 2021-11-09T14:30:00-0500
 series: 425
