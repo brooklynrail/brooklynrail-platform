@@ -1,7 +1,7 @@
 ---
 title: On Music and Memory
-deck: With Adele Bertei, Luc Sante, & Bob Holman
-summary: Musician and writer Adele Bertei and writer Luc Sante join poet Bob
+deck: With Adele Bertei, Lucy Sante, and Bob Holman
+summary: Musician and writer Adele Bertei and writer Lucy Sante join poet Bob
   Holman for a conversation on music and memory. We'll conclude with a poetry
   reading.
 people:
