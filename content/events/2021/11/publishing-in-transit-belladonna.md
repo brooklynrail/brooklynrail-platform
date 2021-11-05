@@ -1,10 +1,12 @@
 ---
-title: "Publishing-in-Transit: Belladonna*"
+title: "Publishing-in-Transit: Tamaas"
 deck: Editors and Writers in Conversation
-summary: Featuring writer and critic Cole Swensen joins friends for a
-  conversation on literary publishing. We open and conclude with readings from
-  friends published by Belladonna*.
+summary: Writer and critic Cole Swensen joins writer and artist Sarah Riggs and
+  friends from cross-cultural arts organization Tamaas for a conversation on
+  literary publishing. We open and conclude with readings from friends published
+  by Tamaas.
 people:
+  - person: sarah-riggs
   - person: cole-swensen
 date: 2021-11-11T12:00:00-0500
 end_date: 2021-11-11T13:30:00-0500
