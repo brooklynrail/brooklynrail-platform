@@ -2,11 +2,11 @@
 title: A Tribute to Jack Hirschman
 deck: Featuring Agneta Falk, Celia Hirschman, Andrei Codrescu, Tongo
   Eisen-Martin, Pierre Joris, Elaine Katzenberger, Devorah Major, Gail Mitchell,
-  Alejandro Murguia,  Luis Rodriguez with Neeli Cherkovski.
+  Alejandro Murguia, and Luis Rodriguez with Neeli Cherkovski
 summary: A poetry reading in celebration of the life and legacy of poet Jack
   Hirschman (1933–2021) featuring Agneta Falk, Celia Hirschman, Andrei Codrescu,
   Tongo Eisen-Martin, Pierre Joris, Elaine Katzenberger, Devorah Major, Gail
-  Mitchell, Alejandro Murguia, Luis Rodriguez in conversation with Neeli
+  Mitchell, Alejandro Murguia, and Luis Rodriguez in conversation with Neeli
   Cherkovski.
 people:
   - person: neeli-cherkovski
