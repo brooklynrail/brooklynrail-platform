@@ -22,8 +22,6 @@ event_platform:
 ---
 Publishing-in-Transit is a monthly series celebrating contemporary literary editors, all of the often-unrecognized work that they do, and the community-based and conversational nature of contemporary innovative literary publishing.
 
-
-
 View our past episodes: 
 
 [New York Review Books →](https://brooklynrail.org/events/2021/06/10/publishing-in-transit-new-york-review-of-books/)
@@ -35,3 +33,7 @@ View our past episodes:
 [](https://brooklynrail.org/events/2021/08/12/publishing-in-transit-new-directions/)[Ugly Duckling Presse →](https://brooklynrail.org/events/2021/09/09/publishing-in-transit-ugly-duckling-presse/)
 
 [Cave Canem →](https://brooklynrail.org/events/2021/10/14/publishing-in-transit-cave-canem/)
+
+
+
+***More participants to be announced***
