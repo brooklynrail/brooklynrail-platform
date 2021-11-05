@@ -6,7 +6,6 @@ summary: Featuring writer and critic Cole Swensen joins friends for a
   friends published by Belladonna*.
 people:
   - person: cole-swensen
-  - person: rachel-levitsky
 date: 2021-11-11T12:00:00-0500
 end_date: 2021-11-11T13:30:00-0500
 collections:
