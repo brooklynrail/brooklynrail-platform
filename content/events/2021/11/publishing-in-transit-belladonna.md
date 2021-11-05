@@ -1,10 +1,9 @@
 ---
 title: "Publishing-in-Transit: Belladonna*"
 deck: Editors and Writers in Conversation
-summary: Featuring writer and critic Cole Swensen joins poet, editor, and a
-  founder of Belladonna* Rachel Levitsky and friends for a conversation on
-  literary publishing. We open and conclude with readings from friends published
-  by Belladonna*.
+summary: Featuring writer and critic Cole Swensen joins friends for a
+  conversation on literary publishing. We open and conclude with readings from
+  friends published by Belladonna*.
 people:
   - person: cole-swensen
   - person: rachel-levitsky
