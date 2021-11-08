@@ -4,11 +4,13 @@ deck: Featuring Carlos Basualdo, Scott Rothkopf, and Richard Shiff
 summary: Curators Scott Rothkopf and Carlos Basualdo join Rail Consulting Editor
   Richard Shiff for a conversation on the simultaneous Jasper Johns exhibitions
   at the Whitney Museum of American Art and Philadelphia Museum of Art. We
-  conclude with a poetry reading.
+  conclude with a poetry reading by Cole Swensen.
 people:
   - person: scott-rothkopf
   - person: carlos-basualdo
   - person: richard-shiff
+poets:
+  - person: cole-swensen
 date: 2021-11-12T15:00:00-0500
 end_date: 2021-11-12T16:30:00-0500
 series: 428
