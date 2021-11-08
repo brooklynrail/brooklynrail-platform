@@ -1,6 +1,6 @@
 ---
 title: "Publishing-in-Transit: Tamaas"
-deck: Featuring Sarah Riggs, Safaa Fathy, Alisha Mascarenhas, and Cole Swenson
+deck: Featuring Sarah Riggs, Safaa Fathy, Alisha Mascarenhas, and Cole Swensen
 summary: "Sarah Riggs, Safaa Fathy, and Alisha Mascarenhas of inter-cultural
   organization Tamaas join writer and critic Cole Swensen for a conversation on
   literary publishing. We open and conclude with readings from guests. "
