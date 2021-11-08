@@ -19,6 +19,8 @@ event_producer:
 event_id: recILKZekdqtfPj0S
 event_platform:
   - zoom
+aliases:
+  - /events/2021/11/11/publishing-in-transit-belladonna/
 ---
 Publishing-in-Transit is a monthly series celebrating contemporary literary editors, all of the often-unrecognized work that they do, and the community-based and conversational nature of contemporary innovative literary publishing.
 
