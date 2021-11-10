@@ -19,7 +19,7 @@ event_organizer:
 event_producer:
   - the-brooklyn-rail
 portraits:
-  - media: 2021/11/isabel-sobral-campos
+  - media: 2020/11/isabel-sobral-campos
 event_platform:
   - zoom
 ---
