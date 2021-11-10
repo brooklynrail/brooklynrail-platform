@@ -1,6 +1,6 @@
 ---
 title: "Artcritical: 17 Years of The Review Panel"
-deck: With David Cohen.
+deck: Featuring artcritical contributors and David Cohen as moderator.
 summary: "Artcritical contributors join editor and publisher David Cohen on the
   event of the 17th anniversary of The Review Panel. We conclude with a poetry
   reading. "
