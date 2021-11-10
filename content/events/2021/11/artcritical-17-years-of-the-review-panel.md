@@ -1,11 +1,13 @@
 ---
 title: "Artcritical: 17 Years of The Review Panel"
-deck: Featuring artcritical contributors and David Cohen as moderator.
+deck: Featuring artcritical contributors and David Cohen as moderator, with an
+  introduction from Phong Bui.
 summary: "Artcritical contributors join editor and publisher David Cohen on the
   event of the 17th anniversary of The Review Panel. We conclude with a poetry
   reading. "
 people:
   - person: david-cohen
+  - person: phong-h-bui
 date: 2021-11-19T13:00:00-0500
 end_date: 2021-11-19T15:30:00-0500
 series: 433
