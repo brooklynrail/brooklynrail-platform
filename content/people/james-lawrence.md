@@ -9,4 +9,6 @@ short_bio: "Critic and historian of postwar and contemporary art **James
   around the world, including an essay alongside art historian Richard Shiff in
   _RICHARD SERRA: DRAWINGS. WORK COMES OUT OF WORK_ (Kunsthaus Bregenz, 2008)
   and most recently in _Richard Serra Drawings_ (Ordovas Books, 2021). "
+portraits:
+  - media: 2021/11/james-lawrence
 ---
