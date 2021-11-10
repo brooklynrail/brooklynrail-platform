@@ -6,6 +6,9 @@ summary: Artist Radcliffe Bailey joins writer and art historian Ksenia M.
   Sobral.
 people:
   - person: radcliffe-bailey
+  - person: ksenia-m-soboleva
+poets:
+  - person: isabel-sobral-campos-1
 date: 2021-11-15T13:00:00-0500
 end_date: 2021-11-15T14:30:00-0500
 series: 429
@@ -16,7 +19,7 @@ event_organizer:
 event_producer:
   - the-brooklyn-rail
 portraits:
-  - media: 2021/11/radcliffe-bailey
+  - media: 2021/11/isabel-sobral-campos
 event_platform:
   - zoom
 ---
