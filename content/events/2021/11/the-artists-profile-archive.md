@@ -10,8 +10,8 @@ people:
   - person: alice-aycock
   - person: arcmanoro-niles
   - person: ann-c-collins
-date: 2021-11-10T16:09:00-0500
-end_date: 2021-11-10T16:09:00-0500
+date: 2021-11-18T13:00:00-0500
+end_date: 2021-11-18T14:30:00-0500
 collections:
   - common-ground
 event_organizer:
