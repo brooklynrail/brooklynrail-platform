@@ -8,11 +8,11 @@ short_bio: Artist **Arcmanoro Niles** makes vivid, brightly-hued paintings that
   paintings, though intensely personal and autobiographical, engage in universal
   subjects of domestic and family life while also making reference to numerous
   art historical predecessors, including Italian and Dutch baroque, history
-  painting, Color Field painting, and ancient Egyptian sculpture. Niles is
-  particularly inspired by the paintings that 16th century Italian painter
-  Caravaggio created of daily life through representations of his family and
-  friends. In depicting not only people close to him but the places and times
-  they inhabit, Niles creates his own record of contemporary life.
+  painting, Color Field painting, and ancient Egyptian sculpture. Hailing from
+  Washington D.C. and born in 1989, Niles attended the Duke Ellington School for
+  the Arts. He earned a BFA from Pennsylvania Academy of Fine Arts and an MFA
+  from the New York Academy of Art. He currently works and lives in Brooklyn,
+  New York, where he shows with Rachel Uffner Gallery on the Lower East Side.
 portraits:
   - media: 2021/08/arcmanoro-niles
 website: http://www.arcmanoro.com/
