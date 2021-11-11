@@ -1,10 +1,11 @@
 ---
-title: "The Artists Profile Archive "
-deck: Featuring Sophie Chahinian, Alice Aycock, Arcmanoro Niles, and Ann C. Collins
+title: "The Artist Profile Archive "
+deck: Featuring Sophie Chahinian, Alice Aycock, Jon Kessler, Robert Longo,
+  Arcmanoro Niles, and Ann C. Collins
 summary: "Founding producer and director of The Artist Profile Archive Sophie
-  Chahinian and participating artists Alice Aycock, Arcmanoro Niles, and friends
-  join Rail contributor Ann C. Collins for a conversation. We conclude with a
-  poetry reading. "
+  Chahinian and participating artists Alice Aycock, Jon Kessler, Robert Longo,
+  Arcmanoro Niles, and friends join Rail contributor Ann C. Collins for a
+  conversation. We conclude with a poetry reading. "
 people:
   - person: sophie-chahinian
   - person: alice-aycock
@@ -24,4 +25,3 @@ portraits:
 event_platform:
   - zoom
 ---
-***More information to come.***
