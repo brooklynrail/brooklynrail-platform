@@ -24,4 +24,3 @@ event_id: recQ2pjX8wLyWvVAy
 event_platform:
   - zoom
 ---
-*More details to come!*
