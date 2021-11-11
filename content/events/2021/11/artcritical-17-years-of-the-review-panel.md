@@ -1,10 +1,10 @@
 ---
 title: "Artcritical: 17 Years of The Review Panel"
-deck: Featuring artcritical contributors and David Cohen as moderator, with an
-  introduction from Phong H. Bui
+deck: Featuring artcritical contributors in conversation with David Cohen, with
+  an introduction from Phong H. Bui
 summary: "Artcritical contributors join editor and publisher David Cohen on the
-  event of the 17th anniversary of The Review Panel. We conclude with a poetry
-  reading. "
+  event of the 17th anniversary of The Review Panel, with an introduction from
+  Phong H. Bui. We conclude with a poetry reading. "
 people:
   - person: david-cohen
   - person: phong-h-bui
@@ -17,6 +17,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: recebTPk89TIEYO8V
 portraits:
   - media: 2021/11/david-cohen
 event_platform:
