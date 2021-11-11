@@ -24,4 +24,4 @@ portraits:
 event_platform:
   - zoom
 ---
-More information to come.
+***More information to come.***
