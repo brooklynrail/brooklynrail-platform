@@ -1,9 +1,9 @@
 ---
 title: "The Artists Profile Archive "
-deck: Featuring Sophie Chahinian, Alice Aycock, Arcmanoro Niles, and Ann C. Collins.
+deck: Featuring Sophie Chahinian, Alice Aycock, Arcmanoro Niles, and Ann C. Collins
 summary: "Founding producer and director of The Artist Profile Archive Sophie
   Chahinian and participating artists Alice Aycock, Arcmanoro Niles, and friends
-  join Rail ArtSeen Editor Ann C. Collins for a conversation. We conclude with a
+  join Rail contributor Ann C. Collins for a conversation. We conclude with a
   poetry reading. "
 people:
   - person: sophie-chahinian
@@ -18,9 +18,10 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: rec9V1X3gMUP9I4Gk
 portraits:
   - media: 2021/11/arcamanoro-niles
 event_platform:
   - zoom
 ---
-More information to come!
+More information to come.
