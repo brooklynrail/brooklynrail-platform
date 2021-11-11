@@ -23,4 +23,16 @@ portraits:
 event_platform:
   - zoom
 ---
-***More information to come.***
+To celebrate the 17th anniversary of The Review Panel presented by artcritical, we're thrilled to welcome David Cohen and the critics below for conversation on three current exhibitions in New York. 
+
+**Segment 1**: 
+
+**Sharmistha Ray**, **Barry Schwabsky**, and **Marjorie Welish** discuss ***Dorothea Rockburne**: Giotto's Angels & Knots* at [David Nolan Gallery](https://www.davidnolangallery.com/exhibitions/dorothea-rockburne-giottos-angels-knots) (on view through December 23).  
+
+**Segment 2**: 
+
+**David Brody**, **Lilly Wei**, and **Alexi Worth** discuss *Intersections: **Ron Baron and Sarah Walke**r* at [John Molloy Gallery](http://www.johnmolloygallery.com/intersections.html) (on view through December 18). 
+
+**Segment 3**: 
+
+**Karen E. Jones**, **Christopher Stackhouse**, and **Robert Storr** discuss ***Glenn Ligon**: It's Always a Little Bit Not Yet* at [Hauser & Wirth](https://www.hauserwirth.com/hauser-wirth-exhibitions/32891-glenn-ligon-its-always-a-little-bit-not-yet) (on view through December 23) and ***Whitfield Lovell**: Le Rouge et Le Noir* at [DC Moore Gallery](https://www.dcmooregallery.com/exhibitions/whitfield-lovell-le-rouge-et-le-noir) (on view through December 18).
