@@ -1,5 +1,6 @@
 ---
 title: "Richard Serra Drawings: James Lawrence in conversation with Phong H. Bui "
+deck: Featuring Lawrence and Bui
 summary: Art critic and historian James Lawrence joins Rail Publisher & Artistic
   Director Phong H. Bui for a conversation on Richard Serra's Drawings. We
   conclude with a reading from the 50th anniversary expanded edition of Diane di
