@@ -9,7 +9,21 @@ summary: "Founding producer and director of The Artist Profile Archive Sophie
 people:
   - person: sophie-chahinian
   - person: alice-aycock
+    related_links:
+      - text: Alice Aycock on TAPA
+        url: https://www.theartistprofilearchive.com/artist-profiles/alice-aycock
+  - person: jon-kessler
+    related_links:
+      - url: https://www.theartistprofilearchive.com/artist-profiles/jon-kessler
+        text: Jon Kessler on TAPA
+  - person: robert-longo
+    related_links:
+      - text: Robert Longo on TAPA
+        url: https://www.theartistprofilearchive.com/artist-profiles/robert-longo
   - person: arcmanoro-niles
+    related_links:
+      - text: Arcmanoro Niles on TAPA
+        url: https://www.theartistprofilearchive.com/artist-profiles/arcmanoro-niles
   - person: ann-c-collins
 date: 2021-11-18T13:00:00-0500
 end_date: 2021-11-18T14:30:00-0500
