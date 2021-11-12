@@ -23,7 +23,7 @@ portraits:
 event_platform:
   - zoom
 ---
-To celebrate the 17th anniversary of The Review Panel presented by artcritical, we're thrilled to welcome David Cohen and the critics below for conversation on three current exhibitions in New York. 
+To celebrate the 17th anniversary of The Review Panel presented by artcritical, we're thrilled to welcome David Cohen and the critics below for conversation on four current exhibitions in New York. 
 
 **Segment 1**: 
 
