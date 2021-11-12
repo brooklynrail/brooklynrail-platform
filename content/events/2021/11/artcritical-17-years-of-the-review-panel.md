@@ -8,6 +8,16 @@ summary: "Artcritical contributors join editor and publisher David Cohen on the
 people:
   - person: david-cohen
   - person: phong-h-bui
+  - person: sharmistha-ray
+  - person: barry-schwabsky
+  - person: marjorie-welish
+  - person: david-brody
+  - person: lilly-wei
+  - person: alexi-belsey-worth
+  - person: karen-e-jones
+  - person: christopher-stackhouse
+  - person: robert-storr
+poets: []
 date: 2021-11-19T13:00:00-0500
 end_date: 2021-11-19T15:30:00-0500
 series: 433
@@ -19,7 +29,7 @@ event_producer:
   - the-brooklyn-rail
 event_id: recebTPk89TIEYO8V
 portraits:
-  - media: 2021/11/david-cohen
+  - media: 2021/11/christopher-stackhouse
 event_platform:
   - zoom
 ---
