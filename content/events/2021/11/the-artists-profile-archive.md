@@ -25,6 +25,8 @@ people:
       - text: Arcmanoro Niles on TAPA
         url: https://www.theartistprofilearchive.com/artist-profiles/arcmanoro-niles
   - person: ann-c-collins
+poets:
+  - person: angela-narciso-torres
 date: 2021-11-18T13:00:00-0500
 end_date: 2021-11-18T14:30:00-0500
 collections:
