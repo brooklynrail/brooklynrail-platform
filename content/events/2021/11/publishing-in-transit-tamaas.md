@@ -17,6 +17,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: caw-on-ISaE
 event_id: recILKZekdqtfPj0S
 event_platform:
   - zoom
