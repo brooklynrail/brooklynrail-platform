@@ -32,3 +32,7 @@ event_platform:
   - zoom
 ---
 **[Check out Richard Serra Drawings on view at ORDOVAS through December 17, 2021 →](https://www.ordovasart.com/exhibition/richard-serra-drawings/)**
+
+
+
+**[*Richard Serra: Transmitter* is also on view at Gagosian, Le Bourget. More details here →](https://gagosian.com/exhibitions/2021/richard-serra-transmitter/)**
