@@ -4,8 +4,8 @@ deck: Featuring Williams and Andrew Woolbright
 summary: Artist Robin F. Williams joins Rail contributor Andrew Woolbright for a
   conversation. We conclude with a poetry reading by Carolyn Ferrucci.
 people:
-  - person: robin-f-williams
-  - person: andrew-paul-woolbright
+  - person: erik-forman
+  - person: rev-dr-dona-schaper
 poets:
   - person: carolyn-ferrucci
 date: 2021-11-08T13:00:00-0500
@@ -17,6 +17,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: S3Ryv_rRvro
 event_id: recGerkhLFKshnorH
 event_platform:
   - zoom
