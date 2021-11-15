@@ -2,14 +2,16 @@
 name: Micah Ballard
 first_name: Micah
 last_name: Ballard
-pronouns: He/Him
-short_bio: Poet **Micah Ballard** was born in Baton Rouge, Louisiana. Recent
-  books include _Negative Capability in the Verse of John Wieners_, _Bettina
-  Coffin_, _In the Kindness of Night_, _Scenes from the Saragossa Manuscript_,
-  _Evangeline Downs_, _Parish Krewes_, and the collaborations _Death Race
-  V.S.O.P._ and _Easy Eden_. From 2000-2007 he directed the Humanities Program
-  at New College of California and currently works for the MFA in Writing
-  Program at USF. He is co-editor for Auguste Press and Lew Gallery Editions.
+pronouns: ""
+short_bio: "Poet **Micah Ballard** is the author of four full-length collections
+  of poetry: _The Michaux Notebook_ (FMSBW, 2019), _Afterlives_ (Bootstrap
+  Press, 2016), _Waifs and Strays_ (City Lights Books, 2011), nominated for a
+  California Book Award, and _Parish Krewes_ (Bootstrap Press, 2009), and over a
+  dozen small books, including _Selected Prose (2008–19)_ (Blue Press, 2020),
+  _Daily Vigs_ (Bird & Beckett Books, 2019), _Vesper Chimes_ (Gas Meter, 2014),
+  _Evangeline Downs_ (Ugly Duckling Presse, 2006) and _Negative Capability in
+  the Verse of John Wieners_ (Bootstrap Press, 2017). He is co-editor for
+  Auguste Press and Lew Gallery Editions."
 people:
   - person: david-cohen
   - person: phong-h-bui
