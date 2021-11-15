@@ -2,8 +2,8 @@
 title: "Ascents and Echoes: Radcliffe Bailey"
 deck: Featuring Bailey and Ksenia M. Soboleva
 summary: Artist Radcliffe Bailey joins writer and art historian Ksenia M.
-  Soboleva for a conversation. We conclude with a poetry reading by Isabel
-  Sobral Campos.
+  Soboleva for a conversation. We conclude with a reading of Salette Tavares'
+  poems by translator Isabel Sobral Campos.
 people:
   - person: radcliffe-bailey
   - person: ksenia-m-soboleva
