@@ -2,9 +2,9 @@
 title: "Artcritical: 17 Years of The Review Panel"
 deck: Featuring artcritical contributors in conversation with David Cohen and an
   introduction from Phong H. Bui
-summary: "Artcritical contributors join editor and publisher David Cohen on the
+summary: Artcritical contributors join editor and publisher David Cohen on the
   event of the 17th anniversary of The Review Panel, with an introduction from
-  Phong H. Bui. We conclude with a poetry reading. "
+  Phong H. Bui. We conclude with a poetry reading by Glynnis Eldridge.
 people:
   - person: david-cohen
   - person: phong-h-bui
