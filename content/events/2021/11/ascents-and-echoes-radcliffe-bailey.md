@@ -6,7 +6,13 @@ summary: Artist Radcliffe Bailey joins writer and art historian Ksenia M.
   poems by translator Isabel Sobral Campos.
 people:
   - person: radcliffe-bailey
+    related_links:
+      - text: Richard Serra Drawings (Ordovas, 2021)
+        url: https://www.ordovasbooks.com/product/richard-serra-drawings/
   - person: ksenia-m-soboleva
+    related_links:
+      - url: https://brooklynrail.org/2006/06/art/richard-serra-with-phong-bui
+        text: Richard Serra in conversation with Phong H. Bui (Brooklyn Rail, June 2006)
 poets:
   - person: isabel-sobral-campos-1
 date: 2021-11-15T13:00:00-0500
@@ -18,6 +24,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: qlAnLpm8s-E
 event_id: recjS8hZi5nAqBWBS
 portraits:
   - media: 2020/11/isabel-sobral-campos
