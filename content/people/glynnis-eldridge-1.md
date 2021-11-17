@@ -2,6 +2,7 @@
 name: Glynnis Eldridge
 first_name: Glynnis
 last_name: Eldridge
+pronouns: She/Her
 short_bio: "Writer, artist, and educator **Glynnis Eldridge**'s work has
   appeared or is forthcoming in *Blush Lit,* *Blazing Stadium*, *Glass: A
   Journal of Poetry*, poets.org, and others. She is a Pushcart Prize Nominee, a
