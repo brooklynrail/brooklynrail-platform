@@ -18,7 +18,7 @@ people:
   - person: christopher-stackhouse
   - person: robert-storr
 poets:
-  - person: glynnis-eldridge
+  - person: glynnis-eldridge-1
 date: 2021-11-19T13:00:00-0500
 end_date: 2021-11-19T15:30:00-0500
 series: 433
