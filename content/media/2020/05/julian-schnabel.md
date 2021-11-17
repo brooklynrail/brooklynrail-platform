@@ -2,7 +2,7 @@
 media: /media/files/schnabel_julian.jpg
 title: Julian Schnabel
 alt: Drawing of Julian Schnabel by Phong Bui.
-caption: ""
+caption: Portrait by Phong H. Bui
 credit:
   - phong-h-bui
 date: 2020-05-15T17:08:00-0500
