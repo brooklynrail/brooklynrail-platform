@@ -1,6 +1,6 @@
 ---
 title: Radical Poetry Reading with Micah Ballard
-deck: Featuring Ballard and guests
+deck: Featuring Ballard and friends
 summary: Micah Ballard curates the 62nd Radical Poetry Reading.
 people:
   - person: micah-ballard
@@ -13,7 +13,8 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: recYprYOeIgVw7PDB
 event_platform:
   - zoom
 ---
-More information to come!
+***More information to come.***
