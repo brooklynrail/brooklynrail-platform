@@ -15,5 +15,5 @@ short_bio: "Writer, artist, and educator **Glynnis Eldridge**'s work has
 portraits:
   - media: 2021/11/glynnis-eldridge-1
 website: https://cargocollective.com/GlynnisEldridge
-instagram: https://www.instagram.com/glynnnnnis/?hl=en
+instagram: ""
 ---
