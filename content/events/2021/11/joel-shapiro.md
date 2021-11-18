@@ -1,5 +1,5 @@
 ---
-title: Joel Shapiro
+title: "Yellow Then: Joel Shapiro"
 deck: Featuring Shapiro and Michael Brenson
 summary: Artist Joel Shapiro joins art historian, critic, and curator Michael
   Brenson for a conversation. We conclude with a poetry reading by Hazem Fahmy.
@@ -17,6 +17,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: recNhK5ibxYajPTRf
 portraits:
   - media: 2021/11/joel-shapiro
 event_platform:
