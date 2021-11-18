@@ -14,7 +14,7 @@ event_producer:
 event_id: recbvKeLNCmceHSiU
 event_platform: null
 ---
-Register to receive links and passwords that will grant access to the films throughout the day on **Thursday, November 26** and **Friday, November 27**.  
+Register to receive links and passwords that will grant access to the films throughout the day on **Thursday, November 25** and **Friday, November 26**.  
 
 *Please note this is not a live event.* 
 
@@ -30,12 +30,8 @@ Register to receive links and passwords that will grant access to the films thro
 
 **[Watch the trailer →](https://www.youtube.com/watch?v=XahGyhrlfrs)**
 
-
-
 📖 Our tradition is to conclude each event with a poetry reading, so we encourage you to read poems from our current issue after watching the films!  
 
 **[Poetry from the November 2021 issue →](https://brooklynrail.org/2021/11/poetry)**
-
-
 
 🙏 A special thanks to Amei Wallach, Zeitgesit Films, and First Run Features for making this virtual screening possible!
