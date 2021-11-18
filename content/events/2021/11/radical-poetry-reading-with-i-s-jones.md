@@ -1,9 +1,9 @@
 ---
 title: Radical Poetry Reading with I.S. Jones
-deck: Featuring Dalia Elhassen, Sarah Ghazal Ali, and more
+deck: Featuring Dalia Elhassen, Sarah Ghazal Ali, and friends
 summary: I.S. Jones curates the 63rd Radical Poetry Reading celebrating the
   release of her chapbook, featuring poetry read by Dalia Elhassen, Sarah Ghazal
-  Ali, and more.
+  Ali, and friends.
 people:
   - person: i-s-jones-1
   - person: sarah-ghazal-ali
@@ -20,7 +20,7 @@ event_id: rec3oVUs4HgCBQ0cN
 event_platform:
   - zoom
 ---
-*More readers to come!*
+***More readers to come.***
 
 [*Spells of My Name* by I.S. Jones (Newfound, 2021) is available for preorder here →](https://newfound.org/shop/i-s-jones-spells-of-my-name-print-e-book/)
 
