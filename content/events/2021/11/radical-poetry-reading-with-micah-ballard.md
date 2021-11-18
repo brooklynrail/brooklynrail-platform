@@ -1,9 +1,11 @@
 ---
 title: Radical Poetry Reading with Micah Ballard
-deck: Featuring Ballard and friends
-summary: Micah Ballard curates the 62nd Radical Poetry Reading.
+deck: Featuring Ari Banias, Maw Shein Win, Aaron Shurin, and Guillermo Parra
+summary: Micah Ballard curates the 62nd Radical Poetry Reading featuring poetry
+  read by Ari Banias, Maw Shein Win, Aaron Shurin, and Guillermo Parra.
 people:
   - person: micah-ballard
+  - person: aaron-shurin-1
 date: 2021-11-24T13:00:00-0500
 end_date: 2021-11-24T14:30:00-0500
 series: 436
