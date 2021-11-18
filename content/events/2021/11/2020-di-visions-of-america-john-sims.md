@@ -1,5 +1,5 @@
 ---
-title: "2020: (Di)Visions of America: John Sims "
+title: "(Di)Visions of America: John Sims "
 deck: Featuring Sims and Karen Finley
 summary: Artist John Sims joins artist Karen Finley for a conversation. We
   conclude with a poetry reading.
@@ -12,6 +12,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: rec7vJlsKBfSvwJHb
 event_platform:
   - zoom
 ---
