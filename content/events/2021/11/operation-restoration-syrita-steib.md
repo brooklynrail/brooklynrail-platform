@@ -3,7 +3,7 @@ title: "Operation Restoration: Syrita Steib"
 deck: Featuring Steib and JoAnne Page
 summary: Syrita Steib, founder and executive director of the non-profit
   Operation Restoration, joins criminal justice activist JoAnne Page for a
-  conversation. We conclude with a poetry reading by Ura Noel.
+  conversation. We conclude with a poetry reading by Urayoán Noel.
 people:
   - person: syrita-steib-1
   - person: joanne-page
