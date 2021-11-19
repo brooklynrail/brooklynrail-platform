@@ -22,4 +22,3 @@ event_id: recYprYOeIgVw7PDB
 event_platform:
   - zoom
 ---
-***More information to come.***
