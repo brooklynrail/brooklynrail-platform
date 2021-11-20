@@ -1,0 +1,17 @@
+// ====================================
+// Donate
+
+.shortcode-donateProgress {
+  @include u-bg("gray-cool-5");
+  @include u-radius("md");
+  @include u-margin-bottom(5);
+  @include u-padding-x(2);
+  @include u-padding-top("105");
+  @include u-padding-bottom(3);
+  @include at-media("tablet") {
+    @include u-padding-x(3);
+    @include u-padding-bottom(3);
+  }
+
+  
+}

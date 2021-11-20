@@ -38,12 +38,14 @@ jQuery(document).ready(function($) {
 				if (current_value != 0){
 					console.log('yes')
 					update_fee(+current_value);
+					largeDonation(+current_value);
 				}
 			} else {
 				var current_fee = $(amountInput).data("fee");
 				if (current_value != 0){
 					update_donateAmount(+current_value - +current_fee);
 					update_fee(+current_value - +current_fee);
+					largeDonation(+current_value - +current_fee);
 				}
 			}
 		}, 0);
@@ -104,6 +106,13 @@ jQuery(document).ready(function($) {
 		var fee = getFee(newAmount);
 		// update the transaction cost
 		$('.transaction-fee-checkbox label span').text(`$${fee}`)
+		return 
+	}
+
+	function largeDonation(newAmount){
+		var fee = getFee(newAmount);
+		// update the transaction cost
+		addHelper("wow, this is big");
 		return 
 	}
 
