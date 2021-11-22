@@ -36,4 +36,4 @@ Amei Wallach is beginning post-production on a new feature-length documentary du
 
 **[Poetry from the November 2021 issue →](https://brooklynrail.org/2021/11/poetry)**
 
-🙏 A special thanks to Amei Wallach for making this virtual screening possible!
+🙏 A special thanks to Amei Wallach and the Easton Foundation for making this virtual screening possible!
