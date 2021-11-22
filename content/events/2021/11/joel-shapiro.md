@@ -17,6 +17,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: SgwFjOzMkLE
 event_id: recNhK5ibxYajPTRf
 portraits:
   - media: 2021/11/joel-shapiro
