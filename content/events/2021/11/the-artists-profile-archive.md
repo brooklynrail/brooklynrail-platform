@@ -9,21 +9,9 @@ summary: Founding producer and director of The Artist Profile Archive Sophie
 people:
   - person: sophie-chahinian
   - person: alice-aycock
-    related_links:
-      - text: Alice Aycock on TAPA
-        url: https://www.theartistprofilearchive.com/artist-profiles/alice-aycock
   - person: jon-kessler
-    related_links:
-      - url: https://www.theartistprofilearchive.com/artist-profiles/jon-kessler
-        text: Jon Kessler on TAPA
   - person: robert-longo
-    related_links:
-      - text: Robert Longo on TAPA
-        url: https://www.theartistprofilearchive.com/artist-profiles/robert-longo
   - person: arcmanoro-niles
-    related_links:
-      - text: Arcmanoro Niles on TAPA
-        url: https://www.theartistprofilearchive.com/artist-profiles/arcmanoro-niles
   - person: ann-c-collins
 poets:
   - person: angela-narciso-torres
@@ -35,6 +23,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: k4bBD_E7fXo
 event_id: rec9V1X3gMUP9I4Gk
 portraits:
   - media: 2021/11/arcamanoro-niles
