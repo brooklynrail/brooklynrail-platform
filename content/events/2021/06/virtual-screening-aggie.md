@@ -7,7 +7,7 @@ summary: Join us for a virtual screening of Aggie, directed by Catherine Gund
 date: 2021-06-24T13:00:00-0500
 end_date: 2021-06-24T14:30:00-0500
 collections:
-  - common-ground
+  - screening
 event_organizer:
   - the-brooklyn-rail
 event_producer:
