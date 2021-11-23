@@ -7,10 +7,10 @@ exports.handler = function(event, context, callback) {
   const allRecords = []
   // Ads base 
   // Hats table "tbl3j4X8XpY0yfeLT"
-  base('tbl3j4X8XpY0yfeLT').select({
+  base('tblyYGqJcMf9rivmU').select({
     // Selecting the first 3 records in All Hats:
     maxRecords: 30,
-    // view: "All Ads", // All Hats view
+    // All Hats view
     view: "viwaiKePufXEmDouA", // Published Hats view
   }).eachPage(function page(records, fetchNextPage) {
     
