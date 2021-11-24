@@ -5,6 +5,7 @@ summary: Robert Kelly curates the 64th Radical Poetry Reading featuring poetry
   read by Jerome Rothenberg, Kimberly Lyons, and Pierre Joris.
 people:
   - person: robert-kelly
+  - person: jerome-rothenberg
   - person: kimberly-lyons
   - person: pierre-joris
 date: 2021-12-08T13:00:00-0500
@@ -17,7 +18,7 @@ event_organizer:
 event_producer:
   - the-brooklyn-rail
 portraits:
-  - media: 2021/11/kimberly-lyons
+  - media: 2021/11/jerome-rothenberg
 event_platform:
   - zoom
 ---
