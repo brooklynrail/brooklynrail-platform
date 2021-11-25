@@ -7,7 +7,6 @@
 // - STRIPE_PUBLISHABLE_TEST
 // - STRIPE_SECRET
 // - STRIPE_SECRET_TEST
-
 const stripe = require("stripe")(process.env.STRIPE_SECRET); // get from ENV
 
 const headers = {

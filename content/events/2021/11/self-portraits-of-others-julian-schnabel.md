@@ -19,6 +19,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: LheBb8W-SmQ
 event_id: rec1FpNdb2sp1GLwX
 portraits:
   - media: 2020/05/julian-schnabel

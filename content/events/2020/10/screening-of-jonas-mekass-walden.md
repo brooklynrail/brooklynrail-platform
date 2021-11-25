@@ -8,7 +8,7 @@ date: 2020-11-03T13:00:00-0500
 end_date: 2020-11-03T15:00:00-0500
 series: 165
 collections:
-  - the-new-social-environment
+  - screening
 event_sponsor:
   - dermot-comany
 event_organizer:

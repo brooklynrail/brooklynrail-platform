@@ -9,4 +9,6 @@ short_bio: "American critic **Sanford Schwartz** is the author of several
   turn-of-the-twentieth-century British painter William Nicholson—as well as
   many shorter pieces of art and literary criticism. His most recent book is _On
   Edward Hicks_. "
+portraits:
+  - media: 2021/11/sanford-schwartz
 ---

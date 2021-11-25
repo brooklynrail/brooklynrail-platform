@@ -15,6 +15,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: -57_G_IF6lw
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-240-etel-adnan-with-charles-bernstein-tickets-141858766389
 event_platform:
   - zoom

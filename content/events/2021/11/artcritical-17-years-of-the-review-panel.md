@@ -28,6 +28,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: wJc89R-S-lM
 event_id: recebTPk89TIEYO8V
 portraits:
   - media: 2021/11/christopher-stackhouse
@@ -42,7 +43,7 @@ To celebrate the 17th anniversary of The Review Panel presented by artcritical, 
 
 **Segment 2**: 
 
-**David Brody**, **Lilly Wei**, and **Alexi Worth** discuss *Intersections: **Ron Baron and Sarah Walke**r* at [John Molloy Gallery](http://www.johnmolloygallery.com/intersections.html) (on view through December 18). 
+**David Brody**, **Lilly Wei**, and **Alexi Worth** discuss *Intersections: **Ron Baron and Sarah Walker*** at [John Molloy Gallery](http://www.johnmolloygallery.com/intersections.html) (on view through December 18). 
 
 **Segment 3**: 
 
