@@ -1,7 +1,7 @@
 ---
 title: Donate to the Brooklyn Rail
-headline: Donate to the Rail
-deck: Help us operate the Rail independent, relevant, and free
+headline: Help us raise $150,000 in 31 days
+deck: Your support will help keep the Rail independent, relevant, and free
 summary: Help us build a $10 million endowment to keep the Brooklyn Rail
   independent, relevant, and free for generations to come
 donation_goal: 150000
@@ -11,7 +11,6 @@ donation_count: 86
 
 {{< donateProgress >}}
 
-{{< donate placeholder="100" value="25" >}}
 
 
 

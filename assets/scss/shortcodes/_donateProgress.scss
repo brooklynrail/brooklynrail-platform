@@ -2,16 +2,105 @@
 // Donate
 
 .shortcode-donateProgress {
-  @include u-bg("gray-cool-5");
-  @include u-radius("md");
-  @include u-margin-bottom(5);
-  @include u-padding-x(2);
-  @include u-padding-top("105");
-  @include u-padding-bottom(3);
-  @include at-media("tablet") {
-    @include u-padding-x(3);
-    @include u-padding-bottom(3);
+  @include u-margin-bottom(3);
+  
+  @include u-font("sans", "lg");
+  @include u-text("light");
+  @include u-text("gray-warm-70");
+
+  span {
+    @include u-text("medium");
+  }
+  #countdown{
+    @include u-margin-bottom(2);
+    @include u-padding-left(3);
+    @include u-text("medium");
+    @include u-font("sans", "lg");
+    span{
+      span {
+        @include u-text("light");
+      }
+    }
+    & > span{
+      @include u-margin-right(1);
+    }
+    
+  }
+  .progressBar{
+    @include u-margin-bottom(2);
+    @include at-media("tablet") {
+    }
+
+    @include u-bg("green-cool-20v");
+    @include u-radius("pill");
+    @include u-height('full');
+    div{
+      @include u-bg("green-cool-40v");
+      @include u-width(10);
+      @include u-radius-left("pill");
+      @include u-minh(4);
+      @include u-position('relative');
+      &:after {
+        content: "";
+        @include u-width(0);
+        @include u-position('absolute');
+        border-top: 16px solid transparent;
+        border-bottom: 16px solid transparent;
+        border-left: 16px solid #00a91c;
+        left: 100%;
+      }
+    }
+    
+    
+  }
+  .progressText {
+    @include u-margin-bottom('105');
+    @include u-font("sans", "md");
+    @include u-text("center");
   }
 
   
+}
+
+#donorsList{
+  h2{
+    @include u-text("center");
+    @include u-font("sans", "lg");
+  }
+  .donorsList{
+    @include add-list-reset
+    li{
+      @include u-margin-bottom('05');
+      @include u-maxw(none);
+      @include u-text("center");
+      @include u-display("flex");
+      justify-content: center;
+      
+      a{
+        @include u-padding-left(1);
+        @include u-display("flex");
+        @include u-position("relative");
+        @include u-text("normal");
+        @include u-text("no-underline");
+        justify-content: center;
+        img {
+          @include u-margin-top('2px');
+          @include u-circle(3);
+          @include u-border("1px", "solid", "gray-20");
+          @include u-position("absolute");
+          @include u-top('2px');
+          @include u-left('neg-205');
+        }
+        span{
+          @include u-margin-top('2px');
+          @include u-padding-left('05');
+          @include u-font("sans", "sm");
+          @include u-display("block");
+        }
+        &:hover{
+          @include u-text("underline");
+        }
+      }
+    }
+  }
 }

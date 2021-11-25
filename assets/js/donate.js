@@ -14,18 +14,19 @@ jQuery(document).ready(function($) {
 	// look out for submit events on the form
 	var submitButton = document.getElementById("btn-donate");
 	var amountInput = document.getElementById("donate-amount");
+	
 	var stripe = Stripe("pk_live_etssu1WTxk1CFKZuGX9lBQOU00YxJbQofX"); // STRIPE_PUBLISHABLE
 	// var stripe = Stripe(process.env.STRIPE_PUBLISHABLE); // STRIPE_PUBLISHABLE
+	
+	// var stripe = Stripe("pk_test_ykFiEaft3Qg1H0Wew5lXhDvM00jXCg2uo5"); // STRIPE_PUBLISHABLE_TEST
+	// var stripe = Stripe(process.env.STRIPE_PUBLISHABLE); // STRIPE_PUBLISHABLE
+	
+	// var apiURL = "https://brooklynrail.netlify.app/.netlify/functions/stripe"
+	// var apiURL = "https://brooklynrail.netlify.app/.netlify/functions/stripe_test"
+	// var apiURL = "http://localhost:8888/.netlify/functions/stripe_test"
+	var apiURL = "http://localhost:8888/.netlify/functions/stripe"
 
 
-	// Gets all the checked checkboxes
-	function get_checked(){
-		var features = [];
-    $('#donate-form input[type="checkbox"]:checked').each(function() {
-      features.push($(this).val());
-    });
-		return features.join(', ');
-	}
 
 	// Check if the amountInput field has a value on keyup
 	// If it is empty, make it disabled, otherwise make it enabled and ready to submit
@@ -36,7 +37,6 @@ jQuery(document).ready(function($) {
 			var current_value = $(amountInput).val();
 			if (showFee() === false){
 				if (current_value != 0){
-					console.log('yes')
 					update_fee(+current_value);
 					largeDonation(+current_value);
 				}
@@ -50,7 +50,6 @@ jQuery(document).ready(function($) {
 			}
 		}, 0);
 	});
-
 
 
 	function check_donateReady(){
@@ -81,6 +80,7 @@ jQuery(document).ready(function($) {
 		return (Math.round(fee*Math.pow(10,2))/Math.pow(10,2)).toFixed(2)
 	}
 
+
 	function calc_donateAmount(amount){
 		// update the amount
 		switch (showFee()) {
@@ -105,7 +105,7 @@ jQuery(document).ready(function($) {
 	function update_fee(newAmount){
 		var fee = getFee(newAmount);
 		// update the transaction cost
-		$('.transaction-fee-checkbox label span').text(`$${fee}`)
+		$('.transaction-fee-checkbox label .fee').text(`$${fee}`)
 		return 
 	}
 
@@ -136,10 +136,15 @@ jQuery(document).ready(function($) {
 		}
 	});
 
-
+	
+	// Donation buttons
 	// Select the amount and auto-fill the input field
 	$('.amount').click(function(e){
 		e.preventDefault();
+		confetti({
+			particleCount: 100,
+			spread: 180
+		});
 		var selected_amount = $(this).data("amount")
 		update_donateAmount(selected_amount);
 		update_fee(selected_amount);
@@ -161,23 +166,86 @@ jQuery(document).ready(function($) {
 		$('.helper').text('').fadeOut('fast');
 	}
 
+	// Mail a check
+	// =======================
+	$('#showAddress a').click(function(e){
+		e.preventDefault();
+		$('#mailAddress').toggle();
+		
+	});
+
+
+	// Share Prompt
+	// Check if the person has given consent to share their info in the donations list
+	// =======================
+	function consentGiven(){
+		if($('#consent').is(":checked")){
+			// $('.shareDetails').removeClass('hidden');
+			return "true";
+		} else{
+			// $('.shareDetails').addClass('hidden');
+			return "false";
+		}
+	}
+	consentGiven()
+
+	$('#consent').click(function(e){
+		consentGiven()
+	});
+	
+	//get the instagram photo
+	function getPhoto(a) {
+  // validation for instagram usernames
+  var regex = new RegExp(/^(?!.*\.\.)(?!.*\.$)[^\W][\w.]{0,29}$/);
+  var validation = regex.test(a);
+
+  if(validation) {
+  
+    $.get("https://www.instagram.com/"+a+"/?__a=1")
+    .done(function(data) { 
+
+      // getting the url
+      var photoURL = data["graphql"]["user"]["profile_pic_url_hd"];
+
+      // update img element
+      $("#photoReturn").attr("src",photoURL)
+     
+     })
+    .fail(function() { 
+      // code for 404 error 
+      alert('Username was not found!')
+    })
+  
+  } else {
+  
+    alert('The username is invalid!')
+  }
+
+}
+
 	$('#btn-donate').click(function(e){
 		e.preventDefault();
 		const buttonText = submitButton.innerText;
 		submitButton.innerText = "Working...";
-		
+
+		// get the current value in the input
+		// The data object we're passing to the Stripe session
+		// NOTE: the amount needs to be calculated as cents!
 		var data = {
 			amount: document.getElementById("donate-amount").valueAsNumber * 100,
-			type: get_checked()
+			metadata: { 
+				payment_type: "online donation",
+				consentGiven: consentGiven(),
+				donationName: document.getElementById("donorName").value,
+				donationInstagram: document.getElementById("instagramHandle").value,
+			},
 		};
-
 		var dataJson = JSON.stringify(data);
-
 
 		// create a stripe session by talking to our netlify function
 		$.ajax({
 			type: "POST",
-			url: "https://brooklynrail.netlify.app/.netlify/functions/get_checkout_session",
+			url: apiURL,
 			data: dataJson,
 			error: function(e) {
     		console.log(e);
@@ -202,4 +270,35 @@ jQuery(document).ready(function($) {
 			dataType: "json"
 		});
 	});
+
+	var end = new Date('12/31/2021 11:59 PM');
+	var _second = 1000;
+	var _minute = _second * 60;
+	var _hour = _minute * 60;
+	var _day = _hour * 24;
+	var timer;
+
+	function showRemaining() {
+			var now = new Date();
+			var distance = end - now;
+			if (distance < 0) {
+
+					clearInterval(timer);
+					document.getElementById('countdown').innerHTML = 'EXPIRED!';
+
+					return;
+			}
+			var days = Math.floor(distance / _day);
+			var hours = Math.floor((distance % _day) / _hour);
+			var minutes = Math.floor((distance % _hour) / _minute);
+			var seconds = Math.floor((distance % _minute) / _second);
+
+			document.getElementById('countdown').innerHTML = '<span>' + days + ' <span>days</span></span> ';
+			document.getElementById('countdown').innerHTML += '<span>' + hours + ' <span>hours</span></span> ';
+			document.getElementById('countdown').innerHTML += '<span>' + minutes + ' <span>mins</span></span> ';
+			document.getElementById('countdown').innerHTML += '<span>' + seconds + ' <span>secs</span></span>';
+	}
+
+	timer = setInterval(showRemaining, 1000);
+
 });

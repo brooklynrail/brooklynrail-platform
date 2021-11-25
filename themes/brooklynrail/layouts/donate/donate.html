@@ -40,6 +40,143 @@
       </div>
     </header>
 
+    <section class="">
+      <div class="grid-container grid-container-desktop-lg">
+        
+        <div class="grid-row grid-gap-6">
+          <div class="grid-col-12 tablet:grid-col-5 tablet:order-last">
+            <div class="shortcode-donate shortcode-donate-sm">
+
+              <div class="shortcode-donateProgress">
+                <div id="countdown"></div>
+                <div class="progressBar"><div></div></div>
+                <div class="progressText">We've raised <span>$23,567</span> out of <span>$150,000</span></div>
+                <div id="confetti"></div>
+                
+              </div>
+              <form class="rail-form" id="donate-form">
+                <fieldset>
+                  
+                  <div class="fields">
+                    <div class="group">
+                      <div class="field">
+                        <div class="options">
+                          <button class="amount" data-amount="25.00">$25</button>
+                          <button class="amount" data-amount="50.00">$50</button>
+                          <button class="amount" data-amount="100.00">$100</button>
+                          <button class="amount" data-amount="500.00">$500</button>
+                          <button class="amount" data-amount="1000.00">$1,000</button>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="group">
+                      <div class="field">
+                        <label for="donate-amount">Choose your amount</label>
+                        <div class="prefix prefix-donate">
+                          <span>$</span>
+                          <input required type="number" placeholder="25" name="amount" id="donate-amount" pattern="^\d+(?:\.\d{1,2})?$" title="Currency" min="0" value="0" min="0" max="50000" />
+                        </div>
+                        <div class="usa-checkbox transaction-fee-checkbox">
+                          <input class="usa-checkbox__input" id="transaction-fee" type="checkbox" name="donation_types" value="" data-fee="">
+                          <label class="usa-checkbox__label" for="transaction-fee">
+                            Include the <span class="fee">$0.00</span> processing fee?</label> 
+                          <p id="showAddress">Or <a href="#" >skip the fees mail us a check</a></p>
+                          <pre id="mailAddress">The Brooklyn Rail
+253 36th Street, 3rd Floor, Suite C304
+Brooklyn, NY 11232
+Mailbox 20</pre>
+                          
+                        </div>
+                      </div>
+                    </div>
+                    
+                    <div class="shareprompt">
+                      <div class="group">
+                        <div class="field">
+                          <div class="usa-checkbox consent-checkbox">
+                            <input class="usa-checkbox__input" id="consent" type="checkbox" name="consent">
+                            <label class="usa-checkbox__label" for="consent"><strong>Yes</strong>, add my name to the list of donors!</label>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="group shareDetails">
+                        <div class="field">
+                          <label for="donorName">Name</label>
+                          <div>
+                            <input required placeholder="Your name / organization" name="donorName" id="donorName" pattern="^\d+(?:\.\d{1,2})?$" title="Your Donor name" value=""  />
+                            <p class="info">This is the name that will appear in our list of donors.</p>
+                          </div>
+                          
+                        </div>
+                      
+                        <div class="field">
+
+                          <label for="donorName">Instagram</label>
+                          <div>
+                            <div class="prefix prefix-instagram">
+                              <span><img src="/material/img/icons/instagram_gradient.png" class="icon_ig" /></span>
+                              <input required placeholder="@username" name="instagramHandle" id="instagramHandle" pattern="^\d+(?:\.\d{1,2})?$" title="Your Instagram Handle" value=""  />
+                            </div>
+                            <p class="info">Add your instagram handle so friends in the community can follow you! <em>(optional)</em></p>
+                          </div>
+                          
+
+                        </div>
+                      </div>
+
+                    </div>
+
+                    <div class="group">
+                      <div class="field">
+                        <div class="btn-helper">
+                          <button class="btn btn-md" type="button" id="btn-donate" disabled><span>Donate</span></button>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="content terms">
+                      <p>The Brooklyn Rail is a nonprofit 501(c)(3) organization. Your donation is fully deductible. Questions? Email <a
+                      href="mailto:donate@brooklynrail.org" title="email the Brooklyn Rail">donate@brooklynrail.org</a> ❤️</p>
+                    </div>
+                  </div>
+                  <p class="helper"></p>
+                </fieldset>
+              </form>
+              
+            </div>
+
+            
+
+          </div>
+
+          <div class="grid-col-12 tablet:grid-col-7">
+            <div class="content">
+              <p>As a small non-profit organization we rely on your support to keep our operations running and directly support writers, guest artists, and production staff in this unique time.</p>
+            </div>
+            <div id="donorsList">
+              <div class="content">
+                <h2>Our friends who are helping us to reach our goal</h2>
+                <!-- https://www.instagram.com/jeremyz/?__a=1 -->
+                <ul class="donorsList">
+                  <li>
+                    <a href="">
+                      <img src="http://placekitten.com/200/200" alt=""/>Phong Bui 
+                      <span>@phong.h.bui</span>
+                    </a>
+                  </li>
+                  <li>Agnes Gund</li>
+                  <li>The Cy Twombly Foundation</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          
+        </div>
+
+        
+      </div>
+    </section>
+
     <section>
       <div class="grid-container grid-container-tablet-lg">
         <div class="grid-row">
@@ -51,15 +188,23 @@
             {{- end -}}
 
             <div class="content">
-              {{- .Content -}}
+              {{/*  {{- .Content -}}  */}}
             </div>
           </div>
         </div>
       </div>
     </section>
 
-    {{- .Render "past-events" -}}
 
   </article>
 </main>
 {{ end }}
+
+{{- define "custom_js" }}
+  <script src="https://js.stripe.com/v3/"></script>
+
+  {{ $donate_js := (resources.Get "js/donate.js" | js.Build "material/dist/donate.js" | resources.Fingerprint "sha512") -}}
+  <script src="{{- $donate_js.RelPermalink -}}" {{ printf "integrity=%q" $donate_js.Data.Integrity | safeHTMLAttr }} ></script>
+  <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.4.0/dist/confetti.browser.min.js"></script>
+  {{/* <script src="{{- "material/dist/signup.js" | relURL -}}"></script> */}}
+{{- end -}}

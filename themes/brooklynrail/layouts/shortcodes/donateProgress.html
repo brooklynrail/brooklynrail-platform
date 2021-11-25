@@ -8,10 +8,11 @@ Donate Progress Shortcode
 {{- $placeholder := (.Get "placeholder") -}}
 {{- $value := (.Get "value") -}}
 
-<div class="shortcode-donateProgress">
 
-  
-  
+
+<div class="shortcode-donateProgress">
+  <div class="daysLeftNumber">We've raised <span>$23,567</span> out of <span>$150,000</span> from <span>38 people</span></div>
+  <div class="progressBar"><div></div></div>
 </div>
 
 {{- define "custom_js" }}
