@@ -159,8 +159,15 @@ jQuery(document).ready(function($) {
 		
 		var data = {
 			amount: document.getElementById("donate-amount").valueAsNumber * 100,
-			type: get_checked()
+			type: get_checked(),
+			metadata: { 
+				payment_type: "online donation",
+				consentGiven: consentGiven(),
+				donationName: document.getElementById("donorName").value,
+				donationInstagram: document.getElementById("instagramHandle").value,
+			},
 		};
+		
 
 		var dataJson = JSON.stringify(data);
 

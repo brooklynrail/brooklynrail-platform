@@ -50,15 +50,15 @@ exports.handler = function(event, context, callback) {
       payment_method_types: ["card"],
       submit_type: "donate",
       mode: "payment",
+      metadata: data.metadata,
       line_items: [
         {
-          name: "Endowment Donation",
+          name: "Donation / Winter Campaign",
           amount: data.amount,
           currency: "usd",
           quantity: 1
         }
       ],
-      metadata: { payment_type: "online donation" }
     },
     function(err, session) {
       // asynchronously called

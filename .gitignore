@@ -8,3 +8,4 @@ themes/brooklynrail/static/material/fonts/source-sans-pro/
 
 # Local Netlify folder
 .netlify
+.env
