@@ -9,6 +9,7 @@
 // - STRIPE_SECRET_TEST
 const stripe = require("stripe")(process.env.STRIPE_SECRET); // get from ENV
 
+
 const headers = {
   "Access-Control-Allow-Origin": "*",
   "Access-Control-Allow-Headers": "Content-Type"
