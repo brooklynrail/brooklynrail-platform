@@ -52,6 +52,9 @@ exports.handler = function(event, context, callback) {
       submit_type: "donate",
       mode: "payment",
       metadata: data.metadata,
+      payment_intent_data: {
+        metadata: data.metadata,
+      },
       line_items: [
         {
           name: "Donation / Winter Campaign",
