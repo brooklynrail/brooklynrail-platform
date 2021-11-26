@@ -53,7 +53,7 @@ exports.handler = function(event, context, callback) {
       metadata: data.metadata,
       line_items: [
         {
-          name: "Winter Donation",
+          name: "Donation / Winter Campaign",
           amount: data.amount,
           currency: "usd",
           quantity: 1

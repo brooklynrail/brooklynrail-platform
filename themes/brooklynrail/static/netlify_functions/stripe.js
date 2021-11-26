@@ -9,6 +9,7 @@
 // - STRIPE_SECRET_TEST
 const stripe = require("stripe")(process.env.STRIPE_SECRET); // get from ENV
 
+
 const headers = {
   "Access-Control-Allow-Origin": "*",
   "Access-Control-Allow-Headers": "Content-Type"
@@ -53,13 +54,12 @@ exports.handler = function(event, context, callback) {
       metadata: data.metadata,
       line_items: [
         {
-          name: "Winter Donation",
+          name: "Donation / Winter Campaign",
           amount: data.amount,
           currency: "usd",
           quantity: 1
         }
       ],
-      metadata: { payment_type: "online donation" }
     },
     function(err, session) {
       // asynchronously called
