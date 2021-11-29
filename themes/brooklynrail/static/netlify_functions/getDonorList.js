@@ -6,12 +6,12 @@ exports.handler = function(event, context, callback) {
   // The Payments In Base == appsuINlr8VpP5zPm
   var base = new Airtable({apiKey: process.env.AIRTABLE_JZ}).base('appsuINlr8VpP5zPm');
   const allRecords = []
-  // Campaigns table "tbldOazrsvPI1dh23"
-  base('tbldOazrsvPI1dh23').select({
-    // Selecting the first 3 records in All Ads:
-    maxRecords: 1,
+  // Stripe Payments table "tblDFk7aff4M5UwlR"
+  base('tblDFk7aff4M5UwlR').select({
+    // Selecting the first 3 records in 2021 Winter Campaign:
+    maxRecords: 30,
     // view: "2021 Winter Campaign"
-    view: "viwmjobftcLot0jjZ",
+    view: "viwmUezamtIaUARgv",
   }).eachPage(function page(records, fetchNextPage) {
     
     records.forEach(function(record) {
@@ -24,7 +24,8 @@ exports.handler = function(event, context, callback) {
     if (err) {
       callback(err)
     } else {
-      const body = "rail_donations(" + JSON.stringify({ records: allRecords })+ ")";
+      console.log(allRecords.length)
+      const body = "rail_donorList(" + JSON.stringify({ records: allRecords })+ ")";
       
       const response = {
         headers: {
