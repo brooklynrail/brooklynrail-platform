@@ -1,0 +1,54 @@
+
+
+jQuery(document).ready(function($) {
+
+	// Get Donations
+	function pullDonationData(){
+		$.ajax({
+			type: 'GET',
+			url: 'https://brooklynrail.org/.netlify/functions/getDonationData',
+			data:{
+				todo:"jsonp"
+			},
+			dataType: "jsonp",
+			jsonpCallback: "rail_donations",
+			crossDomain: true,
+			cache:false,
+			success: getDonationData,
+			error:function(jqXHR, textStatus, errorThrown){
+				console.log('error getting Hat Data');
+				console.log(errorThrown);
+			}
+		});
+	}
+	pullDonationData()
+	
+
+	function getDonationData(data){
+		// Get the Array of records
+		jQuery(data.records).each(function(i, item) {
+			var goal = 100000;
+			var currentAmount = item.fields['Total'];
+			if (!!currentAmount && currentAmount != ""){
+				var percentComplete = (currentAmount/goal)*100;
+				var percentComplete = percentComplete > 10 ? percentComplete : 15;
+				$(".progressBar .currentAmountSlider").css({"width": percentComplete});
+				$(".progressText .currentAmount").text('$' + currentAmount);
+			}
+		})
+	}
+
+	function showDonationList(data){
+		var donorList = [];
+		
+		// Get the Array of records
+		$(data).each(function(i, item) {
+			var donationName = item.fields['Donation Name'];
+			var donationInstagram = item.fields['Donation Instagram Handle'].replaceAll('@', '') 
+			var donor = '<li>'+ donationName +' (<a href="https://instagram.com/'+ donationInstagram +'">@'+ donationInstagram +'</a>) </li>';
+			// push it to donorList
+			donorList.push(donor);
+		});
+		!!donorList && donorList != "" ? jQuery(".donorsList").html(donorList.join("\n")) : "";
+	}
+})
