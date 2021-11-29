@@ -48,8 +48,8 @@
 
               <div class="shortcode-donateProgress">
                 <div id="countdown"></div>
-                <div class="progressBar"><div></div></div>
-                <div class="progressText">We've raised <span>$23,567</span> out of <span>$150,000</span></div>
+                <div class="progressBar"><div class="currentAmountSlider"></div></div>
+                <div class="progressText">We've raised <span class="currentAmount">$0</span> out of <span>$150,000</span></div>
                 <div id="confetti"></div>
                 
               </div>
@@ -152,7 +152,6 @@ Mailbox 20</pre>
                       href="mailto:donate@brooklynrail.org" title="email the Brooklyn Rail">donate@brooklynrail.org</a> ❤️</p>
                     </div>
                   </div>
-                  <p class="helper"></p>
                 </fieldset>
               </form>
               
@@ -205,6 +204,8 @@ Mailbox 20</pre>
 {{- define "custom_js" }}
   <script src="https://js.stripe.com/v3/"></script>
 
+  {{ $donationData_js := (resources.Get "js/donationData.js" | js.Build "material/dist/donationData.js" | resources.Fingerprint "sha512") -}}
+  <script src="{{- $donationData_js.RelPermalink -}}" {{ printf "integrity=%q" $donationData_js.Data.Integrity | safeHTMLAttr }} ></script>
   {{ $donate_js := (resources.Get "js/donate.js" | js.Build "material/dist/donate.js" | resources.Fingerprint "sha512") -}}
   <script src="{{- $donate_js.RelPermalink -}}" {{ printf "integrity=%q" $donate_js.Data.Integrity | safeHTMLAttr }} ></script>
   <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.4.0/dist/confetti.browser.min.js"></script>

@@ -19,6 +19,7 @@
     @include u-padding-left(0);
     @include u-font("sans", "md");
     @include u-text("center");
+    @include u-height(4);
     @include at-media("tablet-lg") {
       @include u-padding-left(3);
       @include u-font("sans", "lg");
@@ -44,9 +45,9 @@
     @include u-bg("green-cool-20v");
     @include u-radius("pill");
     @include u-height('full');
-    div{
+    .currentAmountSlider {
       @include u-bg("green-cool-40v");
-      @include u-width(10);
+      @include u-width(2);
       @include u-radius-left("pill");
       @include u-minh(4);
       @include u-position('relative');
@@ -79,37 +80,28 @@
   }
   .donorsList{
     @include add-list-reset
+    @include u-font("sans", "sm");
     li{
       @include u-margin-bottom('05');
       @include u-maxw(none);
       @include u-text("center");
-      @include u-display("flex");
-      justify-content: center;
+      @include u-text("medium");
       
       a{
+        @include u-text("italic");
         @include u-padding-left(1);
-        @include u-display("flex");
-        @include u-position("relative");
         @include u-text("normal");
+        @include u-text("black");
         @include u-text("no-underline");
-        justify-content: center;
-        img {
-          @include u-margin-top('2px');
-          @include u-circle(3);
-          @include u-border("1px", "solid", "gray-20");
-          @include u-position("absolute");
-          @include u-top('2px');
-          @include u-left('neg-205');
-        }
         span{
           @include u-margin-top('2px');
-          @include u-padding-left('05');
-          @include u-font("sans", "sm");
-          @include u-display("block");
+          @include u-text("blue-60v");
+          @include u-text("normal");
+          &:hover {
+            @include u-text("underline");
+          }
         }
-        &:hover{
-          @include u-text("underline");
-        }
+        
       }
     }
   }
