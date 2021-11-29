@@ -40,7 +40,7 @@ exports.handler = function(event, context, callback) {
 
     return;
   }
-  // actually create the session with Stripe
+  // Create the session with Stripe
   // we need to provide a couple of redirect urls:
   stripe.checkout.sessions.create(
     {
