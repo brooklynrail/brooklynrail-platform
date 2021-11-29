@@ -21,10 +21,10 @@ jQuery(document).ready(function($) {
 	// var stripe = Stripe("pk_test_ykFiEaft3Qg1H0Wew5lXhDvM00jXCg2uo5"); // STRIPE_PUBLISHABLE_TEST
 	// var stripe = Stripe(process.env.STRIPE_PUBLISHABLE); // STRIPE_PUBLISHABLE
 	
-	// var apiURL = "https://brooklynrail.netlify.app/.netlify/functions/stripe"
+	var apiURL = "https://brooklynrail.netlify.app/.netlify/functions/stripe"
 	// var apiURL = "https://brooklynrail.netlify.app/.netlify/functions/stripe_test"
 	// var apiURL = "http://localhost:8888/.netlify/functions/stripe_test"
-	var apiURL = "http://localhost:8888/.netlify/functions/stripe"
+	// var apiURL = "http://localhost:8888/.netlify/functions/stripe"
 
 
 
@@ -300,5 +300,43 @@ jQuery(document).ready(function($) {
 	}
 
 	timer = setInterval(showRemaining, 1000);
+
+
+	// Get Donations
+	function getDonationData(){
+		$.ajax({
+			type: 'GET',
+			url: 'https://brooklynrail.org/.netlify/functions/getDonationData',
+			data:{
+				todo:"jsonp"
+			},
+			dataType: "jsonp",
+			jsonpCallback: "rail_donations",
+			crossDomain: true,
+			cache:false,
+			success: showDonationData,
+			error:function(jqXHR, textStatus, errorThrown){
+				console.log('error getting Hat Data');
+				console.log(errorThrown);
+			}
+		});
+	}
+	getDonationData()
+
+	function getDonationData(data){
+		var donationList = [];
+  // Get the Array of records
+  jQuery(data.records).each(function(i, item) {
+
+    var consent = item.fields['Consent to share'];
+    var donationName = item.fields['Donation Name'];
+    var donationInstagram = item.fields['Donation Instagram'];
+
+    // If consent is true
+    if(consent == true) {
+      // push it to donationList
+      donationList.push(displayHat(title, slug, copy, actionText, actionUrl, bgColor, textColor));
+    }
+	}
 
 });
