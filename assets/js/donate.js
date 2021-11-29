@@ -183,12 +183,12 @@ jQuery(document).ready(function($) {
 			$('#donorName').prop("disabled", true);
 			$('#instagramHandle').prop("disabled", true);
 			$('.shareDetails').addClass('disabled');
-			return "true";
+			return "false";
 		} else{
 			$('#donorName').prop("disabled", false);
 			$('#instagramHandle').prop("disabled", false);
 			$('.shareDetails').removeClass('disabled');
-			return "false";
+			return "true";
 		}
 	}
 	consentGiven()
@@ -310,13 +310,11 @@ jQuery(document).ready(function($) {
 	function pullDonorListData(){
 		$.ajax({
 			type: 'GET',
-			// url: 'https://brooklynrail.org/.netlify/functions/getDonationData',
 			url: 'https://brooklynrail.org/.netlify/functions/getDonorList',
 			data:{
 				todo:"jsonp"
 			},
 			dataType: "jsonp",
-			// jsonpCallback: "rail_donations",
 			jsonpCallback: "rail_donorList",
 			crossDomain: true,
 			cache:false,
@@ -331,6 +329,7 @@ jQuery(document).ready(function($) {
 	
 
 	function getDonorListData(data){
+		console.log(data);
 		var donationList = [];
 		// Get the Array of records
 		jQuery(data.records).each(function(i, item) {
@@ -350,8 +349,14 @@ jQuery(document).ready(function($) {
 		// Get the Array of records
 		$(data).each(function(i, item) {
 			var donationName = item.fields['Donation Name'];
-			var donationInstagram = item.fields['Donation Instagram Handle'].replaceAll('@', '') 
-			var donor = '<li>'+ donationName +' (<a href="https://instagram.com/'+ donationInstagram +'">@'+ donationInstagram +'</a>) </li>';
+			var donationInstagram = item.fields['Donation Instagram Handle']
+			if (!!donationInstagram && donationInstagram != ""){
+				var donationInstagram = donationInstagram.replaceAll('@', '') 
+				var donor = '<li>'+ donationName + ' <a title="Follow '+donationName+' on Instagram" href="https://instagram.com/'+ donationInstagram +'"><i class="fab fa-instagram"></i><span> '+ donationInstagram +'</span></a> </li>';
+			} else {
+				var donor = '<li>'+ donationName +'</li>';
+			}
+			
 			// push it to donorList
 			donorList.push(donor);
 		});
