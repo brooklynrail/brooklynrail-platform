@@ -306,8 +306,8 @@ jQuery(document).ready(function($) {
 	timer = setInterval(showRemaining, 1000);
 
 
-	// Get Donations
-	function pullDonationData(){
+	// Get Donor List
+	function pullDonorListData(){
 		$.ajax({
 			type: 'GET',
 			// url: 'https://brooklynrail.org/.netlify/functions/getDonationData',
@@ -320,17 +320,17 @@ jQuery(document).ready(function($) {
 			jsonpCallback: "rail_donorList",
 			crossDomain: true,
 			cache:false,
-			success: getDonationData,
+			success: getDonorListData,
 			error:function(jqXHR, textStatus, errorThrown){
 				console.log('error getting Hat Data');
 				console.log(errorThrown);
 			}
 		});
 	}
-	pullDonationData()
+	pullDonorListData()
 	
 
-	function getDonationData(data){
+	function getDonorListData(data){
 		var donationList = [];
 		// Get the Array of records
 		jQuery(data.records).each(function(i, item) {
@@ -341,10 +341,10 @@ jQuery(document).ready(function($) {
 				donationList.push(item);
 			}
 		})
-		showDonationList(donationList)
+		showDonorList(donationList)
 	}
 
-	function showDonationList(data){
+	function showDonorList(data){
 		var donorList = [];
 		
 		// Get the Array of records
