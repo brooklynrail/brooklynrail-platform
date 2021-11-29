@@ -16,5 +16,6 @@ As a small non-profit, we need your support. Please consider making a donation t
 
 - $24,000 goes towards paying our contributors, writers, editors, poets, and designers who make our issues come alive
 - $12,500 covers the cost of printing our monthly issue of the Rail, we print 10 issues per year
+- $1,700 goes toward hosting dedicated, live poetry readings, that celebrate the work of both established and emerging poets around the world in our New Social Environment
 - $5,000 goes towards covering the cost of health insurance for our staff
 - $1,800 covers the cost of the technology, online services, and platforms we rely on to collaborate, publish and distribute the _Rail_

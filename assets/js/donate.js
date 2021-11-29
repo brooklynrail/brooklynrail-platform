@@ -352,7 +352,7 @@ jQuery(document).ready(function($) {
 			var donationInstagram = item.fields['Donation Instagram Handle']
 			if (!!donationInstagram && donationInstagram != ""){
 				var donationInstagram = donationInstagram.replaceAll('@', '') 
-				var donor = '<li>'+ donationName + ' <a title="Follow '+donationName+' on Instagram" href="https://instagram.com/'+ donationInstagram +'"><i class="fab fa-instagram"></i><span> '+ donationInstagram +'</span></a> </li>';
+				var donor = '<li>'+ donationName + ' <a title="Follow '+donationName+' on Instagram" href="https://instagram.com/'+ donationInstagram +'"><i class="fab fa-instagram"></i><span>'+ donationInstagram +'</span></a> </li>';
 			} else {
 				var donor = '<li>'+ donationName +'</li>';
 			}

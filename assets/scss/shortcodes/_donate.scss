@@ -213,6 +213,10 @@
       }
     }
     .shareDetails.disabled{
+      #donorName,
+      #instagramHandle {
+        @include u-text('gray-40');
+      }
       .prefix-instagram {
         span {
           @include u-bg("transparent");
@@ -278,5 +282,46 @@
     @include u-margin-top(1);
     @include u-padding-top(2);
     @include u-border-top("1px", "solid", "gray-20");
+  }
+}
+
+
+
+#donorsList {
+  h2 {
+    @include u-text("center");
+    @include u-font("sans", "lg");
+  }
+
+  .donorsList {
+    @include add-list-reset @include u-font("serif", "md");
+
+    li {
+      @include u-margin-bottom('05');
+      @include u-maxw(none);
+      @include u-text("center");
+      @include u-text("medium");
+
+      a {
+        @include u-margin-left(1);
+        @include u-padding-left(1);
+        @include u-text("normal");
+        @include u-text("black");
+        @include u-text("no-underline");
+        @include add-list-reset @include u-font("sans", "md");
+
+        span {
+          @include u-margin-top('2px');
+          @include u-margin-left('05');
+          @include u-text("blue-60v");
+          @include u-text("normal");
+
+          &:hover {
+            @include u-text("underline");
+          }
+        }
+
+      }
+    }
   }
 }

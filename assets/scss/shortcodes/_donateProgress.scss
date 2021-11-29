@@ -69,40 +69,6 @@
     @include u-font("sans", "md");
     @include u-text("center");
   }
-
-  
 }
 
-#donorsList{
-  h2{
-    @include u-text("center");
-    @include u-font("sans", "lg");
-  }
-  .donorsList{
-    @include add-list-reset
-    @include u-font("sans", "sm");
-    li{
-      @include u-margin-bottom('05');
-      @include u-maxw(none);
-      @include u-text("center");
-      @include u-text("medium");
-      
-      a{
-        @include u-text("italic");
-        @include u-padding-left(1);
-        @include u-text("normal");
-        @include u-text("black");
-        @include u-text("no-underline");
-        span{
-          @include u-margin-top('2px');
-          @include u-text("blue-60v");
-          @include u-text("normal");
-          &:hover {
-            @include u-text("underline");
-          }
-        }
-        
-      }
-    }
-  }
-}
+
