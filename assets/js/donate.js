@@ -180,10 +180,14 @@ jQuery(document).ready(function($) {
 	// =======================
 	function consentGiven(){
 		if($('#consent').is(":checked")){
-			// $('.shareDetails').removeClass('hidden');
+			$('#donorName').prop("disabled", true);
+			$('#instagramHandle').prop("disabled", true);
+			$('.shareDetails').addClass('disabled');
 			return "true";
 		} else{
-			// $('.shareDetails').addClass('hidden');
+			$('#donorName').prop("disabled", false);
+			$('#instagramHandle').prop("disabled", false);
+			$('.shareDetails').removeClass('disabled');
 			return "false";
 		}
 	}
@@ -283,10 +287,10 @@ jQuery(document).ready(function($) {
 			var distance = end - now;
 			if (distance < 0) {
 
-					clearInterval(timer);
-					document.getElementById('countdown').innerHTML = 'EXPIRED!';
+				clearInterval(timer);
+				document.getElementById('countdown').innerHTML = 'EXPIRED!';
 
-					return;
+				return;
 			}
 			var days = Math.floor(distance / _day);
 			var hours = Math.floor((distance % _day) / _hour);
@@ -306,12 +310,14 @@ jQuery(document).ready(function($) {
 	function pullDonationData(){
 		$.ajax({
 			type: 'GET',
-			url: 'https://brooklynrail.org/.netlify/functions/getDonationData',
+			// url: 'https://brooklynrail.org/.netlify/functions/getDonationData',
+			url: 'https://brooklynrail.org/.netlify/functions/getDonorList',
 			data:{
 				todo:"jsonp"
 			},
 			dataType: "jsonp",
-			jsonpCallback: "rail_donations",
+			// jsonpCallback: "rail_donations",
+			jsonpCallback: "rail_donorList",
 			crossDomain: true,
 			cache:false,
 			success: getDonationData,

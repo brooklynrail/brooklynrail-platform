@@ -1,6 +1,15 @@
 // ====================================
 // Donate
 
+.content-body{
+  
+  @include at-media("tablet") {
+    @include u-margin-x(15);
+  }
+  @include at-media("tablet-lg") {
+    @include u-margin-x(0);
+  }
+}
 .shortcode-donate {
   @include u-bg("gray-cool-5");
   @include u-radius("md");
@@ -9,24 +18,34 @@
   @include u-padding-top("205");
   @include u-padding-bottom(3);
   @include at-media("tablet") {
+    @include u-margin-x(15);
     @include u-padding-x(3);
     @include u-padding-bottom(3);
+  }
+  @include at-media("tablet-lg") {
+    @include u-margin-x(0);
   }
 
   // Buttons for selecting donation amounts
   .options{
+    @include u-margin-top(0);
+    @include u-margin-bottom(0);
     @include u-padding-y(1);
     @include u-width('full');
     @include u-display('flex');
     @include u-flex('wrap');
-    justify-content: center;
+    @include u-flex('justify');
     @include at-media("tablet-lg") {
+      @include u-margin-top(1);
       @include u-flex('justify');
       @include u-flex('row');
     }
+    @include at-media("desktop-lg") {
+      @include u-margin-top(3);
+    }
     button{
       @include u-margin-bottom(1);
-      @include u-padding-x(2);
+      @include u-padding-x('105');
       @include u-padding-y(1);
       @include u-radius("lg");
       @include u-bg("white");
@@ -34,22 +53,14 @@
       @include u-text("medium");
       @include u-border("2px", "mint-30v", "solid");
       @include u-cursor("pointer");
-      width:48%;
-      @include u-font("sans", "xs");
+      width:30%;
+      @include u-font("sans", "2xs");
       @include at-media("tablet-lg") {
-        @include u-width('auto');
-        @include u-flex('justify');
       }
-      &:nth-child(odd) {
-        @include u-margin-right(1);
-        @include at-media("tablet-lg") {
-          @include u-margin-right(0);
-        }
-        
-      };
-      &:last-child {
-        @include u-margin-right(0);
-      };
+      @include at-media("desktop-lg") {
+        width: 48%;
+      }
+      
       &:hover {
         @include u-bg("mint-30v");
         @include u-text("white");
@@ -73,13 +84,15 @@
       @include u-flex("column");
     }
     .group {
-      // &:last-child {
-      //   @include u-margin-left(0);
-      //   @include at-media("tablet") {
-      //     @include u-margin-left(2);
-      //   }
-      // }
+      @include u-display("block");
+      // @include u-flex('align-start');
+      // @include u-flex('column');
+      @include at-media("tablet") {
+        // @include u-flex('row');
+        // gap:1.5em;
+      }
       .field {
+        @include u-margin-right(0);
         @include u-width("full");
         label{
           @include u-margin-bottom('105');
@@ -118,20 +131,7 @@
             @include u-padding-left(4);
             @include u-font("sans", "2xs");
           }
-          #mailAddress {
-            @include u-margin(0);
-            @include u-margin-top(1);
-            // @include u-padding(0);
-            @include u-padding-y('105');
-            @include u-padding-x('105');
-            @include u-padding-right(9);
-            @include u-radius('lg');
-            @include u-bg('white');
-            @include u-width('full');
-            @include u-text('base-dark');
-            @include u-display('none');
-            @include u-font("sans", "2xs");
-          }
+          
           
         }
         .prefix-donate span{
@@ -141,12 +141,25 @@
         #donate-amount {
           @include u-width("full");
           @include at-media("tablet") {
-            @include u-width("card-lg");
+            @include u-width("full");
           }
         }
-        
-        
-
+      }
+      #mailAddress {
+        @include u-display('none');
+        pre {
+          @include u-margin(0);
+          @include u-margin-top(1);
+          @include u-padding(0);
+          @include u-padding-y('105');
+          @include u-padding-x('105');
+          @include u-padding-right(9);
+          @include u-radius('lg');
+          @include u-bg('white');
+          @include u-width('full');
+          @include u-text('base-dark');
+          @include u-font("sans", "2xs");
+        }
       }
     }
     
@@ -154,25 +167,25 @@
   .shareprompt{
     @include u-margin-top('105');
     @include u-padding-bottom(2);
+    @include u-border-top("1px", "solid", "gray-20");
     h3{
-      @include u-margin-bottom(1);
+      @include u-margin-bottom(2);
       @include u-font("sans", "md");
     }
-    
-    
 
     .shareDetails {
       @include u-margin(0);
       @include u-margin-top(1);
-      @include u-display('block');
-      // @include u-border-top("1px", "solid", "gray-20");
-
+      // @include u-display('flex');
+      // @include u-flex('row');
+      // @include u-flex('align-start');
+      
       .field{
-        @include u-margin-bottom(2);
+        @include u-margin-bottom(1);
         @include u-display('flex');
         @include u-flex('justify');
         & > div{
-          @include u-width('mobile');
+          // @include u-width('mobile');
         }
         label{
           @include u-margin-top(1);
@@ -197,6 +210,21 @@
             @include u-width(4);
           }
         }
+      }
+    }
+    .shareDetails.disabled{
+      .prefix-instagram {
+        span {
+          @include u-bg("transparent");
+          img {
+            -webkit-filter: grayscale(100%);
+            /* Safari 6.0 - 9.0 */
+            filter: grayscale(100%);
+          }
+        }
+      }
+      .info {
+        @include u-text("gray-40");
       }
     }
   }

@@ -2,7 +2,10 @@
 // Donate
 
 .shortcode-donateProgress {
-  @include u-margin-bottom(3);
+  @include u-margin-bottom(0);
+  @include at-media("tablet-lg") {
+    @include u-margin-bottom(3);
+  }
   
   @include u-font("sans", "lg");
   @include u-text("light");
@@ -13,16 +16,23 @@
   }
   #countdown{
     @include u-margin-bottom(2);
-    @include u-padding-left(3);
+    @include u-padding-left(0);
+    @include u-font("sans", "md");
+    @include u-text("center");
+    @include at-media("tablet-lg") {
+      @include u-padding-left(3);
+      @include u-font("sans", "lg");
+    }
     @include u-text("medium");
-    @include u-font("sans", "lg");
     span{
       span {
         @include u-text("light");
       }
     }
     & > span{
-      @include u-margin-right(1);
+      @include at-media("tablet-lg") {
+        @include u-margin-right(1);
+      }
     }
     
   }

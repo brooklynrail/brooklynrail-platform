@@ -42,9 +42,8 @@
 
     <section class="">
       <div class="grid-container grid-container-desktop-lg">
-        
         <div class="grid-row grid-gap-6">
-          <div class="grid-col-12 tablet:grid-col-5 tablet:order-last">
+          <div class="grid-col-12 tablet-lg:grid-col-6 tablet-lg:order-last">
             <div class="shortcode-donate shortcode-donate-sm">
 
               <div class="shortcode-donateProgress">
@@ -58,69 +57,84 @@
                 <fieldset>
                   
                   <div class="fields">
-                    <div class="group">
-                      <div class="field">
-                        <div class="options">
-                          <button class="amount" data-amount="25.00">$25</button>
-                          <button class="amount" data-amount="50.00">$50</button>
-                          <button class="amount" data-amount="100.00">$100</button>
-                          <button class="amount" data-amount="500.00">$500</button>
-                          <button class="amount" data-amount="1000.00">$1,000</button>
+                    <div class="group donationSelect">
+                      <div class="grid-row tablet:grid-gap-2 desktop-lg:grid-gap-4">
+                        <div class="grid-col-12 desktop-lg:grid-col-5 desktop-lg:order-last">
+                          <div class="field">
+                            <div class="options">
+                              <button class="amount" data-amount="10.00">$10</button>
+                              <button class="amount" data-amount="25.00">$25</button>
+                              <button class="amount" data-amount="50.00">$50</button>
+                              <button class="amount" data-amount="100.00">$100</button>
+                              <button class="amount" data-amount="500.00">$500</button>
+                              <button class="amount" data-amount="1000.00">$1,000</button>
+                            </div>
+                          </div>
+                        </div>
+
+                        <div class="grid-col-12 desktop-lg:grid-col-7">
+                          <div class="field">
+                            <label for="donate-amount">Choose your amount</label>
+                            <div class="prefix prefix-donate">
+                              <span>$</span>
+                              <input required type="number" placeholder="25" name="amount" id="donate-amount" pattern="^\d+(?:\.\d{1,2})?$" title="Currency" min="0" value="0" min="0" max="50000" />
+                            </div>
+                            <div class="usa-checkbox transaction-fee-checkbox">
+                              <input class="usa-checkbox__input" id="transaction-fee" type="checkbox" name="donation_types" value="" data-fee="">
+                              <label class="usa-checkbox__label" for="transaction-fee">
+                                Add the <span class="fee">$0.00</span> processing fee?</label> 
+                              <p id="showAddress">Or <a href="#" >skip the fees mail us a check</a></p>
+                            </div>
+                          </div>
                         </div>
                       </div>
-                    </div>
-                    <div class="group">
-                      <div class="field">
-                        <label for="donate-amount">Choose your amount</label>
-                        <div class="prefix prefix-donate">
-                          <span>$</span>
-                          <input required type="number" placeholder="25" name="amount" id="donate-amount" pattern="^\d+(?:\.\d{1,2})?$" title="Currency" min="0" value="0" min="0" max="50000" />
-                        </div>
-                        <div class="usa-checkbox transaction-fee-checkbox">
-                          <input class="usa-checkbox__input" id="transaction-fee" type="checkbox" name="donation_types" value="" data-fee="">
-                          <label class="usa-checkbox__label" for="transaction-fee">
-                            Include the <span class="fee">$0.00</span> processing fee?</label> 
-                          <p id="showAddress">Or <a href="#" >skip the fees mail us a check</a></p>
-                          <pre id="mailAddress">The Brooklyn Rail
+                      <div id="mailAddress" class="grid-row grid-gap-4">
+                        <div class="grid-col-12">
+                          <pre>The Brooklyn Rail
 253 36th Street, 3rd Floor, Suite C304
 Brooklyn, NY 11232
 Mailbox 20</pre>
-                          
                         </div>
                       </div>
                     </div>
                     
                     <div class="shareprompt">
+                      <h3>Add your name to our list of supporters</h3>
+                      <div class="group shareDetails">
+                        <div class="grid-row mobile:grid-gap-2 desktop-lg:grid-gap-4">
+                          <div class="grid-col-12 mobile:grid-col-6">
+
+                            <div class="field donorName">
+                              <label for="donorName">Name</label>
+                              <div>
+                                <input required placeholder="Your name" name="donorName" id="donorName" pattern="^\d+(?:\.\d{1,2})?$" title="Your Donor name" value=""  />
+                                <p class="info">Your name as it will appear in our list of donors.</p>
+                              </div>
+                            </div>
+                          </div>
+
+                          <div class="grid-col-12 mobile:grid-col-6">
+                          
+                            <div class="field instagramHandle">
+                              <label for="instagramHandle">Instagram</label>
+                              <div>
+                                <div class="prefix prefix-instagram">
+                                  <span><img src="/material/img/icons/instagram_gradient.png" class="icon_ig" /></span>
+                                  <input required placeholder="@username" name="instagramHandle" id="instagramHandle" pattern="^\d+(?:\.\d{1,2})?$" title="Your Instagram Handle" value=""  />
+                                </div>
+                                <p class="info">Include your instagram <em>(optional)</em></p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+
                       <div class="group">
                         <div class="field">
                           <div class="usa-checkbox consent-checkbox">
                             <input class="usa-checkbox__input" id="consent" type="checkbox" name="consent">
-                            <label class="usa-checkbox__label" for="consent"><strong>Yes</strong>, add my name to the list of donors!</label>
+                            <label class="usa-checkbox__label" for="consent">Please keep my donation anonymous</label>
                           </div>
-                        </div>
-                      </div>
-                      <div class="group shareDetails">
-                        <div class="field">
-                          <label for="donorName">Name</label>
-                          <div>
-                            <input required placeholder="Your name / organization" name="donorName" id="donorName" pattern="^\d+(?:\.\d{1,2})?$" title="Your Donor name" value=""  />
-                            <p class="info">This is the name that will appear in our list of donors.</p>
-                          </div>
-                          
-                        </div>
-                      
-                        <div class="field">
-
-                          <label for="donorName">Instagram</label>
-                          <div>
-                            <div class="prefix prefix-instagram">
-                              <span><img src="/material/img/icons/instagram_gradient.png" class="icon_ig" /></span>
-                              <input required placeholder="@username" name="instagramHandle" id="instagramHandle" pattern="^\d+(?:\.\d{1,2})?$" title="Your Instagram Handle" value=""  />
-                            </div>
-                            <p class="info">Add your instagram handle so friends in the community can follow you! <em>(optional)</em></p>
-                          </div>
-                          
-
                         </div>
                       </div>
 
@@ -148,8 +162,8 @@ Mailbox 20</pre>
 
           </div>
 
-          <div class="grid-col-12 tablet:grid-col-7">
-            <div class="content">
+          <div class="grid-col-12 tablet-lg:grid-col-6">
+            <div class="content content-body">
               <p>As a small non-profit organization we rely on your support to keep our operations running and directly support writers, guest artists, and production staff in this unique time.</p>
             </div>
             <div id="donorsList">
@@ -178,9 +192,6 @@ Mailbox 20</pre>
             <p class="summary">{{- .Params.summary | markdownify -}}</p>
             {{- end -}}
 
-            <div class="content">
-              {{/*  {{- .Content -}}  */}}
-            </div>
           </div>
         </div>
       </div>
