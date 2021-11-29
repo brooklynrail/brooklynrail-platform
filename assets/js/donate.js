@@ -303,7 +303,7 @@ jQuery(document).ready(function($) {
 
 
 	// Get Donations
-	function getDonationData(){
+	function pullDonationData(){
 		$.ajax({
 			type: 'GET',
 			url: 'https://brooklynrail.org/.netlify/functions/getDonationData',
@@ -314,29 +314,41 @@ jQuery(document).ready(function($) {
 			jsonpCallback: "rail_donations",
 			crossDomain: true,
 			cache:false,
-			success: showDonationData,
+			success: getDonationData,
 			error:function(jqXHR, textStatus, errorThrown){
 				console.log('error getting Hat Data');
 				console.log(errorThrown);
 			}
 		});
 	}
-	getDonationData()
+	pullDonationData()
+	
 
 	function getDonationData(data){
 		var donationList = [];
-  // Get the Array of records
-  jQuery(data.records).each(function(i, item) {
-
-    var consent = item.fields['Consent to share'];
-    var donationName = item.fields['Donation Name'];
-    var donationInstagram = item.fields['Donation Instagram'];
-
-    // If consent is true
-    if(consent == true) {
-      // push it to donationList
-      donationList.push(displayHat(title, slug, copy, actionText, actionUrl, bgColor, textColor));
-    }
+		// Get the Array of records
+		jQuery(data.records).each(function(i, item) {
+			var consent = item.fields['Consent to share'];
+			// If consent is true
+			if(consent == true) {
+				// push it to donationList
+				donationList.push(item);
+			}
+		})
+		showDonationList(donationList)
 	}
 
-});
+	function showDonationList(data){
+		var donorList = [];
+		
+		// Get the Array of records
+		$(data).each(function(i, item) {
+			var donationName = item.fields['Donation Name'];
+			var donationInstagram = item.fields['Donation Instagram Handle'].replaceAll('@', '') 
+			var donor = '<li>'+ donationName +' (<a href="https://instagram.com/'+ donationInstagram +'">@'+ donationInstagram +'</a>) </li>';
+			// push it to donorList
+			donorList.push(donor);
+		});
+		!!donorList && donorList != "" ? jQuery(".donorsList").html(donorList.join("\n")) : "";
+	}
+})
