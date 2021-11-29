@@ -2,10 +2,13 @@
 title: "Recent Work: Catherine Murphy "
 deck: Featuring Murphy and Ksenia M. Soboleva
 summary: "Artist Catherine Murphy joins writer and art historian Ksenia M.
-  Soboleva for a conversation. We conclude with a poetry reading. "
+  Soboleva for a conversation. We conclude with a poetry reading by Lynn
+  Crawford. "
 people:
   - person: catherine-murphy
   - person: ksenia-m-soboleva
+poets:
+  - person: lynn-crawford
 date: 2021-11-30T13:00:00-0500
 end_date: 2021-11-30T14:30:00-0500
 series: 440
