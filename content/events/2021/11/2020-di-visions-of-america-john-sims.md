@@ -2,10 +2,12 @@
 title: "(Di)Visions of America: John Sims "
 deck: Featuring Sims and Karen Finley
 summary: Artist John Sims joins artist Karen Finley for a conversation. We
-  conclude with a poetry reading.
+  conclude with a poetry reading by Bob Holman.
 people:
   - person: john-sims
   - person: karen-finley
+poets:
+  - person: bob-holman
 date: 2021-11-29T13:00:00-0500
 end_date: 2021-11-29T14:30:00-0500
 series: 439
