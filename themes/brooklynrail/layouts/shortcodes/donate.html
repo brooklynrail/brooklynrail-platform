@@ -12,16 +12,6 @@ Donate Shortcode
 
   <form class="rail-form" id="donate-form">
     <fieldset>
-      
-      <div class="options">
-        <button class="amount" data-amount="25.00">$25</button>
-        <button class="amount" data-amount="50.00">$50</button>
-        <button class="amount" data-amount="100.00">$100</button>
-        <button class="amount" data-amount="500.00">$500</button>
-        <button class="amount" data-amount="1000.00">$1,000</button>
-        <button class="amount" data-amount="10000.00">$10,000 +</button>
-      </div>
-
       <div class="fields">
         {{- if $heading -}}
           <legend>{{- $heading -}}</legend>
@@ -38,22 +28,22 @@ Donate Shortcode
             </div>
             <div class="usa-checkbox transaction-fee-checkbox">
               <input class="usa-checkbox__input" id="transaction-fee" type="checkbox" name="donation_types" value="" data-fee="">
-              <label class="usa-checkbox__label" for="transaction-fee">Include the <span>$0.00</span> processing fee?</label>
+              <label class="usa-checkbox__label" for="transaction-fee">
+                Add the <span class="fee">$0.00</span> processing fee?</label> 
+              <p id="showAddress">Or <a href="#" >skip the fees mail us a check</a></p>
+            </div>
+            <input class="hidden" id="transaction-type" type="hidden" name="transaction-type" value="endowment">
+            <div id="mailAddress" class="grid-row grid-gap-4">
+              <div class="grid-col-12">
+                <pre>The Brooklyn Rail
+253 36th Street, 3rd Floor, Suite C304
+Brooklyn, NY 11232
+Mailbox 20</pre>
+              </div>
             </div>
           </div>
         </div>
-        <div class="group hidden">
-          <div class="field">
-            <label for="donate-type">Tell us which projects inspired you to donate</label>
-            {{- $donation_types := $.Site.Data.donation_types -}}
-            {{- range $donation_types -}}
-              <div class="usa-checkbox">
-                <input class="usa-checkbox__input" id="check-{{- .id -}}" type="checkbox" name="donation_types" value="{{- .id -}}">
-                <label class="usa-checkbox__label" for="check-{{- .id -}}">{{- .type -}}</label>
-              </div>
-            {{- end -}}
-          </div>
-        </div>
+        
         <div class="group">
           <div class="field">
             <div class="btn-helper">
@@ -63,17 +53,9 @@ Donate Shortcode
         </div>
         
       </div>
-      <p class="helper"></p>
-
-      
-
     </fieldset>
   </form>
-  <div class="content"><p><strong>Or skip the fees mail a check to:</strong>
-    <pre>The Brooklyn Rail
-253 36th Street, 3rd Floor, Suite C304
-Brooklyn, NY 11232
-Mailbox 20</pre></p></div>
+  
   <div class="content terms">
     <p>The Brooklyn Rail is a nonprofit 501(c)(3) organization. Your donation is fully deductible. Questions? Email <a
     href="mailto:donate@brooklynrail.org" title="email the Brooklyn Rail">donate@brooklynrail.org</a> ❤️</p>
