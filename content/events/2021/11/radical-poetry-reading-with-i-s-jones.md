@@ -7,7 +7,9 @@ summary: I.S. Jones curates the 63rd Radical Poetry Reading celebrating the
 people:
   - person: i-s-jones-1
   - person: sarah-ghazal-ali
+  - person: dalia-elhassan
   - person: sadia-hassan
+  - person: belinda-munyeza
 date: 2021-12-01T14:00:00-0500
 end_date: 2021-12-01T15:30:00-0500
 series: 441
