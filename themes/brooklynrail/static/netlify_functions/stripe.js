@@ -56,8 +56,8 @@ exports.handler = function(event, context, callback) {
       },
       line_items: [
         {
-          name: "2021 Winter Campaign Donation",
-          description: "Thank you for making a donation to the Brooklyn Rail's 2021 Winter Campaign",
+          name: data.name,
+          description: data.description,
           amount: data.amount,
           currency: "usd",
           quantity: 1
