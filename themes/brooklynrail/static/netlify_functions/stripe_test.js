@@ -39,18 +39,17 @@ exports.handler = function(event, context, callback) {
 
     return;
   }
-  // actually create the session with Stripe
+  // Create the session with Stripe
   // we need to provide a couple of redirect urls:
   stripe.checkout.sessions.create(
     {
       success_url: data.success_url,
-      cancel_url: "https://brooklynrail.org/donation-canceled",
+      cancel_url: "http://localhost:8888/donation-canceled",
       payment_method_types: ["card"],
       billing_address_collection: "required",
       payment_method_types: ["card"],
       submit_type: "donate",
       mode: "payment",
-      metadata: data.metadata,
       payment_intent_data: {
         metadata: data.metadata,
       },

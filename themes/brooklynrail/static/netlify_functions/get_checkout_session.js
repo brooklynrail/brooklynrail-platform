@@ -51,7 +51,6 @@ exports.handler = function(event, context, callback) {
       payment_method_types: ["card"],
       submit_type: "donate",
       mode: "payment",
-      metadata: data.metadata,
       payment_intent_data: {
         metadata: data.metadata,
       },

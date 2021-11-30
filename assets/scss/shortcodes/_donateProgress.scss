@@ -1,0 +1,74 @@
+// ====================================
+// Donate
+
+.shortcode-donateProgress {
+  @include u-margin-bottom(0);
+  @include at-media("tablet-lg") {
+    @include u-margin-bottom(3);
+  }
+  
+  @include u-font("sans", "lg");
+  @include u-text("light");
+  @include u-text("gray-warm-70");
+
+  span {
+    @include u-text("medium");
+  }
+  #countdown{
+    @include u-margin-bottom(2);
+    @include u-padding-left(0);
+    @include u-font("sans", "md");
+    @include u-text("center");
+    @include u-height(4);
+    @include at-media("tablet-lg") {
+      @include u-padding-left(3);
+      @include u-font("sans", "lg");
+    }
+    @include u-text("medium");
+    span{
+      span {
+        @include u-text("light");
+      }
+    }
+    & > span{
+      @include at-media("tablet-lg") {
+        @include u-margin-right(1);
+      }
+    }
+    
+  }
+  .progressBar{
+    @include u-margin-bottom(2);
+    @include at-media("tablet") {
+    }
+
+    @include u-bg("green-cool-20v");
+    @include u-radius("pill");
+    @include u-height('full');
+    .currentAmountSlider {
+      @include u-bg("green-cool-40v");
+      @include u-width(2);
+      @include u-radius-left("pill");
+      @include u-minh(4);
+      @include u-position('relative');
+      &:after {
+        content: "";
+        @include u-width(0);
+        @include u-position('absolute');
+        border-top: 16px solid transparent;
+        border-bottom: 16px solid transparent;
+        border-left: 16px solid #00a91c;
+        left: 100%;
+      }
+    }
+    
+    
+  }
+  .progressText {
+    @include u-margin-bottom('105');
+    @include u-font("sans", "md");
+    @include u-text("center");
+  }
+}
+
+
