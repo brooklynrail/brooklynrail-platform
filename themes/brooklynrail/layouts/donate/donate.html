@@ -77,7 +77,7 @@
                             <label for="donate-amount">Choose your amount</label>
                             <div class="prefix prefix-donate">
                               <span>$</span>
-                              <input required type="number" placeholder="25" name="amount" id="donate-amount" pattern="^\d+(?:\.\d{1,2})?$" title="Currency" min="0" value="0" min="0" max="50000" />
+                              <input required type="number" placeholder="100" name="amount" id="donate-amount" pattern="^\d+(?:\.\d{1,2})?$" title="Currency" min="0" value="" min="0" max="50000" />
                             </div>
                             <div class="usa-checkbox transaction-fee-checkbox">
                               <input class="usa-checkbox__input" id="transaction-fee" type="checkbox" name="donation_types" value="" data-fee="">
@@ -227,6 +227,8 @@ Mailbox 20</pre>
   <script src="{{- $donationData_js.RelPermalink -}}" {{ printf "integrity=%q" $donationData_js.Data.Integrity | safeHTMLAttr }} ></script>
   {{ $donate_js := (resources.Get "js/donate.js" | js.Build "material/dist/donate.js" | resources.Fingerprint "sha512") -}}
   <script src="{{- $donate_js.RelPermalink -}}" {{ printf "integrity=%q" $donate_js.Data.Integrity | safeHTMLAttr }} ></script>
+  {{ $donorsList_js := (resources.Get "js/donorsList.js" | js.Build "material/dist/donorsList.js" | resources.Fingerprint "sha512") -}}
+  <script src="{{- $donorsList_js.RelPermalink -}}" {{ printf "integrity=%q" $donorsList_js.Data.Integrity | safeHTMLAttr }} ></script>
   <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.4.0/dist/confetti.browser.min.js"></script>
   {{/* <script src="{{- "material/dist/signup.js" | relURL -}}"></script> */}}
 {{- end -}}

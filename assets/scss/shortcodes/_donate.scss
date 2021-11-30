@@ -151,7 +151,7 @@
     }
   }
   #mailAddress {
-
+    @include u-display('none');
     pre {
       @include u-margin(0);
       @include u-margin-top(1);

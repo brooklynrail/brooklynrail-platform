@@ -11,7 +11,7 @@ summary: Help us build a fund to keep the Rail accessible for generations to com
 
 If you would like to make a smaller gift, please donate to the Rail at [brooklynrail.org/donate](https://brooklynrail.org/donate).
 
-{{< donate placeholder="100" value="25" >}}
+{{< donate placeholder="50,000" value="25" >}}
 
 Our goal is to raise a $10 million endowment, which will allow us to be less burdened by financial instability and to be more generous with our print issues and our online editions, as well as the _[River Rail](https://brooklynrail.org/special/River_Rail_Colby/)_, a publication dedicated to climate change and global warming, and Rail Curatorial Projects, which aims to curate group exhibitions that respond specifically to location, cultural moment, and economic conditions. Having this $10 million endowment will allow us to support our important public programing, which includes poetry readings, film screenings, dance and music performances, panel discussions with artists, art historians, curators, scientists, writers, philosophers, and others. All of these events, as well as the print edition of the _Brooklyn Rail_, and everything else we do, are [free to the public](https://brooklynrail.org/where-to-find-us).
 

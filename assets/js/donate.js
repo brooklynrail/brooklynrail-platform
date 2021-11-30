@@ -112,7 +112,7 @@ jQuery(document).ready(function($) {
 	function largeDonation(newAmount){
 		var fee = getFee(newAmount);
 		// update the transaction cost
-		addHelper("wow, this is big");
+		addHelper("");
 		return 
 	}
 
@@ -232,9 +232,13 @@ jQuery(document).ready(function($) {
 		const buttonText = submitButton.innerText;
 		submitButton.innerText = "Working...";
 
-		var transaction_type = document.getElementById("transaction_type").value
-		var name = transaction_type == "donation" ? "2021 Winter Campaign Donation" : "Rail Endowment Contribution"
+		var transaction_type = document.getElementById("transaction-type").value
+		var name = transaction_type == "donation" ? "2021 Winter Campaign Donation" : "Brooklyn Rail Endowment"
 		var description = transaction_type == "donation" ? "Thank you for making a donation to the Brooklyn Rail's 2021 Winter Campaign" : "Thank you for making a donation to the Brooklyn Rail's Endowment"
+		var donationName = !!document.getElementById("donorName") ? document.getElementById("donorName").value : ""
+		var donationInstagram = !!document.getElementById("instagramHandle") ? document.getElementById("instagramHandle").value : ""
+		var consent = transaction_type == "donation" ? consentGiven() : "false"
+		var success_url = transaction_type == "donation" ? "https://brooklynrail.org/thank-you" : "https://brooklynrail.org/thank-you-endowment"
 
 		// get the current value in the input
 		// The data object we're passing to the Stripe session
@@ -243,11 +247,12 @@ jQuery(document).ready(function($) {
 			amount: document.getElementById("donate-amount").valueAsNumber * 100,
 			name: name,
 			description: description,
+			success_url: success_url,
 			metadata: { 
 				payment_type: "online donation",
-				consentGiven: consentGiven(),
-				donationName: document.getElementById("donorName").value,
-				donationInstagram: document.getElementById("instagramHandle").value,
+				consentGiven: consent,
+				donationName: donationName,
+				donationInstagram: donationInstagram,
 			},
 		};
 		var dataJson = JSON.stringify(data);
@@ -289,6 +294,8 @@ jQuery(document).ready(function($) {
 	var timer;
 
 	function showRemaining() {
+		var countdown = document.getElementById('countdown')
+		if (!!countdown){
 			var now = new Date();
 			var distance = end - now;
 			if (distance < 0) {
@@ -298,6 +305,7 @@ jQuery(document).ready(function($) {
 
 				return;
 			}
+
 			var days = Math.floor(distance / _day);
 			var hours = Math.floor((distance % _day) / _hour);
 			var minutes = Math.floor((distance % _hour) / _minute);
@@ -307,66 +315,8 @@ jQuery(document).ready(function($) {
 			document.getElementById('countdown').innerHTML += '<span>' + hours + ' <span>hours</span></span> ';
 			document.getElementById('countdown').innerHTML += '<span>' + minutes + ' <span>mins</span></span> ';
 			document.getElementById('countdown').innerHTML += '<span>' + seconds + ' <span>secs</span></span>';
+		}
 	}
 
 	timer = setInterval(showRemaining, 1000);
-
-
-	// Get Donor List
-	function pullDonorListData(){
-		$.ajax({
-			type: 'GET',
-			url: 'https://brooklynrail.org/.netlify/functions/getDonorList',
-			data:{
-				todo:"jsonp"
-			},
-			dataType: "jsonp",
-			jsonpCallback: "rail_donorList",
-			crossDomain: true,
-			cache:false,
-			success: getDonorListData,
-			error:function(jqXHR, textStatus, errorThrown){
-				console.log('error getting Hat Data');
-				console.log(errorThrown);
-			}
-		});
-	}
-	pullDonorListData()
-	
-
-	function getDonorListData(data){
-		console.log(data);
-		var donationList = [];
-		// Get the Array of records
-		jQuery(data.records).each(function(i, item) {
-			var consent = item.fields['Consent'];
-			// If consent is true
-			if(consent == true) {
-				// push it to donationList
-				donationList.push(item);
-			}
-		})
-		showDonorList(donationList)
-	}
-
-	function showDonorList(data){
-		var donorList = [];
-		
-		// Get the Array of records
-		$(data).each(function(i, item) {
-			var donationNamePublic = item.fields['Donation name public'];
-			var donationName = !!donationNamePublic && donationNamePublic != "" ? donationNamePublic : item.fields['Donation name']
-			var donationInstagram = item.fields['Instagram handle']
-			if (!!donationInstagram && donationInstagram != ""){
-				var donationInstagram = donationInstagram.replaceAll('@', '') 
-				var donor = '<li>'+ donationName + ' <a title="Follow '+donationName+' on Instagram" href="https://instagram.com/'+ donationInstagram +'"><i class="fab fa-instagram"></i><span>'+ donationInstagram +'</span></a> </li>';
-			} else {
-				var donor = '<li>'+ donationName +'</li>';
-			}
-			
-			// push it to donorList
-			donorList.push(donor);
-		});
-		!!donorList && donorList != "" ? jQuery(".donorsList").html(donorList.join("\n")) : "";
-	}
 })

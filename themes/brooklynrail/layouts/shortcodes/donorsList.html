@@ -1,0 +1,20 @@
+{{/*
+Donor List
+{{< donorList >}}
+*/}}
+
+<div id="donorsList">
+  <div class="content">
+    <h2>Our friends who are helping us to reach our goal</h2>
+    <ul class="donorsList"></ul>
+  </div>
+</div>
+
+{{- define "custom_js" }}
+  <script src="https://js.stripe.com/v3/"></script>
+  {{ $donate_js := (resources.Get "js/donate.js" | js.Build "material/dist/donate.js" | resources.Fingerprint "sha512") -}}
+  <script src="{{- $donate_js.RelPermalink -}}" {{ printf "integrity=%q" $donate_js.Data.Integrity | safeHTMLAttr }} ></script>
+  {{ $donorsList_js := (resources.Get "js/donorsList.js" | js.Build "material/dist/donorsList.js" | resources.Fingerprint "sha512") -}}
+  <script src="{{- $donorsList_js.RelPermalink -}}" {{ printf "integrity=%q" $donorsList_js.Data.Integrity | safeHTMLAttr }} ></script>
+{{- end -}}
+
