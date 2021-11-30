@@ -23,7 +23,3 @@ event_platform:
   - zoom
 ---
 ***More details coming soon!***
-
-
-
-billie CHERNICOFF
