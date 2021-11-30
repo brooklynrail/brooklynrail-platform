@@ -38,14 +38,14 @@ jQuery(document).ready(function($) {
 			if (showFee() === false){
 				if (current_value != 0){
 					update_fee(+current_value);
-					largeDonation(+current_value);
+					// largeDonation(+current_value);
 				}
 			} else {
 				var current_fee = $(amountInput).data("fee");
 				if (current_value != 0){
 					update_donateAmount(+current_value - +current_fee);
 					update_fee(+current_value - +current_fee);
-					largeDonation(+current_value - +current_fee);
+					// largeDonation(+current_value - +current_fee);
 				}
 			}
 		}, 0);
@@ -232,11 +232,17 @@ jQuery(document).ready(function($) {
 		const buttonText = submitButton.innerText;
 		submitButton.innerText = "Working...";
 
+		var transaction_type = document.getElementById("transaction_type").value
+		var name = transaction_type == "donation" ? "2021 Winter Campaign Donation" : "Rail Endowment Contribution"
+		var description = transaction_type == "donation" ? "Thank you for making a donation to the Brooklyn Rail's 2021 Winter Campaign" : "Thank you for making a donation to the Brooklyn Rail's Endowment"
+
 		// get the current value in the input
 		// The data object we're passing to the Stripe session
 		// NOTE: the amount needs to be calculated as cents!
 		var data = {
 			amount: document.getElementById("donate-amount").valueAsNumber * 100,
+			name: name,
+			description: description,
 			metadata: { 
 				payment_type: "online donation",
 				consentGiven: consentGiven(),
@@ -333,7 +339,7 @@ jQuery(document).ready(function($) {
 		var donationList = [];
 		// Get the Array of records
 		jQuery(data.records).each(function(i, item) {
-			var consent = item.fields['Consent to share'];
+			var consent = item.fields['Consent'];
 			// If consent is true
 			if(consent == true) {
 				// push it to donationList
@@ -348,8 +354,9 @@ jQuery(document).ready(function($) {
 		
 		// Get the Array of records
 		$(data).each(function(i, item) {
-			var donationName = item.fields['Donation Name'];
-			var donationInstagram = item.fields['Donation Instagram Handle']
+			var donationNamePublic = item.fields['Donation name public'];
+			var donationName = !!donationNamePublic && donationNamePublic != "" ? donationNamePublic : item.fields['Donation name']
+			var donationInstagram = item.fields['Instagram handle']
 			if (!!donationInstagram && donationInstagram != ""){
 				var donationInstagram = donationInstagram.replaceAll('@', '') 
 				var donor = '<li>'+ donationName + ' <a title="Follow '+donationName+' on Instagram" href="https://instagram.com/'+ donationInstagram +'"><i class="fab fa-instagram"></i><span>'+ donationInstagram +'</span></a> </li>';

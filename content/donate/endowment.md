@@ -1,10 +1,15 @@
 ---
+kicker: Endowment
 title: Endowment
-headline: Endowment
-deck: We’re in this for the long run
-summary: We’re in this for the long run
+headline: The Brooklyn Rail Forever
+deck: For more than 21 years, the _Rail_ has been independent and free. Join the group of artists and thinkers who are working to keep it that way forever through a $10 million endowment.
+collections:
+  - endowment
+summary: Help us build a fund to keep the Rail accessible for generations to come
 ---
 
+
+If you would like to make a smaller gift, please donate to the Rail at [brooklynrail.org/donate](https://brooklynrail.org/donate).
 
 {{< donate placeholder="100" value="25" >}}
 
