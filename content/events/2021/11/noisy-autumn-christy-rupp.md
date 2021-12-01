@@ -22,4 +22,6 @@ portraits:
 event_platform:
   - zoom
 ---
+{{< image media="2021/12/noisy-autumn-cover" size="md" >}}
+
 **[Check out Christy Rupp's *Noisy Autumn: Sculpture & Works on Paper* (Mandala Publishing, 2021) →](https://www.simonandschuster.com/books/Noisy-Autumn/Christy-Rupp/9781647224844)**
