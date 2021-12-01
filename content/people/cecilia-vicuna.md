@@ -2,17 +2,16 @@
 name: Cecilia Vicuña
 first_name: Cecilia
 last_name: Vicuña
-short_bio: 'Cecilia Vicuña is a poet, artist, filmmaker and activist. Her work
-  addresses pressing concerns of the modern world, including ecological
-  destruction, human rights, and cultural homogenization. Vicuña has published
-  22 art and poetry books, including Kuntur Ko (Tornsound, 2015), Spit Temple:
-  The Selected Performances of Cecilia Vicuña (Ugly Duckling Presse, 2012),
-  Instan (Kelsey Street Press, 2001) and Cloud Net (Art in General, 2000). She
-  was appointed the Messenger Lecturer 2015 at Cornell University, an honor
-  bestowed on authors who contribute to the "evolution of civilization for the
-  special purpose of raising the moral standard of our political, business, and
-  social life." She divides her time between Chile and New York.'
+short_bio: "Artist-poet **Cecilia Vicuña** created the concept of Precarious Art
+  in Chile in 1966, an early response to ecological crisis. Her improvisatory
+  performances emphasize indigenous cultural memory and the collective nature of
+  action to bring forth justice, balance, and world transformation. Vicuña is
+  the author of 27 books. Recent titles include *Cruz del Sur* published by
+  Lumen (Penguin/Random House, 2020) in Chile, *Slow Down Fast, a Toda Raja*
+  (Errant Bodies Press, 2019), *New and Selected Poems of Cecilia Vicuña*
+  (Kelsey Street Press, 2018), and *Read Thread: The Story of the Red Thread*
+  (Sternberg Press, 2017)."
 portraits:
-  - media: 2020/10/cecilia-vicuna
+  - media: 2021/12/cecilia-vicuna
 website: http://www.ceciliavicuna.com/
 ---
