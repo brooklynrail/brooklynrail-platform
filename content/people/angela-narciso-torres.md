@@ -11,7 +11,8 @@ short_bio: Poet **Angela Narciso Torres** is the author of _What Happens Is
   York). She serves as a senior and reviews editor for _RHINO_ Poetry. Born in
   Brooklyn and raised in Manila, she currently resides in San Diego.
 portraits:
-  - media: 2021/10/angela-narciso-torres
+  - media: 2021/12/angela-narciso-torres-updated-headshot
+  - {}
 website: https://www.angelanarcisotorres.com/
 instagram: ""
 twitter: angela_n_torres
