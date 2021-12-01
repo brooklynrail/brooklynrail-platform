@@ -1,9 +1,9 @@
 ---
 title: Radical Poetry Reading with I.S. Jones
-deck: Featuring Sarah Ghazal Ali, Dalia Elhassen, Sadia Hassan, and Belinda Munyeza
+deck: Featuring Sarah Ghazal Ali, Dalia Elhassan, Sadia Hassan, and Belinda Munyeza
 summary: I.S. Jones curates the 63rd Radical Poetry Reading celebrating the
   release of her chapbook, featuring poetry read by Sarah Ghazal Ali, Dalia
-  Elhassen, Sadia Hassan, and Belinda Munyeza
+  Elhassan, Sadia Hassan, and Belinda Munyeza
 people:
   - person: i-s-jones-1
   - person: sarah-ghazal-ali
