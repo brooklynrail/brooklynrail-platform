@@ -31,8 +31,8 @@ jQuery(document).ready(function($) {
 			var currentAmount = item.fields['Total'];
 			if (!!currentAmount && currentAmount != ""){
 				var percentComplete = (currentAmount/goal)*100;
-				var percentComplete = percentComplete > 10 ? Math.round(percentComplete * 100) / 100 : 15;
-				$(".progressBar .currentAmountSlider").css({"width": percentComplete});
+				var percentComplete = percentComplete > 10 ? (Math.round(percentComplete * 100) / 100)  : 15;
+				$(".progressBar .currentAmountSlider").css({"width": percentComplete + '%'});
 				$(".progressText .currentAmount").text('$' + currentAmount.toLocaleString());
 			}
 		})
