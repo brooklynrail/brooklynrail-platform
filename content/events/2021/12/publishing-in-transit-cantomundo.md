@@ -6,6 +6,7 @@ summary: CantoMundo cofounder Deborah Paredez joins writer and critic Cole
   readings.
 people:
   - person: cole-swensen
+  - person: zoe-tuck
 date: 2022-01-13T12:00:00-0500
 end_date: 2022-01-13T13:30:00-0500
 series: 472
@@ -15,6 +16,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: reccUMiE1o0z2FSun
 event_platform:
   - zoom
 ---
