@@ -86,6 +86,7 @@ event_organizer:
 event_producer:
   - the-brooklyn-rail
 youtube_id: Y44KIbNsuuo
+event_id: recchiybmCX8vBOkO
 registration_url: https://www.eventbrite.com/e/the-new-social-environment-166-radical-poetry-with-edwin-torres-tickets-127479475543
 event_platform:
   - zoom
