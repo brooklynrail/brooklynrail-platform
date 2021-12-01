@@ -332,6 +332,9 @@
     @include u-font("serif", "lg");
     @include u-width('auto');
   }
+  .btn{
+    @include u-text('white');
+  }
 }
 
 
