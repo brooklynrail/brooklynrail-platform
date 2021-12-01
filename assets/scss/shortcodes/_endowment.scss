@@ -1,0 +1,32 @@
+.shortcode-endowment {
+  @include u-margin-bottom(5);
+  @include u-padding-y(2);
+  @include u-radius('md');
+  @include u-border("2px", "solid", "red-50v");
+
+  p {
+    @include u-margin-y(0);
+    @include u-margin-x('auto');
+    @include u-padding-y(1);
+    @include u-padding-x(3);
+    @include u-font("sans", "sm");
+    @include u-text('red-50v');
+    @include u-text('center');
+    @include u-width('mobile-lg');
+
+    a {
+      @include u-text('red-50v');
+      @include u-text('no-underline');
+      @include u-border-bottom("2px", "solid", "red-50v");
+    }
+  }
+
+  .lead {
+    @include u-font("serif", "lg");
+    @include u-width('auto');
+  }
+
+  .btn {
+    @include u-text('white');
+  }
+}

@@ -326,6 +326,8 @@
     @include u-width('mobile-lg');
     a{
       @include u-text('red-50v');
+      @include u-text('no-underline');
+      @include u-border-bottom("2px", "solid", "red-50v");
     }
   }
   .lead {

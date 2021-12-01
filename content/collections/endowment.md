@@ -1,3 +1,3 @@
 ---
-title: Our Endowment
+title: Endowment
 ---

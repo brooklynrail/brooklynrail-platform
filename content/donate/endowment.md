@@ -1,5 +1,4 @@
 ---
-kicker: Endowment
 title: Endowment
 headline: The Brooklyn Rail Forever
 deck: For more than 21 years, the _Rail_ has been independent and free. Join the group of artists and thinkers who are working to keep it that way forever through a $10 million endowment.
@@ -8,17 +7,14 @@ collections:
 summary: Help us build a fund to keep the Rail accessible for generations to come
 ---
 
+{{< endowment >}}
 
-If you would like to make a smaller gift, please donate to the Rail at [brooklynrail.org/donate](https://brooklynrail.org/donate).
-
-{{< donate placeholder="50,000" value="25" >}}
 
 Our goal is to raise a $10 million endowment, which will allow us to be less burdened by financial instability and to be more generous with our print issues and our online editions, as well as the _[River Rail](https://brooklynrail.org/special/River_Rail_Colby/)_, a publication dedicated to climate change and global warming, and Rail Curatorial Projects, which aims to curate group exhibitions that respond specifically to location, cultural moment, and economic conditions. Having this $10 million endowment will allow us to support our important public programing, which includes poetry readings, film screenings, dance and music performances, panel discussions with artists, art historians, curators, scientists, writers, philosophers, and others. All of these events, as well as the print edition of the _Brooklyn Rail_, and everything else we do, are [free to the public](https://brooklynrail.org/where-to-find-us).
 
 Please support and contribute to our endowment, which will keep the _Brooklyn Rail_ alive, free, and relevant, to ensure that what we do in the arts, humanities, and sciences is made available to everyone, not just the cultural elites. Each and every one of our creative friends is like a musician who has the unique talent of being able to achieve a unique voice on a specific instrument. Each has a particular sound, which must and should be individually treasured. And at the same time, we know that when they bring their distinct instruments together they can also create an even richer symphonic sound that is capable of nurturing our souls.
 
 
-Questions? Email us at [hq@brooklynrail.org](mailto:hq@brooklynrail.org)
 
 ---
 
