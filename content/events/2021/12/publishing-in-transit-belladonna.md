@@ -6,6 +6,7 @@ summary: Marcella Durand, Tonya Foster, and Zoe Tuck join writer and critic Cole
   readings from our guests.
 people:
   - person: cole-swensen
+  - person: zoe-tuck
 date: 2021-12-16T12:00:00-0500
 end_date: 2021-12-16T13:30:00-0500
 series: 452
