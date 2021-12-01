@@ -37,18 +37,4 @@ jQuery(document).ready(function($) {
 			}
 		})
 	}
-
-	function showDonationList(data){
-		var donorList = [];
-		
-		// Get the Array of records
-		$(data).each(function(i, item) {
-			var donationName = item.fields['Donation Name'];
-			var donationInstagram = item.fields['Donation Instagram Handle'].replaceAll('@', '') 
-			var donor = '<li>'+ donationName +' (<a href="https://instagram.com/'+ donationInstagram +'">@'+ donationInstagram +'</a>) </li>';
-			// push it to donorList
-			donorList.push(donor);
-		});
-		!!donorList && donorList != "" ? jQuery(".donorsList").html(donorList.join("\n")) : "";
-	}
 })
