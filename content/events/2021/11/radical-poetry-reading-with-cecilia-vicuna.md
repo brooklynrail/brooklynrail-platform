@@ -5,6 +5,7 @@ summary: Cecilia Vicuña curates the 66th Radical Poetry Reading featuring poetr
   read by Roberto Harrison and friends
 people:
   - person: cecilia-vicuna
+  - person: roberto-harrison
 date: 2021-12-22T13:00:00-0500
 end_date: 2021-12-22T14:30:00-0500
 series: 456
