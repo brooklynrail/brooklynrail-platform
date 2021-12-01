@@ -6,6 +6,7 @@ summary: Angela Narciso Torres curates the 65th Radical Poetry Reading featuring
 people:
   - person: angela-narciso-torres
   - person: nan-cohen
+  - person: ralph-hamilton
 date: 2021-12-15T13:00:00-0500
 end_date: 2021-11-30T14:30:00-0500
 series: 451
