@@ -1,9 +1,9 @@
 ---
 title: "Publishing-in-Transit: CantoMundo"
 deck: Featuring Deborah Paredez, Cole Swensen, and friends
-summary: Cofounder and former co-director of CantoMundo, Deborah Paredez joins
-  writer and critic Cole Swensen for a conversation on literary publishing. We
-  open and conclude with readings.
+summary: CantoMundo cofounder Deborah Paredez joins writer and critic Cole
+  Swensen for a conversation on literary publishing. We open and conclude with
+  readings.
 people:
   - person: cole-swensen
 date: 2022-01-13T12:00:00-0500
