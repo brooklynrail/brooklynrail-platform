@@ -8,7 +8,7 @@ exports.handler = function(event, context, callback) {
   const allRecords = []
   // All donations "tblvLjFcrYeoCWOiP"
   base('tblvLjFcrYeoCWOiP').select({
-    maxRecords: 30,
+    maxRecords: 100,
     // view: "All records"
     view: "viwRfdOyiYOkR862S",
   }).eachPage(function page(records, fetchNextPage) {
