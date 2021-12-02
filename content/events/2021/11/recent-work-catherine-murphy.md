@@ -18,6 +18,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: vs_pthovZ_E
 event_id: recXG7pgi9YwVB7Aq
 portraits:
   - media: 2021/11/catherine-murphy
