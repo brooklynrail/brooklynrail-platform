@@ -8,6 +8,8 @@ people:
   - person: dawn-dedeaux
   - person: dan-cameron
   - person: joseph-s-lewis-iii
+poets:
+  - person: cliff-fyman
 date: 2021-12-10T13:00:00-0500
 end_date: 2021-12-10T14:30:00-0500
 series: 448
