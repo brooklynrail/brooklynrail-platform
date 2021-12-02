@@ -22,4 +22,6 @@ portraits:
 event_platform:
   - zoom
 ---
-**[Check out Suzanne Simard's *Finding the Mother Tree: Discovering the Wisdom of the Forest (Knopf, 2021)* →](https://suzannesimard.com/finding-the-mother-tree-book/)**
+{{< image media="2021/12/finding-the-mother-tree-book-cover" size="md" >}}
+
+**[Check out Suzanne Simard's *Finding the Mother Tree: Discovering the Wisdom of the Forest* (Knopf, 2021) →](https://suzannesimard.com/finding-the-mother-tree-book/)**
