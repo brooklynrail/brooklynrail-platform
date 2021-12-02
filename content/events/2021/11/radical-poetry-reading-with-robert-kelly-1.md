@@ -3,7 +3,8 @@ title: Radical Poetry Reading with Robert Kelly
 deck: Featuring Billie Chernicoff, Pierre Joris, Kimberly Lyons, and Jerome
   Rothenberg
 summary: Robert Kelly curates the 64th Radical Poetry Reading featuring poetry
-  read by Billie Chernicoff, Pierre Joris, Kimberly Lyons, and Jerome Rothenberg
+  read by Billie Chernicoff, Pierre Joris, Kimberly Lyons, and Jerome
+  Rothenberg.
 people:
   - person: robert-kelly
   - person: billie-chernicoff
