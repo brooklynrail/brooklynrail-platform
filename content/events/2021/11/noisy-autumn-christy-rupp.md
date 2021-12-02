@@ -1,6 +1,6 @@
 ---
 title: "Noisy Autumn: Christy Rupp"
-deck: Featuring Rupp and Eleanor Hartney
+deck: Featuring Rupp and Eleanor Heartney
 summary: "Artist Christy Rupp joins Rail Editor-at-Large Eleanor Heartney for a
   conversation. We conclude with a poetry reading by Bob Holman. "
 people:
