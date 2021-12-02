@@ -3,7 +3,7 @@ title: "Discovering the Wisdom of the Forest: Suzanne Simard"
 deck: Featuring Simard and Victoria Wilson
 summary: "Author and scientist Suzanne Simard joins publisher Victoria Wilson
   for a conversation on her book Finding the Mother Tree: Discovering the Wisdom
-  of the Forest (Knopf, 2021)."
+  of the Forest (Knopf, 2021). We conclude with a reading from the book."
 people:
   - person: suzanne-simard
   - person: victoria-wilson
