@@ -3,17 +3,17 @@ name: Kimberly Lyons
 first_name: "Kimberly "
 last_name: Lyons
 pronouns: She/Her
-short_bio: Poet **Kimberly Lyons** is author of the poetry collections
-  _Approximately Near_ (Metambesendotorg, 2016), _Calcinatio_ (Faux Press,
-  2014), _Rouge_ (Instance Press, 2013), _The Practice of Residue_ (Subpress,
-  2012), _Phototherapique_ (Ketalanche Press/Yo Yo Labs, 2007), _Saline_
-  (Instance Press, 2005) and _Abracadabra_ (Granary Books, 2000). Lyons attended
-  Columbia College where she studied poetry with Paul Hoover, and Bard College
-  where she studied with Robert Kelly. Lyons served as the program coordinator
-  at the Poetry Project from 1987 to 1991. Her essays on poets Bernadette Mayer,
-  Joe Ceravalo, and George Quasha have been published in _Aufgabe, Jacket 2,_
-  and _Talisman_. She now lives in Chicago where she publishes Lunar Chandelier
-  Press.
+short_bio: "Poet **Kimberly Lyons** is the author of *Capella*, (Oread Press,
+  2018), *Approximately Near* (Metambesendotorg, 2016), *Soonest Mended*
+  (Belladonna Collaborative). *Calcinatio* (Faux Press) and a limited edition
+  collaboration with artist Ed Epping, *Mettle* (Granary Books). Her essays on
+  Joe Ceravolo, Basil King, and Bernadette Mayor have appeared in the journals
+  *Aufgabe, Paper 2, Talisman and Dispatches from the Poetry Wars*. She has an
+  essay in *Message Ahead: Poets Respond to the Poems of Jonas Mekas* (Rail
+  Editions, 2019). An essay on poet Mina Loy’s novel, *Insel* is in *A Forest of
+  Many Stems* (Nightboat, 2021) and an essay on George Quasha’s work is
+  forthcoming in  a book of essays on his work from Talisman. She lives in
+  Brooklyn."
 portraits:
   - media: 2021/11/kimberly-lyons
 rail_contributor_url: https://brooklynrail.org/contributor/Kimberly-Lyons
