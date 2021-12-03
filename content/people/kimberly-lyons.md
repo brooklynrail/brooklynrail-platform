@@ -2,7 +2,7 @@
 name: Kimberly Lyons
 first_name: "Kimberly "
 last_name: Lyons
-pronouns: She/Her
+pronouns: ""
 short_bio: "Poet **Kimberly Lyons** is the author of *Capella*, (Oread Press,
   2018), *Approximately Near* (Metambesendotorg, 2016), *Soonest Mended*
   (Belladonna Collaborative). *Calcinatio* (Faux Press) and a limited edition
