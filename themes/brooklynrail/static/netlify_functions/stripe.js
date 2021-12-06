@@ -20,7 +20,7 @@ exports.handler = function(event, context, callback) {
   // some error checking:
   if (event.httpMethod !== "POST" || !event.body) {
     callback(null, {
-      statusCode: 200,
+      statusCode: 400,
       headers,
       body: JSON.stringify({ status: "bad-payload" })
     });
