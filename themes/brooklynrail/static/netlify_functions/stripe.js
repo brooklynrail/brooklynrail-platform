@@ -27,6 +27,8 @@ exports.handler = function(event, context, callback) {
   }
   //-- Parse the body contents into an object.
   const data = JSON.parse(event.body);
+  console.log("data", data);
+  console.log("context", context);
 
   //-- Make sure we have all required data. Otherwise, escape.
   if (!data.amount) {
