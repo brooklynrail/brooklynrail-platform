@@ -6,9 +6,8 @@
 // - STRIPE_PUBLISHABLE
 // - STRIPE_PUBLISHABLE_TEST
 // - STRIPE_SECRET
-// - STRIPE_WEBHOOK_SECRET
 // - STRIPE_SECRET_TEST
-const stripe = require("stripe")(process.env.STRIPE_WEBHOOK_SECRET); // get from ENV
+const stripe = require("stripe")(process.env.STRIPE_SECRET); // get from ENV
 
 
 const headers = {
