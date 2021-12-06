@@ -20,6 +20,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: HsGVJVatMWk
 event_id: recR3OzAMy8tGVG5N
 portraits:
   - media: 2021/11/brandt-junceau
