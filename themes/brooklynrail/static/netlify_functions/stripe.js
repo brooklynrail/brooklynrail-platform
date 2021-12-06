@@ -10,7 +10,10 @@
 const stripe = require("stripe")(process.env.STRIPE_SECRET); // get from ENV
 
 
-
+const headers = {
+  "Access-Control-Allow-Origin": "*",
+  "Access-Control-Allow-Headers": "Content-Type"
+};
 
 exports.handler = function(event, context, callback) {
 
@@ -18,10 +21,7 @@ exports.handler = function(event, context, callback) {
   if (event.httpMethod !== "POST" || !event.body) {
     callback(null, {
       statusCode: 200,
-      headers: {
-        "Access-Control-Allow-Origin": "*",
-        "Access-Control-Allow-Headers": "Content-Type"
-      },
+      headers,
       body: JSON.stringify({ status: "bad-payload" })
     });
   }
