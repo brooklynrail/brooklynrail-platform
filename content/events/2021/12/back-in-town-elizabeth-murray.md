@@ -1,10 +1,10 @@
 ---
 title: "Back In Town: Elizabeth Murray"
-deck: "Featuring Jason Andrew, Yevgenia Baras, Deborah Kass, Rachel Eulena
+deck: "Featuring Jason Andrew, Yevgeniya Baras, Deborah Kass, Rachel Eulena
   Williams, and Nancy Princenthal "
 summary: Artists Jason Andrew, Yevgenia Baras, Deborah Kass, and Rachel Eulena
-  Williams, join art historian and writer Nancy Princenthal for a conversation
-  on Elizabeth Murray's most recent exhibition up at Gladstone Gallery.
+  Williams join art historian and writer Nancy Princenthal for a conversation on
+  Elizabeth Murray. We conclude with a poetry reading by Chekwube Danladi.
 people:
   - person: jason-andrew
   - person: yevgeniya-baras
@@ -22,9 +22,10 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: rechhpk40LfFxXauZ
 portraits:
   - media: 2021/12/deborah-kass
 event_platform:
   - zoom
 ---
-**[Visit *Elizabeth Murray* at Gladstone Gallery, up until December 18 →](https://www.gladstonegallery.com/exhibition/9197/elizabeth-murray/installation-views)**
+**[Visit *Elizabeth Murray* on view at Gladstone Gallery through December 18, 2021 →](https://www.gladstonegallery.com/exhibition/9197/elizabeth-murray/installation-views)**
