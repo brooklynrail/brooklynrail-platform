@@ -10,7 +10,9 @@ people:
   - person: mark-thomas-gibson
   - person: josephine-halvorson
   - person: chris-martin-1
-poets: []
+  - person: carter-ratcliff
+poets:
+  - person: rae-armantrout
 date: 2021-12-13T12:00:00-0500
 end_date: 2021-12-13T13:30:00-0500
 series: 449
@@ -20,6 +22,8 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+portraits:
+  - media: 2021/12/rae-armantrout
 event_platform:
   - zoom
 ---
