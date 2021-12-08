@@ -22,9 +22,12 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: recUTXtV5nUaURlPZ
 portraits:
   - media: 2021/12/rae-armantrout
 event_platform:
   - zoom
 ---
-[Check out *Alex Katz* on view at Gladstone Gallery until December 21 **→**](https://www.gladstonegallery.com/exhibition/9213/alex-katz/installation-views)
+[Visit *Alex Katz* on view at Gladstone Gallery through December 21, 2021 **→**](https://www.gladstonegallery.com/exhibition/9213/alex-katz/installation-views)
+
+***Please note** this conversation with be at 12pm ET.*
