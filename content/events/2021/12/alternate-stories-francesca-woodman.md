@@ -2,11 +2,10 @@
 title: "Alternate Stories: Francesca Woodman"
 deck: Featuring Katarina Jerinic, Corey Keller, Elisabeth Sussman, Lissa
   McClure, and Lyle Rexer
-summary: "Artist Katarina Jerinic, curator Corey Keller, curator Elisabeth
-  Sussman, and Executive Director of The Woodman Family Foundation Lissa McClure
-  join critic, curator, and writer Lyle Rexer for a conversation on the
-  exhibition Francesca Woodman: Alternate Stories at Marian Goodman Gallery. We
-  conclude with a poetry reading."
+summary: Executive Director Lissa McClure and Collections Curator Katarina
+  Jerinic from The Woodman Family Foundation and curators Corey Keller and
+  Elisabeth Sussman join critic, curator, and writer Lyle Rexer for a
+  conversation on Francesca Woodman. We conclude with a poetry reading.
 people:
   - person: katarina-jerinic
   - person: corey-keller
@@ -23,9 +22,10 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: rec79sNFeZ45S2GPk
 portraits:
   - media: 2021/12/lissa-mcclure
 event_platform:
   - zoom
 ---
-**[Visit *Francesca Woodman: Alternate Stories* at Marian Goodman Gallery, up until December 23 →](https://www.mariangoodman.com/exhibitions/)**
+[Visit *Francesca Woodman: Alternate Stories* at Marian Goodman Gallery, up until December 23 →](https://www.mariangoodman.com/exhibitions/)
