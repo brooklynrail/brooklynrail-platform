@@ -5,7 +5,7 @@ summary: Artist Philip Pearlstein joins Rail Editor-at-Large Jason Rosenfeld for
   a conversation. We conclude with a poetry reading by Zach Wollard.
 people:
   - person: philip-pearlstein
-  - person: phong-h-bui
+  - person: jason-rosenfeld
 poets:
   - person: zachary-wollard
 date: 2021-12-21T13:00:00-0500
