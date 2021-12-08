@@ -16,8 +16,10 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: reca0EcWza3euizFs
 portraits:
   - media: 2021/12/deanna-hoskins
 event_platform:
   - zoom
 ---
+[Learn more about JustLeadershipUSA and their mission →](https://jlusa.org/about/)
