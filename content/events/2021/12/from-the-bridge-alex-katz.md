@@ -30,4 +30,4 @@ event_platform:
 ---
 [Visit *Alex Katz* on view at Gladstone Gallery through December 21, 2021 **→**](https://www.gladstonegallery.com/exhibition/9213/alex-katz/installation-views)
 
-***Please note** this conversation with be at 12pm ET.*
+***Please note** this conversation will be at 12pm ET.*
