@@ -14,6 +14,7 @@ short_bio: Artist **Josephine Halvorson** makes art that foregrounds firsthand
   (2014-15). She is a subject of Art21’s documentary series _New York Close Up_.
   She is Professor of Art and Chair of Graduate Studies in Painting at Boston
   University.
-portraits: []
+portraits:
+  - media: 2021/12/josephine-halvorson
 website: https://www.josephinehalvorson.info/
 ---
