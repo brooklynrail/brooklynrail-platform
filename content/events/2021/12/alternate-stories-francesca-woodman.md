@@ -9,8 +9,8 @@ summary: Executive Director Lissa McClure and Collections Curator Katarina
 people:
   - person: katarina-jerinic
   - person: corey-keller
-  - person: elisabeth-sussman
   - person: lissa-mcclure
+  - person: elisabeth-sussman
   - person: lyle-rexer
 date: 2021-12-14T13:00:00-0500
 end_date: 2021-12-14T14:30:00-0500
@@ -28,4 +28,4 @@ portraits:
 event_platform:
   - zoom
 ---
-[Visit *Francesca Woodman: Alternate Stories* on view at Marian Goodman Gallery through December 23 →](https://www.mariangoodman.com/exhibitions/)
+[Visit *Francesca Woodman: Alternate Stories* on view at Marian Goodman Gallery through December 23, 2021 →](https://www.mariangoodman.com/exhibitions/)
