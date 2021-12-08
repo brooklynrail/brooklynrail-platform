@@ -6,7 +6,8 @@ summary: Artist Philip Pearlstein joins Rail Editor-at-Large Jason Rosenfeld for
 people:
   - person: philip-pearlstein
   - person: phong-h-bui
-poets: []
+poets:
+  - person: zachary-wollard
 date: 2021-12-21T13:00:00-0500
 end_date: 2021-12-21T14:30:00-0500
 series: 455
