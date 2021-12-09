@@ -22,4 +22,4 @@ event_id: reckVc8Gx4x0RUucD
 event_platform:
   - zoom
 ---
-**[Visit *Philip Pearlstein: I Love Mud* on view at Betty Cunningham Gallery through January 22, 2022 →](http://www.bettycuninghamgallery.com/exhibitions/i-love-mud)**
+[Visit *Philip Pearlstein: I Love Mud* on view at Betty Cunningham Gallery through January 22, 2022 →](http://www.bettycuninghamgallery.com/exhibitions/i-love-mud)
