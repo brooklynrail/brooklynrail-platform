@@ -2,7 +2,7 @@
 title: Radical Poetry Reading with Angela Narciso Torres
 deck: Featuring Nan Cohen, Ralph Hamilton, Karen Llagas, and Matthew Olzmann
 summary: Angela Narciso Torres curates the 65th Radical Poetry Reading featuring
-  poetry read by Nan Cohen, Ralph Hamilton, Karen Llagas, and Matthew Olzmann
+  poetry read by Nan Cohen, Ralph Hamilton, Karen Llagas, and Matthew Olzmann.
 people:
   - person: angela-narciso-torres
   - person: nan-cohen
