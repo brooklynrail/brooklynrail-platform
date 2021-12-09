@@ -1,6 +1,6 @@
 ---
 title: Donate to the Brooklyn Rail
-headline: Help us raise $150,000 in 31 days
+headline: Help us raise $150,000
 deck: Your annual winter support keeps the Rail independent, relevant, and free
 summary: Your annual winter support keeps the Rail independent, relevant, and free
 ---
