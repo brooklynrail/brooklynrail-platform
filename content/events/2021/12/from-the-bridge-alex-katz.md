@@ -3,9 +3,8 @@ title: "From the Bridge: Alex Katz"
 deck: Featuring Mark Thomas Gibson, Josephine Halvorson, Chris Martin, and
   Carter Ratcliff
 summary: Artists Mark Thomas Gibson, Josephine Halvorson, and Chris Martin join
-  poet and art critic Carter Ratcliffe for a conversation on Alex Katz’s current
-  exhibition at Gladstone Gallery. We conclude with a poetry reading by Rae
-  Armantrout.
+  poet and art critic Carter Ratcliffe for a conversation on Alex Katz. We
+  conclude with a poetry reading by Rae Armantrout.
 people:
   - person: mark-thomas-gibson
   - person: josephine-halvorson
