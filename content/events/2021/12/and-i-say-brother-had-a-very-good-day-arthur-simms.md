@@ -20,4 +20,4 @@ event_id: recDE5ppwvZYDicX4
 event_platform:
   - zoom
 ---
-**[Visit *And I Say, Brother Had A Very Good Day, One Halo* on view at Martos Gallery through December 23, 2021 →](http://www.martosgallery.com/current)**
+[Visit *And I Say, Brother Had A Very Good Day, One Halo* on view at Martos Gallery through December 23, 2021 →](http://www.martosgallery.com/current)
