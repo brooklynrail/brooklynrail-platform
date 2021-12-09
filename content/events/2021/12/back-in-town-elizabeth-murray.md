@@ -5,7 +5,7 @@ deck: "Featuring Jason Andrew, Yevgeniya Baras, Deborah Kass, Rachel Eulena
 summary: Manager & Curator of the Estate of Elizabeth Murray Jason Andrew and
   artists Yevgenia Baras, Deborah Kass, and Rachel Eulena Williams join art
   historian and writer Nancy Princenthal for a conversation on Elizabeth Murray.
-  We conclude with a poetry reading by Chekwube Danladi.
+  We conclude with a poetry reading by Naoko Fujimoto.
 people:
   - person: jason-andrew
   - person: yevgeniya-baras
