@@ -16,6 +16,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: gUELmCxFyMM
 event_id: rechHqX6pVuoVWGtk
 portraits:
   - media: 2021/11/suzanne-simard
