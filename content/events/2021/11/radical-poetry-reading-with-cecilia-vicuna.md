@@ -1,6 +1,7 @@
 ---
 title: Radical Poetry Reading with Cecilia Vicuña
-deck: Featuring Roberto Harrison and friends
+deck: Featuring Roberto Harrison, Sarah Riggs, Saretta Morgan, and Cristina
+  Rivera Garza
 summary: Cecilia Vicuña curates the 66th Radical Poetry Reading featuring poetry
   read by Roberto Harrison, Sarah Riggs, Saretta Morgan, and Cristina Rivera
   Garza
