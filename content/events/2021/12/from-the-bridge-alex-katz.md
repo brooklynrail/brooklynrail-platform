@@ -21,6 +21,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: CMk2cZr7uWA
 event_id: recUTXtV5nUaURlPZ
 portraits:
   - media: 2021/12/rae-armantrout
