@@ -8,7 +8,10 @@ people:
   - person: cole-swensen
   - person: zoe-tuck
   - person: rachel-levitsky
-poets: []
+  - person: rachel-eulena-williams
+  - person: nancy-princenthal
+poets:
+  - person: chekwube-danladi
 date: 2021-12-16T12:00:00-0500
 end_date: 2021-12-16T13:30:00-0500
 series: 452
