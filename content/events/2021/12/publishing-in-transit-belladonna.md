@@ -1,17 +1,14 @@
 ---
 title: "Publishing-in-Transit: Belladonna*"
-deck: Featuring Marcella Durand, Tonya Foster, James Loop, Zoe Tuck, and Cole Swensen
-summary: Marcella Durand, Tonya Foster, James Loop, and Zoe Tuck join writer and
-  critic Cole Swensen for a conversation on literary publishing. We open and
-  conclude with readings from our guests.
+deck: Featuring Marcella Durand, Tonya Foster, Zoe Tuck, and Cole Swensen
+summary: Marcella Durand, Tonya Foster, and Zoe Tuck join writer and critic Cole
+  Swensen for a conversation on literary publishing. We open and conclude with
+  readings from our guests.
 people:
   - person: cole-swensen
   - person: zoe-tuck
   - person: rachel-levitsky
-  - person: rachel-eulena-williams
-  - person: nancy-princenthal
-poets:
-  - person: chekwube-danladi
+poets: []
 date: 2021-12-16T12:00:00-0500
 end_date: 2021-12-16T13:30:00-0500
 series: 452
