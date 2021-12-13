@@ -11,5 +11,6 @@ short_bio: Independent curator and producer, archivist, and writer **Jason
   a new generation of artists, curators, and collectors.
 portraits:
   - media: 2021/12/jason-andrew
-website: https://www.jasonandrewphotography.com/
+website: https://www.artistestatestudio.com/
+instagram: jandrewarts
 ---
