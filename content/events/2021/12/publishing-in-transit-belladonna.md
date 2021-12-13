@@ -5,13 +5,11 @@ summary: Marcella Durand, Tonya Foster, and Zoe Tuck join writer and critic Cole
   Swensen for a conversation on literary publishing. We open and conclude with
   readings from our guests.
 people:
-  - person: cole-swensen
+  - person: marcella-durand
+  - person: tonya-m-foster
   - person: zoe-tuck
-  - person: rachel-levitsky
-  - person: rachel-eulena-williams
-  - person: nancy-princenthal
-poets:
-  - person: chekwube-danladi
+  - person: cole-swensen
+
 date: 2021-12-16T12:00:00-0500
 end_date: 2021-12-16T13:30:00-0500
 series: 452
@@ -27,7 +25,7 @@ event_platform:
 ---
 Publishing-in-Transit is a monthly series celebrating contemporary literary editors, all of the often-unrecognized work that they do, and the community-based and conversational nature of contemporary innovative literary publishing.
 
-View our past episodes: 
+**View our past episodes:** 
 
 [New York Review Books →](https://brooklynrail.org/events/2021/06/10/publishing-in-transit-new-york-review-of-books/)
 
