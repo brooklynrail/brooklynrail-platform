@@ -3,10 +3,12 @@ title: "And I Say, Brother Had A Very Good Day: Arthur Simms "
 deck: Featuring Simms and Phong H. Bui
 summary: "Artist Arthur Simms joins Rail Publisher & Artistic Director Phong H.
   Bui for a conversation on his exhibition at Martos Gallery. We conclude with a
-  poetry reading. "
+  poetry reading by Chekwube Danladi. "
 people:
   - person: arthur-simms
   - person: phong-h-bui
+poets:
+  - person: chekwube-danladi
 date: 2021-12-20T13:00:00-0500
 end_date: 2021-12-20T14:30:00-0500
 series: 454
