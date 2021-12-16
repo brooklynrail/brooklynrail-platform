@@ -9,7 +9,6 @@ people:
   - person: tonya-m-foster
   - person: zoe-tuck
   - person: cole-swensen
-
 date: 2021-12-16T12:00:00-0500
 end_date: 2021-12-16T13:30:00-0500
 series: 452
@@ -19,6 +18,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: PjrYVxhSS5E
 event_id: receEU8olXx5GbVLp
 event_platform:
   - zoom
