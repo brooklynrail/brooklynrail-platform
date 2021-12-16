@@ -2,7 +2,7 @@
 title: "I Love Mud: Philip Pearlstein"
 deck: "Featuring Pearlstein and Jason Rosenfeld "
 summary: Artist Philip Pearlstein joins Rail Editor-at-Large Jason Rosenfeld for
-  a conversation on his exhibition at Betty Cunningham Gallery. We conclude with
+  a conversation on his exhibition at Betty Cuningham Gallery. We conclude with
   a poetry reading by Zach Wollard.
 people:
   - person: philip-pearlstein
@@ -14,6 +14,8 @@ end_date: 2021-12-21T14:30:00-0500
 series: 455
 collections:
   - the-new-social-environment
+event_sponsor:
+  - betty-cuningham-gallery
 event_organizer:
   - the-brooklyn-rail
 event_producer:
@@ -22,4 +24,4 @@ event_id: reckVc8Gx4x0RUucD
 event_platform:
   - zoom
 ---
-[Visit *Philip Pearlstein: I Love Mud* on view at Betty Cunningham Gallery through January 22, 2022 →](http://www.bettycuninghamgallery.com/exhibitions/i-love-mud)
+[Visit *Philip Pearlstein: I Love Mud* on view at Betty Cuningham Gallery through January 22, 2022 →](http://www.bettycuninghamgallery.com/exhibitions/i-love-mud)
