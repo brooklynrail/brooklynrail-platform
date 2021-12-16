@@ -14,8 +14,7 @@ end_date: 2021-12-21T14:30:00-0500
 series: 455
 collections:
   - the-new-social-environment
-event_sponsor:
-  - betty-cuningham-gallery
+event_sponsor: []
 event_organizer:
   - the-brooklyn-rail
 event_producer:
