@@ -25,6 +25,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: DGEemQWdOLU
 event_id: rec79sNFeZ45S2GPk
 portraits:
   - media: 2021/12/lissa-mcclure
