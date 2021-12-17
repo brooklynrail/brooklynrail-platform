@@ -19,8 +19,7 @@ end_date: 2021-12-17T14:30:00-0500
 series: 453
 collections:
   - the-new-social-environment
-event_sponsor:
-  - gladstone-gallery
+event_sponsor: []
 event_organizer:
   - the-brooklyn-rail
 event_producer:
