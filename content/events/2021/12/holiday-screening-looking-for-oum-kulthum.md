@@ -12,6 +12,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: rec0c5MJRBKE2xe22
 event_platform: null
 ---
 Register to receive a link and password that will grant access to the films throughout the day on **Friday, December 24**.
