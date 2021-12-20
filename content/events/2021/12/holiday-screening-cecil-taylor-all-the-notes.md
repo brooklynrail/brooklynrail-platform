@@ -1,5 +1,5 @@
 ---
-title: "Holiday Screening: Cecil Taylor: All the Notes"
+title: "Holiday Screening: Cecil Taylor"
 deck: A film by Chris Felver
 summary: "Join us for a virtual screening of Cecil Taylor: All the Notes, a film
   by Chris Felver. We offer poetry recommendations for the holidays."
