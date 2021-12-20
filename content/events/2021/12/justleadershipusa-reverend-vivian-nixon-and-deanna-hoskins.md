@@ -4,7 +4,7 @@ deck: Featuring Rev. Nixon, Hoskins, and Rev. Dr. Donna Schaper
 summary: Leaders in criminal justice reform Reverend Vivian Nixon and DeAnna
   Hoskins sit down with Rail Editor-at-Large Reverend Dr. Donna Schaper for a
   conversation on the work of JustLeadershipUSA. We conclude with a poetry
-  reading by Rail Poetry Editor Anselm Berrigan..
+  reading by Rail Poetry Editor Anselm Berrigan.
 people:
   - person: reverend-vivian-d-nixon
   - person: deanna-hoskins
