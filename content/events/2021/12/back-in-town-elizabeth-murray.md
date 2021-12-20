@@ -24,6 +24,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: nvFiM09KZQ0
 event_id: rechhpk40LfFxXauZ
 portraits:
   - media: 2021/12/deborah-kass
