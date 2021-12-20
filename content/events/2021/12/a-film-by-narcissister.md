@@ -1,5 +1,5 @@
 ---
-title: A film by Narcissister
+title: "Holiday Screening: Narcissister Organ Player"
 deck: A film by Narcissister
 summary: Join us for a virtual screening of Narcissister Organ Player, a film by
   Narcissister. We offer poetry recommendations for the holidays.
@@ -15,7 +15,7 @@ event_platform: null
 ---
 Register to receive a link and password that will grant access to the films throughout the day on **Wednesday, December 29.**
 
-***Please note** this is not a live event.*
+**\*Please note** this is not a live event.*
 
 {{< image media="2021/12/narcissister-organ-player-film-poster" size="md" >}}
 
