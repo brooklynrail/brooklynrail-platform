@@ -15,7 +15,7 @@ event_platform: null
 ---
 Register to receive a link and password that will grant access to the films throughout the day on **Wednesday, December 29.**
 
-**\*Please note** this is not a live event.*
+***Please note** this is not a live event.*
 
 {{< image media="2021/12/narcissister-organ-player-film-poster" size="md" >}}
 
