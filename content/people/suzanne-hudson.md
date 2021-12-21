@@ -12,4 +12,6 @@ short_bio: "Art historian and critic **Suzanne Hudson** is Associate Professor
   (Afterall/MIT, 2017) and _Contemporary Painting_ (Thames & Hudson, 2021). She
   is currently at work on _Better for the Making: Art, Therapy, Process_, a
   study of the therapeutic origins of art-making within American modernism."
+portraits:
+  - media: 2021/12/suzanne-hudson
 ---
