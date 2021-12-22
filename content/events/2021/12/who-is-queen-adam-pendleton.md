@@ -8,8 +8,8 @@ people:
   - person: adam-pendleton
   - person: amanda-gluibizzi
   - person: zoe-hopkins
-date: 2021-12-22T17:00:00-0500
-end_date: 2021-12-22T17:00:00-0500
+date: 2022-01-07T13:00:00-0500
+end_date: 2022-01-07T14:30:00-0500
 series: 468
 collections:
   - the-new-social-environment
