@@ -6,6 +6,7 @@ summary: "Artist Adam Pendleton joins Rail Editor-at-Large Amanda Gluibizzi for
 people:
   - person: adam-pendleton
   - person: amanda-gluibizzi
+  - person: zoe-hopkins
 date: 2022-01-07T13:00:00-0500
 end_date: 2022-01-07T14:30:00-0500
 series: 468
