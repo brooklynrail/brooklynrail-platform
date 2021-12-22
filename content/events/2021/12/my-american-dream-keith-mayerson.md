@@ -19,4 +19,4 @@ event_id: recibMR0WSQtRI9Wt
 event_platform:
   - zoom
 ---
-**[Visit *Keith Mayerson: My American Dream: This Land is Your Land* on view at Karma until January 8, 2022 →](https://karmakarma.org/exhibitions/keith-mayerson-my-american-dream-this-land-is-your-land/)**
+[Visit *Keith Mayerson: My American Dream: This Land is Your Land* on view at Karma through January 8, 2022 →](https://karmakarma.org/exhibitions/keith-mayerson-my-american-dream-this-land-is-your-land/)
