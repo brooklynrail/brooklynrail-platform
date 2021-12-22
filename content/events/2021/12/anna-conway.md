@@ -19,4 +19,4 @@ event_id: reciRl3VWQXPzPCky
 event_platform:
   - zoom
 ---
-[Visit *Anna Conway* on view at Fergus McCaffrey until January 22, 2022 →](https://fergusmccaffrey.com/exhibition/anna-conway-2/)
+[Visit *Anna Conway* on view at Fergus McCaffrey through January 22, 2022 →](https://fergusmccaffrey.com/exhibition/anna-conway-2/)
