@@ -11,11 +11,12 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: recM8z1OjDX8o78Bc
 event_platform: null
 ---
 Register to receive a link and password that will grant access to the films throughout the day on **Friday, December 31.**
 
-***Please note** this is not a live event.*
+**\*Please note** this is not a live event.*
 
 {{< image media="2021/12/cecil-taylor-all-the-notes-film-poster" size="md" >}}
 
