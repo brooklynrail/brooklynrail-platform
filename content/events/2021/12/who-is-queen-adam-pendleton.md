@@ -15,7 +15,8 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: rec4J9WCS4B2bSSMB
 event_platform:
   - zoom
 ---
-**[Check out *Adam Pendleton: Who Is Queen?* at MoMA until February 21, 2022→](https://www.moma.org/calendar/exhibitions/5225?gclid=Cj0KCQiAk4aOBhCTARIsAFWFP9Hy7dJNvHTlsu5GSFDHckawVh6mVEy4tOpnw3w5-PMmXbsM95oYRA4aAt0lEALw_wcB&gclsrc=aw.ds)**
+**[Visit *Adam Pendleton: Who Is Queen?* on view at MoMA through February 21, 2022 →](https://www.moma.org/calendar/exhibitions/5225?gclid=Cj0KCQiAk4aOBhCTARIsAFWFP9Hy7dJNvHTlsu5GSFDHckawVh6mVEy4tOpnw3w5-PMmXbsM95oYRA4aAt0lEALw_wcB&gclsrc=aw.ds)**
