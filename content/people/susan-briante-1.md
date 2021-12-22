@@ -15,6 +15,6 @@ short_bio: Writer **Susan Briante’s** most recent book _The Market Wonders_
   Swan](http://poetry.arizona.edu/blog/392), an hour of free-form poetry and
   music on KXCI 91.3 Tucson.
 portraits:
-  - media: 2021/12/susan-briante
+  - media: 2020/12/susan-briante
 website: https://www.susanbriante.com/
 ---
