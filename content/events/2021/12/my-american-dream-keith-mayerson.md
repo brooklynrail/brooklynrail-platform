@@ -1,10 +1,11 @@
 ---
 title: "My American Dream: Keith Mayerson"
-deck: Featuring Mayerson
-summary: Artist Keith Mayerson joins the Rail for a conversation. We conclude
-  with a poetry reading.
+deck: Featuring Mayerson and Jason Rosenfeld
+summary: Artist Keith Mayerson joins Rail Editor-at-Large Jason Rosenfeld for a
+  conversation. We conclude with a poetry reading.
 people:
   - person: keith-mayerson
+  - person: jason-rosenfeld
 date: 2022-01-04T13:00:00-0500
 end_date: 2022-01-04T14:30:00-0500
 series: 465
