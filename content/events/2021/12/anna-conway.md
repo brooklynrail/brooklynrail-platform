@@ -11,6 +11,8 @@ end_date: 2022-01-03T14:30:00-0500
 series: 464
 collections:
   - the-new-social-environment
+event_sponsor:
+  - fergus-mccaffrey
 event_organizer:
   - the-brooklyn-rail
 event_producer:
