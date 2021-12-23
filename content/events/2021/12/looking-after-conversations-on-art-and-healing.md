@@ -33,6 +33,6 @@ Join us for the first installment of a new monthly series, *Looking After: Conve
 
 Thank you to USC Dornsife College of Letters, Arts and Sciences & Colby Center for the Arts and Humanities for sponsoring this series. 
 
-{{< image media="2021/12/usc-dornsife-college-of-letters-arts-and-sciences" size="sm" >}}
+{{< image media="2021/12/usc-dornsife-college-of-letters-arts-and-sciences" size="md" >}}
 
-{{< image media="2021/12/colby-center-for-the-arts-and-humanities" size="sm" >}}
+{{< image media="2021/12/colby-center-for-the-arts-and-humanities" size="md" >}}
