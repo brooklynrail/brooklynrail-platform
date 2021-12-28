@@ -28,4 +28,6 @@ Register to receive a link and password that will grant access to the films thro
 
 **[Poetry from the December 2021 / January 2022 issue →](https://brooklynrail.org/2021/12/poetry)**
 
+Today's film includes poetry written by Narcissister's mother, Sarah Benzaquen Lumpkin, which have been compiled in a chapbook *The Heart Of Things*, available through Tender Buttons Press at [TenderButtonsPress@gmail.com](mailto:TenderButtonsPress@gmail.com)
+
 🙏  A special thanks to Narcissister, David Koh, and Film Movement for making this virtual screening possible!
