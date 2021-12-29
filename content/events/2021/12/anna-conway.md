@@ -6,6 +6,8 @@ summary: Artist Anna Conway joins Rail contributor Ann C. Collins for a
 people:
   - person: anna-conway
   - person: ann-c-collins
+poets:
+  - person: dare-williams
 date: 2022-01-03T13:00:00-0500
 end_date: 2022-01-03T14:30:00-0500
 series: 464
