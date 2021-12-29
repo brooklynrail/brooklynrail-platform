@@ -1,7 +1,7 @@
 ---
-media: /media/files/anna-conway-portrait-february-2019_210x235_acf_cropped.jpeg
+media: /media/files/anna-conway-portrait-february-2019.jpg
 title: Anna Conway
 alt: Photo of Anna Conway.
-caption: Courtesy Fergus McCaffrey Gallery
+caption: ""
 date: 2021-12-22T11:40:00-0500
 ---
