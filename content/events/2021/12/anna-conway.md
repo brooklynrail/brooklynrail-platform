@@ -2,7 +2,7 @@
 title: "Haniwa: Anna Conway"
 deck: Featuring Conway and Ann C. Collins
 summary: Artist Anna Conway joins Rail contributor Ann C. Collins for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading by Dare Williams.
 people:
   - person: anna-conway
   - person: ann-c-collins
