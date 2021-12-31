@@ -19,6 +19,12 @@ event_id: recRb2D0Fg9KYTKtA
 event_platform:
   - zoom
 ---
+{{< image media="2021/12/the-sentence-film-poster" size="md" >}}
+
 Register to receive a link and password that will grant access to the film throughout the day on **Thursday, January 6.**
 
 The live conversation with Rudy Valdez and Rev. Dr. Donna Schaper will take place at **12pm ET**.
+
+**[Watch the trailer →](https://www.thesentencedoc.com/the-trailer)**
+
+**[More info on the film →](https://www.thesentencedoc.com/)**
