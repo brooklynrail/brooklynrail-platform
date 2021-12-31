@@ -1,13 +1,15 @@
 ---
 title: "Who is Queen?: Adam Pendleton"
 deck: Featuring Pendleton, Amanda Gluibizzi, and Zoë Hopkins
-summary: "Artist Adam Pendleton joins Rail Artseen Editor Amanda Gluibizzi and
+summary: Artist Adam Pendleton joins Rail Artseen Editor Amanda Gluibizzi and
   Rail Artseen contributor Zoë Hopkins for a conversation. We conclude with a
-  poetry reading. "
+  poetry reading by Ama Birch.
 people:
   - person: adam-pendleton
   - person: amanda-gluibizzi
   - person: zoe-hopkins
+poets:
+  - person: ama-birch
 date: 2022-01-07T13:00:00-0500
 end_date: 2022-01-07T14:30:00-0500
 series: 468
