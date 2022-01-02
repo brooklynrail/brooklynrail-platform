@@ -20,7 +20,7 @@ jQuery(document).ready(function($) {
 			}
 		});
 	}
-	pullDonorListData()
+	// pullDonorListData()
 	
 
 	function getDonorListData(data){
