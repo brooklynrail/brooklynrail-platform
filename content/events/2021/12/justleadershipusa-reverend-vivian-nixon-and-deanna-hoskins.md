@@ -19,6 +19,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: -0Sf2Ma1I2w
 event_id: reca0EcWza3euizFs
 portraits:
   - media: 2021/12/deanna-hoskins
