@@ -8,6 +8,8 @@ summary: Filmmaker Rudy Valdez joins Rail Editor-at-Large Rev. Dr. Donna Schaper
 people:
   - person: rudy-valdez
   - person: rev-dr-dona-schaper
+poets:
+  - person: elizabeth-lothian
 date: 2022-01-06T12:00:00-0500
 end_date: 2022-01-06T13:00:00-0500
 collections:
