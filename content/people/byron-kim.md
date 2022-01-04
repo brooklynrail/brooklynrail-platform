@@ -11,4 +11,6 @@ short_bio: Artist **Byron Kim** (b. 1961) received a BA from Yale University and
   American Art, and National Gallery of Art, among many others. Byron Kim lives
   and works in Brooklyn, NY and San Diego, CA, and is a Senior Critic at Yale
   University.
+portraits:
+  - media: 2022/01/byron-kim-headshot
 ---
