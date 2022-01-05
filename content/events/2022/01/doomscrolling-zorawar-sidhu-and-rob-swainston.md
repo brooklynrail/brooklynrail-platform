@@ -6,6 +6,7 @@ summary: Artists Zorawar Sidhu and Rob Swainston join Rail contributor Andrew
 people:
   - person: zorawar-sidhu
   - person: rob-swainston
+  - person: andrew-paul-woolbright
 poets: []
 date: 2022-01-10T13:00:00-0500
 end_date: 2022-01-10T14:30:00-0500
