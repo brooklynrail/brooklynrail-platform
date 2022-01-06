@@ -9,5 +9,5 @@ short_bio: Poet, novelist, playwright, aphorist, essayist, philosopher, visual
   and winner of the 2016 Jackson Prize for Poetry.
 portraits:
   - media: 2021/06/will-alexander
-rail_contributor_url: https://brooklynrail.org/2020/04/criticspage/Mirage-As-Errata
+rail_contributor_url: https://brooklynrail.org/contributor/Will-Alexander
 ---
