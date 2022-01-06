@@ -17,6 +17,10 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: recge3OEmzsc4afnV
 event_platform:
   - zoom
 ---
+[More on the new publication *Object Lessons: Case Studies in Minimal Art—The Guggenheim Panza Collection Initiative* **→**](https://www.guggenheim.org/publication/object-lessons-case-studies-in-minimal-art-the-guggenheim-panza-collection-initiative)
+
+[Read more about the Panza Collection Initiative **→**](https://www.guggenheim.org/conservation/the-panza-collection-initiative)
