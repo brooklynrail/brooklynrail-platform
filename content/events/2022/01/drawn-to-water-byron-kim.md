@@ -1,7 +1,7 @@
 ---
 title: "Drawn to Water: Byron Kim"
 deck: Featuring Kim and Amanda Gluibizzi
-summary: Artist Byron Kim joins Rail Editor-at-Large Amanda Gluibizzi for a
+summary: Artist Byron Kim joins Rail Artseen Editor Amanda Gluibizzi for a
   conversation. We conclude with a poetry reading.
 people:
   - person: byron-kim
