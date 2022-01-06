@@ -10,5 +10,6 @@ short_bio: " Musician, visual artist, and writer **Lee Ranaldo** co-founded
   released in February 2020 on Mute Records."
 portraits:
   - media: 2020/12/lee-ranaldo
+website: http://www.leeranaldo.com/
 twitter: leeranaldo
 ---
