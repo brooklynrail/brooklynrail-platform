@@ -15,7 +15,8 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: recWGnTdMcGUvECic
 event_platform:
   - zoom
 ---
-**[Visit *Byron Kim: Drawn to Water* on view at James Cohan through February 19, 2022 →](https://www.jamescohan.com/exhibitions/byron-kim5)**
+[Visit *Byron Kim: Drawn to Water* on view at James Cohan through February 19, 2022 →](https://www.jamescohan.com/exhibitions/byron-kim5)
