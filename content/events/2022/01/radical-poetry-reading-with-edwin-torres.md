@@ -7,8 +7,8 @@ people:
   - person: edwin-torres
   - person: will-alexander
   - person: alex-tatarsky
-date: 2022-01-07T16:53:00-0500
-end_date: 2022-01-07T16:53:00-0500
+date: 2022-01-19T13:00:00-0500
+end_date: 2022-01-19T14:30:00-0500
 series: 476
 collections:
   - the-new-social-environment
