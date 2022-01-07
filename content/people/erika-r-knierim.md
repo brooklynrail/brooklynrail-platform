@@ -3,7 +3,7 @@ name: Erika R. Knierim
 first_name: Erika
 last_name: Knierim
 pronouns: she/her
-short_bio: Founder and Principal of Nomic Consulting **Erika R. Knierim ** is a
+short_bio: Founder and Principal of Nomic Consulting **Erika R. Knierim** is a
   passionate fundraiser, attorney, and finance professional who has spent the
   last ten years dedicated to bringing classical music into the 21st Century. As
   the immediate past President of the Overture Council, the young professionals
