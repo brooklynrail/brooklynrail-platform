@@ -2,12 +2,14 @@
 title: "Doomscrolling: Zorawar Sidhu and Rob Swainston"
 deck: Featuring Sidhu, Swainston, and Andrew Woolbright
 summary: Artists Zorawar Sidhu and Rob Swainston join Rail contributor Andrew
-  Woolbright for a conversation. We conclude with a poetry reading.
+  Woolbright for a conversation. We conclude with a poetry reading from imogen
+  xtian smith.
 people:
   - person: zorawar-sidhu
   - person: rob-swainston
   - person: andrew-paul-woolbright
-poets: []
+poets:
+  - person: imogen-xtian-smith
 date: 2022-01-10T13:00:00-0500
 end_date: 2022-01-10T14:30:00-0500
 series: 469
