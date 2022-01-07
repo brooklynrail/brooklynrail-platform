@@ -14,6 +14,6 @@ short_bio: "A 2017-18 Movement Research Artist-in-Residence, **Alexandra
   nonsense, and mimes are forthcoming in _ArtReview Asia_, _Folder_, and
   _Garlands_. "
 portraits:
-  - {}
+  - media: 2022/01/alexandra-tatarsky-headshot
 instagram: tartar.biz
 ---
