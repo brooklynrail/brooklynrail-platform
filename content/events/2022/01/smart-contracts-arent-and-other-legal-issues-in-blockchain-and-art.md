@@ -1,7 +1,7 @@
 ---
 title: Smart Contracts Aren't, and other legal issues in blockchain and art
 deck: Featuring Erika R. Knierim, Sarah C. Odenkirk, and Charlotte Kent
-summary: Lawyers Erika R. Knierim and Sarah C. Odenkirk joins Rail
+summary: Lawyers Erika R. Knierim and Sarah C. Odenkirk join Rail
   Editor-at-Large Charlotte Kent for a conversation. We conclude with a poetry
   reading.
 people:
