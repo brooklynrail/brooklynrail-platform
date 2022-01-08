@@ -15,5 +15,6 @@ short_bio: "Founder and Principal of Nomic Consulting, **Erika R. Knierim** is
   themselves and their art. "
 portraits:
   - media: 2022/01/erika-r-knierim
-instagram: eknierim
+website: https://www.nomic-consulting.com/
+instagram: ""
 ---
