@@ -1,8 +1,8 @@
 ---
 title: Radical Poetry Reading with Edwin Torres
-deck: Featuring Will Alexander, Martin Bakero, and Alex Tatarsky
+deck: Featuring Will Alexander, Martin Bakero, Lara Mimosa Montes, and Alex Tatarsky
 summary: Edwin Torres curates the 69th Radical Poetry Reading featuring poetry
-  read by Will Alexander, Martin Bakero, and Alex Tatarsky.
+  read by Will Alexander, Martin Bakero, Lara Mimosa Montes, and Alex Tatarsky.
 people:
   - person: edwin-torres
   - person: will-alexander
@@ -16,8 +16,10 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: recLq2fMdnD2IOZh8
 portraits:
   - media: 2022/01/alexandra-tatarsky-headshot
 event_platform:
   - zoom
 ---
+[Edwin's new book *Quanundrum: \[i will be your many angled thing]* (Roof Books, 2021) is available here →](https://www.spdbooks.org/Products/9781931824996/quanundrum-i-will-be-your-many-angled-thing.aspx)
