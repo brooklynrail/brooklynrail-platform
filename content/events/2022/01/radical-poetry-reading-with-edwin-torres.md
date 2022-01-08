@@ -1,8 +1,8 @@
 ---
 title: Radical Poetry Reading with Edwin Torres
-deck: Featuring Will Alexander, Martin Bakero, Lara Mimosa Montes, and Alex Tatarsky
+deck: Featuring Will Alexander, Martín Bakero, Lara Mimosa Montes, and Alex Tatarsky
 summary: Edwin Torres curates the 69th Radical Poetry Reading featuring poetry
-  read by Will Alexander, Martin Bakero, Lara Mimosa Montes, and Alex Tatarsky.
+  read by Will Alexander, Martín Bakero, Lara Mimosa Montes, and Alex Tatarsky.
 people:
   - person: edwin-torres
   - person: will-alexander
