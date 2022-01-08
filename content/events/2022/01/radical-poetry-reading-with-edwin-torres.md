@@ -6,6 +6,8 @@ summary: Edwin Torres curates the 69th Radical Poetry Reading featuring poetry
 people:
   - person: edwin-torres
   - person: will-alexander
+  - person: martin-bakero
+  - person: lara-mimosa-montes
   - person: alex-tatarsky
 date: 2022-01-19T13:00:00-0500
 end_date: 2022-01-19T14:30:00-0500
