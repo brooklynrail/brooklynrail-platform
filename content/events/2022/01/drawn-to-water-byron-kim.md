@@ -2,10 +2,15 @@
 title: "Drawn to Water: Byron Kim"
 deck: Featuring Kim and Amanda Gluibizzi
 summary: Artist Byron Kim joins Rail Artseen Editor Amanda Gluibizzi for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading by Shangyang Fang.
 people:
   - person: byron-kim
   - person: amanda-gluibizzi
+poets:
+  - person: shangyang-fang
+    related_links:
+      - url: https://www.coppercanyonpress.org/books/burying-the-mountain-by-shangyang-fang/
+        text: Burying the Mountain (Copper Canyon Press, 2021)
 date: 2022-01-14T13:00:00-0500
 end_date: 2022-01-14T14:30:00-0500
 series: 473
