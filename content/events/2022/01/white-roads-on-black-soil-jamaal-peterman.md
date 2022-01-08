@@ -1,11 +1,12 @@
 ---
 title: "White Roads on Black Soil: Jamaal Peterman"
-deck: ""
+deck: Featuring Peterman and Zoë Hopkins
 summary: Artist Jamaal Peterman joins Rail Artseen contributor Zoë Hopkins for a
   conversation. We conclude with a poetry reading by No Land.
 people:
   - person: jamaal-peterman
   - person: zoe-hopkins
+  - person: charlotte-kent
 poets:
   - person: no-land
 date: 2022-01-11T13:00:00-0500
