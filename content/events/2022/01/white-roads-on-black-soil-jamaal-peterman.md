@@ -1,10 +1,11 @@
 ---
 title: "White Roads on Black Soil: Jamaal Peterman"
 deck: ""
-summary: Artist Jamaal Peterman joins the Rail for a conversation. We conclude
-  with a poetry reading by No Land.
+summary: Artist Jamaal Peterman joins Rail Artseen contributor Zoë Hopkins for a
+  conversation. We conclude with a poetry reading by No Land.
 people:
   - person: jamaal-peterman
+  - person: zoe-hopkins
 poets:
   - person: no-land
 date: 2022-01-11T13:00:00-0500
