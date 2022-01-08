@@ -4,9 +4,9 @@ first_name: Sarah
 last_name: Odenkirk
 pronouns: she/her
 short_bio: Partner and co-head of Art, Law and Emerging Technology at Cowan,
-  DeBaets, Abrahams & Sheppard, LLC, **Sarah C. Odenkirk** is based in the
-  firm’s Beverly Hills office where she spearheads the firm’s art law practice
-  and advises clients on matters pertaining to intellectual property, business
+  DeBaets, Abrahams & Sheppard, LLC **Sarah C. Odenkirk** is based in the firm’s
+  Beverly Hills office where she spearheads the firm’s art law practice and
+  advises clients on matters pertaining to intellectual property, business
   transactions, navigating the art market, public policy, and strategic
   planning. From 2013-2017 Sarah was the Associate Director of the Art Business
   and Arts Management Masters Degree Programs at Claremont Graduate University,
