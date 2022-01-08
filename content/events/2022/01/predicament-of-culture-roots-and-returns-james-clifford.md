@@ -1,8 +1,9 @@
 ---
-title: "Predicament of Culture, Roots, and Returns: James Clifford"
+title: "The Predicament of Culture, Routes, and Returns: James Clifford"
 deck: Featuring Clifford, Thyrza Nichols Goodeve, and Hearne Pardee
-summary: Historian James Clifford joins hosts Thyrza Nichols Goodeve and Hearne
-  Pardee for a conversation.
+summary: Historian James Clifford joins Rail Editor-at-Large Thyrza Nichols
+  Goodeve and Rail contributor Hearne Pardee for a conversation. We conclude
+  with a poetry reading.
 people:
   - person: james-clifford
   - person: thyrza-nichols-goodeve
@@ -15,6 +16,9 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: receyy4ashSkh393u
 event_platform:
   - zoom
 ---
+Find more information on Clifford's books *[The Predicament of Culture: Twentieth-Century Ethnography, Literature, and Art ](https://www.hup.harvard.edu/catalog.php?isbn=9780674698437)*(1988), *[Routes: Travel and Translation in the Late Twentieth Century](https://www.hup.harvard.edu/catalog.php?isbn=9780674779617)* (1997), and *[Returns:
+Becoming Indigenous in the Twenty-First Century](https://www.hup.harvard.edu/catalog.php?isbn=9780674724921)* (2013), all available from Harvard University Press.
