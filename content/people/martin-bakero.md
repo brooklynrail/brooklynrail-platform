@@ -12,6 +12,8 @@ short_bio: "Poet and academic **Martín Bakero** presents performances, lectures
   he works as a psychoanalyst with persons suffering with severe autism and
   other psychological disorders, helping them to find peace in their unique
   perceptions of reality. "
+portraits:
+  - media: 2022/01/martin-bakero
 website: http://therapoetics.org/
 twitter: martinbakero
 ---
