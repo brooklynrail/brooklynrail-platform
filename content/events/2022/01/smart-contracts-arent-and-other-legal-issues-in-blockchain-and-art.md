@@ -8,6 +8,8 @@ people:
   - person: erika-r-knierim
   - person: sarah-c-odenkirk
   - person: charlotte-kent
+poets:
+  - person: matthea-harvey
 date: 2022-01-13T13:00:00-0500
 end_date: 2022-01-13T14:30:00-0500
 collections:
