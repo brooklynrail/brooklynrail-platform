@@ -19,4 +19,4 @@ event_id: recSpiO14G5hkCEby
 event_platform:
   - zoom
 ---
-[Visit *Joan Semmel: Skin in the Game* on view at the Pennsylvania Acadeny of Fine Art through April 3, 2022 →](https://www.pafa.org/museum/exhibitions/joan-semmel)
+[Visit *Joan Semmel: Skin in the Game* on view at the Pennsylvania Academy of Fine Art through April 3, 2022 →](https://www.pafa.org/museum/exhibitions/joan-semmel)
