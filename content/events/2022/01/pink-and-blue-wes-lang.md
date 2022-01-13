@@ -6,7 +6,8 @@ summary: Artist Wes Lang joins Rail contributor Andrew Woolbright for a
 people:
   - person: wes-lang
   - person: andrew-paul-woolbright
-poets: []
+poets:
+  - person: sarah-ruhl
 date: 2022-01-18T14:00:00-0500
 end_date: 2022-01-18T15:30:00-0500
 series: 475
