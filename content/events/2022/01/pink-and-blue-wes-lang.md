@@ -17,7 +17,8 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: recnRt9kwbiOHUnzb
 event_platform:
   - zoom
 ---
-[Visit *Wes Lang: Pink and Blue* on view at Almine Rech through February 5, 2022→](https://www.alminerech.com/exhibitions/8371-wes-lang)
+[Visit *Wes Lang: Pink and Blue* on view at Almine Rech through February 5, 2022 →](https://www.alminerech.com/exhibitions/8371-wes-lang)
