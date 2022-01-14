@@ -1,12 +1,16 @@
 ---
 title: BAM ... And Then It Hit Me
-deck: Featuring Karen Brooks Hopkins, Bryan Doerries, and friends
-summary: President Emerita of the Brooklyn Academy of Music Karen Brooks Hopkins
-  and friends join Rail Editor-at-Large Bryan Doerries for a conversation. We
+deck: Featuring Karen Brooks Hopkins, Rufus Wainwright, Jörn Weisbrodt, and
+  Bryan Doerries
+summary: President Emerita of the Brooklyn Academy of Music Karen Brooks
+  Hopkins, singer-songwriter Rufus Wainwright, and arts administrator Jörn
+  Weisbrodt join Rail Editor-at-Large Bryan Doerries for a conversation. We
   conclude with a poetry reading.
 people:
   - person: karen-brooks-hopkins
   - person: bryan-doerries
+  - person: rufus-wainwright
+  - person: jorn-weisbrodt
 date: 2022-01-27T13:00:00-0500
 end_date: 2022-01-27T14:30:00-0500
 collections:
