@@ -2,10 +2,12 @@
 title: "Skin in the Game: Joan Semmel"
 deck: Featuring Semmel and Amelia Jones
 summary: Artist Joan Semmel joins art historian Amelia Jones for a conversation.
-  We conclude with a poetry reading.
+  We conclude with a poetry reading by Phong H. Bui.
 people:
   - person: joan-semmel
   - person: amelia-jones
+poets:
+  - person: phong-h-bui
 date: 2022-01-17T13:00:00-0500
 end_date: 2022-01-17T14:30:00-0500
 series: 474
