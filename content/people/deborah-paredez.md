@@ -11,4 +11,6 @@ short_bio: "Poet and cultural critic **Deborah Paredez** is the author of the
   served as codirector (2009-2019) of CantoMundo, a national organization for
   Latinx poets. She lives in New York City where she teaches creative writing
   and ethnic studies at Columbia University."
+portraits:
+  - media: 2022/01/deborah-paredez-headshot
 ---
