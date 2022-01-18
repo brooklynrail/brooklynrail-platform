@@ -3,11 +3,13 @@ title: "The Predicament of Culture, Routes, and Returns: James Clifford"
 deck: Featuring Clifford, Thyrza Nichols Goodeve, and Hearne Pardee
 summary: Historian and cultural theorist James Clifford joins Rail
   Editor-at-Large Thyrza Nichols Goodeve and Rail contributor Hearne Pardee for
-  a conversation. We conclude with a poetry reading.
+  a conversation. We conclude with a poetry reading from Noa Mendoza..
 people:
   - person: james-clifford
   - person: thyrza-nichols-goodeve
   - person: hearne-pardee
+poets:
+  - person: noa-mendoza
 date: 2022-01-20T13:00:00-0500
 end_date: 2022-01-20T14:30:00-0500
 collections:
