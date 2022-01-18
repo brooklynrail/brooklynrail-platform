@@ -2,7 +2,8 @@
 title: "Roda Das Encantadas: Maria Nepomuceno"
 deck: Featuring Nepomuceno and Ksenia M. Soboleva
 summary: Artist Maria Nepomuceno joins writer and art historian Ksenia M.
-  Soboleva for a conversation. We conclude with a poetry reading.
+  Soboleva for a conversation. We conclude with a poetry reading by Rosie
+  Stockton.
 people:
   - person: maria-nepomuceno
   - person: ksenia-m-soboleva
