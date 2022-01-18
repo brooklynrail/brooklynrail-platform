@@ -6,6 +6,11 @@ summary: Artist Maria Nepomuceno joins writer and art historian Ksenia M.
 people:
   - person: maria-nepomuceno
   - person: ksenia-m-soboleva
+poets:
+  - person: rosie-stockton
+    related_links:
+      - text: Buy Rosie Stockton's debut collection, _Permanent Volta_ (Nightboat, 2021)
+        url: https://nightboat.org/book/permanent-volta/
 date: 2022-01-21T13:00:00-0500
 end_date: 2022-01-21T14:30:00-0500
 series: 478
