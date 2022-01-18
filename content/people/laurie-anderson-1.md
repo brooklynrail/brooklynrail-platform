@@ -14,4 +14,7 @@ short_bio: As a Grammy Award-winning musician, performer, writer, and artist,
   Brothers, including _Big Science_, featuring the song “O Superman,” which rose
   to No. 2 on the British pop charts. She is currently Charles Eliot Norton
   Professor of Poetry at Harvard University.
+portraits:
+  - media: 2022/01/laurie-anderson-headshot
+website: https://laurieanderson.com/
 ---
