@@ -23,4 +23,4 @@ portraits:
 event_platform:
   - zoom
 ---
-**[Visit *Laurie Anderson: The Weather*, on view at Hirshhorn Museum through July 31, 2022→](https://hirshhorn.si.edu/exhibitions/laurie-anderson-the-weather/)**
+[Visit *Laurie Anderson: The Weather* on view at Hirshhorn Museum through July 31, 2022 →](https://hirshhorn.si.edu/exhibitions/laurie-anderson-the-weather/)
