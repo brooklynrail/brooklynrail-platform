@@ -8,8 +8,8 @@ people:
   - person: deborah-paredez
   - person: carmen-tafolla
   - person: cole-swensen
-date: 2022-02-10T13:00:00-0500
-end_date: 2022-02-10T14:30:00-0500
+date: 2022-02-10T12:00:00-0500
+end_date: 2022-02-10T13:30:00-0500
 collections:
   - common-ground
 event_organizer:
