@@ -5,12 +5,14 @@ deck: Featuring Karen Brooks Hopkins, Bryan Doerries, Rufus Wainwright, and Jör
 summary: President Emerita of the Brooklyn Academy of Music Karen Brooks Hopkins
   and Rail Editor-at-Large Bryan Doerries are joined by special guests Rufus
   Wainwright and Jörn Weisbrodt for a conversation. We conclude with a poetry
-  reading.
+  reading by Nora Claire Miller.
 people:
   - person: karen-brooks-hopkins
   - person: bryan-doerries
   - person: rufus-wainwright
   - person: jorn-weisbrodt
+poets:
+  - person: nora-claire-miller
 date: 2022-01-27T13:00:00-0500
 end_date: 2022-01-27T14:30:00-0500
 collections:
