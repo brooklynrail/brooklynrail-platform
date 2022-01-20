@@ -9,6 +9,8 @@ people:
   - person: johnson-chang
   - person: david-humphreys
   - person: paul-gladston
+poets:
+  - person: maw-shein-win
 date: 2022-01-24T20:00:00-0500
 end_date: 2022-01-24T21:30:00-0500
 series: 479
