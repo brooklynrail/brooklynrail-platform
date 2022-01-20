@@ -1,10 +1,10 @@
 ---
 title: Abstractions in Chinese Visual Culture and Aesthetics, Part II
 deck: "Featuring Johnson Chang, David Humphreys, and Paul Gladston "
-summary: "Curator and art historian Johnson Chang and former Australian diplomat
+summary: Curator and art historian Johnson Chang and former Australian diplomat
   to Hong Kong David Humphreys join Rail contributor Paul Gladston for the
   second installment of a conversation on abstractions in Chinese visual culture
-  and aesthetics. We conclude with a poetry reading. "
+  and aesthetics. We conclude with a poetry reading by Maw Shein Win.
 people:
   - person: johnson-chang
   - person: david-humphreys
