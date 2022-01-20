@@ -1,5 +1,5 @@
 ---
-title: "The Predicament of Culture, Routes, and Returns: James Clifford"
+title: "Living Artifacts in Colonial Collections: James Clifford"
 deck: Featuring Clifford, Thyrza Nichols Goodeve, and Hearne Pardee
 summary: Historian and cultural theorist James Clifford joins Rail
   Editor-at-Large Thyrza Nichols Goodeve and Rail contributor Hearne Pardee for
