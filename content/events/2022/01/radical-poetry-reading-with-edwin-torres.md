@@ -19,6 +19,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: KtIJ_WyKvQU
 event_id: recLq2fMdnD2IOZh8
 portraits:
   - media: 2022/01/alexandra-tatarsky-headshot
