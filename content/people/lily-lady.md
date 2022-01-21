@@ -8,4 +8,5 @@ short_bio: Writer **Lily Lady** is based in New York City. Their work can be
   book, _quickie_, will be published by Dream Boy Book Club in spring 2022.
 portraits:
   - media: 2022/01/lily-lady-headshot
+instagram: ladylilz
 ---
