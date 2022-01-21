@@ -13,4 +13,5 @@ short_bio: "American art dealer **Frank Maresca** is the co-founder of
   conventional categories in visual art and vernacular art. "
 portraits:
   - media: 2020/08/frank-maresca
+instagram: frank.maresca
 ---
