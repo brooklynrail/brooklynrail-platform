@@ -3,12 +3,13 @@ title: "Memory Portals: Martín Ramírez"
 deck: Featuring Victor Espinosa, Frank Maresca, and Lyle Rexer
 summary: Author Victor Espinosa and gallerist Frank Maresca join Rail
   contributor Lyle Rexer for a conversation on artist Martín Ramírez. We
-  conclude with a poetry reading by Lily Lady Cook.
+  conclude with a poetry reading by Lily Lady.
 people:
   - person: victor-espinosa
-  - person: lyle-rexer
   - person: frank-maresca
-poets: []
+  - person: lyle-rexer
+poets:
+  - person: lily-lady
 date: 2022-01-25T13:00:00-0500
 end_date: 2022-01-25T14:30:00-0500
 series: 480
