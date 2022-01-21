@@ -16,5 +16,5 @@ short_bio: "William R. Kenan Jr. Professor of Art at Colby College, **Tanya
   Institution’s _Archives of American Art Journal_."
 portraits:
   - media: 2021/12/tanya-sheehan
-twitter: 94tsheehan
+twitter: ""
 ---
