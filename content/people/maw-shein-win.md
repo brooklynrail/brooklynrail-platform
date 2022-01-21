@@ -14,5 +14,5 @@ short_bio: "Poet **Maw Shein Win**’s chapbooks are _Ruins of a glittering
   Spring 2021 ARC Poetry Fellow at UC Berkeley. "
 portraits:
   - media: 2021/11/maw-shein-win
-website: mawsheinwin.com
+website: https://www.mawsheinwin.com/
 ---
