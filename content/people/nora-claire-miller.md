@@ -10,7 +10,7 @@ short_bio: "Poet and multidisciplinary artist from New York City, **Nora Claire
   the Iowa Writers’ Workshop and a BA from Hampshire College. "
 portraits:
   - media: 2022/01/nora-claire-miller
-website: www.noraclairemiller.com
+website: https://noraclairemiller.com/
 instagram: really.nora
 twitter: really_nora
 ---
