@@ -10,6 +10,6 @@ short_bio: Poet **Rosie Stockton** is based in Los Angeles. Their first book,
   _WONDER_. They are currently a Ph.D. Student in Gender Studies at UCLA.
 portraits:
   - media: 2022/01/rosie-stockton-headshot
-website: rosiestockton.com
+website: https://rosiestockton.com/
 instagram: gal_debord
 ---
