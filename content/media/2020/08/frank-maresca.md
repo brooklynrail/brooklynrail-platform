@@ -1,6 +1,6 @@
 ---
-media: /media/files/frank-maresca.jpg
+media: /media/files/frank-maresca-headshot.jpeg
 title: Frank Maresca, headshot
-alt: Frank Maresca
+alt: An image of Frank Maresca.
 date: 2020-08-07T12:07:00-0500
 ---
