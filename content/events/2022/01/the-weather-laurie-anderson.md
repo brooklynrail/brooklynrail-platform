@@ -10,7 +10,7 @@ poets:
   - person: charles-theonia-1
 date: 2022-01-28T13:00:00-0500
 end_date: 2022-01-28T14:30:00-0500
-series: 482
+series: 483
 collections:
   - the-new-social-environment
 event_organizer:
