@@ -1,0 +1,20 @@
+---
+title: Radical Poetry Reading with Jim Moore
+deck: Featuring Kimiko Hahn, Lawrence Joseph, Marilyn Nelson, and Spencer Reese
+summary: Jim Moore curates the 72nd Radical Poetry Reading featuring poetry read
+  by Kimiko Hahn, Lawrence Joseph, Marilyn Nelson, and Spencer Reese.
+people:
+  - person: jim-moore
+date: 2022-02-09T13:00:00-0500
+end_date: 2022-02-09T14:30:00-0500
+series: 491
+collections:
+  - the-new-social-environment
+event_organizer:
+  - the-brooklyn-rail
+event_producer:
+  - the-brooklyn-rail
+event_platform:
+  - zoom
+---
+More information to come!
