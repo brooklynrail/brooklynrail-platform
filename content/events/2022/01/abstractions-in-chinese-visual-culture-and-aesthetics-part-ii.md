@@ -24,4 +24,4 @@ event_id: recn5rpHbHBCw5y20
 event_platform:
   - zoom
 ---
-***Please note*** to accommodate the varying time zones of our guests, this conversation will take place **8pm ET New York** (Monday January 24); **8am CST Hong Kong & Beijing** (Tuesday, January 25); **10am AET Sydney** (Tuesday January 25)
+***Please note*** to accommodate the varying time zones of our guests, this conversation will take place **8pm ET New York** (Monday January 24); **9am CST Hong Kong & Beijing** (Tuesday, January 25); **12pm AET Sydney** (Tuesday January 25)
