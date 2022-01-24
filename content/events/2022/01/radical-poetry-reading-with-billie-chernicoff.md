@@ -10,6 +10,9 @@ people:
   - person: elizabeth-robinson
   - person: kirsten-ihns
   - person: mtc-cronin
+    related_links:
+      - url: mailto:emptyseacronin@gmail.com
+        text: emptyseacronin@gmail.com
   - person: billie-chernicoff
 date: 2022-01-26T13:00:00-0500
 end_date: 2022-01-26T14:30:00-0500
