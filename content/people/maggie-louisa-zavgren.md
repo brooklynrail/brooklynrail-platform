@@ -2,8 +2,8 @@
 name: Maggie Louisa Zavgren
 first_name: "Maggie "
 last_name: Zavgren
-short_bio: "Maggie Louisa Zavgren is a poet who walks the ontological plain from
-  nameless-formlessness to sacred and inimitable distinction. Her work has
+short_bio: "**Maggie Louisa Zavgren** is a poet who walks the ontological plain
+  from nameless-formlessness to sacred and inimitable distinction. Her work has
   appeared in _Caesura_, _The Doris_, _Metambesen_, _Blazing Stadium_, _The
   Swan_, and _SALT_. Raised in the shadow of Mount Monadnock, she has been out
   to graze ever since. Zavgren currently edits “Swan Essays,” a biannual
