@@ -6,6 +6,8 @@ summary: Artist Esther Kläs joins Rail Editor-at-Large Tom McGlynn for a
 people:
   - person: esther-klas
   - person: tom-mcglynn
+poets:
+  - person: abigail-welhouse
 date: 2022-01-31T13:00:00-0500
 end_date: 2022-01-31T14:30:00-0500
 series: 484
