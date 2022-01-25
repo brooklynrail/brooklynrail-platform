@@ -12,7 +12,8 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: recewR97FwyrPUXwA
 event_platform:
   - zoom
 ---
-More information to come!
+**More participants to be announced.**
