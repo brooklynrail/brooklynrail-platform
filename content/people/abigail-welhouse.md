@@ -10,5 +10,5 @@ short_bio: Poet **Abigail Welhouse** is the author of the poetry chapbooks
   elsewhere. Subscribe to her Secret Poems at tinyletter.com/welhouse.
 portraits:
   - media: 2022/01/abigail-welhouse
-website: "welhouse.nyc "
+website: welhouse.nyc/
 ---
