@@ -11,4 +11,5 @@ short_bio: Poet **Abigail Welhouse** is the author of the poetry chapbooks
 portraits:
   - media: 2022/01/abigail-welhouse
 website: welhouse.nyc/
+twitter: welhouse
 ---
