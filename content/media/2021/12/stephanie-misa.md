@@ -1,5 +1,5 @@
 ---
-media: /media/files/misa_print_photo_300dpi_-c-markpinder.jpg
+media: /media/files/s_misa_markpinder.jpg
 title: Stephanie Misa
 alt: Photo of Stephanie Misa.
 caption: Photo by Mark Pinder
