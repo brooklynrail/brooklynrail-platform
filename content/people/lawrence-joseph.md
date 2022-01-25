@@ -2,15 +2,16 @@
 name: Lawrence Joseph
 first_name: "Lawrence "
 last_name: Joseph
-short_bio: "The grandson of Lebanese and Syrian Catholic immigrants, poet and
-  professor of law **Lawrence Joseph** was born in Detroit and received his BA
-  and JD from the University of Michigan, and a second BA and MA from Cambridge
-  University. His early poetry often references the discrimination and violence
-  he witnessed as a child, including the 1967 Detroit riots and the violent
-  attempted robbery in 1970 of his father, a grocer. Joseph is the author of
-  several collections of poetry, including _So Where Are We?_ (2017) and _Codes,
-  Precepts, Biases, and Taboos: Poems 1973–1993_ (2005). His debut, _Shouting at
-  No One_ (1983), won the Agnes Lynch Starrett Prize. "
+short_bio: "Poet **Lawrence Joseph** was born and raised in Detroit, the
+  grandson of Lebanese and Syrian Catholic immigrants. He was educated at the
+  University of Michigan, the University of Cambridge, and the University of
+  Michigan Law School. He is the author of numerous books of poetry, most
+  recently _A Certain Clarity: Selected Poems_ (Farrar, Straus and Giroux), and
+  two books of prose, _Lawyerland_ (FSG) and _The Game Changed: Essays and Other
+  Prose_, in the University of Michigan Press’s Poets on Poetry series. Among
+  his awards are a fellowship from the Guggenheim Foundation and two fellowships
+  from the National Endowment for the Arts. He is Professor of Law Emeritus at
+  St. John’s University School of Law and lives in New York City.     "
 portraits:
   - media: 2022/01/lawrence-joseph
 ---
