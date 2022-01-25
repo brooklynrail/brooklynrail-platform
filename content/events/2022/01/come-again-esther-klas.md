@@ -2,7 +2,7 @@
 title: "Come again: Esther Kläs"
 deck: Featuring Kläs and Tom McGlynn
 summary: Artist Esther Kläs joins Rail Editor-at-Large Tom McGlynn for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading by Abigail Welhouse.
 people:
   - person: esther-klas
   - person: tom-mcglynn
@@ -17,7 +17,8 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: reccaFXorJ8ZtTVHS
 event_platform:
   - zoom
 ---
-[Visit *Esther Kläs: Come Again*, on view at Peter Blum Gallery until March 12, 2022→](https://www.peterblumgallery.com/exhibitions/esther-klas5)
+[Visit *Esther Kläs: Come Again* on view at Peter Blum Gallery through March 12, 2022 →](https://www.peterblumgallery.com/exhibitions/esther-klas5)
