@@ -13,6 +13,8 @@ people:
   - person: stephanie-misa
   - person: suzanne-hudson
   - person: tanya-sheehan
+poets:
+  - person: tess-taylor
 date: 2022-02-03T13:00:00-0500
 end_date: 2022-02-03T14:30:00-0500
 collections:
