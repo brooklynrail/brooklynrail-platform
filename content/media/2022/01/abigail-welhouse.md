@@ -1,5 +1,5 @@
 ---
-media: /media/files/abigail-welhouse-photo-cr-gregory-crosby.jpeg
+media: /media/files/abigail-welhouse-photo-cr-gregory-crosby.jpg
 title: "Abigail Welhouse "
 alt: Photo of Abigail Welhouse.
 caption: Photo by Gregory Crosby
