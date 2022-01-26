@@ -1,5 +1,6 @@
 ---
 title: Radical Poetry Reading with Gabriel Dozal
+deck: Featuring Aldo Amparan, Gabriel Palacios, Leigh Stein, and friends
 summary: Gabriel Dozal curates the 71st Radical Poetry Reading.
 people:
   - person: gabriel-dozal
