@@ -1,10 +1,11 @@
 ---
 title: "For A Dyson Sphere: Haroon Mirza"
 deck: ""
-summary: "Artist Haroon Mirza joins the Rail for a conversation. We conclude
-  with a poetry reading by Paige Murphy. "
+summary: "Artist Haroon Mirza joins Rail Editor-at-Large Charlotte Kent for a
+  conversation. We conclude with a poetry reading by Paige Murphy. "
 people:
   - person: haroon-mirza
+  - person: charlotte-kent
 poets: []
 date: 2022-02-04T13:00:00-0500
 end_date: 2022-02-04T14:30:00-0500
