@@ -6,6 +6,7 @@ summary: "Archivist Sheila Schwartz and art historians Christian Kleinbub,
   Shawon Kinew, and Maria Loh join art historian Alexander Nagel for a
   conversation on Leo Steinberg’s essays. We conclude with a poetry reading. "
 people:
+  - person: leo-steinberg
   - person: christian-kleinbub
   - person: shawon-kinew
   - person: maria-loh
