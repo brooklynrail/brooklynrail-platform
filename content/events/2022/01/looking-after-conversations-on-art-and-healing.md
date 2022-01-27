@@ -5,7 +5,7 @@ deck: "Picturing the COVID-19 Pandemic with Sria Chatterjee, James Clar,
 summary: "Sria Chatterjee, James Clar, Guadalupe Maravilla, and Stephanie Misa
   join Suzanne Hudson and Tanya Sheehan for the first installment of our series
   Looking After: Conversations on Art and Healing. We conclude with a poetry
-  reading."
+  reading by Tess Taylor."
 people:
   - person: sria-chatterjee
   - person: james-clar
