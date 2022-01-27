@@ -2,7 +2,7 @@
 name: Maria Loh
 first_name: Maria
 last_name: Loh
-short_bio: Professor in Art History at CUNY Hunter College,**Maria H. Loh**
+short_bio: Professor in Art History at CUNY Hunter College, **Maria H. Loh**
   received her BA from McGill University, a Certificat des Études from the École
   Régionale des Beaux Arts in Rennes, a Licence in art history from the
   Université de Rennes II, and her MA/PhD in Art History from University of
