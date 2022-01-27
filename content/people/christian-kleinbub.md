@@ -14,4 +14,5 @@ short_bio: "Art Historian **Christian K. Kleinbub** is Professor of Art History
   Quarterly_, _Word and Image_, and _The Burlington Magazine_. "
 portraits:
   - media: 2022/01/christian-kleinbub
+rail_contributor_url: https://brooklynrail.org/contributor/Christian-Kleinbub
 ---
