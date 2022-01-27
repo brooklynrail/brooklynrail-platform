@@ -6,7 +6,8 @@ summary: "Artist Haroon Mirza joins Rail Editor-at-Large Charlotte Kent for a
 people:
   - person: haroon-mirza
   - person: charlotte-kent
-poets: []
+poets:
+  - person: paige-murphy
 date: 2022-02-04T13:00:00-0500
 end_date: 2022-02-04T14:30:00-0500
 collections:
