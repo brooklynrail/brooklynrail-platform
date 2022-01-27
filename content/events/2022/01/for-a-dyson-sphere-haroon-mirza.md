@@ -1,6 +1,6 @@
 ---
 title: "For A Dyson Sphere: Haroon Mirza"
-deck: ""
+deck: Featuring Mirza and Charlotte Kent
 summary: "Artist Haroon Mirza joins Rail Editor-at-Large Charlotte Kent for a
   conversation. We conclude with a poetry reading by Paige Murphy. "
 people:
