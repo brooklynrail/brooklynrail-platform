@@ -32,6 +32,6 @@ event_platform:
 ---
 A special thanks to Colby Center for the Arts and Humanities and USC College of Letters, Arts and Sciences for making this event possible. 
 
-{{< image media="2021/12/colby-center-for-the-arts-and-humanities" size="sm" >}}
+{{< image media="2021/12/colby-center-for-the-arts-and-humanities" size="md" >}}
 
-{{< image media="2021/12/usc-dornsife-college-of-letters-arts-and-sciences" size="sm" >}}
+{{< image media="2021/12/usc-dornsife-college-of-letters-arts-and-sciences" size="md" >}}
