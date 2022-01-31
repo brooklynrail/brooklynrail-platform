@@ -1,11 +1,12 @@
 ---
 title: Radical Poetry Reading with Gabriel Dozal
-deck: Featuring Aldo Amparán, Gabriel Palacios, Leigh Stein, and friends
+deck: Featuring Aldo Amparán, Anslem Berrigan, Gabriel Palacios, and Leigh Stein
 summary: Gabriel Dozal curates the 71st Radical Poetry Reading featuring poetry
-  read by Aldo Amparán, Gabriel Palacios, Leigh Stein, and friends.
+  read by Aldo Amparán, Anselm Berrigan, Gabriel Palacios, and Leigh Stein.
 people:
   - person: gabriel-dozal
   - person: aldo-amparan
+  - person: anselm-berrigan
   - person: gabriel-palacios
   - person: leigh-stein
 date: 2022-02-02T13:00:00-0500
