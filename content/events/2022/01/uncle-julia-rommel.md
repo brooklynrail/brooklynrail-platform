@@ -5,7 +5,7 @@ summary: "Artist Julia Rommel joins Rail Editor-at-Large David Rhodes for a
   conversation. We conclude with a poetry reading by Ellie Parker. "
 people:
   - person: julia-rommel
-  - person: tom-mcglynn
+  - person: david-rhodes
 poets:
   - person: ellie-parker
     related_links:
