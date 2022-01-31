@@ -30,7 +30,7 @@ event_id: recxc93EL563mWGRB
 event_platform:
   - zoom
 ---
-A special thanks to Colby Center for the Arts and Humanities and USC College of Letters, Arts and Sciences for making this event possible. 
+A special thanks to Colby Center for the Arts and Humanities and USC Dornsife College of Letters, Arts and Sciences for making this event possible. 
 
 {{< image media="2021/12/colby-center-for-the-arts-and-humanities" size="md" >}}
 
