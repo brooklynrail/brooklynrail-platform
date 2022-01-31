@@ -17,6 +17,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: QRwHb3SKz_A
 event_id: rec4APB9pyhj8E16T
 portraits:
   - media: 2022/01/laurie-anderson-headshot
