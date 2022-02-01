@@ -20,4 +20,4 @@ event_producer:
 event_platform:
   - zoom
 ---
-[**Visit Ways of Seeing: Three Takes on the Jack Shear Drawing Collection, on view at The Drawing Center until February 20, 2022** →](https://drawingcenter.org/exhibitions/ways-of-seeing)
+[**Visit *Ways of Seeing: Three Takes on the Jack Shear Drawing Collection*, on view at The Drawing Center until February 20, 2022** →](https://drawingcenter.org/exhibitions/ways-of-seeing)
