@@ -1,14 +1,13 @@
 ---
 title: "1960s Darkness and Light: Louise Fishman"
-deck: Featuring Carrie Moyer, Brendan Dugan, Amanda Gluibizzi, and Ksenia M. Soboleva
-summary: "Artist Carrie Moyer and gallerist Brendan Dugan join Rail Artseen
-  Editor Amanda Gluibizzi and art historian Ksenia M. Soboleva for a
-  conversation on the Louise Fishman exhibition 1960s: Darkness and Light, on
-  view at Karma Gallery. We conclude with a poetry reading by Coco Gordon
-  Moore."
+deck: Featuring Brendan Dugan, Carrie Moyer, Amanda Gluibizzi, and Ksenia M. Soboleva
+summary: Gallerist Brendan Dugan and artist Carrie Moyer join Rail Artseen
+  Editor Amanda Gluibizzi and Rail contributor Ksenia M. Soboleva for a
+  conversation on Louise Fishman. We conclude with a poetry reading by Coco
+  Gordon Moore.
 people:
-  - person: carrie-moyer
   - person: brendan-dugan
+  - person: carrie-moyer
   - person: amanda-gluibizzi
   - person: ksenia-m-soboleva
 poets:
@@ -22,7 +21,8 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: rectX2cnzn2ClwUHi
 event_platform:
   - zoom
 ---
-[Visit 1960s: Darkness and Light, on view at Karma Gallery until February 26, 2022→](https://karmakarma.org/exhibitions/louise-fishman-2022-preview/)
+[Visit *Louise Fishman, 1960s: Darkness and Light*, on view at Karma Gallery through February 26, 2022 →](https://karmakarma.org/exhibitions/louise-fishman-2022-preview/)
