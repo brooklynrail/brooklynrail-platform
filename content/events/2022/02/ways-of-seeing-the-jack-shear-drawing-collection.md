@@ -1,11 +1,18 @@
 ---
 title: "Ways of Seeing: The Jack Shear Drawing Collection"
-deck: Featuring Jack Shear and Jarrett Earnest
-summary: Curator Jack Shear and writer Jarrett Earnest join the Rail for a
-  conversation. We conclude with a poetry reading by Steve Levine.
+deck: Featuring Jack Shear, Jarrett Earnest, Claire Gilman, Arlene Shechet,
+  Helen Lee, and Joachim Pissarro
+summary: Curator Jack Shear, writer Jarrett Earnest, curator Claire Gilman, and
+  artist Arlene Shechet join Rail Board Member Helen Lee and Rail Consulting
+  Editor Joachim Pissarro for a conversation. We conclude with a poetry reading
+  by Steve Levine.
 people:
   - person: jack-shear
   - person: jarrett-earnest
+  - person: claire-gilman
+  - person: arlene-shechet
+  - person: helen-lee
+  - person: joachim-pissaro
 poets:
   - person: steve-levine
 date: 2022-02-08T13:00:00-0500
