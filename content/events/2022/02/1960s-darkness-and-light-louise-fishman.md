@@ -1,7 +1,7 @@
 ---
 title: "1960s Darkness and Light: Louise Fishman"
-deck: Featuring Brendan Dugan, Carrie Moyer, Amanda Gluibizzi, and Ksenia M. Soboleva
-summary: Gallerist Brendan Dugan and artist Carrie Moyer join Rail Artseen
+deck: Featuring Carrie Moyer, Brendan Dugan, Amanda Gluibizzi, and Ksenia M. Soboleva
+summary: Artist Carrie Moyer and gallerist Brendan Dugan join Rail Artseen
   Editor Amanda Gluibizzi and Rail contributor Ksenia M. Soboleva for a
   conversation on Louise Fishman. We conclude with a poetry reading by Coco
   Gordon Moore.
