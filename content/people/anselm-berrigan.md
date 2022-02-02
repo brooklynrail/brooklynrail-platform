@@ -10,9 +10,7 @@ short_bio: "Poet **Anselm Berrigan** was born in 1972 in Chicago. He is the
   Berrigan was a New York State Foundation for the Arts Fellow in poetry in 2007
   and has received three grants from the Fund for Poetry. From 2003 to 2007, he
   served as Artistic Director of The Poetry Project at St. Mark’s Church. He is
-  cochair of writing at the Milton Avery Graduate School of the Arts and also
-  teaches writing at Pratt Institute and Brooklyn College. He is the Poetry
-  editor of the _Rail_. "
+  the Poetry editor of the _Rail_. "
 portraits:
   - media: 2020/07/anselm-berrigan
 rail_contributor_url: https://brooklynrail.org/contributor/anselm-berrigan
