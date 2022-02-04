@@ -1,7 +1,7 @@
 ---
-name: Spencer Reese
+name: Spencer Reece
 first_name: Spencer
-last_name: Reese
+last_name: Reece
 short_bio: Born in Hartford, Connecticut, and raised in Minneapolis, poet
   **Spencer Reece** earned a BA at Wesleyan University, an MA at the University
   of York, an MTS at Harvard Divinity School, and an MDiv at Yale Divinity
