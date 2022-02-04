@@ -1,8 +1,8 @@
 ---
 title: Radical Poetry Reading with Jim Moore
-deck: Featuring Kimiko Hahn, Lawrence Joseph, Marilyn Nelson, and Spencer Reese
+deck: Featuring Kimiko Hahn, Lawrence Joseph, Marilyn Nelson, and Spencer Reece
 summary: Jim Moore curates the 72nd Radical Poetry Reading featuring poetry read
-  by Kimiko Hahn, Lawrence Joseph, Marilyn Nelson, and Spencer Reese.
+  by Kimiko Hahn, Lawrence Joseph, Marilyn Nelson, and Spencer Reece.
 people:
   - person: kimiko-hahn
   - person: lawrence-joseph
