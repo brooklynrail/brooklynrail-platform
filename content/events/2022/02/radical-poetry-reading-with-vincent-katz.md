@@ -1,8 +1,10 @@
 ---
 title: Radical Poetry Reading with Vincent Katz
-deck: Featuring Benedicta Cagnone, Andrei Codrescu, and Trace Peterson
-summary: Vincent Katz curates the 73rd Radical Poetry Reading featuring poetry
-  read by Benedicta Cagnone, Andrei Codrescu, Eileen Myles, and Trace Peterson.
+deck: Featuring Benedicta Cagnone, Andrei Codrescu, Eileen Myles, and Trace Peterson
+summary: Vincent Katz curates the 73rd Radical Poetry Reading, featuring poetry
+  from his recent retrospective publication,  Previous Glances, read by
+  Benedicta Cagnone, Andrei Codrescu, Eileen Myles, Trace Peterson, and Vincent
+  Katz.
 people:
   - person: andrei-codrescu-1
   - person: eileen-myles
