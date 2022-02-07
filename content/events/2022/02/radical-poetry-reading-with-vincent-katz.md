@@ -10,6 +10,7 @@ people:
   - person: eileen-myles
   - person: trace-peterson
   - person: vincent-katz
+  - person: benedicta-froelich
 date: 2022-02-16T13:00:00-0500
 end_date: 2022-02-16T14:30:00-0500
 series: 496
