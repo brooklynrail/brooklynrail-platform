@@ -1,5 +1,5 @@
 ---
-media: /media/files/2014305.jpeg
+media: /media/files/vincent-katz-headshot.jpeg
 title: Vincent Katz
 alt: Headshot of Vincent Katz
 caption: Photo by Vivien Bittencourt
