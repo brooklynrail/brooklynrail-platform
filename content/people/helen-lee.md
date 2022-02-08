@@ -2,9 +2,9 @@
 name: Helen Lee
 first_name: Helen
 last_name: Lee
-short_bio: Collector, academic, art advisor, art book editor, and auction house
-  specialist **Helen Lee** has had many roles in the art world. She has worked
-  at Christie’s, Harry N. Abrams Publishing, the Robert Miller Gallery, and for
+short_bio: Collector, academic, art book editor, and auction house specialist
+  **Helen Lee** has had many roles in the art world. She has worked at
+  Christie’s, Harry N. Abrams Publishing, the Robert Miller Gallery, and for
   James Wolfensohn, among others. Her passion for the arts derives from her
   belief that art and culture provide vital means of communication across
   cultural and political divides. Helen is an advisor to the Milken Institute
