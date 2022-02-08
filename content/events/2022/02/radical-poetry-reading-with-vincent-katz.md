@@ -3,7 +3,7 @@ title: Radical Poetry Reading with Vincent Katz
 deck: Featuring Benedicta Froelich, Eileen Myles, Trace Peterson, Andrei
   Codrescu, and Vincent Katz
 summary: Vincent Katz curates the 73rd Radical Poetry Reading, featuring poetry
-  from his recent retrospective publication,  _Previous Glances_ (Edizioni
+  from his recent retrospective publication,  Previous Glances (Edizioni
   Galleria Mazzoli), read by Benedicta Froelich, Eileen Myles, Trace Peterson,
   Andrei Codrescu, and Vincent Katz.
 people:
