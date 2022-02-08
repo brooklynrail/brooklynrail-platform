@@ -19,4 +19,4 @@ event_id: recwoOg28TM1RAkNg
 event_platform:
   - zoom
 ---
-[Find more information on *A Dream Life* (Tablo Tales, January 2022) ](https://www.ipgbook.com/a-dream-life-products-9781649697295.php)→
+[Find more information on *A Dream Life* (Tablo Tales, January 2022) →](https://www.ipgbook.com/a-dream-life-products-9781649697295.php)
