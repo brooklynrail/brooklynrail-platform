@@ -21,8 +21,6 @@ event_producer:
 event_platform:
   - zoom
 ---
-[Visit *Marcus Jahmal: Mining*, on view at Anton Kern Gallery through February 26→](https://www.antonkerngallery.com/exhibitions/370-marcus-jahmal-mining/)
-
-[Visit *Chris Martin*, on view at Anton Kern Gallery through February 26→](https://www.antonkerngallery.com/exhibitions/371-chris-martin/)
+Visit *[Marcus Jahmal: Mining](https://www.antonkerngallery.com/exhibitions/370-marcus-jahmal-mining/)* and *[Chris Martin](https://www.antonkerngallery.com/exhibitions/371-chris-martin/),* both on view at Anton Kern Gallery through February 26→
 
 [](https://www.antonkerngallery.com/exhibitions/371-chris-martin/)
