@@ -15,7 +15,7 @@ short_bio: "Artist **Arlene Shechet** lives and works in New York. A
   view at The Metropolitan Museum of Art, the Whitney Museum of American Art,
   The Jewish Museum, and the Museum of Arts and Design. "
 portraits:
-  - media: 2020/07/arlene-shechet
+  - media: 2022/02/arlene-shechet-headshot
 website: https://www.arleneshechet.net/
 instagram: arleneshechet
 ---
