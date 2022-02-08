@@ -1,9 +1,9 @@
 ---
 title: "A Dream Life: Claire Messud "
 deck: Featuring Messud and Will Chancellor
-summary: "Author Claire Messud joins author Will Chancellor for a conversation
-  on the publication of her novel A Dream Life, published in January of 2022 by
-  Tablo Tales. We conclude with a poetry reading. "
+summary: "Author Claire Messud joins Rail Fiction Editor Will Chancellor for a
+  conversation on the publication of Messud's novel A Dream Life. We conclude
+  with a reading from the book. "
 people:
   - person: claire-messud
   - person: will-chancellor
