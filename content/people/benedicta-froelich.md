@@ -9,7 +9,9 @@ short_bio: "**Benedicta Froelich** (Milan, 1981), whose real name is Benedicta
   cartoonist and publishing two books for children and young adults, she left
   for Scotland and majored in Scottish history, and then devoted herself to
   historical and biographical novels. Her most recent novels are *Nella sua
-  quiete*, 2013 (about T.E. Lawrence) and *L’Indicibile inverno*, 2020 (about
+  quiete*, 2014 (about T.E. Lawrence) and *L’Indicibile inverno*, 2020 (about
   Captain Scott’s expedition to the Antarctic). She currently lives in
   Switzerland."
+portraits:
+  - media: 2022/02/benedicta-froelich-headshot
 ---
