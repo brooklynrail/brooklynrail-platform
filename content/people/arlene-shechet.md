@@ -3,16 +3,17 @@ name: Arlene Shechet
 first_name: Arlene
 last_name: Shechet
 pronouns: She/her
-short_bio: Arlene Shechet employs an experimental approach to ceramic sculpture
-  by testing the limits of gravity, color, and texture and pushing the boundary
-  of classic techniques, sometimes fusing her kiln-fired creations with complex
-  plinths formed of wood, steel, and concrete. By incorporating casts of
-  firebricks and porcelain slip molds into her sculptures, she reflects on and
-  investigates the tradition of decorative arts. Variously sensual, humorous,
-  and elegant, her clay-based vessels evoke the tension between control and
-  chaos, beauty and ugliness, perfection and imperfection. Shechet focuses on
-  ensuring that the display, sight lines, and relationships of the objects in
-  her exhibitions change with every view while maintaining formal equilibrium.
+short_bio: "Artist **Arlene Shechet** lives and works in New York. A
+  critically-acclaimed twenty-year survey of the artist’s work, _All At Once_,
+  was on view at the Institute of Contemporary Art/Boston in 2015. Shechet has
+  designed and curated exhibitions including _Porcelain, No Simple Matter:
+  Arlene Shechet and the Arnhold Collection_ at The Frick Collection, and _From
+  Here on Now_ at The Phillips Collection. Her large-scale public project _Full
+  Steam Ahead_ featured monumental porcelain and mixed media sculptures
+  installed in Madison Square Park. Shechet’s first solo show at Pace Gallery,
+  _Skirts_, opened in New York in February 2020. Shechet currently has work on
+  view at The Metropolitan Museum of Art, the Whitney Museum of American Art,
+  The Jewish Museum, and the Museum of Arts and Design. "
 portraits:
   - media: 2020/07/arlene-shechet
 website: https://www.arleneshechet.net/
