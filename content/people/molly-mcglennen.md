@@ -2,16 +2,17 @@
 name: "Molly McGlennen "
 first_name: Molly
 last_name: "McGlennen "
-short_bio: Professor and poet **Molly McGlennen** was the Andrew W. Mellon
-  Postdoctoral Fellow in Native American Studies at Vassar College from
-  2006-2008, earned her PhD in Native American Studies from University of
-  California, Davis in 2005, her MFA in Creative Writing and English from Mills
-  in 1998, and her BA in English and Philosophy from University of San Diego in
-  1994. Her research and teaching interests include Native American literature,
-  contemporary poetry, Native American feminisms and urban experiences, Native
-  American visual culture, and poetry writing. McGlennen helped establish the
-  Native American Studies Correlate within the American Studies Program at
-  Vassar and has served as the NAS advisor since its inception in 2009.
+short_bio: "Poet **Molly McGlennen,** born and raised in Minneapolis, Minnesota,
+  is of Anishinaabe and European descent. She is an Associate Professor of
+  English and Native American Studies and Director of the American Studies
+  Program at Vassar College. She earned a PhD in Native American Studies from
+  University of California, Davis and an MFA in Creative Writing from Mills
+  College. McGlennen is author of _Fried Fish and Flour Biscuits_, published by
+  Salt’s Earthworks Series of Indigenous writers; _Our Bearings_, published by
+  the University of Arizona’s Sun Tracks series; and the monograph _Creative
+  Alliances: The Transnational Designs of Indigenous Women’s Poetry_ from the
+  University of Oklahoma Press, which earned the Beatrice Medicine Award for
+  outstanding scholarship in American Indian Literature."
 portraits:
   - media: 2022/02/molly-mcglennen
 ---
