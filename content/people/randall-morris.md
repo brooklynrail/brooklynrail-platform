@@ -9,4 +9,6 @@ short_bio: Writer and independent scholar **Randall Morris** is co-owner of
   Jamaica, and Asia.
 portraits:
   - media: 2022/02/randall-morris
+website: http://www.cavinmorris.com/
+instagram: mysteries1
 ---
