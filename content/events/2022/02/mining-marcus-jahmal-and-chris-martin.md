@@ -12,7 +12,7 @@ people:
 poets:
   - person: molly-mcglennen
 date: 2022-02-18T13:00:00-0500
-end_date: 2022-02-08T14:30:00-0500
+end_date: 2022-02-18T14:30:00-0500
 series: 498
 collections:
   - the-new-social-environment
