@@ -2,6 +2,6 @@
 media: /media/files/eileen-myles-by-shae-detar.jpeg
 title: Eileen Myles
 alt: A black and white photo of poet Eileen Myles.
-caption: Shae Detar
+caption: Photo by Shae Detar
 date: 2020-10-23T09:31:00-0500
 ---
