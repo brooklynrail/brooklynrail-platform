@@ -10,7 +10,7 @@ collections:
   - community-listing
 event_organizer: []
 event_producer:
-  - the-brooklyn-rail
+  - rosenberg-co
 registration_url: https://www.eventbrite.com/e/a-conversation-with-joan-marter-on-the-art-and-life-of-dorothy-dehner-tickets-262744214017
 event_platform: null
 ---
