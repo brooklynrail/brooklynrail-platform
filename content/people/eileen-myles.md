@@ -13,4 +13,5 @@ portraits:
   - media: 2020/10/eileen-myles
 website: https://www.eileenmyles.com/
 instagram: eileen.myles
+twitter: EileenMyles
 ---
