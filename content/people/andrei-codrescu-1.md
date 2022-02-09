@@ -12,4 +12,6 @@ short_bio: "Author **Andrei Codrescu** was born in Sibiu, Transylvania, Romania,
 portraits:
   - media: 2021/10/andrei-codrescu
 website: https://www.codrescu.com/
+instagram: andrei.codrescu
+twitter: acodrescu
 ---
