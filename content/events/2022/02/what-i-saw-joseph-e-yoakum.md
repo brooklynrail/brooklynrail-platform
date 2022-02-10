@@ -3,12 +3,13 @@ title: "What I Saw: Joseph E. Yoakum"
 deck: Featuring Esther Adler, Randall Morris, Mark Pascale, and Lyle Rexer
 summary: Curators Esther Adler, Randall Morris, and Mark Pascale join critic and
   Rail contributor Lyle Rexer for a conversation on Joseph E. Yoakum. We
-  conclude with a poetry reading.
+  conclude with a poetry reading by Carolyn Funk.
 people:
   - person: esther-adler
   - person: randall-morris
   - person: mark-pascale
   - person: lyle-rexer
+poets: []
 date: 2022-02-15T13:00:00-0500
 end_date: 2022-02-15T14:30:00-0500
 series: 495
