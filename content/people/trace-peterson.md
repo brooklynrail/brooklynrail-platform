@@ -13,7 +13,7 @@ short_bio: "Trace Peterson is a poet and literary scholar. She's the author of
   Poets.org. She is currently the N.E.H. Post-Doctoral Fellow in Poetics at
   Emory University."
 portraits:
-  - media: 2020/06/trace-peterson
+  - media: 2022/02/trace-peterson-headshot
 rail_contributor_url: https://brooklynrail.org/contributor/trace-peterson
 website: https://tracepeterson.com/
 instagram: trace_peterson
