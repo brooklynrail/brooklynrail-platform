@@ -1,13 +1,12 @@
 ---
 title: "Mining: Marcus Jahmal and Chris Martin"
-deck: Featuring Marcus Jahmal, Chris Martin, Katherine Bradford, and Phong H. Bui
-summary: "Artists Marcus Jahmal and Chris Martin join artist Katherine Bradford
-  and Rail Publisher and Artistic Director Phong H. Bui for a conversation. We
-  conclude with a poetry reading by Molly McGlennen. "
+deck: Featuring Marcus Jahmal, Chris Martin, and Phong H. Bui
+summary: "Artists Marcus Jahmal and Chris Martin join Rail Publisher and
+  Artistic Director Phong H. Bui for a conversation. We conclude with a poetry
+  reading by Molly McGlennen. "
 people:
   - person: marcus-jahmal
   - person: chris-martin-1
-  - person: katherine-bradford
   - person: phong-h-bui
 poets:
   - person: molly-mcglennen
