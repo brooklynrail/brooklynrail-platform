@@ -13,4 +13,5 @@ short_bio: "Poet and cultural critic **Deborah Paredez** is the author of the
   and ethnic studies at Columbia University."
 portraits:
   - media: 2022/01/deborah-paredez-headshot
+website: https://deborahparedez.com/
 ---
