@@ -289,7 +289,7 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
   */}}
   {{- if and (eq $future_event true) -}}
 
-    {{- if and .Params.registration_url .Params.event_platforms-}}
+    {{- if and .Params.registration_url .Params.event_platforms -}}
     <div class="grid-row">
       <div class="grid-col-12 tablet:grid-col-10 tablet:grid-offset-1">
         <div class="event-logistics">
