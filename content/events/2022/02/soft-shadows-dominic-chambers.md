@@ -2,10 +2,12 @@
 title: "Soft Shadows: Dominic Chambers"
 deck: Featuring Chambers and Zoë Hopkins
 summary: Artist Dominic Chambers joins Rail contributor Zoë Hopkins for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading by Tyhe Cooper.
 people:
   - person: dominic-chambers
   - person: zoe-hopkins
+poets:
+  - person: tyhe-cooper
 date: 2022-02-14T13:00:00-0500
 end_date: 2022-02-14T14:30:00-0500
 series: 494
