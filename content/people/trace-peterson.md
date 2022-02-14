@@ -3,8 +3,8 @@ name: Trace Peterson
 first_name: Trace
 last_name: Peterson
 pronouns: she/her
-short_bio: "Trace Peterson is a poet and literary scholar. She's the author of
-  _Since I Moved In_ (Chax, 2019) and the co-editor of _Arrive on Wave:
+short_bio: "**Trace Peterson** is a poet and literary scholar. She's the author
+  of _Since I Moved In_ (Chax, 2019) and the co-editor of _Arrive on Wave:
   Collected Poems of Gil Ott_ (Chax) and _Troubling the Line: Trans and
   Genderqueer Poetry and Poetics_ (Nightboat). She edits/publishes _EOAGH_, a
   journal and small press which has won two Lambda Literary Awards and a
