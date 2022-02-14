@@ -6,6 +6,7 @@ summary: Artist Dominic Chambers joins Rail contributor Zoë Hopkins for a
 people:
   - person: dominic-chambers
   - person: zoe-hopkins
+  - person: phong-h-bui
 poets:
   - person: tyhe-cooper
 date: 2022-02-14T13:00:00-0500
@@ -17,6 +18,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: ZXABUg2eHbk
 event_id: reczOTAQ6CDuDCKMI
 event_platform:
   - zoom
