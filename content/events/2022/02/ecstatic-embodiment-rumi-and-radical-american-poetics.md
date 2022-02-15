@@ -1,8 +1,8 @@
 ---
 title: "Ecstatic Embodiment: Rumi and Radical American Poetics"
-deck: Featuring Haleh Liza, Holly Melgard, and Leonard Schwartz
+deck: Featuring Haleh Liza Gafori, Holly Melgard, and Leonard Schwartz
 summary: Poets Haleh Liza Gafori and Holly Melgard join Leonard Schwartz for a
-  reading and discussion around Rumi and Radical American poetics.
+  reading and discussion on Rumi and radical american poetics.
 people:
   - person: haleh-liza-gafori
   - person: holly-melgard
