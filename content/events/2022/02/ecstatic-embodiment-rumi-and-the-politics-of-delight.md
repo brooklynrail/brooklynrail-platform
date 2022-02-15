@@ -1,6 +1,6 @@
 ---
 title: "Ecstatic Embodiment: Rumi and the Politics of Delight"
-deck: Featuring Sarah Eltantawi, Haleh Liza, Öykü Tekten, and Leonard Schwartz
+deck: Featuring Sarah Eltantawi, Haleh Liza Gafori, Öykü Tekten, and Leonard Schwartz
 summary: Scholar Sarah Eltantawi and poets Haleh Liza Gafori and Öykü Tekten
   join Leonard Schwartz for a discussion on Rumi and the Politics of Delight. We
   conclude with a poetry reading.
