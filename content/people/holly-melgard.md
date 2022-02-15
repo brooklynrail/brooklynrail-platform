@@ -2,17 +2,16 @@
 name: Holly Melgard
 first_name: Holly
 last_name: Melgard
-short_bio: "Poet **Holly Melgard**  is the author of _Poems for Baby_ trilogy,
-  _The Making of The Americans_, _Black Friday_, _Reimbursement_ (Troll Thread),
-  _Cats Can’t Taste Sugar_ (Gaus PDF), and the chapbooks _Catcall_ (Ugly
-  Duckling Presse) and _Divisions of Labor_  (MakeNow). Her poetry books _Fetal
-  Position_ (Roof) and _Inner Critic: A Journal of Inner Criticism_ (Kenning
-  Editions) are forthcoming. She is one of the founding editors of Troll Thread
-  press, a site that collectively publishes poetry books in the form of both
-  print-on-demand + free pdf-download. Her writing appears in _l’Officiel Art_,
-  _6×6_, and a _Best American Experimental Poetry_ anthology. She is currently
-  teaching writing at NYU and CUNY, freelance book designing, co-editing Troll
-  Thread press, and living in Brooklyn, NY."
+short_bio: After a decade of self-publishing on the experimental publishing
+  platform _Troll Thread_, which she co-founded and co-edits, **Holly Melgard**
+  has just released _Fetal Position_ (Roof 2021), her first book with an outside
+  publisher that was recently named by Jackie Ess as one of Artforum's "Best
+  Books of 2021." She is also the author of the _Poems for Baby_ trilogy, _The
+  Making of The Americans_, _Black Friday_, among other works. _Selected Poems_
+  (Ugly Duckling Presse) and _Inner Critic_ (Kenning Editions) are forthcoming.
+  With a PhD in Poetics from SUNY Buffalo, she currently lives in Brooklyn,
+  designing books and teaching writing at NYU and CUNY.
 portraits:
   - media: 2022/02/holly-melgard-headshot
+instagram: hollmel
 ---
