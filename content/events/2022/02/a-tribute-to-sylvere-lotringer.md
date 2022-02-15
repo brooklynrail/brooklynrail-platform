@@ -1,13 +1,9 @@
 ---
 title: A Tribute to Sylvère Lotringer
-deck: Featuring Charles Gaines, Paul McCarthy, Noura Wedell, and ​​Donatien Grau
-summary: "Artist Charles Gaines, artist Paul McCarthy, and translator Noura
-  Wedell join Rail Editor-at-Large ​​Donatien Grau for a tribute to Sylvère
-  Lotringer. We conclude with a poetry reading. "
+deck: Featuring Charles Gaines and ​​Donatien Grau
+summary: "Artist Charles Gaines joins Rail Editor-at-Large ​​Donatien Grau for a tribute to Sylvère Lotringer. We conclude with a poetry reading."
 people:
   - person: charles-gaines
-  - person: paul-mccarthy
-  - person: noura-wedell
   - person: donatien-grau
 date: 2022-02-21T13:00:00-0500
 end_date: 2022-02-21T14:30:00-0500
