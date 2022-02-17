@@ -1,10 +1,12 @@
 ---
 title: "The Studio Paintings, 1970s & 1980s: Rodrigo Moynihan"
-deck: Featuring John Yau, David Rhodes, and friends
-summary: Poet and critic John Yau joins Rail Editor-at-Large David Rhodes and
-  friends for a conversation on Rodrigo Moynihan. We conclude with a poetry
-  reading by Guillermo Filice Castro.
+deck: Featuring Cressida Connolly, Nathan Kernan, John Yau, and David Rhodes
+summary: Writers Cressida Connolly and Nathan Kernan and poet and critic John
+  Yau join Rail Editor-at-Large David Rhodes for a conversation on Rodrigo
+  Moynihan. We conclude with a poetry reading by Guillermo Filice Castro.
 people:
+  - person: cressida-connolly
+  - person: nathan-kernan
   - person: john-yau-2
   - person: david-rhodes
 poets:
