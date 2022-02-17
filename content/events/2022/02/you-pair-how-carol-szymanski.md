@@ -8,6 +8,7 @@ people:
     related_links:
       - url: https://brooklynrail.org/2019/11/art/CAROL-SZYMANSKI-with-David-Carrier
         text: Carol Szymanski in conversation with David Carrier
+  - person: amanda-gluibizzi
 poets:
   - person: jeesoo-lee
 date: 2022-02-25T13:00:00-0500
