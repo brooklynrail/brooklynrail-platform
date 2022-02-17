@@ -13,6 +13,6 @@ short_bio: Poet, art critic, fiction writer, and publisher **John Yau** has been
   Rabkin Prize for art criticism. He teaches at the Mason Gross School of the
   Arts at Rutgers University and lives in New York.
 portraits:
-  - media: 2020/07/john-yau-portrait
+  - media: 2022/02/john-yau
 rail_contributor_url: https://brooklynrail.org/contributor/john-yau
 ---
