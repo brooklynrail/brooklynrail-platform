@@ -1,12 +1,15 @@
 ---
 short_bio: Artist **Dao Strom** works with three “voices”—written, sung,
   visual—to explore hybridity and the intersection of personal and collective
-  histories. The author of five books and two song-cycles, most recently the
-  poetry collection, _Instrument_ (Fonograf Editions, 2020), and its companion
-  album, _Traveler’s Ode_ (Antiquated Future Records, 2020), Strom was born in
-  Vietnam and grew up in the Sierra Nevadas of California. She is also
-  co-founder and director of two collective art projects, She Who Has No
-  Master(s), and De-Canon.
+  histories. She is the author of _Instrument_ (Fonograf Editions, 2020) and its
+  musical companion _Traveler’s Ode_ (Antiquated Future Records, 2020); a
+  bilingual poetry-art book, _You Will Always Be Someone From Somewhere Else_
+  (AJAR Press); a memoir, _We Were Meant To Be a Gentle People_, and song cycle,
+  _East/West_; and two books of fiction, _The Gentle Order of Girls and Boys_
+  and _Grass Roof, Tin Roof_. Born in Vietnam, Strom grew up in the Sierra
+  Nevada foothills of California and lives in Portland, Oregon. She is
+  co-founder of two collective art projects, She Who Has No Master(s), and
+  De-Canon.
 summary: Poet Brandon Shimoda curates the third installment in a new series of
   Radical Poetry Readings, featuring Aditi Machado, Angel Dominguez, Canisia
   Lubrin, Dao Strom, S*an D. Henry-Smith, and Youna Kwak.
