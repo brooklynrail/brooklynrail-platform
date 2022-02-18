@@ -1,6 +1,7 @@
 ---
-media: /media/files/shanekiamcintosh_portrait_bytschabalala-self.jpeg
+media: /media/files/shanekiamcintosh_portrait_tschabalala-self.jpg
 title: Shanekia McIntosh
-alt: Photograph of Shanekia McIntosh
+alt: Portrait of Shanekia McIntosh.
+caption: Photo by Tschabalala Self
 date: 2022-02-17T16:31:00-0500
 ---
