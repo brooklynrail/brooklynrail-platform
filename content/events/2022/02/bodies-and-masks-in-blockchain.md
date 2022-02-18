@@ -13,6 +13,7 @@ people:
     related_links:
       - url: https://www.dreadscott.net/portfolio_page/white-male-for-sale/
         text: White Male for Sale (2021)
+  - person: charlotte-kent
 poets:
   - person: shanekia-mcintosh
 date: 2022-02-24T13:00:00-0500
