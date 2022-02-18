@@ -1,5 +1,5 @@
 ---
-title: Bodies and Masks in Blockchain
+title: "Bodies and Masks as NFTs: where art, blockchain, and capitalism collide"
 deck: Featuring Brendan Fernandes, Dread Scott, and Charlotte Kent
 summary: Artists Brendan Fernandes and Dread Scott join Rail Editor-at-Large
   Charlotte Kent for a conversation. We conclude with a poetry reading by
