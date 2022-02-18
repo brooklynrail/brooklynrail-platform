@@ -15,7 +15,7 @@ short_bio: "Internationally recognized Canadian artist **Brendan Fernandes** (b.
   is currently artist-in-residency and Assistant Professor at Northwestern
   University."
 portraits:
-  - media: 2020/06/brendan-lorber-headshot
+  - media: 2022/02/brendan-fernandes
 website: http://www.brendanfernandes.ca/
 instagram: brendanfernandes
 twitter: Bfernandes79
