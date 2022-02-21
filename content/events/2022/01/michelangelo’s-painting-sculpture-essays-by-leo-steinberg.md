@@ -13,6 +13,8 @@ people:
   - person: maria-loh
   - person: sheila-schwartz
   - person: alexander-nagel
+poets:
+  - person: farid-matuk
 date: 2022-03-01T13:00:00-0500
 end_date: 2022-03-01T14:30:00-0500
 series: 505
@@ -29,8 +31,6 @@ event_platform:
   - zoom
 ---
 View more details on the Essays by Leo Steinberg series edited by Sheila Schwartz and available through the University of Chicago Press, including *[Michelangelo's Sculpture](https://press.uchicago.edu/ucp/books/book/chicago/M/bo26593443.html),* *[Michelangelo's Painting](https://press.uchicago.edu/ucp/books/book/chicago/M/bo27801939.html)*, *[Renaissance and Baroque Art](https://press.uchicago.edu/ucp/books/book/chicago/R/bo48627164.html)*, and the forthcoming volume *[Picasso](https://press.uchicago.edu/ucp/books/book/chicago/P/bo128942286.html)*. 
-
-
 
 A special thanks to The Institute of Fine Arts at New York University for making this event possible.
 
