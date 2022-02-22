@@ -1,7 +1,7 @@
 ---
 title: "Looking After: Conversations on Art and Healing"
 deck: "New Histories of Art, Medicine, and Healing "
-summary: "Elizabeth Lee, Francis Gage, Christian Kleinbub, and Naomi Slipp join
+summary: "Elizabeth Lee, Frances Gage, Christian Kleinbub, and Naomi Slipp join
   Julia Rosenbaum for the second installment of our series Looking After:
   Conversations on Art and Healing, with special introductions by Suzanne Hudson
   and Tanya Sheehan."
