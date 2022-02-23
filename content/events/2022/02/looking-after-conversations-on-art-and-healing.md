@@ -20,12 +20,13 @@ end_date: 2022-03-03T14:30:00-0500
 collections:
   - common-ground
 event_sponsor:
-  - colby-center-for-the-arts-and-humanities
   - usc-dornsife-college-of-letters-arts-and-sciences
+  - colby-center-for-the-arts-and-humanities
 event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: recshpFZGJBr1HBAM
 event_platform:
   - zoom
 ---
