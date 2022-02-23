@@ -7,7 +7,7 @@ short_bio: Poet Jan Freeman is the founder and former director of Paris Press
   recipient of a 2020–2022 Associateship at the Five College Women’s Studies
   Research Center in Amherst, Massachusetts.
 portraits:
-  - {}
+  - media: 2022/02/jan-freeman
 rail_contributor_url: https://brooklynrail.org/contributor/Jan-Freeman
 website: http://www.janfreeman.net/
 ---
