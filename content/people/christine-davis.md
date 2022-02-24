@@ -15,5 +15,5 @@ short_bio: "New York and Toronto based artist and editor **Christine Davis**
   MACM (Montreal), AGO (Toronto), and The Polygon (Vancouver)."
 portraits:
   - media: 2022/02/christine-davis
-website: www.christinedavis.ca
+website: https://www.christinedavis.ca
 ---
