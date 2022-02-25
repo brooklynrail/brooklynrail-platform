@@ -2,16 +2,14 @@
 name: Maria Loh
 first_name: Maria
 last_name: Loh
-short_bio: Professor in Art History at CUNY Hunter College, **Maria H. Loh**
-  received her BA from McGill University, a Certificat des Études from the École
-  Régionale des Beaux Arts in Rennes, a Licence in art history from the
-  Université de Rennes II, and her MA/PhD in Art History from University of
-  Toronto. She was a predoctoral fellow at the Getty Research Institute, the
-  Joanna Randall-MacIver Junior Research Fellow at St Hilda’s College Oxford,
-  the recipient of a Philip Leverhulme Prize, the Willis F. Doney Member at the
-  Institute for Advanced Study in Princeton, and Robert Lehman Visiting
-  Professor at Villa I Tatti / Harvard University Center for Italian Renaissance
-  Studies. She is currently on leave as a NEH Public Scholar.
+short_bio: "Maria H. Loh is Professor in Art History at Hunter College. She is a
+  regular contributor to _Art in America_ and the author of three books: _Titian
+  Remade. Repetition and the Transformation of Early Modern Italian Art_ (Getty
+  Research Institute, 2007); _Still Lives. Death, Desire, and the Portrait of
+  the Old Master_ (Princeton, 2015); and _Titian’s Touch. Art, Magic, &
+  Philosophy_ (Reaktion, 2019). Her fourth book—_Liquid Sky_—will be on visual
+  representations of the early modern sky. She lives and works in New York and
+  London."
 portraits:
   - media: 2022/01/maria-loh
 ---
