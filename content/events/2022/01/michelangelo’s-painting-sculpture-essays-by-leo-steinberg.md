@@ -4,9 +4,9 @@ title: "Michelangelo and other Renaissance and Baroque Masters: Essays by Leo
 deck: Featuring Shawon Kinew, Christian Kleinbub, Maria Loh, Sheila Schwartz,
   and Alexander Nagel
 summary: "To celebrate Leo Steinberg's essays published by the University of
-  Chicago Press, art historians Christian Kleinbub, Shawon Kinew, Maria Loh, and
+  Chicago Press, art historians Shawon Kinew, Christian Kleinbub, Maria Loh, and
   Sheila Schwartz join Rail Consulting Editor Alexander Nagel for a
-  conversation. We conclude with a poetry reading. "
+  conversation. We conclude with a poetry reading by Farid Matuk. "
 people:
   - person: shawon-kinew
   - person: christian-kleinbub
