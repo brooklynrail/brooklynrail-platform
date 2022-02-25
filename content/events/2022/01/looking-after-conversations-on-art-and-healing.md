@@ -30,10 +30,10 @@ event_id: recxc93EL563mWGRB
 event_platform:
   - zoom
 ---
+[View the second installment of this series, *New Histories of Art, Medicine, and Healing*, here →](https://brooklynrail.org/events/2022/03/03/looking-after-conversations-on-art-and-healing/)
+
 A special thanks to Colby Center for the Arts and Humanities and USC Dornsife College of Letters, Arts and Sciences for making this event possible. 
 
 {{< image media="2021/12/colby-center-for-the-arts-and-humanities" size="md" >}}
 
 {{< image media="2021/12/usc-dornsife-college-of-letters-arts-and-sciences" size="md" >}}
-
-[View the second installment of this series, *New Histories of Art, Medicine, and Healing*, here →](https://brooklynrail.org/events/2022/03/03/looking-after-conversations-on-art-and-healing/)
