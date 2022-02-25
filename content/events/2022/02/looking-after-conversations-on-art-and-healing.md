@@ -30,10 +30,12 @@ event_id: recshpFZGJBr1HBAM
 event_platform:
   - zoom
 ---
+[View the first installment of this series, *Picturing the Covid-19 Pandemic,* here →](https://brooklynrail.org/events/2022/02/03/looking-after-conversations-on-art-and-healing/)
+
 A special thanks to Colby Center for the Arts and Humanities and USC Dornsife College of Letters, Arts and Sciences for making this event possible. 
 
 {{< image media="2021/12/colby-center-for-the-arts-and-humanities" size="md" >}}
 
 {{< image media="2021/12/usc-dornsife-college-of-letters-arts-and-sciences" size="md" >}}
 
-[View the first installment of this series, *Picturing the Covid-19 Pandemic,* here →](https://brooklynrail.org/events/2022/02/03/looking-after-conversations-on-art-and-healing/)[](https://www.lissongallery.com/exhibitions/haroon-mirza-a-dyson-sphere)
+[](https://www.lissongallery.com/exhibitions/haroon-mirza-a-dyson-sphere)
