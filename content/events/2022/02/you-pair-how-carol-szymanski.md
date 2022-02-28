@@ -6,9 +6,13 @@ summary: Artist Carol Szymanski joins Rail Artseen Editor Amanda Gluibizzi for a
 people:
   - person: carol-szymanski
     related_links:
-      - url: https://brooklynrail.org/2019/11/art/CAROL-SZYMANSKI-with-David-Carrier
-        text: Carol Szymanski in conversation with David Carrier
+      - url: https://www.imnotart.com/souvenir
+        text: Souvenir by Brendan Fernandes
   - person: amanda-gluibizzi
+    related_links:
+      - url: https://www.dreadscott.net/portfolio_page/white-male-for-sale/
+        text: White Male for Sale (2021)
+  - person: charlotte-kent
 poets:
   - person: s-david
 date: 2022-02-25T13:00:00-0500
@@ -20,6 +24,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: MwTFGJbQDnY
 event_id: recZnNuB9CM23eaPN
 event_platform:
   - zoom
