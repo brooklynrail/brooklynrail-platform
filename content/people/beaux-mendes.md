@@ -12,5 +12,7 @@ short_bio: Born in 1987 in New York City, **Beaux Mendes** lives and works in
   included in group shows at STARS, Real Pain Fine Arts, The Gallery at
   Michael’s, all in Los Angeles, at Palazzo Tamborino Cezzi, Lecce, Italy, and
   at Steven Harvey Fine Art Projects, New York, among others.
+portraits:
+  - media: 2022/02/beaux-mendes
 website: https://beauxmendes.com/
 ---
