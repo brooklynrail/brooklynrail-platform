@@ -18,7 +18,7 @@ event_producer:
 event_platform:
   - zoom
 ---
-Visit *Rochelle Feinstein: You Again*, a six-venue exhibition on view in Paris, Zurich, New York, Miami, and Los Angeles
+Visit *Rochelle Feinstein: You Again*, a six-venue exhibition on view in Paris, Zurich, New York, Miami, and Los Angeles→
 
 [Bridget Donahue, New York: January 28 – March 12 ](https://www.bridgetdonahue.nyc/exhibitions/announcing-rochelle-feinstein-you-again/)
 
