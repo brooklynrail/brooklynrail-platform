@@ -11,4 +11,5 @@ short_bio: "Writer **Lauren Stroh** is from Lake Charles, Louisiana. She quit
   City, and she lives in the Streetcar Named Desire apartment in New Orleans. "
 portraits:
   - media: 2022/02/lauren-stroh
+website: https://laurenstroh.com/
 ---
