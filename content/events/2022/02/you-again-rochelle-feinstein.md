@@ -1,11 +1,12 @@
 ---
 title: "You Again: Rochelle Feinstein"
-summary: "Artist Rochelle Feinstein joins the Rail for a conversation. We
-  conclude with a poetry reading by Lauren Stroh. "
+deck: Featuring Feinstein and Amanda Gluibizzi
+summary: Artist Rochelle Feinstein joins Rail Artseen Editor Amanda Gluibizzi
+  for a conversation. We conclude with a poetry reading.
 people:
   - person: rochelle-feinstein
-poets:
-  - person: lauren-stroh
+  - person: amanda-gluibizzi
+poets: []
 date: 2022-03-07T13:00:00-0500
 end_date: 2022-03-07T14:30:00-0500
 series: 509
