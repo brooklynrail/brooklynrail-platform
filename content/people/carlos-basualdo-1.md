@@ -14,4 +14,5 @@ short_bio: "Argentine curator **Carlos Basualdo** is the Keith L. and Katherine
   2010 until 2013 he worked as Curator at Large at MAXXI Arte, in Rome, Italy."
 portraits:
   - media: 2022/03/carlos-basualdo
+rail_contributor_url: https://brooklynrail.org/contributor/Carlos-Basualdo
 ---
