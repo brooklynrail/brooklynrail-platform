@@ -20,3 +20,4 @@ event_id: rec0ki0giyZsSkfOl
 event_platform:
   - zoom
 ---
+[More details on *Gold* by Rumi, edited and translated from the Farsi by Haleh Liza Gafori, and available from New York Review Books this March →](https://www.nyrb.com/products/gold?variant=35510853271720)
