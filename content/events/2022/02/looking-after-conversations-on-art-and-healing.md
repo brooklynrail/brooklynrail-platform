@@ -6,13 +6,11 @@ summary: "Elizabeth Lee, Frances Gage, Christian Kleinbub, and Naomi Slipp join
   Conversations on Art and Healing, with special introductions by Suzanne Hudson
   and Tanya Sheehan. We conclude with a poetry reading by Kevin Powell."
 people:
-  - person: elizabeth-lee
-  - person: frances-gage
-  - person: christian-kleinbub
-  - person: naomi-slipp
-  - person: julia-rosenbaum
-  - person: suzanne-hudson
-  - person: tanya-sheehan
+  - person: sylvia-gorelick
+  - person: christina-chalmers
+  - person: leopoldine-core
+  - person: bernard-ferguson
+  - person: rebekah-smith
 poets:
   - person: kevin-powell
 date: 2022-03-03T13:00:00-0500
@@ -26,6 +24,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: sE4KpM_HbW0
 event_id: recshpFZGJBr1HBAM
 event_platform:
   - zoom
