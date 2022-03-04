@@ -2,11 +2,12 @@
 title: "You Again: Rochelle Feinstein"
 deck: Featuring Feinstein and Amanda Gluibizzi
 summary: Artist Rochelle Feinstein joins Rail Artseen Editor Amanda Gluibizzi
-  for a conversation. We conclude with a poetry reading.
+  for a conversation. We conclude with a poetry reading Bunny Wood.
 people:
   - person: rochelle-feinstein
   - person: amanda-gluibizzi
-poets: []
+poets:
+  - person: bunny-wood
 date: 2022-03-07T13:00:00-0500
 end_date: 2022-03-07T14:30:00-0500
 series: 509
@@ -20,7 +21,7 @@ event_id: rec9asCk4Z2WS30Oe
 event_platform:
   - zoom
 ---
-Visit *Rochelle Feinstein: You Again*, a six-venue exhibition on view in Paris, Zurich, New York, Miami, and Los Angeles→
+Visit *Rochelle Feinstein: You Again*, a six-venue exhibition on view in Paris, Zurich, New York, Miami, and Los Angeles →
 
 [Bridget Donahue, New York: January 28 – March 12 ](https://www.bridgetdonahue.nyc/exhibitions/announcing-rochelle-feinstein-you-again/)
 
