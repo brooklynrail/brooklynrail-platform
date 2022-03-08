@@ -4,11 +4,11 @@ deck: Featuring Dodson, Rindon Johnson, Camilo Roldán, Ken L. Walker, and Alli 
 summary: Ted Dodson curates the 77th Radical Poetry Reading featuring poetry
   read by Rindon Johnson, Camilo Roldán, Ken L. Walker, and Alli Warren.
 people:
-  - person: rindon-johnson
+  - person: ted-dodson
   - person: camilo-roldan
   - person: ken-l-walker
   - person: alli-warren
-  - person: ted-dodson
+  - person: alli-warren
 date: 2022-03-16T13:00:00-0500
 end_date: 2022-03-16T14:30:00-0500
 series: 516
@@ -18,6 +18,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: rec0iQRCzdPl1FXnl
 event_platform:
   - zoom
 ---
