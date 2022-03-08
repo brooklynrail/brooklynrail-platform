@@ -2,9 +2,8 @@
 title: Ode to Willem de Kooning
 deck: Featuring John Elderfield, David Reed, Richard Shiff, Mark Stevens, Robert
   Storr, Charles Stuckey, Annalyn Swan, Flora Yukhnovich, and Phong H. Bui
-summary: "John Elderfield, David Reed, Richard Shiff, Mark Stevens, Robert
-  Storr, Charles Stuckey, Annalyn Swan, and Flora Yukhnovich join Phong H. Bui
-  for a conversation on the legacy of Willem de Kooning. "
+summary: To mark the 25th anniversary of Willem de Kooning’s passing, join us
+  for a conversation and festive celebration of his life and work.
 people:
   - person: john-elderfield
   - person: david-reed
