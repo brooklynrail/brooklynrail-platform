@@ -1,8 +1,8 @@
 ---
-name: Amy Myers
-first_name: Amy
-last_name: Myers
-short_bio: "Artist **Amy Myers** (b. 1965, Austin, TX) has exhibited at
+name: amy myers
+first_name: amy
+last_name: myers
+short_bio: "Artist **amy myers** (b. 1965, Austin, TX) has exhibited at
   institutions including the Berkshire Museum (MA), Malin Gallery (NYC), Mary
   Boone Gallery (NYC), Suzanne Vielmetter (Los Angeles), Atlanta Center for
   Contemporary Art, The Museum of Fine Arts Houston, MOCA Hudson Valley, Gallery
