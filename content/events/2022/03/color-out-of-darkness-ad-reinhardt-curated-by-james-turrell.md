@@ -1,11 +1,13 @@
 ---
 title: "Color Out of Darkness: Ad Reinhardt curated by James Turrell"
-deck: Featuring Torkwase Dyson, Alex Bacon, and Phyllis Tuchman
-summary: Artist Torkwase Dyson joins Rail contributor Alex Bacon and Rail
-  Editor-at-Large join for a discussion on the current Ad Reinhardt exhibition
-  curated by James Turrell. We conclude with a poetry reading by Mark Wallace.
+deck: Featuring Torkwase Dyson, Matthew Simms, Alex Bacon, and Phyllis Tuchman
+summary: Artist Torkwase Dyson and art historian Matthew Simms join Rail
+  contributor Alex Bacon and Rail Editor-at-Large join for a discussion on the
+  current Ad Reinhardt exhibition curated by James Turrell. We conclude with a
+  poetry reading by Mark Wallace.
 people:
   - person: torkwase-dyson
+  - person: matthew-simms
   - person: alex-bacon
     related_links:
       - url: https://brooklynrail.org/2013/09/art/james-turrell-with-alex-bacon
