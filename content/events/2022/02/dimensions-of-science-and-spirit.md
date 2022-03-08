@@ -18,6 +18,8 @@ end_date: 2022-03-18T14:30:00-0500
 series: 518
 collections:
   - the-new-social-environment
+event_sponsor:
+  - sam-francis-fondation
 event_organizer:
   - the-brooklyn-rail
 event_producer:
@@ -25,3 +27,6 @@ event_producer:
 event_platform:
   - zoom
 ---
+A special thanks to the Sam Francis Foundation for making this event possible.
+
+{{< image media="2022/03/sam-francis-logo" size="md" >}}
