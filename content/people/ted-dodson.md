@@ -8,6 +8,7 @@ short_bio: Poet **Ted Dodson** is the author of _An Orange_ (Pioneer Works /
   editor of _The Poetry Project Newsletter_.
 portraits:
   - media: 2020/08/ted-dodson
+rail_contributor_url: https://brooklynrail.org/contributor/ted-dodson
 website: http://www.ted-dodson.com/
 twitter: tedodson
 ---
