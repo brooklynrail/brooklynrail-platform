@@ -19,6 +19,8 @@ end_date: 2022-03-19T18:00:00-0500
 series: 519
 collections:
   - the-new-social-environment
+event_sponsor:
+  - the-willem-de-kooning-foundation
 event_organizer:
   - the-brooklyn-rail
 event_producer:
