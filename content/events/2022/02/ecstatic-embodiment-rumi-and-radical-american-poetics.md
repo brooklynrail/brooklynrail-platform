@@ -9,7 +9,7 @@ people:
   - person: leonard-schwartz
 date: 2022-03-09T13:00:00-0500
 end_date: 2022-03-09T14:30:00-0500
-series: 510
+series: 511
 collections:
   - the-new-social-environment
 event_organizer:
