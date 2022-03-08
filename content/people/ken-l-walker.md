@@ -2,12 +2,13 @@
 name: Ken L. Walker
 first_name: Ken
 last_name: Walker
-short_bio: Poet **Ken L. Walker** still carries a Kentucky driver's license in
-  his wallet even though he has lived in Brooklyn and Queens for the past five
-  years. His criticism and poetry can be found in the _Boxcar_, the_Poetry
-  Project Newsletter_, _Lumberyard_, _The Wolf_, _Crab Orchard Review_, _La
-  Fovea_, _Washington Square_, and _The Seattle Review_. He curates and produces
-  the conversation project Cosmot.
+short_bio: Poet **Ken L. Walker** has published two chapbooks, _Antworten_
+  (translations of Georg Herwegh from Greying Ghost) and _Twenty Glasses of
+  Water_ from Diez. He has poems and translations in _Boston Review_, _Tammy_,
+  _Seattle Review_, _Atlas Review_, and _ANMLY_. His prose and reviews can be
+  found in _The Poetry Project Newsletter_, _Hyperallergic_, and _Diagram_. He
+  holds an MFA from Brooklyn College, works in advertising, and spends the rest
+  of his time documenting drains.
 portraits:
   - media: 2022/03/ken-l-walker
 rail_contributor_url: https://brooklynrail.org/contributor/ken-l-walker
