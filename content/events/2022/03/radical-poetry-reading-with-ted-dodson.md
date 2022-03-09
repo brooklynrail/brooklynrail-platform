@@ -8,7 +8,6 @@ people:
   - person: camilo-roldan
   - person: ken-l-walker
   - person: alli-warren
-  - person: alli-warren
 date: 2022-03-16T13:00:00-0500
 end_date: 2022-03-16T14:30:00-0500
 series: 516
