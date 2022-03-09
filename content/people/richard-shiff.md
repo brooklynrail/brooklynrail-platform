@@ -14,4 +14,5 @@ short_bio: "The Effie Marie Cain Regents Chair in Art at The University of Texas
   Donald Judd_ (2020)."
 portraits:
   - media: 2021/10/richard-shiff
+rail_contributor_url: https://brooklynrail.org/contributor/richard-shiff
 ---
