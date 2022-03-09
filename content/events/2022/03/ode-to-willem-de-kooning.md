@@ -18,7 +18,6 @@ people:
   - person: charles-stuckey
   - person: annalyn-swan
   - person: flora-yukhnovich
-  - person: flora-yukhnovich
   - person: phong-h-bui
 date: 2022-03-19T16:00:00-0500
 end_date: 2022-03-19T18:00:00-0500
