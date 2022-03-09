@@ -3,7 +3,8 @@ title: Ode to Willem de Kooning
 deck: Featuring John Elderfield, David Reed, Richard Shiff, Mark Stevens, Robert
   Storr, Charles Stuckey, Annalyn Swan, Flora Yukhnovich, and Phong H. Bui
 summary: To mark the 25th anniversary of Willem de Kooning’s passing, join us
-  for a conversation and festive celebration of his life and work.
+  for a conversation and festive celebration of his life and work, with an
+  introduction by de Kooning Foundation Executive Director Amy Schichtel.
 people:
   - person: john-elderfield
   - person: david-reed
