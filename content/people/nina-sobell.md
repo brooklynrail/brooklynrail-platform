@@ -13,5 +13,7 @@ short_bio: "Multi-platform artist and electronic medium **Nina Sobell**
   collection, among others. She has taught at UCLA, SVA and received CAPS, NEA,
   NYSCA, NYFA, Turbulence, Franklin Furnace awards, an Acker Award in Video. She
   holds an MFA in sculpture from Cornell University."
+portraits:
+  - media: 2022/03/nina-sobell
 website: http://ninasobell.com/
 ---
