@@ -25,3 +25,4 @@ registration_url: ""
 event_platform:
   - zoom
 ---
+[Read our tribute to Sylvère Lotringer in our March 2022 issue →](https://brooklynrail.org/2022/03/in-memoriam/A-Tribute-to-Sylvre-Lotringer)
