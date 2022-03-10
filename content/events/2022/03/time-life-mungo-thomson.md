@@ -18,4 +18,4 @@ event_producer:
 event_platform:
   - zoom
 ---
-0[Visit *Mungo Thomson: Time Life*, on view at Karma Gallery through April 16, 2022 →](https://karmakarma.org/exhibitions/mungo-thomson-2022/)
+[Visit *Mungo Thomson: Time Life*, on view at Karma Gallery through April 16, 2022 →](https://karmakarma.org/exhibitions/mungo-thomson-2022/)
