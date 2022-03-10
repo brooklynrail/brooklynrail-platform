@@ -12,5 +12,5 @@ short_bio: "Award-winning critic and curator **Drew Hammond** is based in
   Hayward: The Non-Secular Paintings_, St John's Art Center: Collegeville,
   Minnesota (2019)."
 portraits:
-  - {}
+  - media: 2022/03/drew-hammond
 ---
