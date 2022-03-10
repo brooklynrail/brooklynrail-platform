@@ -1,7 +1,7 @@
 ---
-name: Mungo Thompson
+name: Mungo Thomson
 first_name: Mungo
-last_name: Thompson
+last_name: Thomson
 short_bio: The wide-ranging, multi-media work of **Mungo Thomson** approaches
   mass culture and everyday perceptual experience through a lens of deep time
   and cosmic scale, implicating the spaces of production and exhibition in
