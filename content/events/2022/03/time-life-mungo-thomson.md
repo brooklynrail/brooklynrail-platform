@@ -1,7 +1,7 @@
 ---
 title: "Time Life: Mungo Thomson"
-deck: Featuring Thompson and Andrew Woolbright
-summary: Artist Mungo Thompson joins Rail contributor Andrew Woolbright for a
+deck: Featuring Thomson and Andrew Woolbright
+summary: Artist Mungo Thomson joins Rail contributor Andrew Woolbright for a
   conversation. We conclude with a poetry reading.
 people:
   - person: mungo-thompson
@@ -18,4 +18,4 @@ event_producer:
 event_platform:
   - zoom
 ---
-[Visit *Mungo Thompson: Time Life*, on view at Karma Gallery through April 16, 2022 →](https://karmakarma.org/exhibitions/mungo-thomson-2022/)
+0[Visit *Mungo Thomson: Time Life*, on view at Karma Gallery through April 16, 2022 →](https://karmakarma.org/exhibitions/mungo-thomson-2022/)
