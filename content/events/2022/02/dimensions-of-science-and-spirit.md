@@ -1,8 +1,8 @@
 ---
 title: Dimensions of Science and Spirit
-deck: Featuring Christine Davis, amy myers, Nina Sobell, Victoria Vesna, and Ann
+deck: Featuring Christine Davis, Amy Myers, Nina Sobell, Victoria Vesna, and Ann
   McCoy
-summary: Artists Christine Davis, amy myers, Nina Sobell, and Victoria Vesna
+summary: Artists Christine Davis, Amy Myers, Nina Sobell, and Victoria Vesna
   join Rail Editor-at-Large Ann McCoy for a conversation. We conclude with a
   poetry reading by Tony Iantosca.
 people:
