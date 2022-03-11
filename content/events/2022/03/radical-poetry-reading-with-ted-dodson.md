@@ -5,6 +5,7 @@ summary: Ted Dodson curates the 77th Radical Poetry Reading featuring poetry
   read by Rindon Johnson, Camilo Roldán, Ken L. Walker, and Alli Warren.
 people:
   - person: ted-dodson
+  - person: rindon-johnson
   - person: camilo-roldan
   - person: ken-l-walker
   - person: alli-warren
