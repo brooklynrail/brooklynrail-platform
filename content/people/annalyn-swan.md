@@ -2,16 +2,16 @@
 name: Annalyn Swan
 first_name: Annalyn
 last_name: Swan
-short_bio: Former senior arts editor of _Newsweek_, **Annalyn Swan** has been
-  editor-in-chief of _Savvy_ magazine, and served as a consulting editor for
-  major media companies, including Time Inc. and Gruner and Jahr. She taught
-  biographical and memoir writing at Princeton University in 2013, and currently
-  teaches in the Biography and Memoir M.A. program at the Graduate Center at
-  CUNY, as well as at Breadloaf Middlebury School of English. She has written
-  for numerous publications, including _The New Republic_, the _New York Times
-  Magazine_ and _Vanity Fair_, and contributed to catalogs and collections of
-  essays, among them _The Lives of the Piano_. She is the winner of an
-  Ascap-Deems Taylor award and a Front Page Award for her music criticism.
+short_bio: "**Annalyn Swan** is the former arts editor of _Newsweek_ and an
+  award-winning former music critic. She is the co-author, with Mark Stevens, of
+  the biographies _de Kooning: An American Master_ and _Francis Bacon:
+  Revelations_. _De Kooning: An American Master_ won the 2005 Pulitzer Prize for
+  biography, among numerous other awards, and _Francis Bacon: Revelations_,
+  published in 2021 in both the U.K. and the U.S., was named art book of the
+  year by _The Times_ of London and shortlisted for the Apollo prize. A graduate
+  of Princeton University, Swan currently teaches in the Biography and Memoir
+  M.A. program at the Graduate Center of the City University of New York, as
+  well as at Bread Loaf Middlebury School of English."
 portraits:
   - media: 2021/04/annalyn-swan
 ---
