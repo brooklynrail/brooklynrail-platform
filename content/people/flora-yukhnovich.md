@@ -2,15 +2,16 @@
 name: Flora Yukhnovich
 first_name: Flora
 last_name: Yukhnovich
-short_bio: Born in 1990, **Flora Yukhnovich** completed her MA at the City &
-  Guilds of London Art School in 2017. She had her first solo exhibition at
-  Brocket, London, in December 2017 and has recently exhibited at Parafin,
-  London, GASK, the Gallery of the Central Bohemian Region, Czech Republic, the
-  Jerwood Gallery Hastings and at Blenheim Walk Gallery, Leeds Arts University,
-  UK. Previous solo exhibitions with Victoria Miro include The Venice Paintings
-  and Barcarole, both held in 2020. Collections include Government Art
-  Collection and The David Roberts Art Foundation. In 2018 she completed The
-  Great Women Artists Residency at Palazzo Monti, Brescia.
+short_bio: "Artist **Flora Yukhnovich** completed her MA at the City & Guilds of
+  London Art School in 2017. In 2018 she completed The Great Women Artists
+  Residency at Palazzo Monti, Brescia. Work by the artist will feature in the
+  survey exhibition _Impressionism: A World View_; Yukhnovich’s painting will be
+  exhibited in galleries dedicated to ‘Contemporary Neo-Impressionists’, on view
+  at The Nassau County Museum of Art, NY, from 19 March–10 July 2022. In 2023
+  Yukhnovich will be the first artist to take part in a new series of solo
+  exhibitions responding to the collections of The Ashmolean, Oxford, titled
+  Ashmolean NOW. _Flora Yukhnovich:Thirst Trap_ continues at Victoria Miro,
+  London until 26 March 2022."
 portraits:
   - media: 2022/03/flora-yukhnovich
 website: https://www.florayukhnovich.com/
