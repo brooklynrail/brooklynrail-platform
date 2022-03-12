@@ -16,8 +16,7 @@ people:
   - person: vladimir-us
   - person: lika-volk
   - person: ksenia-m-soboleva
-poets:
-  - person: yelena-moskovich
+poets: []
 date: 2022-03-17T13:00:00-0500
 end_date: 2022-03-17T14:30:00-0500
 collections:
