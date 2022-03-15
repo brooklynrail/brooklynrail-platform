@@ -1,7 +1,7 @@
 ---
 title: "Mel Bochner: I STILL DON'T GET IT"
 deck: Featuring Bochner and Amanda Gluibizzi
-summary: Artist Mel Bochner joins Rail Artseen editor Amanda Gluibizzifor a
+summary: Artist Mel Bochner joins Rail Artseen Editor Amanda Gluibizzi for a
   conversation. We conclude with a poetry reading.
 people:
   - person: mel-bochner
@@ -15,6 +15,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: recTHk2IykHE3Aepo
 event_platform:
   - zoom
 ---
