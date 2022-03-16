@@ -14,5 +14,6 @@ short_bio: Artist, filmmaker, and performer **David Dixon** is the founding
   Farm. He currently lives and works in Brooklyn, NY.
 portraits:
   - media: 2022/03/david-dixon
-website: https://daviddixonart.com/
+website: https://www.cathouseproper.com/
+instagram: " cathouse_proper"
 ---
