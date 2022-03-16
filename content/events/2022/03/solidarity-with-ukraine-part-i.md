@@ -3,8 +3,8 @@ title: "Solidarity with Ukraine: Part I"
 deck: " Artists and Cultural Workers in Conversation"
 summary: Rail contributor Ksenia M. Soboleva hosts a conversation with artists
   and cultural workers from Ukraine, New York, and beyond, including Anna
-  Chistoserdova, Luba Drozd, Susan Katz, Yulia Kostereva, Marina Slavova, Anton
-  Svyatsky, Vladimir Us, Lika Volk, and potentially others. We conclude with a
+  Chistoserdova, Luba Drozd, Adriana Farmiga, Susan Katz, Yulia Kostereva,
+  Marina Slavova, Anton Svyatsky, Vladimir Us, and Lika Volk. We conclude with a
   poetry reading in Ukrainian and English by Ostap Kin.
 people:
   - person: anna-chistoserdova
@@ -12,6 +12,7 @@ people:
   - person: adriana-farmiga
   - person: susan-katz
   - person: yulia-kostereva
+  - person: marina-slavova
   - person: anton-svyatsky
   - person: vladimir-us
   - person: lika-volk
