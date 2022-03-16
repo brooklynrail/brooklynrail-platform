@@ -1,9 +1,9 @@
 ---
 title: Diasporic Entropic Diremption and the Cross-Cultural Cross
 deck: Featuring David Dixon, Nari Ward, Renee Cox, and Lee Ann Norman
-summary: "Artists David Dixon, Nari Ward, Renee Cox join Rail contributor Lee
-  Ann Norman for a conversation. We conclude with a poetry reading by Jeremy
-  Hoevenaar. "
+summary: Artists David Dixon, Nari Ward, Renee Cox join Rail contributor Lee Ann
+  Norman for a conversation. We conclude with a poetry reading by Jeremy
+  Hoevenaar.
 people:
   - person: david-dixon
   - person: nari-ward
@@ -23,4 +23,4 @@ event_producer:
 event_platform:
   - zoom
 ---
-[Visit *Diasporic Entropic Diremption and the Cross-Cultural Cross*, on view at Cathouse Proper through March 27, 2022 →](https://www.cathouseproper.com/d-e-d-the-cross-cultural-cross)
+[Visit *Diasporic Entropic Diremption and the Cross-Cultural Cross*, on view at Cathouse Proper through April 17 2022 →](https://www.cathouseproper.com/d-e-d-the-cross-cultural-cross)
