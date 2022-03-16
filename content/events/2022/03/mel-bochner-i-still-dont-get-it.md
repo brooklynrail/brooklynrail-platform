@@ -19,4 +19,4 @@ event_id: recTHk2IykHE3Aepo
 event_platform:
   - zoom
 ---
-[Visit *Mel Bochner: I STILL DON'T GET IT*, on view at Totah Gallery through April 16, 2022 →](https://www.davidtotah.com/exhibitions)
+[Visit *Mel Bochner: I STILL DON'T GET IT*, on view at TOTAH through April 16, 2022 →](https://www.davidtotah.com/exhibitions)
