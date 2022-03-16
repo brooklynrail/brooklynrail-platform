@@ -15,6 +15,7 @@ backend:
   repo: brooklynrail/brooklynrail-platform
   site_domain: brooklynrail.netlify.com
   base_url: https://api.netlify.com
+  branch: master
 
 # ====================================
 # Workflow -- NetlifyCMS editorial workflow tools
