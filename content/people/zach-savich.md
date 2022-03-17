@@ -12,5 +12,5 @@ short_bio: Writer **Zach Savich** is the author of six books of poetry,
   Amherst; the Iowa Summer Writers Festival; and Shippensburg University. Since
   2013, he has taught at the University of the Arts, in Philadelphia.
 portraits:
-  - {}
+  - media: 2022/03/zach-savich
 ---
