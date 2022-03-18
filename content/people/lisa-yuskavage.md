@@ -14,7 +14,7 @@ short_bio: For more than thirty years, **Lisa Yuskavage’s** highly original
   Hammer Museum, Los Angeles;  and many other renowned institutions around the
   world. Yuskavage lives and works in New York.
 portraits:
-  - media: 2020/05/lisa-yuskavage
+  - media: 2022/03/lisa-yuskavage
 rail_contributor_url: https://brooklynrail.org/contributor/lisa-yuskavage
 website: https://yuskavage.com/
 instagram: lisayuskavagestudio
