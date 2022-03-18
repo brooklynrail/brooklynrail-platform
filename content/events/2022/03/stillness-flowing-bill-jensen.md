@@ -5,6 +5,7 @@ summary: Artist Bill Jensen joins Rail contributor Amanda Millet-Sorsa and Rail
   staff for a conversation. We conclude with a poetry reading by Zach Savich.
 people:
   - person: bill-jensen
+  - person: amanda-millet-sorsa
 poets:
   - person: zach-savich
 date: 2022-03-25T13:00:00-0500
