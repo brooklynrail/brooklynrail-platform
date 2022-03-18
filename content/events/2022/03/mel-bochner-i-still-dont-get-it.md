@@ -6,6 +6,8 @@ summary: Artist Mel Bochner joins Rail Artseen Editor Amanda Gluibizzi for a
 people:
   - person: mel-bochner
   - person: amanda-gluibizzi
+poets:
+  - person: mark-leidner
 date: 2022-03-21T13:00:00-0500
 end_date: 2022-03-21T14:30:00-0500
 series: 520
