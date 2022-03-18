@@ -20,6 +20,8 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: recofPPIfeIqknKdo
 event_platform:
   - zoom
 ---
+As part of an ongoing series of conversations in solidarity with Ukraine, you can [watch Part I here](https://brooklynrail.org/events/2022/03/17/solidarity-with-ukraine-part-i/).
