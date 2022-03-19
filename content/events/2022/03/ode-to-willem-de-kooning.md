@@ -13,6 +13,7 @@ people:
   - person: john-elderfield
   - person: joan-levy-hepburn
   - person: david-reed
+  - person: richard-shiff
   - person: mark-stevens
   - person: robert-storr
   - person: charles-stuckey
