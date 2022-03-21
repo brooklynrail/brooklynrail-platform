@@ -2,7 +2,7 @@
 # https://brooklynrail.org/workflow
 
 # ====================================
-display_url: https://brooklynrail.org
+display_url: https://brooklynrail.org/events
 site_url: https://brooklynrail.org
 
 # logo_url — sets the logo in the admin
@@ -15,13 +15,13 @@ backend:
   repo: brooklynrail/brooklynrail-platform
   site_domain: brooklynrail.netlify.com
   base_url: https://api.netlify.com
-  branch: master
+  # branch: master
 
 # ====================================
 # Workflow -- NetlifyCMS editorial workflow tools
 # publish_mode: editorial_workflow
 open_authoring: false # accept contributions (forks) from GitHub users
-branch: master
+# branch: master
 squash_merges: true # squash all commits into a single commit when the PR is merged
 commit_messages:
   create: 'New {{collection}}: "{{slug}}"'
@@ -46,9 +46,12 @@ slug:
   clean_accents: true
 
 # Localhost Editing
-# uses the local proxy server port set in the `npx netlify-cms-proxy-server` command
-# (see the workflow script in packages.json)
+# uses the local proxy server port set in the `netlify dev` command
 local_backend: true
+
+#local_backend: false
+# Note: no matter where you access Netlify CMS — whether running locally, in a staging environment, or in your published site — it will always fetch and commit files in your hosted repository (for example, on GitHub), on the branch you configured in your Netlify CMS config.yml file. This means that content fetched in the admin UI will match the content in the repository, which may be different from your locally running site. It also means that content saved using the admin UI will save directly to the hosted repository, even if you're running the UI locally or in staging. If you want to have your local CMS write to a local repository, try the local_backend setting, currently in beta.
+# https://www.netlifycms.org/docs/configuration-options/#backend
 
 # ====================================
 # Collections
