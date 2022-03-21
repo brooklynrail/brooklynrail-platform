@@ -15,5 +15,5 @@ short_bio: Artist, filmmaker, and performer **David Dixon** is the founding
 portraits:
   - media: 2022/03/david-dixon
 website: https://www.cathouseproper.com/
-instagram: " cathouse_proper"
+instagram: cathouse_proper
 ---
