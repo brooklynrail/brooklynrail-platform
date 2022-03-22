@@ -1,12 +1,15 @@
 ---
 title: Radical Poetry Reading with Lee Ann Brown
-deck: Featuring Brown, Harryette Mullen, Sophia Dahlin, and friends
+deck: Featuring Brown, Harryette Mullen, Sophia Dahlin, and Brett Evans, and
+  Sonnet L’Abbé
 summary: Lee Ann Brown curates the 78th Radical Poetry Reading featuring poetry
   read by Sophia Dahlin, Brett Evans, Sonnet L’Abbé, and Harryette Mullen.
 people:
   - person: lee-ann-brown
   - person: sophia-dahlin
   - person: harryette-mullen
+  - person: brett-evans
+  - person: sonnet-labbe
 date: 2022-03-23T13:00:00-0500
 end_date: 2022-03-23T14:30:00-0500
 series: 522
