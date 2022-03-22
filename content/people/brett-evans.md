@@ -8,5 +8,5 @@ short_bio: Poet **Brett Evans** lives in New Orleans— once near the bayou, now
   founder of the t-Rex parade and author (w Chris Shipman) of _Keats Is Not The
   Problem._
 portraits:
-  - {}
+  - media: 2022/03/brett-evans
 ---
