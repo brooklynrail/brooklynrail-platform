@@ -2,6 +2,7 @@
 {{- $page := .page -}}
 {{- $currentsection := $page.CurrentSection -}}
 
+{{ $page.Permalink }}
 {{- $gif := print "/material/img/gifs/" (index (slice "cool-ghost.gif" "floating_heart.gif" "heart-pulse-pixels.gif" "shiny.gif" "rainbow-bounce.gif" "sparkleheart.gif" "yay2.gif" | shuffle) 0) -}}
 
 <div class="grid-container">
@@ -22,7 +23,7 @@
           <ul class="usa-nav__primary usa-accordion">
 
             {{/*  Gets the current page URL  */}}
-            {{- $currentURL := trim $page.URL "/" -}}
+            {{- $currentURL := trim $page.Permalink "/" -}}
             {{- $parent := $page.Parent -}}
             {{- range $i, $menuitem := .menu_data -}}
             <li class="usa-nav__primary-item nav-{{- $menuitem.Identifier -}}">
