@@ -47,7 +47,8 @@ slug:
 
 # Localhost Editing
 # uses the local proxy server port set in the `netlify dev` command
-local_backend: true
+local_backend:
+  url: http://localhost:8081/api/v1
 
 #local_backend: false
 # Note: no matter where you access Netlify CMS — whether running locally, in a staging environment, or in your published site — it will always fetch and commit files in your hosted repository (for example, on GitHub), on the branch you configured in your Netlify CMS config.yml file. This means that content fetched in the admin UI will match the content in the repository, which may be different from your locally running site. It also means that content saved using the admin UI will save directly to the hosted repository, even if you're running the UI locally or in staging. If you want to have your local CMS write to a local repository, try the local_backend setting, currently in beta.
@@ -328,7 +329,7 @@ collections:
     label_singular: "Media"
     description: "TKTK"
     folder: "content/media" # path to the folder where files are stored
-    media_folder: "/static/media/files"
+    media_folder: "/{{media_folder}}"
     public_folder: "/media/files"
     path: "{{year}}/{{month}}/{{slug}}"
     extension: "md"
