@@ -19,7 +19,7 @@
   "main": "gulpfile.js",
   "scripts": {
     "local-build": "hugo serve",
-    "workflow": "npx netlify-cms-proxy-server",
+    "workflow": "LOG_LEVEL=debug npx netlify-cms-proxy-server",
     "netlify": "netlify-lambda && hugo --gc",
     "start": "npm-run-all --parallel workflow local-build",
     "test:pa11y": "pa11y-ci --config .pa11yci"
