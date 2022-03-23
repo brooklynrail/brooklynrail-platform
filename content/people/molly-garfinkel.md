@@ -16,5 +16,6 @@ short_bio: Serving as  Managing Director of City Lore and the Director of City
   an MA in Architectural History from the University of Virginia.
 portraits:
   - media: 2022/03/molly-garfinkel
+website: https://citylore.org/
 twitter: MollyGarfinkel
 ---
