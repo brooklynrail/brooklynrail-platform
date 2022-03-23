@@ -2,7 +2,7 @@
 name: Rona Pondick
 first_name: Rona
 last_name: Pondick
-pronouns: she/her
+pronouns: ""
 short_bio: "Since 1984, American sculptor **Rona Pondick** has used the language
   of the body in her work, both literally and metaphorically. She has had 51
   solo exhibitions in both museums and galleries internationally. Her sculptures
