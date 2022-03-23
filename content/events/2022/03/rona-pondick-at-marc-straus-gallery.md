@@ -1,5 +1,5 @@
 ---
-title: "Rona Pondick: Color, Gesture, and Posture"
+title: "Color, Gesture, and Posture: Rona Pondick"
 deck: Featuring Pondick and Jessica Holmes
 summary: Artist Rona Pondick joins Rail ArTonic editor Jessica Holmes for a
   conversation. We conclude with a poetry reading.
