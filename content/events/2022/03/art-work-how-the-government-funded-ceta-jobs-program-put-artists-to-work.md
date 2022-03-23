@@ -1,13 +1,14 @@
 ---
 title: "ART/WORK: How the Government-Funded CETA Jobs Program Put Artists to Work"
-deck: Featuring Ted Berger, Bob Holman, and Molly Garfinkel
-summary: Arts advocate Ted Berger, poet Bob Holman, and City Lore Managing
-  Director Molly Garfinkel join for a conversation. We conclude with a poetry
-  reading by Bob Holman.
+deck: Featuring Ted Berger, Molly Garfinkel, Jodi Waynberg, and Bob Holman
+summary: Arts advocate Ted Berger and curators Molly Garfinkel and Jodi Waynberg
+  join poet Bob Holman for a conversation. We conclude with a poetry reading by
+  Holman.
 people:
   - person: theodore-s-berger
-  - person: bob-holman
   - person: molly-garfinkel
+  - person: jodi-waynberg
+  - person: bob-holman
 date: 2022-03-31T13:00:00-0500
 end_date: 2022-03-31T14:30:00-0500
 collections:
