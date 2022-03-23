@@ -2,7 +2,7 @@
 title: "Solidarity with Ukraine: Part II"
 deck: Dissident Artists in Conversation, featuring Matvey Levenstein, Taras
   Lewyckyj, Phong H. Bui, and Lisa Yuskavage
-summary: Artists Matvey Levenstein and Taras Lewyckyj join Phong Bui and Lisa
+summary: Artists Matvey Levenstein and Taras Lewyckyj join Phong H. Bui and Lisa
   Yuskavage for a conversation. We conclude with a poetry reading by Neeli
   Cherkovski.
 people:
