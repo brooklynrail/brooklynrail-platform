@@ -2,15 +2,11 @@
 name: Zach Savich
 first_name: Zach
 last_name: Savich
-short_bio: Writer **Zach Savich** is the author of six books of poetry,
-  including _​Daybed,_ and two books of prose, including ​_Diving Makes the
-  Water Deep._ His work has received the Iowa Poetry Prize, the Colorado Prize
-  for Poetry, the CSU Poetry Center's Open Award, and Omnidawn's Chapbook Prize.
-  He has taught creative writing and literature courses at Victoria University
-  in Wellington, New Zealand; the University of Washington's Creative Writing
-  Seminar in Rome; the University of Iowa; the University of Massachusetts,
-  Amherst; the Iowa Summer Writers Festival; and Shippensburg University. Since
-  2013, he has taught at the University of the Arts, in Philadelphia.
+short_bio: Poet **Zach Savich** is the author of eight books of poetry and
+  prose, including the poetry collection _Daybed_ (Black Ocean, 2018) and the
+  memoir _Diving Makes the Water Deep_ (Rescue Press, 2016). He teaches at the
+  Cleveland Institute of Art.
 portraits:
   - media: 2022/03/zach-savich
+website: http://www.zachsavich.com/
 ---
