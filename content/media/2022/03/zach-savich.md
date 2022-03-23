@@ -1,6 +1,6 @@
 ---
-media: /media/files/zach-savich-2-.jpg
+media: /media/files/zach-savich_portrait.jpg
 title: Zach Savich
-alt: Photo of Zach Savich
+alt: Portrait of poet Zach Savich.
 date: 2022-03-17T17:00:00-0500
 ---
