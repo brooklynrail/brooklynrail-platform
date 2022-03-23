@@ -1,7 +1,6 @@
 ---
-media: /media/files/rona-pondick.jpeg
+media: /media/files/01-crop-for-brooklyn-rail_rona-pondick-in-the-studio-2020_img_2799.jpeg
 title: Rona Pondick
-alt: Drawing of artist Rona Pondick by Phong H. Bui
-caption: Portrait by Phong H. Bui
-date: 2022-03-22T17:41:00-0500
+alt: Photo of Rona Pondick
+date: 2022-03-23T11:31:00-0500
 ---
