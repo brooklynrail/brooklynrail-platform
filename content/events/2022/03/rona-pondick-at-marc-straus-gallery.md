@@ -1,7 +1,7 @@
 ---
 title: Rona Pondick at Marc Straus Gallery
 deck: Featuring Pondick and Jessica Holmes
-summary: Artist Rona Pondic joins Rail ArTonic editor Jessica Holmes for a
+summary: Artist Rona Pondick joins Rail ArTonic editor Jessica Holmes for a
   conversation. We conclude with a poetry reading.
 people:
   - person: rona-pondick
@@ -18,3 +18,4 @@ event_producer:
 event_platform:
   - zoom
 ---
+[Visit Rona Pondick, on view at Marc Straus Gallery through April 26, 2022 →](https://www.marcstraus.com/exhibitions/rona-pondick-2022/)
