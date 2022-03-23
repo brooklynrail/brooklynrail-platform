@@ -19,4 +19,4 @@ event_producer:
 event_platform:
   - zoom
 ---
-[Visit *ART/WORK: How the Government-Funded CETA Jobs Program Put Artists to Work,* on viewat City Lore through March 31 →](https://citylore.org/events/art-work-how-the-government-funded-ceta-jobs-program-put-artists-to-work/)
+[Visit *ART/WORK: How the Government-Funded CETA Jobs Program Put Artists to Work,* on view at City Lore through March 31 →](https://citylore.org/events/art-work-how-the-government-funded-ceta-jobs-program-put-artists-to-work/)
