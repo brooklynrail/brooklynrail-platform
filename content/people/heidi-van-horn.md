@@ -13,7 +13,7 @@ short_bio: "**Heidi Van Horn** is a poet who takes lots of photographs. Her
   focusing on collaborative projects. Her first title, _All of It, Tinged_
   (2020), features photographer Asako Shimazaki and writer Diana Fisher. "
 portraits:
-  - media: 2022/03/heidi-van-horn
+  - media: 2022/03/heidi-van-horn-1
 website: http://www.hvanhorn.com/
 instagram: heidivanhorn
 ---
