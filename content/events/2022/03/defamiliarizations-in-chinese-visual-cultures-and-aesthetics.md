@@ -10,8 +10,8 @@ people:
   - person: paul-gladston
 poets:
   - person: jennifer-s-cheng
-date: 2022-03-28T20:00:00-0500
-end_date: 2022-03-28T21:30:00-0500
+date: 2022-03-28T18:00:00-0500
+end_date: 2022-03-28T19:30:00-0500
 series: 525
 collections:
   - the-new-social-environment
