@@ -3,8 +3,8 @@ name: Molly Garfinkel
 first_name: Molly
 last_name: Garfinkel
 pronouns: she/her
-short_bio: Serving as  Managing Director of City Lore and the Director of City
-  Lore’s Place Matters program, **Molly Garfinkel** leads initiatives related to
+short_bio: Serving as Co-Director of City Lore and the Director of City Lore’s
+  Place Matters program, **Molly Garfinkel** leads initiatives related to
   cultural resource management, historic preservation, public history,
   exhibition curation, public education, and traditional arts presentation. Her
   research explores Western and non-Western building traditions, theories of
