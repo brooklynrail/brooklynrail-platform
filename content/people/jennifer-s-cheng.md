@@ -3,16 +3,15 @@ name: Jennifer S. Cheng
 first_name: Jennifer
 last_name: Cheng
 pronouns: she/her
-short_bio: "Poet **Jennifer S. Cheng** is the author of _MOON: Letters, Maps,
-  Poems_, selected by Bhanu Kapil as winner of the Tarpaulin Sky Book Prize and
-  named a “Best Book of 2018” by Publishers Weekly and Entropy magazine; _House
-  A_, selected by Claudia Rankine as winner of the Omnidawn Poetry Book Prize;
-  and _Invocation: An Essay_, an image-text chapbook. She is the recipient of
-  many awards, including 2019 National Endowment for the Arts Fellow, U.S.
-  Fulbright scholar, and Kundiman fellow. Her poetry, lyric essays, and
-  image-text work appear in _Tin House_, _AGNI_, _Conjunctions_, and many other
-  publications.Having grown up in Texas, Hong Kong, and Connecticut, she
-  currently lives in rapture of the coastal prairies of northern California."
+short_bio: "**Jennifer S. Cheng**’s work includes poetry, lyric essay, and
+  image-text forms exploring immigrant home-building, shadow poetics, and the
+  feminine monstrous. She is the author of _MOON: LETTERS, MAPS, POEMS_ (2018),
+  named a _Publishers Weekly_ “Best Book of 2018” and _HOUSE A_ (2016), selected
+  by Claudia Rankine for the Omnidawn Poetry Prize. She received awards and
+  fellowships from Brown University, the University of Iowa, the National
+  Endowment for the Arts, the U.S. Fulbright program, Kundiman, MacDowell, Bread
+  Loaf, and the Academy of American Poets. Having grown up in Texas and Hong
+  Kong, she lives in San Francisco."
 portraits:
   - media: 2022/03/jennifer-s-cheng
 website: https://www.jenniferscheng.com/
