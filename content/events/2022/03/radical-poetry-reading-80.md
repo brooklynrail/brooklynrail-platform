@@ -1,6 +1,6 @@
 ---
-title: "Radical Poetry Reading #80"
-deck: Featuring Shiv Kotecha and friends
+title: Radical Poetry Reading with Shiv Kotecha
+deck: Featuring Kotecha and friends
 summary: Shiv Kotecha curates the 80th Radical Poetry Reading.
 people:
   - person: shiv-kotecha-1
@@ -12,6 +12,8 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: recvk4NdUFZVAelPj
 event_platform:
   - zoom
 ---
+*More participants to be announced*.
