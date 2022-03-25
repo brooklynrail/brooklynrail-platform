@@ -26,4 +26,4 @@ event_platform:
 ---
 *More details to be announced*. 
 
-[Read Matt's poetry published in the Rail →](https://brooklynrail.org/contributor/matthew-henriksen)
+[Read Matt's poetry published in the *Rail* →](https://brooklynrail.org/contributor/matthew-henriksen)
