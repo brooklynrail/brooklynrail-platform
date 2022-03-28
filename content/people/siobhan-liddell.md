@@ -9,4 +9,6 @@ short_bio: "Siobhan Liddell (born in England, lives in New York) is a painter
   in Leeds, England, at the UCLA Hammer Museum in Los Angeles, C.C. A.
   Itakyushu, Japan and in the Whitney Biennial. She is the recipient of the Joan
   Mitchell Foundation Award the Rome Prize: Vera List Fellowship 2011-12."
+portraits:
+  - media: 2022/03/siobhan-liddell
 ---
