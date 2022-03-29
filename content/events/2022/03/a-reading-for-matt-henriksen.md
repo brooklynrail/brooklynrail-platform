@@ -1,7 +1,7 @@
 ---
 title: A Reading for Matt Henriksen
 deck: Featuring Dot Devota, Forrest Gander, Mathias Svalina, Amish Trivedi,
-  Dustin Williamson, Anselm Berrigan, and friends
+  Charles Valle, Dustin Williamson, and Anselm Berrigan.
 summary: "Join us for a poetry reading in tribute to Matt Henriksen, hosted by
   Rail Poetry Editor Anselm Berrigan. "
 people:
@@ -11,6 +11,7 @@ people:
   - person: amish-trivedi
   - person: dustin-williamson
   - person: anselm-berrigan
+  - person: charles-valle-1
 date: 2022-03-30T13:00:00-0500
 end_date: 2022-03-30T14:30:00-0500
 series: 527
