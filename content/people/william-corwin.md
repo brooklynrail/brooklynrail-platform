@@ -14,4 +14,5 @@ short_bio: "Sculptor and journalist **William Corwin** is from New York. He has
   (2020). "
 portraits:
   - media: 2022/03/william-corwin
+instagram: william_corwin
 ---
