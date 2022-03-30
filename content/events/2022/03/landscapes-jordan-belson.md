@@ -13,7 +13,7 @@ people:
   - person: lyle-rexer
 date: 2022-04-08T13:00:00-0500
 end_date: 2022-04-08T14:30:00-0500
-series: 534
+series: 533
 collections:
   - the-new-social-environment
 event_organizer:
