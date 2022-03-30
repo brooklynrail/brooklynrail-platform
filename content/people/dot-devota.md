@@ -2,14 +2,17 @@
 name: Dot Devota
 first_name: Dot
 last_name: Devota
-short_bio: "Dot Devota is the author of _The Division of Labor_ (Rescue Press,
-  2015), _And The Girls Worried Terribly_ (Noemi Press, 2014), and _The Eternal
-  Wall_ (BookThug, 2013). Born in St. Louis, Missouri, she writes prose about
-  the Midwest and has traveled full-time since 2010. Excerpts from her book,
-  _MW: A Field Guide to the Midwest (Pages from a Diary Never Written)_ are
-  published in _PEN America_, _The Offing_, _Fanzine_, _Entropy_, _Make
-  Magazine_, _Denver Quarterly_, and _The Volta_. Her poems have been translated
-  into Arabic and French and appear on walls."
+short_bio: "**Dot Devota** writes poems and essays about pre-sickness,
+  sensations in the phenomenon of \"falling ill,\" and post-viral, chronic and
+  mysterious illness in individual, societal, and environmental body-scapes. Her
+  books include _PMS: A Journal In Verse and The Division of Labor_ (Rescue
+  Press), _And The Girls Worried Terribly_ (Noemi Press), _The Eternal Wall_
+  (Cannibal Books, re-issued by Book*hug), and _Dept. of Posthumous Letters_
+  (Argos Books). Excerpts from her nonfiction novel, _MW: A Field Guide to the
+  Midwest_, are published in _PEN America_, and _Denver Quarterly_, among other
+  places. _>SHE_ is her recent prose manuscript that the author dubs
+  autoimmunefiction. Devota's _Wall Poems_ are large-scale calligraphic
+  installations which have exhibited nationally at museums and galleries."
 portraits:
   - media: 2022/03/dot-devota
 twitter: meadowasylum
