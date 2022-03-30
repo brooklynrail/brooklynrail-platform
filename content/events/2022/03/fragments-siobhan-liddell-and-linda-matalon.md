@@ -2,7 +2,7 @@
 title: "Fragments: Siobhan Liddell and Linda Matalon"
 deck: Featuring Siobhan Liddell, Linda Matalon, Ksenia M. Soboleva, and William
   Corwin
-summary: Artists Siobhan Liddell, Linda Matalond, and art critic Ksenia M.
+summary: Artists Siobhan Liddell, Linda Matalon, and art critic Ksenia M.
   Soboleva join Rail contributor William Corwin for a conversation. We conclude
   with a poetry reading.
 people:
