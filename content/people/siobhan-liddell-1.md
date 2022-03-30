@@ -11,7 +11,7 @@ short_bio: "The work of painter and sculptor **Siobhan Liddell** deals with the
   poetic use of text. Liddell’s work has been shown in renowned institutions
   around the world, including the 1995 Whitney Biennial. She is the recipient of
   the Joan Mitchell Foundation Award and the recipient of the Rome Prize: Vera
-  List Fellowship 2011-12."
+  List Fellowship 2011-12. She is represented by Gordon Robichaux."
 portraits:
   - media: 2022/03/siobhan-liddell-1
 instagram: siolidsolid
