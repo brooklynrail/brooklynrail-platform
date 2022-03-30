@@ -18,7 +18,8 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: recXDgjExFz3qbUcx
 event_platform:
   - zoom
 ---
-[Visit *Cabeza de Vaca: Walton Ford*, on view at Gagosian through April 23, 2022](<https://gagosian.com/exhibitions/2022/walton-ford/)>) →
+[Visit *Cabeza de Vaca: Walton Ford*, on view at Gagosian through April 23, 2022 →](https://gagosian.com/exhibitions/2022/walton-ford/)
