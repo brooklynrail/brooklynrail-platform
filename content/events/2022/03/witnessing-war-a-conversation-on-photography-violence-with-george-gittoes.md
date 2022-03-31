@@ -1,7 +1,7 @@
 ---
 title: "Witnessing War: A Conversation on Photography & Violence with George Gittoes"
 deck: Featuring Gittoes, David Levi Strauss, and Phong H. Bui
-summary: Artist George Gittoes joins Rail consulting editor David Levi Strauss
+summary: Artist George Gittoes joins Rail Consulting Editor David Levi Strauss
   for a conversation, with an introduction by Phong H. Bui. We conclude with a
   poetry reading.
 people:
@@ -14,7 +14,8 @@ people:
 date: 2022-04-07T13:00:00-0500
 end_date: 2022-04-07T14:30:00-0500
 series: ""
-collections: []
+collections:
+  - common-ground
 event_organizer:
   - the-brooklyn-rail
 event_producer:
