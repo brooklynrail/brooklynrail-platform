@@ -1,9 +1,8 @@
 ---
 title: "Landscapes: Jordan Belson"
 deck: Featuring Henry Kaiser, Raymond Foye, and Lyle Rexer
-summary: Musician Henry Kaiser and Rail contributing editor Raymond Foye join
-  Rail contributor Lyle Rexer for a conversation. We conclude with a poetry
-  reading.
+summary: Musician Henry Kaiser and Rail Consulting Editor Raymond Foye join Rail
+  contributor Lyle Rexer for a conversation. We conclude with a poetry reading.
 people:
   - person: henry-kaiser
     related_links:
