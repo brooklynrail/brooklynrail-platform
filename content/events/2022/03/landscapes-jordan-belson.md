@@ -11,6 +11,8 @@ people:
         url: https://henrykaiser.bandcamp.com/
   - person: raymond-foye
   - person: lyle-rexer
+poets:
+  - person: eric-baus
 date: 2022-04-08T13:00:00-0500
 end_date: 2022-04-08T14:30:00-0500
 series: 533
