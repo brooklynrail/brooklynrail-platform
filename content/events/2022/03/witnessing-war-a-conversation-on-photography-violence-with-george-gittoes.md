@@ -9,7 +9,7 @@ people:
   - person: george-gittoes
     related_links:
       - url: https://brooklynrail.org/2010/07/art/george-gittoes-with-david-levi-strauss
-        text: The Rail's interview of George Gittoes by David Levi Strauss
+        text: George Gittoes in conversation with David Levi Strauss
   - person: phong-h-bui
 date: 2022-04-07T13:00:00-0500
 end_date: 2022-04-07T14:30:00-0500
