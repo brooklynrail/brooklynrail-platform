@@ -7,4 +7,5 @@ short_bio: "is a novelist, the author of _Darryl_ (Clash, 2021), which is her
   her for now. "
 portraits:
   - media: 2021/03/jackie-ess
+twitter: "@jackie_ess"
 ---
