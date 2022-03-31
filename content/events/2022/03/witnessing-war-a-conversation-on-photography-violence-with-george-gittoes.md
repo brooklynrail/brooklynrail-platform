@@ -13,13 +13,13 @@ people:
   - person: phong-h-bui
 date: 2022-04-07T13:00:00-0500
 end_date: 2022-04-07T14:30:00-0500
-series: 533
-collections:
-  - the-new-social-environment
+series: ""
+collections: []
 event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: recxTwhNfvWNIGEgF
 event_platform:
   - zoom
 ---
