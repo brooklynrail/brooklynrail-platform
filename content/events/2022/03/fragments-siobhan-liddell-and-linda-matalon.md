@@ -11,6 +11,8 @@ people:
   - person: linda-matalon
   - person: ksenia-m-soboleva
   - person: william-corwin
+poets:
+  - person: tyhe-cooper
 date: 2022-04-04T13:00:00-0500
 end_date: 2022-04-04T14:30:00-0500
 series: 530
