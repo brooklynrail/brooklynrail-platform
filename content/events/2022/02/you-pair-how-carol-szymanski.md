@@ -5,14 +5,9 @@ summary: Artist Carol Szymanski joins Rail Artseen Editor Amanda Gluibizzi for a
   converastion. We conclude with a poetry reading by S. David.
 people:
   - person: carol-szymanski
-    related_links:
-      - url: https://www.imnotart.com/souvenir
-        text: Souvenir by Brendan Fernandes
+    related_links: []
   - person: amanda-gluibizzi
-    related_links:
-      - url: https://www.dreadscott.net/portfolio_page/white-male-for-sale/
-        text: White Male for Sale (2021)
-  - person: charlotte-kent
+    related_links: []
 poets:
   - person: s-david
 date: 2022-02-25T13:00:00-0500
