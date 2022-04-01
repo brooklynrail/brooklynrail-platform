@@ -9,6 +9,8 @@ people:
       - url: https://gagosian.com/artists/walton-ford/
         text: Walton Ford
   - person: jason-rosenfeld
+poets:
+  - person: lee-ann-brown
 date: 2022-04-05T13:00:00-0500
 end_date: 2022-04-05T14:30:00-0500
 series: 531
