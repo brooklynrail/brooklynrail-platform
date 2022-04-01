@@ -1,5 +1,5 @@
 ---
-media: /media/files/violet-spurlock.webp
+media: /media/files/author-photo-1.jpg
 title: Violet Spurlock
 alt: "Black and white photo of [Violet Spurlock] among bushes holding a Berkeley
   Bowl shopping bag. "
