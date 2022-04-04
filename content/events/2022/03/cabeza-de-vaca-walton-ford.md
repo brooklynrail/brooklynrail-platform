@@ -16,6 +16,8 @@ end_date: 2022-04-05T14:30:00-0500
 series: 531
 collections:
   - the-new-social-environment
+event_sponsor:
+  - gagosian
 event_organizer:
   - the-brooklyn-rail
 event_producer:
