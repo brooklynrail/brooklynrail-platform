@@ -3,8 +3,8 @@ title: "Out of Exile: The Photography of Fred Stein"
 deck: In-person screenings at Rosenberg & Co.
 summary: "Join Rosenberg & Co. for a screening of the documentary Out of Exile:
   The Photography of Fred Stein."
-date: 2022-04-02T16:00:00-0500
-end_date: 2022-04-02T18:00:00-0500
+date: 2022-04-06T18:00:00-0500
+end_date: 2022-04-06T19:30:00-0500
 collections:
   - community-listing
 event_organizer: []
