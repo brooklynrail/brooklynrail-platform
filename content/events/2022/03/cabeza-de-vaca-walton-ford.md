@@ -5,9 +5,7 @@ summary: Artist Walton Ford joins Rail Editor-at-Large Jason Rosenfeld for a
   conversation. We conclude with a poetry reading.
 people:
   - person: walton-ford
-    related_links:
-      - url: https://gagosian.com/artists/walton-ford/
-        text: Walton Ford
+    related_links: []
   - person: jason-rosenfeld
 poets:
   - person: lee-ann-brown
