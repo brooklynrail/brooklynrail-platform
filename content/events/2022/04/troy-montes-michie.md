@@ -1,7 +1,7 @@
 ---
-title: Troy Montes-Michie
-deck: Featuring Montes-Michie, Andrea Andersson, and Zoë Hopkins
-summary: Artist Troy Montes-Michie joins curator and author Andrea Andersson and
+title: Troy Montes Michie
+deck: Featuring Montes Michie, Andrea Andersson, and Zoë Hopkins
+summary: Artist Troy Montes Michie joins curator and author Andrea Andersson and
   Rail contributor Zoë Hopkins for a conversation. We conclude with a poetry
   reading.
 people:
@@ -20,6 +20,6 @@ event_producer:
 event_platform:
   - zoom
 ---
-[Visit *Dishwater Holds No Images: Troy Montes-Michie*, on view at Company through April 23, 2022 →](https://companygallery.us/exhibitions/dishwater-holds-no-images/)
+[Visit *Dishwater Holds No Images: Troy Montes Michie*, on view at Company through April 23, 2022 →](https://companygallery.us/exhibitions/dishwater-holds-no-images/)
 
-[Visit *Rock of Eye: Troy Montes-Michie*, on view at California African American Museum through September 4, 2022 →](https://caamuseum.org/exhibitions/2022/troy-montes-michie-rock-of-eye)
+[Visit *Rock of Eye: Troy Montes Michie*, on view at California African American Museum through September 4, 2022 →](https://caamuseum.org/exhibitions/2022/troy-montes-michie-rock-of-eye)
