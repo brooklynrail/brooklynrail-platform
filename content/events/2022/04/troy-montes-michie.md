@@ -1,7 +1,7 @@
 ---
-title: Troy Montes Michie
-deck: Featuring Montes Michie, Andrea Andersson, and Zoë Hopkins
-summary: Artist Troy Montes Michie joins curator and author Andrea Andersson and
+title: Troy Montes-Michie
+deck: Featuring Montes-Michie, Andrea Andersson, and Zoë Hopkins
+summary: Artist Troy Montes-Michie joins curator and author Andrea Andersson and
   Rail contributor Zoë Hopkins for a conversation. We conclude with a poetry
   reading.
 people:
@@ -17,6 +17,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: recv87ajMkVZDNSBJ
 event_platform:
   - zoom
 ---
