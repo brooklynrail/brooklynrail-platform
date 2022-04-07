@@ -10,8 +10,8 @@ people:
   - person: tenaya-nasser-frederick
   - person: rachelle-rahme
   - person: simon-pettet
-date: 2022-04-12T13:00:00-0500
-end_date: 2022-04-07T14:30:00-0500
+date: 2022-04-13T13:00:00-0500
+end_date: 2022-04-13T14:30:00-0500
 series: 537
 collections:
   - the-new-social-environment
