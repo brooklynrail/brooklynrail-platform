@@ -11,5 +11,7 @@ short_bio: Born in Owensboro, Kentucky, **Brenda Coultas** graduated from the
   fellowship and residencies from the Lower Manhattan Cultural Council, the
   Emily Harvey Foundation in Venice, Italy, and the Millay Colony for the Arts.
   She teaches at Touro College and lives in New York City.
+portraits:
+  - media: 2022/04/brenda-coultas
 rail_contributor_url: https://brooklynrail.org/contributor/brenda-coultas
 ---
