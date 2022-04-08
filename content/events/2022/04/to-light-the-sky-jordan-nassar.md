@@ -1,5 +1,5 @@
 ---
-title: "To Light The Sky: Jordan Nassar"
+title: "To Light the Sky: Jordan Nassar"
 deck: Featuring Nassar and Dan Cameron
 summary: Artist Jordan Nassar joins Rail Editor-at-Large Dan Cameron for a
   conversation. We conclude with a poetry reading by Elizabeth Robinson.
