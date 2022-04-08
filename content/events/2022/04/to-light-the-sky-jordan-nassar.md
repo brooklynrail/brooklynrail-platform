@@ -21,4 +21,4 @@ event_id: recFgcS5zSrdMn6Ng
 event_platform:
   - zoom
 ---
-[Visit *To Light The Sky: Jordan Nassar* on view at James Cohan through May 7, 2022 ](https://www.jamescohan.com/exhibitions/jordan-nassar2)[→](https://matthewmarks.com/online/jordan-belson)
+[Visit *Jordan Nassar: To Light The Sky,* on view at James Cohan through May 7, 2022 ](https://www.jamescohan.com/exhibitions/jordan-nassar2)[→](https://matthewmarks.com/online/jordan-belson)
