@@ -23,6 +23,6 @@ event_id: recv87ajMkVZDNSBJ
 event_platform:
   - zoom
 ---
-[Visit *Dishwater Holds No Images: Troy Montes Michie*, on view at Company through April 23, 2022 →](https://companygallery.us/exhibitions/dishwater-holds-no-images/)
+[Visit *Troy Montes-Michie: Dishwater Holds No Images*](https://companygallery.us/exhibitions/dishwater-holds-no-images/)[*,* on view at Company through April 23, 2022 →](https://companygallery.us/exhibitions/dishwater-holds-no-images/)
 
-[Visit *Rock of Eye: Troy Montes Michie*, on view at California African American Museum through September 4, 2022 →](https://caamuseum.org/exhibitions/2022/troy-montes-michie-rock-of-eye)
+[Visit *Troy Montes-Michie:* *Rock of Eye*, on view at the California African American Museum through September 4, 2022 →](https://caamuseum.org/exhibitions/2022/troy-montes-michie-rock-of-eye)
