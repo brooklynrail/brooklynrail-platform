@@ -1,5 +1,5 @@
 ---
-title: Troy Montes-Michie
+title: "Hung Out to Dry: Troy Montes-Michie"
 deck: Featuring Montes-Michie, Andrea Andersson, and Zoë Hopkins
 summary: Artist Troy Montes-Michie joins curator and author Andrea Andersson and
   Rail contributor Zoë Hopkins for a conversation. We conclude with a poetry
