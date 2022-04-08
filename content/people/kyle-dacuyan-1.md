@@ -3,11 +3,11 @@ name: Kyle Dacuyan
 first_name: Kyle
 last_name: Dacuyan
 short_bio: Poet, performer, and translator **Kyle Dacuyan** is the author of
-  Incitements_ (Ugly Duckling Presse, 2022). His poems appear in _The Brooklyn
+  _Incitements_ (Ugly Duckling Presse, 2022). His poems appear in the _Brooklyn
   Rail_, _DIAGRAM_, _Lambda Literary_, _Best New Poets_, among other places. He
   is the recipient of scholarships from Poets House, the Bread Loaf Writers’
   Conference, Sewanee Writers’ Conference, and the Academy of American Poets,
-  and is a 2021 NEA Fellow in Literature.  Dacuyan is the Executive Director of
+  and is a 2021 NEA Fellow in Literature. Dacuyan is the Executive Director of
   The Poetry Project at St. Mark's and lives in New York City.
 portraits:
   - media: 2022/04/kyle-dacuyan
