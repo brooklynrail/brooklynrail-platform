@@ -10,6 +10,8 @@ people:
   - person: james-drougas
   - person: amanda-millet-sorsa
   - person: ann-c-collins
+poets:
+  - person: dawn-landes
 date: 2022-04-14T13:00:00-0500
 end_date: 2022-04-14T14:30:00-0500
 collections:
