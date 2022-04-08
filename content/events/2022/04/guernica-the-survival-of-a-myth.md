@@ -24,3 +24,6 @@ event_id: recwoFSeVMkAHevqE
 event_platform:
   - zoom
 ---
+This conversation is the continuation of a seminar hosted at the Museo Picasso Málaga on November 18 & 19, 2021. 
+
+[You can read more details on the museum's website →](https://www.museopicassomalaga.org/en/cultural-programme/seminario-guernica-eng)
