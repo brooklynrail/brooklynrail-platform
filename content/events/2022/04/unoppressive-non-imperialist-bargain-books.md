@@ -4,7 +4,7 @@ deck: Featuring Beatriz Browne, James Drougas, Amanda Millet-Sorsa, and Ann C.
   Collins
 summary: Bookstore owner and curator James Drougas, filmmaker Beatriz Browne,
   and artist Amanda Millet-Sorsa join Rail contributor Ann C. Collins for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a musical performance by Dawn Landes.
 people:
   - person: beatriz-browne
   - person: james-drougas
@@ -22,3 +22,6 @@ event_id: recmzk4hMkw2gsRsz
 event_platform:
   - zoom
 ---
+Register to attend our live event and also receive a link and password to view Beatriz Browne's documentary *34 Carmine St.*, featuring Unoppressive Non-Imperialist Bargain Books.
+
+[More info and view trailer →](http://www.beatrizbrowne.com/films)
