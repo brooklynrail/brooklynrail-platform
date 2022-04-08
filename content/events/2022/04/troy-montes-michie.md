@@ -3,11 +3,13 @@ title: "Hung Out to Dry: Troy Montes-Michie"
 deck: Featuring Montes-Michie, Andrea Andersson, and Zoë Hopkins
 summary: Artist Troy Montes-Michie joins curator and author Andrea Andersson and
   Rail contributor Zoë Hopkins for a conversation. We conclude with a poetry
-  reading.
+  reading by Jaylen Strong.
 people:
   - person: troy-montes-michie
   - person: andrea-andersson-1
   - person: zoe-hopkins
+poets:
+  - person: jaylen-strong
 date: 2022-04-11T13:00:00-0500
 end_date: 2022-04-11T14:30:00-0500
 series: 535
