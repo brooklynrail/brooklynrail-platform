@@ -13,6 +13,8 @@ short_bio: Performance artist, singer, writer, and actor **Hellen Rose** has
   Jalalabad_ (2013), _Snow Monkey_ (2015), _White Light_ (2019), and _Haunted
   Burqa_ (2019). She is currently working with musicians in Kyiv, Ukraine as
   well as producing a documentary _Love in War_ with George Gittoes.
+portraits:
+  - media: 2022/04/hellen-rose
 website: www.hellenrose.com
 instagram: hellen_rose
 twitter: HellenRose777
