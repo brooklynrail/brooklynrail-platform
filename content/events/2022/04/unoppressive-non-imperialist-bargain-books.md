@@ -3,11 +3,13 @@ title: Unoppressive Non-Imperialist Bargain Books
 deck: Featuring Beatriz Browne, James Drougas, Amanda Millet-Sorsa, and Ann C.
   Collins
 summary: Bookstore owner and curator James Drougas, filmmaker Beatriz Browne,
-  and artist Amanda Millet-Sorsa join Rail contributor Ann C. Collins for a
-  conversation. We conclude with a musical performance by Dawn Landes.
+  curator Katharina McCarty, and artist Amanda Millet-Sorsa join Rail
+  contributor Ann C. Collins for a conversation. We conclude with a musical
+  performance by Dawn Landes.
 people:
   - person: beatriz-browne
   - person: james-drougas
+  - person: katharina-mccarty
   - person: amanda-millet-sorsa
   - person: ann-c-collins
 poets:
