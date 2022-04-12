@@ -1,11 +1,13 @@
 ---
 title: "Guernica: The Survival of a Myth"
-deck: Featuring Pepe Karmel, José Lebrero Stals, Caroline Levitt, W.J.T.
-  Mitchell, and Natalia Gierowska
-summary: Art historians and curators Pepe Karmel, José Lebrero Stals, Caroline
-  Levitt, and W.J.T. Mitchell join Rail contributor Natalia Gierowska for a
-  conversation. We conclude with a poetry reading by Sarah Heady.
+deck: Featuring Eddie Chambers, Pepe Karmel, José Lebrero Stals, Caroline
+  Levitt, W.J.T. Mitchell, and Natalia Gierowska
+summary: Art historians and curators Eddie Chambers, Pepe Karmel, José Lebrero
+  Stals, Caroline Levitt, and W.J.T. Mitchell join Rail contributor Natalia
+  Gierowska for a conversation. We conclude with a poetry reading by Sarah
+  Heady.
 people:
+  - person: eddie-chambers
   - person: pepe-karmel
   - person: jose-lebrero-stals
   - person: caroline-levitt
