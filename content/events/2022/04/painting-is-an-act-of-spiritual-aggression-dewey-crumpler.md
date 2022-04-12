@@ -7,8 +7,7 @@ people:
   - person: dewey-crumpler-1
     related_links:
       - url: https://brooklynrail.org/2021/11/art/Dewey-Crumpler-with-Constance-Lewallen
-        text: Dewey Crumpler in conversation with Constance Lewallen in The Brooklyn
-          Rail's November 2021
+        text: Dewey Crumpler in conversation with Constance Lewallen
   - person: amanda-gluibizzi
 date: 2022-04-19T13:00:00-0500
 end_date: 2022-04-19T14:30:00-0500
