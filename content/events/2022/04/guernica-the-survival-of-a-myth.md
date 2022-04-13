@@ -13,6 +13,8 @@ people:
   - person: caroline-levitt
   - person: w-j-t-mitchell
   - person: natalia-gierowska
+poets:
+  - person: sarah-heady
 date: 2022-04-15T13:00:00-0500
 end_date: 2022-04-15T14:30:00-0500
 series: 539
