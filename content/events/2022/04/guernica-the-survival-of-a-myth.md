@@ -1,17 +1,18 @@
 ---
 title: "Guernica: The Survival of a Myth"
 deck: Featuring Eddie Chambers, Pepe Karmel, José Lebrero Stals, Caroline
-  Levitt, W.J.T. Mitchell, and Natalia Gierowska
+  Levitt, W.J.T. Mitchell, Phyllis Tuchman, Natalia Gierowska
 summary: Art historians and curators Eddie Chambers, Pepe Karmel, José Lebrero
-  Stals, Caroline Levitt, and W.J.T. Mitchell join Rail contributor Natalia
-  Gierowska for a conversation. We conclude with a poetry reading by Sarah
-  Heady.
+  Stals, Caroline Levitt, W.J.T. Mitchell, and Phyllis Tuchman join Rail
+  contributor Natalia Gierowska for a conversation. We conclude with a poetry
+  reading by Sarah Heady.
 people:
   - person: eddie-chambers
   - person: pepe-karmel
   - person: jose-lebrero-stals
   - person: caroline-levitt
   - person: w-j-t-mitchell
+  - person: phyllis-tuchman
   - person: natalia-gierowska
 poets:
   - person: sarah-heady
