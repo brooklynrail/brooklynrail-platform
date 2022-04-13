@@ -29,3 +29,7 @@ event_platform:
 Register to attend our live event and also receive a link and password to view Beatriz Browne's documentary *34 Carmine St.*, featuring Unoppressive Non-Imperialist Bargain Books.
 
 [More info and view trailer →](http://www.beatrizbrowne.com/films)
+
+Also discussed in this event will be Amanda Millet-Sorsa's performance *A Game of Tarot*, an absurd five-person card playing performance using Millet-Sorsa’s tarot cards while reciting “Auguries of Innocence” by William Blake. Performance directed by Alexandra Zelman-Doring.
+
+[View the performance here →](https://vimeo.com/656700706)
