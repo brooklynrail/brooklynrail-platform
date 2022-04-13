@@ -1,9 +1,9 @@
 ---
-title: Honoring Earth Day
-deck: Featuring Nikki Giovanni and Paul D. Miller
-summary: Poet Nikki Giovanni joins writer and composer Paul D. Miller (DJ
+title: "Art, Poetry, and Climate Crisis: A Conversation with Nikki Giovanni"
+deck: Featuring Giovanni and Paul D. Miller
+summary: Poet Nikki Giovanni joins Rail Editor-at-Large Paul D. Miller (aka DJ
   Spooky) for a conversation in honor of Earth Day. We conclude with a poetry
-  reading.
+  reading by Giovanni.
 people:
   - person: nikki-giovanni
     related_links:
