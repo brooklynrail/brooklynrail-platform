@@ -2,9 +2,9 @@
 name: W.J.T. Mitchell
 first_name: W.J.T.
 last_name: Mitchell
-short_bio: "W. J. T. Mitchell is editor of the interdisciplinary journal,
-  Critical Inquiry, a quarterly devoted to critical theory in the arts and human
-  sciences. A scholar and theorist of media, visual art, and literature,
+short_bio: "W. J. T. Mitchell is Senior Editor of the interdisciplinary journal
+  _Critical Inquiry_, a quarterly devoted to critical theory in the arts and
+  human sciences. A scholar and theorist of media, visual art, and literature,
   Mitchell is associated with the emergent fields of visual culture and
   iconology (the study of images across the media). He is known especially for
   his work on the relations of visual and verbal representations in the context
@@ -14,4 +14,5 @@ short_bio: "W. J. T. Mitchell is editor of the interdisciplinary journal,
   of Chicago’s prestigious Faculty Award for Excellence in Graduate Teaching. "
 portraits:
   - media: 2021/01/w-j-t-mitchell
+rail_contributor_url: https://brooklynrail.org/contributor/WJT-Mitchell
 ---
