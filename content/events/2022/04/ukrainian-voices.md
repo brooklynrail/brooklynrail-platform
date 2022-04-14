@@ -1,8 +1,10 @@
 ---
 title: Radical Poetry Reading with Ostap Kin
-deck: Featuring Dzvinia Orlowsky, Max Rosochinsky, Liuba Yakimchuk, and friends
+deck: Featuring Ilya Kaminsky, Dzvinia Orlowsky, Max Rosochinsky, Liuba
+  Yakimchuk, and friends
 summary: Ostap Kin curates the 82nd Radical Poetry Reading featuring readings by
-  Dzvinia Orlowsky, Max Rosochinsky, Liuba Yakimchuk, and friends.
+  Ilya Kaminsky, Dzvinia Orlowsky, Max Rosochinsky, Liuba Yakimchuk, and
+  friends.
 people:
   - person: ostap-kin
 date: 2022-04-20T13:00:00-0500
@@ -18,4 +20,3 @@ event_id: recGiQbUMgHcjLOQL
 event_platform:
   - zoom
 ---
-*More participants to be announced.*
