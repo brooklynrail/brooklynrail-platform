@@ -2,10 +2,12 @@
 title: "The Forrest Bess Variations: Richard Hawkins"
 deck: Featuring Hawkins and Andrew Woolbright
 summary: Artist Richard Hawkins joins Rail contributor Andrew Woolbright for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading by Patrick Hill.
 people:
   - person: richard-hawkins
   - person: andrew-paul-woolbright
+poets:
+  - person: patrick-hill
 date: 2022-04-18T13:00:00-0500
 end_date: 2022-04-18T14:30:00-0500
 series: 540
