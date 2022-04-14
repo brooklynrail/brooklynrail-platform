@@ -8,7 +8,7 @@ people:
   - person: eleanor-heartney
 date: 2022-04-21T13:00:00-0500
 end_date: 2022-04-21T14:30:00-0500
-series: 543
+series: ""
 collections:
   - common-ground
 event_organizer:
