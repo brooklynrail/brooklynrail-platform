@@ -8,7 +8,7 @@ collections:
   - community-listing
 event_organizer: []
 event_producer:
-  - virtual-label
+  - the-association-of-international-photography-art-dealers-aipad
 registration_url: https://wl.seetickets.us/event/The-Photography-Show-presented-by-AIPAD/474804?afflky=ThePhotographyShow-Aipad
 event_platform: null
 ---
