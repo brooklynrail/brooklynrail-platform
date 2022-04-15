@@ -5,6 +5,10 @@ summary: Ostap Kin curates the 82nd Radical Poetry Reading featuring readings by
   Ilya Kaminsky, Dzvinia Orlowsky, Max Rosochinsky, and Lyuba Yakimchuk.
 people:
   - person: ostap-kin
+  - person: ilya-kaminsky
+  - person: dzvinia-orlowsky
+  - person: max-rosochinsky
+  - person: lyuba-yakimchuk
 date: 2022-04-20T13:00:00-0500
 end_date: 2022-04-20T14:30:00-0500
 series: 542
