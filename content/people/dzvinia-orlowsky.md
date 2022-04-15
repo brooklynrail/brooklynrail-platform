@@ -8,7 +8,8 @@ short_bio: "Award-winning poet, translator, and a founding editor of Four Way
   Solstice Low-Residency MFA Program in Creative Writing of Pine Manor College
   and the founder and director of _Night Riffs: A Solstice Literary Magazine
   Reading and Music Series_. She teaches at Providence College."
-portraits: []
+portraits:
+  - media: 2022/04/dzvinia-orlowsky
 website: https://dzviniaorlowsky.com
 instagram: dzvinia.orlowsky
 twitter: dzviniaorlowsky
