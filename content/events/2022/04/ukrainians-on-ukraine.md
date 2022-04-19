@@ -3,7 +3,8 @@ title: Ukrainians on Ukraine
 deck: Featuring Vasyl Cherepanyn, Oleksiy Radynski and Kateryna Ruban, and Katya
   Grokhovsky.
 summary: We thank Adriana Farmiga, Katya Grokhovsky, and Slinko for curating and
-  co-organizing this event. Please note the special time of this NSE, 12pm ET.
+  co-organizing this event, the first of a series. Please note the special time
+  of this NSE, 12pm ET.
 people:
   - person: katya-grokhovsky
   - person: vasyl-cherepanyn
