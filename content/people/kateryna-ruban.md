@@ -10,4 +10,5 @@ short_bio: "Scholar **Kateryna Ruban** is a PhD candidate in history at New York
   coming to the US, Kateryna was a part of the Visual Culture Research Center. "
 portraits:
   - media: 2022/04/kateryna-ruban
+website: https://wp.nyu.edu/katerynaruban/
 ---
