@@ -16,4 +16,5 @@ short_bio: Curator, political activist and scholar **Vasyl Cherepanyn** is head
   Biennial Alliance.
 portraits:
   - media: 2022/04/vasyl-cherepanyn
+website: https://www.project-syndicate.org/commentary/putin-worldview-defined-by-and-against-the-west-by-vasyl-cherepanyn-2022-04
 ---
