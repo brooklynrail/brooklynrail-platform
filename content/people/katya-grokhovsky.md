@@ -16,6 +16,6 @@ short_bio: Born and raised in Ukraine, **Katya Grokhovsky** is an artist,
   2017 Prize, Asylum Arts Grant, among others.
 portraits:
   - media: 2022/04/katya-grokhovsky
-website: "https://www.katyagrokhovsky.net "
+website: "https://www.katyagrokhovsky.net"
 instagram: katyagrokhovsky
 ---
