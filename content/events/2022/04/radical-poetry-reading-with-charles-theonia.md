@@ -5,13 +5,11 @@ summary: Charles Theonia hosts the 83rd Radical Poetry Reading Featuring
   Nazareth Hassan, Derica Shields, Oki Sogumi,  Nora Treatbaby
 people:
   - person: charles-theonia-1
-poets:
   - person: nazareth-hassan
-    related_links: []
   - person: derica-shields
   - person: oki-sogumi
   - person: nora-treatbaby
-    related_links: []
+poets: []
 date: 2022-04-27T13:00:00-0500
 end_date: 2022-04-27T14:30:00-0500
 collections:
