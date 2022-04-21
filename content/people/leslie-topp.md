@@ -14,4 +14,6 @@ short_bio: Scholar **Leslie Topp** is Professor of Architectural History in the
   Steering Committee.
 portraits:
   - media: 2022/02/leslie-topp
+website: https://www.bbk.ac.uk/our-staff/profile/8007083/leslie-topp
+twitter: LeslieTopp
 ---
