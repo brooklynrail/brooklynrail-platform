@@ -29,3 +29,5 @@ event_platform:
   - zoom
 ---
 [Visit *Hearing the Brush: The Painting and Poetry of Warren and Jane Rohrer*, on view at Woodmere Art Museum through July 10, 2022 **→**](https://woodmereartmuseum.org/experience/exhibitions/hearing-the-brush-the-painting-and-poetry-of-warren-and-jane-rohrer)
+
+[Visit *Warren Rohrer*, on view at Locks Gallery through May 12, 2022 →](https://www.locksgallery.com/exhibitions/warren-rohrer19)
