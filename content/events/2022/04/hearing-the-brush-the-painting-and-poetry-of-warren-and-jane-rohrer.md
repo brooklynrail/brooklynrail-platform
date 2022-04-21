@@ -15,7 +15,7 @@ people:
   - person: william-valerio
   - person: phong-h-bui
 date: 2022-04-29T13:00:00-0500
-end_date: 2022-04-20T14:30:00-0500
+end_date: 2022-04-29T14:30:00-0500
 series: 549
 collections:
   - the-new-social-environment
