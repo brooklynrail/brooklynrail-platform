@@ -8,6 +8,8 @@ people:
     related_links: []
   - person: meiqin-wang
   - person: paul-gladston
+poets:
+  - person: emily-lee-luan
 date: 2022-04-25T20:00:00-0500
 end_date: 2022-04-25T21:30:00-0500
 series: 545
