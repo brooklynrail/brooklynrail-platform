@@ -16,4 +16,5 @@ short_bio: "Kyiv- based filmmaker and writer based, **Oleksiy Radynski**’s
   Being_ (Archive Books, 2019), and _e-flux journal._"
 portraits:
   - media: 2022/04/oleksiy-radynski
+website: https://www.e-flux.com/journal/125/453868/the-case-against-the-russian-federation/
 ---
