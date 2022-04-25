@@ -11,6 +11,8 @@ short_bio: Artist **Annabeth Marks** received her MFA in painting from the
   White Columns, New York. Her work has been included in institutional group
   exhibitions at the Whitney Museum of American Art and MoMa PS1, both in New
   York, and the Rhode Island School of Design Museum, Providence, RI.
+portraits:
+  - media: 2022/04/annabeth-marks
 website: https://www.annabethmarks.info/
 instagram: annabeth_marks
 ---
