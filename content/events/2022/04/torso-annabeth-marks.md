@@ -2,10 +2,12 @@
 title: "TORSO: Annabeth Marks"
 deck: Featuring Marks and David Rhodes
 summary: Artist Annabeth Marks joins Rail Editor-at-Large David Rhodes for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading by Anna Gurton-Wachter.
 people:
   - person: annabeth-marks
   - person: david-rhodes
+poets:
+  - person: anna-gurton-wachter
 date: 2022-04-26T13:00:00-0500
 end_date: 2022-04-26T14:30:00-0500
 series: 546
