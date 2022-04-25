@@ -2,7 +2,8 @@
 title: Realisms in Chinese Visual Cultures and Aesthetics
 deck: Featuring Carol Yinghua Lu, Meiqin Wang, and Paul Gladston
 summary: Curator Carol Yinghua Lu and scholar Meiqin Wang join Rail contributor
-  Paul Gladston for a conversation. We conclude with a poetry reading.
+  Paul Gladston for a conversation. We conclude with a poetry reading by Emily
+  Lee Luan.
 people:
   - person: carol-yinghua-lu
     related_links: []
