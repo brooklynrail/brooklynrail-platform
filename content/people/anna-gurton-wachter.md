@@ -13,4 +13,5 @@ portraits:
   - media: 2021/07/anna-gurton-wachter
 rail_contributor_url: https://brooklynrail.org/contributor/anna-gurton-wachter
 website: http://annagw.com/
+instagram: anna.as.metaphor
 ---
