@@ -13,5 +13,5 @@ short_bio: Born in Ukraine, Slinko is a multidisciplinary artist living in the
 portraits:
   - media: 2022/04/slinko
 website: https://www.studioslinko.com
-instagram: "@slinkogram"
+instagram: slinkogram
 ---
