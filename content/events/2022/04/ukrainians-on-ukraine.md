@@ -11,6 +11,7 @@ people:
   - person: adriana-farmiga
   - person: oleksiy-radynski
   - person: kateryna-ruban
+  - person: slinko
 date: 2022-04-28T12:00:00-0500
 end_date: 2022-04-28T13:30:00-0500
 series: ""
