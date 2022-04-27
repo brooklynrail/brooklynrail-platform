@@ -2,9 +2,10 @@
 title: "Hearing the Brush: The Painting and Poetry of Warren and Jane Rohrer"
 deck: Featuring Christopher Campbell, David Carrier, Nancy Locke, Sueyun Locks,
   Carter Ratcliff, Christopher Reed, William Valerio, and Phong H. Bui
-summary: "Art history scholars Christopher Campbell, David Carrier, Nancy Locke,
+summary: Art history scholars Christopher Campbell, David Carrier, Nancy Locke,
   Sueyun Locks, Carter Ratcliff, Christopher Reed, and William Valerio join
-  Phong H. Bui for a conversation. We conclude with a poetry reading. "
+  Phong H. Bui for a conversation. We conclude with a poetry reading by Louise
+  Akers.
 people:
   - person: christopher-campbell
   - person: david-carrier
@@ -14,6 +15,8 @@ people:
   - person: christopher-reed
   - person: william-valerio
   - person: phong-h-bui
+poets:
+  - person: louise-akers
 date: 2022-04-29T13:00:00-0500
 end_date: 2022-04-29T14:30:00-0500
 series: 549
