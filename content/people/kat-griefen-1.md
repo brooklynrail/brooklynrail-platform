@@ -12,7 +12,7 @@ short_bio: Art historian, educator, curator, and private dealer **Kat Griefen**
   for Feminist Art at the Brooklyn Museum; a National Committee Member of the
   Feminist Art Project; and a member of the Association of Women Art Dealers.
 portraits:
-  - media: 2022/04/kat-griefen
+  - media: 2021/08/kat-griefen
 rail_contributor_url: https://brooklynrail.org/contributor/Kat-Griefen
 website: https://sps.cuny.edu/about/directory/kat.griefen
 ---
