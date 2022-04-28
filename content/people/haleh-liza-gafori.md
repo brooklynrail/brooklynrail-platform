@@ -11,4 +11,6 @@ short_bio: "**Haleh Liza Gafori** is a translator, vocalist, poet, and educator
   York Review Books/NYRB Classics, distributed by Penguin Random House."
 portraits:
   - media: 2022/02/haleh-liza-headshot
+website: https://www.halehliza.com/
+instagram: halehliza
 ---
