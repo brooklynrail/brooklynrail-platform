@@ -11,6 +11,7 @@ people:
   - person: meredith-drum
   - person: kathleen-wentrack
   - person: kat-griefen-1
+  - person: gabriella-shypula
 date: 2022-05-03T13:00:00-0500
 end_date: 2022-04-26T14:30:00-0500
 series: 551
