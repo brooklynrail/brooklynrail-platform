@@ -11,6 +11,8 @@ end_date: 2022-05-09T14:30:00-0500
 series: 555
 collections:
   - the-new-social-environment
+event_sponsor:
+  - marian-goodman-gallery
 event_organizer:
   - the-brooklyn-rail
 event_producer:
