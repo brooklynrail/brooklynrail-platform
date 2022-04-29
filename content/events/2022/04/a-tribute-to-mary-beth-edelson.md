@@ -32,3 +32,5 @@ event_platform:
   - zoom
 ---
 [Read our tribute to Mary Beth Edelson in our March 2022 issue →](https://brooklynrail.org/2021/11/in-memoriam/A-Tribute-to-Mary-Beth-Edelson)
+
+We encourage everyone to visit *[Mary Beth Edelson: A Celebration](https://www.davidlewisgallery.com/exhibitions/mary-beth-edelson-a-celebration)* on view at David Lewis Gallery through June 4, 2022. There will be an in-person tribute at the gallery, RSVP to attend: [rsvp@vidoun.com](mailto:rsvp@vidoun.com)
