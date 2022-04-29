@@ -1,18 +1,18 @@
 ---
 title: A Tribute to Mary Beth Edelson
-deck: Elaine Angelopoulos, Susan Bee, Christen Clifford, Meredith Drum, Roxana
-  Fabius, Donna Kessinger, Joyce Kozloff, Lucy Lippard, Alice Neel, Janet Olivia
-  Henry, Gabriella Shypula, Alicia Smith, Jillian Steinhauer, Kathleen Wentrack,
-  and Kat Griefen
-summary: Elaine Angelopoulos, Susan Bee, Christen Clifford, Meredith Drum, Donna
-  Kessinger, Alice Neel, Gabriella Shypula, Kathleen Wentrack, and Kat Griefen
-  join us for a tribute to Mary Beth Edelson, with contributions from the
-  tribute featured in our November 2021 issue.
+deck: ""
+summary: Featuring speakers Elaine Angelopoulos, Susan Bee, Christen Clifford,
+  Meredith Drum, Donna Kessinger, Dena Muller, Guerrilla Girl Alice Neel,
+  Gabriella Shypula, Kathleen Wentrack, and Kat Griefen; with contributions by
+  Roxana Fabius, Joyce Kozloff, Lucy Lippard, Janet Olivia Henry, Alicia Smith,
+  Jillian Steinhauer, and with a concluding reading by Kay Turner.
 people:
   - person: susan-bee
   - person: christen-clifford
   - person: meredith-drum
   - person: donna-kessinger
+  - person: dena-muller
+  - person: alice-neel
   - person: gabriella-shypula
   - person: kathleen-wentrack
   - person: kat-griefen-1
