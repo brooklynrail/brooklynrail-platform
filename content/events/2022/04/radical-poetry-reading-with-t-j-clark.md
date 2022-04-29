@@ -1,9 +1,9 @@
 ---
 title: Radical Poetry Reading with T.J. Clark
 deck: Featuring Clark, Joachim Pissarro, Lytle Shaw, and Mia You
-summary: T.J. Clark joins our 84th Radical Poetry Reading, featuring readings of
-  Clark's poems by Lytle Shaw and Mia You, and with an introduction by Rail
-  Consulting Editor Joachim Pissarro.
+summary: T.J. Clark joins our 84th Radical Poetry Reading, featuring readings by
+  Lytle Shaw and Mia You, and with an introduction by Rail Consulting Editor
+  Joachim Pissarro.
 people:
   - person: t-j-clark
   - person: lytle-shaw
