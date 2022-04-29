@@ -1,11 +1,13 @@
 ---
 title: The Center For Book Arts & Living Archives
-deck: Featuring Shahar Kramer, Anthony Tino, and Megan Liberty
-summary: Artist Shahar Kramer and curator Anthony Tino join Rail Art Books
-  Editor Megan N. Liberty for a conversation. We conclude with a poetry reading.
+deck: Featuring Shahar Kramer, Camilo Otero, Anthony Tino, and Megan Liberty
+summary: Curators Shahar Kramer and Anthony Tino and Artist Programs Manager at
+  the Center for Book Arts Camilo Otero join Rail Art Books Editor Megan N.
+  Liberty for a conversation. We conclude with a poetry reading.
 people:
-  - person: anthony-tino
   - person: shahar-kramer
+  - person: shahar-kramer
+  - person: anthony-tino
   - person: megan-n-liberty
 date: 2022-05-05T13:00:00-0500
 end_date: 2022-05-05T14:30:00-0500
@@ -20,3 +22,6 @@ event_id: recEppPlSbW8qphpw
 event_platform:
   - zoom
 ---
+[Visit Beyond Codex: Living Archives, on view at the Center for Book Arts through June 25, 2022 →](https://centerforbookarts.org/beyond-codex-exhibition)
+
+[](https://centerforbookarts.org/beyond-codex-exhibition)[Read more about the Center for Book Arts →](https://centerforbookarts.org/about)
