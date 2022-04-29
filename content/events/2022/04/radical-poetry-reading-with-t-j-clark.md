@@ -1,9 +1,14 @@
 ---
 title: Radical Poetry Reading with T.J. Clark
-deck: Featuring T.J. Clark and friends
-summary: T.J. Clark curates our 84th Radical Poetry Reading.
+deck: Featuring Clark, Joachim Pissarro, Lytle Shaw, and Mia You
+summary: T.J. Clark joins our 84th Radical Poetry Reading, featuring readings of
+  Clark's poems by Lytle Shaw and Mia You, and with an introduction by Rail
+  Consulting Editor Joachim Pissarro.
 people:
   - person: t-j-clark
+  - person: lytle-shaw
+  - person: mia-you
+  - person: joachim-pissaro
 date: 2022-05-04T13:00:00-0500
 end_date: 2022-05-04T14:30:00-0500
 series: 552
@@ -17,4 +22,3 @@ event_id: recXiczYDvMGesBpr
 event_platform:
   - zoom
 ---
-*More details to be announced.*
