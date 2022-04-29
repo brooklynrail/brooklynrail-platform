@@ -6,7 +6,7 @@ summary: Curators Shahar Kramer and Anthony Tino and Artist Programs Manager at
   Liberty for a conversation. We conclude with a poetry reading.
 people:
   - person: shahar-kramer
-  - person: shahar-kramer
+  - person: camilo-otero
   - person: anthony-tino
   - person: megan-n-liberty
 date: 2022-05-05T13:00:00-0500
