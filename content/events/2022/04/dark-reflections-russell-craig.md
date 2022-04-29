@@ -1,7 +1,7 @@
 ---
 title: "Dark Reflections: Russell Craig "
 deck: Featuring Craig and Jessica Holmes
-summary: Artist Russell Criag joins Rail ArTonic Editor Jessica Holmes for a
+summary: Artist Russell Craig joins Rail ArTonic Editor Jessica Holmes for a
   conversation. We conclude with a poetry reading.
 people:
   - person: russell-craig
