@@ -12,5 +12,7 @@ short_bio: Poet **Mia You** is the author of _I, Too, Dislike It_ (1913 Press,
   Books_.
 portraits:
   - media: 2022/04/mia-you
+rail_contributor_url: "https://brooklynrail.org/contributor/Mia-You "
+website: "https://brooklynrail.org/2017/04/criticspage/Mia-You-I-too-Dislike-It "
 twitter: miaminjungyou
 ---
