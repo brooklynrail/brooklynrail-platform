@@ -7,6 +7,7 @@ summary: Featuring speakers Elaine Angelopoulos, Susan Bee, Christen Clifford,
   Roxana Fabius, Joyce Kozloff, Lucy Lippard, Janet Olivia Henry, Alicia Smith,
   Jillian Steinhauer, and with a concluding reading by Kay Turner.
 people:
+  - person: elaine-angelopoulos
   - person: susan-bee
   - person: christen-clifford
   - person: meredith-drum
@@ -33,4 +34,4 @@ event_platform:
 ---
 [Read our tribute to Mary Beth Edelson in our March 2022 issue →](https://brooklynrail.org/2021/11/in-memoriam/A-Tribute-to-Mary-Beth-Edelson)
 
-We encourage everyone to visit *[Mary Beth Edelson: A Celebration](https://www.davidlewisgallery.com/exhibitions/mary-beth-edelson-a-celebration)* on view at David Lewis Gallery through June 4, 2022. There will be an in-person tribute at the gallery, RSVP to attend: [rsvp@vidoun.com](mailto:rsvp@vidoun.com)
+We encourage everyone to visit *[Mary Beth Edelson: A Celebration](https://www.davidlewisgallery.com/exhibitions/mary-beth-edelson-a-celebration)* on view at David Lewis Gallery through June 4, 2022. There will be an in-person tribute at the gallery on May 17 from 6–8pm, RSVP to attend: [rsvp@vidoun.com](mailto:rsvp@vidoun.com)
