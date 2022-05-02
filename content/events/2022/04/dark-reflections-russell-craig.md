@@ -6,6 +6,8 @@ summary: Artist Russell Craig joins Rail ArTonic Editor Jessica Holmes for a
 people:
   - person: russell-craig
   - person: jessica-holmes
+poets:
+  - person: dante-clark
 date: 2022-05-06T13:00:00-0500
 end_date: 2022-05-06T14:30:00-0500
 series: 554
