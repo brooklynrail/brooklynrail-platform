@@ -6,6 +6,8 @@ summary: Painter Thornton Willis joins Rail Editor-at-Large Tom McGlynn for a
 people:
   - person: thornton-willis
   - person: tom-mcglynn
+poets:
+  - person: erin-perez
 date: 2022-05-02T13:00:00-0500
 end_date: 2022-05-02T14:30:00-0500
 series: 550
