@@ -7,7 +7,7 @@ people:
   - person: haleh-liza-gafori
   - person: fanny-howe-1
   - person: kythe-heller
-  - person: kythe-heller
+  - person: ariana-reines
 date: 2022-05-11T13:00:00-0500
 end_date: 2022-05-11T14:30:00-0500
 series: 557
