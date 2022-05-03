@@ -1,9 +1,10 @@
 ---
 title: Center For Book Arts & Living Archives
-deck: Featuring Shahar Kramer, Camilo Otero, Anthony Tino, and Megan N. Liberty
-summary: Curators Shahar Kramer and Anthony Tino and Artist Programs Manager at
-  Center for Book Arts Camilo Otero join Rail Art Books Editor Megan N. Liberty
-  for a conversation. We conclude with a poetry reading.
+deck: Featuring Shahar Kramer, Camilo Otero, Mindy Seu, Anthony Tino, and Megan
+  N. Liberty
+summary: Curators Shahar Kramer and Anthony Tino, artist Mindy Seu, and Artist
+  Programs Manager at Center for Book Arts Camilo Otero join Rail Art Books
+  Editor Megan N. Liberty for a conversation. We conclude with a poetry reading.
 people:
   - person: shahar-kramer
   - person: camilo-otero
