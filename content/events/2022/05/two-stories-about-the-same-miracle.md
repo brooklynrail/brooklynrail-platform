@@ -1,10 +1,10 @@
 ---
 title: Two Stories About the Same Miracle
-deck: A Black Mother and a Filipino Fathers balanced interpretation of
-  resiliency and hope in caring for their daughter PhoeniX.
+deck: A Black Mother's and a Filipino Father's balanced interpretation of
+  resiliency and hope in caring for their daughter
 summary: Join this multimedia theater experience where parents of a special
   needs child tell their respective stories about her birth and first few years
-  of life. Each parent is dedicating one hour each, to their interpretation.
+  of life. Each parent is dedicating one hour each to their interpretation.
 date: 2022-05-06T19:30:00-0500
 end_date: 2022-05-06T21:00:00-0500
 collections:
