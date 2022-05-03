@@ -10,8 +10,9 @@ short_bio: "Artist **Elaine Angelopoulos** lives and works in New York City. Her
   the following group exhibitions: _The Right to Breathe_, curated by Sozita
   Goudouna; _Still Utopia: Islands, Exquisite Corpse drawings_, curated by
   Simonetta Moro, and Aga Ousseinov, at Gallery MC and the Circolo Ricreativo
-  Culturale, Venice, Italy; and _Body_, curated by Katya Grokhovsky in the Art
-  in Odd Places Performance Festival and Exhibition in New York City. "
+  Culturale, Venice, Italy; and _Body_, curated by, curated by Katya Grokhovsky
+  in the Art in Odd Places Performance Festival and Exhibition in New York City.
+  "
 portraits:
   - media: 2022/04/elaine-angelopoulos
 website: http://elaineangelopoulos.com/
