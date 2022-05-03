@@ -8,6 +8,7 @@ people:
   - person: shahar-kramer
   - person: camilo-otero
   - person: anthony-tino
+  - person: mindy-seu
   - person: megan-n-liberty
 date: 2022-05-05T13:00:00-0500
 end_date: 2022-05-05T14:30:00-0500
