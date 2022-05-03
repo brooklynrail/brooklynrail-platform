@@ -3,17 +3,16 @@ name: Susan Bee
 first_name: Susan
 last_name: Bee
 pronouns: she/hers
-short_bio: "Artist, editor, and designer **Susan Bee** lives and works in New
-  York City. She is coeditor of _M/E/A/N/I/N/G: An Anthology of Artist’s
-  Writings, Theory, and Criticism_ (Duke University Press, 2000), with writings
-  by over 100 artists, critics, and poets. She was the coeditor of
-  _M/E/A/N/I/N/G: A Journal of Contemporary Art Issues_ from 1986-1996. Bee has
-  had solo shows at Kenyon College, Columbia University, William Paterson
-  College, Virginia Lust Gallery, and numerous group shows. She has a BA from
-  Barnard College and a MA in Art from Hunter College. Her artist’s books are
-  included in many public and private collections including the Getty Museum,
-  Victoria & Albert Museum, Yale University, Clark Art Institute, New York
-  Public Library, and Harvard University Library."
+short_bio: Brooklyn based artist **Susan Bee** has had nine solo shows at A.I.R.
+  Gallery. Bee has published eighteen artist’s books, including collaborations
+  with Susan Howe, Charles Bernstein, Jerome McGann, Rachel Levitsky, and Jerome
+  Rothenberg. Bee’s artwork is in many collections and has been widely reviewed.
+  She has given numerous talks in museums and galleries in the US and abroad.
+  She was the coeditor of _M/E/A/N/I/N/G_ from 1986-2016. Her artist’s book
+  archive and the _M/E/A/N/I/N/G_ archive are at the Beinecke Library at Yale.
+  She has a BA from Barnard College and a MA from Hunter College. Bee received a
+  Guggenheim Fellowship in Fine Arts in 2014. Her latest book is _Off-World
+  Fairy Tales_, with Johanna Drucker, Litmus Press.
 portraits:
   - media: 2021/08/susan-bee
 rail_contributor_url: https://brooklynrail.org/contributor/susan-bee
