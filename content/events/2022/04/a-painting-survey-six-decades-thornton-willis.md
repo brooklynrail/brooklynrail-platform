@@ -2,7 +2,7 @@
 title: "A Painting Survey, Six Decades: Thornton Willis"
 deck: Featuring Willis and Tom McGlynn
 summary: Painter Thornton Willis joins Rail Editor-at-Large Tom McGlynn for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading by Erin Pérez.
 people:
   - person: thornton-willis
   - person: tom-mcglynn
