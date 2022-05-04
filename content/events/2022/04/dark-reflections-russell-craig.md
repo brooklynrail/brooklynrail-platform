@@ -2,7 +2,7 @@
 title: "Dark Reflections: Russell Craig "
 deck: Featuring Craig and Jessica Holmes
 summary: Artist Russell Craig joins Rail ArTonic Editor Jessica Holmes for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading by Dante Clark.
 people:
   - person: russell-craig
   - person: jessica-holmes
