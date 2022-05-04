@@ -1,5 +1,5 @@
 ---
-media: /media/files/img_8335-2.jpg
+media: /media/files/michael.jpeg
 title: Michael Cavuto
 alt: A photo of poet Michael Cavuto reading from some pages near a window.
 caption: Courtesy Michael Cavuto
