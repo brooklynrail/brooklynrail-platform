@@ -8,6 +8,7 @@ people:
   - person: sarah-sarhandi
   - person: vincent-katz
   - person: rachel-levitsky
+  - person: bill-bankes-jones
 date: 2022-05-31T13:00:00-0500
 end_date: 2022-05-31T14:30:00-0500
 series: 571
@@ -17,6 +18,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: recRoFlqyZlAtmiMN
 event_platform:
   - zoom
 ---
