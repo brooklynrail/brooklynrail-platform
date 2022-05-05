@@ -8,8 +8,8 @@ people:
   - person: dawn-ades
   - person: stephanie-dalessandro
   - person: mary-ann-caws
-date: 2022-05-05T10:12:00-0500
-end_date: 2022-05-05T10:12:00-0500
+date: 2022-05-13T13:00:00-0500
+end_date: 2022-05-13T14:30:00-0500
 collections:
   - the-new-social-environment
 event_organizer:
