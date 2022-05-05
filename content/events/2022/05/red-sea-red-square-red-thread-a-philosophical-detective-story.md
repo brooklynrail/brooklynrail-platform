@@ -21,3 +21,4 @@ event_id: recxejysasmSHP1q3
 event_platform:
   - zoom
 ---
+[More info on *Red Sea-Red Square-Red Thread: A Philosophical Detective Story* (Oxford University Press, 2021) by Lydia Goehr →](https://global.oup.com/academic/product/red-sea-red-square-red-thread-9780197572443?cc=us&lang=en&)
