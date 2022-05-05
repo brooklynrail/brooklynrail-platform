@@ -1,6 +1,6 @@
 ---
-media: /media/files/lydia.jpeg
+media: /media/files/lydia-goehr.jpeg
 title: Lydia Goehr
-alt: A photo of [Lydia Goehr] in a blue scarf in front of a white building.
+alt: A photo of [Lydia Goehr].
 date: 2022-05-04T15:56:00-0500
 ---
