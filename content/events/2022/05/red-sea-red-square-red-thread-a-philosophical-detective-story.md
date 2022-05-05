@@ -2,7 +2,7 @@
 title: "Red Sea - Red Square - Red Thread: A Philosophical Detective Story"
 deck: Featuring Lydia Goehr and David Carrier
 summary: "Philosopher Lydia Goehr joins Rail Editor-at-Large David Carrier for a
-  conversation. We conclude with a poetry reading by Laynie Brown. "
+  conversation. We conclude with a poetry reading by Laynie Browne. "
 people:
   - person: lydia-goehr
   - person: david-carrier
