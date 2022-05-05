@@ -2,17 +2,17 @@
 name: Jessica Holmes
 first_name: Jessica
 last_name: Holmes
-short_bio: "New York area-based writer, editor, and critic **Jessica Holmes**
-  has been rooted in the art world for the past twenty years. Among other
-  outlets, her writing features regularly in _BOMB_, _Hyperallergic_, _The
-  Observer_, and the _Brooklyn Rail_, where she also edits the ArTonic column.
-  Jessica is also Editor-in-Chief of _Degree Critical_. She’s contributed to
-  numerous exhibition catalogues; most recently major texts may be found in
-  _Calder: From the Stony River to the Sky_ (Hauser & Wirth) and _Žilvinas
-  Kempinas_ (Ikon Gallery). From 1999-2018 she worked for the Calder Foundation,
-  including 6 years serving as its Deputy Director, where she wrote and lectured
-  widely on Alexander Calder’s life and work. Jessica holds an MFA in art
-  criticism and writing from SVA."
+short_bio: "Writer, editor, and critic **Jessica Holmes's** writing features
+  regularly in BOMB, Hyperallergic, and The Brooklyn Rail, where she also edits
+  the ArTonic column. Other bylines include Vanity Fair Spain, The Magazine
+  Antiques, and The Woman’s Art Journal. Recent exhibition catalogue
+  contributions include_Judith Braun: My Pleasure_ (Opalka Gallery, Russell Sage
+  College), _Ellsworth Ausby: Somewhere in Space, Paintings from the 1960s and
+  1970s_ (Eric Firestone Gallery) and _Markus Linnenbrink:
+  THEREARESPACESTHATBREATHE_ (Museum of New Art, Portsmouth). Previously she
+  served as Editor-in-Chief of the arts publication _Degree Critical_. For
+  nearly two decades, she worked for the Calder Foundation, including 6 years as
+  its Deputy Director."
 portraits:
   - media: 2021/01/jessica-holmes
 rail_contributor_url: https://brooklynrail.org/contributor/jessica-holmes
