@@ -12,4 +12,6 @@ short_bio: "**Dawn Ades** is a Fellow of the British Academy, a former trustee
   Color of my Dreams: The Surrealist Revolution in Art, at the Vancouver Art
   Gallery, and was Associate Curator for Manifesta 9. She has published standard
   works on photomontage, Dada, Surrealism, women artists and Mexican muralists."
+portraits:
+  - media: 2022/05/dawn-ades
 ---
