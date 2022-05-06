@@ -6,8 +6,8 @@ summary: Artist Rosa Barba joins Rail Editor-at-Large Francesca Pietropaolo for
 people:
   - person: rosa-barba
   - person: francesca-pietropaolo
-date: 2022-05-17T13:00:00-0500
-end_date: 2022-05-17T14:30:00-0500
+date: 2022-05-17T14:00:00-0500
+end_date: 2022-05-17T15:30:00-0500
 series: 561
 collections:
   - the-new-social-environment
