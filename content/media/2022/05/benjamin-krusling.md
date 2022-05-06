@@ -1,5 +1,5 @@
 ---
-media: /media/files/08-12-2021-benjamin-krusling-2000x.jpeg
+media: /media/files/ben-krusling.jpg
 title: Benjamin Krusling
 alt: Photo of Benjamin Krusling
 caption: ""
