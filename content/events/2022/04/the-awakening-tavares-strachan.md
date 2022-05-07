@@ -2,7 +2,7 @@
 title: "The Awakening: Tavares Strachan"
 deck: Featuring Strachan and Amanda Amanda Gluibizzi
 summary: Artist Tavares Strachan joins Rail Art Editor Amanda Gluibizzi for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading by Funto Omojola.
 people:
   - person: tavares-strachan
   - person: amanda-gluibizzi
