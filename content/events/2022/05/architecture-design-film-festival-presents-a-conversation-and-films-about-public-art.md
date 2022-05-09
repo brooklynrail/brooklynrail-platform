@@ -13,7 +13,7 @@ event_producer:
 registration_url: https://industrycity.com/event/architecture-design-and-film-festival-a-conversation-about-films-and-public-art-sponsored-by-casper/
 event_platform: null
 ---
-{{< image media="2022/05/adff-ic-2022" size="lg" >}}
+{{< image media="2022/05/adff-ic-2022" size="md" >}}
 
 This will be the NYC premiere of the feature film *High Maintenance – The Life and Work of Dani Karavan.*  Also showing is a  short film *Small Town Big Canvas: An Indiana, PA Story.*  Prior to the movie screening, there will be a panel talk on public art with Architect Suchi Reddy of [Reddymade Architecture](https://rmdny.com/), Artist [Katie Merz](http://www.katiemerz.com/) whose work is currently on display in the Courtyard, Artist [Evan Lovett](https://www.elovettart.com/) who is in the film *Small Town Big City,* and moderating the discussion is ADFF Founder [Kyle Bergman](https://adfilmfest.com/about-team.html).
 
