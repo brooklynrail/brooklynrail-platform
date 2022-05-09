@@ -14,7 +14,8 @@ people:
 poets: []
 date: 2022-05-14T13:45:00-0500
 end_date: 2022-05-14T14:45:00-0500
-collections: []
+collections:
+  - community-listing
 event_sponsor: []
 event_organizer: []
 event_producer:
