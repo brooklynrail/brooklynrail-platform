@@ -3,7 +3,7 @@ name: Jacob Kahn
 first_name: Jacob
 last_name: Kahn
 short_bio: Poet and editor **Jacob Kahn** lives Oakland, CA. He is the author of
-  _Mine Eclogue_ (forthcoming from Roof Books in late 2022), and multiple the
+  _Mine Eclogue_ (forthcoming from Roof Books in late 2022), and multiple
   chapbooks, including _A Is For Aegis_ (Doublecross Press, 2022). Recent
   writing can be found in _Salones de Belleza / The Beauty Salons_ (Gato Negro
   Ediciones/Wolfman Books, 2021), and other publications. From 2016–2020, he was
