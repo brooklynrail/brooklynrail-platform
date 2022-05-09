@@ -7,6 +7,11 @@ summary: "Join us for a conversation part of Industry City's Design Festival
   social and political changes of the past few years. "
 people:
   - person: phong-h-bui
+  - person: jia-sung
+  - person: cecilia-zhang-jalboukh
+  - person: stephen-lipuma
+  - person: jim-somoza
+poets: []
 date: 2022-05-14T13:45:00-0500
 end_date: 2022-05-14T14:45:00-0500
 collections: []
