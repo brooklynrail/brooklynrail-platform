@@ -6,7 +6,8 @@ summary: Experience ADFF at ICDF with outdoor movie screenings and a
   conversation about public art sponsored by Casper and Eventscape.
 date: 2022-05-12T19:00:00-0500
 end_date: 2022-05-12T22:00:00-0500
-collections: []
+collections:
+  - community-listing
 event_organizer: []
 event_producer:
   - architecture-design-film-festival
