@@ -7,7 +7,8 @@ summary: Industry City Design Festival returns May 12-16, 2022, with
   ticketed dinners, and more
 date: 2022-05-12T16:30:00-0500
 end_date: 2022-05-16T17:00:00-0500
-collections: []
+collections:
+  - community-listing
 event_organizer: []
 event_producer:
   - the-brooklyn-rail
