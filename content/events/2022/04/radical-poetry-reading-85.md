@@ -1,8 +1,8 @@
 ---
 title: "Radical Poetry Reading with Haleh Liza Gafori "
-deck: Featuring Ariana Reines, Fanny Howe, and Kythe Heller
+deck: Featuring Ariana Reines, Fanny Howe, Kythe Heller and Timothy Liu
 summary: Haleh Liza Gafori curates the 85th Radical Poetry Reading, featuring
-  poetry read by Ariana Reines, Fanny Howe, and Kythe Heller.
+  poetry read by Ariana Reines, Fanny Howe, Kythe Heller and Timothy Liu.
 people:
   - person: haleh-liza-gafori
   - person: fanny-howe-1
