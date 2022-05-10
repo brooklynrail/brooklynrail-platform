@@ -16,4 +16,6 @@ short_bio: Poet, essayist, performer, filmmaker, and scholar **Kythe Heller** 
   at Harvard University.
 portraits:
   - media: 2022/04/kythe-heller
+website: https://visionlabcollective.com
+instagram: kytheheller
 ---
