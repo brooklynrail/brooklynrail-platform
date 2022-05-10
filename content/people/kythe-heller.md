@@ -2,6 +2,7 @@
 name: Kythe Heller
 first_name: Kythe
 last_name: Heller
+pronouns: she/her
 short_bio: Poet, essayist, performer, filmmaker, and scholar **Kythe Heller** is
   based in Cambridge, MA. She is author of the Massachusetts Book
   Award-nominated poetry collection _Firebird_ (Arrowsmith, 2020), two
