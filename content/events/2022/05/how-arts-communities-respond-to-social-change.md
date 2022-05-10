@@ -24,7 +24,7 @@ event_id: recfv7ZZcbkVOs4XN
 registration_url: ""
 event_platform: null
 ---
-Please note this is an in-person event. 
+**Please note this is an in-person event**. 
 
 ☞ **Date**: Saturday, May 14, 2022
 
