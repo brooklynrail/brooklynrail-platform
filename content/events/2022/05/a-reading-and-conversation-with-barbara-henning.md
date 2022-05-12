@@ -1,8 +1,9 @@
 ---
 title: A Reading and Conversation with Barbara Henning
 deck: Featuring Henning, Martine Bellen, Peter Bushyeager, and Anselm Berrigan
-summary: Barbara Henning curates the 86th Radical Poetry Reading, featuring
-  readings by Martine Bellen, Peter Bushyeager, and Anselm Berrigan.
+summary: Barbara Henning is featured in the 86th Radical Poetry Reading, reading
+  from her new prose book, _Ferne_, a Detroit Story, with readings and
+  discussion by Martine Bellen, Peter Bushyeager, and Anselm Berrigan.
 people:
   - person: barbara-henning
   - person: peter-bushyeager
