@@ -1,10 +1,11 @@
 ---
 title: "Night Chorus: Michelle Segre"
 deck: Featuring Segre and Rail host
-summary: "Artist Michelle Segre joins Rail host for a conversation. We conclude
-  with a poetry reading by Diana Rickard. "
+summary: "Artist Michelle Segre joins Rail contributor Andrew Woolbright for a
+  conversation. We conclude with a poetry reading by Diana Rickard. "
 people:
   - person: michelle-segre
+  - person: andrew-paul-woolbright
 poets:
   - person: diana-rickard
 date: 2022-05-20T13:00:00-0500
