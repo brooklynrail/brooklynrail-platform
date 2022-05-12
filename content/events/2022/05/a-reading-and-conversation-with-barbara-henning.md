@@ -4,10 +4,10 @@ deck: Featuring Henning, Martine Bellen, Peter Bushyeager, and Anselm Berrigan
 summary: Barbara Henning curates the 86th Radical Poetry Reading, featuring
   readings by Martine Bellen, Peter Bushyeager, and Anselm Berrigan.
 people:
-  - person: martine-bellen
+  - person: barbara-henning
   - person: peter-bushyeager
   - person: anselm-berrigan
-  - person: barbara-henning
+  - person: anselm-berrigan
 date: 2022-05-18T13:00:00-0500
 end_date: 2022-05-18T14:30:00-0500
 series: 562
