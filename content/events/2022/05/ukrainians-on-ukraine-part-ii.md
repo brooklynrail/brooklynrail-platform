@@ -7,8 +7,8 @@ summary: We thank Adriana Farmiga, Katya Grokhovsky, and Slinko for curating and
 people:
   - person: lizaveta-german
   - person: lesia-kulchynska
-  - person: kateryna-ruban-1
   - person: katya-grokhovsky
+  - person: kateryna-ruban
 date: 2022-05-26T13:00:00-0500
 end_date: 2022-05-26T14:30:00-0500
 collections:
