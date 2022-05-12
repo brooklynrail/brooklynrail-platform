@@ -16,6 +16,8 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: rec7FcjDZwrKZRlOP
 event_platform:
   - zoom
 ---
+[Visit *Night Chorus: Michelle Segre*, on view at Derek Eller Gallery through May 28, 2022 →](https://www.derekeller.com/exhibitions/michelle-segre8)
