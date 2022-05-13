@@ -1,11 +1,13 @@
 ---
 title: "Synthesis of the Arts: 'T' Space Rhinebeck"
-deck: Featuring Steven Holl and Susan Wides
+deck: Featuring Steven Holl, Susan Wides, and Phong H. Bui
 summary: Board Member Steven Holl and Curator and Director Susan Wides from 'T'
-  Space Rhinebeck join us for a conversation. We conclude with a poetry reading.
+  Space Rhinebeck join Phong H. Bui for a conversation. We conclude with a
+  poetry reading by Mia Ayumi Malhotra.
 people:
   - person: steven-holl
   - person: susan-wides
+  - person: phong-h-bui
 poets:
   - person: mia-ayumi-malhotra
 date: 2022-05-19T13:00:00-0500
