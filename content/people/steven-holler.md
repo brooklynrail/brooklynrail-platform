@@ -1,7 +1,7 @@
 ---
-name: Steven Holler
+name: Steven Holl
 first_name: Steven
-last_name: Holler
+last_name: Holl
 short_bio: Architect **Steven Holl** has published numerous texts and has
   lectured widely. He is a tenured faculty member at Columbia University where
   he has taught since 1981. He was named by _Time_ magazine as “America’s Best
