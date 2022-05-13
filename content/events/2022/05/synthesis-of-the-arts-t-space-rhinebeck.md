@@ -4,6 +4,7 @@ deck: Featuring Steven Holl and Susan Wides
 summary: Board Member Steven Holl and Curator and Director Susan Wides from 'T'
   Space Rhinebeck join us for a conversation. We conclude with a poetry reading.
 people:
+  - person: steven-holl
   - person: susan-wides
 poets:
   - person: mia-ayumi-malhotra
