@@ -1,11 +1,11 @@
 ---
 title: "Night Chorus: Michelle Segre"
-deck: Featuring Segre and Rail host
-summary: "Artist Michelle Segre joins Rail contributor Andrew Woolbright for a
+deck: Featuring Segre and David Rhodes
+summary: "Artist Michelle Segre joins Rail Editor-at-Large David Rhodes for a
   conversation. We conclude with a poetry reading by Diana Rickard. "
 people:
   - person: michelle-segre
-  - person: andrew-paul-woolbright
+  - person: david-rhodes
 poets:
   - person: diana-rickard
 date: 2022-05-20T13:00:00-0500
