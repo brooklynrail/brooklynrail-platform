@@ -13,6 +13,7 @@ short_bio: Architect **Steven Holl** has published numerous texts and has
   design and construction as an obligation to the future of the built
   environment and are committed to this vision in each project. He is on the
   Board of Directors of 'T' Space Rhinebeck.
-portraits: []
+portraits:
+  - media: 2022/05/steven-holl
 website: https://www.stevenholl.com/
 ---
