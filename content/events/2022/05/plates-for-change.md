@@ -4,10 +4,12 @@ deck: Support critical work to fight hunger and poverty in Brooklyn
 summary: An Annual Chef Showcase hosted by the Brooklyn Museum
 date: 2022-05-18T18:30:00-0500
 end_date: 2022-05-18T21:30:00-0500
-collections: []
+collections:
+  - community-listing
 event_organizer: []
 event_producer:
   - the-brooklyn-rail
+registration_url: https://neighborstogether.org/gala/
 event_platform: null
 ---
 {{< image media="2022/05/plates-for-change" size="md" >}}
