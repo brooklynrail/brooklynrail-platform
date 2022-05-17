@@ -6,6 +6,8 @@ summary: Board Member Steven Holl and Curator and Director Susan Wides from 'T'
   poetry reading by Mia Ayumi Malhotra.
 people:
   - person: steven-holl
+  - person: george-quasha
+  - person: eirini-tsachrelia
   - person: susan-wides
   - person: phong-h-bui
 poets:
