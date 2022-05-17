@@ -11,8 +11,8 @@ short_bio: Architect **Steven Holl** has published numerous texts and has
   Architects projects combine sustainable technology and forward-looking
   approaches to urbanism and architecture, and see a sustainable approach to
   design and construction as an obligation to the future of the built
-  environment and are committed to this vision in each project. He is on the
-  Board of Directors of 'T' Space Rhinebeck.
+  environment and are committed to this vision in each project. He is the
+  founder of 'T' Space, a project of the Steven Myron Holl Foundation.
 portraits:
   - media: 2022/05/steven-holl
 website: https://www.stevenholl.com/
