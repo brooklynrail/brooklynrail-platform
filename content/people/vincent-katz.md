@@ -13,7 +13,7 @@ short_bio: Poet, translator, and hybrid-form prose writer **Vincent Katz** is
   Contemporary Poetry_ (Dia Art Foundation, 2017). In 2021, he collaborated on
   an opera with composer Sarah Sarhandi. He lives in New York City.
 portraits:
-  - media: 2020/06/vincent-katz
+  - media: 2022/05/vincent-katz
 rail_contributor_url: https://brooklynrail.org/contributor/vincent-katz
 website: http://vincentkatz.net/
 instagram: broadwayforpaul
