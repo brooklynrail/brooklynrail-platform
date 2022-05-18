@@ -13,7 +13,7 @@ short_bio: Based in London, ** Sarah Sarhandi** is a composer and virtuoso
   practitioners.
 portraits:
   - media: 2022/05/sarah-sarhandi
-website: http://sarahsarhandi.com/
+website: ""
 instagram: sarahsarhandi
 twitter: sarahsarhandi
 ---
