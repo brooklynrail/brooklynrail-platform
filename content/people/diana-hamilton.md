@@ -8,6 +8,7 @@ short_bio: "Poet **Diana Hamilton** is the author of three books: _God Was
   Okay_ (Truck Books). "
 portraits:
   - media: 2021/06/diana-hamilton
+rail_contributor_url: https://brooklynrail.org/contributor/Diana-Hamilton
 website: https://dianahamilton.xyz/
-instagram: https://brooklynrail.org/contributor/Diana-Hamilton
+instagram: ""
 ---
