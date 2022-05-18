@@ -1,8 +1,8 @@
 ---
 title: "Attractive People Doing Attractive Things in Attractive Places: Samantha Nye"
 deck: Featuring Nye and Ksenia M. Soboleva
-summary: "Artist Samantha Nye joins Rail contributor Ksenia M. Soboleva for a
-  conversation. We conclude with a poetry reading. "
+summary: Artist Samantha Nye joins Rail contributor Ksenia M. Soboleva for a
+  conversation. We conclude with a poetry reading by Dia Felix.
 people:
   - person: samantha-nye
   - person: ksenia-m-soboleva
