@@ -6,6 +6,8 @@ summary: Artist Samantha Nye joins Rail contributor Ksenia M. Soboleva for a
 people:
   - person: samantha-nye
   - person: ksenia-m-soboleva
+poets:
+  - person: dia-felix
 date: 2022-05-24T13:00:00-0500
 end_date: 2022-05-24T14:30:00-0500
 series: 566
