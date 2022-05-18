@@ -1,6 +1,7 @@
 ---
 title: "Synthesis of the Arts: 'T' Space Rhinebeck"
-deck: Featuring Steven Holl, Susan Wides, and Phong H. Bui
+deck: Featuring Steven Holl, George Quasha, Eirini Tsachrelia, Susan Wides, and
+  Phong H. Bui
 summary: Board Member Steven Holl and Curator and Director Susan Wides from 'T'
   Space Rhinebeck join Phong H. Bui for a conversation. We conclude with a
   poetry reading by Mia Ayumi Malhotra.
