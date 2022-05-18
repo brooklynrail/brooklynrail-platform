@@ -3,7 +3,7 @@ title: "While There’s Light: An Opera by Vincent Katz and Sarah Sarhandi"
 deck: Featuring Katz, Sarhandi, Bill Bankes-Jones, and Rachel Levitsky
 summary: Poet Vincent Katz, musician Sarah Sarhandi, and poet Rachel Levitsky
   join opera director Bill Bankes-Jones for a conversation. We conclude with a
-  poetry reading.
+  poetry reading by Valerie Hsuing.
 people:
   - person: sarah-sarhandi
   - person: vincent-katz
