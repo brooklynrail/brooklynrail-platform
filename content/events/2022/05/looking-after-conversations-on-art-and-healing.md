@@ -27,4 +27,4 @@ event_id: rec40EwvJcpsdbPcG
 event_platform:
   - zoom
 ---
-**[View the first installment of the series, \_Picturing the COVID-19 Pandemic\_](https://brooklynrail.org/events/2022/02/03/looking-after-conversations-on-art-and-healing/)**
+**[View the first installment of the series, Picturing the COVID-19 Pandemic→ ](https://brooklynrail.org/events/2022/02/03/looking-after-conversations-on-art-and-healing/)**
