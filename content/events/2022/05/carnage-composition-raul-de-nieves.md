@@ -1,10 +1,11 @@
 ---
 title: "Carnage Composition: Raúl de Nieves"
-deck: Featuring de Nieves and Rail host
-summary: Artist Raúl de Nieves joins Rail host for a conversation. We conclude
-  with a poetry reading.
+deck: Featuring de Nieves and William Corwin
+summary: Artist Raúl de Nieves joins Rail contributor William Corwin for a
+  conversation. We conclude with a poetry reading.
 people:
   - person: raul-de-nieves
+  - person: william-corwin
 date: 2022-05-23T13:00:00-0500
 end_date: 2022-05-23T14:30:00-0500
 series: 565
