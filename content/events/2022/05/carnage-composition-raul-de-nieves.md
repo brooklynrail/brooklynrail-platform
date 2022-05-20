@@ -6,6 +6,8 @@ summary: Artist Raúl de Nieves joins Rail contributor William Corwin for a
 people:
   - person: raul-de-nieves
   - person: william-corwin
+poets:
+  - person: kaur-alia-ahmed
 date: 2022-05-23T13:00:00-0500
 end_date: 2022-05-23T14:30:00-0500
 series: 565
