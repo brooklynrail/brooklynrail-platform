@@ -1,5 +1,5 @@
 ---
-media: /media/files/maryam-parhizkar-photo-credit-arthur-moeller-2000x.jpeg
+media: /media/files/maryam-ivette-parhizkar-photo-1-.jpg
 title: Maryam Ivette Parhizkar
 alt: Photo of Maryam Ivette Parhizkar
 caption: © Arthur Moeller
