@@ -1,9 +1,9 @@
 ---
 title: Radical Poetry Reading with Holly Melgard
-deck: Featuring Diana Hamilton, Liz Howard, Syd Staiti, Chris Sylvester and
+deck: Featuring Diana Hamilton, Liz Howard, Syd Staiti, Chris Sylvester, and
   Holly Melgard
-summary: Holly Melgard curates the 87th Radical Poetry reading with Diana
-  Hamilton, Liz Howard, Syd Staiti and Chris Sylvester.
+summary: Holly Melgard curates the 87th Radical Poetry Reading with Diana
+  Hamilton, Liz Howard, Syd Staiti, and Chris Sylvester.
 people:
   - person: diana-hamilton
   - person: liz-howard
