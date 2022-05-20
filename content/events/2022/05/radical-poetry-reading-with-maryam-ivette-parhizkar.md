@@ -6,6 +6,7 @@ summary: Maryam Ivette Parhizkar curates the 88th Radical Poetry Reading with
   Lupe Mendez, JD Pluecker Aliah Lavonne Tigh and Irene Vazquez.
 people:
   - person: aliah-lavonne-tigh
+  - person: irene-vasquez
   - person: maryam-ivette-parhizkar
 date: 2022-06-01T13:00:00-0500
 end_date: 2022-06-01T14:30:00-0500
