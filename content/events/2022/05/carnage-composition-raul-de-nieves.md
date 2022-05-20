@@ -2,7 +2,7 @@
 title: "Carnage Composition: Raúl de Nieves"
 deck: Featuring de Nieves and William Corwin
 summary: Artist Raúl de Nieves joins Rail contributor William Corwin for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading by Kaur Alia Ahmed.
 people:
   - person: raul-de-nieves
   - person: william-corwin
