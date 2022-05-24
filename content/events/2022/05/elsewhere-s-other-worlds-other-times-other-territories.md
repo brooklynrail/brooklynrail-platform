@@ -10,8 +10,9 @@ people:
   - person: jose-falconi
   - person: lyle-rexer
     related_links: []
-date: 2022-05-24T16:23:00-0500
-end_date: 2022-05-24T16:23:00-0500
+date: 2022-06-03T13:00:00-0500
+end_date: 2022-06-03T14:30:00-0500
+series: 574
 collections:
   - the-new-social-environment
 event_organizer:
