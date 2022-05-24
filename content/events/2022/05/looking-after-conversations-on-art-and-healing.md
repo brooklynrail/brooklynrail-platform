@@ -1,14 +1,13 @@
 ---
 title: "Looking After: Conversations on Art and Healing"
 deck: Curating and Healing
-summary: "Featuring Jami Powell, Wanda Nanibush, Heather Igloliorte, and Anna
-  Arabindan-Kesson, join Suzanne Hudson and Tanya Sheehan for the third
-  installment of our series Looking After: Conversations on Art and Healing. We
-  conclude with a poetry reading. "
+summary: "Art Historians Jami Powell, Wanda Nanibush, and Anna Arabindan-Kesson
+  join Suzanne Hudson and Tanya Sheehan for the third installment of our series
+  Looking After: Conversations on Art and Healing. We conclude with a poetry
+  reading. "
 people:
   - person: jami-powell
   - person: wanda-nanibush-1
-  - person: heather-igloliorte
   - person: anna-arabindan-kesson
   - person: suzanne-hudson
   - person: tanya-sheehan
@@ -27,4 +26,6 @@ event_id: rec40EwvJcpsdbPcG
 event_platform:
   - zoom
 ---
-**[View the first installment of the series, Picturing the COVID-19 Pandemic→ ](https://brooklynrail.org/events/2022/02/03/looking-after-conversations-on-art-and-healing/)**
+[View epsiode one: Picturing the COVID-19 Pandemic → ](https://brooklynrail.org/events/2022/02/03/looking-after-conversations-on-art-and-healing/)
+
+[View episode two: New Histories of Art, Medicine, and Healing → ](https://brooklynrail.org/events/2022/03/03/looking-after-conversations-on-art-and-healing/)
