@@ -2,7 +2,7 @@
 title: "Sean Scully: Art Comes From Need"
 deck: A film by Hans Andreas Guttner
 summary: "Join us for a virtual screening of Sean Scully: Art Comes From Need, a
-  film by Andreas Guttner. We offer poetry recommendations for the holiday."
+  film by Han Andreas Guttner. We offer poetry recommendations for the holiday."
 date: 2022-05-30T12:00:00-0500
 end_date: 2022-05-30T23:59:00-0500
 series: ""
@@ -30,3 +30,5 @@ The film presents one of the most fascinating and popular abstract painters of o
 [Poetry from the May 2022 Issue →](https://brooklynrail.org/2022/5/poetry)
 
 🙏 A special thanks to Sean Scully, Hans Andreas Guttner, Sisyphos Film, and W-Film for making this virtual screening possible!
+
+Credits: Screenplay by Werner Petermann, Hans Andreas Guttner; Cinematography by Björn Kurt, Hans Albrecht Lusznat; Editing by André Jean; Music by Lars Kurz; Sound by Monika Knirsch, Silvio Reichenbach, Chrisitiane Vogt; Production management by Jutta Malin; Production by Sisyphos Film
