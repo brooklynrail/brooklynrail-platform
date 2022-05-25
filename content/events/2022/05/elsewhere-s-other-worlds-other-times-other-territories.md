@@ -1,8 +1,8 @@
 ---
 title: "Elsewhere(s): Other worlds, other times, other territories"
-deck: Featuring Estrellita Brodsky, José Falconi
-summary: Elsewhere(s) a co-curated exhibition at Another Space by Estrellita
-  Brodsky and José Falconi brings together works by over 25 artists from Latin
+deck: Featuring Estrellita Brodsky, José Falconi, and Lyle Rexer
+summary: Elsewhere(s), a co-curated exhibition at Another Space by Estrellita
+  Brodsky and José Falconi, brings together works by over 25 artists from Latin
   America and its diaspora exploring cosmology, magic, and non-Western forms of
   knowledge.
 people:
@@ -19,6 +19,8 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: rec0vXUlK6figtnS2
 event_platform:
   - zoom
 ---
+[Visit *Elsewhere(s): Other worlds, other times, other territories*, on view at ANOTHER SPACE, New York through June 17, 2022 →](https://www.anotherspace.org/elsewheres)
