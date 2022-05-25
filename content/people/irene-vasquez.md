@@ -1,5 +1,5 @@
 ---
-name: Irene Vásquez
+name: Irene Vázquez
 first_name: Irene
 short_bio: "**Irene Vázquez** is a Black Mexican American poet, journalist, and
   editor. Irene graduated from Yale with a BA in Ethnicity, Race, and Migration
