@@ -29,4 +29,4 @@ The film presents one of the most fascinating and popular abstract painters of o
 
 [Poetry from the May 2022 Issue →](https://brooklynrail.org/2022/5/poetry)
 
-🙏 A special thanks to Sean Scully, Hans Andreas Guttner, and Sisyphos Film for making this virtual screening possible!
+🙏 A special thanks to Sean Scully, Hans Andreas Guttner, Sisyphos Film, and W-Film for making this virtual screening possible!
