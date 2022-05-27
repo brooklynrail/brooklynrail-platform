@@ -1,7 +1,7 @@
 ---
 title: Radical Poetry Reading with Maryam Ivette Parhizkar
-deck: Featuring Maryam Ivette Parhizkar, Lupe Mendez, JD Pluecker, Aliah Lavonne
-  Tigh and Irene Vázquez
+deck: Featuring Parhizkar, Lupe Mendez, JD Pluecker, Aliah Lavonne Tigh and
+  Irene Vázquez
 summary: Maryam Ivette Parhizkar curates the 88th Radical Poetry Reading with
   Lupe Mendez, JD Pluecker, Aliah Lavonne Tigh, and Irene Vázquez.
 people:
