@@ -2,8 +2,7 @@
 title: "Dress Rehearsal for a Dream Sequence: Anna Campbell"
 deck: Featuring Campbell and Ksenia M. Soboleva
 summary: Artist Anna Campbell joins Rail contributor Ksenia M. Soboleva for a
-  conversation. We conclude by sharing poems commissioned for the exhibition by
-  Oliver Baez Bendorf.
+  conversation. We conclude with a poetry reading by Samuel Breslin.
 people:
   - person: anna-campbell
   - person: ksenia-m-soboleva
