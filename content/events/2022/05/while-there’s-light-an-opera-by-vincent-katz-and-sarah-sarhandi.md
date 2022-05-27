@@ -4,7 +4,7 @@ deck: Featuring Rachel Levitsky, Loré Lixenberg, Katz, Sarhandi, and Bill
   Bankes-Jones
 summary: Poet Rachel Levitsky, mezzo-soprano Loré Lixenberg, poet Vincent Katz,
   and musician Sarah Sarhandi join opera director Bill Bankes-Jones for a
-  conversation. We conclude with a poetry reading by Valerie Hsuing.
+  conversation. We conclude with a poetry reading by Valerie Hsiung.
 people:
   - person: rachel-levitsky
   - person: lore-lixenberg
