@@ -2,7 +2,7 @@
 name: Sarah Sarhandi
 first_name: Sarah
 last_name: Sarhandi
-short_bio: Based in London, ** Sarah Sarhandi** is a composer and virtuoso
+short_bio: Based in London, **Sarah Sarhandi** is a composer and virtuoso
   violist with joint British and Pakistani heritage. She studied viola as a
   performer at the Royal Academy of Music. Her music weaves together fluid
   sometimes fragmented melody, viola, voices including her own, sound and
