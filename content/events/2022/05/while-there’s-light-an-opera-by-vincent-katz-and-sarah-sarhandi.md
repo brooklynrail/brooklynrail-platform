@@ -7,6 +7,7 @@ summary: Poet Rachel Levitsky, mezzo-soprano Loré Lixenberg, poet Vincent Kat
   conversation. We conclude with a poetry reading by Valerie Hsuing.
 people:
   - person: rachel-levitsky
+  - person: lore-lixenberg
   - person: vincent-katz
   - person: sarah-sarhandi
   - person: bill-bankes-jones
