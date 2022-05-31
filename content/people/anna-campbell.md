@@ -16,4 +16,5 @@ short_bio: Artist **Anna Campbell**’s research-based practice employs props,
 portraits:
   - media: 2022/05/anna-campbell
 website: https://annacampbell.net/
+instagram: _anna_campbell_
 ---
