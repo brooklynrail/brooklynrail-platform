@@ -1,6 +1,6 @@
 ---
-media: /media/files/ksenia-soboleva-.jpeg
+media: /media/files/img_6319.jpg
 title: "Ksenia M. Soboleva "
-alt: Picture of Ksenia M. Soboleva.
+alt: A picture of art historian Ksenia M. Soboleva.
 date: 2021-11-10T13:38:00-0500
 ---
