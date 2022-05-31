@@ -2,7 +2,7 @@
 name: Loré Lixenberg
 first_name: Loré
 last_name: Lixenberg
-short_bio: British mezzo-soprano and director Loré Lixenberg specializes in
+short_bio: British mezzo-soprano and director **Loré Lixenberg** specializes in
   contemporary music, and has performed widely in opera, concert repertory, and
   music theatre, working with many leading composers. She regularly collaborates
   with composer and librettist Richard Thomas, Peaches/Baby Janes, Millie and
