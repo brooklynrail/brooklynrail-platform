@@ -1,5 +1,5 @@
 ---
-title: Wednesday Afternoon Reading Series with Tenaya Nasser-Frederick
+title: Radical Poetry Reading with Tenaya Nasser-Frederick
 deck: Featuring Nasser-Frederick and friends
 summary: Tenaya Nasser-Frederick curates our 89th Wednesday Afternoon Reading Series.
 people:
