@@ -2,17 +2,17 @@
 name: Nora N. Khan
 first_name: Nora
 last_name: Khan
-short_bio: Writer, editor, and curator **Nora N. Khan** writes criticism on
-  emerging issues within digital visual culture, experimental art and music
-  practices, and philosophy of emerging technology. She is currently a resident
-  at La Becque in Switzerland, where she is working on two book projects. Her
-  most recent short book is on the logic of predictive algorithms,
-  titled  **_Seeing, Naming, Knowing_** (The Brooklyn Rail). Khan publishes
-  criticism and essays frequently in publications like _Art in America_ and
-  _Artforum_, and has written commissioned essays and monographs for various
-  exhibitions. This year, she is the Editor-in-Residence of  _Topical Cream_,
-  and is focused on mentoring and commissioning women and gender non-conforming
-  individuals invested in rigorous art and technology criticism.
+short_bio: Curator, editor, and writer **Nora N. Khan** focuses on criticism on
+  digital visual culture, the politics of software, and philosophy of emerging
+  technology. She is the Executive Director of Project X for Art and Criticism,
+  publishing X-TRA Contemporary Art Journal in Los Angeles. She is also a
+  Curator for the next Biennale de L’Image en Mouvement in 2023, hosted by
+  Centre d'Art Contemporain Genève. Khan’s most recent short book is _Seeing,
+  Naming, Knowing_ (Brooklyn Rail), on the logic of machine vision. She
+  frequently writes for publications like _Artforum_ and _Art in America_, and
+  has written commissioned essays for major exhibitions. Her writing has been
+  honored by a Critical Writing Grant and a Thoma Foundation Arts Writing Award
+  in Digital Art.
 portraits:
   - media: 2022/05/nora-n-khan
 website: https://noranahidkhan.com/
