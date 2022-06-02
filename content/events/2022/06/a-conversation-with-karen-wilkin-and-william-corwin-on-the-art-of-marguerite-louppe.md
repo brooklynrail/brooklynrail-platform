@@ -4,7 +4,9 @@ title: A Conversation with Karen Wilkin and William Corwin on the Art of
 deck: ""
 summary: Rosenberg & Co. kindly invites you to a private gallery talk with Karen
   Wilkin and William Corwin on the work of Marguerite Louppe
-people: []
+people:
+  - person: karen-wilkin
+  - person: william-corwin
 date: 2022-06-08T18:00:00-0500
 end_date: 2022-06-08T20:00:00-0500
 collections:
