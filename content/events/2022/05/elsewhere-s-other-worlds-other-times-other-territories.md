@@ -1,6 +1,7 @@
 ---
 title: "Elsewhere(s): Other worlds, other times, other territories"
-deck: Featuring Estrellita Brodsky, José Falconi, and Lyle Rexer
+deck: Featuring Estrellita Brodsky, Franklin Chang Diaz, Hugo Crosthwaite, José
+  Falconi, and Ruben Ortiz-Torres
 summary: Elsewhere(s), a co-curated exhibition at Another Space by Estrellita
   Brodsky and José Falconi, brings together works by over 25 artists from Latin
   America and its diaspora exploring cosmology, magic, and non-Western forms of
@@ -8,6 +9,9 @@ summary: Elsewhere(s), a co-curated exhibition at Another Space by Estrellita
 people:
   - person: estrellita-b-brodsky
   - person: jose-falconi
+  - person: franklin-chang-diaz
+  - person: hugo-crosthwaite
+  - person: ruben-ortiz-torres
   - person: lyle-rexer
     related_links: []
 date: 2022-06-10T13:00:00-0500
