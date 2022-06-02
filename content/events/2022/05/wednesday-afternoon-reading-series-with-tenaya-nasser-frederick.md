@@ -6,6 +6,7 @@ summary: Tenaya Nasser-Frederick curates our 89th Wednesday Afternoon Reading Se
 people:
   - person: tenaya-nasser-frederick
   - person: norma-cole
+  - person: mohammed-zenia
 date: 2022-06-08T13:00:00-0500
 end_date: 2022-06-08T14:30:00-0500
 series: 577
