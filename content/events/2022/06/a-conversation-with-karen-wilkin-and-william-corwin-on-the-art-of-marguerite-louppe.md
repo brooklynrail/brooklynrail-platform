@@ -16,8 +16,7 @@ event_organizer:
 event_producer:
   - the-brooklyn-rail
 registration_url: https://www.eventbrite.​co.uk/e/354690477767](https://www.eventbrite.co.uk/e/354690477767
-event_platform:
-  - zoom
+event_platform: null
 ---
 This is an in-person event. Your health and safety are our top priorities and we are following all CDC and [New York City](https://www1.nyc.gov/site/doh/covid/covid-19-main.page) guidance. All guests must have received a COVID-19 vaccine. Proof of vaccine (CDC card or photo, [Excelsior Pass](https://covid19vaccine.health.ny.gov/excelsior-pass), [CLEAR Health Pass](https://www.clearme.com/healthpass), or other digital record).
 
