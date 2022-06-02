@@ -6,6 +6,8 @@ summary: Artist Anna Campbell joins Rail contributor Ksenia M. Soboleva for a
 people:
   - person: anna-campbell
   - person: ksenia-m-soboleva
+poets:
+  - person: oliver-baez-bendorf
 date: 2022-06-03T13:00:00-0500
 end_date: 2022-06-03T14:30:00-0500
 series: 574
