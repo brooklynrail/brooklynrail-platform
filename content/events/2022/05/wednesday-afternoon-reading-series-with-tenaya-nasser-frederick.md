@@ -2,10 +2,11 @@
 title: Radical Poetry Reading with Tenaya Nasser-Frederick
 deck: "Featuring Nasser-Frederick, Norma Cole, Vlad Nahitchevansky, Kamelya
   Youssef and Mohammed Zenia. "
-summary: Tenaya Nasser-Frederick curates our 89th Wednesday Afternoon Reading Series.
+summary: Tenaya Nasser-Frederick curates our 89th Radical Poetry Reading Series.
 people:
   - person: tenaya-nasser-frederick
   - person: norma-cole
+  - person: kamelya-omayma-youssef
   - person: mohammed-zenia
 date: 2022-06-08T13:00:00-0500
 end_date: 2022-06-08T14:30:00-0500
