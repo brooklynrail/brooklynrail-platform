@@ -6,6 +6,8 @@ summary: Artist Audrey Flack joins Rail Editor-at-Large Jason Rosenfeld for a
 people:
   - person: audrey-flack
   - person: jason-rosenfeld
+poets:
+  - person: elizabeth-lothian
 date: 2022-06-06T13:00:00-0500
 end_date: 2022-06-06T14:30:00-0500
 series: 575
