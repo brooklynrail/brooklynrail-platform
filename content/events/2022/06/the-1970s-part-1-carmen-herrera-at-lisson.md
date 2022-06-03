@@ -2,13 +2,15 @@
 title: "The 1970s, Part 1: Carmen Herrera at Lisson"
 deck: Featuring Odili Donald Odita and Raphael Rubinstein
 summary: Artist Odili Donald Odita joins Rail contributor Raphael Rubinstein for
-  a conversation. We conclude with a poetry reading.
+  a conversation. We conclude with a poetry reading from Tyhe Cooper
 people:
-  - person: odili-donald-odita
-  - person: raphael-rubinstein
   - person: tony-bechara
     related_links: []
+  - person: odili-donald-odita
   - person: monica-espinel
+  - person: raphael-rubinstein
+poets:
+  - person: tyhe-cooper
 date: 2022-06-07T13:00:00-0500
 end_date: 2022-06-07T14:30:00-0500
 series: 576
