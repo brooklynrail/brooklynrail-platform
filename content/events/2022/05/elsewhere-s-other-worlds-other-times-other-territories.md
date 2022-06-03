@@ -14,6 +14,8 @@ people:
   - person: ruben-ortiz-torres
   - person: lyle-rexer
     related_links: []
+poets:
+  - person: angela-vasquez
 date: 2022-06-10T13:00:00-0500
 end_date: 2022-06-10T14:30:00-0500
 series: 579
