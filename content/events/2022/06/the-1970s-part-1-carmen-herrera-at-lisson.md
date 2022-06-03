@@ -6,6 +6,9 @@ summary: Artist Odili Donald Odita joins Rail contributor Raphael Rubinstein for
 people:
   - person: odili-donald-odita
   - person: raphael-rubinstein
+  - person: tony-bechara
+    related_links: []
+  - person: monica-espinel
 date: 2022-06-07T13:00:00-0500
 end_date: 2022-06-07T14:30:00-0500
 series: 576
