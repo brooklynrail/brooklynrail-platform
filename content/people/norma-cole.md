@@ -15,4 +15,5 @@ short_bio: "**Norma Cole** is a poet, visual artist and translator. Her most
   appeared from Further Other Book Works."
 portraits:
   - media: 2022/06/norma-cole
+website: https://www.normacole.org/bio-contact
 ---
