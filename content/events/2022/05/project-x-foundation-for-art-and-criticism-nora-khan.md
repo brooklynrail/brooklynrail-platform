@@ -1,11 +1,13 @@
 ---
 title: "Project X Foundation for Art and Criticism: Nora Khan"
 deck: Featuring Khan and Cole Swensen
-summary: "Writer and critic Nora Khan joins poet Cole Swensen for a
-  conversation. We conclude with a poetry reading. "
+summary: Writer and critic Nora Khan joins poet Cole Swensen for a conversation.
+  We conclude with a poetry reading by Ama Birch.
 people:
   - person: nora-n-khan
   - person: cole-swensen
+poets:
+  - person: ama-birch
 date: 2022-06-09T13:00:00-0500
 end_date: 2022-06-09T14:30:00-0500
 collections:
