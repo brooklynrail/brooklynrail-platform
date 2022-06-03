@@ -1,7 +1,8 @@
 ---
 title: "Elsewhere(s): Other worlds, other times, other territories"
 deck: Featuring Estrellita Brodsky, Franklin Chang Diaz, Hugo Crosthwaite, José
-  Falconi, and Ruben Ortiz-Torres
+  Falconi, and Ruben Ortiz-Torres. We conclude with a poetry reading by Angela
+  Vasquez.
 summary: Elsewhere(s), a co-curated exhibition at Another Space by Estrellita
   Brodsky and José Falconi, brings together works by over 25 artists from Latin
   America and its diaspora exploring cosmology, magic, and non-Western forms of
