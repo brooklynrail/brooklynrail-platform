@@ -16,8 +16,8 @@ people:
     related_links: []
 poets:
   - person: angela-vasquez
-date: 2022-06-10T13:00:00-0500
-end_date: 2022-06-10T14:30:00-0500
+date: 2022-06-10T17:00:00-0500
+end_date: 2022-06-10T18:30:00-0500
 series: 579
 collections:
   - the-new-social-environment
