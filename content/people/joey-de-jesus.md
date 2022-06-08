@@ -16,4 +16,8 @@ short_bio: "Writer, performer, and community activist **Joey De Jesus** is the
   greed."
 portraits:
   - media: 2021/06/joey-de-jesus
+rail_contributor_url: https://brooklynrail.org/contributor/Joey-De-Jesus
+website: https://dejesussaves.wordpress.com/
+instagram: dejesussaves
+twitter: DeJesusSaves
 ---
