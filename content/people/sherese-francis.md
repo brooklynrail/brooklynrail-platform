@@ -7,9 +7,9 @@ short_bio: "**Sherese Francis** is an Alkymist of the I-Magination and expresses
   editing, and literary curation. Her(e) work takes inspiration from her(e)
   Afro-Caribbean heritage (Barbados and Dominica), and studies in Afrofuturism
   and Black Speculative Arts, mythology and etymology. Some of her(e) work has
-  been published in Furious Flower, Obsidian Lit, Rootwork Journal, Spoken Black
-  Girl, and The Operating System, among many others. Sherese has published the
-  chapbooks, _Lucy’s Bone Scrolls_, _Variations on Sett/ling Seed/ling_, and
+  been published in Furious Flower, Obsidian Lit, Rootwork Journal, and Spoken
+  Black Girl, among many others. Sherese has won numerous awards and published
+  the chapbooks, _Lucy’s Bone Scrolls_, _Variations on Sett/ling Seed/ling_, and
   _Recycling a Why That Rules Over My Sacred Sight_ . Sherese is the poetry
   editor of Newtown Literary and curates the Queens-based literary and mobile
   library project, J. Expressions."
