@@ -7,6 +7,8 @@ summary: "Multimedia artist Carl Hancock Rux and performance critic and scholar
 people:
   - person: tavia-nyong’o
   - person: carl-hancock-rux
+poets:
+  - person: sherese-francis
 date: 2022-06-16T13:00:00-0500
 end_date: 2022-06-16T14:30:00-0500
 series: 583
