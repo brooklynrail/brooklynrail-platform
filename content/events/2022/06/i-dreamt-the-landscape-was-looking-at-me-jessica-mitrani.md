@@ -1,6 +1,6 @@
 ---
 title: "I Dreamt the Landscape Was Looking at Me: Jessica Mitrani"
-deck: "Featuring Jessica Mitrani and Rail Host. "
+deck: Featuring Jessica Mitrani and Rail Host
 summary: Artist Jessica Mitrani joins Rail host for a conversation. We conclude
   with a poetry reading by Anthony Madrid.
 people:
