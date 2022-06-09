@@ -15,4 +15,5 @@ short_bio: Artist **Cui Fei** has developed a solid foundation in a wide variety
   Indiana University of Pennsylvania.
 portraits:
   - media: 2022/06/cui-fei
+website: http://cuifei.net/
 ---
