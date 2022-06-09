@@ -7,8 +7,8 @@ people:
   - person: jessica-mitrani
 poets:
   - person: anthony-madrid
-date: 2022-06-09T10:56:00-0500
-end_date: 2022-06-09T10:56:00-0500
+date: 2022-06-14T13:00:00-0500
+end_date: 2022-06-14T14:30:00-0500
 collections:
   - the-new-social-environment
 event_organizer:
