@@ -15,5 +15,6 @@ short_bio: Curator, editor, and writer **Nora N. Khan** focuses on criticism on
   in Digital Art.
 portraits:
   - media: 2022/05/nora-n-khan
+rail_contributor_url: https://brooklynrail.org/contributor/Nora-N-Khan
 website: https://noranahidkhan.com/
 ---
