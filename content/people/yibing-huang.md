@@ -15,5 +15,5 @@ short_bio: "Mai Mang 麦芒(Yibing Huang) established himself as a poet in the 1
   20th Rou Gang Poetry Prize in China."
 portraits:
   - media: 2022/06/yibing-huang
-website: https://www.worldliteraturetoday.org/author/mai-mang
+website: https://www.conncoll.edu/directories/faculty-profiles/yibing-huang/
 ---
