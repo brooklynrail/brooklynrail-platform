@@ -14,8 +14,9 @@ people:
   - person: kelly-grovier
 poets:
   - person: graham-foust
-date: 2022-06-06T13:18:00-0500
-end_date: 2022-06-06T13:18:00-0500
+date: 2022-06-13T13:00:00-0500
+end_date: 2022-06-13T14:30:00-0500
+series: 580
 collections:
   - the-new-social-environment
 event_organizer:
@@ -26,4 +27,4 @@ event_id: recudBKFQfCzaGDMo
 event_platform:
   - zoom
 ---
-**[Visit *The Shape of Ideas: Sean Scully,* on view at the Philadelphia Museum of Art through July 31st→](https://philamuseum.org/calendar/exhibition/sean-scully-shape-ideas)**
+**[Visit *The Shape of Ideas: Sean Scully,* on view at the Philadelphia Museum of Art through July 31, 2022 →](https://philamuseum.org/calendar/exhibition/sean-scully-shape-ideas)**
