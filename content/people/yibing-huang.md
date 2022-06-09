@@ -1,6 +1,6 @@
 ---
-name: Yibing Huang
-first_name: YIbing
+name: Mai Mang 麦芒(Yibing Huang)
+first_name: Mai Mang 麦芒(Yibing Huang)
 last_name: ""
 short_bio: "Mai Mang 麦芒(Yibing Huang) established himself as a poet in the 1980s
   and received his B.A., M.A., and Ph.D. in Chinese Literature from Beijing
@@ -14,5 +14,5 @@ short_bio: "Mai Mang 麦芒(Yibing Huang) established himself as a poet in the 1
   curated a series of contemporary Chinese art exhibitions. In 2012, he won the
   20th Rou Gang Poetry Prize in China."
 portraits:
-  - {}
+  - media: 2022/06/yibing-huang
 ---
