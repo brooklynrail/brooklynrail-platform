@@ -1,8 +1,9 @@
 ---
 title: Defamiliarizations in Chinese Visual Culture and Aesthetics pt. II
 deck: Featuring Cui Fei and Paul Gladston
-summary: Artist Cui Fei joins Rail contributor Paul Gladston for a conversation.
-  We conclude with a poetry reading from Yibing Huang.
+summary: "Artist Cui Fei joins Rail contributor Paul Gladston for a
+  conversation. We conclude with a poetry reading from Mai Mang 麦芒(Yibing
+  Huang). "
 people:
   - person: paul-gladston
   - person: cui-fei
