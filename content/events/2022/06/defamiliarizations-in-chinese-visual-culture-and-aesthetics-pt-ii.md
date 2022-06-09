@@ -6,6 +6,8 @@ summary: Artist Cui Fei joins Rail contributor Paul Gladston for a conversation.
 people:
   - person: paul-gladston
   - person: cui-fei
+poets:
+  - person: yibing-huang
 date: 2022-06-27T20:00:00-0500
 end_date: 2022-06-27T21:30:00-0500
 series: 590
