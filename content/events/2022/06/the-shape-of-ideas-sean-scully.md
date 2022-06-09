@@ -1,6 +1,6 @@
 ---
 title: "The Shape of Ideas: Sean Scully"
-deck: Featuring Phong H. Bui, David Carrier, Robert C. Morgan, Raphy Sarkissian,
+deck: Featuring Phong H. Bui, David Carrier, Robert C. Morgan, Raphy Sarkissian
   and Amanda Sroka
 summary: Phong H. Bui, David Carrier, Robert C. Morgan, Raphy Sarkissian, and
   Amanda Sroka join Kelly Grovier for a conversation. We conclude with a poetry
