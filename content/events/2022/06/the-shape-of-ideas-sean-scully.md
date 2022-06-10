@@ -1,7 +1,7 @@
 ---
 title: "The Shape of Ideas: Sean Scully"
-deck: Featuring Phong H. Bui, David Carrier, Robert C. Morgan, Raphy Sarkissian
-  and Amanda Sroka
+deck: Featuring Phong H. Bui, David Carrier, Robert C. Morgan, Raphy Sarkissian,
+  Amanda Sroka, and David Rhodes
 summary: Phong H. Bui, David Carrier, Robert C. Morgan, Raphy Sarkissian, and
   Amanda Sroka join David Rhodes for a conversation. We conclude with a poetry
   reading by Graham Foust.
@@ -27,4 +27,4 @@ event_id: recudBKFQfCzaGDMo
 event_platform:
   - zoom
 ---
-**[Visit *The Shape of Ideas: Sean Scully,* on view at the Philadelphia Museum of Art through July 31, 2022 →](https://philamuseum.org/calendar/exhibition/sean-scully-shape-ideas)**
+[Visit *The Shape of Ideas: Sean Scully,* on view at the Philadelphia Museum of Art through July 31, 2022 →](https://philamuseum.org/calendar/exhibition/sean-scully-shape-ideas)
