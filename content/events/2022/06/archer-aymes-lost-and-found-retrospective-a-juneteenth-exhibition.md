@@ -5,8 +5,9 @@ summary: "Choreographer Jamel Gaines, multimedia artist Carl Hancock Rux, and
   performance critic and scholar Tavia Nyong’o join Rail contributor Alvin Hall
   for a conversation. We conclude with a poetry reading by Sherese Francis. "
 people:
-  - person: tavia-nyong’o
+  - person: jamel-gaines
   - person: carl-hancock-rux
+  - person: tavia-nyong’o
   - person: alvin-hall
 poets:
   - person: sherese-francis
