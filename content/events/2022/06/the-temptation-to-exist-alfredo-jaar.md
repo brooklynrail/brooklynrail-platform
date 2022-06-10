@@ -1,14 +1,15 @@
 ---
 title: "The Temptation to Exist: Alfredo Jaar"
-deck: Featuring Jaar and Rail Host
-summary: Artist Alfredo Jaar joins Rail Host for a conversation. We conclude
-  with poetry reading by Samuel Breslin.
+deck: Featuring Jaar and David Levi Strauss
+summary: Artist Alfredo Jaar joins Rail Consulting Editor David Levi Strauss for
+  a conversation. We conclude with poetry reading by Samuel Breslin.
 people:
   - person: alfredo-jaar
     related_links:
       - text: ALFREDO JAAR with Phong Bui, Dore Ashton, and David Levi Strauss (April
           2009)
         url: https://brooklynrail.org/2009/04/art/alfredo-jaar
+  - person: david-levi-strauss
 poets:
   - person: samuel-breslin
 date: 2022-06-17T13:00:00-0500
