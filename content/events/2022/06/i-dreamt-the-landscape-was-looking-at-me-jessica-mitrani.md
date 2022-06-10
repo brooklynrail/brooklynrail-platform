@@ -1,8 +1,8 @@
 ---
 title: "I Dreamt the Landscape Was Looking at Me: Jessica Mitrani"
 deck: Featuring Mitrani and Suzanne Herrera Li Puma
-summary: Artist Jessica Mitrani joins Rail host for a conversation. We conclude
-  with a poetry reading by Anthony Madrid.
+summary: Artist Jessica Mitrani joins Suzanne Herrera Li Puma for a
+  conversation. We conclude with a poetry reading by Anthony Madrid.
 people:
   - person: jessica-mitrani
   - person: suzanne-herrera-li-puma
