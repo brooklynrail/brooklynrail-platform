@@ -9,7 +9,8 @@ people:
       - text: ALFREDO JAAR with Phong Bui, Dore Ashton, and David Levi Strauss (April
           2009)
         url: https://brooklynrail.org/2009/04/art/alfredo-jaar
-poets: []
+poets:
+  - person: samuel-breslin
 date: 2022-06-17T13:00:00-0500
 end_date: 2022-06-17T14:30:00-0500
 series: 584
