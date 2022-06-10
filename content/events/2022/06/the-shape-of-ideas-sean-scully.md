@@ -3,8 +3,8 @@ title: "The Shape of Ideas: Sean Scully"
 deck: Featuring Phong H. Bui, David Carrier, Robert C. Morgan, Raphy Sarkissian,
   Amanda Sroka, and David Rhodes
 summary: Phong H. Bui, David Carrier, Robert C. Morgan, Raphy Sarkissian, and
-  Amanda Sroka join David Rhodes for a conversation. We conclude with a poetry
-  reading by Graham Foust.
+  Amanda Sroka join Rail Editor-at-Large David Rhodes for a conversation. We
+  conclude with a poetry reading by Graham Foust.
 people:
   - person: phong-h-bui
   - person: david-carrier
