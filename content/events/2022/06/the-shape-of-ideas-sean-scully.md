@@ -3,7 +3,7 @@ title: "The Shape of Ideas: Sean Scully"
 deck: Featuring Phong H. Bui, David Carrier, Robert C. Morgan, Raphy Sarkissian
   and Amanda Sroka
 summary: Phong H. Bui, David Carrier, Robert C. Morgan, Raphy Sarkissian, and
-  Amanda Sroka join Kelly Grovier for a conversation. We conclude with a poetry
+  Amanda Sroka join David Rhodes for a conversation. We conclude with a poetry
   reading by Graham Foust.
 people:
   - person: phong-h-bui
@@ -11,7 +11,7 @@ people:
   - person: robert-c-morgan
   - person: raphy-sarkissian
   - person: amanda-sroka
-  - person: kelly-grovier
+  - person: david-rhodes
 poets:
   - person: graham-foust
 date: 2022-06-13T13:00:00-0500
