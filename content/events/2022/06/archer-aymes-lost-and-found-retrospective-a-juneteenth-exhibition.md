@@ -1,12 +1,13 @@
 ---
-title: "Archer Aymes Lost and Found Retrospective:  A Juneteenth Exhibition"
-deck: Featuring Carl Hancock Rux, Tavia Nyong’o, and Rail host
-summary: "Multimedia artist Carl Hancock Rux and performance critic and scholar
-  Tavia Nyong’o join Rail host for a conversation. We conclude with a poetry
-  reading by Sherese Francis. "
+title: "Archer Aymes Lost and Found Retrospective: A Juneteenth Exhibition"
+deck: Featuring Jamel Gaines, Carl Hancock Rux, Tavia Nyong’o, and Alvin Hall
+summary: "Choreographer Jamel Gaines, multimedia artist Carl Hancock Rux, and
+  performance critic and scholar Tavia Nyong’o join Rail contributor Alvin Hall
+  for a conversation. We conclude with a poetry reading by Sherese Francis. "
 people:
   - person: tavia-nyong’o
   - person: carl-hancock-rux
+  - person: alvin-hall
 poets:
   - person: sherese-francis
 date: 2022-06-16T13:00:00-0500
