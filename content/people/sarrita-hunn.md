@@ -2,18 +2,17 @@
 name: Sarrita Hunn
 first_name: Sarrita
 last_name: Hunn
-short_bio: Artist **Sarrita Hunn**’s multidisciplinary studio practice explores
-  how information is mediated through cognitive and technological processes. She
-  is the Assistant Director of the Saas-Fee Summer Institute of Art. Her work
-  has been exhibited internationally over the past decade at such venues as
-  Laumeier Sculpture Park, Yerba Buena Center for the Arts, and with artist-run
-  spaces and projects including Andrea Zittel’s A-Z West, Spor Klübü, and
-  Koh-i-noor with sponsorship from the Danish Arts Council. She is the
-  co-founder of _Temporary Art Review_ and has worked with more than 70 writers
-  and contributing editors to publish over 250 profiles, reviews, interviews,
-  and essays that focus on alternative spaces and critical exchange across the
-  United States.
+short_bio: "Interdisciplinary artist, editor, curator, and web developer
+  **Sarrita Hunn**'s often collaborative practice focuses on the culturally,
+  socially, and politically transformative potential of artist-centered
+  activity. She is the co-founder and Editor (with James McAnally) of _MARCH: a
+  journal of art & strategy_; Assistant Director of Saas-Fee Summer Institute of
+  Art; and in 2021 she co-curated (with Warren Neidich and Susanne Prinz)
+  _Activist Neuroaesthetics_, a festival of events celebrating the 25-year
+  anniversary of artbrain.org. Additionally, she is a founding member of Cypher
+  Sex, an activist collective focused on digital security for sex-positive and
+  queer communities in Berlin and beyond."
 portraits:
   - media: 2022/06/sarrita-hunn
-website: https://www.sarritahunn.com/
+website: https://march.international/
 ---
