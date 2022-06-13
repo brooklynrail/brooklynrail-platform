@@ -1,12 +1,12 @@
 ---
-title: Defamiliarizations in Chinese Visual Culture and Aesthetics pt. II
+title: Defamiliarizations in Chinese Visual Culture and Aesthetics, Part II
 deck: Featuring Cui Fei and Paul Gladston
 summary: "Artist Cui Fei joins Rail contributor Paul Gladston for a
   conversation. We conclude with a poetry reading from Mai Mang 麦芒(Yibing
   Huang). "
 people:
-  - person: paul-gladston
   - person: cui-fei
+  - person: paul-gladston
 poets:
   - person: yibing-huang
 date: 2022-06-27T20:00:00-0500
@@ -18,6 +18,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: rece0mGmDqPTd0FsA
 event_platform:
   - zoom
 ---
