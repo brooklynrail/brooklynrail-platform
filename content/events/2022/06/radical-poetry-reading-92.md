@@ -1,7 +1,7 @@
 ---
-title: "Radical Poetry Reading #92"
-deck: Joey De Jesus curates the 92nd Radical Poetry Reading
-summary: Featuring De Jesus and friends.
+title: Radical Poetry Reading with Joey De Jesus
+deck: Featuring De Jesus and friends
+summary: Joey De Jesus curates the 92nd Radical Poetry Reading.
 people:
   - person: joey-de-jesus
 date: 2022-06-29T13:00:00-0500
@@ -13,6 +13,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: recH98oXh9Rb5HVQl
 event_platform:
   - zoom
 ---
