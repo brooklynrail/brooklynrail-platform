@@ -1,5 +1,5 @@
 ---
-media: /media/files/img-9408.jpeg
+media: /media/files/sam.jpg
 title: Samuel Breslin
 alt: A photo of [Samuel Breslin] wearing a blue t shirt, glasses, outside of a
   window, in front of a summer green tree and a blue sky.
