@@ -6,8 +6,8 @@ summary: Featuring Maya Hayuk, Betty Roytburd and Adriana Farmiga. We conclude
 people:
   - person: maya-hayuk
   - person: adriana-farmiga
-date: 2022-06-14T16:07:00-0500
-end_date: 2022-06-14T16:07:00-0500
+date: 2022-06-30T13:00:00-0500
+end_date: 2022-06-30T14:30:00-0500
 collections:
   - the-new-social-environment
 event_organizer:
