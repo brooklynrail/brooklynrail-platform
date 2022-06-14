@@ -1,9 +1,9 @@
 ---
 title: "Writing By Artist: William Wegman"
 deck: Featuring Wegman, Andrew Lampert, and Charlotte Kent
-summary: "Artists William Wegman and Andrew Lampert joins visual culture
-  theorist Charlotte Kent for a conversation. We conclude with a poetry reading.
-  "
+summary: "Artist William Wegman and curator Andrew Lampert join Rail
+  Editor-at-Large Charlotte Kent for a conversation. We conclude with a poetry
+  reading. "
 people:
   - person: william-wegman
   - person: andrew-lampert
@@ -21,4 +21,4 @@ event_id: recC2YeBMriTV3HCO
 event_platform:
   - zoom
 ---
-[Visit *Writing By Artist: William Wegman*, on view at Sperone Westwater through July 29, 2022 →](https://www.speronewestwater.com/exhibitions/william-wegman8#tab:slideshow)
+[Visit *William Wegman:* *Writing By Artist*, on view at Sperone Westwater through July 29, 2022 →](https://www.speronewestwater.com/exhibitions/william-wegman8#tab:slideshow)
