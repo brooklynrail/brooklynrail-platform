@@ -1,5 +1,6 @@
 ---
-title: "Ukrainians on Ukraine, Part III: Featuring Maya Hayuk and Betty Roytburd "
+title: "A Look at the Ukrainian Diaspora: Featuring Maya Hayuk and Betty
+  Roytburd, in conversation with Adriana Farmiga"
 deck: ""
 summary: Featuring Maya Hayuk, Betty Roytburd and Adriana Farmiga. We conclude
   with a poetry reading by Maya Hayuk.
@@ -8,7 +9,7 @@ people:
   - person: adriana-farmiga
 date: 2022-06-30T13:00:00-0500
 end_date: 2022-06-30T14:30:00-0500
-series: -2
+series: -3
 collections:
   - the-new-social-environment
 event_organizer:
