@@ -1,6 +1,6 @@
 ---
 title: "DUAL: Lisa Corinne Davis & Shirley Kaneda"
-deck: Featuring David, Kaneda, and Steel Stillman
+deck: Featuring Davis, Kaneda, and Steel Stillman
 summary: Painters Lisa Corinne Davis and Shirley Kaneda join Rail contributor
   Steel Sttillman for a conversation. We conclude with a poetry reading.
 people:
