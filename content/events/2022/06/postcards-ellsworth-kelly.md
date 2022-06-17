@@ -7,6 +7,8 @@ people:
   - person: yve-alain-bois
   - person: robert-storr
   - person: phyllis-tuchman
+poets:
+  - person: barrett-white
 date: 2022-06-21T13:00:00-0500
 end_date: 2022-06-21T14:30:00-0500
 series: 586
