@@ -1,6 +1,6 @@
 ---
-title: "A Look at the Ukrainian Diaspora: Featuring Maya Hayuk and Betty
-  Roytburd, in conversation with Adriana Farmiga"
+title: "Cultural Practice in the Ukrainian Diaspora: Maya Hayuk and Betty
+  Roytburd in conversation with Adriana Farmiga"
 deck: ""
 summary: Featuring Maya Hayuk, Betty Roytburd and Adriana Farmiga. We conclude
   with a poetry reading by Maya Hayuk.
