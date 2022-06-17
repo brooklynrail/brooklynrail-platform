@@ -3,7 +3,7 @@ title: Saas-Fee Summer Institute of Art
 deck: "Deep Ecology in the Cognitive Capitalocene and Beyond "
 summary: Sarrita Hunn, Warren Neidich, and Barry Schwabsky join Rail
   Editor-at-Large Thyrza Nichols Goodeve us for a conversation on Saas-Fee
-  Summer Institute of Art. We conclude with a poetry reading.
+  Summer Institute of Art. We conclude with a poetry reading from Raevan Senior.
 people:
   - person: sarrita-hunn
   - person: warren-neidich
