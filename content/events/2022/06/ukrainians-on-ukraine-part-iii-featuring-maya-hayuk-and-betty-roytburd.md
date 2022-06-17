@@ -6,6 +6,7 @@ summary: Featuring Maya Hayuk, Betty Roytburd and Adriana Farmiga. We conclude
   with a poetry reading by Maya Hayuk.
 people:
   - person: maya-hayuk
+  - person: betty-roytburd
   - person: adriana-farmiga
 date: 2022-06-30T13:00:00-0500
 end_date: 2022-06-30T14:30:00-0500
