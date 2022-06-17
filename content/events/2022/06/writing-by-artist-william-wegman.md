@@ -8,6 +8,8 @@ people:
   - person: william-wegman
   - person: andrew-lampert
   - person: charlotte-kent
+poets:
+  - person: jonathan-aprea
 date: 2022-06-24T13:00:00-0500
 end_date: 2022-06-24T14:30:00-0500
 series: 589
