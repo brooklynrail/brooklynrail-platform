@@ -10,7 +10,7 @@ people:
   - person: adriana-farmiga
 date: 2022-06-30T13:00:00-0500
 end_date: 2022-06-30T14:30:00-0500
-series: -3
+series: 0
 collections:
   - the-new-social-environment
 event_organizer:
