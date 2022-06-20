@@ -1,6 +1,6 @@
 ---
 title: "Blue Green Black Red: Ellsworth Kelly"
-deck: Featuring Yve-Alain Bois, Robert Storr, and Phyllis Tuchman
+deck: Featuring Yve-Alain Bois, Robert Storr, Phyllis Tuchman, and Alex Bacon
 summary: Scholars Yve-Alain Bois, Robert Storr, and Phyllis Tuchman join Rail
   contributor Alex Bacon for a conversation. We conclude with a poetry reading
   by Barrett White.
