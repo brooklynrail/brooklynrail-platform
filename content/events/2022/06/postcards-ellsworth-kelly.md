@@ -2,11 +2,13 @@
 title: "Blue Green Black Red: Ellsworth Kelly"
 deck: Featuring Yve-Alain Bois, Robert Storr, and Phyllis Tuchman
 summary: Scholars Yve-Alain Bois, Robert Storr, and Phyllis Tuchman join Rail
-  host for a conversation. We conclude with a poetry reading.
+  contributor Alex Bacon for a conversation. We conclude with a poetry reading
+  by Barrett White.
 people:
   - person: yve-alain-bois
   - person: robert-storr
   - person: phyllis-tuchman
+  - person: alex-bacon
 poets:
   - person: barrett-white
 date: 2022-06-21T13:00:00-0500
