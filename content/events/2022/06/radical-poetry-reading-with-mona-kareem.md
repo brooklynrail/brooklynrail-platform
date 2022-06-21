@@ -1,6 +1,6 @@
 ---
 title: Radical Poetry Reading with Mona Kareem
-deck: Featuring Kareem with Mirene Arsanios and Sara Elkamel
+deck: Featuring Kareem, Mirene Arsanios and Sara Elkamel
 summary: "Mona Kareem curates our 91st Radical Poetry Reading with Mirene
   Arsanios and Sara Elkamel. "
 people:
