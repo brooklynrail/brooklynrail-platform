@@ -7,6 +7,7 @@ people:
   - person: marie-hinson
   - person: shanekia-mcintosh
   - person: leila-ortiz
+  - person: b-taylor
   - person: joey-de-jesus
 date: 2022-06-29T13:00:00-0500
 end_date: 2022-06-29T14:30:00-0500
