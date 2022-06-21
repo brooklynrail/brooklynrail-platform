@@ -1,9 +1,8 @@
 ---
-title: "Cultural Practice in the Ukrainian Diaspora: Maya Hayuk and Betty
-  Roytburd in conversation with Adriana Farmiga"
+title: Cultural Practice in the Ukrainian Diaspora
 deck: ""
-summary: Featuring Maya Hayuk, Betty Roytburd and Adriana Farmiga. We conclude
-  with a poetry reading by Maya Hayuk.
+summary: Featuring Maya Hayuk and Betty Roytburd in conversation with Adriana
+  Farmiga. We conclude with a poetry reading by Maya Hayuk.
 people:
   - person: maya-hayuk
   - person: betty-roytburd
