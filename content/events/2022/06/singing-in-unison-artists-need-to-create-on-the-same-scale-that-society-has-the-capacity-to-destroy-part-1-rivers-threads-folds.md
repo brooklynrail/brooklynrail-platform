@@ -1,8 +1,8 @@
 ---
-title: " Singing in Unison: Artists Need to Create On the Same Scale That
-  Society Has the Capacity to Destroy, Part 1, rivers, threads, folds"
-deck: Closing Reception
-summary: Featuring a poetry reading by Anselm Berrigan, Phong H. Bui, Chia-Lun
+title: Closing Reception
+deck: " Singing in Unison: Artists Need to Create On the Same Scale That Society
+  Has the Capacity to Destroy, Part 1, rivers, threads, folds"
+summary: Featuring a poetry readings by Anselm Berrigan, Phong H. Bui, Chia-Lun
   Chang, Christine Kuan, and David Zaza, and a musical performance by Kristopher
   Hull.
 date: 2022-06-25T18:00:00-0500
@@ -16,7 +16,7 @@ event_producer:
 event_platform:
   - zoom
 ---
-Join us for the Closing Reception of *Singing in Unison: Artists Need to Create On the Same Scale That Society Has the Capacity to Destroy, Part 1, rivers, threads, folds* at Art Cake.
+Join us for the Closing Reception of *Singing in Unison: Artists Need to Create On the Same Scale That Society Has the Capacity to Destroy, Part 1, rivers, threads, folds* at Art Cake from 6pm to 8pm. 
 
 Art Cake, 214 40th St\
 Brooklyn, NY 11232
