@@ -9,8 +9,8 @@ short_bio: Mirene Arsanios is the author of the short story collection, The City
   co-founded the collective 98weeks Research Project in Beirut and is the
   founding editor of Makhzin, a bilingual English/Arabic magazine for innovative
   writing. With Rachel Valinsky, she coordinated the Friday nights reading
-  series at the Poetry Project from 2017-19. Her next book, The Autobiography of
-  a Language, is forthcoming with Futurepoem (2021).
+  series at the Poetry Project from 2017-19. Her next book, _The Autobiography
+  of a Language_, is forthcoming with Futurepoem (2022).
 portraits:
   - media: 2020/12/mirene-arsanios
 website: https://mirenearsanios.com
