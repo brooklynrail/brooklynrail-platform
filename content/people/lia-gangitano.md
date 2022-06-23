@@ -11,6 +11,7 @@ short_bio: In 2001, **Lia Gangitano** founded PARTICIPANT INC, NY, a
   (2018). She teaches at the Center for Curatorial Studies at Bard College.
 portraits:
   - media: 2022/06/lia-gangitano
+rail_contributor_url: https://brooklynrail.org/contributor/Lia-Gangitano
 website: http://participantinc.org/
 instagram: liagang
 ---
