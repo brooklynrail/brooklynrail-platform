@@ -1,7 +1,7 @@
 ---
 title: Art + Technology
 deck: "Midnight Moment: Times Square Arts"
-summary: Featuring Nancy Baker Cahill, Joan Jonas, and Charlotte Kent
+summary: Featuring Nancy Baker Cahill, Joan Jonas, and Charlotte Kent.
 people:
   - person: nancy-baker-cahill
   - person: joan-jonas
