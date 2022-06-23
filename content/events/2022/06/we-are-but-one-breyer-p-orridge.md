@@ -7,6 +7,7 @@ summary: "Curators Lia Gangitano and Benjamin Tischer join Rail contributor Jess
 people:
   - person: benjamin-tischer
   - person: lia-gangitano
+  - person: jess-barbagallo
 poets:
   - person: el-roy-red
 date: 2022-07-01T13:00:00-0500
