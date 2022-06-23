@@ -12,7 +12,6 @@ people:
   - person: rachelle-rahme
   - person: kristopher-hull
   - person: david-zaza
-  - person: david-zaza
 date: 2022-06-25T18:00:00-0500
 end_date: 2022-06-25T20:00:00-0500
 collections:
