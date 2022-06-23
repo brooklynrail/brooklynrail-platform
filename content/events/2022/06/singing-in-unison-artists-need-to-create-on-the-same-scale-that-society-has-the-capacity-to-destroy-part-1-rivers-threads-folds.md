@@ -24,6 +24,8 @@ event_producer:
 event_platform:
   - zoom
 ---
+{{< image media="2022/06/artists-need-to-create-etc" size="md" >}}
+
 Join us for the Closing Reception of *Singing in Unison: Artists Need to Create On the Same Scale That Society Has the Capacity to Destroy, Part 1, rivers, threads, folds* at Art Cake from 6pm to 8pm. 
 
 Art Cake, 214 40th St\
