@@ -8,6 +8,6 @@ short_bio: New York City bred creative director, singer-songwriter, and
   several 80’s songs and authored multiple poetry books lets just say its in her
   blood.
 portraits:
-  - media: ""
+  - media: 2022/06/raevan-aliyah-senior
 instagram: baevan_
 ---
