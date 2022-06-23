@@ -2,16 +2,16 @@
 name: Rachelle Rahmé
 first_name: Rachelle
 last_name: Rahmé
-short_bio: Based in Brooklyn and born in Jounieh, Lebanon, **Rachelle Rahmé** is
-  a Lebanese-American independent scholar and poet. She is the author of _Count
-  Thereof Upon the Other’s Limbs_ (Cixous 72 Press, 2019), and the chapbooks
-  _Bataille’s Eggs_ (blush, 2021) and _Puce Commodity_ (earthbound editions,
-  2020). Her translations of _Georges Bataille, 27 Poems on Death_, is
-  forthcoming in 2021 (o•blēk editions). Her poems have appeared or are
-  forthcoming in _The Brooklyn Rail_, _the tiny_, and _Fonograf_, among others.
-  Her work in film and sound have been presented by Issue Project Room, PS1, The
-  Stone, Microscope Gallery, Bortolami Gallery, and others. She was the curator
-  of the performance and poetry series 57Late for 57W57 Arts.
+short_bio: Born in Jounieh, Lebanon, **Rachelle Rahmé** is a Lebanese-American
+  poet and independent scholar. She is the author of _Count Thereof Upon the
+  Other’s Limbs_ (72 Press, 2019) and two chapbooks, most recently _Bataille’s
+  Eggs_ (blush, 2021). Her translations of Georges Bataille were published as
+  _27 Poems on Death_ by o•blēk editions in 2021. Her poems have appeared in
+  _The Brooklyn Rail_ and _3fold_, among others. She is a 2021-2022 ESB Fellow
+  at the Poetry Project. Her work in sound has been presented by Issue Project
+  Room, PS1, and others. Rahmé holds a Masters in Philosophy from the New School
+  for Social Research. She is a co-editor at _blush,_ and lives and works in
+  Brooklyn, New York.
 portraits:
   - media: 2022/04/rachelle-rahme
 rail_contributor_url: https://brooklynrail.org/contributor/Rachelle-Rahme
