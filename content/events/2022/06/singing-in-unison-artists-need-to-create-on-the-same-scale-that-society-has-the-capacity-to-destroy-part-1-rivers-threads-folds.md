@@ -11,6 +11,7 @@ people:
   - person: chia-lun-chang
   - person: christine-kuan
   - person: david-zaza
+  - person: rachelle-rahme
   - person: kristopher-hull
 date: 2022-06-25T18:00:00-0500
 end_date: 2022-06-25T20:00:00-0500
