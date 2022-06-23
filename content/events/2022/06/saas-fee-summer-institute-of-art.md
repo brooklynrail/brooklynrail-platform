@@ -9,7 +9,8 @@ people:
   - person: warren-neidich
   - person: barry-schwabsky
   - person: thyrza-nichols-goodeve
-poets: []
+poets:
+  - person: raevan-aliyah-senior
 date: 2022-06-23T13:00:00-0500
 end_date: 2022-06-23T14:30:00-0500
 collections:
