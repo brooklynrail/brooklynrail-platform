@@ -1,7 +1,8 @@
 ---
 title: Robert Heinecken and the Art of Appropriation
-summary: "Featuring Matthew Biro and others to be announced. We conclude with a
-  poetry reading by Joe Elliot. "
+deck: "Featuring Matthew Biro and others to be announced. "
+summary: "Rail Editor-At-Large Matthew Biro joins others to be announced for a
+  conversation. We conclude with a poetry reading by Joe Elliot. "
 people:
   - person: matthew-biro
 date: 2022-07-12T13:00:00-0500
