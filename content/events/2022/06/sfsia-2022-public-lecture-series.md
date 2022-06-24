@@ -1,7 +1,7 @@
 ---
 title: SFSIA 2022 Public Lecture Series
-deck: Featuring Featuring Franco “Bifo” Berardi, Nicolas Bourriaud, Eliana Otta,
-  Florencia Portocarrero, Tomás Saraceno, Analisa Teachworth, and Victoria Vesna
+deck: Featuring Franco “Bifo” Berardi, Nicolas Bourriaud, Eliana Otta, Florencia
+  Portocarrero, Tomás Saraceno, Analisa Teachworth, and Victoria Vesna
 summary: A Public Lecture Series accompanying the SFSIA 2022 Program "Deep
   Ecology in the Cognitive Capitalocene"
 date: 2022-06-27T10:00:00-0500
