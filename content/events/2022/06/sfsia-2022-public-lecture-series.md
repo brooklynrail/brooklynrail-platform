@@ -4,7 +4,7 @@ deck: Featuring Featuring Franco “Bifo” Berardi, Nicolas Bourriaud, Eliana O
   Florencia Portocarrero, Tomás Saraceno, Analisa Teachworth, and Victoria Vesna
 summary: A Public Lecture Series accompanying the SFSIA 2022 Program "Deep
   Ecology in the Cognitive Capitalocene"
-date: 2022-06-24T10:00:00-0500
+date: 2022-06-27T10:00:00-0500
 end_date: 2022-07-01T12:00:00-0500
 collections: []
 event_organizer: []
