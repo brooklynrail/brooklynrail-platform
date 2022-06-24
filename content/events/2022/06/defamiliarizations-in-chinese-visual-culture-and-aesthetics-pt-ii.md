@@ -9,8 +9,8 @@ people:
   - person: paul-gladston
 poets:
   - person: yibing-huang
-date: 2022-06-27T20:00:00-0500
-end_date: 2022-06-27T21:30:00-0500
+date: 2022-06-27T13:00:00-0500
+end_date: 2022-06-27T15:00:00-0500
 series: 590
 collections:
   - the-new-social-environment
