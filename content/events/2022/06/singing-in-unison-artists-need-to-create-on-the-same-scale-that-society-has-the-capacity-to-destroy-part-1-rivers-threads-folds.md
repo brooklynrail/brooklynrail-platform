@@ -2,7 +2,7 @@
 title: Closing Reception
 deck: " Singing in Unison: Artists Need to Create On the Same Scale That Society
   Has the Capacity to Destroy, Part 1, rivers, threads, folds"
-summary: Featuring a poetry readings by Anselm Berrigan, Phong H. Bui, Chia-Lun
+summary: Featuring poetry readings by Anselm Berrigan, Phong H. Bui, Chia-Lun
   Chang, Christine Kuan, Rachelle Rahmé and David Zaza, and a musical
   performance by Kristopher Hull.
 people:
