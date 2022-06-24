@@ -2,9 +2,11 @@
 title: "Venetians and Early Egyptians: Robert Rauschenberg"
 deck: ""
 summary: More details to be announced soon! Hosted by Rail Editor-at-Large
-  Phyllis Tuchman.
+  Phyllis Tuchman. We conclude with a poetry reading by Joshua Edwards.
 people:
   - person: phyllis-tuchman
+poets:
+  - person: joshua-edwards
 date: 2022-07-11T13:00:00-0500
 end_date: 2022-07-11T14:30:00-0500
 collections:
