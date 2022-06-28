@@ -8,6 +8,8 @@ people:
   - person: amanda-williams
   - person: zoe-hopkins
   - person: chloe-stagaman
+poets:
+  - person: nikki-wallschlaeger
 date: 2022-06-28T13:00:00-0500
 end_date: 2022-06-28T15:00:00-0500
 series: 591
