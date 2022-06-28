@@ -15,4 +15,7 @@ short_bio: "Ukrainian-American artist  **Maya Hayuk** weaves visual information
   Program. "
 portraits:
   - media: 2022/06/maya-hayuk
+website: http://www.mayahayuk.com/
+instagram: mayahayuk
+twitter: mayahayuk
 ---
