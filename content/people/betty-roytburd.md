@@ -14,4 +14,5 @@ short_bio: Artist and activist **Betty Roytburd** (b.1989, Odesa, Ukraine) lives
 portraits:
   - media: 2022/06/betty-roytburd
 website: http://www.bettyroytburd.com/
+instagram: it.is.thyme
 ---
