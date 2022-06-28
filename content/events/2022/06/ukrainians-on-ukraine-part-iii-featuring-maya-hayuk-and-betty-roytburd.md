@@ -6,6 +6,11 @@ summary: Maya Hayuk and Betty Roytburd join Adriana Farmiga for a conversation.
 people:
   - person: maya-hayuk
   - person: betty-roytburd
+    related_links:
+      - url: https://spilka.link/
+        text: Spilka
+      - url: https://www.instagram.com/spilka.nyc/
+        text: Spilka on Instagram
   - person: adriana-farmiga
 date: 2022-06-30T13:00:00-0500
 end_date: 2022-06-30T14:30:00-0500
