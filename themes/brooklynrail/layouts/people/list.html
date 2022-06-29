@@ -1,12 +1,12 @@
 {{- define "main" -}}
 
-  {{- with .Content -}}
-    {{- . -}}
-  {{- end -}}
+{{- with .Content -}}
+  {{- . -}}
+{{- end -}}
 
-  {{/* Gets all people */}}
-  {{- $people := where $.Site.RegularPages  "Section" "people" -}}
-
+{{/* Gets all people */}}
+{{- $people := where $.Site.RegularPages  "Section" "people" -}}
+{{- $length := (len $people) -}}
 <main class="people" id="main-content" role="main">
 
   {{- if $people -}}
@@ -15,6 +15,9 @@
       <div class="grid-row grid-gap-4">
         <div class="grid-col-12">
           <h2 class="heading">People</h2>
+          <div class="content">
+            <p>A list of the {{ $length | lang.FormatNumber 0 }} people who have participated in the <em>Brooklyn Rail's</em> New Social Environment since March 2020.</p>
+          </div>
         </div>
       </div>
 
