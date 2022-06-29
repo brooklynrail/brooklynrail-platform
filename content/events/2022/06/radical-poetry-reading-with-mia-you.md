@@ -1,7 +1,8 @@
 ---
 title: Radical Poetry Reading with Mia You
-deck: "Featuring Mia You and others to be announced. "
-summary: "Mia You curates our 94th Radical Poetry Reading. "
+deck: Featuring You, Lyn Hejinian, Çağlar Köseoğlu, Nisha Ramayya and Lisa Robertson
+summary: Mia You curates our 94th Radical Poetry Reading with Lyn Hejinian,
+  Çağlar Köseoğlu, Nisha Ramayya and Lisa Robertson
 people:
   - person: mia-you
 date: 2022-07-13T13:00:00-0500
