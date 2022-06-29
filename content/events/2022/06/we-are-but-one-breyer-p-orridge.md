@@ -1,13 +1,13 @@
 ---
 title: "We Are But One: Breyer P-Orridge"
-deck: Featuring Lia Gangitano, Benjamin Tischer, and Jess Barbagallo
+deck: Featuring Benjamin Tischer, Clarity Haynes, Lia Gangitano, Scott
+  Treleaven, Ryan Martin and Genesse P-Orridge
 summary: "Curators Lia Gangitano and Benjamin Tischer join Rail contributor Jess
   Barbagallo for a conversation. We conclude with a poetry reading by El Roy
   Red. "
 people:
   - person: benjamin-tischer
   - person: lia-gangitano
-  - person: jess-barbagallo
 poets:
   - person: el-roy-red
 date: 2022-07-01T13:00:00-0500
