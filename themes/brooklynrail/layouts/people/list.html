@@ -1,0 +1,35 @@
+{{- define "main" -}}
+
+  {{- with .Content -}}
+    {{- . -}}
+  {{- end -}}
+
+  {{/* Gets all people */}}
+  {{- $people := where $.Site.RegularPages  "Section" "people" -}}
+
+<main class="people" id="main-content" role="main">
+
+  {{- if $people -}}
+  <section>
+    <div class="grid-container">
+      <div class="grid-row grid-gap-4">
+        <div class="grid-col-12">
+          <h2 class="heading">People</h2>
+        </div>
+      </div>
+
+
+      <div class="stream">
+        {{ range $people }}
+          {{- .Render "card-person" -}}
+        {{- end -}}
+      </div>
+
+    </div>
+  </section>
+
+  {{- end -}}
+
+</main>
+
+{{ end }}

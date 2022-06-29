@@ -1,0 +1,128 @@
+{{ define "main" }}
+
+{{- $name := .Params.name -}}
+
+<main class="page h-event" id="main-content" role="main">
+
+  <div class="grid-container">
+    <div class="grid-row grid-gap-4">
+      <div class="grid-col-12">
+        <article>
+          <header>
+            <div class="grid-row">
+              <div class="grid-col-12 tablet:grid-col-8 tablet:grid-offset-2">
+
+                {{ with .CurrentSection }}
+                  <p class="breadcrumb">
+                    <a class="u-black" href="{{- .Permalink | relURL -}}" title="{{- . -}}"><i class="fas fa-arrow-left"></i>&nbsp;<span>All {{ .Title -}}</span></a>
+                  </p>
+                {{- end -}}
+
+
+                <h1>
+                  {{- $name | markdownify -}}
+                </h1>
+              </div>
+            </div>
+          </header>
+
+          <section>
+            <div class="grid-row">
+              <div class="grid-col-12 tablet:grid-col-8 tablet:grid-offset-2">
+                
+                <div class="content">
+
+                  {{/* Get the portraits */}}
+                  {{- if .Params.portraits -}}
+                  {{- $portraits := .Params.portraits -}}
+                  {{- $media := (index $portraits 0).media -}}
+                  
+                  {{/* Gets the page data for this media in `/content/media` */}}
+                  {{- $image := .GetPage (print "media/" $media) -}}
+                  {{- template "media" (dict "image" $image "size" "sm" "type" "page" ) -}}
+                  {{- end -}}
+                  
+                  
+                  {{- with .Params.short_bio -}}
+                  <p class="short_bio">
+                    {{- . | markdownify -}}
+                  </p>
+                  {{- end -}}
+                </div>
+                
+                {{- with .Content -}}
+                  <div class="content">
+                    {{- . -}}
+                  </div>
+                {{- end -}}
+
+
+                {{- if .Params.rail_contributor_url -}}
+                  <div class="related_links content">
+                    <p><strong>In the Rail:</strong> <a href="{{ .Params.rail_contributor_url -}}" title="{{ $name }} in the Rail">{{ $name -}}</a></p>
+                  </div>
+                {{- end -}}
+
+                {{/* Checks if any of the social fields exists before spitting out the list */}}
+                {{- if or .Params.website .Params.instagram .Params.twitter .Params.linkedin -}}
+                  <div class="related_links">
+                    <h4>More on {{ $name -}}</h4>
+                    <ul>
+                      {{- with .Params.website -}}
+                        {{- $url := urls.Parse . -}}
+                        {{- $host := replace $url.Host "www." "" -}}
+                        <li class="website"><a href="{{- . -}}" title="View {{- $name -}}'s website">{{- $host -}}</a></li>
+                      {{- end -}}
+
+                      {{- with .Params.instagram -}}
+                        <li class="instagram"><i class="fab fa-instagram"></i>&nbsp;<a href="https://www.instagram.com/{{- . -}}" title="View {{- $name -}}'s instagram">@{{- . -}}</a></li>
+                      {{- end -}}
+
+                      {{- with .Params.twitter -}}
+                        <li class="twitter"><i class="fab fa-twitter"></i>&nbsp;<a href="https://www.twitter.com/{{- . -}}" title="View {{- $name -}}'s twitter">@{{- . -}}</a></li>
+                      {{- end -}}
+
+                      {{- with .Params.linkedin -}}
+                        <li class="linkedin"><i class="fab fa-linkedin"></i>&nbsp;<a href="https://www.linkedin.com/{{- . -}}" title="View {{- $name -}}'s linkedin">{{- . -}}</a></li>
+                      {{- end -}}
+
+                    </ul>
+                  </div>
+                {{- end -}}
+
+                <div class="">
+                {{/* Gets all events */}}
+                {{- $events := where $.Site.RegularPages "Section" "events" -}}
+                {{/* Gets all $past_events from specific collections */}}
+                {{/*  {{- $past_events := where $events ".Params.People.Person" "=" "paul-gladston" -}}  */}}
+                {{/*  {{- $past_events := where $events ".Params.People" "intersect" (slice .) -}}  */}}
+                {{- $past_events := where $events ".Date.Unix" "<" now.Unix -}}
+                {{/*  {{- $past_events := where $past_events ".Params.people" "intersect" (slice (dict "person" "william-corwin")) -}}  */}}
+                {{- $past_events := where $past_events ".Params.people"  .File.BaseFileName -}}
+                {{/*  {{ $total_events := where $upcoming_events ".Params.topics" "intersect" .Params.topics }}  */}}
+                {{/*  {{ . }}  */}}
+                {{/*  {{ .File.BaseFileName }}  */}}
+                
+                {{/*  {{- $past_events := where $past_events ".Params.people" "intersect" (slice (index .Params.people "william-corwin")) -}}  */}}
+
+                {{- if $past_events -}}
+                  YES
+                  {{- range $past_events -}}
+                    <div class="grid-col-12 mobile-lg:grid-col-6 tablet-lg:grid-col-4 desktop-lg:grid-col-3">
+                      <h2>{{- .Title -}}</h2>
+                    </div>
+                  {{- end -}}
+                  
+
+                {{- end -}}
+                </p>
+              </div>
+            </div>
+          </section>
+
+        </article>
+      </div>
+    </div>
+  </div>
+</main>
+{{ end }}
