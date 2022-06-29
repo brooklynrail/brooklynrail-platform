@@ -32,6 +32,7 @@ permalinks:
   donate: ":filename/"
   pages: ":filename/"
   events: "events/:year/:month/:day/:filename/"
+  people: "people/:filename/"
 
 # Taxonomies
 taxonomies:

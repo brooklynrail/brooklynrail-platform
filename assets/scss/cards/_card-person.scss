@@ -1,0 +1,30 @@
+.card-person{
+  @include u-margin-y(0);
+  @include u-padding-y(4);
+  @include at-media('tablet-lg') {
+    @include u-padding-y(3);
+  }
+  @include u-border-top('1px','gray-40', 'dotted');
+
+  header {
+    @include u-margin-y(0);
+    @include u-padding-y(0);
+
+    h2{
+      @include u-margin(0);
+      @include u-text('medium');
+      @include u-font('sans', 'lg');
+      @include u-line-height('sans', 2);
+      strong{
+        @include u-text('medium');
+      }
+    }
+
+    
+
+  }
+
+  &:first-child{
+    @include u-border-top(0);
+  }
+}
