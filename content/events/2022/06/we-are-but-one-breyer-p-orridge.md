@@ -1,13 +1,22 @@
 ---
 title: "We Are But One: Breyer P-Orridge"
 deck: Featuring Benjamin Tischer, Clarity Haynes, Lia Gangitano, Scott
-  Treleaven, Ryan Martin and Genesse P-Orridge
-summary: "Curators Lia Gangitano and Benjamin Tischer join Rail contributor Jess
-  Barbagallo for a conversation. We conclude with a poetry reading by El Roy
-  Red. "
+  Treleaven, Ryan Martin, Genesse P-Orridge, and Ksenia Soboleva.
+summary: "Curators Lia Gangitano and Benjamin Tischer, artists Clarity Haynes,
+  Scott Treleaven, Ryan Martin, and Genesse P-Orridge join Rail contributor
+  Ksenia Soboleva for a conversation. We conclude with a poetry reading by El
+  Roy Red. "
 people:
   - person: benjamin-tischer
   - person: lia-gangitano
+  - person: clarity-haynes
+  - person: scott-treleaven
+  - person: ryan-martin
+  - person: genesse-p-orridge
+    related_links:
+      - url: https://www.nytimes.com/2022/04/21/arts/design/genesis-p-orridge-artist-occult-transgender.html
+        text: '"Honoring Genesis P-Orridge’s Legacy of Love, Art and Gender Revolt"'
+  - person: ksenia-m-soboleva
 poets:
   - person: el-roy-red
 date: 2022-07-01T13:00:00-0500
