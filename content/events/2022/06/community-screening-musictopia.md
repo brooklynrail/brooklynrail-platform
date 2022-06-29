@@ -2,8 +2,8 @@
 title: "Community Screening: MUSICTOPIA"
 deck: directed by José Espinola
 summary: A special holiday screening of MUSICTOPIA by José Espinola
-date: 2022-06-29T16:52:00-0500
-end_date: 2022-06-29T16:52:00-0500
+date: 2022-07-04T13:00:00-0500
+end_date: 2022-07-04T14:30:00-0500
 collections:
   - the-new-social-environment
 event_organizer:
@@ -18,7 +18,7 @@ event_platform:
 
 MUSICTOPIA explores the origin of sound, how music acts as a mirror to society, and how electronic music predicts the future in culture, instilling profound emotional and behavioral change in its listeners. *\*Nine years in the making, the film assembles _*50 avant-garde artists_* from around the world to talk and perform, reflecting on what it means to be an artist and the challenges encountered in the digital age.
 
-Through the eyes of musicians, Jose Espínola documents the challenges the creative industry is facing today.  *\*How has technology changed the way we create and consume music? How can the artist escape commoditization and survive this lack of permanence?**
+Through the eyes of musicians, Jose Espínola documents the challenges the creative industry is facing today.  \*\*How has technology changed the way we create and consume music? How can the artist escape commoditization and survive this lack of permanence?\*\*
 
 With the advent of digital distribution, it seems everyone is a producer, but not a music consumer. Where the more that is supplied, the less value it has.
 
