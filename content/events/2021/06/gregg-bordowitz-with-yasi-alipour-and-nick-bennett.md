@@ -11,7 +11,7 @@ people:
       - url: https://brooklynrail.org/2020/07/art/GREGG-BORDOWITZ-with-Yasi-Alipour
         text: Gregg Bordowitz in conversation with Yasi Alipour
   - person: yasi-alipour
-  - person: nick-bennett-1
+  - person: nick-bennett
 poets:
   - person: laszlo-horvath
 date: 2021-07-16T13:00:00-0500
