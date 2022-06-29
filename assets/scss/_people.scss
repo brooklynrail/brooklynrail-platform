@@ -1,0 +1,87 @@
+// ====================================
+// Single Event page styles
+
+
+
+// List page
+
+// Single page
+.people{
+
+  // Single Event Page / Header
+  header {
+    @include u-margin-bottom(0);
+    @include u-padding-y(3);
+    @include at-media('tablet') {
+      @include u-margin-bottom(5);
+      @include u-padding-y(0);
+    }
+
+    h1{
+      @include u-margin-bottom(0);
+      @include u-line-height('sans', 2);
+      strong{
+        @include u-text('bold');
+      }
+    }
+  }
+
+
+
+  section{
+
+    .content{
+      @include u-font('sans', 'md');
+    }
+    
+    .short_bio{
+      @include u-margin-bottom('105');
+    }
+
+    .related_links{
+      @include u-margin-bottom('105');
+      @include u-font('sans', 'sm');
+      strong{
+        @include u-text('medium');
+      }
+      p{
+        @include u-margin-bottom('05');
+        &:last-child{
+          @include u-margin-bottom(0);
+        }
+      }
+      h4{
+        @include u-margin-y(0);
+        @include u-margin-bottom('05');
+        @include u-text('medium');
+        @include u-display('inline-block');
+        @include u-font('sans', 'sm');
+      }
+      ul{
+        @include u-margin-y(1);
+        @include u-padding-left(2);
+        @include u-line-height('sans', 2);
+        @include u-text('normal');
+        // @include add-list-reset;
+        li{
+          @include u-margin-bottom('05');
+          i{
+            @include u-position('relative');
+            @include u-top('2px');
+          }
+          a{
+            @include u-text('no-underline');
+            &:hover{
+              @include u-text('underline');
+            }
+          }
+          span{
+            @include u-font('sans', '2xs');
+            @include u-text('thin');
+          }
+        }
+      }
+    }
+
+  }
+}
