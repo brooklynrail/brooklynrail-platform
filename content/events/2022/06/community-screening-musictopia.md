@@ -16,9 +16,9 @@ event_platform:
 ---
 {{< image media="2022/06/musictopia" size="lg" >}}
 
-MUSICTOPIA explores the origin of sound, how music acts as a mirror to society, and how electronic music predicts the future in culture, instilling profound emotional and behavioral change in its listeners. _*Nine years in the making_*, the film assembles _*50 avant-garde artists_* from around the world to talk and perform, reflecting on what it means to be an artist and the challenges encountered in the digital age.
+MUSICTOPIA explores the origin of sound, how music acts as a mirror to society, and how electronic music predicts the future in culture, instilling profound emotional and behavioral change in its listeners. *\*Nine years in the making, the film assembles _*50 avant-garde artists_* from around the world to talk and perform, reflecting on what it means to be an artist and the challenges encountered in the digital age.
 
-Through the eyes of musicians, Jose Espínola documents the challenges the creative industry is facing today.  _*How has technology changed the way we create and consume music? How can the artist escape commoditization and survive this lack of permanence?_*
+Through the eyes of musicians, Jose Espínola documents the challenges the creative industry is facing today.  *\*How has technology changed the way we create and consume music? How can the artist escape commoditization and survive this lack of permanence?**
 
 With the advent of digital distribution, it seems everyone is a producer, but not a music consumer. Where the more that is supplied, the less value it has.
 
