@@ -1,6 +1,6 @@
 ---
 title: "Observing Heart: Mary Frank"
-deck: Feautring Frank and Andrew Woolbright
+deck: Featuring Frank and Andrew Woolbright
 summary: Artist Mary Frank joins Rail contributor Andrew Woolbright for a
   conversation. We conclude with a poetry reading by Sarah Passino.
 people:
@@ -15,6 +15,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: reczgjHGB4kUkvU5F
 event_platform:
   - zoom
 ---
