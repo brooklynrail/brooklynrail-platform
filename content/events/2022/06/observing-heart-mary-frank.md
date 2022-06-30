@@ -6,6 +6,8 @@ summary: Artist Mary Frank joins Rail contributor Andrew Woolbright for a
 people:
   - person: mary-frank
   - person: andrew-paul-woolbright
+poets:
+  - person: sarah-passino
 date: 2022-07-05T13:00:00-0500
 end_date: 2022-07-05T14:30:00-0500
 series: 596
