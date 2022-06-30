@@ -1,5 +1,5 @@
 ---
-title: "Observing Heart: Mary Frank"
+title: "The Observing Heart: Mary Frank"
 deck: Featuring Frank and Andrew Woolbright
 summary: Artist Mary Frank joins Rail contributor Andrew Woolbright for a
   conversation. We conclude with a poetry reading by Sarah Passino.
@@ -21,4 +21,4 @@ event_id: reczgjHGB4kUkvU5F
 event_platform:
   - zoom
 ---
-[Visit *Observing the Heart: Mary Frank*, on view at The Dorsky Museum through July 17, 2022 →](https://www.newpaltz.edu/museum/exhibitions/mary-frank/)
+[Visit *The Observing the Heart: Mary Frank*, on view at The Dorsky Museum through July 17, 2022 →](https://www.newpaltz.edu/museum/exhibitions/mary-frank/)
