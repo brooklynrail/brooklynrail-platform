@@ -11,7 +11,6 @@ people:
   - person: lia-gangitano
   - person: clarity-haynes
   - person: scott-treleaven
-  - person: ryan-martin
   - person: genesse-p-orridge
     related_links:
       - url: https://www.nytimes.com/2022/04/21/arts/design/genesis-p-orridge-artist-occult-transgender.html
