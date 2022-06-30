@@ -7,7 +7,7 @@ people:
   - person: sheena-hoszko
   - person: brett-story
   - person: leslie-topp
-  - person: allison-morehead-1
+  - person: allison-morehead
   - person: tanya-sheehan
   - person: suzanne-hudson
 date: 2022-07-07T13:00:00-0500
