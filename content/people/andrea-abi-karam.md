@@ -1,10 +1,4 @@
 ---
-people:
-  - person: ron-athey
-  - person: amelia-jones
-    related_links:
-      - url: https://brooklynrail.org/events/2021/03/04/curatorial-activism-part-4/
-        text: Curatorial Activism panel at the Brooklyn Rail with Maura Reilly
 name: Andrea Abi-Karam
 first_name: Andrea
 last_name: Abi-Karam

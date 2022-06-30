@@ -4,7 +4,7 @@ summary: "Join us for conversations and musical performances with artists,
   scientists, composers, musicians, and museum directors on the implications of
   NFTs, carbon capture, and the performing arts in the age of climate crisis. "
 people:
-  - person: andrea-andersson-1
+  - person: andrea-andersson
     related_links:
       - url: https://riversinstitute.org/
         text: Rivers Institute for Contemporary Art & Thought

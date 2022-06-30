@@ -6,7 +6,7 @@ summary: Artist Troy Montes-Michie joins curator and author Andrea Andersson and
   reading by Jaylen Strong.
 people:
   - person: troy-montes-michie
-  - person: andrea-andersson-1
+  - person: andrea-andersson
   - person: zoe-hopkins
 poets:
   - person: jaylen-strong

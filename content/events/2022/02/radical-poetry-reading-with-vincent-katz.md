@@ -10,7 +10,7 @@ people:
   - person: benedicta-froelich
   - person: eileen-myles
   - person: trace-peterson
-  - person: andrei-codrescu-1
+  - person: andrei-codrescu
   - person: vincent-katz
 date: 2022-02-16T13:00:00-0500
 end_date: 2022-02-16T14:30:00-0500

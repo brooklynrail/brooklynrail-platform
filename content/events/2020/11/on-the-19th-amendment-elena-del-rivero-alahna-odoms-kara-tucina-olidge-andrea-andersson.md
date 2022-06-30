@@ -6,7 +6,8 @@ deck: Weekly conversations with activists, social justice practitioners, and
 summary: "Please join us for a conversation on the storied history of the 19th
   Amendment and universal suffrage in this country. "
 people:
-  - event_bio: "Andrea Andersson serves as Founding Director and Chief Curator of
+  - person: andrea-andersson
+    event_bio: "Andrea Andersson serves as Founding Director and Chief Curator of
       Rivers Institute for Contemporary Art & Thought, a multi-platform
       organization based in New Orleans. As a writer and curator, she has
       organized internationally touring exhibitions; she coedits a series of
@@ -17,7 +18,6 @@ people:
       Sergio Bessa, which accompanies the eponymous exhibition currently on view
       at the Bronx Museum of Art and traveling in the spring to the California
       African American Museum in Los Angeles."
-    person: andrea-andersson-1
   - person: kara-tucina-olidge
     event_bio: Kara Tucina Olidge, Ph.D. is a scholar, arts and educational
       administrator and the Executive Director of the Amistad Research Center at
@@ -74,7 +74,7 @@ registration_url: https://www.eventbrite.com/e/elena-del-rivero-alanah-odoms-kar
 event_platform:
   - zoom
 ---
-Please join us for the eleventh installment in our Common Ground series, for a conversation with visual artist **Elena del Rivero**, civil rights leader and Director of the ACLU of Louisiana **Alanah Odoms**, and scholar and Director of the [Amistad Research Center](https://www.amistadresearchcenter.org/) **Kara Tucina Olidge** in dialogue with **Andrea Andersson**, Director and Chief Curator of [Rivers Institute for Contemporary Art & Thought ](https://riversinstitute.org/)in New Orleans. They will be discussing the ongoing history of the 19th Amendment and universal suffrage in the wake of the recent presidential election and our contested Supreme Court. 
+Please join us for the eleventh installment in our Common Ground series, for a conversation with visual artist **Elena del Rivero**, civil rights leader and Director of the ACLU of Louisiana **Alanah Odoms**, and scholar and Director of the [Amistad Research Center](https://www.amistadresearchcenter.org/) **Kara Tucina Olidge** in dialogue with **Andrea Andersson**, Director and Chief Curator of [Rivers Institute for Contemporary Art & Thought](https://riversinstitute.org/)in New Orleans. They will be discussing the ongoing history of the 19th Amendment and universal suffrage in the wake of the recent presidential election and our contested Supreme Court. 
 
 Bringing together voices from the archive, visual art, and social activism, this hourlong conversation will kick off with a discussion of the nationwide art initiative *[Elena del Rivero: Home Address](https://riversinstitute.org/happenings/happenings-elena-del-rivero-home-address)* (Oct 2020–Feb 2021) to consider the local, national, and global implications of universal suffrage on the heels of one election and in anticipation of the Georgia Senate Runoff in January, as well as the virtual exhibition* [Justice Can't Wait: Oppression and Resistance - Slavery to Mass Incarceration in Louisiana](https://artsandculture.google.com/exhibit/justice-can-t-wait/IgJiVU_PJRY-LA)* co-curated by the Amistad Research Center and the ACLU of Louisiana. 
 

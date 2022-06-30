@@ -9,7 +9,7 @@ people:
   - person: donatien-grau
   - person: raphael-rubinstein
 poets:
-  - person: andrei-codrescu-1
+  - person: andrei-codrescu
 date: 2021-11-23T13:00:00-0500
 end_date: 2021-11-23T14:30:00-0500
 series: 435
