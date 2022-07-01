@@ -12,4 +12,6 @@ short_bio: New media artist and Creative Technologist **LaJuné McMillian**
   movement and technology. They have continued their research on Blackness,
   Movement, and Technology during residencies at Eyebeam, Pioneer Works
   Barbarian Group, and Barnard College.
+portraits:
+  - media: 2022/06/lajune-mcmillian
 ---
