@@ -6,6 +6,8 @@ summary: Featuring Nancy Baker Cahill, Joan Jonas, and Charlotte Kent. We
 people:
   - person: nancy-baker-cahill
   - person: joan-jonas
+  - person: kilo-kish
+  - person: lajune-mcmillian
   - person: charlotte-kent
 poets:
   - person: maxine-chernoff
