@@ -8,5 +8,7 @@ short_bio: "Poet Molly Peacock’s latest poetry collections are _The Analyst:
   Friend Sails in on a Poem_. She is the former President of the Poetry Society
   of America and Poet-in-Residence at the American Poets’ Corner she is the
   co-founder of Poetry in Motion on New York’s subways and buses and the founder
-  of The Best Canadian Poetry. "
+  of The Best Canadian Poetry."
+portraits:
+  - media: 2022/07/molly-peacock
 ---
