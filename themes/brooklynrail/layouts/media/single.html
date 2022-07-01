@@ -1,0 +1,56 @@
+{{ define "main" }}
+
+{{- $name := .Params.Title -}}
+
+<main class="page h-event" id="main-content" role="main">
+
+  <div class="grid-container">
+    <div class="grid-row grid-gap-4">
+      <div class="grid-col-12">
+        <article>
+          <header>
+            <div class="grid-row">
+              <div class="grid-col-12 tablet:grid-col-8 tablet:grid-offset-2">
+
+                {{ with .CurrentSection }}
+                  <p class="breadcrumb">
+                    <a class="u-black" href="{{- .Permalink | relURL -}}" title="{{- . -}}"><i class="fas fa-arrow-left"></i>&nbsp;<span>All {{ .Title -}}</span></a>
+                  </p>
+                {{- end -}}
+
+
+                <h1>
+                  {{- $name | markdownify -}}
+                </h1>
+
+              </div>
+            </div>
+          </header>
+
+          <section>
+            <div class="grid-row">
+              <div class="grid-col-12 tablet:grid-col-8 tablet:grid-offset-2">
+                
+                <div class="content">
+
+                  {{/* Get the portraits */}}
+                  {{- if .Params.media -}}
+                  {{- template "media" (dict "image" . "size" "sm" "type" "page") -}}
+                  {{- end -}}
+
+                  {{- with .Params.alt -}}
+                    
+                  {{- end -}}
+                  
+                </div>
+                
+              </div>
+            </div>
+          </section>
+
+        </article>
+      </div>
+    </div>
+  </div>
+</main>
+{{ end }}

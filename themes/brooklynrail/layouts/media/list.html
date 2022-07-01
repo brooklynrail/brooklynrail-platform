@@ -1,0 +1,38 @@
+{{- define "main" -}}
+
+{{- with .Content -}}
+  {{- . -}}
+{{- end -}}
+
+{{/* Gets all media */}}
+{{- $media := where $.Site.RegularPages  "Section" "media" -}}
+{{- $length := (len $media) -}}
+<main class="media" id="main-content" role="main">
+
+  {{- if $media -}}
+  <section>
+    <div class="grid-container">
+      <div class="grid-row grid-gap-4">
+        <div class="grid-col-12">
+          <h2 class="heading">Media</h2>
+          <div class="content">
+            <p>All {{ $length | lang.FormatNumber 0 }} media files</p>
+          </div>
+        </div>
+      </div>
+
+
+      <div class="stream">
+        {{ range $media }}
+          {{- .Render "card-media" -}}
+        {{- end -}}
+      </div>
+
+    </div>
+  </section>
+
+  {{- end -}}
+
+</main>
+
+{{ end }}
