@@ -4,6 +4,9 @@ deck: Featuring David Mills and friends
 summary: "David Mills curates our 93rd Radical Poetry Reading  "
 people:
   - person: david-mills-1
+  - person: rose-auslander
+  - person: molly-peacock
+  - person: rose-ben-oni
 date: 2022-07-06T13:00:00-0500
 end_date: 2022-07-06T14:30:00-0500
 collections:
