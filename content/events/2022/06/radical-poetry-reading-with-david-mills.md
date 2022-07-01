@@ -1,7 +1,7 @@
 ---
 title: "Radical Poetry Reading with David Mills "
-deck: Featuring David Mills and friends
-summary: "David Mills curates our 93rd Radical Poetry Reading  "
+deck: Featuring Mills, Rose Auslander, Molly Peacock, and Rose Ben-Oni
+summary: "David Mills curates our 93rd Radical Poetry Reading."
 people:
   - person: david-mills-1
   - person: rose-auslander
