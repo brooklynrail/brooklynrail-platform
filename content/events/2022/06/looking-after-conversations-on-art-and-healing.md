@@ -10,6 +10,7 @@ people:
   - person: allison-morehead
   - person: tanya-sheehan
   - person: suzanne-hudson
+poets:
   - person: bianca-rae-messinger
 date: 2022-07-07T13:00:00-0500
 end_date: 2022-07-07T14:30:00-0500
