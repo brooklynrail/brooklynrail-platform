@@ -9,4 +9,6 @@ short_bio: A poet and translator living and working in Buffalo, NY, **Bianca Rae
   Arts Chapbook Prize. Her translations of South American authors have been
   published for the Berlin Biennale, Monster House Press, among others. She
   writes for _ramona_ (Buenos Aires).
+portraits:
+  - media: 2022/07/bianca-rae-messinger
 ---
