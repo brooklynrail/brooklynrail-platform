@@ -1,7 +1,7 @@
 ---
 title: "Community Screening: MUSICTOPIA"
 deck: Directed by Jose Espínola
-summary: Join us for a special holiday screening of MUSICTOPIA by Jose Espínola.
+summary: Join us for a special holiday screening exclusive preview of MUSICTOPIA by Jose Espínola
 date: 2022-07-04T13:00:00-0500
 end_date: 2022-07-04T14:30:00-0500
 collections:

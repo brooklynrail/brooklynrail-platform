@@ -8,6 +8,7 @@ people:
   - person: ama-birch
   - person: kyle-carrero-lopez
   - person: tyhe-cooper
+  - person: phong-h-bui
 date: 2022-07-02T16:00:00-0500
 end_date: 2022-07-02T18:00:00-0500
 collections:
