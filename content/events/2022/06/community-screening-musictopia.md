@@ -22,14 +22,14 @@ Through the eyes of musicians, Jose Espínola documents the challenges the creat
 
 With the advent of digital distribution, it seems everyone is a producer, but not a music consumer. Where the more that is supplied, the less value it has.
 
-*MUSICTOPIA* is not a film based on a single character or geographical context. Rather a globalize artistic approach, the arc is within the story, where 50 voices converge in a single one, away from the ego of a single cosmovision. The story is created by the many, in-depth conversations and live performances of artists such as Juan Atkins, Alva Noto, Nils Frahm, Kelly Moran, Caterina Barbieri, Phanta Du Prince, The Orb, Air, Matmos, Kelly Lee Owens, Holly Herndon, Kode9, among many others.
+*MUSICTOPIA* is not a film based on a single character or geographical context. Rather a globalize artistic approach, the arc is within the story, where 50 voices converge in a single one, away from the ego of a single cosmovision. The story is created by the many, in-depth conversations and live performances of artists such as Juan Atkins, Alva Noto, Nils Frahm, Kelly Moran, Caterina Barbieri, Phanta Du Prince, The Orb, Air, Matmos, Kelly Lee Owens, Kode9, among many others.
 
 \
-**José Espinola** is the founder of Brutal Inc, a multidisciplinary audio-visual studio, where he creates both personal pieces and projects for brands, publishing houses, and publications, with his in-house collaborators who are visual artists, designers, and musicians. He has directed several documentaries and music videos for artists including Camila Fuchs, A-Trak, Jamie Lidell, Helado Negro, Philip Glass & James Turell, Kashmir, Health, Zola Jesús, and Au Revoir Simone. In 2015 his first short documentary film, *Corazon*, based on the life of New York artist Camille Corazon, was released.
+[**José Espinola**](https://streaklinks.com/BGyk52uYmAD8XHvWZwAnkO1p/http%3A%2F%2Fwww.josespinola.com) is the founder of [Brutal Inc](https://streaklinks.com/BGyk52uRUewYDitVsQJMHKhW/http%3A%2F%2Fwww.brutalinc.org), a multidisciplinary audio-visual studio, where he creates both personal pieces and projects for brands, publishing houses, and publications, with his in-house collaborators who are visual artists, designers, and musicians. He has directed several documentaries and music videos for artists including Camila Fuchs, A-Trak, Jamie Lidell, Helado Negro, Philip Glass & James Turell, Kashmir, Health, Zola Jesús, and Au Revoir Simone. In 2015 his first short documentary film, *Corazon*, based on the life of New York artist Camille Corazon, was released.
 
 José looks for stories in places where it seems that none are to be found. His work documents and establishes connections between his characters and their environments with a captivating empathy that allows him to seek out instances of public intimacy and delve into the realm of privacy.
 
-Director: Jose Espínola, [@jose_spinola](https://www.instagram.com/jose_spinola/?hl=en)
+Directed by Jose Espínola, [@jose_spinola](https://www.instagram.com/jose_spinola/?hl=en)
 
 Production co: @brutal_inc
 
