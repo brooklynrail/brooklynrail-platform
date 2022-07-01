@@ -2,7 +2,7 @@
 name: Molly Peacock
 first_name: Molly
 last_name: Peacock
-short_bio: "Poet Molly Peacock’s latest poetry collections are _The Analyst:
+short_bio: "Poet **Molly Peacock’s** latest poetry collections are _The Analyst:
   Poems and Cornucopia: New and Selected Poems_, from W.W. Norton and Company.
   She is working on a book of essays about friendship and poetry called _A
   Friend Sails in on a Poem_. She is the former President of the Poetry Society
