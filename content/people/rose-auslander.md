@@ -7,4 +7,6 @@ short_bio: Addicted to water and poetry _(not necessarily in that order)_,
   Editor of Folded Word Press and Editor of the unFold zine, she has been
   nominated for a Pushcart Prize and has read her poems on NPR. Rose currently
   lives on Cape Cod.
+portraits:
+  - media: 2022/07/rose-auslander
 ---

@@ -9,4 +9,6 @@ short_bio: Born to a Mexican mother and Jewish father, **Rosebud Ben-Oni** is
   _Turn around, BRXGHT XYXS_ (Get Fresh Books, 2019) and the chapbook _20 Atomic
   Sonnets_, which appears online in Black Warrior Review (2020), in honor of the
   Periodic Table’s 150th Birthday.
+portraits:
+  - media: 2022/07/rose-ben-oni
 ---
