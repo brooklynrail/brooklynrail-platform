@@ -9,5 +9,5 @@ short_bio: "Co-founder of American independent record label Dais Records, **Ryan
   influential artists while concurrently seeking out rare, forgotten and lost
   recordings to reissue for a modern audience."
 portraits:
-  - {}
+  - media: 2022/07/ryan-martin-1
 ---

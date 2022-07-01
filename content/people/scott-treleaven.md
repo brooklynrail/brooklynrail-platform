@@ -13,7 +13,8 @@ short_bio: "Artist **Scott Treleaven** first came to attention in the early 90s
   Artists Since 1955_ (JRP|Ringier 2009), _The Magazine – Documents of
   Contemporary Art Series _(MIT Press 2015), and _Showboat: Punk, Sex, Bodies_
   (Dashwood 2016)."
-portraits: []
+portraits:
+  - media: 2022/07/scott-treleaven-1
 website: https://www.scotttreleaven.com/
 instagram: scotttreleaven
 ---
