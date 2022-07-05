@@ -2,11 +2,12 @@
 name: Rose Auslander
 first_name: Rose
 last_name: Auslander
-short_bio: Addicted to water and poetry _(not necessarily in that order)_,
-  **Rose Auslander** earned her MFA in Poetry from Warren Wilson College. Poetry
-  Editor of Folded Word Press and Editor of the unFold zine, she has been
-  nominated for a Pushcart Prize and has read her poems on NPR. Rose currently
-  lives on Cape Cod.
+short_bio: "Poet **Rose Auslander**'s last name means foreigner. Obsessed with
+  the sea but unable to walk on sand, she is the author of the book Wild Water
+  Child, the chapbooks _Folding Water, Hints_, and _The Dolphin in the Gowanus,_
+  and poems in the Berkeley Poetry Review, Baltimore Review, New American
+  Writing, RHINO, Roanoke Review, Rumble Fish, Tinderbox, and Tupelo Quarterly.
+  "
 portraits:
-  - media: 2022/07/rose-auslander
+  - media: 2022/07/rose-auslander-1
 ---
