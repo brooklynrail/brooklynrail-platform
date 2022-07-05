@@ -3,7 +3,8 @@ title: "Community Listing: Art During War–  Flux Factory, Fundraiser for Ukrai
 summary: "This is a Live Event on Governors Island "
 date: 2022-07-09T16:00:00-0500
 end_date: 2022-07-09T20:00:00-0500
-collections: []
+collections:
+  - community-listing
 event_organizer: []
 event_producer:
   - the-brooklyn-rail
