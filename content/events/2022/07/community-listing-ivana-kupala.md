@@ -10,6 +10,7 @@ collections:
 event_organizer: []
 event_producer:
   - the-brooklyn-rail
+event_id: recSofXS77Sg3nj4B
 registration_url: https://www.eventbrite.com/e/ivana-kupala-tickets-377522649407
 event_platform: null
 ---
