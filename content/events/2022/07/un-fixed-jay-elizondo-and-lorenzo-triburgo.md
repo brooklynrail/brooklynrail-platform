@@ -5,6 +5,7 @@ summary: Jay Elizondo and Lorenzo Triburgo join Rail Contributor Ksenia Soboleva
   for a conversation. We conclude with a poetry reading by Mel Elberg.
 people:
   - person: jay-elizondo
+  - person: lorenzo-triburgo
   - person: ksenia-m-soboleva
 date: 2022-07-05T13:48:00-0500
 end_date: 2022-07-05T13:48:00-0500
