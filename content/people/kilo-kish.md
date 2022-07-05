@@ -14,7 +14,7 @@ short_bio: Interdisciplinary artist and performer **Kish Robinson** explores
   supporting her recent album release, American Gurl, and working on creative
   direction projects in Los Angeles.
 portraits:
-  - media: ""
+  - media: 2022/07/kilo-kish-updated
 website: https://www.kishrobinson.com
 instagram: https://www.instagram.com/kilokish/
 twitter: https://twitter.com/kilokish
