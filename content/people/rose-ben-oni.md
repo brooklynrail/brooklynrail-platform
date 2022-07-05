@@ -1,6 +1,6 @@
 ---
-name: Rose Ben-Oni
-first_name: Rose
+name: Rosebud Ben-Oni
+first_name: Rosebud
 last_name: Ben-Oni
 short_bio: Born to a Mexican mother and Jewish father, **Rosebud Ben-Oni** is
   the winner of 2019 Alice James Award for _If This Is the Age We End Discovery_
