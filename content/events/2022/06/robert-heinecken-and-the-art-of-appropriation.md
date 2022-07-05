@@ -8,6 +8,8 @@ people:
   - person: sheida-soleimani
   - person: andres-mario-zervigon
   - person: matthew-biro
+poets:
+  - person: joe-eliot
 date: 2022-07-12T13:00:00-0500
 end_date: 2022-07-12T14:30:00-0500
 collections:
