@@ -6,7 +6,7 @@ summary: SPILKA in collaboration with UAAL invites you to join us for Ivana
 date: 2022-07-06T17:00:00-0500
 end_date: 2022-07-06T21:00:00-0500
 collections:
-  - the-new-social-environment
+  - community-listing
 event_organizer: []
 event_producer:
   - the-brooklyn-rail
