@@ -1,5 +1,5 @@
 ---
-title: "Community Listing: Art During War–  Flux Factory Fundraiser for Ukraine "
+title: "Community Listing: Art During War–  Flux Factory, Fundraiser for Ukraine "
 summary: "This is a Live Event on Governors Island "
 date: 2022-07-09T16:00:00-0500
 end_date: 2022-07-09T20:00:00-0500
@@ -7,6 +7,7 @@ collections: []
 event_organizer: []
 event_producer:
   - the-brooklyn-rail
+event_id: recQntDsEzzmSGAoe
 registration_url: https://www.fluxfactory.org/event/art-during-war-fundraiser-for-ukraine/
 event_platform:
   - zoom
@@ -21,4 +22,4 @@ Flux Factory together with [BIRUCHIY](https://www.instagram.com/biruchiy/) con
 
 This is a Live Event on Governors Island, Colonels Row House 404A 
 
-Jul 9th, 4pm - 8pm
+July 9th, 4pm - 8pm
