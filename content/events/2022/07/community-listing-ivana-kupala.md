@@ -1,8 +1,8 @@
 ---
 title: "Community Listing: Ivana Kupala"
-summary: "## SPILKA in collaboration with UAAL invites you to join us for Ivana
+summary: SPILKA in collaboration with UAAL invites you to join us for Ivana
   Kupala! Fundraiser for Ukraine & Celebration of the Ukrainian Solstice! This
-  is a Live Event at 99 Scott"
+  is a Live Event at 99 Scott
 date: 2022-07-06T17:00:00-0500
 end_date: 2022-07-06T21:00:00-0500
 collections:
@@ -15,7 +15,7 @@ event_platform: null
 ---
 ## SPILKA in collaboration with UAAL invites you to join us for Ivana Kupala! Fundraiser for Ukraine & Celebration of the Ukrainian Solstice!
 
-### This is a Live Event at 99 Scott Avenue 
+### This is a Live Event at 99 Scott Avenue
 
 ### 🌿 Kupala night will offer 🌿🧜‍♀️
 
@@ -23,7 +23,7 @@ event_platform: null
 * **Food and Drinks**
 * **Fun and Games**
 * **DJ sets, Mermaid Songs, Dancing**
-* **Film Screening of Sergei Parajanov's legendary film *Shadows of Forgotten Ancestors****
+* **Film Screening of Sergei Parajanov's legendary film \*Shadows of Forgotten Ancestors\****
 * **and More!**
 
 **\*Shadows of Forgotten Ancestors,** is a 1965 Ukrainian film by the Armenian filmmaker Sergei Parajanov based on the novel Shadows of Forgotten Ancestors by Ukrainian writer Mykhailo Kotsiubynsky that tells a "Romeo and Juliet tale" of young Ukrainian Hutsul lovers trapped on opposite sides of a Carpathian family blood feud.
