@@ -5,6 +5,8 @@ summary: "Rail Editor-At-Large Matthew Biro joins Sheida Soleimani and Andrés
   Mario Zervigón for a conversation on Robert Heinecken. We conclude with a
   poetry reading by Joe Elliot. "
 people:
+  - person: sheida-soleimani
+  - person: andres-mario-zervigon
   - person: matthew-biro
 date: 2022-07-12T13:00:00-0500
 end_date: 2022-07-12T14:30:00-0500
