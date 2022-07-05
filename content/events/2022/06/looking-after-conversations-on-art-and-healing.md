@@ -2,7 +2,8 @@
 title: "Looking After: Conversations on Art and Healing"
 deck: Art, Health, and Incarceration
 summary: Featuring Sheena Hoszko, Brett Story, Leslie Topp, and Allison
-  Morehead, with introductions by Suzanne Hudson and Tanya Sheehan.
+  Morehead, with introductions by Suzanne Hudson and Tanya Sheehan. We conclude
+  with a poetry reading by Bianca Rae Messinger.
 people:
   - person: sheena-hoszko
   - person: brett-story
