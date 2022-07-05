@@ -5,7 +5,7 @@ summary: Mia You curates our 94th Radical Poetry Reading with Lyn Hejinian,
   Çağlar Köseoğlu, Nisha Ramayya and Lisa Robertson
 people:
   - person: lyn-hejinian
-  - person: caglar-koseoglu
+  - person: lyn-hejinian
   - person: nisha-ramayya
   - person: lisa-robertson
   - person: mia-you
