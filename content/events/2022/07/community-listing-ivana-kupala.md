@@ -4,7 +4,7 @@ summary: SPILKA in collaboration with UAAL invites you to join us for Ivana
   Kupala! Fundraiser for Ukraine & Celebration of the Ukrainian Solstice! This
   is a Live Event at 99 Scott
 date: 2022-07-06T17:00:00-0500
-end_date: 2022-07-06T21:00:00-0500
+end_date: 2022-07-06T23:00:00-0500
 collections:
   - community-listing
 event_organizer: []
