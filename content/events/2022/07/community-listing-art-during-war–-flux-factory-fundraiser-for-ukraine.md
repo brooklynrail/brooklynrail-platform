@@ -9,8 +9,7 @@ event_producer:
   - the-brooklyn-rail
 event_id: recQntDsEzzmSGAoe
 registration_url: https://www.fluxfactory.org/event/art-during-war-fundraiser-for-ukraine/
-event_platform:
-  - zoom
+event_platform: null
 ---
 {{< image media="2022/07/art-during-war" size="lg" >}}
 
