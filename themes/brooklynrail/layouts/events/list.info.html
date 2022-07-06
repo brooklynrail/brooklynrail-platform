@@ -25,9 +25,18 @@
         <div class="grid-col-12 tablet:grid-col-8 tablet:grid-offset-2">
           <div class="content">
             
+            <div class="editor-btns">
+              <a class="btn btn-cm btn-sm" title="Create New Event" href="https://brooklynrail.netlify.app/workflow/#/collections/events/new" target="_blank"><span>New Event</span></a>
+              <a class="btn btn-cm btn-sm" title="Create New Event" href="https://brooklynrail.netlify.app/workflow/#/collections/people/new" target="_blank"><span>New Person</span></a>
+              <a class="btn btn-cm btn-sm" title="Create New Event" href="https://brooklynrail.netlify.app/workflow/#/collections/media/new" target="_blank"><span>New Media</span></a>
+            </div>
+
+            <p>
+              See all: <a title="events" href="/events" target="_blank"><span>Events</span></a> | <a title="people" href="/people" target="_blank"><span>People</span></a> | <a title="media" href="/media" target="_blank"><span>Media</span></a>
+            </p>
+
             {{- partial "info-event-list-edit.html" . -}}
 
-            <hr/>
             
             <h2>Newsletter</h2>
 
