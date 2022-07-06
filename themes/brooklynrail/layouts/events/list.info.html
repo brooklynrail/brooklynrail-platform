@@ -24,8 +24,13 @@
       <div class="grid-row">
         <div class="grid-col-12 tablet:grid-col-8 tablet:grid-offset-2">
           <div class="content">
+            
+            {{- partial "info-event-list-edit.html" . -}}
 
+            <hr/>
+            
             <h2>Newsletter</h2>
+
 
             {{/* Get the events list from this partial */}}
             {{- $events := partial "info-event-list.html" . -}}
@@ -42,6 +47,8 @@
             {{- partial "accordion" (dict "content" (printf "%s%s%s%s" $fonts "<style type='text/css'>" $css_minified.Content "</style>") "title" "Newsletter CSS (minified)") -}}
 
             {{- partial "accordion" (dict "content" (printf "%s%s%s%s" $fonts "<style type='text/css'>" $css.Content "</style>") "title" "Newsletter CSS") -}}
+
+            
 
 
           </div>

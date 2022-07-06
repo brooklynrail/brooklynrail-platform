@@ -1,0 +1,32 @@
+{{- print "<!--\n" "Last build: " (now.Format "Jan 2, 2006 at 3:04pm ET") "\nGet code for upcoming events at: https://brooklynrail.org/events/info" "\n-->\n" | safeHTML -}}
+
+{{/* Gets all events */}}
+{{- $events := where $.Site.RegularPages  "Section" "events" -}}
+
+{{/* Upcoming Events ==================== */}}
+{{/* Gets all $events with a date greater than or equal to today */}}
+{{- $future_events := where $events "Date" "ge" (now.AddDate 0 0 0) -}}
+{{/* Reverses the order of the events, so the next event is at the top */}}
+{{- $future_events := $future_events.Reverse -}}
+
+{{- if $future_events -}}
+<div class="rail-newsletter">
+  <div class="event-listing">
+    <h2>This week</h2>
+    {{ range $future_events }}
+
+      {{- $permalink := .Permalink | relURL -}}
+      {{- $permalink = replace $permalink "/info.html" "" -}}
+
+      <div class="event">
+        <h3><a href="{{- $permalink -}}" title="{{- .Params.Title -}}" target="_blank">{{- .Params.Title -}}</a></h3>
+        <div class="actionss">
+          <a class="btn btn-sm btn-register" title="Register for {{ .Params.Title -}}" href="https://brooklynrail.netlify.app/workflow/#/collections/events/entries/{{- .File.BaseFileName -}}" target="_blank"><span>Edit</span></a>
+        </div>
+      </div>
+    {{- end -}}
+
+  </div>
+</div>
+
+{{- end -}}
