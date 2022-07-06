@@ -7,7 +7,8 @@ date: 2022-07-06T17:00:00-0500
 end_date: 2022-07-06T23:00:00-0500
 collections:
   - community-listing
-event_organizer: []
+event_organizer:
+  - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
 event_id: recSofXS77Sg3nj4B
