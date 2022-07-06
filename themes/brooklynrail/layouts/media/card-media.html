@@ -9,7 +9,7 @@ The following variables transform dates and times for the event `start_date` and
 
       <div class="grid-col-12 tablet-lg:grid-col-5">
         <h2 class="p-name">
-          <a href="{{ .Permalink | relURL }}" title="{{- .Params.Title -}}">{{- .Params.Title | markdownify -}}</a> <code>{{- .File.BaseFileName -}}</code>
+          <a href="{{ .Permalink | relURL }}" title="{{- .Params.Title -}}">{{- .Params.Title | markdownify -}}</a> <code>{{ .Date.Format "2006/01" }}/{{- .File.BaseFileName -}}</code>
         </h2>
       </div>
       <div class="grid-col-12 tablet-lg:grid-col-2">
