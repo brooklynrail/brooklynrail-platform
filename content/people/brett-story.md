@@ -11,7 +11,7 @@ short_bio: "Based in Toronto, **Brett Story** is a filmmaker, writer and
   book,  _Prison Land: Mapping Carceral Power across Neoliberal America_, and
   coeditor of the forthcoming volume, _Digital Life in the Global City._ She
   holds a PhD in geography and is currently an assistant professor in the School
-  of Image Arts at Ryerson University."
+  of Image Arts at Toronto Metropolitan University."
 portraits:
   - media: 2022/06/brett-story
 website: https://brettstory.ca/
