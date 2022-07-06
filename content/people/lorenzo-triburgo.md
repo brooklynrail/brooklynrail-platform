@@ -9,5 +9,5 @@ short_bio: Artist **Lorenzo Triburgo**’s ambiguous photographs prompt question
   unknowable, unfixed entity, reflecting a state of transformation.
 portraits:
   - media: 2022/07/lorenzo-triburgo
-website: "http://www.lorenzotriburgo.com "
+website: "http://www.lorenzotriburgo.com"
 ---

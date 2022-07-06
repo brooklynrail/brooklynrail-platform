@@ -10,5 +10,5 @@ short_bio: Artist **Jay Elizondo**’s photographs, short film and installation
   fantasy, present and past.
 portraits:
   - media: 2022/07/jay-elizondo
-website: "https://jayelizondo.com "
+website: "https://jayelizondo.com"
 ---
