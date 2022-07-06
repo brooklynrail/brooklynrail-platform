@@ -13,7 +13,7 @@ The following variables transform dates and times for the event `start_date` and
         </h2>
       </div>
       <div class="grid-col-12 tablet-lg:grid-col-2">
-        <a class="btn btn-xs" target="_new" href="https://brooklynrail.netlify.app/workflow/#/collections/media/entries/{{- .File.BaseFileName -}}">Edit</a>
+        <a class="btn btn-xs" target="_new" href="https://brooklynrail.netlify.app/workflow/#/collections/media/entries/{{ .Date.Format "2006/01" }}/{{- .File.BaseFileName -}}">Edit</a>
       </div>
     </div>
   </header>

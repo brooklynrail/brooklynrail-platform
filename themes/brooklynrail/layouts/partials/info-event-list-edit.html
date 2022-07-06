@@ -21,7 +21,7 @@
       <div class="event">
         <h3><a href="{{- $permalink -}}" title="{{- .Params.Title -}}" target="_blank">{{- .Params.Title -}}</a></h3>
         <div class="actionss">
-          <a class="btn btn-sm btn-register" title="Register for {{ .Params.Title -}}" href="https://brooklynrail.netlify.app/workflow/#/collections/events/entries/{{- .File.BaseFileName -}}" target="_blank"><span>Edit</span></a>
+          <a class="btn btn-sm btn-register" title="Register for {{ .Params.Title -}}" href="https://brooklynrail.netlify.app/workflow/#/collections/events/entries/{{ .Date.Format "2006/01" }}/{{- .File.BaseFileName -}}" target="_blank"><span>Edit</span></a>
         </div>
       </div>
     {{- end -}}
