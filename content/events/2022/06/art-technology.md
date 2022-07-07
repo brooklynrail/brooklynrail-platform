@@ -10,6 +10,7 @@ people:
   - person: kilo-kish
   - person: lajune-mcmillian
   - person: charlotte-kent
+  - person: jean-cooney
 poets:
   - person: maxine-chernoff
 date: 2022-07-08T13:00:00-0500
