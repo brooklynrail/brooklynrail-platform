@@ -12,6 +12,7 @@ poets:
   - person: joe-eliot
 date: 2022-07-12T13:00:00-0500
 end_date: 2022-07-12T14:30:00-0500
+series: 601
 collections:
   - the-new-social-environment
 event_organizer:
@@ -22,3 +23,4 @@ event_id: receHHhoFDpMyJsqp
 event_platform:
   - zoom
 ---
+[Learn more about *Robert Heinecken and the Art of Appropriation* by Matthew Biro (University of Minnesota Press, 2022) →](https://www.upress.umn.edu/book-division/books/robert-heinecken-and-the-art-of-appropriation)
