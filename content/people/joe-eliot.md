@@ -1,7 +1,7 @@
 ---
-name: Joe Eliot
+name: Joe Elliot
 first_name: Joe
-last_name: Eliot
+last_name: Elliot
 short_bio: Poet **Joe Elliot** is the author of _Idea for a B-Movie_ (Free
   Scholar Press, 2016), _Homework_ (Lunar Chandelier, 2010) and _Opposable
   Thumb_ (subpress, 2006), as well as numerous chapbooks including _You Gotta Go
