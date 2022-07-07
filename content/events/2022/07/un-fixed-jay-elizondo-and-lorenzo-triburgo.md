@@ -9,6 +9,7 @@ people:
   - person: ksenia-m-soboleva
 date: 2022-07-11T13:00:00-0500
 end_date: 2022-07-11T14:30:00-0500
+series: 600
 collections:
   - the-new-social-environment
 event_organizer:
@@ -19,4 +20,4 @@ event_id: receXyq8Q7FomQF5s
 event_platform:
   - zoom
 ---
-View *[(UN)FIXED,](https://somad.nyc/exhibitions/unfixed)* on view at SoMad, through August 5th
+[Visit *(UN)FIXED: Jay Elizondo and Lorenzo Triburgo*, on view at SoMad, through August 5, 2022 →](https://somad.nyc/exhibitions/unfixed)
