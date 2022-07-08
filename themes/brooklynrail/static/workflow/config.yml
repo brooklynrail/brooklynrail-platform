@@ -19,7 +19,7 @@ backend:
 
 # ====================================
 # Workflow -- NetlifyCMS editorial workflow tools
-publish_mode: editorial_workflow
+# publish_mode: editorial_workflow
 open_authoring: false # accept contributions (forks) from GitHub users
 # branch: master
 squash_merges: true # squash all commits into a single commit when the PR is merged
@@ -108,7 +108,7 @@ collections:
             name: "person"
             minimal: true
             widget: "string"
-            hint: "TKTK"
+            hint: "[See all people »](https://brooklynrail.org/people/)"
             required: false
           - label: "Related Links"
             name: "related_links"
@@ -132,12 +132,10 @@ collections:
         fields:
           - label: "Person"
             name: "person"
-            widget: "relation"
-            collection: "people"
-            search_fields: ["name"]
-            value_field: "{{slug}}"
-            display_fields: ["{{name}}"]
-            hint: "Choose a person. Add new people in 'People'"
+            minimal: true
+            widget: "string"
+            hint: "[See all people »](https://brooklynrail.org/people/)"
+            required: false
           - label: "Related Links"
             name: "related_links"
             widget: "list"
