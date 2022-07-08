@@ -9,4 +9,5 @@ short_bio: "**Erika Hodges** is a queer, gender expansive poet and performance
   dark curtain, together with you, however that looks today."
 portraits:
   - {}
+  - media: 2022/07/erika-hodges
 ---
