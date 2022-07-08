@@ -12,6 +12,8 @@ short_bio: Born in 1948 in Pasadena, California, **B. Wurtz** lives and works in
   Louis; and Gallery 400, University of Illinois at Chicago. His work has been
   included in group exhibitions at MoMA PS1, New York; Museum of Contemporary
   Art, Chicago; and Musée d’Art Contemporain de Lyon.
+portraits:
+  - media: 2022/07/b-wurtz
 website: http://bwurtz.com/
 instagram: bwurtz4
 ---
