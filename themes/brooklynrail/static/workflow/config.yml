@@ -340,7 +340,7 @@ collections:
       - label: "Media"
         name: "media"
         widget: "image"
-        hint: "TKTK"
+        hint: ""
         prompt: true
         required: false
         media_library:
@@ -481,12 +481,10 @@ collections:
         fields:
           - label: "Media"
             name: "media"
-            widget: "relation"
-            collection: "media"
-            search_fields: ["media", "title"]
-            value_field: "{{slug}}"
+            minimal: true
+            widget: "string"
+            hint: "[See all Media »](https://brooklynrail.org/media/)"
             required: false
-            display_fields: ["{{title}} — {{date}}"]
 
       - label: "Email"
         name: "email"
