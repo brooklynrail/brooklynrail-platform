@@ -19,6 +19,13 @@
         @include u-text('medium');
       }
     }
+    .edit{
+      @include u-font('sans', 'xs');
+      .btn{
+        @include u-margin-right(2);
+      }
+      
+    }
 
     
 
