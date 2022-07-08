@@ -3,12 +3,13 @@ title: Robert Heinecken and the Art of Appropriation
 deck: "Featuring Matthew Biro, Sheida Soleimani, Andrés Mario Zervigón, and Anne
   Doran "
 summary: "Rail Editor-At-Large Matthew Biro, artist Sheida Soleimani and scholar
-  Andrés Mario Zervigón join Rail Contributor Anne Doran for a conversation on
-  Robert Heinecken. We conclude with a poetry reading by Joe Elliot. "
+  Andrés Mario Zervigón join artist Anne Doran for a conversation on Robert
+  Heinecken. We conclude with a poetry reading by Joe Elliot. "
 people:
   - person: sheida-soleimani
   - person: andres-mario-zervigon
   - person: matthew-biro
+  - person: anne-doran
 poets:
   - person: joe-eliot
 date: 2022-07-12T13:00:00-0500
