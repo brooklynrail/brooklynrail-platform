@@ -21,4 +21,4 @@ event_id: recCDQ77TC8RjRktB
 event_platform:
   - zoom
 ---
-[Visit *There is No Time: Sabine Hornig*, on view at Tanya Bonakdar Gallery through July 29, 2022 →](https://www.tanyabonakdargallery.com/exhibitions/643-sabine-hornig-this-is-no-time-tanya-bonakdar-gallery-new-york/)
+[Visit *This is No Time: Sabine Hornig*, on view at Tanya Bonakdar Gallery through July 29, 2022 →](https://www.tanyabonakdargallery.com/exhibitions/643-sabine-hornig-this-is-no-time-tanya-bonakdar-gallery-new-york/)
