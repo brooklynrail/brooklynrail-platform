@@ -7,6 +7,8 @@ people:
   - person: jay-elizondo
   - person: lorenzo-triburgo
   - person: ksenia-m-soboleva
+poets:
+  - person: mel-elberg-1
 date: 2022-07-11T13:00:00-0500
 end_date: 2022-07-11T14:30:00-0500
 series: 600
