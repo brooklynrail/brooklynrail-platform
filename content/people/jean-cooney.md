@@ -11,6 +11,6 @@ short_bio: "Jean Cooney is the Director of Times Square Arts, the public art
   Moment program - the world's largest and longest-running digital public art
   program, presented nightly on over 90 digital displays, 364 nights a year. "
 portraits:
-  - {}
+  - media: 2022/07/jean-cooney
 instagram: _jeanie_c
 ---
