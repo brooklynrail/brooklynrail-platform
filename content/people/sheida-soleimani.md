@@ -10,5 +10,7 @@ short_bio: "Artist **Sheida Soleimani**’s work explores intersections of art a
   social media leaks to exist within alternative scenarios. Soleimani is the
   daughter of political refugees persecuted by the Iranian government in the
   1980s; as such, engagement with Iran is an ongoing facet of her practice. "
+portraits:
+  - media: 2022/07/sheida-soleimani
 website: http://sheidasoleimani.com/
 ---
