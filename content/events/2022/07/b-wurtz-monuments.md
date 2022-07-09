@@ -1,5 +1,5 @@
 ---
-title: "B. Wurtz: Monuments"
+title: "Monuments: B. Wurtz"
 deck: Featuring B. Wurtz and Jessica Holmes
 summary: Artist B. Wurtz joins Rail ArTonic Editor Jessica Holmes for a
   conversation. We conclude with a poetry reading by Amanda Monti.
@@ -21,3 +21,4 @@ event_id: recfY9UKUIJxWI5SF
 event_platform:
   - zoom
 ---
+[Visit Monuments: B. Wurtz, on view at Garth Greenan Gallery through July 29, 2022 →](https://www.garthgreenan.com/exhibitions/b-wurtz-monuments/press-release)
