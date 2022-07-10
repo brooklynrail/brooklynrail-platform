@@ -2,7 +2,7 @@
 title: "(UN)FIXED: Jay Elizondo and Lorenzo Triburgo "
 deck: "Featuring Jay Elizondo, Lorenzo Triburgo and Ksenia Soboleva "
 summary: Jay Elizondo and Lorenzo Triburgo join Rail Contributor Ksenia Soboleva
-  for a conversation. We conclude with a poetry reading by Mel Elberg.
+  for a conversation. We conclude with a poetry reading by mel elberg.
 people:
   - person: jay-elizondo
   - person: lorenzo-triburgo
