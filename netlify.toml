@@ -21,17 +21,6 @@
   functions = "themes/brooklynrail/static/netlify_functions"
 
 
-# Plugins
-[[plugins]]
-
-  package = "netlify-plugin-cache"
-    [plugins.inputs]
-    paths = ["public"]
-
-[[plugins]]
-  package = "netlify-plugin-debug-cache"
-
-
 
 # Production variables
 [context.production.environment]
