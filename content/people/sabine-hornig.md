@@ -12,4 +12,6 @@ short_bio: The sculptures, photographs and installations of **Sabine Hornig**
   large architectual interventions in public spaces worldwide, including a
   site-specific installation commissioned by the Public Art Fund at LaGuardia
   Airport in New York (2020).
+portraits:
+  - media: 2022/07/sabine-hornig
 ---
