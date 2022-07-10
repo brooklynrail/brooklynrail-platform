@@ -14,4 +14,6 @@ short_bio: The sculptures, photographs and installations of **Sabine Hornig**
   Airport in New York (2020).
 portraits:
   - media: 2022/07/sabine-hornig
+website: https://sabine-hornig.de/de
+instagram: atelier_sabine_hornig
 ---
