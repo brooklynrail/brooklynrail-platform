@@ -7,7 +7,7 @@ people:
   - person: sabine-hornig
   - person: lyle-rexer
 poets:
-  - person: erika-hodges
+  - person: erika-hodges-1
 date: 2022-07-15T13:00:00-0500
 end_date: 2022-07-15T14:30:00-0500
 series: 604
