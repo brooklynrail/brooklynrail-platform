@@ -13,4 +13,6 @@ short_bio: "Poet, translator, and essayist **Hai-Dang Phan** is the author of
   work has been honored with the Frederick Bock Prize from Poetry and the
   Emerging Writer Award from New England Review. He holds a Ph.D. in literary
   studies from the University of Wisconsin. "
+portraits:
+  - media: 2022/07/hai-dang-phan
 ---
