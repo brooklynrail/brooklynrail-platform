@@ -1,4 +1,3 @@
-{{- $issues_data := .issues_data -}}
 {{- $page := .page -}}
 {{- $currentsection := $page.CurrentSection -}}
 
@@ -25,11 +24,7 @@
             {{- range $i, $menuitem := .menu_data -}}
             <li class="usa-nav__primary-item nav-{{- $menuitem.Identifier -}}">
               {{- if .HasChildren -}}
-                <a href="/archive" title="View all issues">
-                  <span>
-                    Issues
-                  </span>
-                </a>
+                {{- template "nav-list-item-sub" (dict "menuitem" $menuitem "page" $page ) -}}
               {{- else -}}
                 {{- template "nav-list-item" (dict "menuitem" $menuitem "page" $page) -}}
               {{- end -}}
@@ -62,7 +57,6 @@
 {{- define "nav-list-item" -}}
   {{- $page := .page -}}
   {{- $menuitem := .menuitem -}}
-  {{- $issues_data := .issues_data -}}
 
   <a class="usa-nav__link {{ if eq ($page.Section | urlize) $menuitem.URL -}}usa-current{{- end -}}" title="{{- $menuitem.Name -}}" href="{{- $menuitem.URL -}}"><span>{{- if $menuitem.Pre }}{{- $menuitem.Pre }}&nbsp;{{ end }} {{ $menuitem.Name | markdownify -}}</span></a>
 {{- end -}}
@@ -71,22 +65,11 @@
 {{- define "nav-list-item-sub" -}}
   {{- $page := .page -}}
   {{- $menuitem := .menuitem -}}
-  {{- $issues_data := .issues_data -}}
 
   <button class="usa-accordion__button usa-nav__link {{ if eq ($page.Section | urlize) $menuitem.URL -}}usa-current{{- end -}}" aria-expanded="false" aria-controls="extended-nav-{{- $menuitem.Identifier -}}"><span>{{- $menuitem.Name -}}</span></button>
   
   {{- with $menuitem.Children -}}
   <ul id="extended-nav-{{- $menuitem.Identifier -}}" class="usa-nav__submenu">
-
-    {{- if eq $menuitem.Identifier "issues" -}}
-      {{- $issues := first 10 $issues_data }}
-      {{- range $i, $issue := $issues -}}
-      <li class="usa-nav__submenu-item">
-        <a href="{{- $issue.path -}}" class=""><span>{{- $issue.issue | markdownify }}</span> {{ if not $i -}}<span
-            class="new">new!</span>{{- end -}}</a>
-      </li>
-      {{- end -}}
-    {{- end -}}
 
     {{- range $i, $child := . -}}
     <li class="usa-nav__submenu-item {{ $child.Params.class -}}">

@@ -102,7 +102,6 @@ menu:
       identifier: "issues"
       URL: "/archive"
       weight: 2
-      hasChildren: true
 
     - name: "Events"
       identifier: "events"
@@ -148,21 +147,3 @@ menu:
       weight: 5
       parent: events
 
-    # Issues Sub Menu
-    - name: "All issues »"
-      identifier: "all-issues"
-      URL: "/archive"
-      weight: 2
-      params:
-        class: alt
-      pre: "<i class='far fa-eye'></i>"
-      parent: issues
-
-    - name: "Subscribe to the _Rail_ in print »"
-      identifier: "subscribe-print"
-      URL: "/subscribe"
-      weight: 3
-      params:
-        class: alt
-      pre: "<i class='far fa-newspaper'></i>"
-      parent: issues

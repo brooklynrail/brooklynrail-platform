@@ -15,7 +15,7 @@
 {{ end }}
 
 {{ define "main-nav" }}
-  {{- partial "main-nav.html" (dict "page" . "menu_data" $.Page.Params.menu "issues_data" $.Site.Data.issues ) -}}
+  {{- partial "main-nav.html" (dict "page" . "menu_data" $.Page.Params.menu) -}}
 {{ end }}
 
 
