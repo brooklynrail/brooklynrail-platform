@@ -2,7 +2,7 @@
 # Each should start with a lower-case letter
 
 sponsored:
-  - phrase: "sponsored by"
-  - phrase: "supported by"
-  - phrase: "made possible by"
+  # - phrase: "sponsored by"
+  # - phrase: "supported by"
+  # - phrase: "made possible by"
   - phrase: "graciously supported by"
