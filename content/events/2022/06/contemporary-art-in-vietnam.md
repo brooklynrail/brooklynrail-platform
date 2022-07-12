@@ -9,6 +9,8 @@ people:
   - person: thao-nguyen-phan-phan-thao-nguyen
   - person: nguyen-trinh-thi
   - person: paul-gladston
+poets:
+  - person: hai-dang-phan
 date: 2022-07-25T20:00:00-0500
 end_date: 2022-07-25T21:30:00-0500
 series: 610
