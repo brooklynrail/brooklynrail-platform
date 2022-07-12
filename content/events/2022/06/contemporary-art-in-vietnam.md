@@ -3,7 +3,7 @@ title: Contemporary Art in Vietnam
 deck: Featuring Pamela Corey, Phan Thao Nguyen, Nguyen Trinh Thi, and Paul Gladston
 summary: Scholar Pamela Corey, Sculpture artist Phan Thao Nguyen, and filmmaker
   Nguyen Trinh Thi join Rail contributor Paul Gladston for a conversation. We
-  conclude with a poetry reading.
+  conclude with a poetry reading by Hai-Dang Phan.
 people:
   - person: pamela-nguyen-corey
   - person: thao-nguyen-phan-phan-thao-nguyen
