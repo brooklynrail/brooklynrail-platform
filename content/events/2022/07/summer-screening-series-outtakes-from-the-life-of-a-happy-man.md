@@ -12,8 +12,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
-event_platform:
-  - zoom
+event_platform: null
 ---
  Digital, Color, Sound, 68 minutes.
 
