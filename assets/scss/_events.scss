@@ -4,14 +4,41 @@
   section {
     .heading {
       @include u-margin(0);
-      @include u-margin-bottom(2);
+      @include u-margin-bottom(1);
       @include u-font("serif", "xl");
       @include u-text("thin");
       @include u-text("center");
       @include at-media("tablet-lg") {
-        @include u-margin-bottom(4);
+        @include u-margin-bottom(2);
         @include u-font("serif", "3xl");
       }
+    }
+    .links {
+      @include u-margin-bottom(1);
+      @include u-text("center");
+      @include u-font("sans", "xs");
+      @include u-display("flex");
+      @include u-flex("justify-center");
+      @include at-media("tablet-lg") {
+        @include u-margin-bottom(3);
+        @include u-font("sans", "md");
+      }
+      a{
+        @include u-padding-x('105');
+        @include u-text("no-underline");
+        @include u-text("normal");
+        @include u-text("indigo-warm-60v");
+        &:first-child{
+          @include u-border-right('1px', 'gray-warm-40', 'solid');
+        }
+        &:hover{
+          span {
+            @include u-border-bottom("2px", "solid", "indigo-warm-60v");
+          }
+        }
+        
+      }
+
     }
     .sponsors {
       @include u-margin-y(4);
