@@ -22,6 +22,7 @@
       @include at-media("tablet-lg") {
         @include u-margin-bottom(3);
         @include u-font("sans", "md");
+        @include u-line-height("sans", 1);
       }
       a{
         @include u-padding-x('105');
@@ -47,7 +48,8 @@
       @include u-radius("lg");
       @include u-text("center");
       @include u-text("light");
-      @include u-bg("gray-warm-3");
+      @include u-border("2px", "solid", "indigo-warm-70v");
+      // @include u-bg("gray-warm-3");
       @include u-font("sans", "sm");
       @include u-line-height("sans", 3);
       @include at-media("tablet") {
@@ -63,8 +65,25 @@
           @include u-text("no-underline");
           @include u-text("indigo-warm-60v");
           white-space: nowrap;
-          span {
-            @include u-border-bottom("1px", "dotted", "indigo-warm-60v");
+          &:hover{
+            @include u-text("underline");
+          }
+        }
+        strong {
+          @include u-text("medium");
+        }
+      }
+      p.links{
+        @include u-text("normal");
+        @include u-margin-top(1);
+        @include u-font("sans", "sm");
+        @include u-line-height("sans", 2);
+        a{
+          @include u-text("no-underline");
+          &:hover{
+            span {
+              @include u-text("no-underline");
+            }
           }
         }
       }
