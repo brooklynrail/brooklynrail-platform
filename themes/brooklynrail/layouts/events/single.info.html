@@ -13,6 +13,13 @@
 
           <h1>{{- .Title -}}</h1>
           <p class="summary">{{- .Summary | markdownify -}}</p>
+          <div>
+            {{- $path := .File.Dir -}}
+            {{- $path = replace $path "events/" "" -}}
+            {{- $path = print $path .File.BaseFileName -}}
+            {{- $path = print "https://brooklynrail.netlify.app/workflow/#/collections/events/entries/" $path -}}
+            <a class="btn btn-sm" title="Edit {{ .Params.Title -}}" href="{{- $path -}}" target="_blank"><span>Edit</span></a>
+          </div>
 
         </div>
       </div>
