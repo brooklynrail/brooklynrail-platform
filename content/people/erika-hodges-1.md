@@ -14,5 +14,6 @@ short_bio: "**Erika Hodges** is a gender expansive poet and performance artist
   chapbooks this coming fall. This fall, they will be pursuing their JD at
   Tulane University, where they hope to deepen the accompanying praxis to their
   poetics that might move us toward liberation."
-portraits: []
+portraits:
+  - media: 2022/07/erika-hodges-1
 ---
