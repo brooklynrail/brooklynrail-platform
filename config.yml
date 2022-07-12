@@ -102,13 +102,11 @@ menu:
       identifier: "issues"
       URL: "/archive"
       weight: 2
-      hasChildren: true
 
     - name: "Events"
       identifier: "events"
-      URL: "events"
+      URL: "/events"
       weight: 3
-      hasChildren: true
 
     - name: "Shop"
       identifier: "shop"
@@ -119,50 +117,3 @@ menu:
       identifier: "about"
       URL: "/about"
       weight: 5
-
-    # Events Sub-menu
-    - name: "This week"
-      identifier: "upcoming-events"
-      URL: "/events"
-      weight: 2
-      parent: events
-
-    - name: "Past events"
-      identifier: "past-events"
-      URL: "/events#past"
-      weight: 3
-      parent: events
-
-    - name: "Video archive"
-      identifier: "video-archive"
-      URL: "https://www.youtube.com/thebrooklynrail?sub_confirmation=1"
-      weight: 4
-      parent: events
-
-    - name: "Get updates about future events"
-      identifier: "events-update"
-      URL: "/newsletter"
-      params:
-        class: alt
-      pre: "<i class='far fa-bell'></i>"
-      weight: 5
-      parent: events
-
-    # Issues Sub Menu
-    - name: "All issues »"
-      identifier: "all-issues"
-      URL: "/archive"
-      weight: 2
-      params:
-        class: alt
-      pre: "<i class='far fa-eye'></i>"
-      parent: issues
-
-    - name: "Subscribe to the _Rail_ in print »"
-      identifier: "subscribe-print"
-      URL: "/subscribe"
-      weight: 3
-      params:
-        class: alt
-      pre: "<i class='far fa-newspaper'></i>"
-      parent: issues
