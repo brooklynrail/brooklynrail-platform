@@ -8,11 +8,7 @@ CMS.registerEditorComponent({
     {
       name: 'image',
       label: 'Image',
-      widget: 'relation',
-      collection: 'media',
-      search_fields: ["media", "title"],
-      display_fields: ["{{title}} — {{date}}"],
-      value_field: "{{slug}}"
+      widget: 'string',
     },
     {
       name: 'size',
