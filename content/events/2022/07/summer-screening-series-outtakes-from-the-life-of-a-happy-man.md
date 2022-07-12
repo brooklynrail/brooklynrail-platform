@@ -26,9 +26,7 @@ during those earlier years, plus more recent piano improvisations by Auguste Var
 autobiographical, diaristic poem, a celebration of happiness and life. I consider myself a happy man."
 -Jonas Mekas
 
-
-
 {{< image media="2022/07/film-makers-cooperative" size="sm" >}}
 
-The New American Cinema Group / Film-Makers’ Cooperative (NACG) was founded in 1961 for the
+**The New American Cinema Group / Film-Makers’ Cooperative** (NACG) was founded in 1961 for the
 distribution of avant-garde film. It is the first artist-run organization devoted to the dissemination of moving image art. Artists and estates maintain creative control of their works as they are a non-contractual, non-exclusive, membership-based, non-profit group.
