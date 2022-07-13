@@ -4,8 +4,8 @@ deck: featuring Alex Glauber, Alex Fitzgerald and David Rhodes
 summary: Alex Glauber & Alex Fitzgerald join Rail Contributor David Rhodes for a
   conversation.
 people:
-  - person: Alex Glauber
-  - person: David Rhodes
+  - person: alex-glauber
+  - person: david-rhodes
 date: 2022-07-13T14:44:00-0500
 end_date: 2022-07-13T14:44:00-0500
 collections:
