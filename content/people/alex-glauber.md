@@ -12,5 +12,7 @@ short_bio: "Art advisor, independent curator, and teacher, **Alex Glauber**
   galleries such as Dickinson New York. He is also an adjunct faculty member at
   the Sotheby’s Institute of Art in New York where he teaches Art Business in
   their Master’s Program and Summer Study Program. "
+portraits:
+  - media: 2022/07/alex-glauber
 website: http://www.awgartadvisory.com/about
 ---
