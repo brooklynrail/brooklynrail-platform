@@ -20,9 +20,12 @@ social:
   youtube: TheBrooklynRail
   instagram: brooklynrail
 
+
 # HUGO will ignore pages in the following folders
 ignoreFiles:
   - "content/_archived/*"
+  - "content/collections"
+  - "content/organizations"
 
 ignoreErrors: "error-remote-getjson"
 
