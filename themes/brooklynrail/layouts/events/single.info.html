@@ -56,7 +56,7 @@
             {{- $youtube_copy = $youtube_copy | append "\nRecorded on " (dateFormat "Monday, January 2, 2006" (time $start_date)) " at " -}}
 
             {{- if gt $start_date.Minute 0 -}}
-              {{- $youtube_copy = $youtube_copy | append dateFormat "3:04" (time $start_date) -}}
+              {{- $youtube_copy = $youtube_copy | append (dateFormat "3:04" (time $start_date)) -}}
             {{- else -}}
               {{- $youtube_copy = $youtube_copy | append (dateFormat "3" (time $start_date)) -}}
             {{- end -}}
