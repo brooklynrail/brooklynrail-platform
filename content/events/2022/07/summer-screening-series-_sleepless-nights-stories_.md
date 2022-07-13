@@ -6,12 +6,14 @@ summary: "Join us for the first film in our Summer Screening Series in
 people: []
 date: 2022-07-18T00:00:00-0500
 end_date: 2022-07-12T23:59:00-0500
+series: ""
 collections:
   - screening
 event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: recJi7AIfIzhs8GqR
 event_platform: null
 ---
 {{< image media="2022/07/sleepless-nights-stories-still" size="lg" >}}
