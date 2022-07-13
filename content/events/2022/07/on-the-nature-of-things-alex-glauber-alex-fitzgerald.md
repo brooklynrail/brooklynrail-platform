@@ -8,8 +8,8 @@ people:
   - person: david-rhodes
 poets:
   - person: ken-taylor
-date: 2022-07-13T14:44:00-0500
-end_date: 2022-07-13T14:44:00-0500
+date: 2022-07-26T13:00:00-0500
+end_date: 2022-07-27T14:30:00-0500
 collections:
   - the-new-social-environment
 event_organizer:
