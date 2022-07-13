@@ -12,6 +12,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: recqfXxEoq1aI2HA6
 event_platform: null
 ---
  Digital, Color, Sound, 68 minutes.
