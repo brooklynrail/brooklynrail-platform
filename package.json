@@ -19,6 +19,7 @@
   },
   "main": "gulpfile.js",
   "scripts": {
+    "build": "hugo",
     "local-build": "hugo serve",
     "workflow": "LOG_LEVEL=debug npx netlify-cms-proxy-server",
     "netlify": "netlify-lambda && hugo --gc",
