@@ -110,7 +110,7 @@
       </header>
 
     {{- block "main-nav" . -}}
-      {{- partial "main-nav.html" (dict "page" . "menu_data" $.Site.Menus.primary "issues_data" $.Site.Data.issues ) -}}
+      {{- partial "main-nav.html" (dict "page" . "menu_data" $.Site.Menus.primary) -}}
     {{- end -}}
 
     {{- block "main" . -}}{{- end -}}
