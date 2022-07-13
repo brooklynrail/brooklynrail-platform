@@ -22,6 +22,10 @@
       <div class="grid-row grid-gap-4">
         <div class="grid-col-12">
           <h2 class="heading">Upcoming Events</h2>
+          <p class="links">
+            <a href="/events#past"><span>Past events</span></a>
+            <a href="https://www.youtube.com/thebrooklynrail?sub_confirmation=1" title="View our videos on YouTube"><span>Video archive</span></a>
+          </p>
         </div>
       </div>
 
@@ -32,37 +36,14 @@
         {{- end -}}
       </div>
 
-      {{/* ======================== */}}
-      {{/* Get the list of sponsors */}}
-
-
-      {{/* Gets all Orgs */}}
-      {{- $organizations := where $.Site.RegularPages  "Section" "organizations" -}}
-      {{/* Look through all of the organizations that are "featured sponsors" */}}
-      {{- $featured_donors := where $organizations ".Params.relationship" "intersect" (slice "featured-donor") -}}
-
-      {{- if $featured_donors -}}
-      {{/* List out the sponsors */}}
       <div class="grid-row">
-        <div class="grid-col-12 tablet:grid-col-10 tablet:grid-offset-1">
+        <div class="grid-col-12 tablet:grid-col-8 tablet:grid-offset-2">
           <div class="sponsors">
-            {{- $sponsor_copy := $.Site.Data.sponsor_copy.sponsored -}}
-            {{- $copy := (index ($sponsor_copy | shuffle | first 1) 0) -}}
-            <p>
-              {{- ":heart: Our daily events are " | emojify }}
-              {{ $copy.phrase }}:
-              
-              {{- range $key, $sponsor := $featured_donors -}}
-                {{- if ne $key 0 }}, {{ end }}
-                <a href="{{- $sponsor.Params.website -}}?br" title="{{- $sponsor.Params.name -}}"><span>{{- $sponsor.Params.name -}}</span></a>
-              {{- end -}}
-            </p>
-            {{/*  {{ delimit $sponsors_list "+ " }}  */}}
+            <p>{{- ":heart: :rainbow:" | emojify }} We'd like to thank the <a href='https://www.instagram.com/terraamericanart/'><strong>The Terra Foundation</strong></a> for making our daily conversations possible, and for their support of our growing archive.</p>
+            <p class="links"><a href='https://www.instagram.com/terraamericanart/'><i class="fab fa-instagram"></i> <span>Follow @terraamericanart</span></a> <a href='https://www.terraamericanart.org/'><span>Learn more »</span></a></p>
           </div>
         </div>
       </div>
-      {{- end -}}
-
 
     </div>
   </section>

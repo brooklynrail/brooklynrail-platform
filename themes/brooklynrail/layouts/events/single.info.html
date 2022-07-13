@@ -13,6 +13,13 @@
 
           <h1>{{- .Title -}}</h1>
           <p class="summary">{{- .Summary | markdownify -}}</p>
+          <div>
+            {{- $path := .File.Dir -}}
+            {{- $path = replace $path "events/" "" -}}
+            {{- $path = print $path .File.BaseFileName -}}
+            {{- $path = print "https://brooklynrail.netlify.app/workflow/#/collections/events/entries/" $path -}}
+            <a class="btn btn-sm" title="Edit {{ .Params.Title -}}" href="{{- $path -}}" target="_blank"><span>Edit</span></a>
+          </div>
 
         </div>
       </div>
@@ -27,36 +34,173 @@
             <h2>YouTube</h2>
 
             {{- $youtube_copy := slice "" -}}
-            {{- $youtube_copy = $youtube_copy | append .Summary "\n\n" "Learn more: " $permalink "\n\n" -}}
+
+            {{- $youtube_copy = $youtube_copy | append .Title "\n" -}}
+
+            {{- $youtube_copy = $youtube_copy | append .Summary "\n\n" -}}
+
+            {{- if .Params.collections -}}
+              {{- range $collection := (.GetTerms "collections") -}}
+                {{/* Gets the Topics page */}}
+                {{- $collection := $.Site.GetPage (printf "/%s/%s" "collections" $collection.Title) -}}
+                {{- $youtube_copy = $youtube_copy | append $collection.Title -}}
+              {{- end -}}
+              {{- with .Params.series -}}
+                {{- $youtube_copy = $youtube_copy | append " #" -}}
+                {{- $youtube_copy = $youtube_copy | append . -}}
+              {{- end -}}
+            {{- end -}}
+
+            {{- $start_date := .Date -}}
+
+            {{- $youtube_copy = $youtube_copy | append "\nRecorded on " (dateFormat "Monday, January 2, 2006" (time $start_date)) " at " -}}
+
+            {{- if gt $start_date.Minute 0 -}}
+              {{- $youtube_copy = $youtube_copy | append dateFormat "3:04" (time $start_date) -}}
+            {{- else -}}
+              {{- $youtube_copy = $youtube_copy | append (dateFormat "3" (time $start_date)) -}}
+            {{- end -}}
+
+            {{- $youtube_copy = $youtube_copy | append " " -}}
+
+            {{- $event_start_time_suffix := dateFormat "PM" (time $start_date) -}}
+            {{- $event_start_time_suffix := replace $event_start_time_suffix "PM" "p.m." -}}
+            {{- $event_start_time_suffix := replace $event_start_time_suffix "AM" "a.m." -}}
+            {{ $event_start_time_suffix_pt := dateFormat "PM" ((time $start_date).Add ( -3 | duration "hour" )) -}}
+            {{- $event_start_time_suffix_pt := replace $event_start_time_suffix_pt "PM" "p.m." -}}
+            {{- $event_start_time_suffix_pt := replace $event_start_time_suffix_pt "AM" "a.m." -}}
+
+            {{- $youtube_copy = $youtube_copy | append $event_start_time_suffix " Eastern / " -}}
+
+            {{- if gt $start_date.Minute 0 -}}
+              {{- $youtube_copy = $youtube_copy | append (dateFormat "3:04" ((time $start_date).Add ( -3 | duration "hour" ))) -}}
+            {{- else -}}
+              {{- $youtube_copy = $youtube_copy | append (dateFormat "3" ((time $start_date).Add ( -3 | duration "hour" ))) -}}{{- end -}}
+            
+            {{- $youtube_copy = $youtube_copy | append " " $event_start_time_suffix_pt " Pacific\n" -}}
+
+            {{- $youtube_copy = $youtube_copy | append $permalink "\n\n" -}}
 
             {{- if .Params.people -}}
+
+              {{- $emoji := ":wavy_dash:" | emojify }}
+              {{- $youtube_copy = $youtube_copy | append $emoji $emoji $emoji $emoji "\n\n" -}}
+
+              {{- $youtube_copy = $youtube_copy | append  "In this talk: \n\n" -}}
               {{- range $people := .Params.people -}}
-                {{- with $people.event_bio -}}
-                  {{- $youtube_copy = $youtube_copy | append "~ ~ ~\n\n" -}}
-                  {{- $youtube_copy = $youtube_copy | append ( . | plainify ) -}}
-                  {{- $youtube_copy = $youtube_copy | append "\n\n" -}}
+                {{- $person_copy := slice "" -}}
+                {{- $person := $.Site.GetPage (printf "/%s/%s" "people" $people.person) -}}
+                {{- $emoji := ":triangular_flag_on_post:" | emojify }}
+                {{- $person_copy = $person_copy | append $emoji " " ($person.Params.name | safeHTML)  -}}
+                {{- $person_copy = $person_copy | append " —— " -}}
+                {{- $person_copy = $person_copy | append ($person.Params.short_bio | markdownify | plainify) -}}
+
+                {{- with $person.Params.rail_contributor_url -}}
+                  {{- $person_copy = $person_copy | append "\n• In the rail: " -}}
+                  {{- $person_copy = $person_copy | append . -}}
                 {{- end -}}
+
+                {{- if or $person.Params.website $person.Params.instagram $person.Params.twitter $person.Params.linkedin -}}
+                  {{- with $person.Params.website -}}
+                    {{- $person_copy = $person_copy | append "\n" -}}
+                    {{- $url := urls.Parse . -}}
+                    {{- $host := replace $url.Host "www." "" -}}
+                    {{- $person_copy = $person_copy | append "• " -}}
+                    {{- $person_copy = $person_copy | append . -}}
+                  {{- end -}}
+                  {{- with $person.Params.instagram -}}
+                    {{- $person_copy = $person_copy | append "\n" -}}
+                    {{- $person_copy = $person_copy | append "• https://www.instagram.com/" -}}
+                    {{- $person_copy = $person_copy | append . -}}
+                  {{- end -}}
+                  {{- with $person.Params.twitter -}}
+                    {{- $person_copy = $person_copy | append "\n" -}}
+                    {{- $person_copy = $person_copy | append "• https://www.twitter.com/" -}}
+                    {{- $person_copy = $person_copy | append . -}}
+                  {{- end -}}
+                  {{- with $person.Params.linkedin -}}
+                    {{- $person_copy = $person_copy | append "\n" -}}
+                    {{- $person_copy = $person_copy | append "• https://www.linkedin.com/" -}}
+                    {{- $person_copy = $person_copy | append . -}}
+                  {{- end -}}
+                {{- end -}}
+                {{- $person_copy = $person_copy | append "\n\n" -}}
+                
+                {{- $youtube_copy = $youtube_copy | append $person_copy -}}
               {{- end -}}
             {{- end -}}
+
+
+            {{- $emoji := ":wavy_dash:" | emojify }}
+            {{- $youtube_copy = $youtube_copy | append $emoji $emoji $emoji $emoji "\n\n" -}}
+
 
             {{- if .Params.poets -}}
-              {{- $youtube_copy = $youtube_copy | append "~ ~ ~\n\n" "The Rail has a tradition of ending our conversations with a poem, and on this day we were fortunate to have" }}
+              {{- $youtube_copy = $youtube_copy | append "The Rail has a tradition of ending our conversations with a poem, and on this day we were fortunate to have" -}}
               {{ range $i, $poet := .Params.poets -}}
+                {{- $poet_copy := slice "" -}}
                 {{- $person := $.Site.GetPage (printf "/%s/%s" "people" $poet.person) -}}
-                {{- $youtube_copy = $youtube_copy | append " " ($person.Params.name | safeHTML)  -}}
-              {{- end }}
-              
-              {{- $youtube_copy = $youtube_copy | append " reading." -}}
-              {{- $youtube_copy = $youtube_copy | append "\n\n" -}}
-              {{- range $people := .Params.poets -}}
-                {{- with $people.event_bio -}}
-                  {{- $youtube_copy = $youtube_copy | append "• " ( . | plainify ) -}}
-                  {{- $youtube_copy = $youtube_copy | append "\n\n" -}}
+                {{- $poet_copy = $poet_copy | append " " ($person.Params.name | safeHTML)  -}}
+                {{- $poet_copy = $poet_copy | append ":" -}}
+                {{- $youtube_copy = $youtube_copy | append $poet_copy -}}
+              {{- end -}}
+
+              {{ range $i, $poet := .Params.poets -}}
+                {{- $poet_body := slice "" -}}
+                {{- $person := $.Site.GetPage (printf "/%s/%s" "people" $poet.person) -}}
+                {{- $emoji := ":triangular_flag_on_post:" | emojify }}
+                {{- $poet_body = $poet_body | append "\n\n" $emoji " " ($person.Params.name | safeHTML)  -}}
+                {{- $poet_body = $poet_body | append " —— " -}}
+                {{- $poet_body = $poet_body | append ($person.Params.short_bio | markdownify | plainify) -}}
+
+                {{- with $person.Params.rail_contributor_url -}}
+                  {{- $poet_body = $poet_body | append "\n• In the rail: " -}}
+                  {{- $poet_body = $poet_body | append . -}}
                 {{- end -}}
+
+                {{- if or $person.Params.website $person.Params.instagram $person.Params.twitter $person.Params.linkedin -}}
+                  {{- with $poet.Params.website -}}
+                    {{- $poet_body = $poet_body | append "\n" -}}
+                    {{- $url := urls.Parse . -}}
+                    {{- $host := replace $url.Host "www." "" -}}
+                    {{- $poet_body = $poet_body | append "• " -}}
+                    {{- $poet_body = $poet_body | append . -}}
+                  {{- end -}}
+                  {{- with $person.Params.instagram -}}
+                    {{- $poet_body = $poet_body | append "\n" -}}
+                    {{- $poet_body = $poet_body | append "• https://www.instagram.com/" -}}
+                    {{- $poet_body = $poet_body | append . -}}
+                  {{- end -}}
+                  {{- with $person.Params.twitter -}}
+                    {{- $poet_body = $poet_body | append "\n" -}}
+                    {{- $poet_body = $poet_body | append "• https://www.twitter.com/" -}}
+                    {{- $poet_body = $poet_body | append . -}}
+                  {{- end -}}
+                  {{- with $person.Params.linkedin -}}
+                    {{- $poet_body = $poet_body | append "\n" -}}
+                    {{- $poet_body = $poet_body | append "• https://www.linkedin.com/" -}}
+                    {{- $poet_body = $poet_body | append . -}}
+                  {{- end -}}
+                {{- end -}}
+                {{- $poet_body = $poet_body | append "\n\n" -}}
+                
+                {{- $youtube_copy = $youtube_copy | append $poet_body -}}
               {{- end -}}
             {{- end -}}
 
-            {{- $youtube_copy = $youtube_copy | append "~ ~ ~\n\n" "Learn more about our conversations with artists at: https://brooklynrail.org/events \n" "Follow us on Instagram: https://www.instagram.com/brooklynrail/" -}}
+            {{- $emoji := ":wavy_dash:" | emojify }}
+            {{- $youtube_copy = $youtube_copy | append $emoji $emoji $emoji $emoji "\n\n" -}}
+
+            {{- $youtube_copy = $youtube_copy | append "We'd like to thank the The Terra Foundation for making our daily conversations possible, and for their support of our growing archive.\n• Follow @terraamericanart https://www.instagram.com/terraamericanart/\n• Learn more at https://www.terraamericanart.org/\n\n"  -}}
+
+            {{- $emoji := ":wavy_dash:" | emojify }}
+            {{- $youtube_copy = $youtube_copy | append $emoji $emoji $emoji $emoji "\n\n" -}}
+
+            {{- $youtube_copy = $youtube_copy | append "This conversation was produced by THE BROOKLYN RAIL:\n" "• Learn more about our upcoming conversations at: https://brooklynrail.org/events \n" "• Subscribe to the Rail: https://brooklynrail.org/subscribe\n" "• Sign up for our newsletter: https://brooklynrail.org/newsletter\n" "• Follow us on Instagram: https://www.instagram.com/brooklynrail/" -}}
+
+            
+
+            
 
             {{- highlight (delimit $youtube_copy "") html "" -}}
 
