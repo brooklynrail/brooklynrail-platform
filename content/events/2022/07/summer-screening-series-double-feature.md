@@ -3,8 +3,8 @@ title: "Summer Screening Series: Jonas Mekas and Storm de Hirsch"
 deck: "Jonas Mekas’ _Scenes from the Life of Andy Warhol_ (1972) & Storm de
   Hirsch’s _Third Eye Butterfly_ (1968) "
 summary: "Join us for a double feature in our Summer Screening Series in
-  collaboration with Film-Makers' Cooperative: Scenes from the Life of Andy
-  Warhol (1972) & Third Eye Butterfly (1968)."
+  collaboration with Film-Makers' Cooperative: _Scenes from the Life of Andy
+  Warhol_ (1972) & _Third Eye Butterfly_ (1968)."
 date: 2022-07-21T00:00:00-0500
 end_date: 2022-07-21T23:59:00-0500
 collections:
@@ -29,8 +29,6 @@ Geldzahler, Paul Morrissey, Karen Lerner, Jay Lerner, Peter Beard, John Kennedy 
 Radziwill, Anthony Radziwill, D’Allessandro, Caroline Kennedy, Mick Jagger, Jade Jagger, and many
 others. Completed in June 1990".  -Jonas Mekas
 
-
-
 *Third Eye Butterfly* directed by Storm de Hirsch (1968)               \
 16mm, Color, Sound, 10 minutes.
 
@@ -43,4 +41,5 @@ variations of soul-touch exist in the auras of illumination. The Great Eye domin
 {{< image media="2022/07/film-makers-cooperative" size="sm" >}}
 
 **The New American Cinema Group / Film-Makers’ Cooperative (NACG)** was founded in 1961 for the
-distribution of avant-garde film. It is the first artist-run organization devoted to the dissemination of moving image art. Artists and estates maintain creative control of their works as they are a non-contractual, non-exclusive, membership-based, non-profit group.
+distribution of avant-garde film. It is the first artist-run organization devoted to the dissemination of moving image art. Artists and estates maintain creative control of their works as they are a non-contractual, non-exclusive, membership-based, non-profit group. \
+[More on Film-Makers’ Cooperative →](https://film-makerscoop.com/)
