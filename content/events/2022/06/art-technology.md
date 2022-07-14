@@ -1,6 +1,6 @@
 ---
-title: Art + Technology
-deck: "Midnight Moment: Times Square Arts"
+title: "Art + Technology: Midnight Moment"
+deck: ""
 summary: Featuring Nancy Baker Cahill, Jean Cooney, Joan Jonas, Kilo Kish,
   LaJuné McMillian, and Charlotte Kent. We conclude with a poetry reading from
   Maxine Chernoff.
@@ -22,6 +22,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: NEETvc9-xUI
 event_id: recegeUVwhwtCRX2J
 event_platform:
   - zoom
