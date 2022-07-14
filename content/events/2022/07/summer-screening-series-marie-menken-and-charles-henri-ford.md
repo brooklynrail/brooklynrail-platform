@@ -1,6 +1,6 @@
 ---
 title: "Summer Screening Series: Marie Menken and Charles Henri Ford "
-deck: Marie Menken’s _Lights_ (1966), Marie Menken’s ) _Glimpse of the Garden_
+deck: Marie Menken’s _Lights_ (1966), Marie Menken’s _Glimpse of the Garden_
   (1957), and Charles Henri Ford’s _Poem Posters_ (1967)
 summary: "Join us for the final installment of our Summer Screening Series in
   collaboration with the Film-Makers' Cooperative: Marie Menken’s _Lights_
