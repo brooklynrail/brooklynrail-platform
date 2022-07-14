@@ -1,4 +1,5 @@
 ---
+media: /media/files/glimpseofthegardenmariemenken-1-.jpg
 title: Glimpse of the Garden
 alt: Film still from Glimpse of the Garden
 caption: Film still from Glimpse of the Garden
