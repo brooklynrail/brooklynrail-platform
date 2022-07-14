@@ -9,9 +9,9 @@ short_bio: The sculptures, photographs and installations of **Sabine Hornig**
   storefront windows, urban facades, and school houses through overlapping
   perspectives and inversions of scale and dimension.  Throughout the past two
   decades, Hornig has presented numerous solo exhibitions of her work as well as
-  large architectual interventions in public spaces worldwide, including a
-  site-specific installation commissioned by the Public Art Fund at LaGuardia
-  Airport in New York (2020).
+  large architectural interventions in public spaces worldwide, including a
+  site-specific installation commissioned by LaGuardia Gateway Partners in
+  partnership with Public Art Fund (2020).
 portraits:
   - media: 2022/07/sabine-hornig
 website: https://sabine-hornig.de/de
