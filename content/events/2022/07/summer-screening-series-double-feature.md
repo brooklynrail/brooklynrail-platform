@@ -3,7 +3,7 @@ title: "Summer Screening Series: Jonas Mekas and Storm de Hirsch"
 deck: "Jonas Mekas’ _Scenes from the Life of Andy Warhol_ (1972) & Storm de
   Hirsch’s _Third Eye Butterfly_ (1968) "
 summary: "Join us for a double feature in our Summer Screening Series in
-  collaboration with Film-Makers' Cooperative: _Scenes from the Life of Andy
+  collaboration with The Film-Makers' Cooperative: _Scenes from the Life of Andy
   Warhol_ (1972) & _Third Eye Butterfly_ (1968)."
 date: 2022-07-21T00:00:00-0500
 end_date: 2022-07-21T23:59:00-0500
@@ -42,4 +42,4 @@ variations of soul-touch exist in the auras of illumination. The Great Eye domin
 
 **The New American Cinema Group / Film-Makers’ Cooperative (NACG)** was founded in 1961 for the
 distribution of avant-garde film. It is the first artist-run organization devoted to the dissemination of moving image art. Artists and estates maintain creative control of their works as they are a non-contractual, non-exclusive, membership-based, non-profit group. \
-[More on Film-Makers’ Cooperative →](https://film-makerscoop.com/)
+[More on The Film-Makers’ Cooperative →](https://film-makerscoop.com/)
