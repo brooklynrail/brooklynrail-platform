@@ -1,6 +1,6 @@
 ---
 title: "Picturing Black Girlhood: Moments of Possibility"
-deck: Featuring Zoraida Lopez-Diago and friends
+deck: Featuring Zoraida Lopez-Diago and Jessica Holmes
 summary: "Photographer and curator Zoraida Lopez-Diago and friends join Rail
   ArTonic Editor Jessica Holmes for a conversation. We conclude with a poetry
   reading by Raevan Aliyah Senior. "
