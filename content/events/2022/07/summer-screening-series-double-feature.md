@@ -4,7 +4,8 @@ deck: "Jonas Mekas’ _Scenes from the Life of Andy Warhol_ (1972) & Storm de
   Hirsch’s _Third Eye Butterfly_ (1968) "
 summary: "Join us for a double feature in our Summer Screening Series in
   collaboration with The Film-Makers' Cooperative: _Scenes from the Life of Andy
-  Warhol_ (1972) & _Third Eye Butterfly_ (1968)."
+  Warhol_ (1972) & _Third Eye Butterfly_ (1968). Register to receive a 24-hour
+  access link to the film."
 date: 2022-07-21T00:00:00-0500
 end_date: 2022-07-21T23:59:00-0500
 collections:
