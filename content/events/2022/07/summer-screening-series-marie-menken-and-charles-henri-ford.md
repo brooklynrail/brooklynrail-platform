@@ -3,7 +3,7 @@ title: "Summer Screening Series: Marie Menken and Charles Henri Ford "
 deck: Marie Menken’s _Lights_ (1966), Marie Menken’s _Glimpse of the Garden_
   (1957), and Charles Henri Ford’s _Poem Posters_ (1967)
 summary: "Join us for the final installment of our Summer Screening Series in
-  collaboration with the Film-Makers' Cooperative: Marie Menken’s _Lights_
+  collaboration with The Film-Makers' Cooperative: Marie Menken’s _Lights_
   (1966), Marie Menken’s _Glimpse of the Garden_ (1957), and Charles Henri
   Ford’s _Poem Posters_ (1967)"
 date: 2022-07-22T00:00:00-0500
@@ -53,4 +53,4 @@ print rich in superimpositions, fish-eye views, and pixelations."  - Juan Suarez
 
 **The New American Cinema Group / Film-Makers’ Cooperative** (NACG) was founded in 1961 for the
 distribution of avant-garde film. It is the first artist-run organization devoted to the dissemination of moving image art. Artists and estates maintain creative control of their works as they are a non-contractual, non-exclusive, membership-based, non-profit group.\
-[More on Film-Makers' Cooperative →](https://film-makerscoop.com/)
+[More on The Film-Makers' Cooperative →](https://film-makerscoop.com/)
