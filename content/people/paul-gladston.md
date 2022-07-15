@@ -17,4 +17,5 @@ short_bio: "Award-winning critical theorist and cultural historian **Paul
 portraits:
   - media: 2021/09/paul-gladston
 rail_contributor_url: https://brooklynrail.org/contributor/Paul-Gladston
+website: https://www.unsw.edu.au/staff/paul-gladston
 ---
