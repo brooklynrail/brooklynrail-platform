@@ -2,8 +2,8 @@
 title: "Summer Screening Series: Reminiscences of a Journey to Lithuania"
 deck: Directed by Jonas Mekas
 summary: "Join us for the third film in our Summer Screening Series in
-  collaboration with Film-Makers’ Cooperative: _Reminiscences of a Journey to
-  Lithuania_ (1972)"
+  collaboration with The Film-Makers’ Cooperative: _Reminiscences of a Journey
+  to Lithuania_ (1972)."
 date: 2022-07-20T00:00:00-0500
 end_date: 2022-07-20T23:59:00-0500
 collections:
@@ -15,7 +15,7 @@ event_producer:
 event_id: rec4Xig9sx6STk0pb
 event_platform: null
 ---
-16mm, Color, Sound, 82 minutes
+16mm, Color, Sound, 82 minutes.
 
 {{< image media="2022/07/reminiscences-of-a-journey-to-lithuania" size="lg" >}}
 
@@ -29,7 +29,7 @@ today: you see it only through the memories of a Displaced Person back home for 
 years. The third part begins with a parenthesis in Elmshorn, a suburb of Manburg, where we spent a
 year in a forced labor camp during the war. After the parenthesis closes, we are in Vienna where we
 see some of my best friends: Peter Kubelka, Hermann Nitsch, Annette Michelson, Ken Jacobs. The film
-ends with the burning of the Vienna fruit market, August 1971. " -Jonas Mekas
+ends with the burning of the Vienna fruit market, August 1971. " - Jonas Mekas
 
 {{< image media="2022/07/film-makers-cooperative" size="sm" >}}
 
