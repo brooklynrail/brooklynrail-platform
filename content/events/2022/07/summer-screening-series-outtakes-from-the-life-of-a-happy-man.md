@@ -3,7 +3,7 @@ title: "Summer Screening Series: Outtakes from the Life of a Happy Man "
 deck: Directed by Jonas Mekas
 summary: "Join us for the second film in our Summer Screening Series in
   collaboration with The Film-Makers' Cooperative: _Outtakes from the Life of a
-  Happy Man_ (2012)."
+  Happy Man_ (2012). Register to receive a 24-hour access link to the film."
 date: 2022-07-19T00:00:00-0500
 end_date: 2022-07-19T23:59:00-0500
 collections:
