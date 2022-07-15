@@ -12,6 +12,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: rec4Xig9sx6STk0pb
 event_platform: null
 ---
 16mm, Color, Sound, 82 minutes
