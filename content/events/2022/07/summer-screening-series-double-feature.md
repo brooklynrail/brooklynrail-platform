@@ -41,5 +41,6 @@ variations of soul-touch exist in the auras of illumination. The Great Eye domin
 {{< image media="2022/07/film-makers-cooperative" size="sm" >}}
 
 **The New American Cinema Group / Film-Makers’ Cooperative (NACG)** was founded in 1961 for the
-distribution of avant-garde film. It is the first artist-run organization devoted to the dissemination of moving image art. Artists and estates maintain creative control of their works as they are a non-contractual, non-exclusive, membership-based, non-profit group. \
+distribution of avant-garde film. It is the first artist-run organization devoted to the dissemination of moving image art. Artists and estates maintain creative control of their works as they are a non-contractual, non-exclusive, membership-based, non-profit group. 
+
 [More on The Film-Makers’ Cooperative →](https://film-makerscoop.com/)
