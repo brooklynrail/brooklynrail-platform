@@ -3,7 +3,7 @@ title: "Summer Screening Series: Sleepless Nights Stories"
 deck: Directed by Jonas Mekas
 summary: "Join us for the first film in our Summer Screening Series in
   collaboration with The Film-Makers' Cooperative: _Sleepless Nights Stories_
-  (2011)"
+  (2011)."
 people: []
 date: 2022-07-18T00:00:00-0500
 end_date: 2022-07-18T23:59:00-0500
@@ -27,6 +27,6 @@ Jonas Mekas’ feature length films speak to his mission of personal cinema. He 
 
 **About The New American Cinema Group / Film-Makers' Cooperative (NACG):**
 
-Founded in 1961, NACG is the first artist-run organization devoted to the dissemination of moving image art. Artists and estates maintain creative control of their works as we are a non-contractual, non-exclusive, membership based, non-profit group.
+Founded in 1961, NACG is the first artist-run organization devoted to the dissemination of moving image art. Artists and estates maintain creative control of their works as they are a non-contractual, non-exclusive, membership based, non-profit group.
 
-[More on Film-Makers’ Cooperative →](https://film-makerscoop.com/)
+[More on The Film-Makers’ Cooperative →](https://film-makerscoop.com/)
