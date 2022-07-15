@@ -36,4 +36,4 @@ ends with the burning of the Vienna fruit market, August 1971. " -Jonas Mekas
 **The New American Cinema Group / Film-Makers’ Cooperative** (NACG) was founded in 1961 for the
 distribution of avant-garde film. It is the first artist-run organization devoted to the dissemination of moving image art. Artists and estates maintain creative control of their works as they are a non-contractual, non-exclusive, membership-based, non-profit group.
 
-[More on Film-Makers’ Cooperative →](https://film-makerscoop.com/)
+[More on The Film-Makers’ Cooperative →](https://film-makerscoop.com/)
