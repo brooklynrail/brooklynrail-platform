@@ -3,7 +3,7 @@ title: "Summer Screening Series: Reminiscences of a Journey to Lithuania"
 deck: Directed by Jonas Mekas
 summary: "Join us for the third film in our Summer Screening Series in
   collaboration with The Film-Makers’ Cooperative: _Reminiscences of a Journey
-  to Lithuania_ (1972)."
+  to Lithuania_ (1972). Register to receive a 24-hour access link to the film."
 date: 2022-07-20T00:00:00-0500
 end_date: 2022-07-20T23:59:00-0500
 collections:
