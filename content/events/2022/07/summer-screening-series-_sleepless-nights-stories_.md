@@ -3,7 +3,7 @@ title: "Summer Screening Series: Sleepless Nights Stories"
 deck: Directed by Jonas Mekas
 summary: "Join us for the first film in our Summer Screening Series in
   collaboration with The Film-Makers' Cooperative: _Sleepless Nights Stories_
-  (2011)."
+  (2011). Register to receive a 24-hour access link to the film."
 people: []
 date: 2022-07-18T00:00:00-0500
 end_date: 2022-07-18T23:59:00-0500
