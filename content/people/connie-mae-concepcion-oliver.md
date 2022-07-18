@@ -2,10 +2,12 @@
 name: Connie Mae Concepcíon Oliver
 first_name: Connie
 last_name: Oliver
-short_bio: Poet and artist who lives in New York. Her book science fiction
-  fiction was published in 2020 by Spuyten Duyvil press. Please Mr. Postman, an
-  illustrated book dedicated to her late friend the musician Kristopher Pabon,
-  is forthcoming this year from the same press.
+short_bio: Venezuelan poet and artist **Connie Mae Oliver** is founding editor
+  of _FEELINGS_, an online journal of poetry art audio & interviews. Her book
+  _science fiction fiction_ was published in 2020 by Spuyten Duyvil press. She
+  teaches Creative Writing and Literature courses for Syracuse University
+  Project Advance and lives in New York.
 portraits:
   - media: 2021/03/connie-mae-concepcion-oliver-1
+rail_contributor_url: https://brooklynrail.org/contributor/connie-mae-oliver
 ---
