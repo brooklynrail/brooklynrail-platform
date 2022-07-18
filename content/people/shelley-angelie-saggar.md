@@ -11,6 +11,7 @@ short_bio: CHASE funded PhD researcher and museum worker **Shelley Angelie
   for managing culturally sensitive items in the historical medical collections.
 portraits:
   - {}
+  - media: 2022/07/shelley-angelie-saggar
 website: https://decolonialdictionary.wordpress.com/
 twitter: j4lebi
 ---
