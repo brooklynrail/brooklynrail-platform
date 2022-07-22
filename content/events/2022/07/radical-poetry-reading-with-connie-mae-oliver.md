@@ -1,8 +1,10 @@
 ---
 title: Radical Poetry Reading with Connie Mae Oliver
-deck: Featuring Oliver and friends
+deck: Featuring Oliver, viento izquierdo ugaz, and Dan Schapiro
 summary: Connie Mae Olivier curates our 97th Radical Poetry Reading.
 people:
+  - person: viento-izquierdo-ugaz
+  - person: dan-schapiro
   - person: connie-mae-concepcion-oliver
 date: 2022-08-03T13:00:00-0500
 end_date: 2022-08-03T14:30:00-0500
