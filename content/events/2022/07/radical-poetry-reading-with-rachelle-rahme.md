@@ -1,7 +1,8 @@
 ---
 title: "Radical Poetry Reading with Rachelle Rahmé "
-deck: featuring Rahmé and further readers to be announced
-summary: "Rachelle Rahmé curates our 96th reading. "
+deck: featuring Rahmé, Will Farris, Alamgir Hashmi and Anne Waldman
+summary: Rachelle Rahmé curates our 96th reading with Will Farris, Alamgir
+  Hashmi and Anne Waldman.
 people:
   - person: rachelle-rahme
 date: 2022-07-27T13:00:00-0500
