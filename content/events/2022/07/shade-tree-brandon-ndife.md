@@ -1,7 +1,8 @@
 ---
 title: "Shade Tree: Brandon Ndife"
-deck: ""
-summary: "featuring Ndife and Rail Host to be announced. "
+deck: "featuring Ndife and Rail Host to be announced. "
+summary: "Artist Brandon Ndife joins Rail Host to be announced. We conclude with
+  a poetry reading. "
 date: 2022-08-01T13:00:00-0500
 end_date: 2022-08-01T14:30:00-0500
 series: -22
