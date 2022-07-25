@@ -6,8 +6,8 @@ summary: featuring Gray, Julian Talamantez Brolaski, Brenda Coultas, Jen/Eleana
   Hofer and Brenda Iijima.
 people:
   - person: steph-gray
-date: 2022-07-25T17:52:00-0500
-end_date: 2022-07-25T17:52:00-0500
+date: 2022-08-10T13:00:00-0500
+end_date: 2022-08-10T14:30:00-0500
 collections:
   - the-new-social-environment
 event_organizer:
