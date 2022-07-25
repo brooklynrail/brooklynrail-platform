@@ -15,4 +15,5 @@ short_bio: "Poet, translator, and essayist **Hai-Dang Phan** is the author of
   studies from the University of Wisconsin. "
 portraits:
   - media: 2022/07/hai-dang-phan
+website: http://www.haidangphan.com/
 ---
