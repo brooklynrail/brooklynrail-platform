@@ -8,7 +8,11 @@ summary: "Curator Phong H. Bui, art dealer Frank Maresca, and contributing
   by Carla Harryman. "
 people:
   - person: phong-h-bui
-  - person: rank-maresca
+  - person: frank-maresca
+  - person: tamara-gonzales
+  - person: sam-messer
+  - person: ej-hauser
+  - person: vera-lutter
   - person: lyle-rexer
 date: 2022-08-02T13:00:00-0500
 end_date: 2022-08-02T18:30:00-0500
