@@ -12,6 +12,6 @@ short_bio: "Poet-filmmaker **Steph Gray** is the author of seven poetry
   NYC. "
 portraits:
   - media: 2022/07/steph-gray
-rail_contributor_url: "https://brooklynrail.org/contributor/stephanie-gray "
+rail_contributor_url: https://brooklynrail.org/contributor/stephanie-gray
 website: "https://www.poetryfoundation.org/poets/stephanie-gray "
 ---
