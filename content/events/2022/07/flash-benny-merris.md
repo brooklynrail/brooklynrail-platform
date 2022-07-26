@@ -1,5 +1,5 @@
 ---
-title: "flash!: Benny Merris"
+title: "Benny Merris: flash!"
 deck: Featuring Benny Merris and Ksenia Soboleva
 summary: Artist Benny Merris joins Rail contributor Ksenia Soboleva for a
   conversation. We conclude with a poetry reading by Peter Burzynski.
@@ -21,4 +21,4 @@ event_id: recqDq581CIh74Y8O
 event_platform:
   - zoom
 ---
-[Visit *flash: Benny Merris*, on view at Heroes Gallery through July 30, 2022 →](http://www.heroesgallery.gallery/benny-merris)
+[Visit *Benny Merris: flash!*, on view at Heroes Gallery through July 30, 2022 →](http://www.heroesgallery.gallery/benny-merris)
