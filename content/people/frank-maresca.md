@@ -15,5 +15,6 @@ short_bio: "American art dealer **Frank Maresca** is co-founder of Ricco/Maresca
   Chicago, and the Art Dealers Association of America."
 portraits:
   - media: 2020/08/frank-maresca
+website: https://www.riccomaresca.com/
 instagram: frank.maresca
 ---
