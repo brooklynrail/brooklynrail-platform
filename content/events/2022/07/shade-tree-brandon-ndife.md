@@ -8,7 +8,7 @@ people:
   - person: andrew-paul-woolbright
 date: 2022-08-01T13:00:00-0500
 end_date: 2022-08-01T14:30:00-0500
-series: -22
+series: 615
 collections:
   - the-new-social-environment
 event_organizer:
