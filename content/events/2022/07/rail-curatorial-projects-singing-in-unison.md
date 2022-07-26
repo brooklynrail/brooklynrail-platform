@@ -14,6 +14,8 @@ people:
   - person: ej-hauser
   - person: vera-lutter
   - person: lyle-rexer
+poets:
+  - person: carla-harryman
 date: 2022-08-02T13:00:00-0500
 end_date: 2022-08-02T18:30:00-0500
 series: 616
