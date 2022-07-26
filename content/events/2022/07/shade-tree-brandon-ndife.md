@@ -4,6 +4,7 @@ deck: featuring Ndife and Rail contributor Andrew Woolbright
 summary: "Artist Brandon Ndife joins Andrew Woolbright for a conversation. We
   conclude with a poetry reading. "
 people:
+  - person: brandon-ndife
   - person: andrew-paul-woolbright
 date: 2022-08-01T13:00:00-0500
 end_date: 2022-08-01T14:30:00-0500
@@ -19,3 +20,4 @@ event_id: rec0N8cJ4E3ESu2HY
 event_platform:
   - zoom
 ---
+[Visit *Shade Tree,* on view at Storm King Art Center through November 7, 2022 →](https://collections.stormking.org/Detail/occurrences/192)
