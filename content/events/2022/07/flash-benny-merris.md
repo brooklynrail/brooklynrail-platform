@@ -1,6 +1,6 @@
 ---
 title: "Benny Merris: flash!"
-deck: Featuring Benny Merris and Ksenia Soboleva
+deck: Featuring Merris and Ksenia Soboleva
 summary: Artist Benny Merris joins Rail contributor Ksenia Soboleva for a
   conversation. We conclude with a poetry reading by Peter Burzynski.
 people:
