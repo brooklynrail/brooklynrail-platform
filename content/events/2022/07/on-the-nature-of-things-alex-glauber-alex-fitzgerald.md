@@ -4,6 +4,7 @@ deck: Featuring Alex Glauber, Alex Fitzgerald and David Rhodes
 summary: Alex Glauber & Alex Fitzgerald join Rail Contributor David Rhodes for a
   conversation. We conclude with a poetry reading from Ken Taylor.
 people:
+  - person: alex-fitzgerald
   - person: alex-glauber
   - person: david-rhodes
 poets:
