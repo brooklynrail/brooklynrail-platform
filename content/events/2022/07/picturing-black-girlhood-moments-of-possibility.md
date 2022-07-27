@@ -7,6 +7,7 @@ summary: "Curator Zoraida Lopez-Diago, photographer Lola Flash, and activist
 people:
   - person: zoraida-lopez-diago
   - person: lola-flash-1
+  - person: danielle-nolen
   - person: jessica-holmes
 poets:
   - person: raevan-aliyah-senior
