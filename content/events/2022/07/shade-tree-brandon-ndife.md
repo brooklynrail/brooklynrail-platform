@@ -1,8 +1,8 @@
 ---
 title: "Shade Tree: Brandon Ndife"
-deck: featuring Ndife and Rail contributor Andrew Woolbright
+deck: featuring Ndife and Rail Contributor Andrew Woolbright
 summary: "Artist Brandon Ndife joins Andrew Woolbright for a conversation. We
-  conclude with a poetry reading. "
+  conclude with a poetry reading by Mike Revereza. "
 people:
   - person: brandon-ndife
   - person: andrew-paul-woolbright
