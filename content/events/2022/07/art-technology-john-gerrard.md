@@ -6,6 +6,8 @@ summary: Artist John Gerrard joins Rail Editor-At-Large Charlotte Kent for a
 people:
   - person: john-gerrard
   - person: charlotte-kent
+poets:
+  - person: flora-field
 date: 2022-08-05T13:00:00-0500
 end_date: 2022-08-05T14:30:00-0500
 series: 619
