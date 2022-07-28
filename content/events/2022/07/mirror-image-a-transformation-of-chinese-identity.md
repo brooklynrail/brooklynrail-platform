@@ -5,6 +5,8 @@ summary: Curator Barbara Pollack joins Rail host for a conversation. We conclude
   with a poetry reading by Abby Romine.
 people:
   - person: barbara-pollack
+poets:
+  - person: abby-romine
 date: 2022-08-09T13:00:00-0500
 end_date: 2022-08-09T14:30:00-0500
 series: 621
