@@ -21,4 +21,4 @@ event_id: recSJynQoofyjcTIP
 event_platform:
   - zoom
 ---
-[Visit *Endling: John Gerrard*, on view at Pace Gallery through August 12, 2022 →](https://www.pacegallery.com/exhibitions/john-gerrard-endling/)
+[Visit *John Gerrard: Endling*, on view at Pace Gallery through August 12, 2022 →](https://www.pacegallery.com/exhibitions/john-gerrard-endling/)
