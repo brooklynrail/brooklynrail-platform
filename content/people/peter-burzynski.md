@@ -15,5 +15,5 @@ short_bio: "**Peter Buzyński** earned a PhD in creative writing at the
 portraits:
   - media: 2022/07/peter-burzynski
 website: https://peterburzynski.com/
-instagram: PeterBurzynski
+instagram: peter_burzynski
 ---
