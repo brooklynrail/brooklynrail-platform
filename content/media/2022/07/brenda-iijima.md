@@ -1,7 +1,7 @@
 ---
-media: /media/files/brenda-iijima-photo-by-ivy-johnson-2000x-2000x.jpeg
+media: /media/files/brenda-i.-mumes-and-me.jpg
 title: Brenda Iijima
-alt: Photo of Brenda Iijima with flowers
-caption: Photo by Ivy Johnson
+alt: Photo of Brenda with a cat
+caption: ""
 date: 2022-07-29T14:13:00-0500
 ---
