@@ -1,8 +1,8 @@
 ---
 title: "Brandon Ndife: Shade Tree"
-deck: featuring Ndife and Rail Contributor Andrew Woolbright
-summary: "Artist Brandon Ndife joins Andrew Woolbright for a conversation. We
-  conclude with a poetry reading by Mike Revereza. "
+deck: Featuring Ndife and Andrew Woolbright
+summary: "Artist Brandon Ndife joins Rail contributor Andrew Woolbright for a
+  conversation. We conclude with a poetry reading by Miko Revereza. "
 people:
   - person: brandon-ndife
   - person: andrew-paul-woolbright
@@ -18,7 +18,7 @@ event_organizer:
 event_producer:
   - the-brooklyn-rail
 youtube_id: ""
-event_id: rec0N8cJ4E3ESu2HY
+event_id: recKp4VNbxXECTmsO
 event_platform:
   - zoom
 ---
