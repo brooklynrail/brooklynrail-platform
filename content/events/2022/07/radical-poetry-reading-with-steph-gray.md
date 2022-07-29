@@ -5,6 +5,13 @@ deck: "Steph Gray curates our 98th Radical Poetry reading with Julian Talamantez
 summary: featuring Gray, Julian Talamantez Brolaski, Brenda Coultas, Jen/Eleana
   Hofer and Brenda Iijima
 people:
+  - person: julian-talamantez-brolaski
+  - person: brenda-coultas
+  - person: jen-eleana-hofer
+    related_links:
+      - url: http://antenaantena.org/
+        text: More on Antena Aire
+  - person: brenda-iijima
   - person: steph-gray
 date: 2022-08-10T13:00:00-0500
 end_date: 2022-08-10T14:30:00-0500
