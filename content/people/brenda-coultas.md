@@ -2,15 +2,12 @@
 name: Brenda Coultas
 first_name: Brenda
 last_name: Coultas
-short_bio: Born in Owensboro, Kentucky, **Brenda Coultas** graduated from the
-  University of Southern Indiana and earned an MFA from Naropa Institute (now
-  Naropa University). Coultas is the author of five poetry collections,
-  including _The Tatters_ (Wesleyan University Press, 2014), _The Marvelous
-  Bones of Time_ (Coffee House Press, 2008), and _A Handmade Museum_ (Coffee
-  House Press, 2003). Her honors include a New York Foundation for the Arts
-  fellowship and residencies from the Lower Manhattan Cultural Council, the
-  Emily Harvey Foundation in Venice, Italy, and the Millay Colony for the Arts.
-  She teaches at Touro College and lives in New York City.
+short_bio: "**Brenda Coultas** is the author of five collections of poetry,
+  including _The Tatters_ (Wesleyan University Press, 2014) and _The Marvelous
+  Bones of Time_ (Coffee House Press, 2007). Her work can be found in _Bomb, The
+  Brooklyn Rail,_ and the anthology _Readings in Contemporary Poetry_ (Dia). Her
+  new book, _The Writing of an Hour,_ is just out from Wesleyan University Press
+  in 2022."
 portraits:
   - media: 2022/04/brenda-coultas
 rail_contributor_url: https://brooklynrail.org/contributor/brenda-coultas
