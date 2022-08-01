@@ -11,9 +11,8 @@ short_bio: "**Jen/Eleana Hofer** is a poet, translator, social justice
   Center. Jen/Eleana publishes with numerous small independent presses and in
   various DIY/DIT incarnations. Excerpts from their most recent project,
   _unremembering_ are at Map Magazine."
-portraits:
-  - media: 2022/07/jen-eleana-hofer
+portraits: []
 website: https://www.channeltransmitrepeat.com/
-instagram: labicibilingue
-twitter: EleanaJen
+instagram: ""
+twitter: ""
 ---
