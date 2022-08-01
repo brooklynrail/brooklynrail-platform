@@ -2,7 +2,7 @@
 name: Sheila Hicks
 first_name: "Sheila "
 last_name: Hicks
-short_bio: "After studying painting at Yale University, _Sheila Hicks_ began
+short_bio: "After studying painting at Yale University, **Sheila Hicks** began
   weaving and producing fabrics in Central and South America in the early 1960s.
   Attracted to her hand-woven aesthetic, Knoll International collaborated with
   Hicks in 1966 to produce Inca. The woven upholstery design proved highly
