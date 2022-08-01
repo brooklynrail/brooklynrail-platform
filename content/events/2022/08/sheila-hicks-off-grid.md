@@ -1,6 +1,6 @@
 ---
 title: "Sheila Hicks: Off Grid"
-deck: ""
+deck: Featuring Hicks and Toby Kamps
 summary: Artist Sheila Hicks joins Rail Editor-at-Large Toby Kamps for a conversation.
 people:
   - person: toby-kamps
