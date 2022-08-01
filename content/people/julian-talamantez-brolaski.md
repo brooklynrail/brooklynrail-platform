@@ -13,5 +13,5 @@ short_bio: "Poet and country singer **Julian Talamantez Brolaski** the author of
   of Radical Trans Poetics_ (Nightboat 2020)."
 portraits:
   - media: 2022/07/julian-talamantez-brolaski
-website: ""
+website: https://www.aperfectvacuum.club/julian-talamantez-brolaski
 ---
