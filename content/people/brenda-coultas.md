@@ -11,4 +11,5 @@ short_bio: "**Brenda Coultas** is the author of five collections of poetry,
 portraits:
   - media: 2022/04/brenda-coultas
 rail_contributor_url: https://brooklynrail.org/contributor/brenda-coultas
+website: https://www.weslpress.org/9780819580719/the-writing-of-an-hour/
 ---
