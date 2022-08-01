@@ -11,5 +11,7 @@ short_bio: "After studying painting at Yale University, _Sheila Hicks_ began
   Hicks has consistently blurred the lines between art, craft and design. Her
   work has been shown across the globe and is in the permanent collections of
   The Metropolitan Museum of Art, the Museum of Modern Art, and others. "
+portraits:
+  - media: 2022/08/sheila-hicks
 website: https://www.sheilahicks.com/
 ---
