@@ -1,11 +1,11 @@
 ---
 title: "Charles Gaines: The American Manifest"
-deck: "Featuring Gaines "
+deck: Featuring Gaines with Rail host to be announced
 summary: Artist Charles Gaines joins us for a conversation.
 people:
   - person: " charles-gaines"
-date: 2022-08-02T12:46:00-0500
-end_date: 2022-08-02T12:46:00-0500
+date: 2022-08-12T13:00:00-0500
+end_date: 2022-08-12T14:30:00-0500
 series: 624
 collections:
   - the-new-social-environment
