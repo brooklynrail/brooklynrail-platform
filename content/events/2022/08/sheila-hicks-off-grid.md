@@ -18,4 +18,4 @@ event_id: recHsZrtuOTZcRlFt
 event_platform:
   - zoom
 ---
-[Visit *Sheila Hicks: Off Grid* on view at The Hepworth Wakefield through September 25, 2022 →](https://hepworthwakefield.org/whats-on/sheila-hicks/)
+[Visit *Sheila Hicks: Off Grid,* on view at The Hepworth Wakefield through September 25, 2022 →](https://hepworthwakefield.org/whats-on/sheila-hicks/)
