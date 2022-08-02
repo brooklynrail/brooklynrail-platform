@@ -1,14 +1,15 @@
 ---
 title: "Rail Curatorial Projects: Singing in Unison"
-deck: "featuring Phong H. Bui, Frank Maresca, Tamara Gonzales, Sam Messer, EJ
-  Hauser, Vera Lutter, and Lyle Rexer "
-summary: " Curator Phong H. Bui, art dealer Frank Maresca, and contributing
-  artists Tamara Gonzales, Sam Messer, EJ Hauser, and Vera Lutter, join Rail
-  Contributor Lyle Rexer for a conversation. We conclude with a poetry reading
-  by Carla Harryman. "
+deck: "featuring Phong H. Bui, Frank Maresca, Tamara Gonzales, Brian Belott, Sam
+  Messer, EJ Hauser, Vera Lutter, and Lyle Rexer "
+summary: " Curator Phong H. Bui, gallerist Frank Maresca, and contributing
+  artists Brian Belott, Tamara Gonzales, Sam Messer, EJ Hauser, and Vera Lutter,
+  join Rail Contributor Lyle Rexer for a conversation. We conclude with a poetry
+  reading by Carla Harryman. "
 people:
   - person: phong-h-bui
   - person: frank-maresca
+  - person: brian-belott
   - person: tamara-gonzales
   - person: sam-messer
   - person: ej-hauser
