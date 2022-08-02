@@ -9,6 +9,8 @@ people:
   - person: shelley-angelie-saggar
   - person: keren-hammerschlag
   - person: susie-russell
+poets:
+  - person: timothy-liu
 date: 2022-08-04T13:00:00-0500
 end_date: 2022-08-04T14:30:00-0500
 series: 618
