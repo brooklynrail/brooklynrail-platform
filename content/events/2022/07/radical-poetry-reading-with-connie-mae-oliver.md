@@ -1,7 +1,7 @@
 ---
 title: Radical Poetry Reading with Connie Mae Concepción Oliver
 deck: Featuring Oliver, Katerina Canyon, Dan Schapiro and viento izquierdo ugaz
-summary: Connie Mae Concepción Olivier curates our 97th Radical Poetry Reading
+summary: Connie Mae Concepción Oliver curates our 97th Radical Poetry Reading
   with Katerina Canyon, Dan Schapiro and viento izquierdo ugaz.
 people:
   - person: katerina-canyon
