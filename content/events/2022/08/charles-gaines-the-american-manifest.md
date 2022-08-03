@@ -1,6 +1,6 @@
 ---
 title: "Charles Gaines: The American Manifest"
-deck: Featuring Gaines and Rail Editor-at-Large Thyrza Nichols Goodeve
+deck: Featuring Gaines and Thyrza Nichols Goodeve
 summary: "Artist Charles Gaines joins Rail Editor-at-Large Thyrza Nichols
   Goodeve for a conversation. We conclude with a poetry reading. "
 people:
