@@ -1,7 +1,7 @@
 ---
 title: "Linda Nochlin: Making It Modern"
-deck: Featuring Aruna d'Souza and Jason Rosenfeld
-summary: Art writer Aruna d'Souza joins Rail-Editor-At-Large Jason Rosenfeld for
+deck: Featuring Aruna D'Souza and Jason Rosenfeld
+summary: Art writer Aruna D'Souza joins Rail-Editor-At-Large Jason Rosenfeld for
   a conversation. We conclude with a poetry reading.
 people:
   - person: aruna-dsouza
@@ -19,4 +19,4 @@ event_id: recJalCASvXBCdIJI
 event_platform:
   - zoom
 ---
-[*Making It Modern: Essays on the Art of the Now* written by Linda Nochlin & edited by Aruna d'Souza (Thames & Hudson, 2022) →](https://www.thamesandhudsonusa.com/books/making-it-modern-essays-on-the-art-of-the-now-hardcover)
+[*Making It Modern: Essays on the Art of the Now* written by Linda Nochlin & edited by Aruna D'Souza (Thames & Hudson, 2022) →](https://www.thamesandhudsonusa.com/books/making-it-modern-essays-on-the-art-of-the-now-hardcover)
