@@ -1,6 +1,6 @@
 ---
 title: "Tiona Nekkia McClodden: The Trace of an Implied Presence"
-deck: featuring McClodden and Ayanna Dozier
+deck: Featuring McClodden and Ayanna Dozier
 summary: Artist Tiona Nekkia McClodden joins Rail contributor Ayanna Dozier for
   a conversation. We conclude with a poetry reading Asiya Wadud.
 people:
