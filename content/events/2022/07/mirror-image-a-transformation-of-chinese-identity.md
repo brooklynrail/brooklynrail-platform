@@ -1,6 +1,6 @@
 ---
 title: "Mirror Image: A Transformation of Chinese Identity"
-deck: "Featuring Barbara Pollack, Liu Shiyuan, Miao Ying, and Lilly Wei. "
+deck: Featuring Barbara Pollack, Liu Shiyuan, Miao Ying, and Lilly Wei
 summary: Curator Barbara Pollack and artists Liu Shiyuan and Miao Ying join Rail
   contributor Lilly Wei for a conversation. We conclude with a poetry reading by
   Abby Romine.
