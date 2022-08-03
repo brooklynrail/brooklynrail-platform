@@ -1,10 +1,11 @@
 ---
 title: "Charles Gaines: The American Manifest"
-deck: Featuring Gaines and Rail host to be announced
-summary: "Artist Charles Gaines joins Rai host for a conversation. We conclude
-  with a poetry reading. "
+deck: Featuring Gaines and Rail Editor-at-Large Thyrza Nichols Goodeve
+summary: "Artist Charles Gaines joins Rail Editor-at-Large Thyrza Nichols
+  Goodeve for a conversation. We conclude with a poetry reading. "
 people:
   - person: charles-gaines
+  - person: thyrza-nichols-goodeve
 date: 2022-08-12T13:00:00-0500
 end_date: 2022-08-12T14:30:00-0500
 series: 624
