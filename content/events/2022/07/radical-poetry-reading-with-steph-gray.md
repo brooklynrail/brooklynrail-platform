@@ -1,9 +1,9 @@
 ---
 title: Radical Poetry Reading with Steph Gray
-deck: "Steph Gray curates our 98th Radical Poetry reading with Julian Talamantez
-  Brolaski, Brenda Coultas, Jen/Eleana Hofer and Brenda Iijima "
-summary: featuring Gray, Julian Talamantez Brolaski, Brenda Coultas, Jen/Eleana
-  Hofer and Brenda Iijima
+deck: Featuring Gray, Julian Talamantez Brolaski, Brenda Coultas, Jen/Eleana
+  Hofer, and Brenda Iijima
+summary: "Steph Gray curates our 98th Radical Poetry reading with Julian
+  Talamantez Brolaski, Brenda Coultas, Jen/Eleana Hofer and Brenda Iijima. "
 people:
   - person: julian-talamantez-brolaski
   - person: brenda-coultas
