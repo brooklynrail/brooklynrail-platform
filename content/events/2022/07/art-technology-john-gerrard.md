@@ -2,7 +2,7 @@
 title: "Art + Technology: John Gerrard"
 deck: Featuring Gerrard and Charlotte Kent
 summary: Artist John Gerrard joins Rail Editor-At-Large Charlotte Kent for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading by Flora Field.
 people:
   - person: john-gerrard
   - person: charlotte-kent
