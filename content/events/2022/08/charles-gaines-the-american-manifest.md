@@ -1,9 +1,10 @@
 ---
 title: "Charles Gaines: The American Manifest"
-deck: Featuring Gaines with Rail host to be announced
-summary: Artist Charles Gaines joins us for a conversation.
+deck: Featuring Gaines and Rail host to be announced
+summary: "Artist Charles Gaines joins Rai host for a conversation. We conclude
+  with a poetry reading. "
 people:
-  - person: " charles-gaines"
+  - person: charles-gaines
 date: 2022-08-12T13:00:00-0500
 end_date: 2022-08-12T14:30:00-0500
 series: 624
