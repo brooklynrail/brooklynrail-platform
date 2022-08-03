@@ -8,8 +8,8 @@ people:
   - person: rev-dr-dona-schaper
   - person: helen-tworkov
 poets: []
-date: 2022-08-18T13:00:00-0500
-end_date: 2022-08-18T14:30:00-0500
+date: 2022-08-18T13:30:00-0500
+end_date: 2022-08-18T15:00:00-0500
 series: 628
 collections:
   - common-ground
