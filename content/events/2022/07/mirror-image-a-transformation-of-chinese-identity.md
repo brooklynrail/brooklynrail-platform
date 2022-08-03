@@ -6,6 +6,7 @@ summary: Curator Barbara Pollack and artist Liu Shiyuan join Rail host for a
 people:
   - person: barbara-pollack
   - person: liu-shiyuan
+  - person: miao-ying
 poets:
   - person: abby-romine
 date: 2022-08-09T13:00:00-0500
