@@ -2,7 +2,8 @@
 title: "Looking After: Conversations on Art and Healing"
 deck: Colonial Trauma and the Art of Healing
 summary: Featuring Dorota Glowacka, Amanda Sciampacone, Shelley Angelie Saggar,
-  Keren Hammerschlag, and Susie Russell. We conclude with a poetry reading.
+  Keren Hammerschlag, and Susie Russell. We conclude with a poetry reading by
+  Timothy Liu..
 people:
   - person: dorota-glowacka
   - person: amanda-sciampacone
