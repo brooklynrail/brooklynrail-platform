@@ -1,8 +1,8 @@
 ---
 title: "Mirror Image: A Transformation of Chinese Identity"
-deck: Featuring Barbara Pollack, Liu Shiyuan, and Rail host
-summary: Curator Barbara Pollack and artist Liu Shiyuan join Rail host for a
-  conversation. We conclude with a poetry reading by Abby Romine.
+deck: Featuring Barbara Pollack, Liu Shiyuan, Miao Ying, and Rail host
+summary: Curator Barbara Pollack and artists Liu Shiyuan and Miao Ying join Rail
+  host for a conversation. We conclude with a poetry reading by Abby Romine.
 people:
   - person: barbara-pollack
   - person: liu-shiyuan
