@@ -21,4 +21,4 @@ event_id: rec4Q5W7QyJKtQ6mG
 event_platform:
   - zoom
 ---
-[Visit *Tionna Nekkia McClodden: The Trace of an Implied Presence* at The Shed through December 11, 2022 →](https://theshed.org/program/248-tiona-nekkia-mc-clodden-the-trace-of-an-implied-presence)
+[Visit *Tiona Nekkia McClodden: The Trace of an Implied Presence* at The Shed through December 11, 2022 →](https://theshed.org/program/248-tiona-nekkia-mc-clodden-the-trace-of-an-implied-presence)
