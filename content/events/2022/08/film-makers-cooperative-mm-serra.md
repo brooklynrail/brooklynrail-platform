@@ -4,8 +4,8 @@ deck: Featuring Serra and Chloe Stagaman
 summary: Filmmaker MM Serra joins Rail Director of Programs Chloe Stagaman for a
   conversation.
 people:
-  - person: " chloe-stagaman"
   - person: " mm-serra"
+  - person: " chloe-stagaman"
 poets:
   - person: " maia-siegel"
 date: 2022-08-11T13:00:00-0500
