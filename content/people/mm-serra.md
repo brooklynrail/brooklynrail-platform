@@ -13,5 +13,5 @@ short_bio: "Experimental filmmaker, curator, author, and educator **MM Serra**
   Anthology describes Serra’s five films as a “DIY Lower East Side spirit, but
   introduces a distinctive lyrical eroticism.”"
 portraits:
-  - media: " 2022/08/mm-sera"
+  - media: 2022/08/mm-sera
 ---
