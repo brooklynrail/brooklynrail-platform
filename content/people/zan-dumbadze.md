@@ -1,9 +1,9 @@
 ---
-name: Zan Dumbadze
-first_name: Zan
+name: Alexander Dumbadze
+first_name: Alexander
 last_name: Dumbadze
 short_bio: "Associate Professor of Art History at George Washington University,
-  **Zan Dumbadze** is the author of _Bas Jan Ader: Death Is Elsewhere_
+  **Alexander Dumbadze** is the author of _Bas Jan Ader: Death Is Elsewhere_
   (University of Chicago Press, 2013) as well as co-editor and co-author of
   _Contemporary Art: 1989 to the Present_ (Wiley-Blackwell, 2013). He is
   currently writing _Jack Goldstein: All Day Night Sky_. His essays and
