@@ -1,8 +1,8 @@
 ---
 title: "Singing In Unison: A Poetry Reading at TOTAH "
 deck: "Featuring Anselm Berrigan, Maia Siegel, Emma Wippermann and friends "
-summary: Please join us for a poetry reading to honor the closing of Singing in
-  Unison at TOTAH.
+summary: "Please join us for a poetry reading to honor the closing of Singing in
+  Unison at TOTAH (183 Stanton St, New York) "
 people:
   - person: anselm-berrigan
   - person: maia-siegel
@@ -16,8 +16,4 @@ event_producer:
   - the-brooklyn-rail
 event_platform: null
 ---
-Please join us for a poetry reading to honor the closing of [*Singing in Unison* at TOTAH](https://www.davidtotah.com/exhibitions).
-
-TOTAH\
-183 Stanton Street\
-New York, NY
+Learn more about [*Singing in Unison* at TOTAH](https://www.davidtotah.com/exhibitions)→
