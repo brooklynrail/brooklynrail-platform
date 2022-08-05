@@ -2,7 +2,7 @@
 title: "Film-Makers' Cooperative: MM Serra"
 deck: Featuring Serra and Chloe Stagaman
 summary: Filmmaker MM Serra joins Rail Director of Programs Chloe Stagaman for a
-  conversation.
+  conversation. We conclude with a poetry reading by Maia Siegel.
 people:
   - person: mm-serra
   - person: chloe-stagaman
