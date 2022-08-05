@@ -9,5 +9,5 @@ short_bio: New York based poet **Emma Wippermann's** forthcoming book, _Joan of
   publications by dispersed holdings and Patient Sounds. She lives in Greenpoint
   with her girlfriend and two small dogs.
 portraits:
-  - media: " 2022/08/emma-wippermann"
+  - media: 2022/08/emma-wippermann
 ---
