@@ -1,8 +1,8 @@
 ---
 title: A Conversation on Chris Burden
-deck: Featuring Zan Dumbadze, Yayoi Shionoiri, and friends
-summary: Art history professor Zan Dumbadze joins art lawyer Yayoi Shionoiri for
-  a conversation. We conclude with a poetry reading.
+deck: Featuring Alexander Dumbadze, Yayoi Shionoiri, and friends
+summary: Art history professor Alexander Dumbadze joins art lawyer Yayoi
+  Shionoiri for a conversation. We conclude with a poetry reading.
 people:
   - person: zan-dumbadze
   - person: yayoi-shionoiri
