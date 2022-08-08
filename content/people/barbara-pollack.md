@@ -14,7 +14,7 @@ short_bio: "Independent curator and critic **Barbara Pollack** writes regularly
   the Asian Cultural Council, and received a Creative Capital/Andy Warhol
   Foundation Arts Writer Grant in 2008. Pollack teaches at SVA."
 portraits:
-  - media: 2022/07/barbara-pollack
+  - media: 2021/04/barbara-pollack
 website: https://artatatimelikethis.com/
 instagram: bxpollack
 twitter: bxpollack
