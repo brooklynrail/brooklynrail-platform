@@ -15,4 +15,7 @@ short_bio: "Independent curator and critic **Barbara Pollack** writes regularly
   Foundation Arts Writer Grant in 2008. Pollack teaches at SVA."
 portraits:
   - media: 2022/07/barbara-pollack
+website: https://artatatimelikethis.com/
+instagram: bxpollack
+twitter: bxpollack
 ---
