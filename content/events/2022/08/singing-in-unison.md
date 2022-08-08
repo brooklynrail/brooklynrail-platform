@@ -22,4 +22,4 @@ event_platform: null
 ---
 Learn more about [*Singing in Unison* at TOTAH](https://www.davidtotah.com/exhibitions)→
 
-A poetry reading curated by \*\*Tyhe Cooper\*\* to celebrate the closing of _*Singing in Unison_* at TOTAH, featuring readings by *Rail* poetry editor \*\*Anselm Berrigan\*\*, \*\*Ari Lisner\*\*, \*\*Maia Siegel\*\*, and \*\*Emma Wipperman\*\*, with opening remarks by \*\*Phong H. Bui\*\*. The reading will be followed by a reception.
+A poetry reading curated by **Tyhe Cooper** to celebrate the closing of *Singing in Unison at TOTAH, featuring readings by* Rail* poetry editor **Anselm Berrigan**, **Ari Lisner**, **Maia Siegel**, and **Emma Wipperman**, with opening remarks by **Phong H. Bui**. The reading will be followed by a reception.
