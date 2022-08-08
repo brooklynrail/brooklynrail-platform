@@ -1,12 +1,14 @@
 ---
 title: "Singing In Unison: A Poetry Reading at TOTAH "
-deck: "Featuring Anselm Berrigan, Maia Siegel, Emma Wippermann and friends "
-summary: "Please join us for a poetry reading to honor the closing of Singing in
-  Unison at TOTAH (183 Stanton St, New York) "
+deck: Featuring Anselm Berrigan, Maia Siegel, Emma Wippermann, Ari Lisner, and
+  friends
+summary: Please join us for a poetry reading to celebrate the closing of Singing
+  in Unison at TOTAH (183 Stanton St, New York)
 people:
   - person: anselm-berrigan
   - person: maia-siegel
   - person: emma-wippermann
+  - person: ari-lisner-1
   - person: phong-h-bui
 date: 2022-08-12T16:00:00-0500
 end_date: 2022-08-12T18:00:00-0500
@@ -19,3 +21,5 @@ event_producer:
 event_platform: null
 ---
 Learn more about [*Singing in Unison* at TOTAH](https://www.davidtotah.com/exhibitions)→
+
+A poetry reading curated by \*\*Tyhe Cooper\*\* to celebrate the closing of _*Singing in Unison_* at TOTAH, featuring readings by *Rail* poetry editor \*\*Anselm Berrigan\*\*, \*\*Ari Lisner\*\*, \*\*Maia Siegel\*\*, and \*\*Emma Wipperman\*\*, with opening remarks by \*\*Phong H. Bui\*\*. The reading will be followed by a reception.
