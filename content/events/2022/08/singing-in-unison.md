@@ -7,6 +7,7 @@ people:
   - person: anselm-berrigan
   - person: maia-siegel
   - person: emma-wippermann
+  - person: phong-h-bui
 date: 2022-08-12T16:00:00-0500
 end_date: 2022-08-12T18:00:00-0500
 collections:
