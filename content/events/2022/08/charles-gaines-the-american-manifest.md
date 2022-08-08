@@ -6,6 +6,8 @@ summary: "Artist Charles Gaines joins Rail Editor-at-Large Thyrza Nichols
 people:
   - person: charles-gaines
   - person: thyrza-nichols-goodeve
+poets:
+  - person: andriniki-mattis
 date: 2022-08-12T13:00:00-0500
 end_date: 2022-08-12T14:30:00-0500
 series: 624
