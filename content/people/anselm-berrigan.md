@@ -2,15 +2,15 @@
 name: Anselm Berrigan
 first_name: Anselm
 last_name: Berrigan
-short_bio: "Poet **Anselm Berrigan** was born in 1972 in Chicago. He is the
-  author of several books of poetry, including _Something for Everybody_, _Come
-  in Alone_, _Notes from Irrelevance_, _Free Cell_, and _Integrity and Dramatic
-  Life_. With Alice Notley and his brother Edmund Berrigan, he co-edited _The
-  Collected Poems of Ted Berrigan and the Selected Poems of Ted Berrigan_.
-  Berrigan was a New York State Foundation for the Arts Fellow in poetry in 2007
-  and has received three grants from the Fund for Poetry. From 2003 to 2007, he
-  served as Artistic Director of The Poetry Project at St. Mark’s Church. He is
-  the Poetry editor of the _Rail_. "
+short_bio: The most recent book of poems by **Anselm Berrigan**, _Pregrets_, was
+  published by Black Square Editions in 2021. Other books include _Something for
+  Everybody, Come In Alone,_ and _Notes from Irrelevance,_ all published by Wave
+  Books. He has also published four books with Edge Books, most recently
+  _Primitive State._ He is the Poetry Editor for _The Brooklyn Rail,_ and also
+  organizes the _Rail's_ Wednesday online Radical Poetry Series. He has worked
+  with family and friends on various books by his father, the poet Ted Berrigan
+  (1934-1983), including a book of Ted's prose that will be out soon from City
+  Lights, and is called _Get The Money! Collected Prose of Ted Berrigan._
 portraits:
   - media: 2020/07/anselm-berrigan
 rail_contributor_url: https://brooklynrail.org/contributor/anselm-berrigan
