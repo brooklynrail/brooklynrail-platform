@@ -1,12 +1,13 @@
 ---
 title: "The Double: Identity and Difference in Art since 1900 "
 deck: Featuring James Meyer, W.J.T. Mitchell, and Natalia Gierowska
-summary: Curator James Meyer and art historian W.J.T. Mitchell join Rail
-  contributor Natalia Gierowska for a conversation. We conclude with a poetry
-  reading by Mick Toma
+summary: Curator James Meyer, art historian W.J.T. Mitchell, and artist Josiah
+  McElheny join Rail contributor Natalia Gierowska for a conversation. We
+  conclude with a poetry reading by Mick Toma.
 people:
   - person: james-meyer
   - person: w-j-t-mitchell
+  - person: josiah-mcelheny
   - person: natalia-gierowska
 poets:
   - person: mick-toma
