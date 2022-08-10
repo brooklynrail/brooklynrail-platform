@@ -1,10 +1,11 @@
 ---
 title: "Nick Cave: Forothermore "
-deck: Featuring Cave and Rail host to be announced
-summary: "Artist Nick Cave joins Rail host for a conversation. We conclude with
-  a poetry reading. "
+deck: Featuring Cave and Matthew Biro
+summary: "Artist Nick Cave joins Rail Contributor Matthew Biro host for a
+  conversation. We conclude with a poetry reading. "
 people:
   - person: nick-cave
+  - person: matthew-biro
 date: 2022-08-26T13:00:00-0500
 end_date: 2022-08-26T14:30:00-0500
 series: 634
