@@ -5,8 +5,8 @@ summary: "Dr. Mark Epstein and Helen Tworkov join Reverend Dr. Donna Schaper for
   a conversation. We conclude with a poetry reading. "
 people:
   - person: dr-mark-epstein
-  - person: rev-dr-dona-schaper
   - person: helen-tworkov
+  - person: rev-dr-dona-schaper
 poets: []
 date: 2022-08-18T13:30:00-0500
 end_date: 2022-08-18T15:00:00-0500
