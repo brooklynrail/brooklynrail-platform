@@ -1,10 +1,11 @@
 ---
 title: "The Double: Identity and Difference in Art since 1900 "
-deck: Featuring James Meyer, W.J.T. Mitchell, and Natalia Gierowska
-summary: Curator James Meyer, art historian W.J.T. Mitchell, and artist Josiah
-  McElheny join Rail contributor Natalia Gierowska for a conversation. We
-  conclude with a poetry reading by Mick Toma.
+deck: Featuring Jorge Macchi, James Meyer, W.J.T. Mitchell, and Natalia Gierowska
+summary: Artist Jorge Macchi, Curator James Meyer, art historian W.J.T.
+  Mitchell, and artist Josiah McElheny join Rail contributor Natalia Gierowska
+  for a conversation. We conclude with a poetry reading by Mick Toma.
 people:
+  - person: jorge-macchi
   - person: james-meyer
   - person: w-j-t-mitchell
   - person: josiah-mcelheny
