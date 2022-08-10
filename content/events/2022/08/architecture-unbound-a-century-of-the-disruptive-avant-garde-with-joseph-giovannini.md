@@ -6,6 +6,8 @@ summary: Designer Joseph Giovannini joins Rail contributor Lyle Rexer for a
 people:
   - person: joseph-giovannini
   - person: lyle-rexer
+poets:
+  - person: kyle-brosnihan
 date: 2022-08-15T13:00:00-0500
 end_date: 2022-08-15T14:30:00-0500
 series: 625
