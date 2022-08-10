@@ -1,10 +1,11 @@
 ---
 title: "Architecture Unbound: A Century of the Disruptive Avant-Garde"
-deck: Featuring Giovannini and Rail host to be announced
-summary: "Designer Joseph Giovannini joins Rail host for a conversation. We
-  conclude with a poetry reading. "
+deck: Featuring Joseph Giovannini and Lyle Rexer
+summary: Designer Joseph Giovannini joins Rail contributor Lyle Rexer for a
+  conversation. We conclude with a poetry reading by Kyle Brosnihan.
 people:
   - person: joseph-giovannini
+  - person: lyle-rexer
 date: 2022-08-15T13:00:00-0500
 end_date: 2022-08-15T14:30:00-0500
 series: 625
@@ -18,3 +19,4 @@ event_id: recAhUnfkupezPAMo
 event_platform:
   - zoom
 ---
+[More on *Architecture Unbound: A Century of the Disruptive Avant-Garde* by Joseph Giovannini →](https://www.rizzoliusa.com/book/9780847858798/)
