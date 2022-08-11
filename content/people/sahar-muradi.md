@@ -2,7 +2,7 @@
 name: Sahar Muradi
 first_name: "Sahar "
 last_name: Muradi
-short_bio: "**Poet **Sahar Muradi is author of the collection _Octobers_,
+short_bio: "Poet **Sahar Muradi** is author of the collection _Octobers_,
   selected by Naomi Shihab Nye for the 2022 Donald Hall Prize for Poetry and
   forthcoming from the University of Pittsburgh Press. She is also author of the
   chapbook _[ G A T E S ]_, the hybrid memoir _Ask Hafiz_ (winner of the 2021
