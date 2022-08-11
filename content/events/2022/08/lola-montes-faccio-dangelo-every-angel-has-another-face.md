@@ -1,10 +1,12 @@
 ---
 title: "Lola Montes: Faccio d'angelo / Every Angel Has Another Face"
 deck: Featuring Lola Montes and Rail host to be announced
-summary: "Artist Lola Montes joins Rail host for a conversation. We conclude
-  with a poetry reading. "
+summary: Artist Lola Montes joins Rail host for a conversation. We conclude with
+  a poetry reading from Isa Guzman.
 people:
   - person: lola-montes-schnabel
+poets:
+  - person: isa-guzman
 date: 2022-08-19T13:00:00-0500
 end_date: 2022-08-19T14:30:00-0500
 series: 629
