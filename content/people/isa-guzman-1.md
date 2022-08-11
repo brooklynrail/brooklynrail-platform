@@ -11,7 +11,7 @@ short_bio: "Poet, playwright, & Brooklyn College MFA graduate **Isa Guzman** is
   Acentos Review, The Poetry Project (Footnotes), Public Seminar, & also appears
   in several anthologies, such as Birds Fall Silent in the Mechanical Sea & The
   Breakbeat Poets Vol. 4: LatiNext. Her plays have been featured in the
-  Nuyorican Poet’s Cafe Theater Festival & the Downtown Urban Arts Festival"
+  Nuyorican Poet’s Cafe Theater Festival & the Downtown Urban Arts Festival."
 portraits:
   - media: 2022/08/isa-guzman
 instagram: isa_writes
