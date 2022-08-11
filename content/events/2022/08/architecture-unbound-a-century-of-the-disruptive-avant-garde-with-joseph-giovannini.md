@@ -21,4 +21,4 @@ event_id: recAhUnfkupezPAMo
 event_platform:
   - zoom
 ---
-[More on *Architecture Unbound: A Century of the Disruptive Avant-Garde* by Joseph Giovannini →](https://www.rizzoliusa.com/book/9780847858798/)
+[More on *Architecture Unbound: A Century of the Disruptive Avant-Garde* by Joseph Giovannini →](https://www.architecture-unbound.com/)
