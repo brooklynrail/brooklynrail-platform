@@ -1,7 +1,7 @@
 ---
 title: "Architecture Unbound: A Century of the Disruptive Avant-Garde"
 deck: Featuring Joseph Giovannini and Lyle Rexer
-summary: Designer Joseph Giovannini joins Rail contributor Lyle Rexer for a
+summary: Architect Joseph Giovannini joins Rail contributor Lyle Rexer for a
   conversation. We conclude with a poetry reading by Kyle Brosnihan.
 people:
   - person: joseph-giovannini
