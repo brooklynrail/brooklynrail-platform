@@ -5,6 +5,7 @@ summary: Chris Tysh curates our 99th Radical Poetry Reading with Laura Moriarty,
   Ted Pearson and Isaac Pickell.
 people:
   - person: ted-pearson
+  - person: chris-tysh
 date: 2022-08-17T13:00:00-0500
 end_date: 2022-08-17T14:30:00-0500
 series: 627
