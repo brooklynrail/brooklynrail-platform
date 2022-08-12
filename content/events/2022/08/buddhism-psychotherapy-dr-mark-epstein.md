@@ -7,7 +7,8 @@ people:
   - person: dr-mark-epstein
   - person: helen-tworkov
   - person: rev-dr-dona-schaper
-poets: []
+poets:
+  - person: suchi-pritchard
 date: 2022-08-18T13:30:00-0500
 end_date: 2022-08-18T15:00:00-0500
 series: 628
