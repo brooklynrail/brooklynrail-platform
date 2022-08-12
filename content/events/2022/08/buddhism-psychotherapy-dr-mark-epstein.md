@@ -1,8 +1,8 @@
 ---
 title: "Buddhism & Psychotherapy: Dr. Mark Epstein & Helen Tworkov"
 deck: "Featuring Epstein, Tworkov, and Rev. Dr. Donna Schaper "
-summary: "Dr. Mark Epstein and Helen Tworkov join Reverend Dr. Donna Schaper for
-  a conversation. We conclude with a poetry reading. "
+summary: Dr. Mark Epstein and Helen Tworkov join Reverend Dr. Donna Schaper for
+  a conversation. We conclude with a poetry reading from Suchi Pritchard.
 people:
   - person: dr-mark-epstein
   - person: helen-tworkov
