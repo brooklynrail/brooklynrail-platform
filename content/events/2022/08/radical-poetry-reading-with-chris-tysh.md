@@ -1,9 +1,8 @@
 ---
 title: Radical Poetry Reading with Chris Tysh
-deck: "Featuring Tysh, Laura Moriarty, Ted Pearson, Isaac Pickell and Michelle
-  naka Pierce "
-summary: "Chris Tysh curates our 99th Radical Poetry Reading with Laura
-  Moriarty, Ted Pearson, Isaac Pickell and Michelle naka Pierce. "
+deck: "Featuring Tysh, Laura Moriarty, Ted Pearson and Isaac Pickell "
+summary: Chris Tysh curates our 99th Radical Poetry Reading with Laura Moriarty,
+  Ted Pearson and Isaac Pickell.
 people:
   - person: ted-pearson
 date: 2022-08-17T13:00:00-0500
