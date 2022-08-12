@@ -9,4 +9,5 @@ short_bio: Passing poet **Isaac Pickell** is a PhD candidate in Detroit, where
   taken a seat in all fifty states and has so much to look forward to.
 portraits:
   - media: 2022/08/isaac-pickell
+website: "https://www.isaacpickell.com/bio "
 ---
