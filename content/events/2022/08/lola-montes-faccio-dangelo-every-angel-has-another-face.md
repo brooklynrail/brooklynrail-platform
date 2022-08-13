@@ -5,6 +5,7 @@ summary: Artist Lola Montes joins Rail contributor Patrick J. Reed for a
   conversation. We conclude with a poetry reading from Isa Guzman.
 people:
   - person: lola-montes-schnabel
+  - person: patrick-j-reed
 poets:
   - person: isa-guzman-1
 date: 2022-08-19T13:00:00-0500
