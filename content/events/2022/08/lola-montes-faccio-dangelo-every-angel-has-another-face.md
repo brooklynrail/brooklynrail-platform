@@ -1,8 +1,8 @@
 ---
 title: "Lola Montes: Faccio d'angelo / Every Angel Has Another Face"
-deck: Featuring Lola Montes and Rail host to be announced
-summary: Artist Lola Montes joins Rail host for a conversation. We conclude with
-  a poetry reading from Isa Guzman.
+deck: "Featuring Montes and Patrick J. Reed "
+summary: Artist Lola Montes joins Rail contributor Patrick J. Reed for a
+  conversation. We conclude with a poetry reading from Isa Guzman.
 people:
   - person: lola-montes-schnabel
 poets:
