@@ -11,7 +11,7 @@ people:
   - person: irene-mei-zhi-shum
   - person: jessica-holmes
 poets:
-  - person: yesenia-montilla
+  - person: yesenia-montilla-1
 date: 2022-08-25T13:00:00-0500
 end_date: 2022-08-25T14:30:00-0500
 series: 633
