@@ -1,8 +1,9 @@
 ---
-title: A Conversation on Chris Burden
-deck: Featuring Alexander Dumbadze, Yayoi Shionoiri, and friends
-summary: Art history professor Alexander Dumbadze joins art lawyer Yayoi
-  Shionoiri for a conversation. We conclude with a poetry reading.
+title: A Conversation about Chris Burden and “California Art”
+deck: Featuring Alexander Dumbadze, Sydney Stutterheim and Yayoi Shionoiri
+summary: Art history professor Alexander Dumbadze and art historian Sydney
+  Stutterheim joins art lawyer Yayoi Shionoiri for a conversation. We conclude
+  with a poetry reading.
 people:
   - person: zan-dumbadze
   - person: yayoi-shionoiri
