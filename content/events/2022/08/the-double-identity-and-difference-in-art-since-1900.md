@@ -10,6 +10,7 @@ people:
   - person: james-meyer
   - person: w-j-t-mitchell
   - person: josiah-mcelheny
+  - person: tom-gunning
   - person: natalia-gierowska
 poets:
   - person: mick-toma
