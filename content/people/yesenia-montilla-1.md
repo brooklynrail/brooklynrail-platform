@@ -2,6 +2,7 @@
 name: Yesenia Montilla
 first_name: Yesenia
 last_name: Montilla
+pronouns: she/her
 short_bio: Afro-Latina poet & a daughter of immigrant **Yesenia Montilla**
   received her MFA from Drew University in Poetry & Poetry in translation. She
   is CantoMundo graduate fellow and a 2020 New York Foundation for the Arts
