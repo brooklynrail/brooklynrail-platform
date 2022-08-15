@@ -6,6 +6,7 @@ summary: Art history professor Alexander Dumbadze and art historian Sydney
   with a poetry reading.
 people:
   - person: zan-dumbadze
+  - person: sydney-stutterheim
   - person: yayoi-shionoiri
 date: 2022-08-23T13:00:00-0500
 end_date: 2022-08-23T14:30:00-0500
