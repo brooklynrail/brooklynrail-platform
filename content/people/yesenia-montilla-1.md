@@ -12,6 +12,7 @@ short_bio: "Based in Harlem, NY, **Yesenia Montilla** is an Afro-Latina poet & a
   published by Willow Books & was longlisted for a PEN award. Her second
   collection _Muse Found in a Colonized Body_ is forthcoming from Four Way
   Books, 2022. "
-portraits: []
+portraits:
+  - media: 2022/08/yesenia-montilla-1
 website: https://www.yeseniamontilla.com
 ---
