@@ -3,7 +3,7 @@ title: A Conversation about Chris Burden and “California Art”
 deck: Featuring Alexander Dumbadze, Sydney Stutterheim and Yayoi Shionoiri
 summary: Art history professor Alexander Dumbadze and art historian Sydney
   Stutterheim joins art lawyer Yayoi Shionoiri for a conversation. We conclude
-  with a poetry reading.
+  with a poetry reading by Vlad Nahitchevansky.
 people:
   - person: zan-dumbadze
   - person: sydney-stutterheim
