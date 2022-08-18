@@ -1,9 +1,9 @@
 ---
 title: Radical Poetry Reading with Sahar Muradi
 deck: Featuring Muradi, Zeina Hashem Beck, Hyejung Kook, Jasmin Eli-Washington
-  and Mina Zohar
+  and Mina Zohal
 summary: "Sahar Muradi curates our 100th Radical Poetry reading with Zeina
-  Hashem Beck, Hyejung Kook, Jasmin Eli-Washington and Mina Zohar.  "
+  Hashem Beck, Hyejung Kook, Jasmin Eli-Washington and Mina Zohal.  "
 people:
   - person: zeina-hashem-beck
   - person: hyejung-kook
