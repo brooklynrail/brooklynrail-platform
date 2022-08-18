@@ -1,10 +1,13 @@
 ---
 title: "Sheila Hicks: Off Grid"
 deck: Featuring Hicks and Toby Kamps
-summary: Artist Sheila Hicks joins Rail Editor-at-Large Toby Kamps for a conversation.
+summary: Artist Sheila Hicks joins Rail Editor-at-Large Toby Kamps for a
+  conversation. We conclude with a poetry reading by Marta Núñez Pouzols.
 people:
   - person: sheila-hicks
   - person: toby-kamps
+poets:
+  - person: marta-nunez
 date: 2022-08-22T13:00:00-0500
 end_date: 2022-08-22T14:30:00-0500
 series: 630
