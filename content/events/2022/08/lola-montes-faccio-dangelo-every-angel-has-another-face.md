@@ -21,4 +21,4 @@ event_id: recUrIAK37vUVmUSy
 event_platform:
   - zoom
 ---
-[Visit Lola Montes: *Faccia d’angelo / Every angel has another face*, on view at Nono Mier Gallery through August 27th, 2022 →](https://www.miergallery.com/exhibitions/lola-montes)
+[Visit Lola Montes: *Faccio d’angelo / Every angel has another face*, on view at Nino Mier Gallery through August 27th, 2022 →](https://www.miergallery.com/exhibitions/lola-montes)
