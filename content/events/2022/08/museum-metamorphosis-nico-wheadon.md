@@ -1,6 +1,6 @@
 ---
 title: Museum Metamorphosis
-deck: Featuring Wheadon, Thyrza Nichols Goodeve, and friends
+deck: Featuring Nico Wheadon, Thyrza Nichols Goodeve, and friends
 summary: Curator and author Nico Wheadon joins Rail Contributor Thyrza Nichols
   Goodeve and others to be announced for a conversation
 people:
