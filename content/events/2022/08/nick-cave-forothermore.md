@@ -1,7 +1,7 @@
 ---
 title: "Nick Cave: Forothermore "
 deck: Featuring Cave and Matthew Biro
-summary: "Artist Nick Cave joins Rail Contributor Matthew Biro host for a
+summary: "Artist Nick Cave joins Rail Editor-at-Large Matthew Biro for a
   conversation. We conclude with a poetry reading. "
 people:
   - person: nick-cave
