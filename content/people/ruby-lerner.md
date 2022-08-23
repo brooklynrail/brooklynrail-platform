@@ -13,4 +13,5 @@ short_bio: "**Ruby Lerner** is the founding Executive Director of Creative
   the Andy Warhol Foundation for the Visual Arts."
 portraits:
   - media: 2022/08/ruby-lerner
+website: http://www.rubylerner.com/
 ---
