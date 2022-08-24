@@ -3,6 +3,8 @@ title: "Wendy Red Star: Travels Pretty"
 deck: Featuring Red Star and Rail Host to be announced
 summary: "Artist Wendy Red Star joins Rail Host to be announced for a
   conversation. We conclude with a poetry reading. "
+people:
+  - person: wendy-red-star
 date: 2022-09-09T13:00:00-0500
 end_date: 2022-09-09T14:30:00-0500
 series: 644
