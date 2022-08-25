@@ -1,8 +1,8 @@
 ---
-title: Wednesday Afternoon Poetry Reading with Vyt Bakaitis
-deck: "featuring Bakaitis, William Benton, Joe Elliot and Jeffrey C. Wright "
-summary: Vyt Bakaitis curates our 101st Poetry Reading with William Benton, Joe
-  Elliot and Jeffrey C. Wright.
+title: "Only What's Here Already: A Rail Reading Curated by Vyt Bakaitis"
+deck: "Featuring Bakaitis, William Benton, Joe Elliot and Jeffrey C. Wright "
+summary: Vyt Bakaitis curates our 101st Wednesday Rail Reading with William
+  Benton, Joe Elliot and Jeffrey C. Wright.
 people:
   - person: william-benton
   - person: joe-eliot
