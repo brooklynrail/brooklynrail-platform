@@ -15,4 +15,5 @@ short_bio: Artist **Wendy Red Star** (b. 1981, Billings, MT) lives and works in
   represented by Sargent’s Daughters.
 portraits:
   - media: 2022/08/wendy-red-star
+website: https://www.wendyredstar.com/
 ---
