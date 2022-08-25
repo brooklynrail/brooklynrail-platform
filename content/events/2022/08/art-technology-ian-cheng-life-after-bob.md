@@ -6,6 +6,8 @@ summary: "Artist Ian Cheng joins Rail Editor-at-Large Charlotte Kent for a
 people:
   - person: ian-cheng-1
   - person: charlotte-kent
+poets:
+  - person: dot-devota
 date: 2022-09-02T12:00:00-0500
 end_date: 2022-09-02T13:30:00-0500
 series: 639
