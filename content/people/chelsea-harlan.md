@@ -1,7 +1,7 @@
 ---
 media: 000512650035-square.jpg
-short_bio: Poet **Chelsea Harlan** is from Appalachian Virginia. She holds a BA
-  from Bennington College, as well as an MFA in Poetry from Brooklyn College,
+short_bio: The poet **Chelsea Harlan** is from Appalachian Virginia. She holds a
+  BA from Bennington College, as well as an MFA in Poetry from Brooklyn College,
   where she was a Truman Capote Fellow, and where she has enjoyed teaching
   English and creative writing. She is the author of the chapbooks _Country
   Music_, from Two Plum Press, and _Mummy_, from Montez Press, written in
