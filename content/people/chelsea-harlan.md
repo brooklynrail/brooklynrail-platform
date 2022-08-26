@@ -1,7 +1,5 @@
 ---
-name: Chelsea Harlan
-first_name: "Chelsea "
-last_name: Harlan
+media: 000512650035-square.jpg
 short_bio: Poet **Chelsea Harlan** is from Appalachian Virginia. She holds a BA
   from Bennington College, as well as an MFA in Poetry from Brooklyn College,
   where she was a Truman Capote Fellow, and where she has enjoyed teaching
@@ -12,6 +10,13 @@ short_bio: Poet **Chelsea Harlan** is from Appalachian Virginia. She holds a BA
   of the _American Poetry Review / Honickman First Book Prize_, and is
   forthcoming with distribution from Copper Canyon Press in October. She lives
   in the Catskills, where she works at a small public library.
+alt: "Photo of the poet Chelsea Harlan with her hand in her pocket, wearing
+  jeans and a brown sweater and smiling in the sunlight. "
+name: Chelsea Harlan
+date: 2022-08-26T17:45:00-0500
+last_name: Harlan
 portraits:
   - media: 2022/08/chelsea-harlan
+title: "Chelsea Harlan "
+first_name: "Chelsea "
 ---
