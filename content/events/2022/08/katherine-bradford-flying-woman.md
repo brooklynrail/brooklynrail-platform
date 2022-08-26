@@ -3,7 +3,7 @@ title: "Katherine Bradford: Flying Woman"
 deck: Featuring Bradford, Chris Martin, and Phong H. Bui
 summary: Artist Katherine Bradford joins Rail Contributor Chris Martin and Rail
   Publishes and Artistic Director Phong H. Bui for a conversation. We conclude
-  with a poetry reading by Sasha McEvoy..
+  with a poetry reading by Sasha McEvoy.
 people:
   - person: katherine-bradford
   - person: chris-martin-2
