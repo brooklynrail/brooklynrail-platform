@@ -8,6 +8,6 @@ short_bio: Sasha lives in NY and calls her dog, ‘brother.’ Lately, she is
   Waxing and Waning, Vol No. 2, and as press releases for musicians.
 portraits:
   - media: 2022/08/sasha-mcevoy-1
-website: sashamcevoy.wordpress.com
-instagram: "@dream___shoe"
+website: ""
+instagram: dream___shoe
 ---
