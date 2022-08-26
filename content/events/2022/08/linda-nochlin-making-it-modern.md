@@ -2,7 +2,7 @@
 title: "Linda Nochlin: Making It Modern"
 deck: Featuring Aruna D'Souza and Jason Rosenfeld
 summary: Art writer Aruna D'Souza joins Rail-Editor-At-Large Jason Rosenfeld for
-  a conversation. We conclude with a poetry reading.
+  a conversation. We conclude with a poetry reading by Chelsea Harlan.
 people:
   - person: aruna-dsouza
   - person: jason-rosenfeld
