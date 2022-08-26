@@ -3,7 +3,7 @@ title: "Ian Cheng: Life After BOB"
 deck: Featuring Cheng and Charlotte Kent
 summary: "Artist Ian Cheng joins Rail Editor-at-Large Charlotte Kent for the
   next conversation in our Art + Technology series. We conclude with a poetry
-  reading. "
+  reading by Dot Devota. "
 people:
   - person: ian-cheng-1
   - person: charlotte-kent
