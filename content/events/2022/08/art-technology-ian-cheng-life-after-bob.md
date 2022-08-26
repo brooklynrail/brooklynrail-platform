@@ -1,8 +1,9 @@
 ---
-title: Art + Technology Ian Cheng Life After BOB
-deck: Featuring Ian Cheng, Charlotte Kent
-summary: "Artist Ian Cheng joins Rail Editor-at-Large Charlotte Kent for a
-  conversation. We conclude with a poetry reading. "
+title: "Ian Cheng: Life After BOB"
+deck: Featuring Cheng and Charlotte Kent
+summary: "Artist Ian Cheng joins Rail Editor-at-Large Charlotte Kent for the
+  next conversation in our Art + Technology series. We conclude with a poetry
+  reading. "
 people:
   - person: ian-cheng-1
   - person: charlotte-kent
