@@ -1,9 +1,10 @@
 ---
 title: Museum Metamorphosis
-deck: "Featuring Ryan Dennis, Ruby Lerner, Nico Wheadon and Thyrza Nichols Goodeve "
-summary: Curator and author Nico Wheadon, Ryan Dennis and Ruby Lerner join Rail
-  Contributor Thyrza Nichols Goodeve for a conversation on Nico Wheadon's Museum
-  Metamorphosis
+deck: "Featuring Nico Wheadon, Ryan Dennis, Ruby Lerner, and Thyrza Nichols Goodeve "
+summary: "Curator and author Nico Wheadon, curator Ryan Dennis and arts leader
+  Ruby Lerner join Rail Editor-at-Large Thyrza Nichols Goodeve for a
+  conversation on Museum Metamorphosis: Cultivating Change Through Cultural
+  Citizenship. We'll conclude with a poetry reading."
 people:
   - person: ryan-dennis
   - person: ruby-lerner
