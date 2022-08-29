@@ -15,5 +15,6 @@ short_bio: "Based in New Haven, CT, **nico wheadon** is an independent arts
   _Museum Metamorphosis: Cultivating Change Through Cultural Citizenship_."
 portraits:
   - media: 2022/08/nico-wheadon
+rail_contributor_url: https://brooklynrail.org/contributor/Nico-Wheadon
 website: https://www.nicowheadon.com/
 ---
