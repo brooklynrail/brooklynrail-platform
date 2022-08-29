@@ -8,7 +8,7 @@ summary: "Curator and author Nico Wheadon, curator Ryan Dennis and arts leader
 people:
   - person: ryan-dennis
   - person: ruby-lerner
-  - person: nico-wheadon
+  - person: nico-wheadon-1
   - person: thyrza-nichols-goodeve
 date: 2022-09-01T13:00:00-0500
 end_date: 2022-09-01T14:30:00-0500
