@@ -1,12 +1,10 @@
 ---
 title: Art & Border Relations
-deck: Featuring Rafael Lozano-Hemmer, Peter Svarzbein, and Lyle Rexer
-summary: Artist Rafael Lozano-Hemmer and El Paso City Representative Peter
-  Svarzbein join Rail contributor Lyle Rexer for a conversation. We conclude
-  with a poetry reading.
+deck: Featuring Rafael Lozano-Hemmer and Lyle Rexer
+summary: Artist Rafael Lozano-Hemmer joins Rail contributor Lyle Rexer for a
+  conversation. We conclude with a poetry reading.
 people:
   - person: rafael-lozano-hemmer
-  - person: peter-svarzbein
   - person: lyle-rexer
 date: 2022-09-15T13:00:00-0500
 end_date: 2022-09-15T14:30:00-0500
