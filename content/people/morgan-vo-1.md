@@ -2,6 +2,7 @@
 name: Morgan Võ
 first_name: Morgan
 last_name: Võ
+pronouns: he/him
 short_bio: Poet and artist **Morgan Võ** (b. 1989) is concerned with overlap,
   difficulty understanding, and resonance. His chapbooks include _Lights of
   Earth_ and _Eat Pamphlet_; recent work has appeared in The Segue Reading
