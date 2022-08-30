@@ -4,13 +4,16 @@ deck: "Featuring nico wheadon, Ryan Dennis, Ruby Lerner, Mario Gooden, and
   Thyrza Nichols Goodeve "
 summary: Curator and author nico wheadon, curator Ryan Dennis, arts executive
   Ruby Lerner, and architect Mario Gooden join Rail Editor-at-Large Thyrza
-  Nichols Goodeve for a conversation. We conclude with a poetry reading.
+  Nichols Goodeve for a conversation. We conclude with a poetry reading by Sarah
+  Sophia Yanni.
 people:
   - person: ryan-dennis
+  - person: mario-gooden
   - person: ruby-lerner
   - person: nico-wheadon-1
-  - person: mario-gooden
   - person: thyrza-nichols-goodeve
+poets:
+  - person: sarah-sophia-yanni
 date: 2022-09-01T13:00:00-0500
 end_date: 2022-09-01T14:30:00-0500
 series: 638
