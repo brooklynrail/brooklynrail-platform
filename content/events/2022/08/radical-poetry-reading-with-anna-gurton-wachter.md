@@ -1,5 +1,6 @@
 ---
-title: "Wednesday Afternoon Poetry Reading with Anna Gurton-Wachter "
+title: "The Mountain Suddenly Gives Way Underfoot: A Rail Reading curated by
+  Anna Gurton-Wachter"
 deck: Featuring Gurton-Wachter, Betsy Fagin, Lyric Hunter, Jacob Kahn and Morgan Vō
 summary: Anna Gurton-Wachter curates our 102nd Wednesday Afternoon Poetry
   Reading with Betsy Fagin, Lyric Hunter, Jacob Kahn and Morgan Vō
