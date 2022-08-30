@@ -1,8 +1,8 @@
 ---
-title: "Radical Poetry Reading with Anna Gurton-Wachter "
+title: "Wednesday Afternoon Poetry Reading with Anna Gurton-Wachter "
 deck: Featuring Gurton-Wachter, Betsy Fagin, Lyric Hunter, Jacob Kahn and Morgan Vō
-summary: Anna Gurton-Wachter curates our 102nd Radical Poetry Reading with Betsy
-  Fagin, Lyric Hunter, Jacob Kahn and Morgan Vō
+summary: Anna Gurton-Wachter curates our 102nd Wednesday Afternoon Poetry
+  Reading with Betsy Fagin, Lyric Hunter, Jacob Kahn and Morgan Vō
 people:
   - person: betsy-fagin
   - person: jacob-kahn
