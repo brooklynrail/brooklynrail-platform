@@ -1,8 +1,8 @@
 ---
 title: "Pamela Phatsimo Sunstrum: I have withheld much more than I have written"
-deck: "Featuring Pamela Phatsimo Sunstrum and Rail host to be announced "
-summary: "Artist Pamela Phatsimo Sunstrum joins Rail host for a conversation. We
-  conclude with a poetry reading. "
+deck: Featuring Pamela Phatsimo Sunstrum and Yasi Alipour
+summary: "Artist Pamela Phatsimo Sunstrum joins Rail contributor Yasi Alipour
+  for a conversation. We conclude with a poetry reading. "
 people:
   - person: pamela-phatsimo-sunstrum
   - person: yasi-alipour
