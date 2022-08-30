@@ -1,6 +1,6 @@
 ---
 title: "Radical Poetry Reading with Anna Gurton-Wachter "
-deck: featuring Gurton-Wachter and friends
+deck: Featuring Gurton-Wachter and friends
 summary: Anna Gurton-Wachter curates our 102nd Radical Poetry Reading with
   others to be announced soon.
 people:
