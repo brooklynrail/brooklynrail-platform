@@ -2,6 +2,7 @@
 name: Jacob Kahn
 first_name: Jacob
 last_name: Kahn
+pronouns: he/him
 short_bio: Poet and editor **Jacob Kahn** lives Oakland, CA. He is the author of
   _Mine Eclogue_ (forthcoming from Roof Books in late 2022), and the chapbooks
   _A Is For Aegis_ (DoubleCross Press, 2022),  _Mine Eclogue_ (Dirty Swan
