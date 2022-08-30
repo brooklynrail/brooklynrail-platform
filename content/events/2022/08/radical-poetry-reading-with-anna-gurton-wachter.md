@@ -1,9 +1,10 @@
 ---
 title: "Radical Poetry Reading with Anna Gurton-Wachter "
-deck: Featuring Gurton-Wachter and friends
-summary: Anna Gurton-Wachter curates our 102nd Radical Poetry Reading with
-  others to be announced soon.
+deck: Featuring Gurton-Wachter, Betsy Fagin, Lyric Hunter, Jacob Kahn and Morgan Vō
+summary: Anna Gurton-Wachter curates our 102nd Radical Poetry Reading with Betsy
+  Fagin, Lyric Hunter, Jacob Kahn and Morgan Vō
 people:
+  - person: betsy-fagin
   - person: jacob-kahn
   - person: morgan-vo-1
   - person: anna-gurton-wachter
