@@ -4,9 +4,9 @@ first_name: Yasi
 last_name: Alipour
 pronouns: She/her
 short_bio: Iranian artist, writer, and folder **Yasi Alipour** currently lives
-  in Brooklyn and wonders about paper, politics, and performance. She received
-  her MFA from Columbia University and is a teacher at Columbia and SVA, New
-  York. She is currently a resident at the Sharpe-Walentas Studio Program.
+  in Brooklyn and wonders about paper, counting, and silence. She received her
+  MFA from Columbia University and is a faculty at Columbia, Parsons and SVA,
+  New York.
 portraits:
   - media: 2020/07/yasi-alipour
   - media: 2021/05/yasi-alipour-swsp
