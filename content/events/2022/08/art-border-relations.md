@@ -8,8 +8,8 @@ people:
   - person: rafael-lozano-hemmer
   - person: peter-svarzbein
   - person: lyle-rexer
-date: 2022-08-30T13:01:00-0500
-end_date: 2022-08-30T13:01:00-0500
+date: 2022-09-15T13:00:00-0500
+end_date: 2022-09-15T14:30:00-0500
 series: 648
 collections:
   - common-ground
