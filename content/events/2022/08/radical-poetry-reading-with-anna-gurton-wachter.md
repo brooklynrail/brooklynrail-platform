@@ -7,6 +7,7 @@ summary: Anna Gurton-Wachter curates our 102nd Wednesday Afternoon Poetry
   Reading with Betsy Fagin, Lyric Hunter, Jacob Kahn and Morgan Vō
 people:
   - person: betsy-fagin
+  - person: lyric-hunter
   - person: jacob-kahn
   - person: morgan-vo-1
   - person: anna-gurton-wachter
