@@ -10,7 +10,7 @@ short_bio: Poet and artist **Morgan Võ** (b. 1989) is concerned with overlap,
   Back. He is a member of The Poetry Project Newsletter editorial collective,
   and organizer of G-L-O-S-S, a mutual aid-based poetry press.
 portraits:
-  - media: 2020/06/morgan-vo-headshot
+  - media: 2022/08/morgan-vo
 rail_contributor_url: https://brooklynrail.org/2014/05/poetry/morgan-vo
 website: https://www.morganvo.net/
 ---
