@@ -5,7 +5,7 @@ summary: "Artist Richard Jackson joins Rail contributor Jeffrey Grunthaner for a
   conversation. "
 people:
   - person: richard-jackson
-  - person: " jeffrey-grunthaner"
+  - person: jeffrey-grunthaner
 date: 2022-09-05T13:00:00-0500
 end_date: 2022-09-05T23:59:00-0500
 series: 640
