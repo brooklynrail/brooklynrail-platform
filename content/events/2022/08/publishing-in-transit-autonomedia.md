@@ -8,6 +8,7 @@ people:
   - person: jim-fleming
 date: 2022-09-08T13:00:00-0500
 end_date: 2022-09-08T14:30:00-0500
+series: 643
 collections:
   - the-new-social-environment
 event_organizer:
