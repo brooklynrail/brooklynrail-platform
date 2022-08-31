@@ -18,4 +18,6 @@ event_producer:
 event_platform:
   - zoom
 ---
-Join us in watching a special edition, pre-recorded NSE conversation between artist Richard Jackson and writer Jeffrey Grunthaner from Zurich on the occasion of Jackson's show at Hauser & Wirth.
+Join us in watching a special edition, pre-recorded NSE conversation between artist Richard Jackson and writer Jeffrey Grunthaner from Zurich on the occasion of Jackson's show at Hauser & Wirth in Zurich. Subscribe to receive our newsletter to receive a day-of update that the conversation is live on our YouTube channel. 
+
+[Visit *Richard Jackson Works,* on view at Hauser & Wirth in Zurich through December 23, 2022 →](https://www.hauserwirth.com/hauser-wirth-exhibitions/38619-richard-jackson-zurich-2022/)
