@@ -1,8 +1,9 @@
 ---
 title: "Publishing-in-Transit: Autonomedia"
 deck: Featuring Jim Fleming and Cole Swensen
-summary: Founding Editor and Publisher Jim Fleming in conversation with Poet and
-  Rail Contributor Cole Swensen.
+summary: Autonomedia Founding Editor and Publisher Jim Fleming joins poet and
+  Rail Contributor Cole Swensen for a conversation. We conclude with a poetry
+  reading by Alyn Mare.
 people:
   - person: cole-swensen
   - person: jim-fleming
@@ -19,3 +20,4 @@ event_id: recDTLbVrKPvrOixR
 event_platform:
   - zoom
 ---
+[More on Autonomedia →](https://autonomedia.org/)
