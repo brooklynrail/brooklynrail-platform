@@ -1,6 +1,6 @@
 ---
 title: "Umber Majeed: Made in Trans-Pakistan "
-deck: Featuring Umber Majeed and Rail Host to be announced
+deck: Featuring Majeed and Rail Host to be announced
 summary: "Artist Umber Majeed joins Rail host for a conversation. We conclude
   with a poetry reading. "
 people:
