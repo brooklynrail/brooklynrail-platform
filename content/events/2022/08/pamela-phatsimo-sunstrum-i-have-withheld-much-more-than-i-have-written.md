@@ -1,6 +1,6 @@
 ---
 title: "Pamela Phatsimo Sunstrum: I have withheld much more than I have written"
-deck: Featuring Pamela Phatsimo Sunstrum and Yasi Alipour
+deck: Featuring Sunstrum and Yasi Alipour
 summary: "Artist Pamela Phatsimo Sunstrum joins Rail contributor Yasi Alipour
   for a conversation. We conclude with a poetry reading. "
 people:
