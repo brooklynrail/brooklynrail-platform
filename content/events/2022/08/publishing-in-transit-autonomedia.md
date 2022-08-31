@@ -7,6 +7,8 @@ summary: Autonomedia Founding Editor and Publisher Jim Fleming joins poet and
 people:
   - person: cole-swensen
   - person: jim-fleming
+poets:
+  - person: alyn-mare
 date: 2022-09-08T13:00:00-0500
 end_date: 2022-09-08T14:30:00-0500
 series: 643
