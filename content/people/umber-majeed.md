@@ -13,7 +13,7 @@ short_bio: Multidisciplinary visual artist and educator **Umber Majeed** (b. New
   currently a New Media Artist in Residence at the Education Department at
   Museum of Moving Image, Astoria.
 portraits:
-  - media: 2022/08/ronny-quevedo
+  - media: 2022/08/umber-majeed
 website: http://www.umbermajeed.com/
 instagram: u_mbr0
 twitter: umbmajeed
