@@ -18,4 +18,4 @@ event_id: recE9X812L1AhIgYM
 event_platform:
   - zoom
 ---
-[Visit Umber Majeed: *Made in Pakistan*, on view at Pioneer Works through December 11, 2022 →](https://pioneerworks.org/exhibitions/umber-majeed-made-in-trans-pakistan)
+[Visit Umber Majeed: *Made in Trans-Pakistan*, on view at Pioneer Works through December 11, 2022 →](https://pioneerworks.org/exhibitions/umber-majeed-made-in-trans-pakistan)
