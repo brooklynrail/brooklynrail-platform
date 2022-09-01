@@ -27,4 +27,4 @@ event_id: recgMHY7hohiBoRB4
 event_platform:
   - zoom
 ---
-[Get your copy of *Museum Metamorphosis: Cultivating Change Through Cultural Citizenship* by nico wheadon *(Rowman & Littlefield, 2022)*→](https://rowman.com/ISBN/9781538130445/Museum-Metamorphosis-Cultivating-Change-Through-Cultural-Citizenship)
+[Get your copy of *Museum Metamorphosis: Cultivating Change Through Cultural Citizenship* by nico wheadon (Rowman & Littlefield, 2022)→](https://rowman.com/ISBN/9781538130445/Museum-Metamorphosis-Cultivating-Change-Through-Cultural-Citizenship)
