@@ -12,4 +12,6 @@ short_bio: Poet **Cole Swensen** is the  author of 17 volumes of poetry and a
   Literary Translation.
 portraits:
   - media: 2020/11/cole-swensen
+rail_contributor_url: https://brooklynrail.org/contributor/Cole-Swensen
+website: https://www.coleswensen.com/
 ---
