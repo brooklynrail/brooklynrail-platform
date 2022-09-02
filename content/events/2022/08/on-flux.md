@@ -4,7 +4,7 @@ deck: Featuring Sam Vernon, Fawn Krieger, Rin Johnson, Michael Joo, Louis
   Osmosis, and Charles Schultz
 summary: Join the Rail's September Critics Page contributors in conversation
   with Rail Managing Editor Charlie Schultz to discuss the issue theme "On
-  Flux."
+  Flux." We conclude with a poetry reading by Andrew Yong Hoon Lee.
 people:
   - person: sam-vernon
   - person: fawn-krieger
