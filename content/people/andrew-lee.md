@@ -1,8 +1,8 @@
 ---
-name: Andrew Lee
+name: Andrew Yong Hoon Lee
 first_name: Andrew
 last_name: Lee
-short_bio: The work of artist ** Andrew Yong Hoon Lee** encompasses sound, the
+short_bio: The work of artist **Andrew Yong Hoon Lee** encompasses sound, the
   moving image, drawing and sculpture and examines sensory perceptions through
   the use of language, experience and space. His practice explores themes that
   range from the relationship between sounds and meaning in language, the
