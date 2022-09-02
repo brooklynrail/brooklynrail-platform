@@ -16,4 +16,6 @@ short_bio: Artist **Wendy Red Star** (b. 1981, Billings, MT) lives and works in
 portraits:
   - media: 2022/08/wendy-red-star
 website: https://www.wendyredstar.com/
+instagram: wendyredstar
+twitter: WendyRedStar
 ---
