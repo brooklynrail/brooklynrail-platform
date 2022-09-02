@@ -1,9 +1,9 @@
 ---
-name: Morgan Võ
+name: Morgan Vō
 first_name: Morgan
-last_name: Võ
+last_name: Vō
 pronouns: he/him
-short_bio: Poet and artist **Morgan Võ** (b. 1989) is concerned with overlap,
+short_bio: Poet and artist **Morgan Vō** (b. 1989) is concerned with overlap,
   difficulty understanding, and resonance. His chapbooks include _Lights of
   Earth_ and _Eat Pamphlet_; recent work has appeared in The Segue Reading
   Series, The Brooklyn Rail’s New Social Environment, and Can We Have Our Ball
