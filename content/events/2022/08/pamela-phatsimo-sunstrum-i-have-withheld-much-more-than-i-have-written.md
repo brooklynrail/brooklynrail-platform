@@ -1,11 +1,13 @@
 ---
 title: "Pamela Phatsimo Sunstrum: I have withheld much more than I have written"
 deck: Featuring Sunstrum and Yasi Alipour
-summary: "Artist Pamela Phatsimo Sunstrum joins Rail contributor Yasi Alipour
-  for a conversation. We conclude with a poetry reading. "
+summary: Artist Pamela Phatsimo Sunstrum joins Rail contributor Yasi Alipour for
+  a conversation. We conclude with a poetry reading by Diana Hou.
 people:
   - person: pamela-phatsimo-sunstrum
   - person: yasi-alipour
+poets:
+  - person: diana-hou
 date: 2022-09-13T13:00:00-0500
 end_date: 2022-09-13T14:30:00-0500
 series: 646
