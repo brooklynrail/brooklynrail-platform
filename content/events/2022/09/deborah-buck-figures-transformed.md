@@ -21,4 +21,4 @@ event_id: rec69Xx5VEJZsj0KO
 event_platform:
   - zoom
 ---
-[Visit *Figures Transformed,* on view at Southampton Arts Center through September 24th→](https://www.southamptonartscenter.org/figures-transformed#:~:text=FIGURES%20TRANSFORMED%20showcases%20the%20works,in%20a%20world%20beyond%20ours.)
+[Visit *Figures Transformed,* on view at Southampton Arts Center through September 24, 2022 →](https://www.southamptonartscenter.org/figures-transformed#:~:text=FIGURES%20TRANSFORMED%20showcases%20the%20works,in%20a%20world%20beyond%20ours.)
