@@ -5,6 +5,7 @@ summary: Artist Deborah Buck joins Rail Programs Director Chloe Stagaman for a
   conversation. We conclude with a poetry reading by Barbara Henning.
 people:
   - person: deborah-buck
+  - person: chloe-stagaman
 poets:
   - person: barbara-henning
 date: 2022-09-12T17:00:00-0500
