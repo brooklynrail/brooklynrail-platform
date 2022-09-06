@@ -1,10 +1,11 @@
 ---
 title: Wednesday Poetry Reading with Kyle Brosnihan
-deck: "featuring Brosnihan, Paul Clark, Chime Lama, and June Wilson. "
+deck: Featuring Brosnihan, Paul Clark, Chime Lama, and June Wilson
 summary: Kyle Brosnihan curates our 103rd Wednesday Rail Reading with Paul
   Clark, Chime Lama, and June Wilson
 people:
   - person: kyle-brosnihan
+  - person: june-wilson
 date: 2022-09-14T13:00:00-0500
 end_date: 2022-09-14T14:30:00-0500
 series: 647
