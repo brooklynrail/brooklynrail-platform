@@ -1,10 +1,12 @@
 ---
 title: Art & Border Relations
-deck: Featuring Rafael Lozano-Hemmer and Lyle Rexer
-summary: Artist Rafael Lozano-Hemmer joins Rail contributor Lyle Rexer for a
-  conversation. We conclude with a poetry reading by Alonso Llerena.
+deck: Featuring Rafael Lozano-Hemmer, Kerry Doyle, and Lyle Rexer
+summary: Artist Rafael Lozano-Hemmer and curator Kerry Doyle join Rail
+  contributor Lyle Rexer for a conversation. We conclude with a poetry reading
+  by Alonso Llerena.
 people:
   - person: rafael-lozano-hemmer
+  - person: kerry-doyle
   - person: lyle-rexer
 poets:
   - person: alonso-llerena
