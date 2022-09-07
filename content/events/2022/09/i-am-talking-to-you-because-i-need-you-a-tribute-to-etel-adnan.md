@@ -3,7 +3,7 @@ title: "I Am Talking to You Because I Need You: A Tribute to Etel Adnan"
 deck: "Featuring Charles Bernstein, Nora Treatbaby, Anne Waldman, Tyhe Cooper,
   and Phong Bui "
 summary: Tyhe Cooper hosts a reading in tribute to Etel Adnan to celebrate the
-  closing of Singing in Unison Part IV at Ricco/Maresca Gallery.
+  closing of Singing in Unison Part 4 at Ricco/Maresca Gallery.
 people:
   - person: charles-bernstein
   - person: nora-treatbaby
