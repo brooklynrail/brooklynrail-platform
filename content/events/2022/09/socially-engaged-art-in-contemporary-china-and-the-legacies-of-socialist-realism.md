@@ -1,8 +1,8 @@
 ---
 title: Socially Engaged Art in Contemporary China and the Legacies of Socialist
   Realism
-deck: Featuring Zhou Yanhua, Jiao Xingtao, and Paul Gladston
-summary: Art historian Zhou Yanhua and sculptor Jiao Xingtao join Rail
+deck: Featuring Yanhua Zhou, Jiao Xingtao, and Paul Gladston
+summary: Art historian Yanhua Zhou and sculptor Jiao Xingtao join Rail
   contributor Paul Gladston for a conversation. We conclude with a poetry
   reading.
 people:
