@@ -1,5 +1,5 @@
 ---
-media: /media/files/waldman_anne-1-.jpg
+media: /media/files/annewaldman.jpeg
 title: Anne Waldman, portrait
 alt: Anne Waldman
 caption: Portrait drawing of Anne Waldman by Phong Bui
