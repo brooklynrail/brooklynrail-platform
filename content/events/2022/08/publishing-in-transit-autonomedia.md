@@ -1,9 +1,9 @@
 ---
 title: "Publishing-in-Transit: Autonomedia"
-deck: Featuring Jim Fleming and Cole Swensen
-summary: Autonomedia Founding Editor and Publisher Jim Fleming joins poet and
-  Rail Contributor Cole Swensen for a conversation. We conclude with a poetry
-  reading by Alyn Mare.
+deck: Featuring Jim Fleming, Lewanne Jones, and Cole Swensen
+summary: Autonomedia Founding Editor and Publisher Jim Fleming and documentary
+  filmmaker Lewanne Jones joins poet and Rail Contributor Cole Swensen for a
+  conversation. We conclude with a poetry reading by Alyn Mare.
 people:
   - person: jim-fleming
   - person: lewanne-jones
