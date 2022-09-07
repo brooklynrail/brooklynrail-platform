@@ -7,6 +7,7 @@ summary: Artist Rafael Lozano-Hemmer and curator Kerry Doyle join Rail
 people:
   - person: rafael-lozano-hemmer
   - person: kerry-doyle
+  - person: peter-svarzbein
   - person: lyle-rexer
 poets:
   - person: alonso-llerena
