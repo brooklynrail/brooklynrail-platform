@@ -1,5 +1,5 @@
 ---
-name: Zhou Yanhua
+name: Yanhua Zhou
 first_name: "Yanhua "
 last_name: Zhou
 short_bio: "Art historian and curator **Yanhua Zhou** received a BA in Sculpture
