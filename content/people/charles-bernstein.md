@@ -2,16 +2,10 @@
 name: Charles Bernstein
 first_name: Charles
 last_name: Bernstein
-short_bio: "Poet and a scholar, **Charles Bernstein** is a foundational member
-  and leading practitioner of Language poetry. From 1978 to 1981, alongside
-  fellow poet Bruce Andrews, he published _L=A=N=G=U=A=G=E_ magazine, which
-  became a forum for writing that blurred, confused, and denied the boundary
-  between poetry and critical writing about poetry. Since the 1970s Bernstein
-  has published dozens of books, including poetry as well as essay collections,
-  pamphlets, translations, collaborations, and libretti. His poetry has been
-  widely anthologized and translated, and it has appeared in over 500 magazines
-  and periodicals. His most recent book _Topsy-Turvy_ was published by the
-  University of Chicago Press. "
+short_bio: "Poet **Charles Bernstein** is the winner of the 2019 Bollingen Prize
+  for _Near/Miss_ (University of Chicago Press, 2018) and for lifetime
+  achievement in American Poetry. He is the author of _Topsy-Turvy (_Chicago,
+  April 2021) and _Pitch of Poetry_ (Chicago, 2016).  "
 portraits:
   - media: 2021/01/charles-bernstein
 rail_contributor_url: https://brooklynrail.org/contributor/charles-bernstein
