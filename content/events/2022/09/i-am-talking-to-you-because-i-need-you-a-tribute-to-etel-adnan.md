@@ -7,6 +7,7 @@ summary: Tyhe Cooper hosts a reading in tribute to Etel Adnan to celebrate the
 people:
   - person: charles-bernstein
   - person: nora-treatbaby
+  - person: ann-waldman
   - person: tyhe-cooper
   - person: phong-h-bui
 date: 2022-09-10T17:00:00-0500
