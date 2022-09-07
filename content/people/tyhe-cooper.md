@@ -12,4 +12,7 @@ short_bio: A writer working in experimental prose, poetry, and digitality,
   the Brooklyn Rail’s April 2022 issue.
 portraits:
   - media: 2021/12/tyhe-cooper
+rail_contributor_url: https://brooklynrail.org/contributor/Tyhe-Cooper
+website: https://tyhecooper.com/
+instagram: tyhecooper
 ---
