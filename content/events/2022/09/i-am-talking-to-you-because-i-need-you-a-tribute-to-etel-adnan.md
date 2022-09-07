@@ -13,7 +13,7 @@ people:
 date: 2022-09-10T17:00:00-0500
 end_date: 2022-09-10T19:00:00-0500
 collections:
-  - the-new-social-environment
+  - community-listing
 event_organizer:
   - the-brooklyn-rail
 event_producer:
