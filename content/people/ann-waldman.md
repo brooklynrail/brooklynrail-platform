@@ -14,7 +14,7 @@ short_bio: "Poet, curator, professor, performer, cultural activist **Anne
   Fast Speaking Music and the Levy-Gorvy Gallery. _NEW WEATHERS, Poetics from
   the Naropa Archive_ , Nightboat 2022 has just gone to press."
 portraits:
-  - media: 2020/05/anne-waldman-portrait
+  - media: 2022/09/ann-waldman-portrait
 rail_contributor_url: https://brooklynrail.org/contributor/anne-waldman
 website: https://www.annewaldman.org/
 ---
