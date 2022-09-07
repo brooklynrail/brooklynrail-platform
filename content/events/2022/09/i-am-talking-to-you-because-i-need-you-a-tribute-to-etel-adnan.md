@@ -20,7 +20,7 @@ event_producer:
   - the-brooklyn-rail
 event_platform: null
 ---
-Please join us for a reading in honor of the legendary Etel Adnan to celebrate the closing of Singing in Unison at Ricco/Maresca Gallery, with opening remarks by Tyhe Cooper and Phong H. Bui. The reading will be followed by a reception.
+Please join us on Saturday, September 10th, from 5-7pm for a reading in honor of the legendary Etel Adnan to celebrate the closing of Singing in Unison Part 4 at Ricco/Maresca Gallery. There will be opening remarks by Tyhe Cooper and Phong H. Bui, and the reading will be followed by a reception.
 
 Ricco/Maresca\
 529 W 20th Street\
