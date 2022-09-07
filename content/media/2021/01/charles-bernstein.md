@@ -1,5 +1,5 @@
 ---
-media: /media/files/bernstein_charles_1.jpg
+media: /media/files/cb.jpeg
 title: Charles Bernstein
 alt: Charles Bernstein
 caption: Portrait drawing by Phong H. Bui
