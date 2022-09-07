@@ -5,8 +5,9 @@ summary: Autonomedia Founding Editor and Publisher Jim Fleming joins poet and
   Rail Contributor Cole Swensen for a conversation. We conclude with a poetry
   reading by Alyn Mare.
 people:
-  - person: cole-swensen
   - person: jim-fleming
+  - person: lewanne-jones
+  - person: cole-swensen
 poets:
   - person: alyn-mare
 date: 2022-09-08T13:00:00-0500
