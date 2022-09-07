@@ -2,7 +2,7 @@
 name: "Jim Fleming "
 first_name: "Jim "
 last_name: Flemming
-short_bio: Founding Editor and Publisher Jim Fleming has been at Autonomedia
+short_bio: Founding Editor and Publisher **Jim Fleming** has been at Autonomedia
   since 1983. Autonomedia is an autonomous zone for arts radicals in both old
   and new media that publishes books on radical media, politics and the arts
   that seek to transcend party lines, bottom lines and straight lines.
