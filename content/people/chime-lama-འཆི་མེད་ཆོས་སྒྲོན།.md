@@ -2,8 +2,8 @@
 name: Chime Lama (འཆི་མེད་ཆོས་སྒྲོན།)
 first_name: Chime
 last_name: Lama
-short_bio: "Poet **Chime Lama (འཆི་མེད་ཆོས་སྒྲོན།) ** is a Tibetan American
-  writer, translator and multi-genre artist based in New York. She holds an MA
+short_bio: "Poet **Chime Lama འཆི་མེད་ཆོས་སྒྲོན།** is a Tibetan American writer,
+  translator and multi-genre artist based in New York. She holds an MA
   in Divinity from the University of Chicago and an MFA in Creative Writing from
   the City University of New York: Brooklyn College. She serves as the Poetry
   Editor of Yeshe: A Journal of Tibetan Literature, Arts and Humanities. Her
