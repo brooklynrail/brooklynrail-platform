@@ -6,6 +6,8 @@ summary: "Artist Tony Bluestone joins Rail contributor Ksenia M. Soboleva for a
 people:
   - person: tony-bluestone
   - person: ksenia-m-soboleva
+poets:
+  - person: oscar-moises-diaz
 date: 2022-09-16T13:00:00-0500
 end_date: 2022-10-05T14:30:00-0500
 series: 649
