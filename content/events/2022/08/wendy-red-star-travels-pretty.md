@@ -1,8 +1,8 @@
 ---
 title: "Wendy Red Star: Travels Pretty"
 deck: Featuring Red Star and Zoë Hopkins
-summary: "Artist Wendy Red Star joins Rail contributor Zoë Hopkins for a
-  conversation. We conclude with a poetry reading. "
+summary: Artist Wendy Red Star joins Rail contributor Zoë Hopkins for a
+  conversation. We conclude with a poetry reading by Raymond Anthony Senior.
 people:
   - person: wendy-red-star
   - person: zoe-hopkins
