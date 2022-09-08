@@ -6,6 +6,8 @@ summary: "Artist Wendy Red Star joins Rail contributor Zoë Hopkins for a
 people:
   - person: wendy-red-star
   - person: zoe-hopkins
+poets:
+  - person: raymond-anthony-senior
 date: 2022-09-09T13:00:00-0500
 end_date: 2022-09-09T14:30:00-0500
 series: 644
