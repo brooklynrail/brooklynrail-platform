@@ -1,8 +1,8 @@
 ---
 title: "Tony Bluestone: The Passenger"
 deck: Featuring Bluestone and Ksenia M. Soboleva
-summary: "Artist Tony Bluestone joins Rail contributor Ksenia M. Soboleva for a
-  conversation. We conclude with a poetry reading. "
+summary: Artist Tony Bluestone joins Rail contributor Ksenia M. Soboleva for a
+  conversation. We conclude with a poetry reading by Óscar Moisés Díaz.
 people:
   - person: tony-bluestone
   - person: ksenia-m-soboleva
