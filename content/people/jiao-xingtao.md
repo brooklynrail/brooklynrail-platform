@@ -2,7 +2,7 @@
 name: Jiao Xingtao
 first_name: Jiao
 last_name: Xingtao
-short_bio: "Contemporary artist **Jiao Xingtao** is a professor and
+short_bio: "Contemporary artist **Jiao Xingtao** is also the professor and
   vice-president of the Sichuan Fine Arts Institute, Chongqing. Since 2018 he
   has been leading various socially engaged rural art projects in Southwest
   China, including Qitang Experimental Field and Lotus Hole: Chongqing Village
