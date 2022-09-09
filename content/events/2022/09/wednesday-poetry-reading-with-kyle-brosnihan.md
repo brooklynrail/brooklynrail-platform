@@ -3,7 +3,7 @@ title: "A Large Poplar At Dusk With A Gathering Storm: A Rail Reading curated by
   Kyle Brosnihan"
 deck: Featuring Brosnihan, Paul Clark, Chime Lama, and June Wilson
 summary: Kyle Brosnihan curates our 103rd Wednesday Rail Reading with Paul
-  Clark, Chime Lama, and June Wilson
+  Clark, Chime Lama, and June Wilson.
 people:
   - person: paul-hanson-clark
   - person: chime-lama-འཆི་མེད་ཆོས་སྒྲོན།
