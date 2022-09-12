@@ -1,10 +1,11 @@
 ---
 title: "Umber Majeed: Made in Trans-Pakistan "
-deck: Featuring Majeed and Rail Host to be announced
-summary: "Artist Umber Majeed joins Rail host for a conversation. We conclude
-  with a poetry reading. "
+deck: Featuring Majeed and Andrew Woolbright
+summary: "Artist Umber Majeed joins Andrew Woolbright. We conclude with a poetry
+  reading. "
 people:
   - person: umber-majeed
+  - person: andrew-paul-woolbright
 date: 2022-09-19T13:00:00-0500
 end_date: 2022-09-19T14:30:00-0500
 series: 650
