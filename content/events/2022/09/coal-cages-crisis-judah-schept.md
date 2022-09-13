@@ -1,8 +1,8 @@
 ---
 title: "Coal, Cages, Crisis: Judah Schept"
 deck: Featuring Schept, Abby Cunniff, and Jarrod Shanahan
-summary: Author Judah Schept in conversation with Rail contributors Jarrod
-  Shanahan and Abby Cunniff. We conclude with a poetry reading.
+summary: Author Judah Schept joins Rail contributors Jarrod Shanahan and Abby
+  Cunniff for a conversation. We conclude with a poetry reading.
 people:
   - person: judah-schept
   - person: abby-cunniff
@@ -20,3 +20,4 @@ event_id: reczxHBtAmcJiDgbM
 event_platform:
   - zoom
 ---
+[G﻿et your copy of *Coal, Cages, Crisis: The Rise of the Prison Economy in Central Appalachia* by Judah Schept (NYU Press, 2022) →](https://nyupress.org/9781479858972/coal-cages-crisis/)
