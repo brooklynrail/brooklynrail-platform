@@ -10,5 +10,5 @@ short_bio: "Based in Chicago, **Jarrod Shanahan** is a writer, activist, and
   Ignatiev reader; and an editor of _Hard Crackers: Chronicles of Everyday
   Life_."
 portraits:
-  - media: Jarrod Shanahan 2022/09/jarrod-shanahan
+  - media: 2022/09/jarrod-shanahan
 ---
