@@ -2,7 +2,7 @@
 title: "Coal, Cages, Crisis: Judah Schept"
 deck: Featuring Schept, Abby Cunniff, and Jarrod Shanahan
 summary: Author Judah Schept in conversation with Rail Contributors Jarrod
-  Shanahan and Abby Cunniff
+  Shanahan and Abby Cunniff.
 people:
   - person: judah-schept
   - person: abby-cunniff
