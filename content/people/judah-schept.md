@@ -12,5 +12,5 @@ short_bio: "Associate Professor in the School of Justice Studies at Eastern
   journals such as _Radical Criminology_, _Theoretical Criminology_, and many
   others."
 portraits:
-  - media: " 2022/09/judah-schept"
+  - media: 2022/09/judah-schept
 ---
