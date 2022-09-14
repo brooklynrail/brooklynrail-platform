@@ -14,6 +14,8 @@ short_bio: "**KT Pe Benito** (they/them/siya) is a time-based, interdisciplinary
   interdisciplinary practice utilizes writing, performance, installation, video,
   and drawing to offer different points to access their own ideas and for people
   experiencing their work."
+portraits:
+  - media: 2022/09/kt-pe-benito
 website: https://ktpebenito.com/
 instagram: playpinay
 ---
