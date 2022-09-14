@@ -2,11 +2,13 @@
 title: "Martha Atienza & Yee I-Lann: Silverlens New York"
 deck: Featuring Atienza, I-Lann, and Jessamine Batario
 summary: Artists Martha Atienza and Yee I-Lann join Rail contributor Jessamine
-  Batario for a conversation. We conclude with a poetry reading.
+  Batario for a conversation. We conclude with a poetry reading by KT Pe Benito.
 people:
   - person: martha-atienza
   - person: yee-i-lann
   - person: jessamine-batario
+poets:
+  - person: kt-pe-benito
 date: 2022-09-27T13:00:00-0500
 end_date: 2022-09-27T14:30:00-0500
 series: 656
