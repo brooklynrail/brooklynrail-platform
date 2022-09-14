@@ -2,10 +2,12 @@
 title: "Umber Majeed: Made in Trans-Pakistan "
 deck: Featuring Majeed and Andrew Woolbright
 summary: "Artist Umber Majeed joins Andrew Woolbright. We conclude with a poetry
-  reading. "
+  reading by Pony P.  "
 people:
   - person: umber-majeed
   - person: andrew-paul-woolbright
+poets:
+  - person: pony-p
 date: 2022-09-19T13:00:00-0500
 end_date: 2022-09-19T14:30:00-0500
 series: 650
