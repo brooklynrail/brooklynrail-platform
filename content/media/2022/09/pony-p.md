@@ -1,5 +1,5 @@
 ---
-media: /media/files/img_7838.jpeg
+media: /media/files/img_3482-1-.jpg
 title: Pony P.
 alt: Photo of Pony P.
 caption: Photo by Sarah Kim
