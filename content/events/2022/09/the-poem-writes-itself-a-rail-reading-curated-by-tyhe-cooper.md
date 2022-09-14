@@ -1,7 +1,7 @@
 ---
 title: "The Poem Writes Itself: A Rail Reading Curated by Tyhe Cooper"
 deck: Featuring Cooper and friends
-summary: Tyhe Cooper curates our 104th Wednesday Rail reading.
+summary: Tyhe Cooper curates our 104th Wednesday Rail Reading.
 people:
   - person: tyhe-cooper
 date: 2022-09-21T13:00:00-0500
