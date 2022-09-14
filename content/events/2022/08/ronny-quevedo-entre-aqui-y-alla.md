@@ -1,11 +1,13 @@
 ---
 title: "Ronny Quevedo: entre aquí y allá  "
 deck: Featuring Ronny Quevedo and Jason Rosenfeld
-summary: Artist Ronny Quevedo joins Rail Editor-At-Large Jason Rosenfeld for a
-  conversation. We conclude with a poetry reading.
+summary: "Artist Ronny Quevedo joins Rail Editor-At-Large Jason Rosenfeld for a
+  conversation. We conclude with a poetry reading by Amish Trivedi. "
 people:
   - person: ronny-quevedo
   - person: jason-rosenfeld
+poets:
+  - person: amish-trivedi
 date: 2022-09-20T13:00:00-0500
 end_date: 2022-09-20T14:30:00-0500
 series: 651
