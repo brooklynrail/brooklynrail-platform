@@ -14,4 +14,7 @@ short_bio: Nebraska-based poet and performer. Partial list of stuff **Paul
   creativity).
 portraits:
   - media: 2022/09/paul-clark
+website: https://www.paulhansonclark.com/
+instagram: paulhansonclark
+twitter: paulhansonclark
 ---
