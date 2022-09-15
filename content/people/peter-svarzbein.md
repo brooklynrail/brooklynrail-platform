@@ -12,6 +12,6 @@ short_bio: Based in Texas, **Peter Svarzbein** is a photographer, curator and
   Juarez-El Paso trolley line once again.
 portraits:
   - media: 2022/08/peter-svarzbein
-website: http://www.peterfordistrict1.com/
-twitter: Peter4District1
+website: http://www.mongovision.com/
+twitter: PeterSvarzbein
 ---
