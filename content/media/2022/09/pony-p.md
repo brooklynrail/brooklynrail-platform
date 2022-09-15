@@ -1,5 +1,5 @@
 ---
-media: /media/files/img_3482-1-.jpg
+media: /media/files/img_3482-1-copy.jpg
 title: Pony P.
 alt: Photo of Pony P.
 caption: ""
