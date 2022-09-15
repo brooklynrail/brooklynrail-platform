@@ -1,8 +1,10 @@
 ---
 title: "The Poem Writes Itself: A Rail Reading Curated by Tyhe Cooper"
-deck: Featuring Cooper and friends
-summary: Tyhe Cooper curates our 104th Wednesday Rail Reading.
+deck: Featuring Cooper, Riley Mac, Noa Mendoza, and Erin Perez
+summary: Tyhe Cooper curates our 104th Wednesday Rail Reading with Riley Mac,
+  Noa Mendoza, and Erin Perez.
 people:
+  - person: riley-mac
   - person: tyhe-cooper
 date: 2022-09-21T13:00:00-0500
 end_date: 2022-09-21T14:30:00-0500
