@@ -9,7 +9,7 @@ short_bio: "Multidisciplinary visual artist and educator **Umber Majeed** (b.
   a feminist lens. Majeed has shown in venues across Pakistan, North America.
   Her most recent group exhibition was the Technology Residency, Pioneer Works,
   Brooklyn (2020) and her most recent solo exhibition was  ‘Trans-Pakistan
-  Zindabad (Facts about the Earth)’, at 1708 Gallery, Richmond, Virgina (2021).
+  Zindabad (Facts about the Earth)’, at 1708 Gallery, Richmond, Virginia (2021).
   "
 portraits:
   - media: 2022/08/umber-majeed
