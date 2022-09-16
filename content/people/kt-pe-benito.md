@@ -12,7 +12,7 @@ short_bio: Artsworker, caregiver, and organizer **KT Pe Benito**
   Vox Populi Gallery and organize with ANAKBAYAN Philadelphia and lead as the
   city chapter’s 2022-23 Chairperson.
 portraits:
-  - media: 2022/09/noa-mendoza
+  - media: 2022/09/kt-pe-benito
 website: https://ktpebenito.com/
 instagram: playpinay
 ---
