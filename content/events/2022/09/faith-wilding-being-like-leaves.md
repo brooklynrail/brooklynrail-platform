@@ -6,6 +6,8 @@ summary: Artist Faith Wilding joins Rail Editor-at-Large Charlotte Kent for a
 people:
   - person: faith-wilding
   - person: charlotte-kent
+poets:
+  - person: coleman-stevenson
 date: 2022-09-23T13:00:00-0500
 end_date: 2022-09-23T14:30:00-0500
 series: 654
