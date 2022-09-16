@@ -1,6 +1,6 @@
 ---
-media: /media/files/mendoza.jpg
+media: /media/files/image0-1-.png
 title: Noa Mendoza
-alt: Noa Mendoza
-date: 2021-07-05T12:02:00-0500
+alt: Photo of [Noa Mendoza]
+date: 2022-09-16T15:54:00-0500
 ---
