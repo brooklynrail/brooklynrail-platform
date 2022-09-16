@@ -1,6 +1,6 @@
 ---
-media: /media/files/erin-.jpeg
+media: /media/files/img_1620.jpeg
 title: Erin Pérez
 alt: A photo of [Erin Perez]
-date: 2022-05-02T11:42:00-0500
+date: 2022-09-16T10:59:00-0500
 ---
