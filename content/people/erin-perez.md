@@ -8,4 +8,5 @@ short_bio: "Poet **Erin Pérez** is concerned with orange wine, memes, parties
   is from Panamá City, Panamá and currently lives in Brooklyn. "
 portraits:
   - media: 2022/09/erin-perez
+twitter: e__e__p__
 ---
