@@ -12,4 +12,7 @@ short_bio: Poet **Catherine Chen** is the author of the forthcoming collection
   Arts Center.
 portraits:
   - media: 2022/09/catherine-chen
+website: https://www.aluutte.com/
+instagram: aluutte
+twitter: aluutte
 ---
