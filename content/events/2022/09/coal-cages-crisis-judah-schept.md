@@ -7,6 +7,8 @@ people:
   - person: judah-schept
   - person: abby-cunniff
   - person: jarrod-shanahan
+poets:
+  - person: rider-alsop
 date: 2022-09-22T13:00:00-0500
 end_date: 2022-09-22T14:30:00-0500
 series: 653
