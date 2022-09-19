@@ -14,5 +14,5 @@ short_bio: "Devyn Lorelei Mañibo is a Jersey-bred, Brooklyn-based maker, feeder
   on a long term project centered on the poetics of radical hospitality entitled
   _good luck_."
 portraits:
-  - media: 2021/02/devyn-manibo
+  - media: 2022/09/devyn-lorelei-manibo
 ---
