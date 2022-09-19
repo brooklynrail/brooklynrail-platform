@@ -5,9 +5,9 @@ summary: Catherine Chen curates our 105th Wednesday Rail Reading Series with
   Tara Jayakar, Sreshtha Sen, Inam Kang, and Devyn Mañibo.
 people:
   - person: tara-jayakar
-  - person: sreshtha-sen
   - person: inam-kang
-  - person: devyn-manibo
+  - person: devyn-lorelei-manibo
+  - person: sreshtha-sen
   - person: catherine-chen
 date: 2022-09-28T13:00:00-0500
 end_date: 2022-09-28T14:30:00-0500
