@@ -7,6 +7,6 @@ short_bio: "Writer and translator **Noa Mendoza** is based in Brooklyn. Her
   first little chapbook of hybrid poetry and translation is in the works through
   Wendy’s Subway.  Her work most recently appears in Pile Press. "
 portraits:
-  - media: 2022/09/noa-mendoza
+  - media: 2022/09/noa-mendoza-1
 instagram: yokonon0
 ---
