@@ -11,7 +11,7 @@ short_bio: A writer working in experimental prose, poetry, and digitality,
   spotlights trans, genderqueer, gnc poets. Their work was recently published in
   the Brooklyn Rail’s April 2022 issue.
 portraits:
-  - media: 2021/12/tyhe-cooper
+  - media: 2022/09/tyhe-cooper-1
 rail_contributor_url: https://brooklynrail.org/contributor/Tyhe-Cooper
 website: https://tyhecooper.com/
 instagram: tyhecooper
