@@ -14,6 +14,7 @@ short_bio: "Poet **Coleman Stevenson** is the author of three collections of
   Pacific Northwest, focuses on the intersections between image and text."
 portraits:
   - media: 2022/02/coleman-stevenson
+rail_contributor_url: https://brooklynrail.org/contributor/Coleman-Stevenson
 website: https://www.colemanstevenson.com/
 instagram: darkexact
 twitter: darkexact
