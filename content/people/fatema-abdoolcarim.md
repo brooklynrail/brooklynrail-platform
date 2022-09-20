@@ -11,7 +11,8 @@ short_bio: Indian-Pakistani Hong Konger **Fatema Abdoolcarim**  is a visual
   candidate of Creative Writing and Art History at The University of Manchester,
   and her project is a recipient of the UK Arts and Humanities Research Council
   Award. Fatema is currently working on her first feature length fiction film,
-  Hum.
+  _Hum._
 portraits:
   - media: 2022/09/fatema-abdoolcarim
+website: https://fatemaabdoolcarim.com/
 ---
