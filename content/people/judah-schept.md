@@ -3,7 +3,7 @@ name: Judah Schept
 first_name: Judah
 last_name: Schept
 short_bio: "A Professor in the School of Justice Studies at Eastern Kentucky
-  University, the work of _Judah Schept,_ Ph.D. is grounded in the
+  University, the work of **Judah Schept,** Ph.D. is grounded in the
   interdisciplinary field of Critical Prison Studies, his work examines the
   history, political economy, and cultural logics of the carceral state. He is
   the author of _Coal, Cages, Crisis: The Rise of the Prison Economy in Central
