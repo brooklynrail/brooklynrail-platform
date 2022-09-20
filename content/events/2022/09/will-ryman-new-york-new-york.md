@@ -1,8 +1,8 @@
 ---
 title: "Will Ryman: New York, New York "
-deck: Featuring Will Ryman and Eleanor Heartney.
-summary: "Artist Will Ryman in conversation with Rail contributor Eleanor
-  Heartney. We conclude with a poetry reading. "
+deck: Featuring Ryman and Eleanor Heartney
+summary: Artist Will Ryman joins Rail contributor Eleanor Heartney for a
+  conversation. We conclude with a poetry reading.
 people:
   - person: will-ryman
   - person: eleanor-heartney
