@@ -2,7 +2,7 @@
 title: "Faith Wilding: Being like leaves"
 deck: Featuring Wilding and Charlotte Kent
 summary: Artist Faith Wilding joins Rail Editor-at-Large Charlotte Kent for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading by Coleman Stevenson.
 people:
   - person: faith-wilding
   - person: charlotte-kent
