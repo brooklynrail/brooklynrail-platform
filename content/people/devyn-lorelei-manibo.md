@@ -14,4 +14,6 @@ short_bio: "Jersey-bred, Brooklyn-based maker, feeder, and arts worker **Devyn
   project centered on the poetics of radical hospitality entitled _good luck_."
 portraits:
   - media: 2022/09/devyn-lorelei-manibo
+website: https://devynmanibo.com/
+instagram: bestfrienddevyn
 ---
