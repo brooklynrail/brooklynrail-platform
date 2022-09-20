@@ -12,8 +12,9 @@ short_bio: In 2002 **Jamie Stewart** began the group Xiu Xiu. Over the last two
   frequent contributor to the Berlin based art collective CHEAP. Stewart has
   created museum installations for the Berlin and Venice biennales, The
   Guggenheim, LACMA, the Getty Museum, Walker Museum and Laguna Art Museum. In
-  spring 2023 Stewart will be publishing their first novel Anything That
-  Moves through And Other Stories Publishing. 
+  spring 2023 Stewart will be publishing their first novel _Anything That
+  Moves_ through And Other Stories Publishing. 
 portraits:
   - media: 2022/09/jamieson-webster
+website: http://www.xiuxiu.org/
 ---
