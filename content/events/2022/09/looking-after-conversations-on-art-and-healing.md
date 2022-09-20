@@ -9,12 +9,14 @@ people:
   - person: pat-berman
 date: 2022-10-06T13:00:00-0500
 end_date: 2022-10-06T14:30:00-0500
+series: 663
 collections:
   - common-ground
 event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: recklrWPdokB3SH6j
 event_platform:
   - zoom
 ---
