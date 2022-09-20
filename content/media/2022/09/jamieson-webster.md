@@ -1,6 +1,6 @@
 ---
 media: /media/files/jamiestewart.jpg
-title: Jamieson Webster
-alt: Black and white photo of Jamieson Webster
+title: Jamie Stewart 
+alt: Black and white photo of Jamie Stewart 
 date: 2022-09-20T14:06:00-0500
 ---
