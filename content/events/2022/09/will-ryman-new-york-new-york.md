@@ -6,8 +6,8 @@ summary: "Artist Will Ryman in conversation with Rail contributor Eleanor
 people:
   - person: will-ryman
   - person: eleanor-heartney
-date: 2022-09-20T13:44:00-0500
-end_date: 2022-09-20T13:44:00-0500
+date: 2022-10-17T13:00:00-0500
+end_date: 2022-10-17T14:30:00-0500
 series: 670
 collections:
   - the-new-social-environment
