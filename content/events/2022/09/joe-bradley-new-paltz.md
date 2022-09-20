@@ -1,0 +1,21 @@
+---
+title: "Joe Bradley: New Paltz"
+deck: Featuring Bradley and Rail host to be announced
+summary: Artist Joe Bradley joins Rail host for a conversation. We conclude with
+  a poetry reading.
+people:
+  - person: joe-bradley
+date: 2022-10-03T13:00:00-0500
+end_date: 2022-10-03T14:30:00-0500
+series: 660
+collections:
+  - the-new-social-environment
+event_organizer:
+  - the-brooklyn-rail
+event_producer:
+  - the-brooklyn-rail
+event_id: recjrzx0YchEKQk1t
+event_platform:
+  - zoom
+---
+[V﻿isit Joe Bradley: *New Paltz*, on view at Xavier Hufkens Gallery through October 15, 2022 →](https://www.xavierhufkens.com/exhibitions/new-platz)
