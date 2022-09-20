@@ -19,3 +19,4 @@ event_id: recBYXaSK2VHjVC4F
 event_platform:
   - zoom
 ---
+[V﻿isit *Will Ryman: New York, New York,* on view at CHART through October 22, 2022 →](https://chart-gallery.com/exhibitions/36-will-ryman-new-york-new-york/overview/)
