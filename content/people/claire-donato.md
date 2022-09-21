@@ -11,5 +11,5 @@ short_bio: Poet, prose writer and teacher **Claire Donato**'s
 portraits:
   - media: 2022/09/claire-donato
 rail_contributor_url: https://brooklynrail.org/2020/07/poetry/five-Donato
-website: "http://somanytumbleweeds.com "
+website: http://somanytumbleweeds.com
 ---
