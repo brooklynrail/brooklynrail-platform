@@ -1,8 +1,8 @@
 ---
 title: "Zoe Leonard: Excerpts from 'Al río / To the River'"
 deck: Featuring Leonard and Thyrza Nichols Goodeve
-summary: Artist Zoe Leonard joins Rail host for a conversation. We conclude with
-  a poetry reading.
+summary: Artist Zoe Leonard joins Thyrza Nichols Goodeve for a conversation. We
+  conclude with a poetry reading.
 people:
   - person: zoe-leonard
   - person: thyrza-nichols-goodeve
