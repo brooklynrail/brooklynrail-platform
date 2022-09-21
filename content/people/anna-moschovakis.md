@@ -10,4 +10,6 @@ short_bio: "**Anna Moschovakis** works with poetry and prose as a writer,
   and lives mostly in New York. "
 portraits:
   - media: 2022/09/anna-moschovakis
+rail_contributor_url: https://brooklynrail.org/contributor/anna-moschovakis
+website: https://badutopian.com/
 ---
