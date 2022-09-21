@@ -1,5 +1,5 @@
 ---
-title: "Sex Is Not the End: A Rail Reading Curated by Claire Donato"
+title: "Sex Is Not the End: A Rail Reading Curated by Claire Donato "
 deck: "Featuring Donato, Jeff Alessandrelli, Orna Guralnik, Anna Moschovakis,
   Jamie Stewart and Jamieson Webster "
 summary: "Claire Donato curates our 106th Poetry Reading, with Jeff
