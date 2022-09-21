@@ -7,7 +7,7 @@ short_bio: Psychoanalyst and writer **Orna Guralnik** serves on the faculty of
   Center, and the editorial boards of Psychoanalytic Dialogues and Studies in
   Gender & Sexuality.  Her writing centers on the intersection
   of psychoanalysis, dissociation, and cultural studies. She has completed the
-  filming of four seasons of the Docu-series Couples Therapy, airing on
+  filming of four seasons of the Docu-series _Couples Therapy_, airing on
   Showtime.
 portraits:
   - media: 2022/09/orna-guralnik
