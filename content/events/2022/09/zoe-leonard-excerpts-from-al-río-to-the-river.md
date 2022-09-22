@@ -1,8 +1,9 @@
 ---
 title: "Zoe Leonard: Excerpts from 'Al río / To the River'"
-deck: Featuring Leonard and Thyrza Nichols Goodeve
-summary: Artist Zoe Leonard joins Esther Gabara and Thyrza Nichols Goodeve for a
-  conversation. We conclude with a poetry reading.
+deck: Featuring Leonard, Esther Gabara, and Thyrza Nichols Goodeve
+summary: Artist Zoe Leonard joins art historian Esther Gabara and Rail
+  Editor-at-Large Thyrza Nichols Goodeve for a conversation. We conclude with a
+  poetry reading.
 people:
   - person: zoe-leonard
   - person: esther-gabara
