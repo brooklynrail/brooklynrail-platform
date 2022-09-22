@@ -12,9 +12,7 @@ event_producer:
   - the-brooklyn-rail
 event_platform: null
 ---
-Please join us next Friday, September 23rd to celebrate the opening of *Singing in Unison: Artists Need to Create on the Same Scale that Society Has the Capacity to Destroy, Part Seven* at Industry City, featuring a cooking performance by Rirkrit Tiravanija, Tomas Vu, and company. See details below:
-
-
+Please join us this Friday, September 23rd to celebrate the opening of *Singing in Unison: Artists Need to Create on the Same Scale that Society Has the Capacity to Destroy, Part Seven* at Industry City, featuring a cooking performance by Rirkrit Tiravanija, Tomas Vu, and company. See details below:
 
 **Address:** 
 
@@ -23,8 +21,6 @@ Please join us next Friday, September 23rd to celebrate the opening of *Singing
 **Brooklyn, NY** 
 
 **5pm-8pm**
-
-
 
 OPENING
 
