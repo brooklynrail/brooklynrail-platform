@@ -1,8 +1,8 @@
 ---
 title: "Zoe Leonard: Excerpts from 'Al río / To the River'"
-deck: Featuring Leonard and Esther Gabara
-summary: Artist Zoe Leonard joins art historian Esther Gabara for a
-  conversation. We conclude with a poetry reading.
+deck: Featuring Leonard, a Rail co-host, and Esther Gabara
+summary: Artist Zoe Leonard joins a Rail co-host to be announced and art
+  historian Esther Gabara for a conversation. We conclude with a poetry reading.
 people:
   - person: zoe-leonard
   - person: esther-gabara
