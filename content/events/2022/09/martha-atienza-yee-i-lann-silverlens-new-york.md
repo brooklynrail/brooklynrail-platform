@@ -7,6 +7,7 @@ people:
   - person: martha-atienza
   - person: yee-i-lann
   - person: jessamine-batario
+  - person: silverlens-new-york
 poets:
   - person: kt-pe-benito
 date: 2022-09-27T13:00:00-0500
