@@ -22,7 +22,7 @@ Please join us this Friday, September 23rd to celebrate the opening of *Singing
 
 **5pm-8pm**
 
-{{< image media="2022/06/artists-need-to-create-etc" size="md" >}}
+{{< image media="2022/06/artists-need-to-create-etc" size="lg" >}}
 
 ### *Singing in Unison: Part Seven*
 
