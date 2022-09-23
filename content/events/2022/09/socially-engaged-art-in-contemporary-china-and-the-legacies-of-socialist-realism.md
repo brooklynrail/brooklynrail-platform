@@ -4,11 +4,13 @@ title: Socially Engaged Art in Contemporary China and the Legacies of Socialist
 deck: Featuring Yanhua Zhou, Jiao Xingtao, and Paul Gladston
 summary: Art historian Yanhua Zhou and sculptor Jiao Xingtao join Rail
   contributor Paul Gladston for a conversation. We conclude with a poetry
-  reading.
+  reading by Jen Soong.
 people:
   - person: zhou-yanhua
   - person: jiao-xingtao
   - person: paul-gladston
+poets:
+  - person: jen-soong
 date: 2022-09-26T19:00:00-0500
 end_date: 2022-09-26T20:30:00-0500
 series: 655
