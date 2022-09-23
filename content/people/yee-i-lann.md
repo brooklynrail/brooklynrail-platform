@@ -15,7 +15,7 @@ short_bio: "Photomedia-based artist **Yee I-Lann**  (b.1971, Kota Kinabalu)
   Living Arts Center (TaLAC), both based in Sabah."
 portraits:
   - media: 2022/09/yee-i-lann
-website: https://borneoheart.yeeilann.com/
+website: https://www.silverlensgalleries.com/artists/yee-i-lann
 instagram: yeeilann
 twitter: YeeILann
 ---
