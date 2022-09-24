@@ -1,11 +1,12 @@
 ---
 title: "Zoe Leonard: Excerpts from 'Al río / To the River'"
-deck: Featuring Leonard and Esther Gabara
-summary: Artist Zoe Leonard joins a Rail co-host to be announced and art
+deck: Featuring Leonard, Charles Schultz, and Esther Gabara
+summary: Artist Zoe Leonard joins a Rail Managing Editor Charles Schultz and art
   historian Esther Gabara for a conversation. We conclude with a poetry reading.
 people:
   - person: zoe-leonard
   - person: esther-gabara
+  - person: charles-schultz
 date: 2022-09-30T13:00:00-0500
 end_date: 2022-09-30T14:30:00-0500
 series: 659
