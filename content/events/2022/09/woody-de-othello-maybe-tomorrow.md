@@ -5,8 +5,8 @@ summary: Artist Woody De Othello joins the Rail for a conversation. We conclude
   with a poetry reading.
 people:
   - person: woody-de-othello
-date: 2022-09-26T17:28:00-0500
-end_date: 2022-09-26T17:28:00-0500
+date: 2022-09-30T13:00:00-0500
+end_date: 2022-09-30T14:30:00-0500
 collections:
   - the-new-social-environment
 event_organizer:
