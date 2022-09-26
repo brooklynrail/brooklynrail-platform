@@ -13,7 +13,7 @@ short_bio: "Miami-born, California-based artist **Woody De Othello**'s subject
   and to listen, clocks to tell time, vessels to hold things, and  our bodies
   are indicators of all of those.” "
 portraits:
-  - media: " 2022/09/woody-de-othello"
+  - media: 2022/09/woody-de-othello
 website: https://karmakarma.org/artists/woody-de-othello/bio/
 instagram: woodyothello
 ---
