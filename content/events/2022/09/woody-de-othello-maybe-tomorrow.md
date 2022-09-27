@@ -8,6 +8,7 @@ people:
   - person: charles-schultz
 date: 2022-09-30T13:00:00-0500
 end_date: 2022-09-30T14:30:00-0500
+series: 659
 collections:
   - the-new-social-environment
 event_organizer:
