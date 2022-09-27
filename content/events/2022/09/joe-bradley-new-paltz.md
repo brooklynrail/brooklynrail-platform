@@ -1,10 +1,11 @@
 ---
 title: "Joe Bradley: New Paltz"
-deck: Featuring Bradley and Rail host to be announced
-summary: Artist Joe Bradley joins Rail host for a conversation. We conclude with
-  a poetry reading.
+deck: Featuring Bradley and Terry R. Myers
+summary: Artist Joe Bradley joins Rail Editor-at-Large Terry R. Myers for a
+  conversation. We conclude with a poetry reading.
 people:
   - person: joe-bradley
+  - person: terry-myers
 date: 2022-10-03T13:00:00-0500
 end_date: 2022-10-03T14:30:00-0500
 series: 660
