@@ -7,4 +7,6 @@ short_bio: "**Ramza** spends his time attempting to organize homeless people.
   of negotiating for a safe haven bed that isn't a dorm (note that all safe
   havens whether single room or dorm are shelters, and all shelters are abusive
   environments). Organizes small mutual aid distros at Tompkins sq park."
+portraits:
+  - media: 2022/09/johnny-grima-aka-ramza
 ---
