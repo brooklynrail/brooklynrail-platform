@@ -11,9 +11,9 @@ people:
   - person: pat-berman
   - person: suzanne-hudson
   - person: tanya-sheehan
-date: 2022-10-06T13:00:00-0500
-end_date: 2022-10-06T14:30:00-0500
-series: 663
+date: 2022-12-01T13:00:00-0500
+end_date: 2022-12-01T14:30:00-0500
+series: 703
 collections:
   - common-ground
 event_organizer:
