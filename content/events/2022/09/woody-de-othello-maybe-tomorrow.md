@@ -1,10 +1,11 @@
 ---
 title: "Woody De Othello: Maybe tomorrow"
-deck: Featuring De Othello and Rail host
-summary: Artist Woody De Othello joins the Rail for a conversation. We conclude
-  with a poetry reading.
+deck: Featuring De Othello and Charles Schultz
+summary: Artist Woody De Othello joins Rail Managing Editor Charles Schultz for
+  a conversation. We conclude with a poetry reading.
 people:
   - person: woody-de-othello
+  - person: charles-schultz
 date: 2022-09-30T13:00:00-0500
 end_date: 2022-09-30T14:30:00-0500
 collections:
