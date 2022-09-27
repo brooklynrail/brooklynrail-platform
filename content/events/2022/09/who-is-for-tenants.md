@@ -9,9 +9,10 @@ summary: Organizer at Brooklyn Eviction Defense Holden Taylor hosts a
   with a poetry reading by Joselia Rebekah Hughes.
 people:
   - person: nicolas-vargas
+  - person: esteban-giron
   - person: khadija-haynes
   - person: isaac-kd
-  - person: esteban-giron
+  - person: johnny-grima-aka-ramza
   - person: holden-taylor
 poets:
   - person: joselia-rebekah-hughes
