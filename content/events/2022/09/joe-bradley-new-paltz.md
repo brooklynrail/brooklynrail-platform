@@ -2,10 +2,12 @@
 title: "Joe Bradley: New Paltz"
 deck: Featuring Bradley and Terry R. Myers
 summary: Artist Joe Bradley joins Rail Editor-at-Large Terry R. Myers for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading by Greg Masters.
 people:
   - person: joe-bradley
   - person: terry-myers
+poets:
+  - person: greg-masters
 date: 2022-10-03T13:00:00-0500
 end_date: 2022-10-03T14:30:00-0500
 series: 660
