@@ -13,6 +13,8 @@ people:
   - person: khadija-haynes
   - person: isaac-kd
   - person: johnny-grima-aka-ramza
+  - person: cea-weaver
+  - person: frank-morales
   - person: holden-taylor
 poets:
   - person: joselia-rebekah-hughes
