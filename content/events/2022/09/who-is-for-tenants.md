@@ -15,6 +15,7 @@ people:
   - person: johnny-grima-aka-ramza
   - person: cea-weaver
   - person: frank-morales
+  - person: joel-feingold
   - person: holden-taylor
 poets:
   - person: joselia-rebekah-hughes
