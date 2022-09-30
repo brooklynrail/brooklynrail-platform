@@ -19,3 +19,4 @@ event_id: rec55vofhgkdhJx3j
 event_platform:
   - zoom
 ---
+[Learn more about HMS Alice Liddell→](https://stpancras.com/news-events/launched-hms-alice-liddell)
