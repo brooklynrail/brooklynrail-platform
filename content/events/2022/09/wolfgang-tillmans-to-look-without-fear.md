@@ -7,7 +7,7 @@ people:
   - person: wolfgang-tillmans
 date: 2022-10-28T13:00:00-0500
 end_date: 2022-10-28T14:30:00-0500
-series: 678
+series: 679
 collections:
   - the-new-social-environment
 event_organizer:
