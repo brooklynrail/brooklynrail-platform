@@ -1,10 +1,11 @@
 ---
 title: "Rindon Johnson: Cuvier"
-deck: Featuring Johnson and Rail host to be announced
-summary: Artist Rindon Johnson joins Rail host for a conversation. We conclude
-  with a poetry reading.
+deck: Featuring Johnson and Ksenia M. Soboleva
+summary: Artist Rindon Johnson joins Rail contributor Ksenia M. Soboleva for a
+  conversation. We conclude with a poetry reading.
 people:
   - person: rindon-johnson
+  - person: ksenia-m-soboleva
 date: 2022-10-04T13:00:00-0500
 end_date: 2022-10-04T14:30:00-0500
 series: 661
