@@ -10,4 +10,5 @@ short_bio: Art historian **Veronique Chagnon-Burke** is an Associate Professor
   1800s.
 portraits:
   - media: 2022/10/veronique-chagnon-burke
+instagram: veroniquechagnon
 ---
