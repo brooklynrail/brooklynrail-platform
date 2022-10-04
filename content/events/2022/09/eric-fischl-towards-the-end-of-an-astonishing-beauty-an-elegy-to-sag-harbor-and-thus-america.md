@@ -20,4 +20,4 @@ event_id: rec4j6vSKeiggkKGg
 event_platform:
   - zoom
 ---
-[V﻿isit Eric Fischl: *Towards the End of an Astonishing Beauty: An Elegy to Sag Harbor, and Thus America* at Skarsedt on view though October 29, 2022 →](https://www.skarstedt.com/exhibitions/eric-fischl5)
+[V﻿isit Eric Fischl: *Towards the End of an Astonishing Beauty: An Elegy to Sag Harbor, and Thus America* at Skarstedt on view though October 29, 2022 →](https://www.skarstedt.com/exhibitions/eric-fischl5)
