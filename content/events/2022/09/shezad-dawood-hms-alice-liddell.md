@@ -1,11 +1,13 @@
 ---
 title: "Shezad Dawood: HMS Alice Liddell"
 deck: Featuring Dawood and Charlotte Kent
-summary: "Artist Shezad Dawood joins Rail Editor-at-Large Charlotte Kent for a
-  conversation. We conclude with a poetry reading. "
+summary: Artist Shezad Dawood joins Rail Editor-at-Large Charlotte Kent for a
+  conversation. We conclude with a poetry reading by Ty Little.
 people:
   - person: shezad-dawood
   - person: charlotte-kent
+poets:
+  - person: ty-little
 date: 2022-10-07T13:00:00-0500
 end_date: 2022-10-07T14:30:00-0500
 series: 664
