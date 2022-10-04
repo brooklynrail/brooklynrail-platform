@@ -1,7 +1,7 @@
 ---
-name: Michael Findley
+name: Michael Findlay
 first_name: Michael
-last_name: Findley
+last_name: Findlay
 short_bio: Born in Scotland in 1945, Mr. Findlay directed one of the first
   galleries in SoHo, New York City, in the 1960’s and ran his own gallery there
   from 1969-1977.  Findlay is currently a Director of Acquavella Galleries,
