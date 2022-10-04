@@ -1,5 +1,5 @@
 ---
-title: Pageant
+title: PAGEANT
 deck: Featuring Jade Manns, Owen Prum, Sharleen Chidiac, Alexa West, and Gillian
   Jakab
 summary: Pageant Space founders Jade Manns, Owen Prum, Sharleen Chidiac, and
@@ -24,4 +24,4 @@ event_id: recvszLBGuWRlHbFu
 event_platform:
   - zoom
 ---
-[M﻿ore on Pageant Space →](https://pageant.space/)
+[M﻿ore on PAGEANT →](https://pageant.space/)
