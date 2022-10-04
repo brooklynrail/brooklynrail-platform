@@ -1,13 +1,14 @@
 ---
 title: "Mad Women:  Kornblee, Jackson, Saidenberg, and Ward on Madison Avenue in
   the 1960s"
-deck: Featuring Michael Findlay, Véronique Chagnon-Burke, and Rail host to be
-  announced
+deck: "Featuring Michael Findlay, Véronique Chagnon-Burke, and Phyllis Tuchman "
 summary: "Art dealer Michael Findlay and art historian Véronique Chagnon-Burke
-  join Rail host for a conversation. We conclude with a poetry reading. "
+  join Rail Editor-at-Large Phyllis Tuchman for a conversation. We conclude with
+  a poetry reading. "
 people:
   - person: michael-findley
   - person: veronique-chagnon-burke
+  - person: phyllis-tuchman
 date: 2022-10-14T13:00:00-0500
 end_date: 2022-10-14T14:30:00-0500
 series: 669
