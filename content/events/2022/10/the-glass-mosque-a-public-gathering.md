@@ -14,6 +14,8 @@ event_producer:
   - minerva-projects
 event_platform: null
 ---
+{{< image media="2022/10/the-glass-mosque" size="lg" >}}
+
 *The Glass Mosque* is a collaboration among composer Vijay Iyer, poet Bhanu Kapil, author Fred Moten, and artist Shahzia Sikander. The four are equal partners in this project. They will discuss categories that have historically determined the symbolic meaning of the mosque.\
 \
 National Arts Club \
