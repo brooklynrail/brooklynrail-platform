@@ -1,10 +1,11 @@
 ---
 title: "Wolfgang Tillmans: To look without fear "
-deck: Featuring Tillmans and Rail host to be announced
-summary: "Photographer Wolfgang Tillmans joins Rail host for a conversation. We
-  conclude with a poetry reading. "
+deck: Featuring Tillmans and McKenzie Wark
+summary: "Photographer Wolfgang Tillmans joins Rail contributor McKenzie Wark
+  for a conversation. We conclude with a poetry reading. "
 people:
   - person: wolfgang-tillmans
+  - person: mckenzie-wark
 date: 2022-10-28T13:00:00-0500
 end_date: 2022-10-28T14:30:00-0500
 series: 679
