@@ -2,9 +2,9 @@
 title: PAGEANT
 deck: Featuring Jade Manns, Owen Prum, Sharleen Chidiac, Alexa West, and Gillian
   Jakab
-summary: Pageant Space founders Jade Manns, Owen Prum, Sharleen Chidiac, and
-  Alexa West join Rail Dance Editor Gillian Jakab for a conversation. We
-  conclude with a poetry reading.
+summary: PAGEANT founders Jade Manns, Owen Prum, Sharleen Chidiac, and Alexa
+  West join Rail Dance Editor Gillian Jakab for a conversation. We conclude with
+  a poetry reading.
 people:
   - person: jade-manns
   - person: owen-prum
