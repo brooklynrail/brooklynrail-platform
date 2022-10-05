@@ -2,9 +2,8 @@
 title: "Eric Fischl: Towards the End of an Astonishing Beauty: An Elegy to Sag
   Harbor, and Thus America "
 deck: "Featuring Fischl and Jason Rosenfeld "
-summary: "Artist Eric Fischl in conversation join Rail Editor at Large Jason
-  Rosenfeld for a conversation. We conclude with a poetry reading by Joshua
-  Edwards. "
+summary: "Artist Eric Fischl joins Rail Editor-at-Large Jason Rosenfeld for a
+  conversation. We conclude with a poetry reading by Joshua Edwards. "
 people:
   - person: eric-fischl
   - person: jason-rosenfeld
