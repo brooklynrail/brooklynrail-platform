@@ -8,7 +8,7 @@ people:
   - person: ari-lisner-1
 date: 2022-10-12T13:00:00-0500
 end_date: 2022-10-12T14:30:00-0500
-series: 936
+series: 667
 collections:
   - the-new-social-environment
 event_organizer:
