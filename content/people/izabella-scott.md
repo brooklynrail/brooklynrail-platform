@@ -13,7 +13,7 @@ short_bio: Writer, editor and researcher **Izabella Scott** is based in London.
   studied at Trinity College Dublin (BA) and the Royal College of Art, London
   (MA). She is represented by Harriet Moore at David Higham Associates.
 portraits:
-  - media: 2022/09/izabella-scott
+  - media: 2022/10/izabella-scott
 website: https://izabellascott.com/
 twitter: izabellascott
 ---
