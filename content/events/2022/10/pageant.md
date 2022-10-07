@@ -11,6 +11,8 @@ people:
   - person: sharleen-chidiac
   - person: alexa-west
   - person: gillian-jakab
+poets:
+  - person: kyle-carrero-lopez
 date: 2022-10-13T13:00:00-0500
 end_date: 2022-10-13T14:30:00-0500
 series: 668
