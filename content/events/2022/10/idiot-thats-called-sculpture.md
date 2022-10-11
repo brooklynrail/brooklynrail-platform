@@ -20,7 +20,7 @@ event_producer:
   - the-brooklyn-rail
 event_platform: null
 ---
-We're thrilled to invite you to \_Idiot, That's Called Sculpture\_, a Rail Reading with Carolyn Ferrucci, Portlyn Houghton Harjo, Noa Mendoza, and Jaylen Strong, this Thursday (10/13) at Miguel Abreu Gallery at 6 pm!
+We're thrilled to invite you to *Idiot*, *That's Called Sculpture,* a Rail Reading with Carolyn Ferrucci, Portlyn Houghton Harjo, Noa Mendoza, and Jaylen Strong, this Thursday (10/13) at Miguel Abreu Gallery at 6 pm!
 
 Curated by Tyhe Cooper, this reading celebrates Singing in Unison, Part Six, which is on view at the gallery's 88 Eldridge Street location through October 16, 2022
 
