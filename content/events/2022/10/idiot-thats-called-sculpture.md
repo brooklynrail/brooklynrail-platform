@@ -38,6 +38,4 @@ Miguel Abreu Gallery
 
 New York, NY
 
-
-
 ([map](https://goo.gl/maps/bifEHwUAE54LzXHk8))
