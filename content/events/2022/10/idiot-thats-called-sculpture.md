@@ -22,15 +22,9 @@ event_platform: null
 ---
 We're thrilled to invite you to *Idiot, That's Called Sculpture*, a Rail Reading with Carolyn Ferrucci, Portlyn Houghton Harjo, Noa Mendoza, and Jaylen Strong, this Thursday (10/13) at Miguel Abreu Gallery at 6 pm!
 
-
-
 Curated by Tyhe Cooper, this reading celebrates Singing in Unison, Part Six, which is on view at the gallery's 88 Eldridge Street location through October 16th.
 
-
-
 Come join us on Thursday as we hear these brilliant poets read among the luminous art works in the exhibit!
-
-
 
 Miguel Abreu Gallery
 
@@ -38,4 +32,4 @@ Miguel Abreu Gallery
 
 New York, NY
 
-**([map](https://goo.gl/maps/bifEHwUAE54LzXHk8))**
+([map](https://goo.gl/maps/bifEHwUAE54LzXHk8))
