@@ -1,11 +1,12 @@
 ---
 title: IT'S A SIGN ONLINE ! A Rail Reading Curated by Ari Lisner
-deck: Featuring Lisner, Delali Ayivor, Anjali Emsellem and Sarah Yanni
+deck: Featuring Lisner, Delali Ayivor, Anjali Emsellem, Elaine Kahn and Sarah Yanni
 summary: Ari Lisner curates our 107th Poetry Reading with Delali Ayivor, Anjali
-  Emsellem, and Sarah Yanni
+  Emsellem, Elaine Kahn and Sarah Yanni
 people:
   - person: delali-ayivor
   - person: anju-emsellem
+  - person: elaine-kahn
   - person: sarah-yanni
   - person: ari-lisner-1
 date: 2022-10-12T13:00:00-0500
