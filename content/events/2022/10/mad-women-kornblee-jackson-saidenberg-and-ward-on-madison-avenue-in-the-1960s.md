@@ -9,6 +9,8 @@ people:
   - person: michael-findley
   - person: veronique-chagnon-burke
   - person: phyllis-tuchman
+poets:
+  - person: daisy-fried
 date: 2022-10-14T13:00:00-0500
 end_date: 2022-10-14T14:30:00-0500
 series: 669
