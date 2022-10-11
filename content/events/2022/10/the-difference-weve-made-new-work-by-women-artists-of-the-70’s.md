@@ -12,7 +12,7 @@ event_producer:
 event_platform:
   - zoom
 ---
-Carter Burden Gallery presents *The Difference We’ve Made*, featuring new work by twenty-three women artists active and successful in New York City’s art world in the 1970’s. This exhibition is curated by Cynthia Mailman, Vernita Nemec, and Susan Grabel, and is accompanied by a fully illustrated catalogue, with essays by Ellen Lubell and Andrew Hottle. The exhibition runs from October 13 – November 9, 2022. 
+Carter Burden Gallery presents *The Difference We’ve Made*, featuring new work by twenty-three women artists active and successful in New York City’s art world in the 1970’s. This exhibition is curated by Cynthia Mailman, Vernita Nemec, and Susan Grabel, and is accompanied by a fully illustrated catalogue, with essays by Ellen Lubell and Andrew Hottle. The exhibition runs from October 14 – November 9, 2022. 
 
 The opening reception will be on **Thursday, October 13 from 5-8pm; masks are mandatory.**
 
