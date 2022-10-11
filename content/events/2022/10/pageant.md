@@ -4,7 +4,7 @@ deck: Featuring Jade Manns, Owen Prum, Sharleen Chidiac, Alexa West, and Gillian
   Jakab
 summary: PAGEANT founders Jade Manns, Owen Prum, Sharleen Chidiac, and Alexa
   West join Rail Dance Editor Gillian Jakab for a conversation. We conclude with
-  a poetry reading from Kyle Carrero Lopez.
+  a poetry reading by Kyle Carrero Lopez.
 people:
   - person: jade-manns
   - person: owen-prum
