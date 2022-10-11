@@ -2,12 +2,14 @@
 name: Véronique Chagnon-Burke
 first_name: Véronique
 last_name: Chagnon-Burke
-short_bio: Art historian **Véronique Chagnon-Burke** is an Associate Professor
-  and Academic Director at Christie’s Education New York. She is a co-founders
-  of WADDA (Women Art Dealers Digital Archives) a research platform which will
-  provide a centralized resource to examine the contribution of women gallerists
-  to the creation of the markets for modern and contemporary art since the late
-  1800s.
+short_bio: Throughout her career, **Véronique Chagnon-Burke** has taught a range
+  of subjects in art market studies and art history at Queens College, Parsons
+  School of Design, among other institutions. Her museum and research positions
+  have included work at MoMA and the College Art Association, and she has also
+  worked at the Hôtel Drouot in Paris. From 2002 to 2021, she was the Director
+  of Christie’s Education in New York, where she taught the history of the art
+  market and art history, more specifically classes on French art and on women
+  artists.
 portraits:
   - media: 2022/10/veronique-chagnon-burke
 instagram: veroniquechagnon
