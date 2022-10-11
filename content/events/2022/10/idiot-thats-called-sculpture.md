@@ -2,13 +2,18 @@
 title: Idiot, That's Called Sculpture
 deck: Featuring Carolyn Ferrucci, Portlyn Houghton Harjo, Noa Mendoza, and
   Jaylen Strong
-summary: Tyhe Cooper curates a reading in celebration of Singing in Unison, Part
-  Six currently on view at Miguel Abreu Gallery.
+summary: Tyhe Cooper curates a poetry reading in celebration of Singing in
+  Unison, Part Six, currently on view at Miguel Abreu Gallery.
+people:
+  - person: carolyn-ferrucci
+  - person: portlyn-houghton-harjo
+  - person: noa-mendoza
+  - person: jaylen-strong
+  - person: tyhe-cooper
 date: 2022-10-13T18:00:00-0500
 end_date: 2022-10-13T20:00:00-0500
-series: -28
-collections:
-  - community-listing
+series: ""
+collections: []
 event_organizer:
   - the-brooklyn-rail
 event_producer:
