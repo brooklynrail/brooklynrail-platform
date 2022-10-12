@@ -6,6 +6,8 @@ summary: Artist Will Ryman joins Rail contributor Eleanor Heartney for a
 people:
   - person: will-ryman
   - person: eleanor-heartney
+poets:
+  - person: ariel-resnikoff
 date: 2022-10-17T13:00:00-0500
 end_date: 2022-10-17T14:30:00-0500
 series: 670
