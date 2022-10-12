@@ -12,5 +12,5 @@ portraits:
   - media: 2021/07/gillian-jakab
 rail_contributor_url: https://brooklynrail.org/contributor/gillian-jakab
 website: http://gillian-jakab.squarespace.com/bio
-twitter: "@gillianjakab"
+twitter: gillianjakab
 ---
