@@ -2,10 +2,12 @@
 title: "Sarah Sense: Power Lines"
 deck: Featuring Sense and Yasmeen Siddiqui
 summary: Artist Sarah Sense joins Rail contributor Yasmeen Siddiqui for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading by Molly McGlennen.
 people:
   - person: sarah-sense
   - person: yasmeen-siddiqui
+poets:
+  - person: molly-mcglennen
 date: 2022-10-21T13:00:00-0500
 end_date: 2022-10-21T14:30:00-0500
 series: 674
