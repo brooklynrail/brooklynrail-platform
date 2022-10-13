@@ -1,8 +1,8 @@
 ---
 title: "Sarah Sense: Power Lines"
-deck: Featuring Sense and Rail host to be announced
-summary: Artist Sarah Sense joins Rail host for a conversation. We conclude with
-  a poetry reading.
+deck: Featuring Sense and Yasmeen Siddiqui
+summary: Artist Sarah Sense joins Rail contributor Yasmeen Siddiqui for a
+  conversation. We conclude with a poetry reading.
 people:
   - person: sarah-sense
   - person: yasmeen-siddiqui
