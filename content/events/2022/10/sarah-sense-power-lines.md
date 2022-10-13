@@ -5,6 +5,7 @@ summary: Artist Sarah Sense joins Rail host for a conversation. We conclude with
   a poetry reading.
 people:
   - person: sarah-sense
+  - person: yasmeen-siddiqui
 date: 2022-10-21T13:00:00-0500
 end_date: 2022-10-21T14:30:00-0500
 series: 674
