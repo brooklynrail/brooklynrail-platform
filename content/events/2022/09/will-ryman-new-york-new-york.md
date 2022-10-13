@@ -2,7 +2,7 @@
 title: "Will Ryman: New York, New York "
 deck: Featuring Ryman and Eleanor Heartney
 summary: Artist Will Ryman joins Rail contributor Eleanor Heartney for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading by Ariel Resnikoff.
 people:
   - person: will-ryman
   - person: eleanor-heartney
