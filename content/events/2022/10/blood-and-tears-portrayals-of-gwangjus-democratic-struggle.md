@@ -2,10 +2,12 @@
 title: "Blood and Tears: Portrayals of Gwangju's Democratic Struggle"
 deck: Featuring Soojung Hyun and Robert C. Morgan
 summary: Curator Soojung Hyun joins Rail contributor Robert C. Morgan for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading by Julie Agoos.
 people:
   - person: soojung-hyun
   - person: robert-c-morgan
+poets:
+  - person: julie-agoos
 date: 2022-10-18T13:00:00-0500
 end_date: 2022-10-18T14:30:00-0500
 series: 671
