@@ -1,6 +1,6 @@
 ---
-title: "Words Feel Like Change - Pockets Feel Like Words: A Rail Reading Curated
-  by Anne Tardos"
+title: "Love is Found in All the Ways Friends Speak: A Rail Reading Curated by
+  Anne Tardos"
 deck: Featuring Tardos, Marcella Durand, Evelyn Reilly, and Jennifer Firestone
 summary: Anne Tardos curates our 109th Wednesday Poetry Reading with Marcella
   Durand, Evelyn Reilly, and Jennifer Firestone.
