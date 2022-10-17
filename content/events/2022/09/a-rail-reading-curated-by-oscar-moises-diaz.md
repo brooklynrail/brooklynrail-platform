@@ -1,5 +1,5 @@
 ---
-title: A Rail Reading Curated by Óscar Moisés Diaz
+title: "The Eclipse Lounge: A Rail Reading Curated by Óscar Moisés Diaz"
 deck: Featuring Diaz, Raquel Gutiérrez, Sheila Maldonado,  mónica teresa ortiz,
   and Yvette Siegert
 summary: Óscar Moisés Diaz curates our 108th poetry reading with
