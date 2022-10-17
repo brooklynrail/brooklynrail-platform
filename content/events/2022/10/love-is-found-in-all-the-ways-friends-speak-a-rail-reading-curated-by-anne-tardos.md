@@ -21,4 +21,6 @@ event_producer:
 event_id: recgDcGygzGGUEWti
 event_platform:
   - zoom
+aliases:
+  - /events/2022/10/26/words-feel-like-change-pockets-feel-like-words-a-rail-reading-curated-by-anne-tardos/
 ---
