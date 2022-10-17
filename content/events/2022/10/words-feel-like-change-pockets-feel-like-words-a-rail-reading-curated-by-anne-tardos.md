@@ -1,5 +1,5 @@
 ---
-title: "Love is Found in All the Ways Friends Speak: A Rail Reading Curated by
+title: "Love Is Found in All the Ways Friends Speak: A Rail Reading Curated by
   Anne Tardos"
 deck: Featuring Tardos, Marcella Durand, Evelyn Reilly, and Jennifer Firestone
 summary: Anne Tardos curates our 109th Wednesday Poetry Reading with Marcella
