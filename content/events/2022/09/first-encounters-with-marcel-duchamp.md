@@ -1,11 +1,12 @@
 ---
 title: First Encounters with Marcel Duchamp
 deck: Featuring Dawn Ades, Bradley Bailey, Thierry de Duve, Paul B. Franklin,
-  Thomas Girst, Rudolf Herz, Michael R. Taylor, Carroll Janis, and Francis
-  Naumann
+  Thomas Girst, Rudolf Herz, Michael R. Taylor, Carroll Janis, Linda Dalrymple
+  Henderson, and Francis Naumann
 summary: Join the Rail's October Critics Page contributors for a conversation
   with guest critic Francis Naumann. We conclude with a poetry reading.
 people:
+  - person: carroll-janis
   - person: dawn-ades
   - person: thierry-de-duve
   - person: paul-b-franklin
