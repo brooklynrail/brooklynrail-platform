@@ -12,6 +12,7 @@ people:
   - person: thomas-girst
   - person: rudolf-herz
   - person: michael-r-taylor
+  - person: linda-dalrymple-henderson
   - person: francis-naumann
 date: 2022-10-25T13:00:00-0500
 end_date: 2022-10-25T14:30:00-0500
