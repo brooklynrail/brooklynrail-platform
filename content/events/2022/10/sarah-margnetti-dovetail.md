@@ -2,10 +2,12 @@
 title: "Sarah Margnetti: Dovetail"
 deck: Featuring Margnetti and Chloe Stagaman
 summary: Artist Sarah Margnetti joins Rail Director of Programs Chloe Stagaman
-  for a conversation. We conclude with a poetry reading.
+  for a conversation. We conclude with a poetry reading by Ariel Yelen.
 people:
   - person: sarah-margnetti
   - person: chloe-stagaman
+poets:
+  - person: ariel-yelen
 date: 2022-10-24T13:00:00-0500
 end_date: 2022-10-24T14:30:00-0500
 series: 675
