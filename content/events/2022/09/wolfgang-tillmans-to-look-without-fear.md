@@ -1,11 +1,13 @@
 ---
 title: "Wolfgang Tillmans: To look without fear "
 deck: Featuring Tillmans and McKenzie Wark
-summary: "Photographer Wolfgang Tillmans joins Rail contributor McKenzie Wark
-  for a conversation. We conclude with a poetry reading. "
+summary: Photographer Wolfgang Tillmans joins Rail contributor McKenzie Wark for
+  a conversation. We conclude with a poetry reading by Isis Awad.
 people:
   - person: wolfgang-tillmans
   - person: mckenzie-wark
+poets:
+  - person: isis-awad
 date: 2022-10-28T13:00:00-0500
 end_date: 2022-10-28T14:30:00-0500
 series: 679
