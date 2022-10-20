@@ -9,6 +9,6 @@ short_bio: "**Isis Awad** is a curator, writer, and poet based in Brooklyn, New
   communities."
 portraits:
   - media: 2022/10/isis-awad
-website: www.executivecare.art
+website: https://www.executivecare.art
 instagram: exec_care
 ---
