@@ -4,7 +4,8 @@ deck: Featuring Dawn Ades, Bradley Bailey, Thierry de Duve, Paul B. Franklin,
   Thomas Girst, Rudolf Herz, Michael R. Taylor, Carroll Janis, Linda Dalrymple
   Henderson, and Francis Naumann
 summary: Join the Rail's October Critics Page contributors for a conversation
-  with guest critic Francis Naumann. We conclude with a poetry reading.
+  with guest critic Francis Naumann. We conclude with a poetry reading by Evan
+  Gill Smith.
 people:
   - person: carroll-janis
   - person: dawn-ades
@@ -15,6 +16,8 @@ people:
   - person: michael-r-taylor
   - person: linda-dalrymple-henderson
   - person: francis-naumann
+poets:
+  - person: evan-gill-smith
 date: 2022-10-25T13:00:00-0500
 end_date: 2022-10-25T14:30:00-0500
 series: 676
