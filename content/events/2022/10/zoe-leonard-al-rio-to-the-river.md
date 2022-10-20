@@ -1,10 +1,11 @@
 ---
 title: "Zoe Leonard: 'Al Rio / To the River' "
-deck: Featuring Leonard and Rail host to be announced
-summary: "Artist Zoe Leonard joins Rail host for a conversation. We conclude
-  with a poetry reading by Josephine Shokrian. "
+deck: Featuring Leonard and Thyrza Nichols Goodeve
+summary: "Artist Zoe Leonard joins Rail ArtSeen editor Thyrza Nichols Goodeve
+  for a conversation. We conclude with a poetry reading by Josephine Shokrian. "
 people:
   - person: zoe-leonard
+  - person: thyrza-nichols-goodeve
 date: 2022-11-07T13:00:00-0500
 end_date: 2022-11-07T14:30:00-0500
 series: 685
