@@ -16,8 +16,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
-event_platform:
-  - zoom
+event_platform: null
 ---
 J﻿oin us for a live conversation at Industry City.
 
