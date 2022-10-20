@@ -15,6 +15,7 @@ people:
   - person: rudolf-herz
   - person: michael-r-taylor
   - person: linda-dalrymple-henderson
+  - person: bradley-bailey
   - person: francis-naumann
 poets:
   - person: evan-gill-smith
@@ -31,3 +32,4 @@ event_id: recfnRkHeUjOZ4Ecg
 event_platform:
   - zoom
 ---
+[R﻿ead *The Brooklyn Rail*'s October 2022 Critics Page →](https://brooklynrail.org/2022/10/editorsmessage/First-Encounters-with-Marcel-Duchamp)
