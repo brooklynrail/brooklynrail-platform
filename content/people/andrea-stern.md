@@ -12,4 +12,6 @@ short_bio: "Photographer **Andrea Stern** is a founder of dieFirma. From 1996 -
   2013) and Dog Days (1989 - 1999)- each accompanied by a book; these works may
   be found in public collections that include the Los Angeles County Museum of
   Art, the Cleveland Museum of Art, among others. "
+portraits:
+  - media: 2022/10/andrea-stern
 ---
