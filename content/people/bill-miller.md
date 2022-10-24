@@ -13,5 +13,7 @@ short_bio: Collage artist **Bill Miller** has been using vintage linoleum
   have informed society’s common memory. His unexpected use of familiar patterns
   taps into the medium's nostalgic qualities, imparting a sense of personal
   history and rediscovery within each piece.
+portraits:
+  - media: 2022/10/bill-miller
 website: https://www.billmillerart.com/
 ---
