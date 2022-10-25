@@ -1,5 +1,6 @@
 ---
-title: "Wednesday Poetry Reading #110 Curated by Anselm Berrigan"
+title: "That all sounds pretty emotional actually: A Rail Reading Curated by
+  Anselm Berrigan"
 deck: Featuring Berrigan, Ama Birch, Courtney Bush, Jennifer Soong and Ed Steck
 summary: Anselm Berrigan curates our 110th Poetry Reading with Ama Birch,
   Courtney Bush, Jennifer Soong and Ed Steck.
