@@ -5,6 +5,7 @@ summary: Anselm Berrigan curates our 110th Poetry Reading with Ama Birch,
   Courtney Bush, Jennifer Soong and Ed Steck.
 people:
   - person: ama-birch
+  - person: jennifer-soong
   - person: anselm-berrigan
 date: 2022-11-02T13:00:00-0500
 end_date: 2022-11-02T14:30:00-0500
