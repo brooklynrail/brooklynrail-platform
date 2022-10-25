@@ -10,4 +10,5 @@ short_bio: Poet and filmmaker **Courtney Bush** is from the Mississippi Gulf
   Carington, have been screened at festivals internationally. 
 portraits:
   - media: 2022/10/courtney-bush
+rail_contributor_url: https://brooklynrail.org/2020/09/poetry/six-Bush
 ---
