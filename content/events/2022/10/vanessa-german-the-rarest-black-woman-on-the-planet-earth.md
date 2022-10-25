@@ -1,6 +1,6 @@
 ---
 title: "vanessa german: THE RAREST BLACK WOMAN ON THE PLANET EARTH"
-deck: Featuring german and Rail host to be announcedq
+deck: Featuring german and Rail host to be announced
 summary: "Artist vanessa german joins Rail host for a conversation. We conclude
   with a poetry reading. "
 people:
