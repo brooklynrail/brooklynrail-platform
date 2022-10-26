@@ -7,7 +7,7 @@ people:
   - person: sarah-friend
   - person: charlotte-kent
 poets:
-  - person: eleni-sikelianos
+  - person: eleni-sikelianos-1
 date: 2022-11-04T13:00:00-0500
 end_date: 2022-11-04T14:30:00-0500
 series: 684
