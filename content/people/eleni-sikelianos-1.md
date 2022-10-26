@@ -12,5 +12,6 @@ short_bio: Born in California on Walt Whitman’s birthday, _Eleni Sikelianos_ i
   memoir-verse-image-novels.
 portraits:
   - media: 2022/10/eleni-sikelianos
+rail_contributor_url: https://brooklynrail.org/contributor/eleni-sikelianos
 website: https://www.elenisikelianos.com/
 ---
