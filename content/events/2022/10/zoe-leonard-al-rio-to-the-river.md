@@ -6,6 +6,8 @@ summary: "Artist Zoe Leonard joins Rail ArtSeen editor Thyrza Nichols Goodeve
 people:
   - person: zoe-leonard
   - person: thyrza-nichols-goodeve
+poets:
+  - person: josephine-shokrian
 date: 2022-11-07T13:00:00-0500
 end_date: 2022-11-07T14:30:00-0500
 series: 685
