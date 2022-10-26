@@ -5,6 +5,7 @@ last_name: Berrigan
 short_bio: "**Anselm Berrigan** is the poetry editor for the Brooklyn Rail, and
   author of a number of books of poems, most recently _Pregrets_, from Black
   Square Editions. "
-portraits: []
+portraits:
+  - media: 2020/07/anselm-berrigan
 rail_contributor_url: https://brooklynrail.org/contributor/anselm-berrigan
 ---
