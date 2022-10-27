@@ -1,6 +1,7 @@
 ---
 title: "Liz Collins: Mischief"
-deck: Featuring Collins, Julia Bryan-Wilson, and Ksenia M. Soboleva
+deck: Featuring Collins, Julia Bryan-Wilson, and Ksenia M. Soboleva, with
+  Rebecca Teich
 summary: Artist Liz Collins and curator Julia Bryan-Wilson join Rail contributor
   Ksenia M. Soboleva for a conversation. We conclude with a poetry reading by
   Rebecca Teich.
