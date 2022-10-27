@@ -1,6 +1,7 @@
 ---
 title: "Publishing-in-Transit: Copper Canyon Press"
-deck: Featuring Michael Wiegers, Ryo Yamaguchi, and Cole Swensen
+deck: Featuring Michael Wiegers, Ryo Yamaguchi, and Cole Swensen with
+  Christopher Soto
 summary: Copper Canyon Press Executive Editor Michael Wiegers and Publicist Ryo
   Yamaguchi join Rail contributor Cole Swensen for a conversation. We conclude
   with a poetry reading from Christopher Soto.
