@@ -1,11 +1,13 @@
 ---
-title: "Zoe Leonard: 'Al Rio / To the River' "
-deck: Featuring Leonard and Thyrza Nichols Goodeve
-summary: "Artist Zoe Leonard joins Rail ArtSeen editor Thyrza Nichols Goodeve
-  for a conversation. We conclude with a poetry reading by Josephine Shokrian. "
+title: "Zoe Leonard: Al Rio / To the River "
+deck: Featuring Leonard, Thyrza Nichols Goodeve, and Esther Gabara
+summary: "Artist Zoe Leonard joins Rail ArtSeen Editor Thyrza Nichols Goodeve
+  and Rail contributor Esther Gabara for a conversation. We conclude with a
+  poetry reading by Josephine Shokrian. "
 people:
   - person: zoe-leonard
   - person: thyrza-nichols-goodeve
+  - person: esther-gabara
 poets:
   - person: josephine-shokrian
 date: 2022-11-07T13:00:00-0500
