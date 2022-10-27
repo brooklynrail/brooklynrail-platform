@@ -1,6 +1,6 @@
 ---
 title: "Sarah Friend: Terraforming"
-deck: Featuring Friend and Charlotte Kent
+deck: Featuring Friend and Charlotte Kent, with Eleni Sikelianos
 summary: Artist Sarah Friend joins Rail Editor-At-Large Charlotte Kent for a
   conversation. We conclude with a poetry reading by Eleni Sikelianos.
 people:
