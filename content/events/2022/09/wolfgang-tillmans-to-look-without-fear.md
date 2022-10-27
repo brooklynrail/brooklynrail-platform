@@ -1,6 +1,6 @@
 ---
 title: "Wolfgang Tillmans: To look without fear "
-deck: Featuring Tillmans and McKenzie Wark
+deck: Featuring Tillmans and McKenzie Wark, with Isis Awad
 summary: Photographer Wolfgang Tillmans joins Rail contributor McKenzie Wark for
   a conversation. We conclude with a poetry reading by Isis Awad.
 people:
