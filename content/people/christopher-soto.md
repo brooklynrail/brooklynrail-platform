@@ -2,7 +2,7 @@
 name: Christopher Soto
 first_name: Christopher
 last_name: Soto
-pronouns: they/them
+pronouns: ""
 short_bio: Poet **Christopher Soto** (b. 1991) is based in Los Angeles,
   California. His debut poetry collection, _Diaries of a Terrorist_, was
   published by Copper Canyon Press. This collection demands the abolition of
@@ -12,4 +12,6 @@ short_bio: Poet **Christopher Soto** (b. 1991) is based in Los Angeles,
   influential LGBTQ+ people.
 portraits:
   - media: 2022/10/christopher-soto
+website: https://christophersoto-poet.com/
+instagram: loma_poetry
 ---
