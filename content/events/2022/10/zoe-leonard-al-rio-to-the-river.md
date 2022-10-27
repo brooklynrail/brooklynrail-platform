@@ -1,5 +1,5 @@
 ---
-title: "Zoe Leonard: Al Rio / To the River "
+title: "Zoe Leonard: Al río / To the River "
 deck: Featuring Leonard, Thyrza Nichols Goodeve, and Esther Gabara
 summary: "Artist Zoe Leonard joins Rail ArtSeen Editor Thyrza Nichols Goodeve
   and Rail contributor Esther Gabara for a conversation. We conclude with a
