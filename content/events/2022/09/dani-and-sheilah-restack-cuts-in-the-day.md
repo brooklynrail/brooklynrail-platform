@@ -1,6 +1,6 @@
 ---
 title: "Dani and Sheilah ReStack: Cuts in the Day"
-deck: "Featuring ReStack and Amanda Gluibizzi "
+deck: Featuring ReStack and Amanda Gluibizzi, with sua yoo
 summary: Multimedia collaborators Dani and Sheilah ReStack join Rail Art Editor
   Amanda Gluibizzi for a conversation. We conclude with a poetry reading by sua
   yoo.
