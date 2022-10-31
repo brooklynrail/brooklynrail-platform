@@ -8,6 +8,8 @@ people:
   - person: shirin-neshat
   - person: nato-thompson
   - person: phong-h-bui
+poets:
+  - person: haleh-liza-gafori
 date: 2022-11-07T18:30:00-0500
 end_date: 2022-11-07T20:30:00-0500
 collections:
@@ -26,3 +28,5 @@ J﻿oin us for a live conversation at Industry City.
 ([map](https://goo.gl/maps/eQR5FBQjUjdDeAWK9))
 
 [M﻿ore on Artwrld →](https://www.artwrld.com/)
+
+﻿Registration required!
