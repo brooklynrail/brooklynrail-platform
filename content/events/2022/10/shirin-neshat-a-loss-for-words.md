@@ -12,9 +12,7 @@ poets:
   - person: haleh-liza-gafori
 date: 2022-11-07T18:30:00-0500
 end_date: 2022-11-07T20:30:00-0500
-collections:
-  - the-new-social-environment
-  - community-listing
+collections: []
 event_organizer:
   - the-brooklyn-rail
 event_producer:
