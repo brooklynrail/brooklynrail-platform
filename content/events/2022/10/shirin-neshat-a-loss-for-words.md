@@ -1,9 +1,9 @@
 ---
 title: "Shirin Neshat: A Loss for Words"
 deck: Featuring Neshat, Nato Thompson, and Phong H. Bui
-summary: A live conversation between Artist and filmmaker Shirin Neshat, Artwrld
-  Co-Founder and Artistic Director Nato Thompson, and Rail Artistic Director and
-  Publisher Phong H. Bui.
+summary: A live conversation between artist and filmmaker Shirin Neshat, Artwrld
+  Co-Founder and Artistic Director Nato Thompson, and Rail Publisher and
+  Artistic Director Phong H. Bui.
 people:
   - person: shirin-neshat
   - person: nato-thompson
