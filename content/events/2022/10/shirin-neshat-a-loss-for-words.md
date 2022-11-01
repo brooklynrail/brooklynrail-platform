@@ -20,11 +20,10 @@ event_producer:
 event_id: rechwzHpPwQBS0Z1I
 event_platform: null
 ---
-J﻿oin us for a conversation at Industry City
+J﻿oin us for an in-person conversation at Industry City. This event is free but capacity is limited. Registration is required.  
 
-900 3rd Avenue, Brooklyn, NY 11232
+900 3rd Avenue,\
+Brooklyn, NY 11232
 ([map](https://goo.gl/maps/eQR5FBQjUjdDeAWK9))
 
 [M﻿ore on Artwrld →](https://www.artwrld.com/)
-
-﻿Registration required!
