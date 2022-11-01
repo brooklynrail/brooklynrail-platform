@@ -20,7 +20,7 @@ event_producer:
 event_id: rechwzHpPwQBS0Z1I
 event_platform: null
 ---
-J﻿oin us for a live conversation at Industry City.
+J﻿oin us for a conversation at Industry City
 
 900 3rd Avenue, Brooklyn, NY 11232
 ([map](https://goo.gl/maps/eQR5FBQjUjdDeAWK9))
