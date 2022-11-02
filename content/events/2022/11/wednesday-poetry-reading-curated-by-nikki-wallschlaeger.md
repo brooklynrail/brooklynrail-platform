@@ -4,7 +4,7 @@ deck: featuring Wallschlaeger, Ronald Davis, and Lucas de Lima
 summary: Nikki Wallschlaeger curates our 111th Poetry Reading with Ronald Davis
   and Lucas de Lima
 people:
-  - person: 2022/06/nikki-wallschlaeger
+  - person: nikki-wallschlaeger
 date: 2022-11-09T13:00:00-0500
 end_date: 2022-11-09T14:30:00-0500
 series: 687
