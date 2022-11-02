@@ -1,10 +1,13 @@
 ---
 title: "Sky High Farm: Bridging re-generative farming and food access initiatives"
-deck: Featuring Dan Colen and Amanda Gluibizzi
-summary: Sky High Farm Founder Dan Colen joins Rail Art Editor Amanda Gluibizzi
-  for a conversation. We conclude with a poetry reading.
+deck: Featuring Dan Colen, Josh Bardfield, Nina Tucker and Amanda Gluibizzi
+summary: Sky High Farm Founder Dan Colen and staff members Josh Bardfield and
+  Nina Tucker join Rail Art Editor Amanda Gluibizzi for a conversation. We
+  conclude with a poetry reading.
 people:
   - person: dan-colen
+  - person: nina-tucker
+  - person: josh-bardfield
   - person: amanda-gluibizzi
 date: 2022-11-10T13:00:00-0500
 end_date: 2022-11-10T14:30:00-0500
