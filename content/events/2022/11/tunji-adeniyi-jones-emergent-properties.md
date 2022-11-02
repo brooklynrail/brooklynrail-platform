@@ -1,10 +1,11 @@
 ---
 title: "Tunji Adeniyi-Jones: Emergent Properties"
-deck: Featuring Adeniyi-Jones and Rail host to be announced
-summary: Artist Tunji Adeniyi-Jones joins Rail host for a conversation. We
-  conclude with a poetry reading.
+deck: Featuring Adeniyi-Jones and Yasi Alipour.
+summary: Artist Tunji Adeniyi-Jones joins Rail contributor Yasi Alipour for a
+  conversation. We conclude with a poetry reading.
 people:
   - person: tunji-adeniyi-jones
+  - person: yasi-alipour
 date: 2022-11-08T13:00:00-0500
 end_date: 2022-11-08T14:30:00-0500
 series: 686
