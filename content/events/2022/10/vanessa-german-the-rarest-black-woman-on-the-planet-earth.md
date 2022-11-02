@@ -1,10 +1,11 @@
 ---
 title: "vanessa german: THE RAREST BLACK WOMAN ON THE PLANET EARTH"
-deck: Featuring german and Rail host to be announced
-summary: "Artist vanessa german joins Rail host for a conversation. We conclude
-  with a poetry reading. "
+deck: "Featuring german and Amber Jamilla Musser. "
+summary: "Artist vanessa german joins Rail contributor Amber Jamilla Musser for
+  a conversation. We conclude with a poetry reading. "
 people:
   - person: vanessa-german
+  - person: amber-musser
 date: 2022-11-18T13:00:00-0500
 end_date: 2022-11-18T14:30:00-0500
 series: 694
