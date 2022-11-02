@@ -1,6 +1,6 @@
 ---
 title: "Tunji Adeniyi-Jones: Emergent Properties"
-deck: Featuring Adeniyi-Jones and Yasi Alipour.
+deck: Featuring Adeniyi-Jones and Yasi Alipour
 summary: Artist Tunji Adeniyi-Jones joins Rail contributor Yasi Alipour for a
   conversation. We conclude with a poetry reading.
 people:
