@@ -1,10 +1,10 @@
 ---
 title: "Zoe Leonard: Al río / To the River "
-deck: Featuring Leonard, Thyrza Nichols Goodeve, and Esther Gabara, with
-  Josephine Shokrian
-summary: "Artist Zoe Leonard joins Rail ArtSeen Editor Thyrza Nichols Goodeve
-  and Rail contributor Esther Gabara for a conversation. We conclude with a
-  poetry reading by Josephine Shokrian. "
+deck: Featuring Leonard, Tim Johnson, Thyrza Nichols Goodeve, and Esther Gabara,
+  with Josephine Shokrian
+summary: "Artist Zoe Leonard joins Marfa Book Company's Tim Johnson, Rail
+  Editor-at-Large Thyrza Nichols Goodeve and Rail contributor Esther Gabara for
+  a conversation. We conclude with a poetry reading by Josephine Shokrian. "
 people:
   - person: zoe-leonard
   - person: tim-johnson
