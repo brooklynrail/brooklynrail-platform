@@ -1,5 +1,5 @@
 ---
-title: Stefan Gierowski
+title: Stefan Gierowski Symposium
 deck: Panel and Book Launch
 summary: Join Dr Marek Bartelik in conversation with Dr David Anfam, Michel
   Gauthier, Natalia Gierowska, Dr Pepe Karmel and Dr Joachim Pissarro for a
