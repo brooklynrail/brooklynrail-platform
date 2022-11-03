@@ -1,8 +1,8 @@
 ---
 title: "Anne Katrine Senstad: Neon Guides Me"
 deck: Book Launch at The Emily Harvey Foundation
-summary: Featuring artist Anne Katrine Senstad, composer JG Thirlwell, and Rail
-  Editor-at-Large Tom McGlynn, and publisher  Praun & Guermouche
+summary: Featuring artist Anne Katrine Senstad, composer JG Thirlwell, Rail
+  Editor-at-Large Tom McGlynn, and publisher Praun & Guermouche
 people:
   - person: anne-katrine-senstad
   - person: jg-thirlwell
