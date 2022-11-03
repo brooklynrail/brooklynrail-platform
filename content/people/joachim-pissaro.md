@@ -3,17 +3,17 @@ name: Joachim Pissarro
 first_name: Joachim
 last_name: Pissarro
 pronouns: ""
-short_bio: "Art historian **Joachim Pissarro** is the Bershad Professor of Art
-  History and Director of the Hunter College Galleries, Hunter College, City
-  University of New York. He was a Curator at MoMA’s Department of Painting and
-  Sculpture. His recent curatorial projects include _Alberto Giacometti | Yves
-  Klein: In Search of the Absolute_, Gagosian Gallery London (2016); _Pissarro à
-  Eragny_, Musée du Luxembourg (2017); _Olga Picasso_, Musée National Picasso,
-  Paris (2017), Museo Picasso, Málaga (2019), and the Pushkin State Museum of
-  Fine Arts, Moscow (2019). His latest book _Aesthetics of the Margins / The
-  Margins of Aesthetics: Wild Art Explained_ (2018, Penn State University Press)
-  is co-authored with David Carrier, following _Wild Art_ (Phaidon, 2016).
-  Joachim is Consulting Editor of the _Rail_."
+short_bio: "Art historian, theoretician, curator, and educator **Joachim
+  Pissarro** is director of the Hunter College Galleries and Bershad Professor
+  of Art History at Hunter College. He has held positions at the Dallas Museum
+  of Art, Kimbell Art Museum, MoMa, Philadelphia Museum of Art, Royal Academy of
+  London, and the Yale University Art Gallery. Notable exhibitions Pissarro
+  curated include _Pioneering Modern Painting: Cézanne and Pissarro 1865–1885_
+  (2005) and _Out of Time: A Contemporary View_ (2006, with Eva Respini), which
+  have toured internationally. Pissarro has served as the Editorial Director of
+  Wildenstein Publications and is the author of numerous books, most recently,
+  _Wild Art,_ with art critic David Carrier and published by Phaidon Press.
+  Pisarro is Consulting Editor of the _Rail_."
 portraits:
   - media: 2020/07/joachim-pissaro-1
 rail_contributor_url: https://brooklynrail.org/contributor/joachim-pissarro
