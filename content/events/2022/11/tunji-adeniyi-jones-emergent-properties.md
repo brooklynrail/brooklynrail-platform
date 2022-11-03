@@ -1,11 +1,13 @@
 ---
 title: "Tunji Adeniyi-Jones: Emergent Properties"
-deck: Featuring Adeniyi-Jones and Yasi Alipour
+deck: Featuring Adeniyi-Jones and Yasi Alipour, with Imani Elizabeth Jackson
 summary: Artist Tunji Adeniyi-Jones joins Rail contributor Yasi Alipour for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading from Imani Elizabeth Jackson.
 people:
   - person: tunji-adeniyi-jones
   - person: yasi-alipour
+poets:
+  - person: imani-elizabeth-jackson
 date: 2022-11-08T13:00:00-0500
 end_date: 2022-11-08T14:30:00-0500
 series: 686
