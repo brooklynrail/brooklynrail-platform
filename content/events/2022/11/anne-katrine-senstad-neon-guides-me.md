@@ -1,6 +1,6 @@
 ---
 title: "Anne Katrine Senstad: Neon Guides Me"
-deck: Book Launch
+deck: Book Launch at The Emily Harvey Foundation
 summary: Featuring artist and writer Anne Katrine Senstad, composer JG
   Thirlwell, and Rail Editor-at-Large Tom McGlynn, and publisher  Praun &
   Guermouche
@@ -19,7 +19,7 @@ event_producer:
   - the-brooklyn-rail
 event_platform: null
 ---
-Join The Emily Harvey Foundation for a panel discussion with Anne Katrine Senstad, JG Thirlwell, and Tom McGlynn, followed by a video talk by publisher Praun & Guermouche, to celebrate the publication of *NEON GUIDES ME* byAnne Katrine Senstad. 
+Join The Emily Harvey Foundation for a panel discussion with Anne Katrine Senstad, JG Thirlwell, and Tom McGlynn, followed by a video talk by publisher Praun & Guermouche, to celebrate the publication of *NEON GUIDES ME* by Anne Katrine Senstad. 
 
 {{< image media="2022/11/neon-guides-me" size="lg" >}}
 
