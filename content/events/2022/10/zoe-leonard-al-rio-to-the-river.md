@@ -7,6 +7,7 @@ summary: "Artist Zoe Leonard joins Rail ArtSeen Editor Thyrza Nichols Goodeve
   poetry reading by Josephine Shokrian. "
 people:
   - person: zoe-leonard
+  - person: tim-johnson
   - person: thyrza-nichols-goodeve
   - person: esther-gabara
 poets:
