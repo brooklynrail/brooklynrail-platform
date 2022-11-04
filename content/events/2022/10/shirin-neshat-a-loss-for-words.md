@@ -21,7 +21,7 @@ event_producer:
 event_id: rechwzHpPwQBS0Z1I
 event_platform: null
 ---
-J﻿oin us for an in-person conversation at Industry City. This event is free but capacity is limited. Registration is required. Priority will be given to those who have registered in advance, though admission cannot be guaranteed once the event is capacity. 
+J﻿oin us for an in-person conversation at Industry City. This event is free but capacity is limited. Priority will be given to those who have registered in advance, though admission cannot be guaranteed once the event is capacity. 
 
 900 3rd Avenue,\
 Brooklyn, NY 11232
