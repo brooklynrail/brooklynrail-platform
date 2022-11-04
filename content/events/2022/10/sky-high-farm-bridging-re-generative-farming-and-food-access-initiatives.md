@@ -1,17 +1,19 @@
 ---
 title: "Sky High Farm: Bridging regenerative farming, education, and equity in
   our food system"
-deck: Featuring Dan Colen, Ellie Youngblood, Josh Bardfield, Nina Tucker and
-  Amanda Gluibizzi
+deck: "Featuring Dan Colen, Ellie Youngblood, Josh Bardfield, Nina Tucker and
+  Amanda Gluibizzi, with Mandy Beckley "
 summary: Sky High Farm Founder Dan Colen and staff members Josh Bardfield and
   Nina Tucker join Rail Art Editor Amanda Gluibizzi for a conversation. We
-  conclude with a poetry reading.
+  conclude with a poetry reading from Mandy Beckley.
 people:
   - person: dan-colen
   - person: ellie-youngblood
   - person: josh-bardfield
   - person: nina-tucker
   - person: amanda-gluibizzi
+poets:
+  - person: mandy-beckley
 date: 2022-11-10T13:00:00-0500
 end_date: 2022-11-10T14:30:00-0500
 series: 688
