@@ -12,8 +12,8 @@ people:
   - person: natalia-gierowska
   - person: pepe-karmel-1
   - person: joachim-pissaro
-date: 2022-11-12T18:00:00-0500
-end_date: 2022-11-12T20:00:00-0500
+date: 2022-11-12T13:00:00-0500
+end_date: 2022-11-12T14:30:00-0500
 collections:
   - community-listing
 event_organizer:
