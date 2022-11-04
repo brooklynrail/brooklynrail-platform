@@ -23,6 +23,7 @@ event_producer:
 youtube_id: EACVpn3FXdo
 event_platform:
   - youtube
+event_platform_url: https://www.youtube.com/watch?v=EACVpn3FXdo
 ---
 To celebrate the launch of the Stefan Gierowski monograph by SKIRA, Dr. Marek Bartelik will be joined by Dr. David Anfam, Dr. Michel Gauthier, Natalia Gierowska, Dr. Pepe Karmel and Dr. Joachim Pissarro to discuss the artistic practice of one of Poland’s leading representatives of the 20th-century avant-garde, Stefan Gierowski.
 
