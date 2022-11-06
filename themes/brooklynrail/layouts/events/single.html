@@ -247,18 +247,16 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
                 {{- $len := (sub (len .Params.poets) 1) -}}
 
                 <div class="lead">
-                  <p>The <em>Rail</em> has a tradition of ending our conversations with a poem, and
-                  {{ if and (eq .Date.Month now.Month) (eq .Date.Day now.Day) }}
-                  today
-                  {{- end }}
-                  we’re fortunate to have
+                  <p>The <em>Rail</em> has a tradition of ending our conversations with a poetry reading, and we’re fortunate to have
                   {{ range $i, $poet := .Params.poets -}}
                     {{- if (ne $i 0) }}, {{ end -}}
                     {{- if and (eq $i $len) (ne $i 0) }} and {{ end -}}
                     {{- $person := $.Site.GetPage (printf "/%s/%s" "people" $poet.person) -}}
                     <strong>{{- $person.Params.name }}</strong>
                   {{- end }}
-                  reading.</p>
+                  reading {{- if and (eq .Date.Month now.Month) (eq .Date.Day now.Day) }} 
+                  today
+                  {{- end -}}.</p>
                 </div>
 
                 {{- partial "people" (dict "page" . "people" .Params.poets "img_size" "xs" "format" "square" ) -}}
