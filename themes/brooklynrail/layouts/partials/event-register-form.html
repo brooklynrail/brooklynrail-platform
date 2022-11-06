@@ -40,6 +40,11 @@
         </div>
       </div>
     </div>
+
+    {{/* Event Logistics */}}
+    {{- $event_platform_data := $.Site.Data.event_platforms -}}
+    {{- $event_platforms := .page.Params.event_platform -}}
+    {{- if in $event_platforms "zoom" -}}
     <div class="grid-row">
       <div class="grid-col-12 tablet:grid-col-10 tablet:grid-offset-1">
         <div class="event-logistics">
@@ -48,6 +53,9 @@
         </div>
       </div>
     </div>
+    {{- end -}}
+
+   
     
     
   </div>
