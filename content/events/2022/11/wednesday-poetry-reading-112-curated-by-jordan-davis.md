@@ -8,6 +8,7 @@ people:
   - person: sommer-browning
   - person: nada-gordon-1
   - person: maureen-owen
+  - person: jordan-davis
 date: 2022-11-16T13:00:00-0500
 end_date: 2022-11-16T14:30:00-0500
 series: 692
