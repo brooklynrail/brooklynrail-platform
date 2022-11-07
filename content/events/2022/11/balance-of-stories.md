@@ -1,6 +1,8 @@
 ---
 title: Balance of Stories
-deck: Featuring Emmanuel Iduma and friends, with Megan Sungyoon
+deck: Featuring Emmanuel Iduma, Immaculata Abba, Olakiitan Adeola, Yemisi
+  Aribisala, Yinka Elujoba, Kemi Falodun, Sabo Kpade, Joseph Ndukwu, and joshua
+  segun-lean with Megan Sungyoon
 summary: Join the Rail’s November Critics Page contributors for a conversation
   with guest critic Emmanuel Iduma. We conclude with a poetry reading by Megan
   Sungyoon.
