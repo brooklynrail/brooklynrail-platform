@@ -3,6 +3,11 @@ title: "Wednesday Poetry Reading #112 Curated by Jordan Davis "
 deck: featuring Davis, David Blair, Sommer Browning, Nada Gordon, and Maureen Owen
 summary: Jordan Davis curates our 112th Poetry Reading with David Blair, Sommer
   Browning, Nada Gordon, and Maureen Owen
+people:
+  - person: david-blair
+  - person: sommer-browning
+  - person: nada-gordon-1
+  - person: maureen-owen
 date: 2022-11-16T13:00:00-0500
 end_date: 2022-11-16T14:30:00-0500
 series: 692
