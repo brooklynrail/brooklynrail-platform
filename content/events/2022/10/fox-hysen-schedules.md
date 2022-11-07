@@ -1,10 +1,11 @@
 ---
 title: "Fox Hysen: Schedules"
-deck: Featuring Hysen and Rail host to be announced
-summary: "Artist Fox Hysen joins Rail host for a conversation. We conclude with
-  a poetry reading. "
+deck: Featuring Hysen and Tom McGlynn
+summary: "Artist Fox Hysen joins Rail Editor-at-Large Tom McGlynn for a
+  conversation. We conclude with a poetry reading. "
 people:
   - person: fox-hysen
+  - person: tom-mcglynn
 date: 2022-11-14T13:00:00-0500
 end_date: 2022-11-14T14:30:00-0500
 series: 690
