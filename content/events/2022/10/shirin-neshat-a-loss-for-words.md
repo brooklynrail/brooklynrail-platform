@@ -1,6 +1,6 @@
 ---
 title: "Shirin Neshat: A Loss for Words"
-deck: Featuring Neshat, Nato Thompson, and Phong H. Bui with Haleh Liza Gafori
+deck: Featuring Neshat, Nato Thompson, and Phong H. Bui, with Haleh Liza Gafori
 summary: A live conversation between artist and filmmaker Shirin Neshat, Artwrld
   Co-Founder and Artistic Director Nato Thompson, and Rail Publisher and
   Artistic Director Phong H. Bui. We conclude with a poetry reading by Haleh
