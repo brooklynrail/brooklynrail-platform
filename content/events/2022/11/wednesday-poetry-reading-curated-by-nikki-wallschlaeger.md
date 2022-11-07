@@ -1,5 +1,5 @@
 ---
-title: "Wednesday Poetry Reading Curated by Nikki Wallschlaeger "
+title: "Howl something you want heard: A Rail Reading Curated by Nikki Wallschlaeger "
 deck: featuring Wallschlaeger, Ronald Davis, and Lucas de Lima
 summary: Nikki Wallschlaeger curates our 111th Poetry Reading with Ronald Davis
   and Lucas de Lima
