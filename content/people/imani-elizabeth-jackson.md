@@ -13,4 +13,5 @@ short_bio: "**Imani Elizabeth Jackson** is a poet working across disciplines,
   Connecticut. "
 portraits:
   - media: 2022/11/imani-elizabeth-jackson
+website: https://www.imanie.info/
 ---
