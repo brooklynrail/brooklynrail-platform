@@ -13,6 +13,7 @@ short_bio: Poet **Nikki Wallschlaeger** is the author of the full-length
   come).
 portraits:
   - media: 2022/06/nikki-wallschlaeger
+rail_contributor_url: https://brooklynrail.org/2022/06/poetry/three-622
 website: https://nikkiwallschlaeger.com/
 twitter: nikkimwalls
 ---
