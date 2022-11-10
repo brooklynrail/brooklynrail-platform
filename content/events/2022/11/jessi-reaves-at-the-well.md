@@ -1,11 +1,13 @@
 ---
 title: "Jessi Reaves: At the well"
-deck: Featuring Reaves and Julia Trotta
+deck: Featuring Reaves and Julia Trotta, with Anneysa Gaille
 summary: Artist Jessi Reaves joins filmmaker Julia Trotta for a conversation. We
-  conclude with a poetry reading.
+  conclude with a poetry reading by Anneysa Gaille.
 people:
   - person: jessi-reaves
   - person: julia-trotta
+poets:
+  - person: anneysa-gaille
 date: 2022-11-15T13:00:00-0500
 end_date: 2022-11-15T14:30:00-0500
 series: 691
