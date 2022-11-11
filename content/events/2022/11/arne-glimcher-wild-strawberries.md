@@ -2,10 +2,10 @@
 title: "Arne Glimcher: Wild Strawberries"
 deck: "Featuring Arne Glimcher and Rail host to be announced "
 summary: "Founder and Chairman of Pace Gallery Arne Glimcher joins Rail host for
-  a conversation. We conclude with a poetry reading. "
+  a conversation at a special time of 2pm ET. We conclude with a poetry reading.
+  "
 people:
   - person: arne-glimcher
-  - person: jason-rosenfeld
 poets: []
 date: 2022-11-17T14:00:00-0500
 end_date: 2022-11-17T15:15:00-0500
