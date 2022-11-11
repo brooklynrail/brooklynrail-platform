@@ -1,8 +1,8 @@
 ---
 title: "vanessa german: THE RAREST BLACK WOMAN ON THE PLANET EARTH"
-deck: Featuring german and Amber Jamilla Musser
-summary: "Artist vanessa german joins Rail contributor Amber Jamilla Musser for
-  a conversation. We conclude with a poetry reading. "
+deck: Featuring german and Amber Jamilla Musser, with Yaz Lancaster
+summary: Artist vanessa german joins Rail contributor Amber Jamilla Musser for a
+  conversation. We conclude with a poetry reading by Yaz Lancaster.
 people:
   - person: vanessa-german
   - person: amber-musser
