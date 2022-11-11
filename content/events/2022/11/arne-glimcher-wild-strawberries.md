@@ -6,6 +6,7 @@ summary: Founder and Chairman of Pace Gallery Arne Glimcher joins Rail host for
   by Barrett White.
 people:
   - person: arne-glimcher
+  - person: phyllis-tuchman
 poets:
   - person: barrett-white
 date: 2022-11-17T14:00:00-0500
