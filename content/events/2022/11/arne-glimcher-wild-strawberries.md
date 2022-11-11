@@ -1,6 +1,6 @@
 ---
 title: "Arne Glimcher: Wild Strawberries"
-deck: Featuring Arne Glimcher and Phyllis Tuchman
+deck: Featuring Arne Glimcher and Phyllis Tuchman, with Barrett White
 summary: Founder and Chairman of Pace Gallery Arne Glimcher joins Rail
   Editor-at-Large Phyllis Tuchman for a conversation at a special time of 2pm
   ET. We conclude with a poetry reading by Barrett White.
