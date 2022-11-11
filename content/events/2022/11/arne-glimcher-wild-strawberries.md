@@ -1,9 +1,9 @@
 ---
 title: "Arne Glimcher: Wild Strawberries"
-deck: "Featuring Arne Glimcher and Rail host to be announced "
-summary: Founder and Chairman of Pace Gallery Arne Glimcher joins Rail host for
-  a conversation at a special time of 2pm ET. We conclude with a poetry reading
-  by Barrett White.
+deck: Featuring Arne Glimcher and Phyllis Tuchman
+summary: Founder and Chairman of Pace Gallery Arne Glimcher joins Rail
+  Editor-at-Large Phyllis Tuchman for a conversation at a special time of 2pm
+  ET. We conclude with a poetry reading by Barrett White.
 people:
   - person: arne-glimcher
   - person: phyllis-tuchman
