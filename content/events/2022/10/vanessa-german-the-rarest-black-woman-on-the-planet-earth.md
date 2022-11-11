@@ -6,6 +6,8 @@ summary: Artist vanessa german joins Rail contributor Amber Jamilla Musser for a
 people:
   - person: vanessa-german
   - person: amber-musser
+poets:
+  - person: yaz-lancaster
 date: 2022-11-18T13:00:00-0500
 end_date: 2022-11-18T14:30:00-0500
 series: 694
