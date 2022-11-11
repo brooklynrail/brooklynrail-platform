@@ -1,7 +1,7 @@
 ---
 title: "Indisposable: Tactics for Care and Mourning"
-deck: Featuring Jill H. Cassid, Pamela Sneed, Kevin Quiles Bonilla, and Ksenia
-  M. Soboleva
+deck: Featuring Jill H. Casid, Pamela Sneed, Kevin Quiles Bonilla, and Ksenia M.
+  Soboleva
 summary: "Visual Studies scholar Jill H. Casid, poet Pamela Sneed, and artist
   Kevin Quiles Bonilla join Rail contributor Ksenia M. Soboleva for a
   conversation. We conclude with a poetry reading. "
