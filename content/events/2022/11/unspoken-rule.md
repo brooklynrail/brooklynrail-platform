@@ -1,7 +1,8 @@
 ---
 title: Unspoken Rule
 deck: A New Performance Work by Carol Szymanski
-summary: Please join us at Industry City for the premier of Unspoken Rule.
+summary: Please join us at Singing in Unison Part 7 at Industry City for the
+  premiere of Unspoken Rule.
 people:
   - person: carol-szymanski
 date: 2022-11-19T17:00:00-0500
@@ -14,7 +15,7 @@ event_producer:
   - the-brooklyn-rail
 event_platform: null
 ---
-The work features a mixture of live and video action, with the collaboration of the following live performers: Anya Bernstein, Rachel Corbett, Thierry de Duve, Joan Jonas, Simone Kearney, Barry Schwabsky, Willa Schwabsky, and Matvei Yankelevich, alongside two renowned trumpet players, Sam Jones and Peter Evans. Onscreen performers: Lisa Blas, David Carrier, Paul Feinberg, Yuki Higashino, Celia Lury, Alex Robbins, Sherman Sam, Di Sherlock, Davida Schwabsky, Sophie Seita, and Xiaofu Wang.
+This performance features a mixture of live and video action, with the collaboration of the following live performers: Anya Bernstein, Rachel Corbett, Thierry de Duve, Joan Jonas, Simone Kearney, Barry Schwabsky, Willa Schwabsky, and Matvei Yankelevich, alongside two renowned trumpet players, Sam Jones and Peter Evans. Onscreen performers: Lisa Blas, David Carrier, Paul Feinberg, Yuki Higashino, Celia Lury, Alex Robbins, Sherman Sam, Di Sherlock, Davida Schwabsky, Sophie Seita, and Xiaofu Wang.
 
 {{< image media="2022/11/unspoken-rule" size="lg" >}}
 
