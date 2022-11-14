@@ -19,5 +19,7 @@ This performance features a mixture of live and video action, with the collabora
 
 {{< image media="2022/11/unspoken-rule" size="lg" >}}
 
-I﻿ndustry City\
-9﻿00 3rd Avenue, Brooklyn, NY 11232 ([map](https://goo.gl/maps/uNTYTZh9BKYEnKLP6))
+**Industry City**\
+900 3rd Avenue\
+Brooklyn, NY 11232\
+([map](https://goo.gl/maps/953wyU1UCFuWMyRJ7))
