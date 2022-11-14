@@ -1,14 +1,17 @@
 ---
 title: Alchemy, the Metaphysical, and Psychic Automism
-deck: Featuring Ann McCoy, Olga Spiegel, MM Serra, and Andrew Woolbright
+deck: Featuring Ann McCoy, Olga Spiegel, MM Serra, and Andrew Woolbright, with
+  Bianca Rae Messinger
 summary: Rail Editor-at-Large Ann McCoy, artist Olga Spiegel, and filmmaker MM
   Sera join Rail contributor Andrew Woolbright for a conversation. We conclude
-  with a poetry reading.
+  with a poetry reading by Bianca Rae Messinger.
 people:
   - person: ann-mccoy
   - person: olga-spiegel
   - person: mm-serra
   - person: andrew-paul-woolbright
+poets:
+  - person: bianca-rae-messinger
 date: 2022-11-28T13:00:00-0500
 end_date: 2022-11-28T14:30:00-0500
 series: 700
