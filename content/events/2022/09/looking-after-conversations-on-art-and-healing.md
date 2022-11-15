@@ -2,13 +2,13 @@
 title: "Looking After: Conversations on Art and Healing"
 deck: "Sick Women: The Chronic-Poetics of Feminist Art History"
 summary: Gemma Blackshaw, Alice Elisabeth Butler, and Fatema Abdoolcarim join
-  Pat Berman for a conversation, with introductions by Suzanne Hudson and Tanya
-  Sheehan. We conclude with a poetry reading by Saralee Stafford.
+  Allison Morehead for a conversation, with introductions by Suzanne Hudson and
+  Tanya Sheehan. We conclude with a poetry reading by Saralee Stafford.
 people:
   - person: gemma-blackshaw
   - person: fatema-abdoolcarim
   - person: alice-elisabeth-butler
-  - person: pat-berman
+  - person: allison-morehead
   - person: suzanne-hudson
   - person: tanya-sheehan
 date: 2022-12-01T13:00:00-0500
