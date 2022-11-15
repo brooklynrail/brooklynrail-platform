@@ -1,5 +1,6 @@
 ---
-title: "Wednesday Poetry Reading #112 Curated by Jordan Davis "
+title: "It must be a different life— five new books: A Rail Reading Curated by
+  Jordan Davis "
 deck: featuring Davis, David Blair, Sommer Browning, Nada Gordon, and Maureen Owen
 summary: Jordan Davis curates our 112th Poetry Reading with David Blair, Sommer
   Browning, Nada Gordon, and Maureen Owen
