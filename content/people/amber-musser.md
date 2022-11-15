@@ -2,7 +2,7 @@
 name: Amber Jamilla Musser
 first_name: Amber
 last_name: Musser
-short_bio: "Dr. Amber Jamilla Musser PhD is Professor of American Studies at
+short_bio: "**Dr. Amber Jamilla Musser** PhD is Professor of American Studies at
   George Washington University. She writes about race, sexuality, and
   aesthetics. She is the author of Sensational Flesh: Race, Power, and Masochism
   (NYU Press, 2014) and Sensual Excess: Queer Femininity and Brown Jouissance
