@@ -16,5 +16,5 @@ portraits:
 rail_contributor_url: https://brooklynrail.org/contributor/emmanuel-iduma
 website: https://www.mriduma.com/
 instagram: emmaiduma
-twitter: IdumaEmmanuel
+twitter: ""
 ---
