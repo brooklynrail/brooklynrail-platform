@@ -1,10 +1,11 @@
 ---
 title: "Nicky Nodjoumi: 1981"
-deck: Featuring Nodjoumi and Rail host to be announced
-summary: Artist Nicky Nodjoumi joins Rail host for a conversation. We conclude
-  with a poetry reading.
+deck: Featuring Nodjoumi and Jason Rosenfeld
+summary: Artist Nicky Nodjoumi joins Rail Editor-at-Large Jason Rosenfeld for a
+  conversation. We conclude with a poetry reading.
 people:
   - person: nicky-nodjoumi
+  - person: jason-rosenfeld
 date: 2022-11-22T13:00:00-0500
 end_date: 2022-11-22T14:30:00-0500
 series: 696
