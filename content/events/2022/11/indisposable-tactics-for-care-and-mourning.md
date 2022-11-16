@@ -1,15 +1,17 @@
 ---
 title: "Indisposable: Tactics for Care and Mourning"
 deck: Featuring Jill H. Casid, Pamela Sneed, Kevin Quiles Bonilla, and Ksenia M.
-  Soboleva
-summary: "Visual Studies scholar Jill H. Casid, poet Pamela Sneed, and artist
+  Soboleva, with Phoebe Osborne
+summary: Visual Studies scholar Jill H. Casid, poet Pamela Sneed, and artist
   Kevin Quiles Bonilla join Rail contributor Ksenia M. Soboleva for a
-  conversation. We conclude with a poetry reading. "
+  conversation. We conclude with a poetry reading by Phoebe Osborne.
 people:
   - person: jill-h-casid
   - person: pamela-sneed-1
   - person: kevin-quiles-bonilla
   - person: ksenia-m-soboleva
+poets:
+  - person: phoebe-osborne
 date: 2022-11-29T13:00:00-0500
 end_date: 2022-11-29T14:30:00-0500
 series: 701
