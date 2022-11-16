@@ -11,6 +11,8 @@ people:
   - person: allison-morehead
   - person: suzanne-hudson
   - person: tanya-sheehan
+poets:
+  - person: saralee-stafford
 date: 2022-12-01T13:00:00-0500
 end_date: 2022-12-01T14:30:00-0500
 series: 703
