@@ -1,11 +1,13 @@
 ---
 title: "Nicky Nodjoumi: 1981"
-deck: Featuring Nodjoumi and Jason Rosenfeld
+deck: Featuring Nodjoumi and Jason Rosenfeld, with Natasha Rao
 summary: Artist Nicky Nodjoumi joins Rail Editor-at-Large Jason Rosenfeld for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading by Natasha Rao.
 people:
   - person: nicky-nodjoumi
   - person: jason-rosenfeld
+poets:
+  - person: natasha-rao
 date: 2022-11-22T13:00:00-0500
 end_date: 2022-11-22T14:30:00-0500
 series: 696
