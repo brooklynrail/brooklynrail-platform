@@ -8,10 +8,8 @@ short_bio: Widely recognized as a leading curators of her generation, **Nancy
   Spector conceptualized and oversaw creative programming for the institution
   and its affiliates around the world. Spector is a recipient of many awards,
   including five International Art Critics Association Awards. She currently
-  serves as a Fellow at the Felix Gonzalez-Torres Foundation, is an
-  International Artistic Advisor for the Louis Vuitton Fondation in Paris, and
-  is a member of the Scientific Committee for Mudam, the Contemporary Art Museum
-  of Luxembourg.
+  serves as a Fellow at the Felix Gonzalez-Torres Foundation and is an
+  International Artistic Advisor for the Louis Vuitton Foundation in Paris.
 portraits:
   - media: 2022/11/nancy-spector
 website: http://www.nancyspector.org/
