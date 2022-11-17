@@ -12,6 +12,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: recNERnxngOGowlBj
 event_platform: null
 ---
 {{< image media="2022/11/conversations-with-phillip-guston" size="lg" >}}
