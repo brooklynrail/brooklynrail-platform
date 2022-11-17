@@ -1,10 +1,12 @@
 ---
 title: "Prune Nourry: Statues Also Breathe"
 deck: Featuring Nourry and Rail host to be announced
-summary: "Artist Prune Nourry joins Rail host for a conversation. We conclude
-  with a poetry reading. "
+summary: Artist Prune Nourry joins Rail host for a conversation. We conclude
+  with a poetry reading by Manal Kara.
 people:
   - person: prune-nourry
+poets:
+  - person: manal-kara
 date: 2022-12-06T13:00:00-0500
 end_date: 2022-12-06T14:30:00-0500
 series: 706
