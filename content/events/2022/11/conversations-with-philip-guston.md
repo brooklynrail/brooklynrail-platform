@@ -18,3 +18,5 @@ event_platform: null
 {{< image media="2022/11/conversations-with-phillip-guston" size="lg" >}}
 
 Art historians and critics talk with Philip Guston about his ideas and new work of the 1970’s as he moves away from Abstract Expressionism and shifts his focus to Figuration. With the participation of Roberta Smith, Jan Butterfield and Charles Shere, *Conversations with Philip Guston* becomes an intimate study of the artist’s thoughts, theories, and artistic pursuits.
+
+[V﻿isit *Philip Guston Now*, on view at The Museum of Fine Arts, Houston through January 16, 2023 →](https://www.mfah.org/exhibitions/philip-guston-now)
