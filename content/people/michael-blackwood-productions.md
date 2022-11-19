@@ -15,6 +15,6 @@ short_bio: "**Michael Blackwood Productions*** is an independent production
 portraits:
   - media: 2022/11/michael-blackwood-productions
 website: https://michaelblackwoodproductions.com/
-instagram: https://www.instagram.com/michaelblackwoodproductions/?hl=en
-twitter: https://twitter.com/MBDocumentaries
+instagram: michaelblackwoodproductions
+twitter: MBDocumentaries
 ---
