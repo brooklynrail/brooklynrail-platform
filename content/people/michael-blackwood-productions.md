@@ -12,6 +12,8 @@ short_bio: "**Michael Blackwood Productions*** is an independent production
   interest pieces for the general public. The company is dedicated to preserving
   the underlying material, and digitizing its analogue portfolio. The collection
   itself is one of the largest and most significant of its kind."
+portraits:
+  - media: 2022/11/michael-blackwood-productions
 website: https://michaelblackwoodproductions.com/
 instagram: https://www.instagram.com/michaelblackwoodproductions/?hl=en
 twitter: https://twitter.com/MBDocumentaries
