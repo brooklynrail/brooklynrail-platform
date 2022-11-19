@@ -1,7 +1,7 @@
 ---
 name: Michael Blackwood Productions
 first_name: Michael Blackwood Productions
-short_bio: "**Michael Blackwood Productions*** is an independent production
+short_bio: "**Michael Blackwood Productions** is an independent production
   company that has produced over 150 documentaries on the arts and its
   contributors, with a focus on architecture and architects, art and artists,
   dance and choreographers, and music and composers. The collection features
