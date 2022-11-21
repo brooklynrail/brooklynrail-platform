@@ -20,4 +20,4 @@ event_id: recpOUtkIuZKQiSXl
 event_platform:
   - zoom
 ---
-[V﻿isit Paint the Protest, on view at Off Paradise through January 27, 2023 →](https://offparadise.com/exhibitions/paint-the-protest/works-10/)
+[V﻿isit *Paint the Protest*, on view at Off Paradise through January 27, 2023 →](https://offparadise.com/exhibitions/paint-the-protest/works-10/)
