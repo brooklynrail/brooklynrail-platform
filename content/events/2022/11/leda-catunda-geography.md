@@ -1,10 +1,11 @@
 ---
 title: "Leda Catunda: Geography"
-deck: Featuring Catunda and Rail host to be announced
-summary: Artist Leda Catunda joins Rail host for a conversation. We conclude
-  with a poetry reading.
+deck: Featuring Catunda and Suzanne Herrera Li Puma
+summary: Artist Leda Catunda joins Rail contributor Suzanne Herrera Li Puma for
+  a conversation. We conclude with a poetry reading.
 people:
   - person: leda-catunda
+  - person: suzanne-herrera-li-puma
 date: 2022-12-09T13:00:00-0500
 end_date: 2022-12-09T14:30:00-0500
 series: 709
