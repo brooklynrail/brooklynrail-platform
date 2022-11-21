@@ -5,10 +5,10 @@ deck: Featuring Thyrza Nichols Goodeve, Sanford Kwinter, Warren Neidich, and
 summary: Please join us at Singing in Unison Part 7 at Industry City for a live
   conversation.
 people:
+  - person: warren-neidich
   - person: thyrza-nichols-goodeve
   - person: sanford-kwinter
   - person: barry-schwabsky
-  - person: warren-neidich
 date: 2022-12-05T19:00:00-0500
 end_date: 2022-12-05T21:00:00-0500
 collections:
