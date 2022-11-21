@@ -9,6 +9,7 @@ people:
   - person: zoe-tuck
 date: 2022-11-30T13:00:00-0500
 end_date: 2022-11-30T14:30:00-0500
+series: 702
 collections:
   - the-new-social-environment
 event_organizer:
