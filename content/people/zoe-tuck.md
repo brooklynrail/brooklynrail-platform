@@ -14,4 +14,5 @@ short_bio: Poet **Zoe Tuck** was born in Texas, became a person in California,
   working on an autobiographical novel.
 portraits:
   - media: 2021/12/zoe-tuck
+website: https://www.zoetuck.com/
 ---
