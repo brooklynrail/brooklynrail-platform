@@ -1,6 +1,6 @@
 ---
 title: Confronting the Stastisticon
-deck: Featuring Thyrza Nichols Goodeve, Sanford Kwinter, Warren Neidich, and
+deck: Featuring Warren Neidich, Thyrza Nichols Goodeve, Sanford Kwinter, and
   Barry Schwabsky
 summary: Please join us at Singing in Unison Part 7 at Industry City for a live
   conversation.
