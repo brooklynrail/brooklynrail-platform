@@ -1,5 +1,5 @@
 ---
-name: Alice Elisabeth Butler
+name: Alice Butler
 first_name: Alice
 last_name: Butler
 short_bio: "Interdisciplinary scholar-writer **Alice Butler** is Tutor
@@ -16,4 +16,5 @@ short_bio: "Interdisciplinary scholar-writer **Alice Butler** is Tutor
 portraits:
   - media: 2022/09/alice-elisabeth-butler
 website: http://www.alicebutler.org.uk/
+instagram: aliceelisabethbutler
 ---
