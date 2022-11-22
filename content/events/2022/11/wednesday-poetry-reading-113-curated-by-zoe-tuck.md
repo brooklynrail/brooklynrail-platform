@@ -1,5 +1,5 @@
 ---
-title: "the subterranean affiliations of the trees: A Rail Reading Curated by
+title: "The Subterranean Affiliations of the Trees: A Rail Reading Curated by
   Zoe Tuck"
 deck: Featuring Tuck, Serena Bhandar, María José Giménez, Germ Lynn and Tina
   Lentz-McMillan
