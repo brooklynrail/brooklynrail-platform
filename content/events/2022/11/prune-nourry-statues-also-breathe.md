@@ -1,6 +1,6 @@
 ---
 title: "Prune Nourry: Statues Also Breathe"
-deck: Featuring Nourry and Yasmeen Siddiqui
+deck: Featuring Nourry and Yasmeen Siddiqui, with Manal Kara
 summary: Artist Prune Nourry joins Rail contributor Yasmeen Siddiqui for a
   conversation. We conclude with a poetry reading by Manal Kara.
 people:
