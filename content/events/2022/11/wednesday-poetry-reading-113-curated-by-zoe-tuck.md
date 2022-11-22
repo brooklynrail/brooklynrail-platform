@@ -1,11 +1,12 @@
 ---
 title: "The Subterranean Affiliations of the Trees: A Rail Reading Curated by
   Zoe Tuck"
-deck: Featuring Tuck, Serena Bhandar, María José Giménez, Germ Lynn and Tina
-  Lentz-McMillan
+deck: Featuring Tuck, Serena Bhandar, María José Giménez, \Tina Lentz-McMillan
+  and Germ Lynn
 summary: Zoe Tuck curates our 113th Wednesday Poetry Reading with Serena
-  Bhandar, María José Giménez, Germ Lynn and Tina Lentz-McMillan.
+  Bhandar, María José Giménez, Tina Lentz-McMillan and Germ Lynn.
 people:
+  - person: tina-lentz-mcmillan
   - person: germ-lynn
   - person: zoe-tuck
 date: 2022-11-30T13:00:00-0500
