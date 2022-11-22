@@ -16,7 +16,7 @@ short_bio: "Scholar and curator **Allison Morehead** is Associate Professor of
   Critical Medical Humanities._ "
 portraits:
   - media: 2022/04/allison-morehead
-website: https://www.universityresearch.ca/researchers/dr-allison-morehead/
-instagram: ""
+website: https://confabulationsdotorg.wordpress.com/
+instagram: _allisonmorehead
 twitter: _allisonmorehea
 ---
