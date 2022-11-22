@@ -1,10 +1,12 @@
 ---
 title: "Gerard & Kelly: Panorama "
-deck: Featuring Brennan Gerard, Ryan Kelly, and Rail host to be announced
+deck: " Featuring Brennan Gerard, Ryan Kelly, and Rail host to be announced"
 summary: Collaborators Gerard & Kelly join Rail host for a conversation. We
-  conclude with a poetry reading.
+  conclude with a poetry reading by Violet Spurlock.
 people:
   - person: gerard-kelly
+poets:
+  - person: violet-spurlock
 date: 2022-12-12T13:00:00-0500
 end_date: 2022-12-12T14:30:00-0500
 series: 710
