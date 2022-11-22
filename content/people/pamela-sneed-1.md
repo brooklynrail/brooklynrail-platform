@@ -2,16 +2,17 @@
 name: Pamela Sneed
 first_name: Pamela
 last_name: Sneed
-short_bio: "Based in New York, **Pamela Sneed** is a poet, writer, and
-  performer. She has been featured in the  _New York Times_  Magazine, the  _New
-  Yorker_,  _Bomb_,  and other publications. She is author of  _Sweet
-  Dreams_,  _Imagine Being More Afraid of Freedom Than Slavery_,  _Kong & Other
-  Works_, chapbook  _Lincoln_  and the chaplet  _Gift_. She has performed
-  nationally and internationally at Lincoln Center, Ex-Teresa in Mexico City,
-  the Institute of Contemporary Arts in London, and elsewhere. Sneed taught at
-  Sarah Lawrence College as a guest faculty member and is an online Lecturer at
-  the School of the Art Institute of Chicago teaching the courses Human Rights
-  and Art and Writing Art. "
+short_bio: "**Pamela Sneed** is a New York based poet, performer and visual
+  artist. She is the author of _Imagine Being More Afraid of Freedom Than
+  Slavery, KONG and Other Works, Sweet Dreams_ and _Funeral Diva_, which was
+  featured in the New York Times and won the 2021 Lambda Lesbian Poetry Award.
+  She has also won the Black Queer Art Mentorship Award, a BOFFO Residency, and
+  was a finalist for New York Theater Workshop's Golden Harris Award. Sneed has
+  published in The Paris Review, Frieze, ArtForum, The Academy of American Poets
+  and more. Her visual work has been featured in group shows at Leslie Lohman
+  Museum and currently at The Ford Foundation. She is a professor at SAIC, where
+  she has been a guest artist for several years, and she teaches across
+  disciplines in Columbia University's MFA program."
 portraits:
   - media: 2022/11/pamela-sneed
 instagram: pamela_sneed
