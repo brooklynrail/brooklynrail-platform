@@ -7,4 +7,7 @@ short_bio: "**Serena Lukas Bhandar** is a writer, educator, and witch of Punjabi
   University of Calgary, where she is pursuing a creative thesis about the poet
   Sappho transposed to the modern-day world. Serena's debut chapbook of
   poetry, this dying body, was published in July with Rahila's Ghost Press."
+portraits:
+  - media: 2022/11/serena-lukas-bhandar
+website: "https://serenabhandar.com/ "
 ---
