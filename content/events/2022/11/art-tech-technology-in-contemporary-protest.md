@@ -8,6 +8,8 @@ people:
   - person: aaron-huey
   - person: nancy-spector
   - person: charlotte-kent
+poets:
+  - person: rhony-bhopla
 date: 2022-12-02T13:00:00-0500
 end_date: 2022-12-02T14:30:00-0500
 series: 704
