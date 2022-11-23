@@ -1,9 +1,9 @@
 ---
 title: "Art + Tech: Technology in Contemporary Protest"
-deck: Featuring Aaron Huey, Nancy Spector, and Charlotte Kent
+deck: Featuring Aaron Huey, Nancy Spector, and Charlotte Kent, with Rhony Bhopla
 summary: Photographer Aaron Huey and curator Nancy Spector join Rail
   Editor-at-Large Charlotte Kent for a conversation. We conclude with a poetry
-  reading.
+  reading by Rhony Bhopla.
 people:
   - person: aaron-huey
   - person: nancy-spector
