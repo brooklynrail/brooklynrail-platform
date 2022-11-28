@@ -9,11 +9,11 @@ Dear Friends and Readers,
 
 For 22 years the Brooklyn Rail has remained free for all, and has been home to critical writing on art, dance, film, music, theater, art books, literature, and world politics. 
 
-In addition to our illustrious print journal, this December will mark **700 live conversations** on the New Social Environment, our daily Zoom conversation series. 
+In addition to our illustrious print journal, this December will mark [**700 live conversations**](https://www.youtube.com/playlist?list=PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY) on the New Social Environment, our daily Zoom conversation series. 
 
 This year we also launched the first seven editions of [**Singing in Unison**](https://brooklynrail.org/2022/09/art/Singing-in-Unison-at-Industry-City), a multi-venue exhibition series that has brought together over 200 artists—young and old, taught and self-taught—as a celebration of the “Art of Joining” in our communities of the arts and humanities. 
 
-We are committed to making the arts accessible, which is why we’ve increased our distribution to over [120 locations](https://brooklynrail.org/where-to-find-us) throughout New York City and beyond, while now reaching a readership of nearly 3 million globally.
+We are committed to making the arts accessible, which is why we’ve increased our distribution to over [**120 locations**](https://brooklynrail.org/where-to-find-us) throughout New York City and beyond, while now reaching a readership of nearly 3 million globally.
 
 ### As a small non-profit, we need your support  
 
