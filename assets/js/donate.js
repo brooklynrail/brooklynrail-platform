@@ -234,7 +234,7 @@ jQuery(document).ready(function($) {
 
 		var transaction_type = document.getElementById("transaction-type").value
 		var name = transaction_type == "donation" ? "2021 Winter Campaign Donation" : "Brooklyn Rail Endowment"
-		var description = transaction_type == "donation" ? "Thank you for making a donation to the Brooklyn Rail's 2021 Winter Campaign" : "Thank you for making a donation to the Brooklyn Rail's Endowment"
+		var description = transaction_type == "donation" ? "Thank you for making a donation to the Brooklyn Rail's 2022 Winter Campaign" : "Thank you for making a donation to the Brooklyn Rail's Endowment"
 		var donationName = !!document.getElementById("donorName") ? document.getElementById("donorName").value : ""
 		var donationInstagram = !!document.getElementById("instagramHandle") ? document.getElementById("instagramHandle").value : ""
 		var consent = transaction_type == "donation" ? consentGiven() : "false"
