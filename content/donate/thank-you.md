@@ -11,7 +11,7 @@ summary: Your annual winter support keeps the Rail independent, relevant, and fr
 On behalf of the entire Brooklyn Rail staff and community, we extend our
 heartfelt thanks for your generous contribution to our year end fundraising drive.
 
-This is our 21st year as a non-profit arts organization & independent publication, your support is a vote of confidence in our mission, and stakes our shared claim to a space that will always stand for inclusive and critical voices.
+This is our 22nd year as a non-profit arts organization & independent publication, your support is a vote of confidence in our mission, and stakes our shared claim to a space that will always stand for inclusive and critical voices.
 
 Individual contributions like yours are a huge part of our support system, and will allow us to innovate and launch timely projects such as The New Social Environment, We The Immigrants, and our Radical Poetry Serie while compensating the artists & poets who do the work.
 
@@ -22,7 +22,6 @@ We thank you for your enthusiasm and friendship.
 Yours, in solidarity,
 
 — The Brooklyn Rail :heart: :rainbow:
-
 
 ```
 This letter serves as your official tax receipt, please retain it for your records. As a registered 501(c)(3) organization, your contribution to the Brooklyn Rail is fully tax-deductible. No goods or services were provided in exchange for this donation.
