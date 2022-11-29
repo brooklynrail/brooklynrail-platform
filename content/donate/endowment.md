@@ -1,7 +1,7 @@
 ---
 title: Endowment
 headline: The Brooklyn Rail Forever
-deck: For more than 21 years, the _Rail_ has been independent and free. Join the group of artists and thinkers who are working to keep it that way forever through a $10 million endowment.
+deck: For more than 22 years, the _Rail_ has been independent and free. Join the group of artists and thinkers who are working to keep it that way forever through a $10 million endowment.
 collections:
   - endowment
 summary: Help us build a fund to keep the Rail accessible for generations to come
