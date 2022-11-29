@@ -21,4 +21,4 @@ This event will be in Spanish
 
 
 
-Este evento será en epsañol
+Este evento va a ser en español
