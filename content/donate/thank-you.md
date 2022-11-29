@@ -11,7 +11,7 @@ heartfelt thanks for your generous contribution to our year end fundraising driv
 
 This is our 22nd year as a non-profit arts organization & independent publication, your support is a vote of confidence in our mission, and stakes our shared claim to a space that will always stand for inclusive and critical voices.
 
-Individual contributions like yours are a huge part of our support system, and will allow us to innovate and launch timely projects such as The New Social Environment, We The Immigrants, and our Radical Poetry Serie while compensating the artists & poets who do the work.
+Individual contributions like yours are a huge part of our support system, and will allow us to innovate and launch timely projects such as The New Social Environment, We The Immigrants, and our Singing in Unison exhibition series while compensating the artists & poets who do the work.
 
 With your support, we are poised to grow with greater clarity and commitment to produce, expand, and improve our unique vision.
 
