@@ -24,7 +24,7 @@ Yours, in solidarity,
 ```
 This letter serves as your official tax receipt, please retain it for your records. As a registered 501(c)(3) organization, your contribution to the Brooklyn Rail is fully tax-deductible. No goods or services were provided in exchange for this donation.
 ```
-Questions? Email us at [hq@brooklynrail.org](mailto:hq@brooklynrail.org)
+Questions? Email us at [donate@brooklynrail.org](mailto:donate@brooklynrail.org)
 
 ---
 
