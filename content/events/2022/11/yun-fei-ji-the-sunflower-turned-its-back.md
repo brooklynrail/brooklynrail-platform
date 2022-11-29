@@ -1,10 +1,11 @@
 ---
 title: "Yun-Fei Ji: The Sunflower Turned its Back"
-deck: Featuring Ji and Rail host to be announced
-summary: "Artist Yun-Fei Ji joins Rail host for a conversation. We conclude with
-  a poetry reading. "
+deck: Featuring Ji and Lilly Wei
+summary: "Artist Yun-Fei Ji joins Rail contributor Lilly Wei for a conversation.
+  We conclude with a poetry reading. "
 people:
   - person: yun-fei-ji
+  - person: lilly-wei
 date: 2022-12-13T13:00:00-0500
 end_date: 2022-12-13T14:30:00-0500
 series: 711
