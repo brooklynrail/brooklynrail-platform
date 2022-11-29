@@ -15,9 +15,10 @@ This year we also launched the first seven editions of [**Singing in Unison**](h
 
 We are committed to making the arts accessible, which is why we’ve increased our distribution to over [**120 locations**](https://brooklynrail.org/where-to-find-us) throughout New York City and beyond, while now reaching a readership of nearly 3 million globally.
 
+
 ### As a small non-profit, we need your support  
 
-Your contribution allows us to support the writers, editors, artists, performers, and designers who enable us to produce over 1,000 articles, 700 installments of the New Social Environment, and 7 exhibitions this year.
+Your contribution allows us to support the writers, editors, and designers who produced over 1,000 articles in print this year, as well as the artists, performers, and interviewers who make possible our endless public programming—including daily installments of the New Social Environment, poetry, music and dance performances, panel discussions, and 7 exhibits this year.
 
 - [Read through our archive of over 200 issues »](https://brooklynrail.org/archives)
 - [Explore our archive of the New Social Environment (700+ episodes) »](https://www.youtube.com/playlist?list=PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY)
