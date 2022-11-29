@@ -17,8 +17,8 @@ event_id: rec1FNwVbBgvm5q7Y
 event_platform:
   - zoom
 ---
-This event will be in Spanish! 
+This event will be in Spanish
 
 
 
-Este evento será en epsañol!
+Este evento será en epsañol
