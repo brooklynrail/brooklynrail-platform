@@ -2,15 +2,14 @@
 name: Chia-Lun Chang
 first_name: Chia-Lun
 last_name: Chang
-short_bio: "Chia-Lun Chang is the author of One Day We Become Whites (No,
-  Dear/Small Anchor Press, 2016). Recent work appears in Poetry Society of
-  America, Pinwheel, Apogee, Sink Review, Poetry Project, Brooklyn Poets, and
-  Asiya Wadud: Echo Exhibit. She has received support from Jerome Hill Artist
-  Fellowship, Lower Manhattan Cultural Council, Tofte Lake Center, Vermont
-  Studio Center, and Poets House. Chia-Lun teaches contemporary Taiwanese poetry
-  at the Brooklyn Public Library and writes for chatbots. Born and raised in New
-  Taipei City, Taiwan, she lives in New York City. "
+short_bio: Chia-Lun Chang is the author of _Prescribee_ (2022), winner of the
+  Nightboat Poetry Prize, and two chapbooks, _An Alien Well-Tamed_ and _One Day
+  We Become Whites_. She has received support from Jerome Foundation, Vermont
+  Studio Center, Tofte Lake Center, Poets House, and Lower Manhattan Cultural
+  Council among others. Chia-Lun teaches contemporary Taiwanese poetry and
+  fiction at the Brooklyn Public Library. Born and raised in New Taipei City,
+  Taiwan, she lives in Brooklyn.
 portraits:
-  - media: 2020/12/chia-lun-chang
+  - media: 2022/11/chia-lun-chang
 website: https://www.chialunchang.com
 ---
