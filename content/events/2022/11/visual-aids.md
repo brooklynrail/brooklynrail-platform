@@ -1,8 +1,8 @@
 ---
 title: Visual AIDS
-deck: Featuring Esther McGowan and Rail host to be announced
-summary: "Visual AIDS Executive Director Esther McGowan joins Rail host for a
-  conversation. We conclude with a poetry reading. "
+deck: Featuring Esther McGowan and Theodore Kerr
+summary: "Visual AIDS Executive Director Esther McGowan joins Rail contributor
+  Theodore Kerr for a conversation. We conclude with a poetry reading. "
 people:
   - person: esther-mcgowan
 date: 2022-12-08T13:00:00-0500
