@@ -12,6 +12,8 @@ short_bio: "**Miguel Alejandro Castillo** is an interdisciplinary artist from
   proud United World College alumnus and holds a bachelor’s in dance and theatre
   from Middlebury College and an M.F.A in Choreography and Performance from
   Smith College."
+portraits:
+  - media: 2022/12/miguel-alejandro-castillo
 website: http://miguelalejandro.art/
 instagram: love.entirely
 ---
