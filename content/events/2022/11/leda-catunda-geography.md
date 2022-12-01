@@ -6,6 +6,8 @@ summary: Artist Leda Catunda joins Rail contributor Suzanne Herrera Li Puma for
 people:
   - person: leda-catunda
   - person: suzanne-herrera-li-puma
+poets:
+  - person: stella-wong
 date: 2022-12-09T13:00:00-0500
 end_date: 2022-12-09T14:30:00-0500
 series: 709
