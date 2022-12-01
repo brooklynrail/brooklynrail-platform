@@ -1,11 +1,13 @@
 ---
 title: "Yun-Fei Ji: The Sunflower Turned its Back"
-deck: Featuring Ji and Lilly Wei
+deck: Featuring Ji and Lilly Wei, with Rooja Mohassessy
 summary: "Artist Yun-Fei Ji joins Rail contributor Lilly Wei for a conversation.
-  We conclude with a poetry reading. "
+  We conclude with a poetry reading by Rooja Mohassessy. "
 people:
   - person: yun-fei-ji
   - person: lilly-wei
+poets:
+  - person: rooja-mohassessy
 date: 2022-12-13T13:00:00-0500
 end_date: 2022-12-13T14:30:00-0500
 series: 711
