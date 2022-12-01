@@ -1,5 +1,5 @@
 ---
-name: Laura Henrikson
+name: Laura Henriksen
 first_name: Laura
 last_name: Henrikson
 pronouns: she/hers
