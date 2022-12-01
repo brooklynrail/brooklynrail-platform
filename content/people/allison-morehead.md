@@ -9,7 +9,7 @@ short_bio: "Scholar and curator **Allison Morehead** is Associate Professor of
   and fellowships, most recently from The Center for Advanced Study in the
   Visual Arts in Washington, DC. Their book, _Nature’s Experiments and the
   Search for Symbolist Form_ (Penn State University Press, 2017) considers
-  symbolist painting and printmaking in light of late 19th practices and
+  symbolist painting and printmaking in light of late 19th-century practices and
   discourses of psychological experimentalism. Currently, Morehead is curating
   the exhibition _Edvard Munch and the Medicalization of Modern Life_ and
   co-directing the online series _Confabulations: Art Practice, Art History, and
