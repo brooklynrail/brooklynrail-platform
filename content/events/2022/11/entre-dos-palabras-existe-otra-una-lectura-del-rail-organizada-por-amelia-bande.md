@@ -2,8 +2,8 @@
 title: "Entre Dos Palabras Existe Otra: Una Lectura del Rail Organizada por
   Amelia Bande"
 deck: con Bande, María Argel, Apolinar Islas y Yaissa Jimenez
-summary: "Amelia Bande organizes our 114th Poetry Reading (in Spanish!) with
-  María Argel, Apolinar Islas and Yaissa Jimenez  "
+summary: "Amelia Bande curates our 114th Poetry Reading (in Spanish!) with María
+  Argel, Apolinar Islas and Yaissa Jimenez  "
 people:
   - person: amelia-bande
   - person: yaissa-jimenez
