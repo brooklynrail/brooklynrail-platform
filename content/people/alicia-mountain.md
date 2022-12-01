@@ -12,4 +12,5 @@ portraits:
   - media: 2022/12/alicia-mountain
 website: https://www.aliciamountain.com/
 instagram: ammtn
+twitter: HiGroundCoward
 ---
