@@ -22,8 +22,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
-event_platform:
-  - zoom
+event_platform: null
 ---
 Curated by Tyhe Cooper, this reading features work created in response to the artworks on view in the *Rail* Curatorial Project's *Singing in Unison Part Seven: Artists Need to Create on the Same Scale that Society Has the Capacity to Destroy*, currently on view at Industry City.
 
