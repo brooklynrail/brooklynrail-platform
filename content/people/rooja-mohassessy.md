@@ -13,4 +13,5 @@ short_bio: "**Rooja Mohassessy** is an Iranian-born poet and educator. She is a
   Rumpus, and elsewhere."
 portraits:
   - media: 2022/12/rooja-mohassessy
+website: https://www.roojamohassessy.com/
 ---
