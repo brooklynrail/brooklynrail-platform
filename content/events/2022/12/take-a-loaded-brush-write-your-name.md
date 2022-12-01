@@ -13,6 +13,7 @@ people:
   - person: kyle-carrero-lopez-1
   - person: laura-henrikson
   - person: jade-manns
+  - person: alicia-mountain
   - person: owen-prum
   - person: miguel-alejandro-castillo
   - person: tyhe-cooper
