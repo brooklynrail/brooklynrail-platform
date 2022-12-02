@@ -1,8 +1,9 @@
 ---
 title: Visual AIDS
-deck: Featuring Esther McGowan and Theodore Kerr
+deck: Featuring Esther McGowan and Theodore Kerr, with Ted Rees
 summary: "Visual AIDS Executive Director Esther McGowan joins Rail contributor
-  Theodore Kerr for a conversation. We conclude with a poetry reading. "
+  Theodore Kerr for a conversation. We conclude with a poetry reading by Ted
+  Rees. "
 people:
   - person: esther-mcgowan
   - person: theodore-kerr
