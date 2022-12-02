@@ -15,6 +15,6 @@ short_bio: "From fiction to journalism and poetry to graphic stories, **Apolinar
   first inedited book of poetry. "
 portraits:
   - media: 2022/12/apolinar-islas
-instagram: apolinar_islas
+instagram: apolinar.islas
 twitter: apolinar_islas
 ---
