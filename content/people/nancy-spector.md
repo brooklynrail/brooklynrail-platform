@@ -2,7 +2,7 @@
 name: Nancy Spector
 first_name: Nancy
 last_name: Spector
-short_bio: Widely recognized as a leading curators of her generation, **Nancy
+short_bio: Widely recognized as a leading curator of her generation, **Nancy
   Spector** is an expert in contemporary art. As the Guggenheim Museum’s first
   Artistic Director and Chief Curator, a position created for her in 2017,
   Spector conceptualized and oversaw creative programming for the institution
