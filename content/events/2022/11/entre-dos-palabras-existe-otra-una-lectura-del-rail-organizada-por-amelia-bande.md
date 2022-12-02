@@ -6,6 +6,8 @@ summary: "Amelia Bande curates our 114th Poetry Reading (in Spanish!) with Marí
   Argel, Apolinar Islas and Yaissa Jimenez  "
 people:
   - person: amelia-bande
+  - person: apolinar-islas
+  - person: maria-argel
   - person: yaissa-jimenez
 date: 2022-12-07T13:00:00-0500
 end_date: 2022-12-07T14:30:00-0500
