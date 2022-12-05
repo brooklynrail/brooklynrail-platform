@@ -69,5 +69,4 @@ Mailbox 20</pre>
 
   {{ $donate_js := (resources.Get "js/donate.js" | js.Build "material/dist/donate.js" | resources.Fingerprint "sha512") -}}
   <script src="{{- $donate_js.RelPermalink -}}" {{ printf "integrity=%q" $donate_js.Data.Integrity | safeHTMLAttr }} ></script>
-  {{/* <script src="{{- "material/dist/signup.js" | relURL -}}"></script> */}}
 {{- end -}}
