@@ -3,11 +3,12 @@ name: Laura Henriksen
 first_name: Laura
 last_name: Henrikson
 pronouns: she/hers
-short_bio: Poet **Laura Henriksen** is the author of several chapbooks,
-  including _Agata_, _Canadian Girlfriends_, and _October Poems_. Her writing
-  can be found in _LitHub_, the _Brooklyn Rail_, _Newest York_, and other
-  places. She lives in Lenapehoking-Sunset Park, and works at The Poetry Project
-  as the Director of Learning & Community Engagement.
+short_bio: "**Laura Henriksen**’s first book, _Laura’s Desires_, is forthcoming
+  from Nightboat Books, and an excerpt is available now as a chaplet from
+  Belladonna*. Her writing can be found in LitHub, The Brooklyn Rail, Cul-de-Sac
+  of Blood, and other places. She lives in Sunset Park, Lenapehoking, teaches
+  writing at Pratt Institute, and works as the Program Director of The Poetry
+  Project."
 portraits:
   - media: 2021/07/laura-henrikson
 rail_contributor_url: https://brooklynrail.org/contributor/laura-henriksen
