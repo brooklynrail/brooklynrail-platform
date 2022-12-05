@@ -21,7 +21,7 @@ jQuery(document).ready(function($) {
 			}
 		});
 	}
-	// pullDonationData()
+	pullDonationData()
 	
 
 	function getDonationData(data){
