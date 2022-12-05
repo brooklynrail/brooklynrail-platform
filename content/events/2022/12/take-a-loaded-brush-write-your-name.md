@@ -17,8 +17,8 @@ people:
   - person: owen-prum
   - person: miguel-alejandro-castillo
   - person: tyhe-cooper
-date: 2022-12-10T18:00:00-0500
-end_date: 2022-12-10T20:00:00-0500
+date: 2022-12-10T17:00:00-0500
+end_date: 2022-12-10T19:00:00-0500
 collections:
   - community-listing
 event_organizer:
