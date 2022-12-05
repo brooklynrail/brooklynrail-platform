@@ -45,8 +45,7 @@
     "redux": "^4.0.5",
     "seamless-immutable": "^7.1.4",
     "stripe": "8.191.0",
-    "striptags": "^3.2.0",
-    "uuid": "8.3.2"
+    "striptags": "^3.2.0"
   },
   "devDependencies": {
     "autoprefixer": "^9.8.6",
