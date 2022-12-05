@@ -46,6 +46,11 @@ You can view your local site in the browser at `http://localhost:1313/`.
 - If HUGO has released a new version, but brooklynrail.org hasn't upgraded to that version, you may get errors when building locally. It’s possible to use Homebrew to download a previous version of Hugo. To do that follow these instructions: [Using Legecy Versions of the Hugo Static Site Generator](https://www.fernandomc.com/posts/brew-install-legacy-hugo-site-generator/)
 
 
+### Testing Netlify Functions locally
+1. install the Netlify CLI
+2. run `netlify dev`
+
+
 ### Netlify CLI
 
 [Netlify's command line interface](https://docs.netlify.com/cli/get-started/#installation) (CLI) lets you deploy sites or configure continuous deployment straight from the command line.
