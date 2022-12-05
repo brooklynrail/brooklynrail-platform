@@ -4,13 +4,14 @@ exports.handler = function(event, context, callback) {
   
   var Airtable = require('airtable');
   // Winter Campaign Data == appvW1Ad2kMh1S1T1
+  // https://airtable.com/appvW1Ad2kMh1S1T1/tblvLjFcrYeoCWOiP/viw9VsRRzuRYvIrgT?blocks=hide
   var base = new Airtable({apiKey: process.env.AIRTABLE_JZ}).base('appvW1Ad2kMh1S1T1');
   const allRecords = []
-  // Campaigns
+  // Campaigns Table
   base('tbl9k6L9O6PrTtWDc').select({
     maxRecords: 1,
-    // view: "All Campaigns"
-    view: "viwL1YpndNoMuNzUd",
+    // This ID should match the view that is named to the current year
+    view: "viw1TTUjFxfF9mFEJ",
   }).eachPage(function page(records, fetchNextPage) {
     
     records.forEach(function(record) {
