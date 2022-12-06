@@ -5,7 +5,7 @@ last_name: Rees
 short_bio: "**Ted Rees** is a poet, essayist, and editor based in Philadelphia.
   He is the author of several books, including _Dog Day Economy_ (Roof Books,
   2022), _Thanksgiving: a Poem_ (Golias Books 2020), which was a finalist for
-  a Lambda Literary Award, and _In Brazen Fontanelle Aflame_(Timeless, Infinite
+  a Lambda Literary Award, and _In Brazen Fontanelle Aflame_ (Timeless, Infinite
   Light, 2018). Chapbooks include _Dear Hole, Big Dearth in Whir_, and _the soft
   abyss_ among others. Recent essays have been published in The Poetry Project
   Newsletter, Libertines in the Ante-Room of Love: Poets on Punk, and ON
