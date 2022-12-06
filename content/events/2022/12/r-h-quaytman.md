@@ -1,6 +1,6 @@
 ---
 title: R.H. Quaytman
-deck: Featuring Quaytman and Felix Bernstein
+deck: Featuring Quaytman and Felix Bernstein, with Krystal Languell
 summary: Artist R.H. Quaytman joins Rail contributor Felix Bernstein for a
   conversation. We conclude with a poetry reading by Krystal Languell.
 people:
