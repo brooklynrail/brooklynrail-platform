@@ -7,6 +7,8 @@ summary: "Visual AIDS Executive Director Esther McGowan joins Rail contributor
 people:
   - person: esther-mcgowan
   - person: theodore-kerr
+poets:
+  - person: ted-rees
 date: 2022-12-08T13:00:00-0500
 end_date: 2022-12-08T14:30:00-0500
 series: 708
