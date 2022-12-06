@@ -1,6 +1,6 @@
 ---
 title: "Publishing in Transit: The Poetry Project"
-deck: Featuring Kyle Dacuyan, Morgan Võ, Cassandra Gillig, and Cole Swensen
+deck: Featuring Kyle Dacuyan, Morgan Vō, Cassandra Gillig, and Cole Swensen
 summary: The Poetry Project's Executive Director Kyle Dacuyan and members Morgan
   Vō and Cassandra Gillig join Rail contributor Cole Swensen for a conversation.
   We conclude with a poetry reading.
