@@ -1,8 +1,8 @@
 ---
 title: "Alex Katz: Gathering"
 deck: Featuring Robert Storr, David Salle, and Phong H. Bui
-summary: "Art critic Robert Storr and artist David Salle join Rail publisher
-  Phong H. Bui for a conversation. We conclude with a poetry reading, "
+summary: Art critic Robert Storr and artist David Salle join Rail publisher
+  Phong H. Bui for a conversation. We conclude with a poetry reading.
 people:
   - person: robert-storr
   - person: david-salle
