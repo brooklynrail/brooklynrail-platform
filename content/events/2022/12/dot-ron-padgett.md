@@ -19,4 +19,4 @@ event_id: rec6VK1kwQkVBfAz0
 event_platform:
   - zoom
 ---
-Get your copy of *[Dot](https://coffeehousepress.org/products/dot)*, by Rond Padgett just out from Coffee House Press !
+Get your copy of *[Dot](https://coffeehousepress.org/products/dot)*, by Ron Padgett just out from Coffee House Press !
