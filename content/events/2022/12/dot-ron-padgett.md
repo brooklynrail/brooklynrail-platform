@@ -1,6 +1,6 @@
 ---
 title: "Ron Padgett: Dot"
-deck: "featuring Padgett and Anselm Berrigan "
+deck: "Featuring Padgett and Anselm Berrigan "
 summary: "Ron Padgett reads from his new book Dot (Coffee House Press, 2022),
   followed by a discussion between Padgett and Anselm Berrigan. "
 people:
