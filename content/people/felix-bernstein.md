@@ -9,5 +9,6 @@ short_bio: "**Felix Bernstein** is the author of _Notes on Post-Conceptual
   in January 2016."
 portraits:
   - media: 2022/12/felix-bernstein
+rail_contributor_url: https://brooklynrail.org/contributor/felix-bernstein
 website: https://felixbernstein.com/
 ---
