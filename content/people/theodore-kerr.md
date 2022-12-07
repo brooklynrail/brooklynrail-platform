@@ -8,6 +8,7 @@ short_bio: "**Theodore (ted) Kerr** is a writer and organizer. He is a founding
   CULTURAL PRODUCTION._ "
 portraits:
   - media: 2022/12/theodore-kerr
+rail_contributor_url: https://brooklynrail.org/contributor/Theodore-Kerr
 website: http://hivdoula.work/
 instagram: tedkerr
 twitter: TheodoreKerr1
