@@ -1,8 +1,8 @@
 ---
 title: "Ron Padgett: Dot"
 deck: "Featuring Padgett and Anselm Berrigan "
-summary: "Ron Padgett reads from his new book Dot (Coffee House Press, 2022),
-  followed by a discussion between Padgett and Anselm Berrigan. "
+summary: "Ron Padgett reads from his new book Dot (Coffee House Press), followed
+  by a discussion between Padgett and Anselm Berrigan. "
 people:
   - person: ron-padgett
   - person: anselm-berrigan
@@ -19,4 +19,4 @@ event_id: rec6VK1kwQkVBfAz0
 event_platform:
   - zoom
 ---
-Get your copy of *[Dot](https://coffeehousepress.org/products/dot)*, by Ron Padgett just out from Coffee House Press !
+Get your copy of *[Dot](https://coffeehousepress.org/products/dot)*, by Ron Padgett just out from Coffee House Press!
