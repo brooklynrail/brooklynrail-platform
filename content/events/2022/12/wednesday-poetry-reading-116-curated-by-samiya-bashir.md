@@ -1,8 +1,8 @@
 ---
 title: "Wednesday Poetry Reading #116 Curated by Samiya Bashir"
-deck: "Featuring Bashir, Carmen Giménez Smith and Adrian Matejka  "
-summary: "Samiya Bashir curates our 116th Poetry Reading with Carmen Giménez
-  Smith and Adrian Matejka  "
+deck: "Featuring Bashir, Carmen Giménez Smith, and Adrian Matejka  "
+summary: Samiya Bashir curates our 116th Poetry Reading with Carmen Giménez
+  Smith and Adrian Matejka.
 people:
   - person: samiya-bashir-1
   - person: carmen-gimenez-smith-1
