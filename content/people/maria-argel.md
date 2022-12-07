@@ -10,5 +10,5 @@ short_bio: "**María Argel** (1993) grew up in Montelíbano, a town in the
   also working on a group of poems based on female characters in movies. "
 portraits:
   - media: 2022/12/maria-argel
-instagram: " mariaargelguerra"
+instagram: mariaargelguerra
 ---
