@@ -1,8 +1,8 @@
 ---
 title: "Leda Catunda: Geography"
-deck: Featuring Catunda and Suzanne Herrera Li Puma
+deck: Featuring Catunda and Suzanne Herrera Li Puma, with Stella Wong
 summary: Artist Leda Catunda joins Rail contributor Suzanne Herrera Li Puma for
-  a conversation. We conclude with a poetry reading.
+  a conversation. We conclude with a poetry reading by Stella Wong.
 people:
   - person: leda-catunda
   - person: suzanne-herrera-li-puma
