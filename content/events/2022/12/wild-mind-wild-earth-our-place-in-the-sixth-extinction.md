@@ -1,11 +1,13 @@
 ---
 title: "Wild Mind, Wild Earth: Our Place in the Sixth Extinction "
-deck: Featuring David Hinton and Phong H. Bui
+deck: Featuring David Hinton and Phong H. Bui, with Jacob Bromberg
 summary: "Poet David Hinton joins Rail publisher and artistic director Phong H.
   Bui for a conversation. We conclude with a poetry reading. "
 people:
   - person: david-hinton
   - person: phong-h-bui
+poets:
+  - person: jacob-bromberg
 date: 2022-12-15T13:00:00-0500
 end_date: 2022-12-15T14:30:00-0500
 series: 713
