@@ -1,10 +1,11 @@
 ---
 title: "Heather Hart: She Cuts Through Worlds"
-deck: Featuring Hart and Rail host to be announced
-summary: "Artist Heather Hart joins Rail host for a conversation. We conclude
-  with a poetry reading. "
+deck: Featuring Hart and Zoë Hopkins
+summary: Artist Heather Hart joins Rail contributor Zoë Hopkins for a
+  conversation. We conclude with a poetry reading by Woogee Bae.
 people:
   - person: heather-hart
+  - person: zoe-hopkins
 date: 2022-12-20T13:00:00-0500
 end_date: 2022-12-20T14:30:00-0500
 series: 716
