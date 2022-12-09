@@ -2,8 +2,8 @@
 title: "Gerard & Kelly: Panorama "
 deck: " Featuring Brennan Gerard, Ryan Kelly, and Charles Shafaieh, with Violet
   Spurlock"
-summary: Collaborators Gerard & Kelly join Rail host for a conversation. We
-  conclude with a poetry reading by Violet Spurlock.
+summary: Collaborators Gerard & Kelly join Charles Shafaieh for a conversation.
+  We conclude with a poetry reading by Violet Spurlock.
 people:
   - person: gerard-kelly
   - person: charles-shafaieh
