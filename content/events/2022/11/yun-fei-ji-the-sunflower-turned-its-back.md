@@ -1,5 +1,5 @@
 ---
-title: "Yun-Fei Ji: The Sunflower Turned its Back"
+title: "Yun-Fei Ji: The Sunflower Turned Its Back"
 deck: Featuring Ji and Lilly Wei, with Rooja Mohassessy
 summary: "Artist Yun-Fei Ji joins Rail contributor Lilly Wei for a conversation.
   We conclude with a poetry reading by Rooja Mohassessy. "
@@ -21,4 +21,4 @@ event_id: reckALAJYXZufnqaP
 event_platform:
   - zoom
 ---
-[V﻿isit Yun-Fei Ji: *The Sunflower Turned its Back*, on view at James Cohan Gallery through January 7, 2023 →](https://www.jamescohan.com/exhibitions/yun-fei-ji5)
+[V﻿isit Yun-Fei Ji: *The Sunflower Turned Its Back*, on view at James Cohan Gallery through January 7, 2023 →](https://www.jamescohan.com/exhibitions/yun-fei-ji5)
