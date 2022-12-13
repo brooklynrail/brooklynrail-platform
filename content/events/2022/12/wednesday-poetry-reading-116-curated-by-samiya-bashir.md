@@ -4,8 +4,9 @@ deck: "Featuring Bashir, Carmen Giménez Smith, and Adrian Matejka  "
 summary: Samiya Bashir curates our 116th Poetry Reading with Carmen Giménez
   Smith and Adrian Matejka.
 people:
-  - person: samiya-bashir-1
   - person: carmen-gimenez-smith-1
+  - person: adrian-matejka
+  - person: samiya-bashir-1
 date: 2022-12-21T13:00:00-0500
 end_date: 2022-12-21T14:30:00-0500
 series: 717
