@@ -2,7 +2,7 @@
 name: Alison de Lima Greene
 first_name: Alison de Lima
 last_name: Greene
-short_bio: "** Alison de Lima Greene** is Curator of Contemporary Art & Special
+short_bio: "**Alison de Lima Greene** is Curator of Contemporary Art & Special
   Projects at the Museum of Fine Arts, Houston. Before coming to Texas, Ms.
   Greene worked in the department of European Paintings at the Metropolitan
   Museum of Art and lectured at The Cooper Union. She graduated cum laude from
