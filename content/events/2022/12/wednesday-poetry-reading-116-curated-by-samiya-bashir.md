@@ -1,5 +1,5 @@
 ---
-title: "SLACKERS, 3 GenX Poets on Place & Power: A Rail Reading Curated by
+title: "SLACKERS: 3 GenX Poets on Place & Power, A Rail Reading Curated by
   Samiya Bashir"
 deck: "Featuring Bashir, Carmen Giménez Smith, and Adrian Matejka  "
 summary: Samiya Bashir curates our 116th Poetry Reading with Carmen Giménez
