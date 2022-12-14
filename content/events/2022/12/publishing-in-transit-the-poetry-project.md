@@ -8,6 +8,7 @@ people:
   - person: kyle-dacuyan-1
   - person: morgan-vo-1
   - person: cassandra-gillig
+  - person: cole-swensen
 date: 2022-12-22T13:00:00-0500
 end_date: 2022-12-22T14:30:00-0500
 series: 718
