@@ -1,17 +1,18 @@
 ---
 name: Heather Hart
-first_name: Heather
+first_name: "Heather "
 last_name: Hart
-short_bio: Through her interdisciplinary practice, **Heather Hart** fuses
+short_bio: "Through her interdisciplinary practice **Heather Hart** fuses
   fabricated and historical belief systems; legends that have been bequeathed
-  through generations mixed with invention and intuition. She creates new
-  rituals to empower the individual; in her words, she makes oracles. These
-  works on paper depict a kind of enigmatic nature of a space, exploring
-  inherited forms, the phenomenology of nostalgic architecture, and PTSD. There
-  is a reference to power and imagining these narratives using it to tear the
-  roof off, thus unearthing an idea of ‘home’ and also demonstrating a cosmic
-  energy and explaining something inconceivable. Born in Seattle, WA, Hart lives
-  and works in Brooklyn, NY.
+  through generations mixed with invention and intuition. She is captivated by
+  the slippage, the liminal space, between truth and fiction, oral and written
+  histories; between what one says and what the other hears. Hart is interested
+  in the communication between the public and the artist, the public and the
+  work, and public with each other in a space. She is interested in cognition as
+  it intersects with the built environment, historical records and the Black
+  fantastic. Hart co-founded the nonprofit Black Lunch Table, most recently was
+  a Fellow at the Radcliffe Institute for Advanced Study at Harvard, and is an
+  Assistant Professor at Rutgers University. "
 portraits:
   - media: 2022/12/heather-hart
 website: https://www.heather-hart.com/
