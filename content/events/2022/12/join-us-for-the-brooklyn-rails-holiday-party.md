@@ -1,12 +1,11 @@
 ---
 title: Join us for the Brooklyn Rail's holiday party!
-deck: ""
-summary: We would love to see you this Saturday, December 17th, at our holiday
-  party in celebration of the Rail’s 22nd anniversary, featuring music by Ear
-  Yoga Ensemble and a cooking performance by Rirkrit Tiravanija, Tomas Vu, and
-  co.
+deck: We would love to see you this Saturday, December 17th, at our holiday
+  party in celebration of the Rail’s 22nd anniversary.
+summary: Featuring music by Ear Yoga Ensemble and a cooking performance by
+  Rirkrit Tiravanija, Tomas Vu, and co.
 date: 2022-12-17T17:00:00-0500
-end_date: 2022-12-17T21:30:00-0500
+end_date: 2022-12-17T21:00:00-0500
 collections:
   - community-listing
 event_organizer:
