@@ -2,9 +2,9 @@
 title: "Alex Katz: Gathering"
 deck: Featuring Robert Storr, David Salle, Jordan Casteel, and Phong H. Bui,
   with Parker Menzimer
-summary: Art critic Robert Storr and artists David Salle and Jordan Casteel join
-  Rail Publisher and Artistic Director Phong H. Bui for a conversation. We
-  conclude with a poetry reading by Parker Menzimer.
+summary: Artists Robert Storr, David Salle, and Jordan Casteel join Rail
+  Publisher and Artistic Director Phong H. Bui for a conversation. We conclude
+  with a poetry reading by Parker Menzimer.
 people:
   - person: robert-storr
   - person: david-salle
