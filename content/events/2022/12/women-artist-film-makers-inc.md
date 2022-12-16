@@ -1,9 +1,10 @@
 ---
 title: "Women Artist Filmmakers Inc. "
 deck: A screening series curated by our friends The Film-Makers' Cooperative
-summary: "To kick off our holiday screening series, we are pleased to present a
+summary: To kick off our holiday screening series, we are pleased to present a
   compilation of eight films by women artist filmmakers, curated by our friends
-  at The Film-Makers' Cooperative. "
+  at The Film-Makers' Cooperative. Register to receive a 24-hour access link to
+  the films.
 people:
   - person: film-makers-cooperative
 date: 2022-12-23T00:00:00-0500
