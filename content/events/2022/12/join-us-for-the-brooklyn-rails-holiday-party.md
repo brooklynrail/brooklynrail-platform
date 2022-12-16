@@ -24,3 +24,5 @@ We’ll have refreshments from Two Robbers Hard Seltzer, Hiatus Tequila, Five Bo
 900 3rd Avenue\
 Brooklyn, NY 11232\
 ([map](https://goo.gl/maps/953wyU1UCFuWMyRJ7))
+
+{{< image media="2022/06/artists-need-to-create-etc" size="lg" >}}
