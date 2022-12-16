@@ -1,7 +1,9 @@
 ---
 title: "Women Artist Film-Makers' Inc. "
 deck: A screening series curated by The Film-Makers' Cooperative
-summary: "Please register for access to 8 short films by women filmmakers. "
+summary: To kick off our holiday screening series, we are pleased to present a
+  compilation of eight films by women filmmakers, curated by our friends at The
+  Film-Makers' Cooperative.
 people: []
 date: 2022-12-23T00:00:00-0500
 end_date: 2022-12-23T23:59:00-0500
@@ -46,5 +48,3 @@ Doris Chase, *Circles II* (1972, color, sound, 14 min)
 Olga Spiegel, *Psychereel* (1978, color, sound, 12 min)
 
 {{< image media="2022/12/olga-spiegel-psychereel" size="md" >}}
-
-[M﻿ore on Film-Makers' Cooperative →](https://film-makerscoop.com/)
