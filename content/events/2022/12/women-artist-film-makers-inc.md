@@ -1,13 +1,13 @@
 ---
 title: "Women Artist Filmmakers Inc. "
-deck: A screening series curated by our friends The Film-Makers' Cooperative
-summary: "To kick off our holiday screening series, we are pleased to present a
+deck: A screening series curated by our friends at The Film-Makers' Cooperative
+summary: "To kick off our holiday screening series, we are thrilled to present a
   compilation of eight films by women artist filmmakers, curated by our friends
   at The Film-Makers' Cooperative. "
 people: []
 date: 2022-12-23T00:00:00-0500
 end_date: 2022-12-23T23:59:00-0500
-series: 719
+series: ""
 collections:
   - screening
 event_organizer:
@@ -31,7 +31,7 @@ Silvianna Goldsmith, *Hearts, Chains and Flowers* (1995, color, sound, 8 min)
 
 Maria Beatty, *Imaging Her Erotics: Carolee Schneemann* (1993, color, sound, 5 min)
 
-{{< image media=" 2022/12/maria-beatty-imaging-her-erotics-carolee-schneemann" size="lg" >}}
+{{< image media="2022/12/maria-beatty-imaging-her-erotics-carolee-schneemann" size="lg" >}}
 
 Maria Lassnig, *Self Portrait* (1973, color, sound, 5 min)
 
@@ -48,5 +48,3 @@ Doris Chase, *Circles II* (1972, color, sound, 14 min)
 Olga Spiegel, *Psychereel* (1978, color, sound, 12 min)
 
 {{< image media="2022/12/olga-spiegel-psychereel" size="md" >}}
-
-[M﻿ore on Film-Makers' Cooperative →](https://film-makerscoop.com/)
