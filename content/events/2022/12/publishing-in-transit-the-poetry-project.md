@@ -1,13 +1,13 @@
 ---
 title: "Publishing in Transit: The Poetry Project"
-deck: Featuring Kyle Dacuyan, Morgan Võ, Cassandra Gillig, and Cole Swensen
-summary: The Poetry Project's Executive Director Kyle Dacuyan and members Morgan
-  Võ and Cassandra Gillig join Rail contributor Cole Swensen for a conversation.
-  We conclude with a poetry reading.
+deck: Featuring Kyle Dacuyan, Ethan Philbrick, Patricia Spears Jones, and Cole
+  Swensen
+summary: The Poetry Project's Executive Director Kyle Dacuyan, former curator
+  Ethan Philbrick, and former staff Patricia Spears Jones join Rail contributor
+  Cole Swensen for a conversation. We conclude with a poetry reading.
 people:
   - person: kyle-dacuyan-1
-  - person: morgan-vo-1
-  - person: cassandra-gillig
+  - person: ethan-philbrick
   - person: cole-swensen
 date: 2022-12-22T13:00:00-0500
 end_date: 2022-12-22T14:30:00-0500
