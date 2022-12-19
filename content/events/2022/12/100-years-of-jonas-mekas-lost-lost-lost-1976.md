@@ -1,9 +1,12 @@
 ---
 title: '100 Years of Jonas Mekas: "Lost, Lost, Lost" (1976)'
 deck: Reel 1
-summary: Please join us for a screening series featuring the six reels of "Lost,
-  Lost, Lost" by Jonas Mekas, curated in collaboration with our friends at The
-  Film-Makers' Cooperative. Register to receive a link to access the film.
+summary: Please join us for a screening series of the six reels of “Lost, Lost,
+  Lost” by Jonas Mekas, curated in collaboration with our friends at The
+  Film-Makers’ Cooperative. We'll make a new reel available each day the week of
+  December 26. Register here to receive a link to access reel 1. Register for
+  all days from December 26-30 to receive access to all of the reels over the
+  course of the week.
 people:
   - person: film-makers-cooperative
 date: 2022-12-26T00:00:00-0500
