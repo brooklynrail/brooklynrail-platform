@@ -4,6 +4,7 @@ deck: Featuring William and Charles Schultz, with Ugochi Egonu
 summary: Didier William joins Rail Managing Editor Charles Schultz for a
   conversation. We conclude with a poetry reading by Ugochi Egonu.
 people:
+  - person: didier-william
   - person: charles-schultz
 date: 2023-01-10T13:00:00-0500
 end_date: 2023-01-10T14:30:00-0500
