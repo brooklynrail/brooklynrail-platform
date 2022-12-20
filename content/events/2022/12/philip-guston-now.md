@@ -2,9 +2,11 @@
 title: Philip Guston Now
 deck: Featuring Alison de Lima Greene and Rail host to be announced
 summary: Curator Alison de Lima Greene joins Rail host for a conversation. We
-  conclude with a poetry meeting.
+  conclude with a poetry reading by Simon Schuchat.
 people:
   - person: alison-de-lima-greene
+poets:
+  - person: simon-schuchat
 date: 2023-01-06T13:00:00-0500
 end_date: 2023-01-06T14:30:00-0500
 series: 719
