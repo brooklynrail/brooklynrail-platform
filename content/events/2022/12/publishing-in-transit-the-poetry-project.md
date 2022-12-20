@@ -8,6 +8,7 @@ summary: The Poetry Project's Executive Director Kyle Dacuyan, former curator
 people:
   - person: kyle-dacuyan-1
   - person: ethan-philbrick
+  - person: patricia-spears-jones-1
   - person: cole-swensen
 date: 2022-12-22T13:00:00-0500
 end_date: 2022-12-22T14:30:00-0500
