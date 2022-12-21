@@ -13,6 +13,6 @@ short_bio: "**Victoria Chang**’s forthcoming book of poems, _With My Back to
   Distinguished Faculty at Antioch’s low-residency MFA Program, and she is the
   poetry editor of the New York Times. "
 portraits:
-  - media: 2022/12/victoria-chang
+  - media: 2021/04/victoria-chang
 website: https://victoriachangpoet.com/
 ---
