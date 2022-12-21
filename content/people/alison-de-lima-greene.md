@@ -7,7 +7,7 @@ short_bio: "**Alison de Lima Greene** is the Isabel Brown Wilson Curator of
   at the Center for Curatorial Leadership, she has organized numerous
   exhibitions, and her recent projects have profiled Mark Rothko, Mike and Doug
   Starn, and Pipilotti Rist. Working closely with Harry Cooper, Kate Nesin, and
-  Mark Godfrey, she co-curated _Philip Guston Now_, on view in Houston through
+  Mark Godfrey, she co-curated _Philip Guston Now,_ on view in Houston through
   January 16, 2023."
 portraits:
   - media: 2021/03/alison-de-lima-greene
