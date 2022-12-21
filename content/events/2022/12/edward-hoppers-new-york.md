@@ -2,9 +2,9 @@
 title: Edward Hopper's New York
 deck: Featuring Sam Messer, Danielle McKinney, and Jason Rosenfeld, with
   Victoria Chang
-summary: Sam Messer and Danielle McKinney join Rail Editor-at-Large Jason
-  Rosenfeld for a conversation. We conclude with a poetry reading by Victoria
-  Chang.
+summary: Artists Sam Messer and Danielle McKinney join Rail Editor-at-Large
+  Jason Rosenfeld for a conversation. We conclude with a poetry reading by
+  Victoria Chang.
 people:
   - person: sam-messer
   - person: jason-rosenfeld
