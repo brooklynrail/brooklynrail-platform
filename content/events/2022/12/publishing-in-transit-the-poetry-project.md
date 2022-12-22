@@ -1,5 +1,5 @@
 ---
-title: "Publishing in Transit: The Poetry Project"
+title: "Publishing-in-Transit: The Poetry Project"
 deck: Featuring Kyle Dacuyan, Ethan Philbrick, Patricia Spears Jones, and Cole
   Swensen
 summary: The Poetry Project's Executive Director Kyle Dacuyan, former curator
@@ -23,4 +23,4 @@ event_id: recbFB63AUbcPJQOp
 event_platform:
   - zoom
 ---
-[M﻿ore on the Poetry Project →](https://www.poetryproject.org/)
+[M﻿ore on The Poetry Project →](https://www.poetryproject.org/)
