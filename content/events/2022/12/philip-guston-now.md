@@ -1,12 +1,13 @@
 ---
 title: Philip Guston Now
-deck: Featuring Alison de Lima Greene and Debra Bricker Balken
-summary: Curator Alison de Lima Greene joins Rail contributor Debra Bricker
-  Balken for a conversation. We conclude with a poetry reading by Simon
-  Schuchat.
+deck: Featuring Alison de Lima Greene, Kelly Baum, and Debra Bricker Balken
+summary: Curators Alison de Lima Greene and Kelly Baum join Rail contributor
+  Debra Bricker Balken for a conversation. We conclude with a poetry reading by
+  Simon Schuchat.
 people:
   - person: alison-de-lima-greene
   - person: debra-bricker-balken
+  - person: kelly-baum
 poets:
   - person: simon-schuchat
 date: 2023-01-06T13:00:00-0500
