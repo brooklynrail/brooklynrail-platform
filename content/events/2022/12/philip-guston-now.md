@@ -6,8 +6,8 @@ summary: Curators Alison de Lima Greene and Kelly Baum join Rail contributor
   Simon Schuchat.
 people:
   - person: alison-de-lima-greene
-  - person: debra-bricker-balken
   - person: kelly-baum
+  - person: debra-bricker-balken
 poets:
   - person: simon-schuchat
 date: 2023-01-06T13:00:00-0500
