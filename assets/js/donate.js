@@ -301,7 +301,7 @@ jQuery(document).ready(function($) {
 			if (distance < 0) {
 
 				clearInterval(timer);
-				document.getElementById('countdown').innerHTML = 'EXPIRED!';
+				document.getElementById('countdown').remove()
 
 				return;
 			}
