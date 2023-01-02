@@ -27,11 +27,12 @@ jQuery(document).ready(function($) {
 	function getDonationData(data){
 		// Get the Array of records
 		jQuery(data.records).each(function(i, item) {
-			var goal = 100000;
+			var goal = 150000;
 			var currentAmount = item.fields['Total'];
 			if (!!currentAmount && currentAmount != ""){
 				var percentComplete = (currentAmount/goal)*100;
 				var percentComplete = percentComplete > 10 ? (Math.round(percentComplete * 100) / 100)  : 15;
+				
 				$(".progressBar .currentAmountSlider").css({"width": percentComplete + '%'});
 				$(".progressText .currentAmount").text('$' + currentAmount.toLocaleString());
 			}
