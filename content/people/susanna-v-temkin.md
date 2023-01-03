@@ -11,7 +11,7 @@ short_bio: "**Susanna V. Temkin** is Curator at El Museo del Barrio, where she
   where she assisted in co-authoring the digital catalogue raisonné of artist
   Joaquín Torres-García. Temkin has published essays and reviews in exhibition
   catalogues and magazines including the Metropolitan Museum of Art’s _Alice
-  Neel: People Come First; _Rutgers Art Review; Burlington Magazine;_ among
+  Neel: People Come First; Rutgers Art Review; Burlington Magazine;_ among
   others."
 portraits:
   - media: 2022/12/susanna-v-temkin
