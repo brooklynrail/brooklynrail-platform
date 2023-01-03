@@ -1,9 +1,9 @@
 ---
 title: "Juan Francisco Elso: Por América"
-deck: "Featuring curators Olga Viso and Susanna V. Temkin and Rail host to be
-  announced "
-summary: Exhibition curators Olga Viso and Susanna V. Temkin join Rail host for
-  a conversation. We conclude with a poetry reading by Irene Vázquez.
+deck: Featuring Olga Viso, Susanna V. Temkin, José Falconi, and Monica Espinel
+summary: Exhibition curators Olga Viso and Susanna V. Temkin join Rail
+  contributors José Falconi and Monica Espinel for a conversation. We conclude
+  with a poetry reading by Irene Vázquez.
 people:
   - person: olga-viso
   - person: susanna-v-temkin
