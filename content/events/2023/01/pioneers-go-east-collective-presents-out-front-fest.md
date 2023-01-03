@@ -13,8 +13,6 @@ event_producer:
   - the-brooklyn-rail
 event_platform: null
 ---
-{{< image media="2023/01/hyperallergic-banner" size="lg" >}}
-
 Launched in partnership with The LGBT Community Center, Out-FRONT! Fest. is a dance, film, and cross-disciplinary festival championing the voices of LGBTQ and Feminist artists for a lively exchange of art and culture. Curated by Gian Marco Riccardo Lo Forte, Hilary Brown-Istrefi, and Philip Treviño, each evening, witness different generations of artists exploring bold performance modes for a lively exchange of art and culture. 
 
 Free performances + films. Donations suggested. All are welcome!
@@ -38,14 +36,17 @@ About The Kitchen Sink Wrangler at the Midnight Rodeo: An exploration into the a
 
 {{< image media="2023/01/symara-johnson" size="lg" >}}
 
+
+
 **Arien Wilkerson with Chloe Newton and Kwami Winfield
 835 Hours of Hope & Despair** 
-Saturday, January 14 at 8 pm & Sunday, January 15, at 5.30 pm
-
+Saturday, January 14 at 8 pm & Sunday, January 15, at 5.30 pm\
 About 835 Hours of Hope &amp; Despair: A multidisciplinary work reflecting on gender, labor, queerness,
 and the geographic boundaries that have affected creative paths for young queer Black artists. We to
 shape a dance celebrating Black, radical, “poz” trans, and nonbinary traditions to entertain, share joy,
 and explore self-awareness.
+
+{{< image media="2023/01/arien-wilkerson-and-chloe-newtown-photo-by-joe-condre" size="lg" >}}
 
 
 
@@ -53,6 +54,8 @@ and explore self-awareness.
 Electric Blue**
 Friday, January 13 & Saturday, January 14, 6–8 pm
 Audience members may come and go during the hours of the performance installation. About Electric Blue: A dance-theater installation inspired by radical queer thought-provoking literary icon Allen Ginsberg. A meditation on creative agency and censorship, Electric Blue celebrates past and present LGBTQ resilience in pursuit of artistic freedom.
+
+{{< image media="2023/01/pioneers-go-east-collective-featuring-joey-kipp-and-daniel-diaz-photo-credit" size="lg" >}}
 
 
 
@@ -62,10 +65,16 @@ Salt and Spirit** 
 Tuesday, January 17, at 7 pm & Thursday, January 19, at 8 pm
 About Salt and Spirit: A dance of many myths and a song for stilling, it continues the nonlinear stories of N I L E and Trinity. Original sound by Hearn in collaboration with Lily Gelfand and Angie Pittman, with additional design by Athena Kokoronis of DPA, Salt and Spirit is a layering of remembered recipes, unkempt stories, and forgotten adornments.
 
+{{< image media="2023/01/jasmine-hearn-photo-by-sonja-stavrova" size="lg" >}}
+
+
+
 **ALEXA Grae
 COLLUSIONS OF GRANDEUR - transfiguration** 
 Tuesday, January 17 & Wednesday, January 18, at 8 pm
 About COLLUSIONS OF GRANDEUR – transfiguration: A surrealist multimedia opera engaging stories manifested through body evolutions A place where messages of trans and queer identity, spiritual downloads, ADHD, Blackness, and magic interact. The work opens up Afrofuturistic visions, justice strategies, and fantastical thoughts. Vocalized joy poems bend genres and arias of longing evoke a grand opera thrust into the multiverse.
+
+{{< image media="2023/01/alexa-grae-photo-by-jon-wes" size="lg" >}}
 
 
 
@@ -73,6 +82,8 @@ About COLLUSIONS OF GRANDEUR – transfiguration: A surrealist multimedia opera
 Listen to your Mother**
 Wednesday, January 18 & Thursday, January 19, at 7 pm
 About Listen to your Mother: Redefining the place of mothers, artists, and immigrants in the United States. The work is part of a research/choreographic art project by Lenzu to capture histories, testimonials, and experiences of mothers who are immigrants and artists living and working in New York City to create dialogue, appreciation, and social support. Music landscape, technology advising, and multimedia by Todd Carroll. Creative collaborator: Fernando Santiago. Mask design by Lenzu.
+
+{{< image media="2023/01/anabella-lenzu-photo-by-todd-carroll" size="lg" >}}
 
 
 
@@ -85,6 +96,10 @@ Screening: The Gallery at The Center.
 *40 Gestures to Remind You, You’re Still Here* by Cara Hagan
 *Sandia* by Angela Schöpke Gonzalez in collaboration with Mario Vircha
 *Digital Intimacy* by Zach Rothman-Hicks
+
+{{< image media="2023/01/still-from-the-movie-sandia-featuring-mario-vircha-and-angela-schöpke-gonzalez" size="lg" >}}
+
+
 
 Accessibility: The LGBT Community Center is a wheelchair accessible space.
 The introductions for each event will be scripted with captioning shown through projection.
