@@ -5,8 +5,8 @@ summary: Artist Alvaro Barrington joins Rail host for a conversation. We
   conclude with a poetry reading.
 people:
   - person: alvaro-barrington
-date: 2023-01-03T13:56:00-0500
-end_date: 2023-01-03T13:56:00-0500
+date: 2023-01-20T13:00:00-0500
+end_date: 2023-01-20T14:30:00-0500
 series: 729
 collections:
   - the-new-social-environment
