@@ -2,16 +2,17 @@
 name: Olga Viso
 first_name: Olga
 last_name: Viso
-short_bio: Curator, writer, and contemporary art historian **Olga Viso** is
-  based at Arizona State University's Herberger Institute for Design and the
-  Arts. Viso was previously the Executive Director of the Walker Art Center in
-  Minneapolis and Director/Curator at the Hirshhorn Museum and Sculpture Garden.
-  She is a scholar of contemporary and Latin American Art, with a focus on the
-  contemporary art of Cuba. Viso advises the ASU Art Museum and collaborates
-  with the Los Angeles County Museum of Art on a master's degree fellowship
-  program in art history to culturally diversify the museum field. She is
-  currently working on artist monographs on the late Cuban artist Juan Francisco
-  Elso and the multimedia performance artist Coco Fusco.
+short_bio: "Curator, writer, and contemporary art historian **Olga Viso** is
+  based at Arizona State University’s Herberger Institute for Design and the
+  Arts and the Phoenix Art Museum. Viso was previously the Executive Director of
+  the Walker Art Center in Minneapolis and Director/Curator at the Hirshhorn
+  Museum and Sculpture Garden. She is a scholar of contemporary and Latin
+  American Art, with a focus on the contemporary art of Cuba. She has organized
+  numerous solo and group exhibitions, including monographic surveys of artists
+  Jim Hodges, Guillermo Kuitca, Ana Mendieta, and Juan Muñoz. Her most recent
+  exhibition _Juan Francisco Elso: Por América_ that recently opened at New
+  York's El Museo del Barrio, will travel next to the Phoenix Art Museum and the
+  Museum of Contemporary Art in North Miami."
 portraits:
   - media: 2021/05/olga-viso
 ---
