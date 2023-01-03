@@ -2,17 +2,17 @@
 name: Ridley Howard
 first_name: Ridley
 last_name: Howard
-short_bio: "Born in Atlanta, **Ridley Howard** is a contemporary artist based in
-  Brooklyn, known for his large, intimate portraits of anonymous subjects in
-  private settings. After graduating from the University of Georgia, he received
-  his MFA from Tufts University. Among his oil on linen paintings, his
-  soft-focus portraits, such as _The Charm of 5:30,_ suggest an enigmatic
-  familiarity, while his abstract geometric landscapes evoke tendencies of early
-  20th century Neoplasticism. Howard’s work has been shown in an extensive
-  number of solo and group exhibitions. Among them, the Boston Museum of Fine
-  Arts is currently showing the exhibit _Ridley Howard: Fields and Stripes_, and
-  the Andréhn-Schiptjenko Museum in Stockholm features his work. He is
-  represented by Leo Koenig Inc. in New York City."
+short_bio: "**Ridley Howard** makes paintings that blend vastly different visual
+  languages, among them American Scene Painting, Italian Renaissance, Pop Art
+  and Geometric Abstraction. Subtle and deceptively straightforward, the
+  paintings invoke a sense of monumentality while retaining a lingering intimacy
+  and stillness. He earned his MFA from the School of the Museum of Fine  Arts,
+  Boston, in 1999 and attended  the Skowhegan School of Painting and Sculpture
+  in 2000. He has recently shown at  Marinaro Gallery, NY; Andréhn-Schiptjenko,
+  Paris; and elsewhere. His work has been exhibited at numerous institutions,
+  including The American Academy of Arts and Letters, New York; Museum of Fine
+  Arts, Boston; High Museum of  Art, Atlanta; among others. He lives and works
+  between Athens, Georgia and Brooklyn, NY."
 portraits:
   - media: 2022/12/ridley-howard
 website: https://www.ridleyhoward.com/
