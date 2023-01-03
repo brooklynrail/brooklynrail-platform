@@ -7,6 +7,8 @@ summary: Exhibition curators Olga Viso and Susanna V. Temkin join Rail
 people:
   - person: olga-viso
   - person: susanna-v-temkin
+  - person: jose-falconi
+  - person: monica-espinel
 poets:
   - person: irene-vasquez
 date: 2023-01-09T13:00:00-0500
