@@ -22,4 +22,4 @@ event_id: rectMZnN6zJMI0ZMR
 event_platform:
   - zoom
 ---
-[V﻿isit *Juan Francisco: Por América*, on view at El Museo Del Barrio through March 26, 2023 →](https://www.elmuseo.org/elso/)
+[V﻿isit *Juan Francisco Elso: Por América*, on view at El Museo Del Barrio through March 26, 2023 →](https://www.elmuseo.org/elso/)
