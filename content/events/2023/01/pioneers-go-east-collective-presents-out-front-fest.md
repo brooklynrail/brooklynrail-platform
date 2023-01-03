@@ -1,6 +1,6 @@
 ---
 title: Pioneers Go East Collective Presents Out-FRONT! Fest
-deck: January 12 -19, 2023
+deck: January 12–19, 2023
 summary: Radical Queer Art + Dance + Film Festival at The LGBT Center Free
   performances + films. Low-impact workshops. All are welcome.
 date: 2023-01-12T17:00:00-0500
