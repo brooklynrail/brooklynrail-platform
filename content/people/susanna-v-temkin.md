@@ -2,7 +2,7 @@
 name: Susanna V. Temkin
 first_name: Susanna
 last_name: Temkin
-short_bio: "**Susanna V. Temkin is Curator** at El Museo del Barrio, where she
+short_bio: "**Susanna V. Temkin** is Curator at El Museo del Barrio, where she
   recently co-curated the museum’s inaugural Triennial exhibition, _La
   Trienal-_ESTAMOS BIEN_ (2020-2021). Temkin earned her master’s and PhD degrees
   from the Institute of Fine Arts, New York University. Prior to El Museo, she
