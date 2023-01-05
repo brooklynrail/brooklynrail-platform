@@ -14,5 +14,5 @@ short_bio: "**Alvaro Barrington** (b. 1983, Caracas, Venezuela) paints vivid
   in London, can be felt in the bold, gestural quality of his compositions."
 portraits:
   - media: 2023/01/alvaro-barrington
-instagram: " alvarobarrington"
+instagram: alvarobarrington
 ---
