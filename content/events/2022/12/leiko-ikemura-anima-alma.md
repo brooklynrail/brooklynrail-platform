@@ -1,8 +1,8 @@
 ---
 title: "Leiko Ikemura: Anima Alma"
-deck: "Featuring Ikemura and Rail host to be announced, with Cindy Juyoung Ok "
-summary: "Artist Leiko Ikemura joins Rail host for a conversation. We conclude
-  with a poetry reading by Cindy Juyoung Ok . "
+deck: "Featuring Ikemura and Barbara Pollack, with Cindy Juyoung Ok "
+summary: Artist Leiko Ikemura joins Rail contributor Barbara Pollack for a
+  conversation. We conclude with a poetry reading by Cindy Juyoung Ok.
 people:
   - person: leiko-ikemura
 poets:
