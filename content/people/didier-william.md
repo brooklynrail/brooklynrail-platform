@@ -13,6 +13,6 @@ short_bio: "**Didier William** is originally from Port-au-Prince, Haiti. His
   Professor of Expanded Print at Mason Gross School of the Arts at Rutgers
   University."
 portraits:
-  - media: 2022/12/didier-william-1
+  - media: 2022/12/didier-william
 website: http://www.didierwilliam.com/
 ---
