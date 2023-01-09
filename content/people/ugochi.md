@@ -1,6 +1,7 @@
 ---
-name: Ugochi
-first_name: Egonu
+name: Ugochi Egonu
+first_name: Ugochi
+last_name: Egonu
 pronouns: "they/ them "
 short_bio: "**Ugochi Egonu** (they/she) is a freelance writer, editor, and
   performance artist currently based in Brooklyn, NY. They write to heal, learn
