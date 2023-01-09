@@ -11,6 +11,7 @@ people:
   - person: maria-sanchez
   - person: danielle-demetria-east
   - person: debra-gwartney
+  - person: chris-taylor
 date: 2023-01-24T13:00:00-0500
 end_date: 2023-01-24T14:30:00-0500
 series: 731
