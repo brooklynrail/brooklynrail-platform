@@ -1,0 +1,6 @@
+---
+media: /media/files/logo_1000x1000pix.jpeg
+title: Lisson Gallery
+alt: Logo of Lisson Gallery
+date: 2023-01-10T17:34:00-0500
+---
