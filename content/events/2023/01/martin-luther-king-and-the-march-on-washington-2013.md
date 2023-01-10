@@ -4,6 +4,9 @@ deck: Directed by John Akomfrah
 summary: "Join us for a virtual film screening in honor of Martin Luther King Jr. Day. "
 people:
   - person: john-akomfrah
+    related_links:
+      - text: More on John Akomfrah
+        url: https://www.lissongallery.com/artists/john-akomfrah
 date: 2023-01-16T00:00:00-0500
 end_date: 2023-01-16T23:59:00-0500
 collections:
@@ -25,4 +28,4 @@ M﻿ore on *Martin Luther King and The March on Washington* [here](https://www.s
 
 {{< image media="2023/01/lisson-gallery" size="sm" >}}
 
-W﻿e'd like to thank our friends at [Lisson Gallery](https://www.lissongallery.com/) for graciously sponsoring this screening.
+> #### W﻿e'd like to thank our friends at [Lisson Gallery](https://www.lissongallery.com/) for graciously sponsoring this screening.
