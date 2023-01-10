@@ -6,5 +6,7 @@ short_bio: "**C.J. Alvarez** is an environmental historian teaching at the
   University of Texas at Austin who writes about deserts, the built environment,
   and the US-Mexico border. Before receiving a doctorate in history from the
   University of Chicago, C.J. studied art history at Harvard and Stanford."
+portraits:
+  - media: 2023/01/c-j-alvarez
 rail_contributor_url: https://brooklynrail.org/contributor/CJ-Alvarez
 ---
