@@ -12,6 +12,8 @@ short_bio: "**Chris Taylor** is an architect, educator, and director of Land
   across the arid lands of the Americas. He has lectured extensively at
   institutions including Yale University, Parsons The New School, Tyler School
   of Art in Philadelphia, and elsewhere. "
+portraits:
+  - media: 2023/01/danielle-demetria-east
 rail_contributor_url: https://brooklynrail.org/contributor/Chris-Taylor
 website: https://landarts.org/
 instagram: land_arts
