@@ -28,4 +28,4 @@ M﻿ore on *Martin Luther King and The March on Washington* [here](https://www.s
 
 {{< image media="2023/01/lisson-gallery" size="sm" >}}
 
-> #### W﻿e'd like to thank our friends at [Lisson Gallery](https://www.lissongallery.com/) for graciously sponsoring this screening.
+#### W﻿e'd like to thank our friends at [Lisson Gallery](https://www.lissongallery.com/) for graciously sponsoring this screening.
