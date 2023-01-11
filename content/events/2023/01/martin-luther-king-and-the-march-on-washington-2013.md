@@ -34,6 +34,6 @@ Including interviews from key members of organizational groups, civil rights ac
 
 M﻿ore on *Martin Luther King and The March on Washington* [here](https://www.smokingdogsfilms.com/projects/broadcast/martin-luther-king-and-the-march-on-washington/)*.*  
 
-{{< image media="2023/01/lisson-gallery" size="md" >}}
+{{< image media="2023/01/lisson-gallery" size="lg" >}}
 
 #### W﻿e'd like to thank our friends at [Lisson Gallery](https://www.lissongallery.com/) for graciously sponsoring this screening.
