@@ -1,5 +1,5 @@
 ---
-title: Expanding Asian-America
+title: Expanding Asian America
 deck: Featuring Dorothy Wang, Al-An deSouza, and Joan Kee
 summary: "Scholar Dorothy Wang and artist Al-An deSouza join Rail
   Editor-at-Large Joan Kee for a conversation. We conclude with a poetry
