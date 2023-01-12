@@ -26,7 +26,7 @@ event_platform: null
 *Dimensions variable*\
 *60 minutes*
 
-The BAFTA Nominated *Martin Luther King and The March on Washington* is the titanic documentary commemorating the 50th anniversary of the March on Washington for Jobs and Freedom – one of the largest civil protests in American history. Largely remembered for Martin Luther Jrs.' iconic “I Have A Dream” speech, the March was a watershed moment in the American Civil Rights Movement and helped to usher in a sea change in public opinion on race and the Civil Rights Act 1964.
+The BAFTA-nominated *Martin Luther King and The March on Washington* is the titanic documentary commemorating the 50th anniversary of the March on Washington for Jobs and Freedom – one of the largest civil protests in American history. Largely remembered for Martin Luther Jrs.' iconic “I Have A Dream” speech, the March was a watershed moment in the American Civil Rights Movement and helped to usher in a sea change in public opinion on race and the Civil Rights Act 1964.
 
 Including interviews from key members of organizational groups, civil rights activists and attendees on the day, such as Senator John Lewis, Clarence B. Jones, Joan Baez, Andrew Young, and many more, ‘The March’ also features stunning, newly unearthed archival footage.
 
