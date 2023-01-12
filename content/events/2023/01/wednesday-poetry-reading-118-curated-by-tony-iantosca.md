@@ -1,5 +1,5 @@
 ---
-title: "I Won't Be At The Reading: A Rail Reading Curated by Tony Iantosca"
+title: "I won't be at the reading: A Rail Reading Curated by Tony Iantosca"
 deck: "Featuring Iontosca with Natalee Cruz, Dimitra Ioannou, and Lisa Rogal "
 summary: "Tony Iantosca curates our 118th Poetry Reading with Natalee Cruz,
   Dimitra Ioannou, and Lisa Rogal "
