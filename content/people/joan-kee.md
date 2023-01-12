@@ -2,7 +2,7 @@
 name: Joan Kee
 first_name: Joan
 last_name: Kee
-short_bio: "Professor **Joan Kee teaches** in the History of Art at the
+short_bio: "Professor **Joan Kee** teaches in the History of Art at the
   University of Michigan and is a Ford Foundation Scholar in Residence at
   MoMA.  Her forthcoming book, _The Geometries of Afro Asia: Art beyond
   Solidarity_, engages with Black and Asian artists and the vibrant worlds they
