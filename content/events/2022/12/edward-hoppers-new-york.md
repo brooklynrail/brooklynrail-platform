@@ -25,4 +25,4 @@ event_id: recoNHs47Dt4u9ch4
 event_platform:
   - zoom
 ---
-[Visit *Edward Hopper's New York,*  on view at The Whitney through March 5th, 2023](https://whitney.org/exhibitions/edward-hopper-new-york)→
+[Visit *Edward Hopper's New York,* on view at The Whitney through March 5, 2023 →](https://whitney.org/exhibitions/edward-hopper-new-york)
