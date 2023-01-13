@@ -2,7 +2,7 @@
 name: Danielle McKinney
 first_name: Danielle
 last_name: McKinney
-short_bio: "**Danielle Mckinney** (b. 1981, Montgomery, Alabama) creates
+short_bio: "**Danielle McKinney** (b. 1981, Montgomery, Alabama) creates
   narrative paintings that often focus on the solitary female protagonist.
   Engaging with themes of spirituality and self, her paintings uncover hidden
   narratives and conjure dreamlike spaces, often within the interior domestic
