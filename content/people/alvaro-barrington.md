@@ -4,7 +4,7 @@ first_name: Alvaro
 last_name: Barrington
 short_bio: "**Alvaro Barrington** (b. 1983, Caracas, Venezuela) paints vivid
   abstractions that consider the cultural production of subjects ranging from
-  Hibiscus flowers to the life of Marcus Garvey. Raised between Brooklyn and the
+  hibiscus flowers to the life of Marcus Garvey. Raised between Brooklyn and the
   Caribbean, Barrington utilizes cross-disciplinary materials and crafts that
   often reference his childhood, including the sewing of his Grenadian aunts as
   well as his current life in Europe. In his early work Barrington experimented
