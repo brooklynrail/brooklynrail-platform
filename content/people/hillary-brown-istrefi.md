@@ -1,9 +1,9 @@
 ---
-name: Hillary Brown-Istrefi
-first_name: Hillary
+name: Hilary Brown-Istrefi
+first_name: Hilary
 last_name: Brown-Istrefi
 pronouns: she/her
-short_bio: A graduate of École de danse contemporaine, Montréal, **Hillary
+short_bio: A graduate of École de danse contemporaine, Montréal, **Hilary
   Brown-Istrefi** has performed for Bouchra Ouizguen, Jillian Peña, Doug Elkins,
   Linda Tegg, and Candice Breitz. In 2013, she co-founded the experimental
   performance collective Same As Sister (SAS.). She has presented at Danspace
