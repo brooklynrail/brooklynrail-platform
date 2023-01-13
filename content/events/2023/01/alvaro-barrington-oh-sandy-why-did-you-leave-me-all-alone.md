@@ -1,5 +1,5 @@
 ---
-title: "Alvaro Barrington: Sandy"
+title: "Alvaro Barrington: Oh, Sandy? Sandy, Sandy"
 deck: Featuring Barrington and Gaby Collins-Fernandez, with Yasmina Martin
 summary: Artist Alvaro Barrington joins Rail contributor Gaby Collins-Fernandez
   for a conversation. We conclude with a poetry reading by Yasmina Martin.
