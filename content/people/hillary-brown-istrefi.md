@@ -13,6 +13,8 @@ short_bio: A graduate of École de danse contemporaine, Montréal, **Hilary
   other recognitions. Hilary is a resident artist with Pioneers Go East
   Collective since 2018, and currently is the Director of Development and lead
   curator of Crossroads and Out-FRONT! Festival.
+portraits:
+  - media: 2023/01/hilary-brown-istrefi
 website: https://www.hbsquaredprojects.com/
 instagram: hbsquared_projects
 ---
