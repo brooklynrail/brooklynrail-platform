@@ -1,8 +1,8 @@
 ---
 title: Edward Hopper's New York
-deck: Featuring Sam Messer, Danielle McKinney, Ridley Howard, and Jason
+deck: Featuring Sam Messer, Danielle Mckinney, Ridley Howard, and Jason
   Rosenfeld, with Victoria Chang
-summary: Artists Sam Messer, Danielle McKinney, and Ridley Howard join Rail
+summary: Artists Sam Messer, Danielle Mckinney, and Ridley Howard join Rail
   Editor-at-Large Jason Rosenfeld for a conversation. We conclude with a poetry
   reading by Victoria Chang.
 people:
