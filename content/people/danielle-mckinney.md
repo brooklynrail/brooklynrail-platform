@@ -15,4 +15,5 @@ short_bio: "**Danielle Mckinney** (b. 1981, Montgomery, Alabama) creates
   others. "
 portraits:
   - media: 2022/12/danielle-mckinney
+instagram: "@danielle_mckinney_"
 ---
