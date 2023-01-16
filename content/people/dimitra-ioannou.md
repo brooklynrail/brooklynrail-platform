@@ -14,5 +14,5 @@ short_bio: "**Dimitra Ioannou** experiments with narrative or anti-narrative
   experimental writing workshops called textlab."
 portraits:
   - media: 2023/01/dimitra-ioannou
-instagram: the_textlab
+instagram: hotel_repertoire
 ---
