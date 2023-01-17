@@ -15,4 +15,5 @@ short_bio: Daniel Diaz (he/ they) is a Black/Puerto Rican Gay performance artist
   gallery (Troy, NY).
 portraits:
   - media: 2023/01/daniel-diaz
+instagram: darlingtoby
 ---
