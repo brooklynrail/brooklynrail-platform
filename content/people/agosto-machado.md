@@ -12,4 +12,6 @@ short_bio: "**Agosto Machado** is an artist, activist, and witness best known
   with Pioneers Go East Collective since 2017 and was featured in the
   collective’s projects presented at JACK, Ars Nova, Bronx Academy of Art and
   Dance, La MaMa, BRIC ARTS MEDIA, and Judson Church."
+portraits:
+  - media: 2023/01/agosto-machado
 ---
