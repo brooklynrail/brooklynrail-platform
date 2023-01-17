@@ -1,7 +1,8 @@
 ---
 title: "Pioneers Go East Collective "
-deck: Featuring Gian Marco Lo Forte, Hilary Brown-Istrefi, Jo Wiegandt,  Philip
-  Treviño, Daniel Diaz, Joey Kipp, Anabella Lenzu, and Rev. Dr. Donna Schaper
+deck: Featuring Gian Marco Riccardo Lo Forte, Hilary Brown-Istrefi, Jo
+  Wiegandt,  Philip Treviño, Daniel Diaz, Joey Kipp, Anabella Lenzu, and Rev.
+  Dr. Donna Schaper
 summary: Lead artists for the Pioneers Go East Collective join Rail
   Editor-at-Large Rev. Dr. Donna Schaper for a conversation. We conclude with a
   poetry reading by reed rushes.
@@ -29,3 +30,5 @@ event_platform:
   - zoom
 ---
 [M﻿ore on Pioneers Go East Collective →](https://pioneersgoeast.org/)
+
+[Attend Out-FRONT! Fest. →](https://pioneersgoeast.org/upcoming)
