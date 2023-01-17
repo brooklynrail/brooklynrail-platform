@@ -2,7 +2,7 @@
 title: "Pioneers Go East Collective "
 deck: Featuring Gian Marco Riccardo Lo Forte, Hilary Brown-Istrefi, Jo
   Wiegandt,  Philip Treviño, Daniel Diaz, Joey Kipp, Anabella Lenzu, and Rev.
-  Dr. Donna Schaper
+  Dr. Donna Schaper, with reed rushes
 summary: Lead artists for the Pioneers Go East Collective join Rail
   Editor-at-Large Rev. Dr. Donna Schaper for a conversation. We conclude with a
   poetry reading by reed rushes.
@@ -16,6 +16,8 @@ people:
   - person: agosto-machado
   - person: jo-wiegandt
   - person: rev-dr-dona-schaper
+poets:
+  - person: reed-rushes
 date: 2023-01-19T13:00:00-0500
 end_date: 2023-01-19T14:30:00-0500
 series: 728
