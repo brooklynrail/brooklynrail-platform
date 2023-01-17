@@ -10,5 +10,7 @@ short_bio: "**Jo Wiegandt** (they/them) is a creative director, producer, and
   Collective include _My Name’Sound_ (film and installation), Crossroads, and
   Out-Front Festival in addition to their work as the Community Outreach and
   Programming Liaison. "
+portraits:
+  - media: 2023/01/jo-wiegandt
 instagram: " josiewiegandt"
 ---
