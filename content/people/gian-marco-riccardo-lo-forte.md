@@ -16,4 +16,6 @@ short_bio: "**Gian Marco Riccardo Lo Forte** (he/they) is a creative director,
   Research, Alvin Ailey, and elsewhere. "
 portraits:
   - media: 2023/01/gian-marco-riccardo-lo-forte
+website: https://pioneersgoeast.org/upcoming
+instagram: pioneersgoeast
 ---
