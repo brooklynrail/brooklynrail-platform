@@ -22,6 +22,6 @@ event_platform:
 
 
 
-W﻿e thank Stony Brook University and the Pollock-Krasner House for their generous partnership to help make this event possible. 
+{{< image media="2023/01/stony-brook-university" size="md" >}}
 
-{{< image media="2023/01/stony-brook-university" size="sm" >}}
+W﻿e thank Stony Brook University and the Pollock-Krasner House for their generous partnership to help make this event possible.
