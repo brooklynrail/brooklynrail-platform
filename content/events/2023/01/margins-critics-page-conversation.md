@@ -1,8 +1,8 @@
 ---
 title: margins...Critics Page Conversation
 deck: Featuring C.J. Alvarez, Priscilla Ybarra, María Sanchéz, Danielle Demetria
-  East, Debra Gwartney, Curtis Bauer, Idioa Elola, Susan Larson, and Chris
-  Taylor, with mónica teresa ortiz
+  East, Debra Gwartney, Curtis Bauer, Idioa Elola, Susan Larson, Kenton T.
+  Wilkinson, Ashton Thornhill, and Chris Taylor, with mónica teresa ortiz
 summary: Join the Rail's December/January Critics Page contributors for a
   conversation with guest critic Chris Taylor. We conclude with a poetry reading
   by mónica teresa ortiz.
@@ -15,6 +15,8 @@ people:
   - person: curtis-bauer
   - person: idoia-elola
   - person: susan-larson
+  - person: kenton-t-wilkinson
+  - person: ashton-thornhill
   - person: chris-taylor
 poets:
   - person: monica-teresa-ortiz
