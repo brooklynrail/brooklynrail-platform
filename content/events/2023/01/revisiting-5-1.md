@@ -19,3 +19,9 @@ event_platform:
   - zoom
 ---
 [V﻿isit Revisiting 5 + 1, on view at Paul W. Zuccaire Gallery through March 31, 2023 →](https://zuccairegallery.stonybrook.edu/exhibitions/revisiting_5_plus_1.php)
+
+
+
+W﻿e thank Stony Brook University and the Pollock-Krasner House for their generous partnership to help make this event possible. 
+
+{{< image media="2023/01/stony-brook-university" size="sm" >}}
