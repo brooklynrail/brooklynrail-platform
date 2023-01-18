@@ -1,7 +1,8 @@
 ---
 title: margins...Critics Page Conversation
 deck: Featuring C.J. Alvarez, Priscilla Ybarra, María Sanchéz, Danielle Demetria
-  East, and Debra Gwartney
+  East, Debra Gwartney, Curtis Bauer, Idioa Elola, Susan Larson, and Chris
+  Taylor
 summary: Join the Rail's December/January Critics Page contributors for a
   conversation with guest critic Chris Taylor. We conclude with a poetry
   reading.
@@ -11,6 +12,9 @@ people:
   - person: maria-sanchez
   - person: danielle-demetria-east
   - person: debra-gwartney
+  - person: curtis-bauer
+  - person: idoia-elola
+  - person: susan-larson
   - person: chris-taylor
 date: 2023-01-24T13:00:00-0500
 end_date: 2023-01-24T14:30:00-0500
