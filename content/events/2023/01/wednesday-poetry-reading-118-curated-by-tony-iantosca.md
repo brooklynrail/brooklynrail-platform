@@ -4,7 +4,7 @@ deck: "Featuring Iantosca with Natalee Cruz, Dimitra Ioannou, and Lisa Rogal "
 summary: "Tony Iantosca curates our 118th Poetry Reading with Natalee Cruz,
   Dimitra Ioannou, and Lisa Rogal. "
 people:
-  - person: " natalee-cruz"
+  - person: natalee-cruz-1
   - person: dimitra-ioannou
   - person: lisa-rogal
   - person: tony-iantosca
