@@ -1,8 +1,8 @@
 ---
 title: Donate to the Brooklyn Rail
 headline: Donate to the Brooklyn Rail
-deck: Help us raise $150,000 for our Winter Campaign
-summary: Your annual winter support keeps the Rail independent, relevant, and free
+# deck: Help us raise $150,000 for our Winter Campaign
+summary: Your generous support keeps the Rail independent, relevant, and free
 ---
 
 Dear Friends and Readers,
