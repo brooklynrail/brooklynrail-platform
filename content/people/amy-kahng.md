@@ -1,6 +1,7 @@
 ---
 name: Amy Kahng
-first_name: Amy Kahng
+first_name: Amy
+last_name: Kahng
 short_bio: "**Amy Kahng** is a PhD candidate in Art History and Criticism at
   Stony Brook University and a 2022-23 Patricia and Phillip Frost Predoctoral
   Fellow at the Smithsonian American Art Museum. Her dissertation project
