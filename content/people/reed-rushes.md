@@ -1,7 +1,7 @@
 ---
 name: "reed rushes "
 first_name: reed
-last_name: "rushes "
+last_name: rushes
 pronouns: "they/ them "
 short_bio: "**reed rushes** is a performance artist living and working in Queens
   NYC. Their performances are committed to the subconscious, using choreography,
