@@ -8,4 +8,5 @@ short_bio: "**C.J. Alvarez** is an environmental historian teaching at the
 portraits:
   - media: 2023/01/c-j-alvarez
 rail_contributor_url: https://brooklynrail.org/contributor/CJ-Alvarez
+website: https://liberalarts.utexas.edu/mals/faculty/ca29356
 ---
