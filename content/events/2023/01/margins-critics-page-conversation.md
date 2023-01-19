@@ -1,8 +1,9 @@
 ---
 title: margins...Critics Page Conversation
-deck: Featuring C.J. Alvarez, Priscilla Ybarra, María Sanchéz, Danielle Demetria
-  East, Debra Gwartney, Curtis Bauer, Idioa Elola, Susan Larson, Kenton T.
-  Wilkinson, Ashton Thornhill, and Chris Taylor, with mónica teresa ortiz
+deck: "Featuring C.J. Alvarez, Priscilla Ybarra, Ashton Thornhill, María
+  Sanchéz, Danielle Demetria East, Debra Gwartney, and with the Lubbock Scapes
+  Collective: Curtis Bauer, Rafael Beneytez-Duran, Idioa Elola, Susan Larson,
+  Kenton T. Wilkinson, and Chris Taylor, with mónica teresa ortiz"
 summary: Join the Rail's December/January Critics Page contributors for a
   conversation with guest critic Chris Taylor. We conclude with a poetry reading
   by mónica teresa ortiz.
