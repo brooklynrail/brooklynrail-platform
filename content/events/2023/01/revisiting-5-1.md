@@ -7,10 +7,10 @@ summary: "Artist Howardena Pindell, photographer Adger Cowans, and curators
   conversation. We conclude with a poetry reading. "
 people:
   - person: howardena-pindell
+  - person: adger-cowans
   - person: elise-armani
   - person: amy-kahng
   - person: gabriella-shypula-1
-  - person: adger-cowans
 date: 2023-02-10T13:00:00-0500
 end_date: 2023-02-10T14:30:00-0500
 series: 744
