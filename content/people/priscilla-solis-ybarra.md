@@ -7,4 +7,5 @@ short_bio: "**Priscilla Solis Ybarra** is a writer and a professor at the
 portraits:
   - media: 2023/01/priscilla-solis-ybarra
 rail_contributor_url: https://brooklynrail.org/contributor/Priscilla-Solis-Ybarra
+website: https://english.unt.edu/people/priscilla-solis-ybarra-phd
 ---
