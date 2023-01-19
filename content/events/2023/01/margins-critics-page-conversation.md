@@ -15,6 +15,7 @@ people:
   - person: danielle-demetria-east
   - person: debra-gwartney
   - person: curtis-bauer
+  - person: rafael-beneytez-duran
   - person: idoia-elola
   - person: susan-larson
   - person: kenton-t-wilkinson
@@ -34,4 +35,4 @@ event_id: recL4gZPpSy8S3Tjo
 event_platform:
   - zoom
 ---
-[Read the *Brooklyn Rail*'s December/January 2022/23 Critics Page  →](https://brooklynrail.org/2023/12/criticspage)
+[Read the Brooklyn Rail's December/January 2022/23 Critics Page, by Lubbock Scapes Collective→](https://brooklynrail.org/2023/12/criticspage)
