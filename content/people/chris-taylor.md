@@ -2,16 +2,16 @@
 name: Chris Taylor
 first_name: Chris
 last_name: Taylor
-short_bio: "**Chris Taylor** is an architect, educator, and director of Land
-  Arts of the American West at Texas Tech University. His research interests
-  investigate land art, landscape, embodied fieldwork, and making-based design.
-  In 2001, he began developing Land Arts as a semester abroad program in our own
-  backyard to investigate the intersection of human construction and the
-  evolving shape of the planet. His books, Land Arts of the American West and
-  Incubo Atacama Lab, chronicle the evolution of this field research—operating
-  across the arid lands of the Americas. He has lectured extensively at
-  institutions including Yale University, Parsons The New School, Tyler School
-  of Art in Philadelphia, and elsewhere. "
+short_bio: "**Chris Taylor** was born in West Germany, raised in Southwest
+  Florida waters, and lives in the arid American Southwest. An architect,
+  educator, and director of Land Arts of the American West at Texas Tech
+  University, Taylor is deeply committed to the intersection of human
+  construction and the evolving nature of the planet. Terminal Lake Exploration
+  Platform, created with support from the Graham Foundation for Advanced Studies
+  in the Fine Arts, continues to facilitate visual and performative research
+  within under-examined basins and internal aquatic fringes. Taylor studied
+  architecture at the University of Florida and the Graduate School of Design at
+  Harvard and is a member of the Lubbock Scapes Collective."
 portraits:
   - media: 2023/01/chris-taylor
 rail_contributor_url: https://brooklynrail.org/contributor/Chris-Taylor
