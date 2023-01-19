@@ -7,8 +7,9 @@ summary: Chia-Lun Chang curates our 122nd Poetry Reading with Jameson
 people:
   - person: chia-lun-chang
   - person: courtney-faye-taylor
-date: 2023-01-19T11:54:00-0500
-end_date: 2023-01-19T11:54:00-0500
+date: 2023-02-15T13:00:00-0500
+end_date: 2023-02-15T14:30:00-0500
+series: 747
 collections:
   - the-new-social-environment
 event_organizer:
