@@ -10,5 +10,5 @@ short_bio: "**Danielle Demetria East** is an interdisciplinary artist working in
 portraits:
   - media: 2023/01/danielle-demetria-east
 rail_contributor_url: https://brooklynrail.org/contributor/Danielle-Demetria-East
-website: ""
+website: https://eastlubbockarthouse.org/about/
 ---
