@@ -8,10 +8,12 @@ short_bio: "**Gabriella Shypula** is a curator and PhD Candidate in Art History
   as a site for critical resistance against dominant art historical narratives
   in the 1970s–80s. Gabriella has worked on curatorial projects at SFMOMA, the
   Baltimore Museum of Art, and MoMA and has contributed to exhibitions including
-  _Joan Mitchell and Judson Dance Theater: The Work Is Never Done._ She recently
-  co-curated Revisiting 5+1 at the Zuccaire Gallery, presented in partnership
-  with the MFA Boston, and co-edited the accompanying catalog."
+  _Joan Mitchell_ and _Judson Dance Theater: The Work Is Never Done._ She
+  recently co-curated _Revisiting 5+1_ at the Zuccaire Gallery, presented in
+  partnership with the MFA Boston, and co-edited the accompanying catalog."
 portraits:
   - media: 2023/01/gabriella-shypula
+website: https://gabriellashypula.com/
+instagram: gabriellashypula
 twitter: gshypula
 ---
