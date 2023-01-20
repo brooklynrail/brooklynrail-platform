@@ -1,5 +1,5 @@
 ---
-name: Rafael Beneytez-Duran
+name: Rafael Beneytez-Duran (Lubbock Scapes Collective)
 first_name: Rafael
 last_name: " Beneytez-Duran"
 short_bio: "**Rafael B. Duran** is principal at _Z4Z4-Z4A_. Native from Madrid
