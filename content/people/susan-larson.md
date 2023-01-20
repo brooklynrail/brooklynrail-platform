@@ -1,5 +1,5 @@
 ---
-name: Susan Larson
+name: "Susan Larson (Lubbock Scapes Collective) "
 first_name: Susan
 last_name: Larson
 short_bio: "**Susan Larson** is a Texas Tech University professor of Spanish and
