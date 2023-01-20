@@ -1,5 +1,5 @@
 ---
-name: Kenton T. Wilkinson
+name: Kenton T. Wilkinson (Lubbock Scapes Collective)
 first_name: Kenton
 last_name: Wilkinson
 short_bio: "**Kenton T. Wilkinson** is Regents Professor and Director of the
