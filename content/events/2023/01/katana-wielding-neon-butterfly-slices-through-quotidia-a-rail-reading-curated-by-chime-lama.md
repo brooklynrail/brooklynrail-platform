@@ -6,6 +6,7 @@ summary: Chime Lama curates our 120th Poetry Reading with Aristilde Kirby,
   Kelsang Lhamo and Maya Salameh
 people:
   - person: aristilde-kirby
+  - person: " kelsang-lhamo"
   - person: chime-lama-འཆི་མེད་ཆོས་སྒྲོན།
 date: 2023-02-01T13:00:00-0500
 end_date: 2023-02-01T14:30:00-0500
