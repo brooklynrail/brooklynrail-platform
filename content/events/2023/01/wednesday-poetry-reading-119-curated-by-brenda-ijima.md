@@ -8,6 +8,7 @@ people:
   - person: gia-gonzales
   - person: daisy-hildyard
   - person: annie-won
+  - person: anne-yoder
   - person: brenda-iijima
 date: 2023-01-25T13:00:00-0500
 end_date: 2023-01-25T14:30:00-0500
