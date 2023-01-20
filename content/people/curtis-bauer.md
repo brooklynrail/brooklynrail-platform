@@ -1,5 +1,5 @@
 ---
-name: Curtis Bauer
+name: Curtis Bauer (Lubbock Scapes Collective)
 first_name: Curtis
 last_name: Bauer
 short_bio: "**Curtis Bauer** is the author of three poetry collections, most
