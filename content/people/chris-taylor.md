@@ -1,5 +1,5 @@
 ---
-name: Chris Taylor
+name: Chris Taylor (Lubbock Scapes Collective)
 first_name: Chris
 last_name: Taylor
 short_bio: "**Chris Taylor** was born in West Germany, raised in Southwest
