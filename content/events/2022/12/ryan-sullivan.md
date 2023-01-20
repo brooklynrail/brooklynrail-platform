@@ -1,6 +1,6 @@
 ---
 title: Ryan Sullivan
-deck: Featuring Sullivan and Jason Rosenfeld
+deck: Featuring Sullivan and Jason Rosenfeld, with Kelly Hoffer
 summary: Artist Ryan Sullivan joins Rail Editor-at-Large Jason Rosenfeld for a
   conversation. We conclude with a poetry reading by Kelly Hoffer.
 people:
