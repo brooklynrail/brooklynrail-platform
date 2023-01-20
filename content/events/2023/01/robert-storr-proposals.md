@@ -1,6 +1,6 @@
 ---
 title: "Robert Storr: Proposals"
-deck: Featuring Storr, Douglas Dreishpoon, and Phong H. Bui
+deck: Featuring Storr, Douglas Dreishpoon, and Phong H. Bui, with Samuel Breslin
 summary: Artist Robert Storr joins Rail Consulting Editor Douglas Dreishpoon and
   Rail Publisher and Artistic Director Phong H. Bui for a conversation. We
   conclude with a poetry reading by Samuel Breslin.
