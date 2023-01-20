@@ -11,4 +11,6 @@ short_bio: "**Annie Won** is a poet, yoga teacher, and a former medicinal
   Nous-Zot Press. Her work has appeared in _Shampoo_ and _RealPoetik,_ and is
   forthcoming from _EAOGH, TheThePoetry, TENDE RLION,_ and _New Delta Review._
   Her critical reviews can be seen at _American Microreviews and Interviews._"
+portraits:
+  - media: 2023/01/annie-won
 ---
