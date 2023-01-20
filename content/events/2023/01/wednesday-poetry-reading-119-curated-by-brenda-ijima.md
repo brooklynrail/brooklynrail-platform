@@ -1,7 +1,7 @@
 ---
-title: "Prismatic Prose & Poetry: A Rail Reading curated by Brenda Ijima"
-deck: Featuring Ijima, Elvia Wilk, Gia Gonzales, Daisy Hildyard, and Annie Won
-summary: Brenda Ijima curates our 119th Poetry Reading with Elvia Wilk, Gia
+title: "Prismatic Prose & Poetry: A Rail Reading curated by Brenda Iijima"
+deck: Featuring Iijima, Elvia Wilk, Gia Gonzales, Daisy Hildyard, and Annie Won
+summary: Brenda Iijima curates our 119th Poetry Reading with Elvia Wilk, Gia
   Gonzales, Daisy Hildyard, and Annie Won.
 people:
   - person: elvia-wilk
