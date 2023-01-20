@@ -1,5 +1,5 @@
 ---
-name: Idoia Elola
+name: Idoia Elola (Lubbock Scapes Collective)
 first_name: Idoia
 last_name: Elola
 short_bio: "**Idoia Elola** is a professor of Spanish and Applied Linguistics at
