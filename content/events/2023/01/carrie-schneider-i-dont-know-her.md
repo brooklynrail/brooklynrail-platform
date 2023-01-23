@@ -1,6 +1,6 @@
 ---
 title: "Carrie Schneider: I don't know her"
-deck: Featuring Schneider and Ayanna Dozier
+deck: Featuring Schneider and Ayanna Dozier, with Aristilde Kirby
 summary: Artist Carrie Schneider joins Rail contributor Ayanna Dozier for a
   conversation. We conclude with a poetry reading by Aristilde Kirby.
 people:
