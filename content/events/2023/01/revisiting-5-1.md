@@ -1,16 +1,17 @@
 ---
 title: Revisiting 5+1
 deck: Featuring Howardena Pindell, Adger Cowans, Elise Armani, Amy Kahng,
-  Gabriella Shypula, and Rail host to be announced
+  Gabriella Shypula, and Elizabeth Buhe
 summary: "Artist Howardena Pindell, photographer Adger Cowans, and curators
-  Elise Armani, Amy Kahng, and Gabriella Shypula join Rail host for a
-  conversation. We conclude with a poetry reading. "
+  Elise Armani, Amy Kahng, and Gabriella Shypula join Rail contributor Elizabeth
+  Buhe for a conversation. We conclude with a poetry reading. "
 people:
   - person: howardena-pindell
   - person: adger-cowans
   - person: elise-armani
   - person: amy-kahng
   - person: gabriella-shypula-1
+  - person: elizabeth-buhe
 date: 2023-02-10T13:00:00-0500
 end_date: 2023-02-10T14:30:00-0500
 series: 744
