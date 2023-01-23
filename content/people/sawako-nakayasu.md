@@ -15,4 +15,5 @@ short_bio: "**Sawako Nakayasu** is an artist working with language, performance,
   is forthcoming from Solid Objects."
 portraits:
   - media: 2023/01/sawako-nakayasu
+website: https://www.sawakonakayasu.net/
 ---
