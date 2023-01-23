@@ -1,6 +1,6 @@
 ---
-name: Corinna Copp
-first_name: Corinna
+name: Corina Copp
+first_name: Corina
 last_name: Copp
 short_bio: "**Corina Copp** is a writer based in Los Angeles. She is the North
   American translator of Chantal Akerman's _My Mother Laughs_ (The Song Cave,
