@@ -1,9 +1,9 @@
 ---
 title: "Wednesday Poetry Reading #121 curated by Daniel Owen"
-deck: Faeturing Owen, Kimberly Alidio, Corinna Copp, Mikael Johani, and Violet
+deck: Faeturing Owen, Kimberly Alidio, Corina Copp, Mikael Johani, and Violet
   Spurlock
 summary: Daniel Owen curates our 121st Poetry Reading with Kimberly Alidio,
-  Corinna Copp, Mikael Johani, and Violet Spurlock
+  Corina Copp, Mikael Johani, and Violet Spurlock
 people:
   - person: kimberly-alidio
   - person: " corinna-copp"
