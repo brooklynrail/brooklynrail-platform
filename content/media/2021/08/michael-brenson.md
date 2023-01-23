@@ -1,5 +1,5 @@
 ---
-media: /media/files/michael-brenson-credit-william-lamson-approved.jpeg
+media: /media/files/brenson.jpeg
 title: Michael Brenson
 alt: A portrait of Michael Brenson
 caption: Photo by William Lamson
