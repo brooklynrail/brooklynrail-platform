@@ -3,17 +3,17 @@ name: Al-An deSouza
 first_name: Al-An
 last_name: deSouza
 pronouns: they/them
-short_bio: "**Al-An deSouza** works across disciplines including photography,
-  digital media, text, performance, and pedagogy. Their work examines and
-  restages colonizing legacies through strategies of humor, fabulation, and
-  (mis)translation. deSouza has shown extensively in the US and internationally,
-  including at SF Camerawork; the Phillips Collection, Washington, DC; and
-  elsewhere. deSouza has published two recent books: _How Art Can Be Thought: A
-  Handboook for Change_ (Duke University Press, 2018) and _Ark of Martyrs: An
-  Autobiography of V_ (Sming Sming Books, 2020). deSouza’s essays and fiction
-  have been published in numerous journals, anthologies, and catalogues. deSouza
-  was born in Nairobi, Kenya, and has been a practicing artist in London, New
-  York, Los Angeles, and the Bay Area."
+short_bio: "**Al-An deSouza** is an artist working across photo-media,
+  installation, text and performance. They draw upon official and informal
+  archives, remaking them through strategies of humor, fabulation, and
+  (mis)translation. deSouza has exhibited extensively in the US and
+  internationally, including at the Johnson Museum, Ithaca, NY, Krannert Museum,
+  IL; Phillips Collection, Washington, DC; Pompidou Centre, Paris, and the Mori
+  Museum, Tokyo. deSouza, a professor of Art Practice at University of
+  California, Berkeley, has published numerous essays and two recent books: _How
+  Art Can Be Thought, A Handbook for Change_ (2018), and _Ark of Martyrs_
+  (2020), a polyphonic, dysphoric replacement of Joseph Conrad’s infamous _Heart
+  of Darkness._ "
 portraits:
   - media: 2023/01/al-an-desouza
 website: https://allandesouza.com/
