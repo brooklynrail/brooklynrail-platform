@@ -2,12 +2,13 @@
 name: Daniel Owen
 first_name: Daniel
 last_name: Owen
-short_bio: Daniel Owen is the author of Toot Sweet (United Artists, 2015) and
-  Restaurant Samsara (Furniture Press, 2018). His translation of Afrizal Malna’s
-  Document Shredding Museum was published in 2019 by Reading Sideways Press in
-  Melbourne. Recent writing and translations have appeared in Jacket2, Counter,
-  Hyperallergic, The Recluse, and The Brooklyn Rail. He is a member of the Ugly
-  Duckling Presse editorial collective.
+short_bio: "**Daniel Owen**'s recent publications are _Celingak-Celinguk_ (Tan
+  Kinira, 2021), _Up in the Empty Ferries_ (Third Floor Apartment Press, 2021),
+  and _Points of Amperture_ (dos-à-dos chapbook with Jennifer Soong's When I Ask
+  My Friend, DoubleCross Press, 2021). His translations from Indonesian include
+  Afrizal Malna’s _Document Shredding Museum_ (Reading Sideways Press, 2019). He
+  edits and designs books and participates in many processes of the Ugly
+  Duckling Presse editorial collective."
 portraits:
   - media: 2020/08/daniel-owen
 ---
