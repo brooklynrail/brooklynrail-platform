@@ -6,7 +6,7 @@ summary: Daniel Owen curates our 121st Poetry Reading with Kimberly Alidio,
   Corina Copp, Mikael Johani, and Violet Spurlock
 people:
   - person: kimberly-alidio
-  - person: " corinna-copp"
+  - person: corinna-copp
   - person: mikael-johani
   - person: violet-spurlock
   - person: daniel-owen
