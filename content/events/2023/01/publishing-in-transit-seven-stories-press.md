@@ -1,12 +1,17 @@
 ---
 title: "Publishing-in-Transit: Seven Stories Press"
-deck: Featuring Daniel Simon, Lee Stringer, and Cole Swensen, with Nana-Ama Danquah
-summary: Seven Stories Press Founder and Publisher Daniel Simon and author Lee
-  Stringer join Rail contributor Cole Swensen for a conversation. We conclude
-  with a poetry reading by Nana-Ama Danquah.
+deck: Featuring Daniel Simon, Lee Stringer, Allison Tamarkin Paller, Alex
+  DiFrancesco, Ruth Weiner, and Cole Swensen, with Nana-Ama Danquah
+summary: Seven Stories Press Founder and Publisher Daniel Simon, author Lee
+  Stringer, Seven Stories Publicist Allison Tamarkin Paller, and Triangle Square
+  Books Publisher Ruth Weiner join Rail contributor Cole Swensen for a
+  conversation. We conclude with a poetry reading by Nana-Ama Danquah.
 people:
   - person: daniel-simon
   - person: lee-stringer
+  - person: allison-tamarkin-paller
+  - person: alex-difrancesco
+  - person: ruth-weiner
   - person: cole-swensen
 poets:
   - person: nana-ama-danquah
