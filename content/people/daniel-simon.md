@@ -7,5 +7,5 @@ short_bio: "**Daniel Simon** is the founder and publisher of Seven Stories
   Abbie Hoffman_ and translator of _Van Gogh: Self Portraits_ by Pascal
   Bonafoux."
 portraits:
-  - media: 2023/01/daniel-simon
+  - media: 2023/01/dan-simon-portrait
 ---
