@@ -1,10 +1,13 @@
 ---
 title: "Baseera Khan: Weight on History"
-deck: Featuring Khan and Rail host to be announced
-summary: Artist Baseera Khan joins Rail host for a conversation. We conclude
-  with a poetry reading.
+deck: Featuring Khan and Zoë Hopkins, with Manal Kara
+summary: Artist Baseera Khan joins Rail contributor Zoë Hopkins for a
+  conversation. We conclude with a poetry reading by Manal Kara.
 people:
   - person: baseera-khan
+  - person: " zoe-hopkins"
+poets:
+  - person: " manal-kara"
 date: 2023-01-31T13:00:00-0500
 end_date: 2023-01-31T14:30:00-0500
 series: 736
