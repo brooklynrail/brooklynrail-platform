@@ -5,9 +5,9 @@ summary: Artist Baseera Khan joins Rail contributor Zoë Hopkins for a
   conversation. We conclude with a poetry reading by Manal Kara.
 people:
   - person: baseera-khan
-  - person: " zoe-hopkins"
+  - person: zoe-hopkins
 poets:
-  - person: " manal-kara"
+  - person: manal-kara
 date: 2023-01-31T13:00:00-0500
 end_date: 2023-01-31T14:30:00-0500
 series: 736
