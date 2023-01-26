@@ -9,7 +9,8 @@ short_bio: "One of the most celebrated poets of the American post-war
   recently, _Runaway_ (Ecco Press 2020). Her work has been widely translated as
   well as the recipient of many awards, including the Pulitzer Prize, The
   Forward Poetry Prize (UK), and The International Nonino Prize. She teaches at
-  Harvard University and lives in Massachusetts."
+  Harvard University and lives in Massachusetts. Her most recent book is _[To]
+  The Last [Be] Human_ ( Copper Canyon Press, 2022)."
 portraits:
   - media: 2021/04/jorie-graham
 website: https://www.joriegraham.com/
