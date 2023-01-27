@@ -3,7 +3,7 @@ title: "Katana Wielding Neon Butterfly Slices Through Quotidia: A Rail Reading
   curated by Chime Lama"
 deck: Featuring Lama, Aristilde Kirby, Kelsang Lhamo and Maya Salameh
 summary: Chime Lama curates our 120th Poetry Reading with Aristilde Kirby,
-  Kelsang Lhamo and Maya Salameh
+  Kelsang Lhamo, and Maya Salameh.
 people:
   - person: aristilde-kirby
   - person: kelsang-lhamo
