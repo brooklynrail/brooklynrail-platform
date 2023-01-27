@@ -1,6 +1,6 @@
 ---
 title: "Art + Tech: Laurie Simmons"
-deck: Featuring Simmons and Charlotte Kent
+deck: Featuring Simmons and Charlotte Kent, with Jennifer Michael Hecht
 summary: Artist Laurie Simmons joins Rail Editor-at-Large Charlotte Kent for a
   conversation. We conclude with a poetry reading.
 people:
