@@ -6,6 +6,8 @@ summary: Artist Laurie Simmons joins Rail Editor-at-Large Charlotte Kent for a
 people:
   - person: laurie-simmons
   - person: charlotte-kent
+poets:
+  - person: jennifer-michael-hecht
 date: 2023-02-03T13:00:00-0500
 end_date: 2023-02-03T14:30:00-0500
 series: 739
