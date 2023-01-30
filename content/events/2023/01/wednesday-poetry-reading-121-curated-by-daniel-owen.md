@@ -1,5 +1,6 @@
 ---
-title: "Wednesday Poetry Reading #121 curated by Daniel Owen"
+title: "If We Were To Be the Same Degree of Spoken: A Rail Reading curated by
+  Daniel Owen"
 deck: Faeturing Owen, Kimberly Alidio, Corina Copp, Mikael Johani, and Violet
   Spurlock
 summary: Daniel Owen curates our 121st Poetry Reading with Kimberly Alidio,
