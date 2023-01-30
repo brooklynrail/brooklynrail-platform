@@ -1,0 +1,23 @@
+---
+title: "To Speak of Everything: The Art of Raymond Mason"
+deck: Featuring Sarah Wilson, Leo Costello, and Andrew Woolbright
+summary: Curators Sarah Wilson and Leo Costello join Rail Editor-at-Large Andrew
+  Woolbright for a conversation. We conclude with a poetry reading.
+people:
+  - person: sarah-wilson
+  - person: leo-costello
+  - person: andrew-paul-woolbright
+date: 2023-02-06T13:00:00-0500
+end_date: 2023-02-06T14:30:00-0500
+series: 740
+collections:
+  - the-new-social-environment
+event_organizer:
+  - the-brooklyn-rail
+event_producer:
+  - the-brooklyn-rail
+event_id: recOaFGyxGD3YKphi
+event_platform:
+  - zoom
+---
+[V﻿isit *To Speak of Everything: The Art of Raymond Mason*, on view at New York Studio School through February 20, 2023 →](https://nyss.org/exhibition/to-speak-of-everything-the-art-of-raymond-mason/)
