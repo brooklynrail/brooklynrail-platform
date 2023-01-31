@@ -10,6 +10,8 @@ people:
   - person: maren-hassinger
   - person: elaine-reichek
   - person: jonathan-t-d-neil
+poets:
+  - person: betsy-fagin
 date: 2023-02-07T13:00:00-0500
 end_date: 2023-02-07T14:30:00-0500
 series: 741
