@@ -1,12 +1,15 @@
 ---
 title: "To Speak of Everything: The Art of Raymond Mason"
-deck: Featuring Sarah Wilson, Leo Costello, and Andrew Woolbright
+deck: Featuring Sarah Wilson, Leo Costello, and Andrew Woolbright, with Jessica Grim
 summary: Curators Sarah Wilson and Leo Costello join Rail Editor-at-Large Andrew
-  Woolbright for a conversation. We conclude with a poetry reading.
+  Woolbright for a conversation. We conclude with a poetry reading by Jessica
+  Grim.
 people:
   - person: sarah-wilson
   - person: leo-costello
   - person: andrew-paul-woolbright
+poets:
+  - person: jessica-grim
 date: 2023-02-06T13:00:00-0500
 end_date: 2023-02-06T14:30:00-0500
 series: 740
