@@ -1,9 +1,10 @@
 ---
 title: "Joan Didion: What She Means"
-deck: Featuring Hilton Als, Maren Hassinger, Elaine Reichek, and Jonathan T.D. Neil
+deck: Featuring Hilton Als, Maren Hassinger, Elaine Reichek, and Jonathan T.D.
+  Neil, with Betsy Fagin
 summary: Writer and curator Hilton Als and artists Maren Hassinger and Elaine
-  Reichek joins Rail contributor Jonathan T.D. Neil for a conversation. We
-  conclude with a poetry reading.
+  Reichek join Rail contributor Jonathan T.D. Neil for a conversation. We
+  conclude with a poetry reading by Betsy Fagin.
 people:
   - person: hilton-als
   - person: maren-hassinger
