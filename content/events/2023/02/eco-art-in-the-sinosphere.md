@@ -6,8 +6,8 @@ summary: This panel will critically discuss art related to nature and ecology
   with a poetry reading.
 people:
   - person: paul-gladston
-date: 2023-03-27T13:00:00-0500
-end_date: 2023-03-27T14:30:00-0500
+date: 2023-03-27T18:00:00-0500
+end_date: 2023-03-27T19:30:00-0500
 series: 775
 collections:
   - the-new-social-environment
