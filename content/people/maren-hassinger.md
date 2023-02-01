@@ -2,12 +2,16 @@
 name: Maren Hassinger
 first_name: Maren
 last_name: Hassinger
-short_bio: "**Maren Hassinger** was the Emeritus Director of the Rinehart School
-  of Sculpture at the Maryland Institute College of Art in Baltimore, which she
-  led for 20 years. During a career that has spanned more than four decades,
-  Hassinger has explored relationships between the industrial and natural worlds
-  in a practice that is both meditative and critical. Currently, her work is
-  focused on exploring issues of equality."
+short_bio: "**Maren Hassinger** has built an expansive practice that articulates
+  humanity's inextricable connection with nature. Through an intentional choice
+  of material, Hassinger explores subjects such as movement, environment,
+  identity, and race. The artist has executed recent commissions for Dia
+  Bridgehampton, Socrates Sculpture Park, the Hirshhorn Museum, and the Aspen
+  Art Museum. Hassinger will be honored with a two-person exhibition alongside
+  Senga Nengudi at IVAM, Valencia. She is the recipient of the Women’s Caucus
+  for the Arts Lifetime Achievement Award. Her work can be found at the Art
+  Institute of Chicago; SFMoMA; LACMA; MoMA, NYC; Hirshhorn Museum; Walker Art
+  Center, and the Whitney Museum, among others. "
 portraits:
   - media: 2023/01/maren-hassinger
 website: https://marenhassinger.com/
