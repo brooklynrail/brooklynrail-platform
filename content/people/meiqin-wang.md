@@ -2,15 +2,16 @@
 name: Meiqin Wang
 first_name: Meiqin
 last_name: Wang
-short_bio: CSUN professor **Meiqin Wang**, PHD specializes in modern and
-  contemporary Chinese art and teaches Asian art history courses. Her
-  dissertation and published materials focus on the recent developments of
-  contemporary art from China and their social, political, economic, and
-  institutional implications in the context of commercialization, urbanization
-  and globalization of the Chinese world. Her research interests also include
-  contemporary art of the Asian world and international exhibitions. Her
-  teaching covers historical and contemporary arts from Asia and her courses
-  emphasize the cultural and political context of artistic production.
+short_bio: "**Dr. Meiqin Wang** received her doctorate degree in Art History
+  from SUNY Binghamton and is currently a full professor at California State
+  University Northridge. Currently, her research focuses on socially engaged art
+  and its related categories such as public art, artivism, and ecological art in
+  East Asia. Her major publication includes two research monographs
+  _Urbanization and Contemporary Chinese Art_ (Routledge, 2016) and _Socially
+  Engaged Art in Contemporary China_ (Routledge, 2019), and two edited volumes,
+  _Visual Arts, Representations and Interventions in Contemporary China_
+  (Amsterdam University Press, 2018) and _Socially Engaged Public Art in East
+  Asia_ (Vernon Press, 2022).  "
 portraits:
   - media: 2022/04/meiqin-wang
 website: http://www.csun.edu/~mwang/
