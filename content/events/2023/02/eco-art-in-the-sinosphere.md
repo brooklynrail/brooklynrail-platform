@@ -5,6 +5,7 @@ summary: This panel will critically discuss art related to nature and ecology
   produced by artists within the Chinese-speaking cultural sphere. We conclude
   with a poetry reading.
 people:
+  - person: meiqin-wang
   - person: paul-gladston
 date: 2023-03-27T18:00:00-0500
 end_date: 2023-03-27T19:30:00-0500
