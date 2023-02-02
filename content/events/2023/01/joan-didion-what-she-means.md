@@ -11,6 +11,9 @@ people:
   - person: elaine-reichek
   - person: liz-larner
   - person: jonathan-t-d-neil
+    related_links:
+      - url: https://jonathantdneil.substack.com/
+        text: Jonathan T.D. Neil on Substack
 poets:
   - person: betsy-fagin
 date: 2023-02-07T13:00:00-0500
