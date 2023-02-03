@@ -10,7 +10,7 @@ date: 2023-02-09T15:00:00-0500
 end_date: 2023-02-09T16:30:00-0500
 series: 743
 collections:
-  - the-new-social-environment
+  - common-ground
 event_organizer:
   - the-brooklyn-rail
 event_producer:
