@@ -1,10 +1,10 @@
 ---
 title: Revisiting 5+1
 deck: Featuring Howardena Pindell, Adger Cowans, Elise Armani, Amy Kahng,
-  Gabriella Shypula, and Elizabeth Buhe
-summary: "Artist Howardena Pindell, photographer Adger Cowans, and curators
-  Elise Armani, Amy Kahng, and Gabriella Shypula join Rail contributor Elizabeth
-  Buhe for a conversation. We conclude with a poetry reading. "
+  Gabriella Shypula, and Elizabeth Buhe, with Portlyn Harjo
+summary: Artist Howardena Pindell, photographer Adger Cowans, and curators Elise
+  Armani, Amy Kahng, and Gabriella Shypula join Rail contributor Elizabeth Buhe
+  for a conversation. We conclude with a poetry reading by Portlyn Harjo.
 people:
   - person: howardena-pindell
   - person: adger-cowans
@@ -12,6 +12,8 @@ people:
   - person: amy-kahng
   - person: gabriella-shypula-1
   - person: elizabeth-buhe
+poets:
+  - person: portlyn-houghton-harjo
 date: 2023-02-10T13:00:00-0500
 end_date: 2023-02-10T14:30:00-0500
 series: 744
