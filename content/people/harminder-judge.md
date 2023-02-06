@@ -2,17 +2,17 @@
 name: Harminder Judge
 first_name: Harminder
 last_name: Judge
-short_bio: Harminder Judge (b. 1982 Rotherham, UK) is an artist whose practice
-  spans object making, performance and installation. Harminder’s work has
-  engaged with many subjects, but there is a continuous exploration of portals,
-  be it spiritual, political, or personal. His performance work has weaved
-  Indian folklore and mysticism with bombastic western pop music and live color
-  field painting; collided occult inspired dreamscapes with hazy laser
-  penetrated reverse baptisms; and transported field recordings made in his
-  family’s Gurdwara in Punjab across the world, and replayed them through a
-  speaker lodged in his throat. Harminder won the 2011 Arts Foundation
-  Fellowship Award in performance art and was recently included in
-  Tomorrow:London at White Cube.
+short_bio: Harminder Judge was born in Rotherham, UK and lives and works in
+  London. His practice explores processes of spiritual and material
+  transformation while drawing from a diverse array of sources for inspiration,
+  including a funeral pyre on his family’s farm in rural Punjab, India, and the
+  rebuilding of a 1930’s bungalow in South Yorkshire, England. With references
+  to the Abstract Expressionist and color field movements of the 20th century as
+  well as traditions of Neo-Tantric painting, Judge’s works negotiate the
+  boundaries of color, form, and composition to create transportive portals that
+  bridge the physical and metaphysical. His intensive process involves layering
+  pigments into pools of wet plaster followed by prolonged periods of excavation
+  in the form of sanding, oiling, and polishing.
 website: http://www.harminderjudge.com/
 instagram: harminderjudge
 ---
