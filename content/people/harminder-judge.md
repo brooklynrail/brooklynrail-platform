@@ -13,6 +13,8 @@ short_bio: Harminder Judge was born in Rotherham, UK and lives and works in
   bridge the physical and metaphysical. His intensive process involves layering
   pigments into pools of wet plaster followed by prolonged periods of excavation
   in the form of sanding, oiling, and polishing.
+portraits:
+  - media: 2020/08/harminder-judge
 website: http://www.harminderjudge.com/
 instagram: harminderjudge
 ---
