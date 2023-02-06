@@ -3,16 +3,17 @@ name: Alvin Hall
 first_name: Alvin
 last_name: Hall
 pronouns: he/him
-short_bio: "Financial educator, award-winning television and radio broadcaster,
-  best-selling author, and art collector **Alvin Hall** is a regular contributor
-  to magazines, newspapers, and websites. His 2020 podcast _Driving the Green
-  Book_ received a 2021 Ambie Award. He hosted the award-winning BBC series
-  _Your Money or Your Life_ on which he offered both practical financial and
-  psychological advice. His radio program, _Jay-Z: From Brooklyn to the
-  Boardroom_, won the Wincott Foundation Press and Broadcasting Award for the
-  best radio program for 2006. He is on the Acquisitions Committee of the Studio
-  Museum in Harlem and lives in New York City where he's completing a memoir of
-  his childhood and his first podcast series."
+short_bio: '**Alvin Hall** is an award-winning broadcaster, best-selling author,
+  and financial educator. Alvin created, produced, and hosted the podcast
+  series, _Driving the Green Book_ by Macmillan Podcasts, which received the
+  2021 Ambie Award for the "Best History Podcast" and the 2021 New York
+  Festivals Gold Award for "Best Narrative Documentary Podcast.” He has authored
+  a number of best sellers, and the US edition of his book, _Your Money or Your
+  Life,_ received the WHSmith People’s Choice Award and was nominated for an
+  NAACP Image Award. His work in radio includes _The Green Book_ (BBC Radio 4)
+  and _Alvin Hall Goes Back to School_ (_The Takeaway_, PRI with WNYC, winner of
+  a New York Association of Black Journalists), among others.  He has also
+  appeared on NPR’s _The Moth_.'
 portraits:
   - media: 2020/05/alvin-hall-portrait
 rail_contributor_url: https://brooklynrail.org/contributor/Alvin-Hall
