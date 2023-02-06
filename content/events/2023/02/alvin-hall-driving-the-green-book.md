@@ -19,4 +19,6 @@ event_id: rec0c7CbYflumOIGh
 event_platform:
   - zoom
 ---
-[G﻿et your copy of *Driving the Green Book* by Alvin Hall (HarperOne, 2023)](https://www.harpercollins.com/products/driving-the-green-book-alvin-hall?variant=40490999316514)
+[G﻿et your copy of *Driving the Green Book* by Alvin Hall (HarperOne, 2023) →](https://www.harpercollins.com/products/driving-the-green-book-alvin-hall?variant=40490999316514)
+
+[](https://www.harpercollins.com/products/driving-the-green-book-alvin-hall?variant=40490999316514)
