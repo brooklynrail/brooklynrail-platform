@@ -8,7 +8,7 @@ people:
   - person: hsin-chien-huang
   - person: rachel-rossin
 date: 2023-01-30T18:30:00-0500
-end_date: 2023-03-03T20:30:00-0500
+end_date: 2023-01-30T20:30:00-0500
 collections:
   - sponsored-listing
 event_organizer:
