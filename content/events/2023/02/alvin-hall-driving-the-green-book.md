@@ -1,11 +1,13 @@
 ---
 title: "Alvin Hall: Driving the Green Book"
-deck: Featuring Hall and Charles Schultz
+deck: Featuring Hall and Charles Schultz, with Jenny Liou
 summary: Writer Alvin Hall joins Rail Managing Editor Charles Schultz for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading by Jenny Liou.
 people:
   - person: alvin-hall
   - person: charles-schultz
+poets:
+  - person: jenni-liou
 date: 2023-02-09T15:00:00-0500
 end_date: 2023-02-09T16:30:00-0500
 series: 743
