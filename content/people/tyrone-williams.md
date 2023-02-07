@@ -14,5 +14,5 @@ short_bio: "**Tyrone Williams** is the David Gray Chair of Poetry & Letters at
   Press, 2019). "
 portraits:
   - media: 2023/02/tyrone-williams
-website: " https://www.flummoxedpoet.com/"
+website: "https://www.flummoxedpoet.com/"
 ---
