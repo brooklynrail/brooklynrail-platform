@@ -6,8 +6,10 @@ summary: Leonard Schwartz curates our 123rd Poetry Reading featuring  Fatemeh
 people:
   - person: zhang-er
   - person: fatemeh-shams
-date: 2023-02-07T16:03:00-0500
-end_date: 2023-02-07T16:03:00-0500
+  - person: tyrone-williams
+  - person: leonard-schwartz
+date: 2023-02-22T13:00:00-0500
+end_date: 2023-02-22T14:30:00-0500
 series: 752
 collections:
   - the-new-social-environment
