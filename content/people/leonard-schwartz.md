@@ -1,6 +1,6 @@
 ---
 name: Leonard Schwartz
-first_name: Leonard
+first_name: "Leonard "
 last_name: Schwartz
 short_bio: "**Leonard Schwartz** is the author of numerous books of poetry,
   including, most recently, _Actualities I: Transparent, to the Stone_ and
