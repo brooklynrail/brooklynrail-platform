@@ -13,4 +13,6 @@ short_bio: "**Zhang Er**, poet, translator and opera librettist, born in
   She also wrote the opera libretti, _Moon in the Mirror_ and _Fiery Jade: Cai
   Yan_ . _Tacoma Method_, a new opera, is scheduled to premiere in March 2023.
   She currently lives in the Pacific Northwest, among the trees. "
+portraits:
+  - media: 2023/02/zhang-er
 ---
