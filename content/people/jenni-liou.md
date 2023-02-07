@@ -1,5 +1,5 @@
 ---
-name: Jenni Liou
+name: Jenny Liou
 first_name: Jenny
 last_name: Liou
 short_bio: "**Jenny Liou** is an English professor at Pierce College in
