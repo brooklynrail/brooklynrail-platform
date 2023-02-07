@@ -13,4 +13,6 @@ short_bio: "**Fatemeh Shams** is an internationally acclaimed poet with three
   in Oriental Studies from Oxford University and currently serves as the
   assistant professor of Modern Persian Literature at the University of
   Pennsylvania. "
+portraits:
+  - media: 2023/02/fatemeh-shams
 ---
