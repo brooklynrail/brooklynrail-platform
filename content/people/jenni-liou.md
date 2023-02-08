@@ -13,4 +13,6 @@ short_bio: "**Jenny Liou** is an English professor at Pierce College in
   at work on a book-length collection of essays about immigrant ecologies."
 portraits:
   - media: 2023/02/jenny-liou
+website: https://www.jennyhwayuliou.com/
+instagram: jennyjadeliou
 ---
