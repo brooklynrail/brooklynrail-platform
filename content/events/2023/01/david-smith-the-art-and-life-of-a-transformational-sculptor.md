@@ -1,8 +1,8 @@
 ---
 title: "David Smith: The Art and Life of a Transformational Sculptor"
 deck: Featuring Michael Brenson and David Levi Strauss
-summary: Art critic Michael Brenson joins Rail contributor David Levi Strauss
-  for a conversation. We conclude with a poetry reading.
+summary: Art critic Michael Brenson joins Rail Consulting Editor David Levi
+  Strauss for a conversation. We conclude with a poetry reading.
 people:
   - person: michael-brenson
   - person: david-levi-strauss
