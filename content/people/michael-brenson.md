@@ -4,8 +4,8 @@ first_name: Michael
 last_name: Brenson
 pronouns: he/him
 short_bio: "Art critic, scholar, and curator **Michael Brenson** was an art
-  critic for the New York Times and has curated exhibitions at MoMA PS1 and the
-  SculptureCenter. He has been a Getty scholar, Guggenheim Fellow, Bogliasco
+  critic for _The New York Times_ and has curated exhibitions at MoMA PS1 and
+  the SculptureCenter. He has been a Getty scholar, Guggenheim Fellow, Bogliasco
   Fellow, and Clark Fellow. For many years he was a member of the sculpture
   faculty in Bard College’s Milton Avery Graduate School of the Arts and a
   Visiting Senior Critic in the University of Pennsylvania’s School of Design’s
