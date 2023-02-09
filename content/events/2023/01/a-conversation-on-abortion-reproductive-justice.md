@@ -1,8 +1,9 @@
 ---
 title: A Conversation on Abortion & Reproductive Justice
 deck: "Featuring Emma Pildes, Tia Lessin, and Rev. Donna Schaper "
-summary: Directors Emma Pildes and Tia Lessin join Rail Editor-at-Large Donna
-  Schaper for a conversation. We conclude with a poetry reading.
+summary: Directors of documentary The Janes Emma Pildes and Tia Lessin join Rail
+  Editor-at-Large Donna Schaper for a conversation. We conclude with a poetry
+  reading.
 people:
   - person: emma-pildes
   - person: tia-lessin
