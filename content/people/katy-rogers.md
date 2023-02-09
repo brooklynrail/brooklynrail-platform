@@ -13,4 +13,5 @@ short_bio: " **Katy Rogers** is the Programs Director and Director of the Robert
   Hunter College, El Museo del Barrio, and Kasmin Gallery, among others. "
 portraits:
   - media: 2023/01/katy-rogers
+rail_contributor_url: https://brooklynrail.org/contributor/Katy-Rogers
 ---
