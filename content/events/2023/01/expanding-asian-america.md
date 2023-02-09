@@ -8,6 +8,8 @@ people:
   - person: dorothy-wang
   - person: al-an-desouza
   - person: joan-kee
+poets:
+  - person: margaret-rhee
 date: 2023-02-16T13:00:00-0500
 end_date: 2023-02-16T14:30:00-0500
 series: 748
