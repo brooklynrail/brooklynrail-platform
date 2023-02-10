@@ -1,8 +1,8 @@
 ---
 title: "Brenda Goodman: Hop Skip Jump"
-deck: Featuring Goodman and Ksenia M. Soboleva, with Amanda Monti
+deck: Featuring Goodman and Ksenia M. Soboleva, with a.Monti
 summary: Artist Brenda Goodman joins Rail contributor Ksenia M. Soboleva for a
-  conversation. We conclude with a poetry reading by Amanda Monti.
+  conversation. We conclude with a poetry reading by a.Monti.
 people:
   - person: brenda-goodman
   - person: ksenia-m-soboleva
