@@ -10,4 +10,6 @@ short_bio: Cross-disciplinary poet based on Lenape-land/Queens **Amanda Monti**
   sell ice cream in Ridgewood.
 portraits:
   - media: 2022/07/amanda-monti
+website: https://softie.space/
+instagram: lavender_shrimp
 ---
