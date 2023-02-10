@@ -10,7 +10,7 @@ poets:
   - person: amanda-monti
 date: 2023-02-13T13:00:00-0500
 end_date: 2023-02-13T14:30:00-0500
-series: 744
+series: 745
 collections:
   - the-new-social-environment
 event_organizer:
