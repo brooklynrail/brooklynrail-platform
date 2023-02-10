@@ -1,9 +1,9 @@
 ---
 title: "Loie Hollowell and Harminder Judge: Love Letter "
 deck: Featuring Hollowell, Judge, and Jason Rosenfeld, with Leah Dworkin
-summary: Curators Loie Hollowell and Harminder Judge join Rail Editor-at-Large
-  Jason Rosenfeld for a conversation. We conclude with a poetry reading by Leah
-  Dworkin.
+summary: Artists and curators Loie Hollowell and Harminder Judge join Rail
+  Editor-at-Large Jason Rosenfeld for a conversation. We conclude with a poetry
+  reading by Leah Dworkin.
 people:
   - person: loie-hollowell
   - person: harminder-judge
