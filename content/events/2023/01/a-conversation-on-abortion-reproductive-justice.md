@@ -1,13 +1,15 @@
 ---
 title: A Conversation on Abortion & Reproductive Justice
-deck: "Featuring Emma Pildes, Tia Lessin, and Rev. Donna Schaper "
+deck: Featuring Emma Pildes, Tia Lessin, and Rev. Donna Schaper, with Cat Tyc
 summary: The Janes documentary directors Emma Pildes and Tia Lessin join Rail
   Editor-at-Large Donna Schaper for a conversation. We conclude with a poetry
-  reading.
+  reading by Cat Tyc.
 people:
   - person: emma-pildes
   - person: tia-lessin
   - person: rev-dr-dona-schaper
+poets:
+  - person: cat-tyc
 date: 2023-03-30T13:00:00-0500
 end_date: 2023-03-30T13:30:00-0500
 series: 778
