@@ -12,6 +12,8 @@ short_bio: "**Léonie Guyer** makes paintings, drawings, site-based work, and
   Berkeley, San José State University, and elsewhere. Léonie Guyer was born in
   New York, NY. She received a B.F.A. and an M.F.A. from the San Francisco Art
   Institute. She lives and works in San Francisco, CA."
+portraits:
+  - media: 2023/02/leonie-guyer
 website: https://www.leonieguyer.com/
 instagram: leonieguyer
 ---
