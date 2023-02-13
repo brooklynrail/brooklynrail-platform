@@ -12,7 +12,7 @@ people:
   - person: rachel-eulena-williams-1
   - person: thyrza-nichols-goodeve
 poets:
-  - person: lyn-patterson
+  - person: lyn-patterson-1
 date: 2023-02-14T13:00:00-0500
 end_date: 2023-02-14T14:30:00-0500
 series: 746
