@@ -6,9 +6,10 @@ summary: Artists Rachel Eulena Williams, Tau Lewis, Marlene Bennett Jones, and
   Essie Bendolph Pettway joins Rail Editor-at-Large Thyrza Nichols Goodeve for a
   conversation. We conclude with a poetry reading.
 people:
-  - person: rachel-eulena-williams-1
+  - person: marlene-bennett-jones
   - person: tau-lewis
   - person: essie-bendolph-pettway
+  - person: rachel-eulena-williams-1
   - person: thyrza-nichols-goodeve
 date: 2023-02-14T13:00:00-0500
 end_date: 2023-02-14T14:30:00-0500
