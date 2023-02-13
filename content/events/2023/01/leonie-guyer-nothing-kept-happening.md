@@ -1,11 +1,13 @@
 ---
 title: "Léonie Guyer: Nothing kept happening"
-deck: Featuring Guyer and Dore Bowen
-summary: "Artist Léonie Guyer joins Rail contributor Dore Bowen for a
-  conversation. We conclude with a poetry reading. "
+deck: Featuring Guyer and Dore Bowen, with Leah Nieboer
+summary: Artist Léonie Guyer joins Rail contributor Dore Bowen for a
+  conversation. We conclude with a poetry reading by Leah Nieboer.
 people:
   - person: leonie-guyer
   - person: dore-bowen
+poets:
+  - person: leah-nieboer
 date: 2023-02-28T13:00:00-0500
 end_date: 2023-02-28T14:30:00-0500
 series: 756
