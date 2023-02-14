@@ -1,7 +1,7 @@
 ---
-media: /media/files/serpentine_sumayya_vally_mpho_mokgadi.webp
+media: /media/files/©marilynclark_2023.01_islamicbiennale_1.jpg
 title: Sumayya Vally
-alt: Black and white photo of Sumayya Vally
-caption: Photo by Mpho Mokgadi
+alt: Photo of Sumayya Vally
+caption: © Marilyn Clark
 date: 2023-02-14T11:57:00-0500
 ---
