@@ -19,4 +19,4 @@ event_id: rechEA7qLwNUezDr4
 event_platform:
   - zoom
 ---
-[V﻿isit *Hans Haacke: Taking Stock, 1975 – 1985*, on view at Paula Cooper Gallery through February 25, 2023 →](https://www.paulacoopergallery.com/exhibitions/hans-haacke-taking-stock-1975-1985#tab:slideshow;tab-1:thumbnails)
+[V﻿isit *Hans Haacke: Taking Stock, 1975 – 1985*, on view at Paula Cooper Gallery through February 25, 2023 →](https://www.paulacoopergallery.com/exhibitions/hans-haacke5)
