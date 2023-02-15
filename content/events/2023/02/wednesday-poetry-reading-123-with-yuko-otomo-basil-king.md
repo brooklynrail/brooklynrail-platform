@@ -1,7 +1,7 @@
 ---
 title: "Wednesday Poetry Reading #123 with Yuko Otomo & Basil King"
 deck: Featuring Okomo and King
-summary: Yuko Otomo and Basil King curate our 123rd Wednesday Poetry Reading.
+summary: Yuko Otomo and Basil King read for our 123rd Wednesday Poetry Reading.
 people:
   - person: yuko-otomo
   - person: basil-king
