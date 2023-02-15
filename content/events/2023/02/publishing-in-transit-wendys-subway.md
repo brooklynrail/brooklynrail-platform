@@ -1,5 +1,5 @@
 ---
-title: "Publishing in Transit: Wendy's Subway"
+title: "Publishing-in-Transit: Wendy's Subway"
 deck: Featuring Rachel Valinsky and Cole Swensen
 summary: Wendy's Subway co-founder and Artistic Director Rachel Valinsky joins
   Rail contributor Cole Swensen for a conversation. We conclude with a poetry
