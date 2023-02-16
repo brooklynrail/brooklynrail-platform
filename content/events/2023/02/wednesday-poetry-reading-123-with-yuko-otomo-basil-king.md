@@ -1,5 +1,5 @@
 ---
-title: "Wednesday Poetry Reading #123 with Yuko Otomo & Basil King"
+title: "6 Rue de Fürstemberg: A Rail Reading curated by Yuko Otomo & Basil King"
 deck: Featuring Okomo and King
 summary: Yuko Otomo and Basil King read for our 123rd Wednesday Poetry Reading.
 people:
