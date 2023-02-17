@@ -2,7 +2,7 @@
 name: Orchid Tierney
 first_name: Orchid
 last_name: Tierney
-short_bio: "**Orchid Tierney** is a poet and scholar from Aotearoa New Zealand.
+short_bio: "**Orchid Tierney** is a poet and scholar from Aotearoa, New Zealand.
   She is the author of the collection _a year of misreading the wildcats_ (The
   Operating System, 2019) and seven chapbooks, most recently _looking at the
   tiny: Mad lichen on the surfaces of reading_ (Essay Press, forthcoming). Her
