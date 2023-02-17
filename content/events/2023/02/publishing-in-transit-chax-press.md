@@ -1,16 +1,19 @@
 ---
 title: "Publishing-in-Transit: Chax Press"
-deck: Featuring Charles Alexander and Cole Swensen
-summary: Chax Press Executive Director Charles Alexander joins Rail contributor
-  Cole Swensen for a conversation. We conclude with a poetry reading.
+deck: Featuring Charles Alexander, Cynthia Miller, David Abel, and Cole Swensen
+summary: Chax Press Executive Director Charles Alexander, artist Cynthia Miller,
+  and writer David Abel join Rail contributor Cole Swensen for a conversation.
+  We conclude with a poetry reading.
 people:
   - person: charles-alexander
   - person: cole-swensen
+  - person: cynthia-miller
+  - person: david-abel
 date: 2023-02-23T13:00:00-0500
 end_date: 2023-02-23T14:30:00-0500
 series: 753
 collections:
-  - the-new-social-environment
+  - common-ground
 event_organizer:
   - the-brooklyn-rail
 event_producer:
