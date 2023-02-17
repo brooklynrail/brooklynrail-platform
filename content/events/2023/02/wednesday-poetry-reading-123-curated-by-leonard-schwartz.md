@@ -1,5 +1,5 @@
 ---
-title: "Three Languages: A Rail Reading Curated by Leonard Schwartz"
+title: "Three Languages: A Rail Reading curated by Leonard Schwartz"
 deck: Featuring Schwartz, Fatemeh Shams, Tyrone Williams, and Zhang Er
 summary: Leonard Schwartz curates our 123rd Poetry Reading featuring  Fatemeh
   Shams, Tyrone Williams, and Zhang Er.
