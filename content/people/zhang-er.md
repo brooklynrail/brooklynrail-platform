@@ -4,7 +4,7 @@ first_name: Zhang
 last_name: Er
 short_bio: "**Zhang Er**, poet, translator and opera librettist, born in
   Beijing, is the author of seven collections of poetry in Chinese, most
-  recently _Sea Volts and Bullets Twirl_《海跳起，子弹婉转. Her selected poems were
+  recently _Sea Volts and Bullets Twirl 《海跳起，子弹婉转》_. Her selected poems were
   published in three English translation collections from _Zephyr Press, First
   Mountain, So Translating Rivers and Cities_, and _Verses on Bird_. She
   co-edited the translation of _Another Kind of Nation: an Anthology of
