@@ -3,7 +3,7 @@ name: Hans Haacke
 first_name: Hans
 last_name: Haacke
 short_bio: For six decades, **Hans Haacke** (b. Cologne, Germany, 1936) has been
-  a pioneer in kinetic art, environmental art, Conceptual art, and institutional
+  a pioneer in Kinetic art, environmental art, Conceptual art, and institutional
   critique. He has had solo exhibitions at the New Museum, New York (2019,
   1986); Museo Nacional Centro de Arte Reina Sofía, Madrid (2012); and MIT List
   Visual Arts Center, Cambridge, MA (2011, 1967); among others. He has
