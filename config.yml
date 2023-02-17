@@ -5,7 +5,7 @@ theme: "brooklynrail"
 themesDir: "./themes"
 DefaultContentLanguage: "en"
 SectionPagesMenu: "main"
-Paginate: 20
+Paginate: 40
 googleAnalytics: "UA-24931975-1"
 enableRobotsTXT: true
 enableEmoji: true
@@ -78,8 +78,8 @@ markup:
   issue: "May 2020"
   description: "Critical Perspectives on Art, Politics, and Culture"
   tagline: "Independent and Free"
-  events_count: 20
-  articles_count: 20
+  events_count: 40
+  articles_count: 40
 
 # Sitemap
 sitemap:
