@@ -9,7 +9,7 @@ short_bio: "**Dore Bowen,** PhD, writes on modern and contemporary art, focusing
   Yael Bartana, Dan Graham, Akram Zaatari, Elin Hansdottir, and Lydia Ourahmane.
   In 2019 Bowen published _Bruce Nauman: Spatial Encounters_ (with Constance M.
   Lewallen, University of California Press), and is currently completing a
-  monographon on the diorama from the 19th century to contemporary installation
+  monograph on the diorama from the 19th century to contemporary installation
   art. She is Associate Professor and Coordinator of Art History and Visual
   Culture at San José State University."
 portraits:
