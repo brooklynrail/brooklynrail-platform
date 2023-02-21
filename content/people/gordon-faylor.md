@@ -7,4 +7,6 @@ short_bio: "**J. Gordon Faylor** is the author of _Fort Discloses Guests If You
   Editions, 2022), and _Registration Caspar_ (Ugly Duckling Presse, 2016), among
   other works. He is the former editor of Gauss PDF and the former managing
   editor of SFMOMA's Open Space. He currently lives in Brooklyn."
+portraits:
+  - media: 2023/02/gordan-faylor
 ---
