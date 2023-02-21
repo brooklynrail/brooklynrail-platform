@@ -10,8 +10,8 @@ short_bio: "**Dore Bowen,** PhD, writes on modern and contemporary art, focusing
   In 2019 Bowen published _Bruce Nauman: Spatial Encounters_ (with Constance M.
   Lewallen, University of California Press), and is currently completing a
   monograph on the diorama from the 19th century to contemporary installation
-  art. She is a Research Professor in the Department of Art, Art History &
-  Visual Studies at Duke University"
+  art. She is Research Professor in the Department of Art, Art History & Visual
+  Studies at Duke University."
 portraits:
   - media: 2020/08/dore-bowen
 website: http://www.dorebowen.com
