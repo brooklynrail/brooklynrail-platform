@@ -1,6 +1,6 @@
 ---
 title: Eco-Art in the Sinosphere
-deck: Featuring Meiqin Wang, Sheldon Lu, Chang Tan, and Paul Gladston
+deck: Featuring Meiqin Wang, Chang Tan, and Paul Gladston
 summary: This panel will critically discuss art related to nature and ecology
   produced by artists within the Chinese-speaking cultural sphere. We conclude
   with a poetry reading.
