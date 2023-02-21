@@ -1,11 +1,13 @@
 ---
 title: "Walter De Maria: Boxes for Meaningless Work"
-deck: Featuring Michelle White and Amanda Gluibizzi
+deck: Featuring Michelle White and Amanda Gluibizzi, with J. Gordon Faylor
 summary: Curator Michelle White joins Rail Art Editor Amanda Gluibizzi for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading by J. Gordon Faylor.
 people:
   - person: michelle-white
   - person: amanda-gluibizzi
+poets:
+  - person: gordon-faylor
 date: 2023-02-24T13:00:00-0500
 end_date: 2023-02-24T14:30:00-0500
 series: 754
