@@ -1,7 +1,7 @@
 ---
 title: A conversation with Danspace Project
 deck: Featuring Judy Hussie-Taylor, Seta Morton, and Rail host to be announced,
-  with Lu Yim.
+  with Lu Yim
 summary: Danspace Executive Director Judy Hussie-Taylor and Danspace Program
   Director Seta Morton join Rail host for a conversation. We conclude with a
   poetry reading by Lu Yim.
