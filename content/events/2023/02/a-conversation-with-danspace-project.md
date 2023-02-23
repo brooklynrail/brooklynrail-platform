@@ -9,7 +9,7 @@ people:
   - person: judy-hussie-taylor
   - person: seta-morton
 poets:
-  - person: 2023/02/lu-yim
+  - person: lu-yim
 date: 2023-03-02T13:00:00-0500
 end_date: 2023-03-02T14:30:00-0500
 series: 758
