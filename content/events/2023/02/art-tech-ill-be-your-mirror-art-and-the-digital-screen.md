@@ -1,10 +1,10 @@
 ---
 title: "Art + Tech: I'll Be Your Mirror: Art and the Digital Screen"
 deck: Featuring Alison Hearst, Alice Bucknell, Kahlil Robert Irving, and
-  Charlotte Kent
+  Charlotte Kent, with Courtney Bush
 summary: Curator Alison Hearst and artists Alice Bucknell and Kahlil Robert
   Irving join Rail Editor-at-Large Charlotte Kent for a conversation. We
-  conclude with a poetry reading.
+  conclude with a poetry reading by Courtney Bush.
 people:
   - person: alison-hearst
   - person: alice-bucknell-1
@@ -25,3 +25,4 @@ event_id: recLI090q7SdjlOzW
 event_platform:
   - zoom
 ---
+[V﻿isit *I’ll Be Your Mirror: Art and the Digital Screen*, on view at the Modern Art Museum of Fort Worth through April 30, 2023 →](https://www.themodern.org/exhibition/ill-be-your-mirror-art-and-digital-screen)
