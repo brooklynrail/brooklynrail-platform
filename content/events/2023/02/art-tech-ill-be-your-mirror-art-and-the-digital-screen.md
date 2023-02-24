@@ -1,14 +1,15 @@
 ---
 title: "Art + Tech: I'll Be Your Mirror: Art and the Digital Screen"
-deck: Featuring Alison Hearst, Alice Bucknell, Kahlil Robert Irving, and
-  Charlotte Kent, with Courtney Bush
-summary: Curator Alison Hearst and artists Alice Bucknell and Kahlil Robert
-  Irving join Rail Editor-at-Large Charlotte Kent for a conversation. We
-  conclude with a poetry reading by Courtney Bush.
+deck: Featuring Alison Hearst, Alice Bucknell, Kahlil Robert Irving, Hasan
+  Elahi, and Charlotte Kent, with Courtney Bush
+summary: Curator Alison Hearst and artists Alice Bucknell, Kahlil Robert Irving,
+  and Hasan Elahi join Rail Editor-at-Large Charlotte Kent for a conversation.
+  We conclude with a poetry reading by Courtney Bush.
 people:
   - person: alison-hearst
   - person: alice-bucknell-1
   - person: kahlil-robert-irving
+  - person: hasan-elahi
   - person: charlotte-kent
 poets:
   - person: courtney-bush
