@@ -1,10 +1,11 @@
 ---
 title: "Aria Dean: Abattoir, U.S.A.!"
-deck: Featuring Dean and Rail host to be announced
-summary: Artist Aria Dean joins Rail host for a conversation. We conclude with a
-  poetry reading.
+deck: Featuring Dean and McKenzie Wark
+summary: Artist Aria Dean joins Rail contributor McKenzie Wark for a
+  conversation. We conclude with a poetry reading.
 people:
   - person: aria-dean
+  - person: " mckenzie-wark"
 date: 2023-03-06T13:00:00-0500
 end_date: 2023-03-06T14:30:00-0500
 series: 760
