@@ -1,5 +1,5 @@
 ---
-title: "Director's Series: Sumayya Vally and Aya Albakree"
+title: "Director's Series: Sumayya Vally and Aya Al-Bakree"
 deck: "Featuring Vally, Al-Bakree, Joachim Pissarro, and Jennifer Stockman "
 summary: Architect Sumayya Vally and Thunaiyat Ad-Diriyah Foundation CEO Aya
   Al-Bakree join Guggenheim President Emeritus Jennifer Stockman and Rail
