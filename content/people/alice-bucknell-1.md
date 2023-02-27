@@ -9,7 +9,7 @@ short_bio: "**Alice Bucknell** is an artist, writer, and curator based in London
   established New Mystics, an editorial platform merging magic and technology.
   She has exhibited internationally, including at the 17th Venice Architecture
   Biennale, Bloomberg New Contemporaries, and Het Nieuwe Instituut. Her writing
-  appears regularly in publications including ArtReview and Flash Art. She's
+  appears regularly in publications including _ArtReview_ and _Flash Art_. She's
   currently an Associate Lecturer in MA Narrative Environments at Central Saint
   Martins in London. In 2023, she will be in residence at transmediale in Berlin
   and a Supercollider SciArt fellow in LA."
