@@ -8,6 +8,7 @@ people:
   - person: tyhe-cooper
 date: 2023-03-09T13:00:00-0500
 end_date: 2023-03-09T14:30:00-0500
+series: 763
 collections:
   - common-ground
 event_organizer:
