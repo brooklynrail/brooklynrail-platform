@@ -2,15 +2,16 @@
 name: Alison Hearst
 first_name: Alison
 last_name: Hearst
-short_bio: "**Alison Hearst** is Assistant Curator at the Modern Art Museum of
-  Fort Worth. Hearst has organized exhibitions including _Donald Sultan: The
-  Disaster Paintings_. Hearst is also the curator of the museum’s FOCUS
-  exhibition series and has presented exhibitions of artists including Fred
-  Tomaselli, Jules de Balincourt, Mario García Torres, and Lorna Simpson, among
-  others. In addition to her FOCUS publications, Hearst is the editor and
-  contributing author of the publication _Donald Sultan: The Disaster
-  Paintings_, and a contributing author of _México Inside Out: Themes in Art
-  Since 1990_ and _Urban Theater: New York Art in the 1980s_. "
+short_bio: "**Alison Hearst** is Curator at the Modern Art Museum of Fort Worth.
+  She is curator of the museum’s _FOCUS_ exhibition series and has presented
+  solo exhibitions of artists including Fred Tomaselli, Mario García Torres,
+  Joyce Pensato, Jill Magid, Martine Gutierrez, Thomas Demand, Lorna Simpson,
+  Analia Saban, Jamal Cyrus, and Stanley Whitney, amongst others. She organized
+  the twenty-year survey, Robyn O’Neil: WE, THE MASSES, which opened in fall
+  2019. Hearst was also the curator of _Donald Sultan: The Disaster Paintings_,
+  which traveled nationally. Hearst served as assistant curator of the major
+  exhibitions _Urban Theater: New York Art in the 1980s_ and _México Inside Out:
+  Themes in Art Since 1990_."
 portraits:
   - media: 2023/02/alison-hearst
 website: https://www.themodern.org/
