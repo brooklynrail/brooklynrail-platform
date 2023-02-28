@@ -1,8 +1,8 @@
 ---
 title: "Aria Dean: Abattoir, U.S.A.!"
-deck: Featuring Dean and McKenzie Wark
+deck: Featuring Dean and McKenzie Wark, with K Allado-McDowell
 summary: Artist Aria Dean joins Rail contributor McKenzie Wark for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading by K Allado-McDowell.
 people:
   - person: aria-dean
   - person: mckenzie-wark
