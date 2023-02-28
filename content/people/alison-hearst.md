@@ -15,4 +15,5 @@ short_bio: "**Alison Hearst** is Curator at the Modern Art Museum of Fort Worth.
 portraits:
   - media: 2023/02/alison-hearst
 website: https://www.themodern.org/
+instagram: "alison.hearst "
 ---
