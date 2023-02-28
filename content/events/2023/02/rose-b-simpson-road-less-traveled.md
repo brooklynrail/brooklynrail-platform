@@ -2,9 +2,11 @@
 title: "Rose B. Simpson: Road Less Traveled"
 deck: Featuring Simpson and Rail host to be announced
 summary: Artist Rose B. Simpson joins Rail host for a conversation. We conclude
-  with a poetry reading.
+  with a poetry reading by Andrea Abi-Karam.
 people:
   - person: rose-b-simpson
+poets:
+  - person: andrea-abi-karam
 date: 2023-03-14T13:00:00-0500
 end_date: 2023-03-14T14:30:00-0500
 series: 766
