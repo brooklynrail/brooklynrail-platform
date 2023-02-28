@@ -2,15 +2,13 @@
 name: Andrea Abi-Karam
 first_name: Andrea
 last_name: Abi-Karam
-short_bio: "Trans, arab-american punk poet-performer cyborg **Andrea Abi-Karam**
-  writes on the art of killing bros, the intricacies of cyborg bodies, and
-  trauma and delayed healing. Selected by Bhanu Khapil, Andrea’s debut
-  _EXTRATRANSMISSION_ (Kelsey Street Press, 2019) is a poetic critique of the
-  U.S. military’s role in the War on Terror. Simone White selected their second
-  assemblage, _Villainy_, for publication in September 2021 at Nightboat Books.
-  With Kay Gabriel, they co-edited _We Want It All: An Anthology of Radical
-  Trans Poetics_ (Nightboat Books, 2020). They are a leo currently obsessed with
-  queer terror and convertibles."
+short_bio: "**Andrea Abi-Karam** is a trans, arab-american punk poet-performer
+  cyborg. They are the author of _EXTRATRANSMISSION_ (Kelsey Street Press, 2019)
+  and with Kay Gabriel, they co-edited _We Want It All: An Anthology of Radical
+  Trans Poetics_ (Nightboat Books, 2020). Their second book, _Villainy_
+  (Nightboat Books, Sept 2021) reimagines militant collectivity in the wake of
+  the Ghost Ship Fire and the Muslim Ban. They are currently working on a poet's
+  novel about crushes."
 portraits:
   - media: 2021/03/ron-athey
 website: http://andreaak.com/
