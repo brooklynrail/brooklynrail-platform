@@ -2,7 +2,7 @@
 title: "Joe Brainard: The Art of the Personal"
 deck: Featuring John Yau and Tyhe Cooper
 summary: Poet and essayist John Yau joins Rail Production Editor Tyhe Cooper for
-  a conversation. We conclude with a poetry reading.
+  a conversation and reading.
 people:
   - person: john-yau-2
   - person: tyhe-cooper
