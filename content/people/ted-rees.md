@@ -15,5 +15,6 @@ short_bio: "**Ted Rees** is a poet, essayist, and editor based in Philadelphia.
   workshop space."
 portraits:
   - media: 2022/12/ted-rees
+rail_contributor_url: https://brooklynrail.org/2023/02/poetry/Hand-Me-the-Limits
 website: https://tedreeswords.com/
 ---
