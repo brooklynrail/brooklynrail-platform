@@ -1,11 +1,13 @@
 ---
 title: "Matt Mullican: Sunday, August 9, 1908 "
-deck: Featuring Mullican and Dan Cameron
+deck: Featuring Mullican and Dan Cameron, with Patrick Hill
 summary: Artist Matt Mullican joins Rail Editor-at-Large Dan Cameron for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading by Patrick Hill.
 people:
   - person: matt-mullican
   - person: dan-cameron
+poets:
+  - person: patrick-hill
 date: 2023-03-10T13:00:00-0500
 end_date: 2023-03-10T14:30:00-0500
 series: 764
