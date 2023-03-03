@@ -1,7 +1,8 @@
 ---
-title: Rail Reading with Juan Arabia and Patricio Ferrari
-deck: Featuring Arabia and Ferrari
-summary: Juan Arabia and Patricio Ferrari read for our 124th Wednesday Poetry Reading.
+title: Buenos Aires and New York City, with the World in Between
+deck: Featuring Juan Arabia and Patricio Ferrari
+summary: Juan Arabia and Patricio Ferrari curate and read for our 124th
+  Wednesday Poetry Reading.
 people:
   - person: juan-arabia
   - person: patricio-ferrari
