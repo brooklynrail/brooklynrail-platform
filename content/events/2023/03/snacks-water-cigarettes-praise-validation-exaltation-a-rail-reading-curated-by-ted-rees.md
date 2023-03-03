@@ -1,6 +1,6 @@
 ---
 title: "Snacks, water, cigarettes, praise, validation, exaltation: A Rail
-  Reading Curated by Ted Rees"
+  Reading curated by Ted Rees"
 deck: Featuring Rees, Emily Martin, Ryan Skrabalak and Anna Young
 summary: Ted Rees curates our 125th Poetry Reading with Emily Martin, Ryan
   Skrabalak and Anna Young
