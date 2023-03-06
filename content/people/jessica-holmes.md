@@ -3,9 +3,9 @@ name: Jessica Holmes
 first_name: Jessica
 last_name: Holmes
 short_bio: "Writer, editor, and critic **Jessica Holmes's** writing features
-  regularly in BOMB, Hyperallergic, and The Brooklyn Rail, where she also edits
-  the ArTonic column. Other bylines include Vanity Fair Spain, The Magazine
-  Antiques, and The Woman’s Art Journal. Recent exhibition catalogue
+  regularly in _BOMB, Hyperallergic, and The Brooklyn Rail,_ where she also
+  edits the ArTonic column. Other bylines include _Vanity Fair Spain, The
+  Magazine Antiques,_ and _The Woman’s Art Journal._ Recent exhibition catalogue
   contributions include_Judith Braun: My Pleasure_ (Opalka Gallery, Russell Sage
   College), _Ellsworth Ausby: Somewhere in Space, Paintings from the 1960s and
   1970s_ (Eric Firestone Gallery) and _Markus Linnenbrink:
