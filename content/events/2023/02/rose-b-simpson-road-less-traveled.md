@@ -1,6 +1,6 @@
 ---
 title: "Rose B. Simpson: Road Less Traveled"
-deck: Featuring Simpson and Jessica Holmes
+deck: Featuring Simpson and Jessica Holmes, with Andrea Abi-Karam
 summary: Artist Rose B. Simpson joins Rail ArTonic Editor Jessica Holmes for a
   conversation. We conclude with a poetry reading by Andrea Abi-Karam.
 people:
