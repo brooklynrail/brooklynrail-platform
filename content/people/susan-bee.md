@@ -3,7 +3,7 @@ name: Susan Bee
 first_name: Susan
 last_name: Bee
 pronouns: she/hers
-short_bio: Brooklyn based artist **Susan Bee** has had nine solo shows at A.I.R.
+short_bio: Brooklyn based artist **Susan Bee** has had ten solo shows at A.I.R.
   Gallery. Bee has published eighteen artist’s books, including collaborations
   with Susan Howe, Charles Bernstein, Jerome McGann, Rachel Levitsky, and Jerome
   Rothenberg. Bee’s artwork is in many collections and has been widely reviewed.
