@@ -3,17 +3,18 @@ name: Peter Covino
 first_name: Peter
 last_name: Covino
 pronouns: he/his
-short_bio: After a 15-year career as a social worker in foster care and AIDS
-  services in NYC, poet-editor-translator Peter Covino is now an associate
-  professor of English at the University of Rhode Island. He is the author of
-  collections The Right Place to Jump and Cut Off the Ears of Winter, and
-  co-edited Essays in Italian American Literature. His awards include a NEA
-  Translation Fellowship, the PEN American/Osterweil Award, and Frank O’Hara
-  Prize for his chapbook Straight Boyfriend. He is a Founding Editor of the
-  Ocean State Review and Barrow Street Press. Recent poems and translations
-  appear or are forthcoming at Poem-A-Day, APR, Atelier, Asymptote, Cincinnati
-  Review, Colorado Review, Community RAI Italian Television, Puerto del Sol,
-  Seneca Review, Words without Borders, and Yale Review.
+short_bio: After a fourteen-year career as a professional social worker in the
+  fields of foster care and AIDS services in NYC, poet-translator-editor
+  Peter Covino is an associate professor in the English and Creative Writing PhD
+  Program at the University of Rhode Island. He is a well-published scholar
+  and author of _The Right Place to Jump and Cut Off the Ears of Winter_ both
+  from W. Michigan UP, New Issues; and _Essays on Italian American
+  Literature_ CUNY/Bordighera. His prizes include a 2019 NEA Translation
+  Fellowship, a Fellowship from the Richmond American International University
+  of London, the PEN American/Osterweil Award, and the Frank O’Hara Prize for
+  his chapbook _Straight Boyfriend_. He is a founding editor/trustee of _Barrow
+  Street Press_. 
 portraits:
-  - media: 2020/09/peter-covino-headshot
+  - media: 2023/03/peter-covino
+website: https://petercovino.com/
 ---
