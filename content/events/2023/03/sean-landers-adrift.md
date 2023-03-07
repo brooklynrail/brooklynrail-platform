@@ -8,7 +8,7 @@ people:
   - person: jason-rosenfeld
 date: 2023-03-17T13:00:00-0500
 end_date: 2023-03-17T14:30:00-0500
-series: 767
+series: 769
 collections:
   - the-new-social-environment
 event_organizer:
