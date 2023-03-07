@@ -16,5 +16,6 @@ short_bio: After a fourteen-year career as a professional social worker in the
   Street Press_. 
 portraits:
   - media: 2023/03/peter-covino
+rail_contributor_url: https://brooklynrail.org/contributor/Peter-Covino
 website: https://petercovino.com/
 ---
