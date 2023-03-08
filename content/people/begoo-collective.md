@@ -2,7 +2,7 @@
 name: Begoo Collective
 first_name: Begoo Collective
 short_bio: A collective of Iranian feminists inside and outside of Iran, **Begoo
-  Collective**is invested in cultivating a transnational dialogue, particularly
+  Collective** is invested in cultivating a transnational dialogue, particularly
   among the people of the Global South, in solidarity with the uprising of the
   Iranian people, especially Womxn, the LGBTQ+, and all marginalized
   communities. Centering JIN JÎYAN AZADÎ (Woman, Life, Freedom) and in a fight
