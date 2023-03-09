@@ -1,8 +1,8 @@
 ---
 title: "WOMXN, LIFE, FREEDOM: Building Political Power Through Feminist
   Collective Work"
-deck: Featuring Manijeh Moradian, Bahareh Khoshooee, and Morehshin Allahyari,
-  with Rooja Mohassessy
+deck: Featuring Manijeh Moradian, Bahareh Khoshooee, Ozi Ozar, and Morehshin
+  Allahyari, with Rooja Mohassessy
 summary: "Feminists for Jina member Manijeh Moradian and Begoo Collective member
   Bahareh Khoshooee join artist Morehshin Allahyari for a conversation. We
   conclude with a reading by Rooja Mohassessy. "
