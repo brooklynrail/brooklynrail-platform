@@ -2,7 +2,7 @@
 title: "Renee Gladman: Narratives of Magnitude"
 deck: Featuring Renee Gladman and Zoë Hopkins
 summary: Artist Renee Gladman joins Rail contributor Zoë Hopkins for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a reading by Gladman.
 people:
   - person: renee-gladman
   - person: zoe-hopkins
