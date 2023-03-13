@@ -9,6 +9,7 @@ summary: "Feminists for Jina member Manijeh Moradian and Begoo Collective member
 people:
   - person: feminists-for-jina
   - person: begoo-collective
+  - person: woman-life-freedom-collective
   - person: morehshin-allahyari
 poets:
   - person: rooja-mohassessy
