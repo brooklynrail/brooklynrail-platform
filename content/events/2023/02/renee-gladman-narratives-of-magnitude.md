@@ -1,6 +1,6 @@
 ---
 title: "Renee Gladman: Narratives of Magnitude"
-deck: Featuring Renee Gladman and Zoë Hopkins
+deck: Featuring Gladman and Zoë Hopkins
 summary: Artist Renee Gladman joins Rail contributor Zoë Hopkins for a
   conversation. We conclude with a reading by Gladman.
 people:
@@ -15,6 +15,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: tRtdORElosk
 event_id: recnEFS4esnm1YtDr
 event_platform:
   - zoom
