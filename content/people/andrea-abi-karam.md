@@ -11,7 +11,7 @@ short_bio: "**Andrea Abi-Karam** is a trans, arab-american punk poet-performer
   the Ghost Ship Fire and the Muslim Ban. They are currently working on a poet's
   novel about crushes."
 portraits:
-  - media: " 2021/09/andrea-abi-karam"
+  - media: 2021/09/andrea-abi-karam
 website: http://andreaak.com/
 instagram: wolf_hour
 ---
