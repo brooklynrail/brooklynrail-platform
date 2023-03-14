@@ -1,6 +1,6 @@
 ---
-name: Alexis
-first_name: Alexis Almeida
+name: Alexis Almeida
+first_name: Alexis
 last_name: Almeida
 short_bio: "**Alexis Almeida** is the author of _I Have Never Been Able to Sing_
   (Ugly Duckling Presse) and most recently the translator of Dalia Rosetti's
