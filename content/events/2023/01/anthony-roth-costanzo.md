@@ -21,4 +21,4 @@ event_id: recUnexZJU8O6NNr7
 event_platform:
   - zoom
 ---
-[A﻿nthony Roth Costanzo in *Akhnaten* atthe London Coliseum through April 5, 2023 →](https://www.eno.org/whats-on/akhnaten/)
+[A﻿nthony Roth Costanzo in *Akhnaten* at the London Coliseum through April 5, 2023 →](https://www.eno.org/whats-on/akhnaten/)
