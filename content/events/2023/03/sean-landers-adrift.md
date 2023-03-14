@@ -7,7 +7,7 @@ people:
   - person: sean-landers
   - person: jason-rosenfeld
 poets:
-  - person: " jeffrey-cyphers-wright-1"
+  - person: jeffrey-cyphers-wright-1
 date: 2023-03-17T13:00:00-0500
 end_date: 2023-03-17T14:30:00-0500
 series: 769
