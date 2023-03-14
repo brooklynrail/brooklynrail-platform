@@ -1,8 +1,9 @@
 ---
-title: "Rail Reading #127 Curated by Noa Mendoza"
-deck: Featuring Mendoza, Alexis Almeida, a. Monti, Cecilia Pavón and Violeta Sticotti
+title: "Rail Reading #127 curated by Noa Mendoza"
+deck: Featuring Mendoza, Alexis Almeida, a. Monti, Cecilia Pavón, and Violeta
+  Sticotti
 summary: Noa Mendoza curates our 127th Poetry Reading with Alexis Almeida, a.
-  Monti, Cecilia Pavón and Violeta Sticotti
+  Monti, Cecilia Pavón and Violeta Sticotti.
 people:
   - person: alexis
   - person: amanda-monti
