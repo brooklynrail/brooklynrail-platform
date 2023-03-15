@@ -2,7 +2,7 @@
 name: Noa Mendoza
 first_name: Noa
 last_name: Mendoza
-pronouns: she/her
+pronouns: they/them
 short_bio: "Writer and translator **Noa Mendoza** is based in Brooklyn. Their
   first chapbook of poetry and experimental translation, fantasy radio/radio
   fantasmal, is forthcoming through Wendy’s Subway. "
