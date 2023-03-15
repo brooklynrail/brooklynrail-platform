@@ -1,5 +1,6 @@
 ---
-title: "Rail Reading #127 curated by Noa Mendoza"
+title: "I Am Writing From A Place You Have Never Been: A Rail Reading curated by
+  Noa Mendoza"
 deck: Featuring Mendoza, Alexis Almeida, a. Monti, Cecilia Pavón, and Violeta
   Sticotti
 summary: Noa Mendoza curates our 127th Poetry Reading with Alexis Almeida, a.
