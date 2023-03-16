@@ -9,6 +9,7 @@ people:
   - person: alexis
   - person: amanda-monti
   - person: cecilia-pavon
+  - person: violeta-sticotti
   - person: noa-mendoza
 date: 2023-03-29T13:00:00-0500
 end_date: 2023-03-29T14:30:00-0500
