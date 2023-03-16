@@ -21,4 +21,4 @@ event_id: reccC4BoQYHkY2dkK
 event_platform:
   - zoom
 ---
-[V﻿isit *Susan Bee: Apocalypses, Fables, and Reveries*, on view at A.I.R. Gallery through April 16, 2023 →](https://www.airgallery.org/artists/susan-bee)
+[V﻿isit *Susan Bee: Apocalypses, Fables, and Reveries*, on view at A.I.R. Gallery through April 16, 2023 →](https://www.airgallery.org/exhibitions/apocalypses-fables-and-reveries-zsc2l)
