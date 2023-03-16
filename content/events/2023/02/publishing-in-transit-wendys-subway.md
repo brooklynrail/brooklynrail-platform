@@ -4,8 +4,8 @@ deck: Featuring Rachel Valinsky, Marian Chudnovsky, Kamelya Omayma Youssef and
   Cole Swensen
 summary: Wendy's Subway Co-Founder and Artistic Director Rachel Valinsky,
   Librarian Marian Chudnovsky, and author Kamelya Omayma Youssef  join Rail
-  contributor Cole Swensen for a conversation. We conclude with a poetry
-  reading.
+  contributor Cole Swensen for a conversation. We conclude with a poetry reading
+  by Youssef.
 people:
   - person: rachel-valinsky
   - person: marian-chudnovsky
