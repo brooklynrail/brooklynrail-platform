@@ -1,5 +1,5 @@
 ---
-media: /media/files/screenshot-2023-03-16-at-12.01.15-pm.png
+media: /media/files/photograph-by-sam-hylton-courtesy-of-the-artist-1-.jpg
 title: Michaela Yearwood-Dan
 alt: Photo of Michaela Yearwood-Dan
 caption: Photo by Kristy Nobel
