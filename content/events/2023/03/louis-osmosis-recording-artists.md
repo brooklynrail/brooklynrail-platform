@@ -1,10 +1,11 @@
 ---
 title: "Louis Osmosis: Recording Artists"
-deck: Featuring Osmosis and Rail host to be announced
-summary: Artist Louis Osmosis joins Rail host for a conversation. We conclude
-  with a poetry reading.
+deck: Featuring Osmosis and Andrew Woolbright
+summary: Artist Louis Osmosis joins Rail Editor-at-Large Andrew Woolbright for a
+  conversation. We conclude with a poetry reading.
 people:
   - person: louis-osmosis
+  - person: andrew-paul-woolbright
 date: 2023-03-24T13:00:00-0500
 end_date: 2023-03-24T14:30:00-0500
 series: 774
