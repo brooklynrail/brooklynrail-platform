@@ -6,6 +6,8 @@ summary: Artist Louis Osmosis joins Rail Editor-at-Large Andrew Woolbright for a
 people:
   - person: louis-osmosis
   - person: andrew-paul-woolbright
+poets:
+  - person: jaylen-strong
 date: 2023-03-24T13:00:00-0500
 end_date: 2023-03-24T14:30:00-0500
 series: 774
