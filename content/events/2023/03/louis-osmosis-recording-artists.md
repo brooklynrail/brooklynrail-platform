@@ -1,8 +1,8 @@
 ---
 title: "Louis Osmosis: Recording Artists"
-deck: Featuring Osmosis and Andrew Woolbright, with Jaylen Strong
+deck: Featuring Osmosis and Andrew Woolbright, with jaylen strong
 summary: Artist Louis Osmosis joins Rail Editor-at-Large Andrew Woolbright for a
-  conversation. We conclude with a poetry reading by Jaylen Strong.
+  conversation. We conclude with a poetry reading by jaylen strong.
 people:
   - person: louis-osmosis
   - person: andrew-paul-woolbright
