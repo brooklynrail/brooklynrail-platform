@@ -1,12 +1,12 @@
 ---
 title: "WOMXN, LIFE, FREEDOM: Building Political Power Through Feminist
   Collective Work"
-deck: Featuring Manijeh Moradian, Bahareh Khoshooee, Ozi Ozar, and Morehshin
-  Allahyari, with Rooja Mohassessy
+deck: Featuring Manijeh Moradian, Ozi Ozar, a member of Begoo Collective, and
+  Morehshin Allahyari, with Rooja Mohassessy
 summary: "Feminists for Jina member Manijeh Moradian, Woman* Life Freedom
-  Collective member Ozi Ozar, and Begoo Collective member Bahareh Khoshooee join
-  artist Morehshin Allahyari for a conversation. We conclude with a reading by
-  Rooja Mohassessy. "
+  Collective member Ozi Ozar, and a Begoo Collective member join artist
+  Morehshin Allahyari for a conversation. We conclude with a reading by Rooja
+  Mohassessy. "
 people:
   - person: feminists-for-jina
   - person: begoo-collective
