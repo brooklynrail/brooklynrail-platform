@@ -71,5 +71,4 @@ HUGO_ENABLEGITINFO = "true"
   from = "/"
   to = "http://64.13.204.174/"
   status = 302
-  force = true
   
