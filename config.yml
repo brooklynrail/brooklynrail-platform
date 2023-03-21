@@ -98,12 +98,12 @@ menu:
   primary:
     - name: "Home"
       identifier: "home"
-      URL: "http://64.13.204.174/"
+      URL: "/"
       weight: 1
 
     # - name: "Issues"
     #   identifier: "issues"
-    #   URL: "http://64.13.204.174/archive"
+    #   URL: "/archive"
     #   weight: 2
 
     - name: "Events"
@@ -118,5 +118,5 @@ menu:
 
     - name: "About"
       identifier: "about"
-      URL: "http://64.13.204.174/about"
+      URL: "/about"
       weight: 5
