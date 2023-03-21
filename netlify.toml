@@ -70,5 +70,5 @@ HUGO_ENABLEGITINFO = "true"
 [redirects]
   from = "/"
   to = "http://64.13.204.174/"
-  status = 307
+  status = 302
   
