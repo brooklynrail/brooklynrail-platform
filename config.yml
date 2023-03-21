@@ -116,7 +116,7 @@ menu:
       URL: "https://shop.brooklynrail.org/"
       weight: 4
 
-    - name: "About"
-      identifier: "about"
-      URL: "/about"
-      weight: 5
+    # - name: "About"
+    #   identifier: "about"
+    #   URL: "/about"
+    #   weight: 5
