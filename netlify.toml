@@ -67,10 +67,5 @@ HUGO_ENABLEGITINFO = "true"
   targetPort = 1313 # port where the application will be available
   port = 8888 # The port that the netlify dev will be accessible on
 
-
-[[redirects]]
-  from = "/*"
-  to = "/404.html"
-  status = 404
   
   
