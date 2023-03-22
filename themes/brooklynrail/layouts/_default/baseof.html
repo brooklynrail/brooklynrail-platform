@@ -55,7 +55,7 @@
       {{/* Main site styles */}}
       {{- $main_styles := (resources.Get "scss/styles.scss" | resources.ToCSS $main_styles_options | resources.Fingerprint "md5") -}}
 
-      <link rel="stylesheet" href="{{- $main_styles.RelPermalink -}}" type="text/css" media='all' />
+      <link rel="stylesheet" href="{{- $main_styles.Permalink -}}" type="text/css" media='all' />
 
       {{/* Custom CSS — needs to be included before the base styles */}}
       {{- if $.Params.css -}}
