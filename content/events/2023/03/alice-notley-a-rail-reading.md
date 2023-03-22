@@ -1,7 +1,7 @@
 ---
 title: "Alice Notley: A Rail Reading"
 deck: Featuring Notley and Anselm Berrigan
-summary: Alice Notley joins us for our 126th Wednesday Poetry Reading.
+summary: Alice Notley joins us for our 127th Wednesday Poetry Reading.
 people:
   - person: alice-notley
   - person: anselm-berrigan
