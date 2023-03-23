@@ -17,8 +17,9 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: mngUxOWiAxs
 event_id: recUnexZJU8O6NNr7
 event_platform:
   - zoom
 ---
-[A﻿nthony Roth Costanzo in *Akhnaten* at the London Coliseum through April 5, 2023 →](https://www.eno.org/whats-on/akhnaten/)
+[Anthony Roth Costanzo in *Akhnaten* at the London Coliseum through April 5, 2023 →](https://www.eno.org/whats-on/akhnaten/)
