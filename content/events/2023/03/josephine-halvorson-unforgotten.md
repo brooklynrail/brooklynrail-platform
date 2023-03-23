@@ -17,4 +17,4 @@ event_producer:
 event_platform:
   - zoom
 ---
-[V﻿isit *Josephone Halvorson: Unforgotten*, on view at Sikkema Jenkins & Co. through April 22, 2023 →](https://www.sikkemajenkinsco.com/ex20230317josephinehalvorson)
+[Visit *Josephine Halvorson: Unforgotten*, on view at Sikkema Jenkins & Co. through April 22, 2023 →](https://www.sikkemajenkinsco.com/ex20230317josephinehalvorson)
