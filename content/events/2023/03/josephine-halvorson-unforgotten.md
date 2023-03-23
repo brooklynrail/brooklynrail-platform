@@ -1,7 +1,7 @@
 ---
 title: "Josephine Halvorson: Unforgotten"
 deck: Featuring Halvorson and Rail host to be announced
-summary: Artist Josephine Halverson joins Rail host for a conversation. We
+summary: Artist Josephine Halvorson joins Rail host for a conversation. We
   conclude with a poetry reading.
 people:
   - person: josephine-halvorson
@@ -17,4 +17,4 @@ event_producer:
 event_platform:
   - zoom
 ---
-[V﻿isit *Josephone Halverson: Unforgotten*, on view at Sikkema Jenkins & Co. through April 22, 2023 →](https://www.sikkemajenkinsco.com/ex20230317josephinehalvorson)
+[V﻿isit *Josephone Halvorson: Unforgotten*, on view at Sikkema Jenkins & Co. through April 22, 2023 →](https://www.sikkemajenkinsco.com/ex20230317josephinehalvorson)
