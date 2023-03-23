@@ -6,6 +6,10 @@ summary: Join the Rail's March 2023 Critics Page contributors for a conversation
   Fisher.
 people:
   - person: andrew-paul-woolbright
+  - person: wallace-whitney
+  - person: monsieur-zohore
+  - person: isak-berbic
+  - person: miguel-abreu
 poets:
   - person: jen-fisher
 date: 2023-03-28T13:00:00-0500
@@ -21,4 +25,4 @@ event_id: recBVZmM6hz7M82Rh
 event_platform:
   - zoom
 ---
-[R﻿ead the *Brooklyn Rail*'s March 2023 Critics Page →](https://brooklynrail.org/2023/3/criticspage)
+[Read the *Brooklyn Rail*'s March 2023 Critics Page →](https://brooklynrail.org/2023/3/criticspage)
