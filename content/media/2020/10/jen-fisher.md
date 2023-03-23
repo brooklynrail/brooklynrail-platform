@@ -1,5 +1,5 @@
 ---
-media: /media/files/img_0357.jpg
+media: /media/files/fisher_jen.jpg
 title: Jen Fisher
 alt: Jen Fisher
 caption: ""
