@@ -23,4 +23,4 @@ event_id: recOTdNrUrbzkfML0
 event_platform:
   - zoom
 ---
-[M﻿ore on *The Janes* (0](https://www.hbo.com/movies/the-janes)[M﻿ore on *The Janes* (2022) →](https://www.hbo.com/movies/the-janes)
+[More on the Janes (2022) →](https://www.hbo.com/movies/the-janes)
