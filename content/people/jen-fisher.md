@@ -2,12 +2,13 @@
 name: Jen Fisher
 first_name: Jen
 last_name: Fisher
-short_bio: Jen fisher was born in Florida in 1981. Her first book titled In the
-  Mud will be released in November 2020 published by Desuetude Gallery. Her
-  poetry has previously appeared in The Quarterless Review, The Brooklyn Rail,
-  Newest York, Desuetude Journal, F magazine, Heads Magazine and Daggers
-  Magazine. She currently lives in Queens.
+short_bio: "**Jen Fisher** is a poet living in Queens, NY. Her book, _In the
+  Mud_ was published in 2020 by Desuetude Press and she has a forthcoming
+  chapbook with F magazine in 2023. She is also part of a group show opening at
+  F Gallery in Houston Texas on April 1st, organized and curated by Adam
+  Marnie."
 portraits:
   - media: 2020/10/jen-fisher
 rail_contributor_url: https://brooklynrail.org/contributor/jen-fisher
+instagram: vortexity_jen_fisher
 ---
