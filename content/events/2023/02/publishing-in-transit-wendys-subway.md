@@ -20,8 +20,9 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: dyqlGJLM_d8
 event_id: recia87gjIZC6vcda
 event_platform:
   - zoom
 ---
-[M﻿ore on Wendy's Subway →](https://www.wendyssubway.com/)
+[More on Wendy's Subway →](https://www.wendyssubway.com/)
