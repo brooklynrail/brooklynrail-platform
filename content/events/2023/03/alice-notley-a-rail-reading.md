@@ -14,8 +14,9 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: iwmP0TxkGZo
 event_id: recBj0PLlqT9akAxz
 event_platform:
   - zoom
 ---
-[G﻿et your copy of *Runes and Chords* by Alice Notley (Simon & Schuster, 2023) →](https://www.simonandschuster.com/books/Runes-and-Chords/Alice-Notley/9781576879764)
+[Get your copy of *Runes and Chords* by Alice Notley (Simon & Schuster, 2023) →](https://www.simonandschuster.com/books/Runes-and-Chords/Alice-Notley/9781576879764)
