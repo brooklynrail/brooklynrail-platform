@@ -2,7 +2,7 @@
 title: "Every Ocean Hughes: Alive Side"
 deck: Featuring Hughes and Ksenia M. Soboleva, with Jeanetta Rich
 summary: Artist Every Ocean Hughes joins Rail contributor Ksenia M. Soboleva for
-  a conversation. We conclude with a poetry reading by Jeanetta Rich
+  a conversation. We conclude with a poetry reading by Jeanetta Rich.
 people:
   - person: every-ocean-hughes
   - person: ksenia-m-soboleva
@@ -21,4 +21,4 @@ event_id: recqYOT8v4hCaxlE2
 event_platform:
   - zoom
 ---
-[V﻿isit Every Ocean Hughes: *Alive Side*, on view at the Whitney Museum of American Art through April 2, 2023 →](https://whitney.org/exhibitions/every-ocean-hughes)
+[Visit Every Ocean Hughes: *Alive Side*, on view at the Whitney Museum of American Art through April 2, 2023 →](https://whitney.org/exhibitions/every-ocean-hughes)
