@@ -17,8 +17,9 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: KFmEeY-8NX8
 event_id: reccC4BoQYHkY2dkK
 event_platform:
   - zoom
 ---
-[V﻿isit *Susan Bee: Apocalypses, Fables, and Reveries*, on view at A.I.R. Gallery through April 16, 2023 →](https://www.airgallery.org/exhibitions/apocalypses-fables-and-reveries-zsc2l)
+[Visit *Susan Bee: Apocalypses, Fables, and Reveries*, on view at A.I.R. Gallery through April 16, 2023 →](https://www.airgallery.org/exhibitions/apocalypses-fables-and-reveries-zsc2l)
