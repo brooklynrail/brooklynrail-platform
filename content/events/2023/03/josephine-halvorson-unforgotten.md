@@ -1,6 +1,6 @@
 ---
 title: "Josephine Halvorson: Unforgotten"
-deck: Featuring Halverson and Rail host to be announced
+deck: Featuring Halvorson and Rail host to be announced
 summary: Artist Josephine Halverson joins Rail host for a conversation. We
   conclude with a poetry reading.
 people:
