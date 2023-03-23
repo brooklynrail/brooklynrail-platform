@@ -5,6 +5,7 @@ summary: Artist Josephine Halvorson joins Rail host for a conversation. We
   conclude with a poetry reading.
 people:
   - person: josephine-halvorson
+  - person: eleanor-heartney
 date: 2023-04-11T13:00:00-0500
 end_date: 2023-04-11T14:30:00-0500
 series: 786
