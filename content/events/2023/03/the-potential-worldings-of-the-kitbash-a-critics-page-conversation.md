@@ -1,7 +1,7 @@
 ---
 title: "The Potential Worldings of the Kitbash: A Critics Page Conversation"
-deck: Featuring Miguel Abreu, Isak Berbic, Wallace Whitney, Monsieur Zohore, and
-  Andrew Woolbright, with Jen Fisher.
+deck: Featuring Miguel Abreu, Isak Berbic, Fawz Kabra, Wallace Whitney, Monsieur
+  Zohore, and Andrew Woolbright, with Jen Fisher.
 summary: Join the Rail's March 2023 Critics Page contributors for a conversation
   with guest critic Andrew Woolbright. We conclude with a poetry reading by Jen
   Fisher.
