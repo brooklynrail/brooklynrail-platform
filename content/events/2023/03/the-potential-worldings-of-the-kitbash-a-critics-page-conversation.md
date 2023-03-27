@@ -8,6 +8,7 @@ summary: Join the Rail's March 2023 Critics Page contributors for a conversation
 people:
   - person: miguel-abreu
   - person: isak-berbic
+  - person: fawz-kabra
   - person: wallace-whitney
   - person: monsieur-zohore
   - person: andrew-paul-woolbright
