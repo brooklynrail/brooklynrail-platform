@@ -6,6 +6,8 @@ summary: Artist Minerva Cuevas joins Yasmeen Siddiqui for a conversation. We
 people:
   - person: minerva-cuervas
   - person: "yasmeen-siddiqui "
+poets:
+  - person: eloisa-amezcua
 date: 2023-04-04T13:00:00-0500
 end_date: 2023-04-04T14:30:00-0500
 series: 781
