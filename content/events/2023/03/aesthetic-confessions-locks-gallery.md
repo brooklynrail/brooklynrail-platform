@@ -2,7 +2,8 @@
 title: "Aesthetic Confessions: Locks Gallery"
 deck: Featuring Sueyun Locks and Phyllis Tuchman
 summary: Locks Gallery Director Sueyun Locks joins Rail Editor-at-Large Phyllis
-  Tuchman for a conversation. We conclude with a poetry reading.
+  Tuchman for a conversation. We conclude with a poetry reading by Kelly
+  Kraemer.
 people:
   - person: sueyun-locks
   - person: phyllis-tuchman
