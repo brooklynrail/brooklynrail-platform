@@ -1,6 +1,6 @@
 ---
 title: "Aesthetic Confessions: Locks Gallery"
-deck: Featuring Sueyun Locks and Phyllis Tuchman
+deck: Featuring Sueyun Locks and Phyllis Tuchman, with Kelly Kraemer
 summary: Locks Gallery Director Sueyun Locks joins Rail Editor-at-Large Phyllis
   Tuchman for a conversation. We conclude with a poetry reading by Kelly
   Kraemer.
