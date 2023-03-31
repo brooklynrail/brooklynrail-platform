@@ -1,12 +1,15 @@
 ---
 title: "Art + Tech: Signals: How Video Transformed the World"
-deck: Featuring Stuart Comer, Michelle Kuo, and Charlotte Kent
+deck: Featuring Stuart Comer, Michelle Kuo, and Charlotte Kent, with Alyssa Moore
 summary: Curators Stuart Comer and Michelle Kuo join Rail Editor-at-Large
-  Charlotte Kent for a conversation. We conclude with a poetry reading.
+  Charlotte Kent for a conversation. We conclude with a poetry reading by Alyssa
+  Moore.
 people:
   - person: stuart-comer
   - person: michelle-kuo
   - person: charlotte-kent
+poets:
+  - person: alyssa-moore
 date: 2023-04-07T12:00:00-0500
 end_date: 2023-04-07T13:30:00-0500
 series: 784
