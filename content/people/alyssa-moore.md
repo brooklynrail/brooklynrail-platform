@@ -2,13 +2,14 @@
 name: Alyssa Moore
 first_name: Alyssa
 last_name: Moore
-short_bio: "**Alyssa Moore** is a poet, visual artist, and UX content
-  strategist. She holds an MFA from the Iowa Writers' Workshop (2018), where
-  received the Iowa Arts Fellowship among several others. They also taught
-  fiction and poetry and creative nonfiction. She received an AB from Harvard in
-  Environmental Science and Public Policy in 2016 and received the Joan Gray
-  Untermeyer Poetry prize. They are an editor of _Ghost Proposal,_ a journal for
-  work that is not easily defined by genre."
+short_bio: "**Alyssa Moore** is a visual poet and writer based in Chicago. She
+  holds degrees from Harvard University and the Iowa Writers’ Workshop where she
+  was an Iowa Arts Fellow. She was the inaugural winner of Poetry Magazine’s
+  Editors Prize for Visual Poetry and a writer-in-residence for Futurepoem’s
+  future-feed. Their work has appeared in _Poetry, Boston Review, Hyperallergic,
+  Tagvverk, The Quartlerless Review_ and elsewhere. She is an editor for _Ghost
+  Proposal_, a journal for visual poetry and work that transcends or sits
+  outside of traditional notions of genre."
 portraits:
   - media: 2023/03/alyssa-moore
 website: https://www.alyssanmoore.com/
