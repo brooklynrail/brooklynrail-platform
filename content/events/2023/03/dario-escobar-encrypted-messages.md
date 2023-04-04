@@ -1,10 +1,11 @@
 ---
 title: "Darío Escobar: Encrypted Messages"
-deck: Featuring Escobar and Rail host to be announced
-summary: "Artist Darío Escobar joins Rail host for a conversation. We conclude
-  with a poetry reading by Maria Argel. "
+deck: Featuring Escobar and José Falconi
+summary: "Artist Darío Escobar joins Rail contributor José Falconi for a
+  conversation. We conclude with a poetry reading by Maria Argel. "
 people:
   - person: dario-escobar
+  - person: jose-falconi
 date: 2023-04-17T13:00:00-0500
 end_date: 2023-04-17T14:30:00-0500
 series: 790
