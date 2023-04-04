@@ -15,4 +15,5 @@ short_bio: "**Ashia Ajani** is a sunshower, a glass bead, a carnivorous plant,
   2023 with Write Bloody Publishing."
 portraits:
   - media: 2023/04/ashia-ajani
+website: "https://ashiaajani.com/ "
 ---
