@@ -1,12 +1,15 @@
 ---
 title: "Womxn, Life, Freedom, Pt. II:  A Practice-based Conversation on Online
   Security and Privacy with Sarah Aoun"
-deck: Featuring Aoun and Morehshin Allahyari
+deck: Featuring Aoun and Morehshin Allahyari, with Farnoosh Fathi
 summary: Privacy and security researcher Sarah Aoun joins artist Morehshin
-  Allahyari for a conversation. We conclude with a poetry reading.
+  Allahyari for a conversation. We conclude with a poetry reading by Farnoosh
+  Fathi.
 people:
   - person: sarah-aoun
   - person: morehshin-allahyari
+poets:
+  - person: farnoosh-fathi
 date: 2023-04-13T13:00:00-0500
 end_date: 2023-04-13T14:30:00-0500
 series: 788
