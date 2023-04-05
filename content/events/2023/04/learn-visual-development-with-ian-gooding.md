@@ -1,6 +1,6 @@
 ---
 title: Learn Visual Development with Ian Gooding
-deck: League Lecture
+deck: Art Students League Lecture
 summary: Ian Gooding, production designer and art director at Disney for over 30
   years, discusses visual development for film and animation.
 people:
@@ -22,3 +22,5 @@ April 18, 2023 7–9 p.m.\
 Art Students League of New York
 Phyllis Harriman Mason Gallery
 215 W 57 Street, 2nd Floor
+
+{{< image media="2023/04/ian-gooding-event-image" size="lg" >}}
