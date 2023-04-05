@@ -25,4 +25,4 @@ T﻿his event will be available in English and Spanish, through simultaneous tra
 
 W﻿e'd like to thank our friends at Almine Rech Gallery for graciously sponsoring the translation services.
 
-{{< image media="2023/04/almine-rech" size="lg" >}}
+{{< image media="2023/04/almine-rech" size="sm" >}}
