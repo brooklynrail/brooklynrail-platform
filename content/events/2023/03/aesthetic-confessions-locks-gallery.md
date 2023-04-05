@@ -1,12 +1,13 @@
 ---
 title: "Aesthetic Confessions: Locks Gallery"
-deck: Featuring Sueyun Locks and Phyllis Tuchman, with Kelly Corinda
-summary: Locks Gallery Director Sueyun Locks joins Rail Editor-at-Large Phyllis
-  Tuchman for a conversation. We conclude with a poetry reading by Kelly
-  Corinda.
+deck: Featuring Sueyun Locks, Chloe Stagaman, and David Carrier, with Kelly Corinda
+summary: Locks Gallery Director Sueyun Locks joins Rail Director of Programs
+  Chloe Stagaman and Rail Editor-at-Large David Carrier for a conversation. We
+  conclude with a poetry reading by Kelly Corinda.
 people:
   - person: sueyun-locks
-  - person: phyllis-tuchman
+  - person: chloe-stagaman
+  - person: david-carrier
 poets:
   - person: kelly-corinda
 date: 2023-04-06T13:00:00-0500
