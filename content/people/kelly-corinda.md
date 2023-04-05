@@ -11,5 +11,5 @@ short_bio: "**Kelly Corinda** is a poet who lives in Brooklyn. She is a graduate
   _The Journal of New Jersey Poets_, where it was nominated for a Pushcart
   Prize. She is also a Registered Nurse. "
 portraits:
-  - media: 023/04/kelly-corinda
+  - media: 2023/04/kelly-corinda
 ---
