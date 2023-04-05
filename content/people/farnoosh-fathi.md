@@ -10,5 +10,6 @@ short_bio: "**Farnoosh Fathi** is the author of _Great Guns_ (Canarium, 2013),
   the Wilbury Theatre. She lives in New York. "
 portraits:
   - media: 2020/07/farnoosh-fathi-headshot
+rail_contributor_url: https://brooklynrail.org/contributor/farnoosh-fathi
 website: http://www.farnoosh-fathi.com
 ---
