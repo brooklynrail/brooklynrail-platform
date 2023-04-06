@@ -1,5 +1,6 @@
 ---
-title: A Rail Reading curated by Irene Vázquez
+title: "Roots and Routes: Inheriting the Black South: A Rail Reading curated by
+  Irene Vázquez"
 deck: "Featuring Vázquez, Ashia Ajani, and Karisma Price "
 summary: Irene Vázquez curates our 130th Wednesday Poetry Reading with Ashia
   Ajani and Karisma Price.
