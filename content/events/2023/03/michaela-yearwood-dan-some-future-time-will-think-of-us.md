@@ -1,8 +1,9 @@
 ---
 title: "Michaela Yearwood-Dan: Some Future Time Will Think of Us"
-deck: Featuring Yearwood-Dan and Amber Jamilla Musser
+deck: Featuring Yearwood-Dan and Amber Jamilla Musser, with Alex Patrick Dyck
 summary: Artist Michaela Yearwood-Dan joins Rail contributor Amber Jamilla
-  Musser for a conversation. We conclude with a poetry reading.
+  Musser for a conversation. We conclude with a poetry reading by Alex Patrick
+  Dyck.
 people:
   - person: michaela-yearwood-dan
   - person: amber-musser
