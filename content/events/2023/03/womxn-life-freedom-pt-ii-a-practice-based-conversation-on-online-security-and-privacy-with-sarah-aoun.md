@@ -1,5 +1,5 @@
 ---
-title: "Womxn, Life, Freedom, Pt. II:  A Practice-based Conversation on Online
+title: "WOMXN, LIFE, FREEDOM, Pt. II: A Practice-based Conversation on Online
   Security and Privacy with Sarah Aoun"
 deck: Featuring Aoun and Morehshin Allahyari, with Farnoosh Fathi
 summary: Privacy and security researcher Sarah Aoun joins artist Morehshin
