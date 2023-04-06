@@ -6,6 +6,8 @@ summary: Artist Michaela Yearwood-Dan joins Rail contributor Amber Jamilla
 people:
   - person: michaela-yearwood-dan
   - person: amber-musser
+poets:
+  - person: alex-patrick-dyck
 date: 2023-04-14T13:00:00-0500
 end_date: 2023-04-14T14:30:00-0500
 series: 789
