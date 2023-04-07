@@ -1,13 +1,15 @@
 ---
 title: "LaToya Ruby Frazier: More Than Conquerors"
-deck: Featuring Ruby Frazier and Jessica Holmes
+deck: Featuring Ruby Frazier and Jessica Holmes, with Madison McCartha
 summary: Visual artist, photographer, and advocate LaToya Ruby Frazier joins
   Rail Art Editor Jessica Holmes for a conversation. We conclude with a poetry
-  reading.
+  reading by Madison McCartha.
 people:
   - person: latoya-ruby-frazier
     related_links: []
   - person: jessica-holmes
+poets:
+  - person: madison-mccartha
 date: 2023-04-10T13:00:00-0500
 end_date: 2023-04-10T14:30:00-0500
 series: 785
