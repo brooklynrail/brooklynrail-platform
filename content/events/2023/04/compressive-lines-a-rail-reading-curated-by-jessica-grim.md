@@ -6,9 +6,9 @@ summary: Jessica Grim curates our 131st Poetry Reading featuring makalani
   bendele, Laura Moriarty, Melanie Neilson, and Brian Kim Stefans
 people:
   - person: makalani-bandele
-  - person: " laura-moriarty"
+  - person: laura-moriarty
   - person: melanie-neilson
-  - person: " jessica-grim"
+  - person: jessica-grim
 date: 2023-04-19T13:00:00-0500
 end_date: 2023-04-19T14:30:00-0500
 series: 792
