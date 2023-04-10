@@ -13,4 +13,5 @@ short_bio: "**Farnaz Fatemi**, an Iranian American poet and writer, and Santa
   instructor at the University of California, Santa Cruz"
 portraits:
   - media: 2023/04/farnaz-fatemi
+website: http://www.farnazfatemi.com/
 ---
