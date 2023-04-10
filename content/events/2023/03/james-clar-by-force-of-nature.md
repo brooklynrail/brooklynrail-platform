@@ -1,11 +1,13 @@
 ---
 title: "James Clar: By Force of Nature"
-deck: Featuring Clar and Barbara Pollack
+deck: Featuring Clar and Barbara Pollack, with Farnaz Fatemi
 summary: Aritst James Clar joins Rail contributor Barbara Pollack for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading by Farnaz Fatemi.
 people:
   - person: james-clar
   - person: barbara-pollack
+poets:
+  - person: farnaz-fatemi
 date: 2023-04-18T13:00:00-0500
 end_date: 2023-04-18T14:30:00-0500
 series: 791
