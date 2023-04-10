@@ -3,7 +3,7 @@ title: "Compressive Lines: A Rail Reading curated by Jessica Grim "
 deck: Featuring Grim, makalani bendele, Laura Moriarty, Melanie Neilson, and
   Brian Kim Stefans
 summary: Jessica Grim curates our 131st Poetry Reading featuring makalani
-  bendele, Laura Moriarty, Melanie Neilson, and Brian Kim Stefans
+  bendele, Laura Moriarty, Melanie Neilson, and Brian Kim Stefans.
 people:
   - person: makalani-bandele
   - person: laura-moriarty
