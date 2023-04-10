@@ -13,5 +13,5 @@ short_bio: "**makalani bandele** is an Affrilachian Poet. He has received
   _(jopappy and the sentence-makers are) eponymous as funk_, won Futurepoem’s
   2022 Other Futures Award and is slated for publication in 2024.  "
 portraits:
-  - media: " 2023/04/makalani-bandele"
+  - media: 2023/04/makalani-bandele
 ---
