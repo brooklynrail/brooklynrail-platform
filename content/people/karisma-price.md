@@ -13,4 +13,5 @@ short_bio: "**Karisma Price** is an assistant professor of English at Tulane
   University, where she was a Writers in the Public Schools Fellow."
 portraits:
   - media: 2023/04/karisma-price
+website: https://www.karismaprice.com/
 ---
