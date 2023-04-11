@@ -8,4 +8,5 @@ short_bio: "**Lisa Rogal** is a poet and teacher living in Brooklyn. She is the
   2015), and _The New Realities_ (Third Floor Apartment Press, 2013). "
 portraits:
   - media: 2023/01/lisa-rogal
+rail_contributor_url: https://brooklynrail.org/contributor/Lisa-Rogal
 ---
