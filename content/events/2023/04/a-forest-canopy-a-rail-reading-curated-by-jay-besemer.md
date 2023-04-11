@@ -5,6 +5,7 @@ summary: "Jay Besemer curates our 132nd poetry reading with Kenning JP García
   and Janice Lee "
 people:
   - person: kenning-jp-garcia
+  - person: janice-lee
   - person: jay-besemer
 date: 2023-04-26T13:00:00-0500
 end_date: 2023-04-26T14:30:00-0500
