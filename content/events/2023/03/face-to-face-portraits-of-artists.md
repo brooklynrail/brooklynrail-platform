@@ -2,9 +2,9 @@
 title: "Face-to-Face: Portraits of Artists"
 deck: Featuring Helen Molesworth, Tacita Dean, Brigitte Lacombe, Catherine Opie,
   and Amanda Gluibizzi, with Elena Comay del Junco
-summary: Artists Helen Molesworth, Tacita Dean, Brigitte Lacombe, and Catherine
-  Opie joins Rail Art Editor Amanda Gluibizzi for a conversation. We conclude
-  with a poetry reading by Elena Comay del Junco.
+summary: Curator Helen Molesworth and artists Tacita Dean, Brigitte Lacombe, and
+  Catherine Opie join Rail Art Editor Amanda Gluibizzi for a conversation. We
+  conclude with a poetry reading by Elena Comay del Junco.
 people:
   - person: helen-molesworth
   - person: tacita-dean
