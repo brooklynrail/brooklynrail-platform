@@ -1,10 +1,11 @@
 ---
 title: "Joan Miró: Absolute Reality. Paris, 1920–1945"
-deck: A conversation with Enrique Juncosa
-summary: Curator Enrique Juncosa joins Rail host to be announced for a
-  conversation. We conclude with a poetry reading by John Coletti.
+deck: Featuring Enrique Juncosa and Mary Ann Caws, with John Coletti
+summary: Curator Enrique Juncosa joins Rail Consulting Editor Mary Ann Caws for
+  a conversation. We conclude with a poetry reading by John Coletti.
 people:
   - person: enrique-juncosa
+  - person: mary-ann-caws
 poets:
   - person: john-coletti
 date: 2023-04-28T13:00:00-0500
