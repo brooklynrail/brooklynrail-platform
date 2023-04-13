@@ -1,8 +1,8 @@
 ---
 title: "A FOREST CANOPY: A Rail Reading curated by Jay Besemer"
-deck: "featuring Besemer, Kenning JP García and Janice Lee "
-summary: "Jay Besemer curates our 132nd poetry reading with Kenning JP García
-  and Janice Lee "
+deck: "Featuring Besemer, Kenning JP García and Janice Lee "
+summary: Jay Besemer curates our 132nd poetry reading with Kenning JP García and
+  Janice Lee.
 people:
   - person: kenning-jp-garcia
   - person: janice-lee
