@@ -1,13 +1,14 @@
 ---
 title: Camargo Foundation
-deck: Featuring Alex Marzano-Lesnevich, Julie Chénot, Juliette Baux, and Amanda
-  Millet-Sorsa, with Samira Negrouche
-summary: Camargo Foundation Executive Director Julie Chénot, External Relations
-  and Development manager Juliette Baux, and author Alex Marzano-Lesnevich join
-  Rail contributor Amanda Millet-Sorsa for a conversation. We conclude with a
-  poetry reading by Samira Negrouche.
+deck: Featuring Alex Marzano-Lesnevich, Cassandra Medley, Julie Chénot, Juliette
+  Baux, and Amanda Millet-Sorsa, with Samira Negrouche
+summary: Author Alex Marzano-Lesnevich, playwright Cassandra Medley, Camargo
+  Foundation Executive Director Julie Chénot, and Development and Communication
+  Coordinator Juliette Baux join Rail contributor Amanda Millet-Sorsa for a
+  conversation. We conclude with a poetry reading by Samira Negrouche.
 people:
   - person: alex-marzano-lesnevich
+  - person: cassandra-medley
   - person: julie-chenot
   - person: juliette-baux
   - person: amanda-millet-sorsa
