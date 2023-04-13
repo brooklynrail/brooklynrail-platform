@@ -4,7 +4,7 @@ first_name: Janice
 last_name: Lee
 short_bio: "**JANICE LEE** (she/they) is a Korean American writer, teacher,
   spiritual scholar, shamanic healer, and author of several books, most recently
-  _Imagine a Death_, _Separation Anxiety_(2023 Oregon Book Award finalist), and
+  _Imagine a Death_, _Separation Anxiety_ (2023 Oregon Book Award finalist), and
   _A roundtable, unanimous dreamers chime in_, with Brenda Iijima. Currently
   writing about the Korean concept of han, death rituals, and Korean script
   (hangul), Lee teaches workshops on inherited trauma, bringing together
