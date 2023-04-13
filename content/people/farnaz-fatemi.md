@@ -10,7 +10,7 @@ short_bio: "**Farnaz Fatemi**, an Iranian American poet and writer, and Santa
   Review from Publisher’s Weekly.  Some of her poems and lyric essays appear
   in _Poem-a-Day (Poets.org), Tab Journal, Pedestal Review, Nowruz Journal,
   Grist Journal_ and _Tupelo Quarterly_.  Farnaz was formerly a writing
-  instructor at the University of California, Santa Cruz"
+  instructor at the University of California, Santa Cruz."
 portraits:
   - media: 2023/04/farnaz-fatemi
 website: http://www.farnazfatemi.com/
