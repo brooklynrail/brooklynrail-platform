@@ -1,5 +1,5 @@
 ---
-title: "Face-to-Face: Portraits of Artists"
+title: "Face to Face: Portraits of Artists"
 deck: Featuring Helen Molesworth, Tacita Dean, Brigitte Lacombe, Catherine Opie,
   and Amanda Gluibizzi, with Elena Comay del Junco
 summary: Curator Helen Molesworth and artists Tacita Dean, Brigitte Lacombe, and
@@ -26,4 +26,4 @@ event_id: recBwhSLkmrDZUy01
 event_platform:
   - zoom
 ---
-[V﻿isit *Face-to-Face: Portraits of Artists*, on view at International Center of Photography through May 1, 2023 →](https://www.icp.org/exhibitions/face-to-face-portraits-of-artists-by-tacita-dean-brigitte-lacombe-and-catherine-opie)
+[V﻿isit *Face to Face: Portraits of Artists*, on view at International Center of Photography through May 1, 2023 →](https://www.icp.org/exhibitions/face-to-face-portraits-of-artists-by-tacita-dean-brigitte-lacombe-and-catherine-opie)
