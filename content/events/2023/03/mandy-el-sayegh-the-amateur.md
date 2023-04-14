@@ -1,10 +1,11 @@
 ---
 title: "Mandy El-Sayegh: The Amateur"
-deck: Featuring El-Sayegh and Rail host to be announced
-summary: "Artist Mandy El-Sayegh joins Rail host for a conversation. We conclude
-  with a poetry reading. "
+deck: Featuring El-Sayegh and Chloe Stagaman
+summary: "Artist Mandy El-Sayegh joins Rail Director of Programs Chloe Stagaman
+  for a conversation. We conclude with a poetry reading. "
 people:
   - person: mandy-el-sayegh
+  - person: chloe-stagaman
 date: 2023-04-25T13:00:00-0500
 end_date: 2023-04-25T14:30:00-0500
 series: 796
