@@ -1,6 +1,6 @@
 ---
-title: "R.I.P. Germain: Jesus Died For Us, We Will Die For Dudus!"
-deck: Featuring Germain and Paul Gladston
+title: 'R.I.P. Germain: "Jesus Died For Us, We Will Die For Dudus!"'
+deck: Featuring R.I.P. Germain and Paul Gladston
 summary: Artist R.I.P. Germain joins Rail contributor Paul Gladston for a
   conversation. We conclude with a poetry reading.
 people:
