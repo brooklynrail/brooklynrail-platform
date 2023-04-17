@@ -2,7 +2,7 @@
 name: Charlotte Kent
 first_name: Charlotte
 last_name: Kent
-short_bio: Assistant professor of visual culture at Montclair State University
+short_bio: Associate professor of visual culture at Montclair State University
   **Charlotte Kent**, PhD, has a particular interest in historical frameworks
   for art practices, with a research focus on contemporary digital culture and
   the absurd. She writes for assorted magazines and various academic journals.
