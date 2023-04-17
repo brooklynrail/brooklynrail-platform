@@ -6,7 +6,6 @@ summary: fierce pussy members Nancy Brooks Brody, Joy Episalla, Carrie Yamaoka,
   and Zoe Leonard join Visual Studies scholar Jill Casid for a conversation. We
   conclude with a poetry reading.
 people:
-  - person: fierce-pussy
   - person: jill-h-casid
 date: 2023-05-09T13:00:00-0500
 end_date: 2023-05-09T14:30:00-0500
