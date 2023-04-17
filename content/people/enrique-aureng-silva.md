@@ -8,4 +8,5 @@ short_bio: "**Enrique Aureng Silva** (Mexico City, 1988) is an architect, writer
   he translates literary texts at versiones.press "
 portraits:
   - media: 2023/04/enrique-aureng-silva
+instagram: versiones.press
 ---
