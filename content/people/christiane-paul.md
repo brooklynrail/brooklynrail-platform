@@ -2,17 +2,17 @@
 name: Christiane Paul
 first_name: Christiane
 last_name: Paul
-short_bio: "**Christiane Paul** has written extensively on new media arts,
-  lectured internationally on art and technology and is the recipient of the
-  Thoma Foundation's 2016 Arts Writing Award in Digital Art. Her recent books
-  include _A Companion to Digital Art_ (Wiley Blackwell, 2016) and _Digital Art_
-  (Thames and Hudson, 3rd revised edition, 2015). As Curator of Digital Art at
-  the Whitney Museum of American Art, she has curated several exhibitions
-  including _Refigured_ and is responsible for artport, the Whitney Museum’s
-  website devoted to Internet art. Dr. Paul has previously taught in the MFA
-  computer arts department at the School of Visual Arts in New York (1999-2008);
-  the Digital+Media Department of the Rhode Island School of Design (2005-08);
-  and elsewhere."
+short_bio: "**Christiane Paul** is Curator of Digital Art at the Whitney Museum
+  of American Art and Professor in the School of Media Studies at The New
+  School. She is the recipient of the Thoma Foundation's 2016 Arts Writing Award
+  in Digital Art, and her books include _A Companion to Digital Art_
+  (Blackwell-Wiley, May 2016); _Digital Art_ (Thames and Hudson, 2003, 2008,
+  2015, 2023). At the Whitney Museum she curated exhibitions including
+  _Refigured_ (2023) and _Programmed: Rules, Codes, and Choreographies in Art
+  1965 - 2018_ (2018/19) among others, and is responsible for artport, the
+  museum’s portal to Internet art. Other curatorial work includes _Chain
+  Reaction_ (feralfile.com, 2023), and _DiMoDA 4.0 Dis/Location_ (traveling
+  show, 2021- ), among others."
 portraits:
   - media: 2023/04/christiane-paul
 ---
