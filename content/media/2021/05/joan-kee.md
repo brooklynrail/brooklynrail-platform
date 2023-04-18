@@ -1,5 +1,5 @@
 ---
-media: /media/files/img_9347-6-.jpg
+media: /media/files/9a87e2ef-3f25-4535-a601-7a632a3904f4-1-.jpg
 title: Joan Kee
 alt: Joan Kee
 date: 2021-05-11T12:02:00-0500
