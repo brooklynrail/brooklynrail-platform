@@ -1,7 +1,7 @@
 ---
-title: "Publishing-in-Transit: Kelly Writer's House"
+title: "Publishing-in-Transit: Kelly Writers House"
 deck: Featuring Al Filreis and Cole Swensen
-summary: "Kelly Writer's House Founder Al Filreis joins Rail contributor Cole
+summary: "Kelly Writers House Founder Al Filreis joins Rail contributor Cole
   Swensen for a conversation and reading. "
 people:
   - person: al-filreis
@@ -19,4 +19,4 @@ event_id: recUPjjhs8LMxdb5M
 event_platform:
   - zoom
 ---
-[M﻿ore on Kelly Writer's House →](https://writing.upenn.edu/wh/)
+[M﻿ore on Kelly Writers House →](https://writing.upenn.edu/wh/)
