@@ -1,17 +1,16 @@
 ---
 title: The Camargo Foundation
-deck: Featuring Alex Marzano-Lesnevich, Cassandra Medley, Julie Chénot, Juliette
-  Baux, and Amanda Millet-Sorsa, with Samira Negrouche
-summary: Camargo Foundation residents Author Alex Marzano-Lesnevich, playwright
-  Cassandra Medley, artist Jenny Polak, Camargo Foundation Executive Director
-  Julie Chénot, and Development and Communication Coordinator Juliette Baux join
-  Rail contributor Amanda Millet-Sorsa for a conversation. We conclude with a
-  poetry reading by Samira Negrouche.
+deck: Featuring Julie Chénot, Alex Marzano-Lesnevich, Cassandra Medley, Jenny
+  Polak, and Amanda Millet-Sorsa, with Samira Negrouche
+summary: Camargo Foundation Executive Director Julie Chénot and Camargo
+  Foundation past and present residents author Alex Marzano-Lesnevich,
+  playwright Cassandra Medley, and artist Jenny Polak join Rail contributor
+  Amanda Millet-Sorsa for a conversation. We conclude with a poetry reading by
+  Samira Negrouche.
 people:
   - person: alex-marzano-lesnevich
   - person: cassandra-medley
   - person: julie-chenot
-  - person: juliette-baux
   - person: amanda-millet-sorsa
 poets:
   - person: samira-negrouche
