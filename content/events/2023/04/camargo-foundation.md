@@ -8,9 +8,10 @@ summary: Camargo Foundation Executive Director Julie Chénot and Camargo
   Amanda Millet-Sorsa for a conversation. We conclude with a poetry reading by
   Samira Negrouche.
 people:
+  - person: julie-chenot
   - person: alex-marzano-lesnevich
   - person: cassandra-medley
-  - person: julie-chenot
+  - person: jenny-polak
   - person: amanda-millet-sorsa
 poets:
   - person: samira-negrouche
