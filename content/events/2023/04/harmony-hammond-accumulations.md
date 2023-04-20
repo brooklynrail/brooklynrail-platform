@@ -4,6 +4,7 @@ deck: Featuring Hammond and Ksenia M. Soboleva
 summary: "Artist Harmony Hammond joins Rail contributor Ksenia M. Soboleva for a
   conversation. We conclude with a poetry reading. "
 people:
+  - person: harmony-hammond
   - person: ksenia-m-soboleva
 date: 2023-05-22T13:00:00-0500
 end_date: 2023-05-22T14:30:00-0500
