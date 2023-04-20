@@ -1,8 +1,9 @@
 ---
 title: "Aliza Nisenbaum: Queens, Lindo y Querido"
-deck: Featuring Nisenbaum and Rail host to be announced, with Stephanie Adams-Santos
-summary: Artist Aliza Nisenbaum joins Rail host for a conversation. We conclude
-  with a poetry reading by Stephanie Adams-Santos.
+deck: Featuring Nisenbaum and Gaby Collins-Fernandez, with Stephanie Adams-Santos
+summary: Artist Aliza Nisenbaum joins Rail contributor Gaby Collins-Fernandez
+  for a conversation. We conclude with a poetry reading by Stephanie
+  Adams-Santos.
 people:
   - person: aliza-nisenbaum
   - person: gaby-collins-fernandez
