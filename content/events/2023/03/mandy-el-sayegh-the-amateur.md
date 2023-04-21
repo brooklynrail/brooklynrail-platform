@@ -1,11 +1,13 @@
 ---
 title: "Mandy El-Sayegh: The Amateur"
-deck: Featuring El-Sayegh and Chloe Stagaman
-summary: "Artist Mandy El-Sayegh joins Rail Director of Programs Chloe Stagaman
-  for a conversation. We conclude with a poetry reading. "
+deck: Featuring El-Sayegh and Chloe Stagaman, with Emily Martin
+summary: Artist Mandy El-Sayegh joins Rail Director of Programs Chloe Stagaman
+  for a conversation. We conclude with a poetry reading by Emily Martin.
 people:
   - person: mandy-el-sayegh
   - person: chloe-stagaman
+poets:
+  - person: emily-martin
 date: 2023-04-25T13:00:00-0500
 end_date: 2023-04-25T14:30:00-0500
 series: 796
