@@ -7,6 +7,7 @@ summary: "Kelly Writers House Founder Al Filreis, Advisory Board Member Herman
 people:
   - person: al-filreis
   - person: herman-beavers
+  - person: julia-bloch
   - person: cole-swensen
 date: 2023-04-27T13:00:00-0500
 end_date: 2023-04-27T14:30:00-0500
