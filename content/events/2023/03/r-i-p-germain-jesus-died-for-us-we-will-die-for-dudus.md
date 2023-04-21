@@ -6,6 +6,8 @@ summary: Artist R.I.P. Germain joins Rail contributor Paul Gladston for a
 people:
   - person: r-i-p-germain
   - person: paul-gladston
+poets:
+  - person: tilghman-goldsborough
 date: 2023-04-24T13:00:00-0500
 end_date: 2023-04-24T14:30:00-0500
 series: 795
