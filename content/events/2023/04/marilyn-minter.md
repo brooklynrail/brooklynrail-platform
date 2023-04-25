@@ -5,6 +5,7 @@ summary: Artist Marilyn Minter joins Rail contributor Ksenia M. Soboleva and
   Rail Editor-at-Large Andrew Woolbright for a conversation. We conclude with a
   poetry reading by Drew Zeiba.
 people:
+  - person: marilyn-minter
   - person: ksenia-m-soboleva
   - person: andrew-paul-woolbright
 date: 2023-05-15T13:00:00-0500
