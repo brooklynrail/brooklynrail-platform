@@ -6,6 +6,8 @@ summary: Gallerist Almine Rech joins Rail Editor-at-Large Phyllis Tuchman for a
 people:
   - person: almine-rech
   - person: phyllis-tuchman
+poets:
+  - person: michael-kelleher
 date: 2023-05-04T12:00:00-0500
 end_date: 2023-05-04T13:30:00-0500
 series: 803
