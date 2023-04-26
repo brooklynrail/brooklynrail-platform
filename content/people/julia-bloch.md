@@ -13,5 +13,6 @@ short_bio: "**Julia Bloch** is the author of three books of poetry, most
   Program and coeditor of _Jacket2_."
 portraits:
   - media: 2023/04/julia-bloch
-website: https://www.english.upenn.edu/people/julia-bloch
+website: https://juliabloch.net/
+twitter: julivox
 ---
