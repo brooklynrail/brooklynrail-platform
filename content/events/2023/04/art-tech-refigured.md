@@ -1,8 +1,8 @@
 ---
 title: "Art + Tech: Refigured "
-deck: Featuring Christiane Paul and Charlotte Kent
-summary: "Curator Christiane Paul joins Rail Editor-at-Large Charlotte Kent for
-  a conversation. We conclude with a poetry reading. "
+deck: Featuring Christiane Paul and Charlotte Kent, with Zoe Darsee
+summary: Curator Christiane Paul joins Rail Editor-at-Large Charlotte Kent for a
+  conversation. We conclude with a poetry reading by Zoe Darsee.
 people:
   - person: christiane-paul
   - person: charlotte-kent
