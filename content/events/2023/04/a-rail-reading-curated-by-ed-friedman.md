@@ -2,6 +2,8 @@
 title: A Rail Reading curated by Ed Friedman
 deck: Featuring Friedman
 summary: Ed Friedman reads for our 133rd Wednesday Poetry Reading.
+people:
+  - person: ed-friedman
 date: 2023-05-10T13:00:00-0500
 end_date: 2023-05-10T14:30:00-0500
 series: 807
