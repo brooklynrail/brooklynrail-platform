@@ -10,5 +10,5 @@ short_bio: "**Steve Levine** is a poet and a navigator of the space-time
   the innate human desire to impose order on chaos, something he has only ever
   been able to achieve in a poem."
 portraits:
-  - media: 2022/02/steve-levine-headshot
+  - media: 2023/04/steve-levine
 ---
