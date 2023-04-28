@@ -7,7 +7,7 @@ short_bio: "**Vitaly Komar** and **Alex Melamid** were born in Moscow, USSR.
   founded Sots Art - conceptual eclectic art based on cliches of the Soviet
   propaganda and the world's art history. In 1974 their works, made in
   collaboration, were destroyed by the Soviet authorities during the disbanded
-  \"Bulldozer Exhibition\" - the unofficial artists' group show. In 1976 they
+  \"Bulldozer Exhibition\" - the unofficial artists' group show. In 1976 their
   works were smuggled out to New York and had a successful show at Ronald
   Feldman Gallery. Komar & Melamid have lived in New York since 1978 and
   participated in numerous international exhibitions, including Documenta,
