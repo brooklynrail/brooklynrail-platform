@@ -175,49 +175,41 @@ collections:
 
       - label: "Collections"
         name: "collections"
-        widget: "relation"
+        widget: "select"
+        options: ["the-new-social-environment", "common-ground", "rail-events", "sponsored-listing", "screening", "endowment", "community-listing"]
         multiple: true
         collection: "collections"
-        search_fields: ["title"]
-        value_field: "{{slug}}"
-        display_fields: ["{{title}}"]
         default: ["the-new-social-environment"]
         hint: "The collections this event should be included in."
         required: false
 
       - label: "Event Sponsor"
         name: "event_sponsor"
-        widget: "relation"
+        widget: "select"
+        options: ["the-new-social-environment", "common-ground", "rail-events", "sponsored-listing", "screening", "endowment", "community-listing"]
         multiple: true
         collection: "organizations"
-        search_fields: ["name", "short_desc"]
-        value_field: "{{slug}}"
-        display_fields: ["{{name}}"]
         hint: "The organizations sponsoring this event. This should not be 'The Brooklyn Rail'."
         required: false
 
       - label: "Event Organizer"
         name: "event_organizer"
-        widget: "relation"
+        widget: "select"
         multiple: true
         collection: "organizations"
-        search_fields: ["name", "short_desc"]
-        value_field: "{{slug}}"
-        display_fields: ["{{name}}"]
+        options: ["the-brooklyn-rail"]
         default: ["the-brooklyn-rail"]
-        hint: "Default 'The Brooklyn Rail', otherwise select the organizations that should be credited pulling togther the content of the talk."
+        hint: "Default 'the-brooklyn-rail'."
         required: false
 
       - label: "Event Producer"
         name: "event_producer"
-        widget: "relation"
+        widget: "select"
         multiple: true
         collection: "organizations"
-        search_fields: ["name", "short_desc"]
-        value_field: "{{slug}}"
-        display_fields: ["{{name}}"]
+        options: ["the-brooklyn-rail"]
         default: ["the-brooklyn-rail"]
-        hint: "Default 'The Brooklyn Rail', otherwise select the organization that should be credited with producing the event."
+        hint: "Default 'the-brooklyn-rail'."
 
       - label: "YouTube ID"
         name: "youtube_id"
@@ -361,16 +353,16 @@ collections:
         widget: "string"
         required: false
 
-      - label: "Image Credit"
-        name: "credit"
-        widget: "relation"
-        multiple: true
-        collection: "people"
-        search_fields: ["name"]
-        value_field: "{{slug}}"
-        display_fields: ["{{name}}"]
-        hint: "This is the person who will receive credit as the author of the image."
-        required: false
+      # - label: "Image Credit"
+      #   name: "credit"
+      #   widget: "relation"
+      #   multiple: true
+      #   collection: "people"
+      #   search_fields: ["name"]
+      #   value_field: "{{slug}}"
+      #   display_fields: ["{{name}}"]
+      #   hint: "This is the person who will receive credit as the author of the image."
+      #   required: false
 
       - label: "Date"
         name: "date"
@@ -419,12 +411,12 @@ collections:
 
       - label: "Sponsor"
         name: "sponsor"
-        widget: "relation"
+        widget: "string"
         multiple: true
         collection: "organizations"
-        search_fields: ["name", "short_desc"]
-        value_field: "{{slug}}"
-        display_fields: ["{{name}}"]
+        # search_fields: ["name", "short_desc"]
+        # value_field: "{{slug}}"
+        # display_fields: ["{{name}}"]
         hint: "The organizations sponsoring this collection. This should not be 'The Brooklyn Rail'."
         required: false
 
