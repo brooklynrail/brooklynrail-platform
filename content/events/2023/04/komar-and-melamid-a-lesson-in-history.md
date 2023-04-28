@@ -1,14 +1,15 @@
 ---
 title: "Komar and Melamid: A Lesson in History"
 deck: "Featuring Julia Tulovsky, Komar and Melamid, Olga Zaikina-Kondur, and
-  John Sagan "
+  Johnny Sagan "
 summary: Curator Julia Tulovsky, collaborators Komar and Melamid, and art
-  historian Olga Zaikina-Kondur join curator John Sagan for a conversation. We
+  historian Olga Zaikina-Kondur join curator Johnny Sagan for a conversation. We
   conclude with a poetry reading.
 people:
   - person: julia-tulovsky
   - person: komar-melamid
   - person: olga-zaikina-kondur
+  - person: johnny-sagan
 date: 2023-05-23T13:00:00-0500
 end_date: 2023-05-23T14:30:00-0500
 series: 816
