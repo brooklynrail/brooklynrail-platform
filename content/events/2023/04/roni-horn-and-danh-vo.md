@@ -1,8 +1,8 @@
 ---
 title: Roni Horn and Danh Vō
 deck: Featuring Horn, Vō, and Amanda Gluibizzi, with Suzanne Goldenberg
-summary: Artists Roni Horn and Danh Vō join Rail Art Editor Amanda Gluibizzi for
-  a conversation. We conclude with a poetry reading by Suzanne Goldenberg.
+summary: Artists Roni Horn and Danh Vō join Rail ArtSeen Editor Amanda Gluibizzi
+  for a conversation. We conclude with a poetry reading by Suzanne Goldenberg.
 people:
   - person: roni-horn
   - person: danh-vo
