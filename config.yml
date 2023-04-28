@@ -24,8 +24,6 @@ social:
 # HUGO will ignore pages in the following folders
 ignoreFiles:
   - "content/_archived/*"
-  - "content/collections"
-  - "content/organizations"
 
 ignoreErrors: "error-remote-getjson"
 
@@ -42,7 +40,7 @@ permalinks:
 taxonomies:
   collection: collections
   people: people
-  orgs: org
+  organization: organizations
 
 outputFormats:
   INFO:
