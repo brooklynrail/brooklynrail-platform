@@ -1,7 +1,9 @@
 ---
 title: Celebrating our 800th New Social Environment
-deck: Featuring Andrew Woolbright, Ksenia M. Soboleva, Terry Myers, Ann McCoy,
-  Charlie Schultz, Louis Osmosis, and Amanda Gluibizzi, with Suzanne Goldenberg
+deck: Featuring Phong H. Bui, Andrew Woolbright, Ksenia M. Soboleva, Terry
+  Myers, Ann McCoy, Charlie Schultz, Tyhe Cooper, Louis Osmosis, Donna Schapper,
+  Chloe Stagaman, Carolyn Ferrucci, Elinor Krichmar, and Amanda Gluibizzi, with
+  Suzanne Goldenberg
 summary: Rail Editors and staff join Rail ArtSeen Editor Amanda Gluibizzi for a
   conversation. We conclude with a poetry reading by Suzanne Goldenberg.
 people:
