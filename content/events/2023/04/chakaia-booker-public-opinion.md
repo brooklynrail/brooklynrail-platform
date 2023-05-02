@@ -1,8 +1,9 @@
 ---
 title: "Chakaia Booker: Public Opinion"
-deck: Featuring Booker, David Nolan, and Phil Sanders
+deck: Featuring Booker, David Nolan, Phil Sanders, Lee Ann Norman, and Tom McGlynn
 summary: Artist Chakaia Booker, gallerist David Nolan, and curator Phil Sanders
-  join Rail host for a conversation. We conclude with a poetry reading.
+  join Rail ArtSeen Editor Lee Ann Norman and Rail Editor-at-Large Tom McGlynn
+  for a conversation. We conclude with a poetry reading.
 people:
   - person: chakaia-booker
   - person: david-nolan-1
