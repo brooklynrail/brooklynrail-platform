@@ -3,6 +3,10 @@ title: "Chakaia Booker: Public Opinion"
 deck: Featuring Booker, David Nolan, and Phil Sanders
 summary: Artist Chakaia Booker, gallerist David Nolan, and curator Phil Sanders
   join Rail host for a conversation. We conclude with a poetry reading.
+people:
+  - person: chakaia-booker
+  - person: david-nolan-1
+  - person: phil-sanders
 date: 2023-05-08T13:00:00-0500
 end_date: 2023-05-08T14:30:00-0500
 series: 805
