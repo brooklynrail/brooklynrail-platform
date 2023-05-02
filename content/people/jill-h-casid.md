@@ -17,4 +17,5 @@ short_bio: "A theorist, historian and practicing artist, **Jill H. Casid** is
 portraits:
   - media: 2022/11/jill-h-casid
 website: http://jillhcasid.net/
+instagram: jillhcasid
 ---
