@@ -1,10 +1,10 @@
 ---
-name: Almine Rech
+name: Almine Rech-Picasso
 first_name: Almine
-last_name: Rech
-short_bio: "**Almine Rech** opened a gallery with an associate in the Marais in
-  Paris in November 1989. Five years later, Almine Rech opened her own gallery
-  in a new space in Paris. Almine Rech now has galleries in major cities
+last_name: Rech-Picasso
+short_bio: "**Almine Rech-Picasso** opened a gallery with an associate in the
+  Marais in Paris in November 1989. Five years later, Almine Rech opened her own
+  gallery in a new space in Paris. Almine Rech now has galleries in major cities
   including Brussels, London, New York, and Shanghai. The gallery’s programming
   is not tied to one formal aspect or to a specific medium, but to the
   singularity of the artwork and the artistic commitment of the artist. Almine
