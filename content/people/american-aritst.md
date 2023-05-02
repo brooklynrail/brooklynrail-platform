@@ -1,5 +1,5 @@
 ---
-name: American Aritst
+name: American Artist
 first_name: American
 last_name: Artist
 short_bio: "**American Artist** is an interdisciplinary artist whose work
