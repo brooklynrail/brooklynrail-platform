@@ -7,6 +7,8 @@ short_bio: "**Rachel Rossin** is a painter and programmer whose
   virtual reality. Her work blends painting, sculpture, new media, gaming, and
   video to create digital landscapes that focus on entropy, embodiment, the
   ubiquity of technology and its effect on our psychology."
+portraits:
+  - media: 2023/01/rachel-rossin
 website: http://rossin.co/
 instagram: rachelrossin
 twitter: rachelrossin
