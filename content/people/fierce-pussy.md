@@ -14,4 +14,5 @@ short_bio: "Formed in New York City in 1991 through their immersion in AIDS
 portraits:
   - media: 2023/04/fierce-pussy-1
 website: https://fiercepussy.org/
+instagram: fp_1991
 ---
