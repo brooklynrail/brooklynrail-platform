@@ -1,8 +1,9 @@
 ---
-title: "Aesthetic Confessions: Almine Rech"
-deck: Featuring Rech and Phyllis Tuchman, with Michael Kelleher
-summary: Gallerist Almine Rech joins Rail Editor-at-Large Phyllis Tuchman for a
-  conversation. We conclude with a poetry reading by Michael Kelleher.
+title: "Aesthetic Confessions: Almine Rech Gallery"
+deck: Featuring Almine Rech-Picasso and Phyllis Tuchman, with Michael Kelleher
+summary: Gallerist Almine Rech-Picasso joins Rail Editor-at-Large Phyllis
+  Tuchman for a conversation. We conclude with a poetry reading by Michael
+  Kelleher.
 people:
   - person: almine-rech
   - person: phyllis-tuchman
