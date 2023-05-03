@@ -12,7 +12,7 @@ people:
   - person: lee-ann-norman
   - person: tom-mcglynn
 poets:
-  - person: " taonga-leslie"
+  - person: taonga-leslie
 date: 2023-05-08T13:00:00-0500
 end_date: 2023-05-08T14:30:00-0500
 series: 805
