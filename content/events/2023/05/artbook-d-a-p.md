@@ -1,11 +1,10 @@
 ---
-title: Artbook D.A.P.
+title: Artbook | D.A.P.
 deck: Featuring Sharon Gallagher, Skuta Helgason, and Eleanor Heartney, with
   Zachary LaMalfa
-summary: Artbook D.A.P. President and Executive Director Sharon Gallagher and
-  Artbook Retail Director Skuta Helgason join Rail Editor-at-Large Eleanor
-  Heartney for a conversation. We conclude with a poetry reading by Zachary
-  LaMalfa.
+summary: D.A.P. President Sharon Gallagher and Artbook Retail Director Skuta
+  Helgason join Rail Editor-at-Large Eleanor Heartney for a conversation. We
+  conclude with a poetry reading by Zachary LaMalfa.
 people:
   - person: eleanor-heartney
 poets:
@@ -23,4 +22,4 @@ event_id: recxKBJqteRqMZccF
 event_platform:
   - zoom
 ---
-[M﻿ore on Artbook D.A.P. →](https://www.artbook.com/)
+[M﻿ore on Artbook | D.A.P. →](https://www.artbook.com/)
