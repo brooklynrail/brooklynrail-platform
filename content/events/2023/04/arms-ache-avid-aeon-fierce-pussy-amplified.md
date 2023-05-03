@@ -1,10 +1,10 @@
 ---
 title: "arms ache avid aeon: fierce pussy amplified"
 deck: Featuring Nancy Brooks Brody, Joy Episalla, Carrie Yamaoka, Zoe Leonard,
-  and Jill Casid
+  and Jill Casid, with Svetlana Kitto
 summary: fierce pussy members Nancy Brooks Brody, Joy Episalla, Carrie Yamaoka,
   and Zoe Leonard join Visual Studies scholar Jill Casid for a conversation. We
-  conclude with a poetry reading.
+  conclude with a poetry reading by Svetlana Kitto.
 people:
   - person: fierce-pussy
   - person: nancy-brooks-brody
@@ -12,6 +12,8 @@ people:
   - person: carrie-yamaoka
   - person: zoe-leonard-1
   - person: jill-h-casid
+poets:
+  - person: svetlana-kitto
 date: 2023-05-09T13:00:00-0500
 end_date: 2023-05-09T14:30:00-0500
 series: 806
