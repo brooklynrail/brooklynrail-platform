@@ -1,5 +1,5 @@
 ---
-title: "Aesthetic Confessions: Almine Rech Gallery"
+title: "Aesthetic Confessions: Almine Rech"
 deck: Featuring Almine Rech-Picasso and Phyllis Tuchman, with Michael Kelleher
 summary: Gallerist Almine Rech-Picasso joins Rail Editor-at-Large Phyllis
   Tuchman for a conversation. We conclude with a poetry reading by Michael
@@ -23,4 +23,4 @@ event_id: recUVv4OfNEIcIOi7
 event_platform:
   - zoom
 ---
-[M﻿ore on Almine Rech Gallery →](https://www.alminerech.com/)
+[M﻿ore on Almine Rech →](https://www.alminerech.com/)
