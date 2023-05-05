@@ -1,7 +1,7 @@
 ---
 title: "Komar and Melamid: A Lesson in History"
-deck: "Featuring Julia Tulovsky, Komar and Melamid, Olga Zaikina-Kondur, and
-  Johnny Sagan, with Eugene Otashevsky. "
+deck: Featuring Julia Tulovsky, Komar and Melamid, Olga Zaikina-Kondur, and
+  Johnny Sagan, with Eugene Otashevsky
 summary: Curator Julia Tulovsky, collaborators Komar and Melamid, and art
   historian Olga Zaikina-Kondur join curator Johnny Sagan for a conversation. We
   conclude with a poetry reading by Eugene Otashevsky.
