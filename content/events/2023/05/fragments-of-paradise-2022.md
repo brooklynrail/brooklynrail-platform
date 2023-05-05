@@ -1,6 +1,6 @@
 ---
 title: Fragments of Paradise (2022)
-deck: Directed by KD Davidson
+deck: Directed by KD Davison
 summary: Join us for a virtual film screening on Memorial Day. Register to
   receive a 24-hour access link and password to the film.
 people:
