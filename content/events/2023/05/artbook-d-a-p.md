@@ -6,6 +6,8 @@ summary: D.A.P. President Sharon Gallagher and Artbook Retail Director Skuta
   Helgason join Rail Editor-at-Large Eleanor Heartney for a conversation. We
   conclude with a poetry reading by Zachary LaMalfa.
 people:
+  - person: sharon-helgason-gallagher
+  - person: skuta-helgason
   - person: eleanor-heartney
 poets:
   - person: zachary-lamalfa
