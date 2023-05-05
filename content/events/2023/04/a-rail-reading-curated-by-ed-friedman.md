@@ -8,6 +8,7 @@ people:
   - person: brenda-coultas
   - person: steve-levine
   - person: gillian-mccain
+  - person: bob-rosenthal
   - person: ed-friedman
 date: 2023-05-10T13:00:00-0500
 end_date: 2023-05-10T14:30:00-0500
