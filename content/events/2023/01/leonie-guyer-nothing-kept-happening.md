@@ -22,4 +22,4 @@ event_id: rec609GBg2jsLoGyI
 event_platform:
   - zoom
 ---
-[V﻿isit Léonie Guyer: *Nothing kept happening*, on view at P.Bibeau through March 4, 2023 →](https://petrabibeau.net/Leonie-Guyer)
+[V﻿isit Léonie Guyer: *Nothing kept happening*, on view at Bibeau Kreuger through March 4, 2023 →](https://bibeaukrueger.com/Leonie-Guyer)
