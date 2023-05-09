@@ -9,4 +9,5 @@ short_bio: "**Svetlana Kitto** is a writer, editor, and oral historian. Her
   of an exhibition at the SculptureCenter in the fall of 2021."
 portraits:
   - media: 2023/05/svetlana-kitto
+website: https://www.svetlanakitto.com/
 ---
