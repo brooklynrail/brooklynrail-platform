@@ -2,7 +2,7 @@
 title: "Five Readings: A Rail Reading curated by Ed Friedman"
 deck: Featuring Friedman, Brenda Coultas, Steve Levine, Gillian McCain and Bob
   Rosenthal
-summary: Ed Friedman curates our 133rd Wednesday Poetry Reading with Brenda
+summary: Ed Friedman curates our 134th Wednesday Poetry Reading with Brenda
   Coultas, Steve Levine, Gillian McCain and Bob Rosenthal.
 people:
   - person: brenda-coultas
