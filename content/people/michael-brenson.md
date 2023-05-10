@@ -10,8 +10,8 @@ short_bio: "Art critic, scholar, and curator **Michael Brenson** was an art
   faculty in Bard College’s Milton Avery Graduate School of the Arts and a
   Visiting Senior Critic in the University of Pennsylvania’s School of Design’s
   Department of Fine Arts. His biography of David Smith, _David Smith: The Art
-  and Life of a Transformational Sculptor_, will be published by Farrar, Straus
-  and Giroux in October 2022. He is the artistic director of the Jonathan and
+  and Life of a Transformational Sculptor_, was published by Farrar, Straus and
+  Giroux in October 2022. He is the artistic director of the Jonathan and
   Barbara Silver Foundation."
 portraits:
   - media: 2021/08/michael-brenson
