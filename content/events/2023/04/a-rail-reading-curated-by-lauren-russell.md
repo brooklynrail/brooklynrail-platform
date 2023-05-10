@@ -1,7 +1,7 @@
 ---
 title: "From the Window in My Study: A Rail Reading curated by Lauren Russell"
 deck: Featuring Russell, Joanna Fuhrman, Soham Patel, and Cecilia Woloch
-summary: Lauren Russell curates our 134th Wednesday Poetry Reading with Joanna
+summary: Lauren Russell curates our 135th Wednesday Poetry Reading with Joanna
   Fuhrman, Soham Patel and Cecilia Woloch.
 people:
   - person: joanna-fuhrman-1
