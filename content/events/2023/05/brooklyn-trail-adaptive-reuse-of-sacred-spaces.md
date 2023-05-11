@@ -1,10 +1,10 @@
 ---
 title: "Brooklyn Trail: Adaptive Reuse of Sacred Spaces"
 deck: Featuring Jason Labate, Taylor Aikin, and Rev. Dr. Donna Schaper, with Amy
-  Paul Zerby
+  Saul-Zerby
 summary: Lawyer Jason Labate and architect Taylor Aikin join Rail
   Editor-at-Large Donna Schaper for a conversation. We conclude with a poetry
-  reading by Amy Paul Zerby.
+  reading by Amy Saul-Zerby.
 people:
   - person: jason-labate
   - person: taylor-aikin
