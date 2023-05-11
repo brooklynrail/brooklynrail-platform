@@ -1,9 +1,11 @@
 ---
 title: "David Byrne: Here Lies Love"
 deck: Featuring Byrne and Paul D. Miller
-summary: "Musician David Byrne joins Rail Editor-at-Large David Byrne for a
-  conversation. We conclude with a poetry reading. "
+summary: "World renowned musician and artist David Byrne joins Rail
+  Editor-at-Large David Byrne for a conversation. We conclude with a poetry
+  reading. "
 people:
+  - person: david-byrne
   - person: paul-d-miller-aka-dj-spooky
 date: 2023-06-26T13:00:00-0500
 end_date: 2023-06-26T14:30:00-0500
