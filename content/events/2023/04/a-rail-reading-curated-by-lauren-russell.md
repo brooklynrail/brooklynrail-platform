@@ -6,6 +6,7 @@ summary: Lauren Russell curates our 135th Wednesday Poetry Reading with Joanna
 people:
   - person: joanna-fuhrman-1
   - person: cecilia-woloch
+  - person: soham-patel
   - person: lauren-russell-1
 date: 2023-05-17T13:00:00-0500
 end_date: 2023-05-17T14:30:00-0500
