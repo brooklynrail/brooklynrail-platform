@@ -9,6 +9,8 @@ people:
   - person: jason-labate
   - person: taylor-aikin
   - person: rev-dr-dona-schaper
+poets:
+  - person: amy-saul-zerby
 date: 2023-05-18T13:00:00-0500
 end_date: 2023-05-18T14:30:00-0500
 series: 813
