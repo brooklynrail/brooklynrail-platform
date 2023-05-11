@@ -20,4 +20,4 @@ event_id: recfIxhWevYxj3Q9u
 event_platform:
   - zoom
 ---
-[Get tickets to *Hear Lies Love* →](https://herelieslovebroadway.com/)
+[Get tickets to *Here Lies Love* →](https://herelieslovebroadway.com/)
