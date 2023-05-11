@@ -20,4 +20,4 @@ event_id: recfa5KdZAZ3JZbr7
 event_platform:
   - zoom
 ---
-[V﻿isit Pacita Abad: *Colors of my Dream*, on view at Tina Kim Gallery through June 17, 2023 →](https://www.tinakimgallery.com/exhibitions/pacita-abad2#tab:thumbnails)
+[V﻿isit Pacita Abad: *Colors of My Dream*, on view at Tina Kim Gallery through June 17, 2023 →](https://www.tinakimgallery.com/exhibitions/pacita-abad2#tab:thumbnails)
