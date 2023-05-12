@@ -1,8 +1,8 @@
 ---
 title: "The Geometries of Afro-Asia: Art Beyond Solidarity"
-deck: "Featuring Joan Kee, Kodwo Eshun, and Anjalika Sagar, "
-summary: "Rail Editor-at-Large Joan Kee joins writer Kodwo Eshun and artist
-  Anjalika Sagar for a conversation. We conclude with a poetry reading. "
+deck: Featuring Joan Kee, Kodwo Eshun, and Anjalika Sagar
+summary: Rail Editor-at-Large Joan Kee joins writer Kodwo Eshun and artist
+  Anjalika Sagar for a conversation. We conclude with a poetry reading.
 people:
   - person: joan-kee
 date: 2023-06-15T13:00:00-0500
