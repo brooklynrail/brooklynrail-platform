@@ -11,7 +11,7 @@ poets:
   - person: paul-ebenkamp
 date: 2023-05-16T13:00:00-0500
 end_date: 2023-05-16T14:30:00-0500
-series: 809
+series: 811
 collections:
   - the-new-social-environment
 event_organizer:
