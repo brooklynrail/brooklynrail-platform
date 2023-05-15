@@ -4,6 +4,7 @@ deck: Featuring Pio Abad and Jessamine Batario, with Lehua Tatiano
 summary: Artist Pio Abad joins Rail contributor Jessamine Batario for a
   conversation. We conclude with a poetry reading by Lehua Tatiano.
 people:
+  - person: pio-abad
   - person: jessamine-batario
 poets:
   - person: lehua-m-taitano
