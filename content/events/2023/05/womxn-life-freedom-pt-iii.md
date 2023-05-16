@@ -1,9 +1,13 @@
 ---
 title: WOMXN, LIFE, FREEDOM, Pt. III
-deck: Featuring Morehshin Allahyari and friends, with Persis M. Karim
-summary: Artist Morehshin Allahyari hosts the final installment of the WOMXN,
-  LIFE, FREEDOM series. We conclude with a poetry reading by Persis M. Karim.
+deck: Featuring Aytak Akbari-Dibavar, Shokoofeh Defuli, and Morehshin Allahyari,
+  with Persis M. Karim
+summary: Lawyer and educator Aytak Akbari-Dibavar and artist and writer
+  Shokoofeh Dezfuli join artist Morehshin Allahyari for the final installment of
+  the WOMXN, LIFE, FREEDOM series. We conclude with a poetry reading by Persis
+  M. Karim.
 people:
+  - person: shokoofeh-dezfuli
   - person: morehshin-allahyari
 poets:
   - person: persis-m-karim
