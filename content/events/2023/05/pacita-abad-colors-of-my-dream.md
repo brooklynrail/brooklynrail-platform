@@ -1,10 +1,12 @@
 ---
 title: "Pacita Abad: Colors of My Dream"
-deck: Featuring Pio Abad and Jessamine Batario, with Lehua Tatiano
-summary: Artist Pio Abad joins Rail contributor Jessamine Batario for a
-  conversation. We conclude with a poetry reading by Lehua Tatiano.
+deck: Featuring Pio Abad, Camille Hoffman, and Jessamine Batario, with Lehua Tatiano
+summary: Artists Pio Abad and Camille Hoffman join Rail contributor Jessamine
+  Batario for a conversation. We conclude with a poetry reading by Lehua
+  Tatiano.
 people:
   - person: pio-abad
+  - person: camille-hoffman
   - person: jessamine-batario
 poets:
   - person: lehua-m-taitano
