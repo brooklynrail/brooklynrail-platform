@@ -12,6 +12,7 @@ short_bio: "**Mashinka Firunts Hakopian** is an Armenian writer, artist, and
   for Other Intelligences,_ was released by X Artists’ Books in 2022."
 portraits:
   - media: 2023/05/mashinka-firunts-hakopian
+rail_contributor_url: https://brooklynrail.org/contributor/Mashinka-Firunts-Hakopian
 website: http://www.mashinkafirunts.com/
 instagram: mashinkahakopian
 ---
