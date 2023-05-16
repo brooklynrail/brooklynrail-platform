@@ -1,5 +1,5 @@
 ---
-name: Tina Ryan
+name: Tina Rivers Ryan
 first_name: Tina
 last_name: Ryan
 short_bio: "**Dr. Tina Rivers Ryan** is a renowned expert on the history of
