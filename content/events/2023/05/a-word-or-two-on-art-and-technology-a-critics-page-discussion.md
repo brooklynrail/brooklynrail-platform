@@ -6,6 +6,10 @@ summary: Join the Rail's May 2023 Critics Page Contributors for a conversation
   with guest critics Charlotte Kent. We conclude with a poetry reading.
 people:
   - person: doreen-a-rios
+  - person: margaret-wertheim
+    related_links:
+      - text: More on Crochet Coral Reef
+        url: https://crochetcoralreef.org/
   - person: mashinka-firunts-hakopian
   - person: charlotte-kent
 date: 2023-05-30T13:00:00-0500
