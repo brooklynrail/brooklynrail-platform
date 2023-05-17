@@ -6,6 +6,7 @@ summary: Courtney Bush curates our 136th Wednesday Poetry Reading with Jameson
   Fitzpatrick, Elisa Gonzalez and Jack Underwood.
 people:
   - person: jameson-fitzpatrick
+  - person: elisa-gonzalez
   - person: jack-underwood
   - person: courtney-bush
 date: 2023-05-24T13:00:00-0500
