@@ -10,4 +10,6 @@ short_bio: "**Elisa Gonzalez** is a poet, essayist, and fiction writer. Her work
 portraits:
   - media: 2023/05/elisa-gonzalez
 website: https://www.elisamariegonzalez.com/
+instagram: elisamgonzalez
+twitter: athenek
 ---
