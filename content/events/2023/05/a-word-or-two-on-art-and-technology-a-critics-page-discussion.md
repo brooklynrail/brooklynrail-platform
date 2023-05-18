@@ -12,6 +12,7 @@ people:
       - text: More on Crochet Coral Reef
         url: https://crochetcoralreef.org/
   - person: mashinka-firunts-hakopian
+  - person: clara-che-wei-peh
   - person: charlotte-kent
 date: 2023-05-30T13:00:00-0500
 end_date: 2023-05-30T14:30:00-0500
