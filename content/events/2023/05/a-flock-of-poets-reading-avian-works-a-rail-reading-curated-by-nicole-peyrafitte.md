@@ -1,11 +1,14 @@
 ---
 title: "A Flock of Poets reading Avian works: A Rail Reading curated by Nicole
   Peyrafitte"
-deck: Featuring Peyrafitte, Pierre Joris, Marcella Durandm Latasha Diggs, and
+deck: Featuring Peyrafitte, Pierre Joris, Marcella Durand, Latasha Diggs, and
   E.J. McAdams
 summary: Nicole Peyrafitte curates our 137th Wednesday Poetry Reading with
-  Pierre Joris, Marcella Durandm Latasha Diggs, and E.J. McAdams.
+  Pierre Joris, Marcella Durand, Latasha Diggs, and E.J. McAdams.
 people:
+  - person: pierre-joris
+  - person: marcella-durand-1
+  - person: latasha-n-nevada-diggs
   - person: nicole-peyrafitte
 date: 2023-05-31T13:00:00-0500
 end_date: 2023-05-31T14:30:00-0500
