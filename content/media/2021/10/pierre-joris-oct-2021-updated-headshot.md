@@ -1,7 +1,7 @@
 ---
-media: /media/files/joris_pierre_0cropped-matsas-1-.jpg
-title: Pierre Joris (Oct 2021 Updated Headshot)
+media: /media/files/pjbynp.6.2.22.jpeg
+title: "Pierre Joris "
 alt: A portrait of Pierre Joris
-caption: Courtesy of Philippe Matsas
+caption: ""
 date: 2021-10-15T18:13:00-0500
 ---
