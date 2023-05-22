@@ -6,9 +6,9 @@ deck: Featuring Peyrafitte, Pierre Joris, Marcella Durand, Latasha Diggs, and
 summary: Nicole Peyrafitte curates our 137th Wednesday Poetry Reading with
   Pierre Joris, Marcella Durand, Latasha Diggs, and E.J. McAdams.
 people:
-  - person: pierre-joris
-  - person: marcella-durand-1
   - person: latasha-n-nevada-diggs
+  - person: marcella-durand-1
+  - person: pierre-joris
   - person: nicole-peyrafitte
 date: 2023-05-31T13:00:00-0500
 end_date: 2023-05-31T14:30:00-0500
