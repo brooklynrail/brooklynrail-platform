@@ -15,4 +15,5 @@ short_bio: "**Eugene Ostashevsky** was born in 1968 in Leningrad, USSR, grew up
   Belorusets (New Directions, 2022)."
 portraits:
   - media: 2023/05/eugene-ostashevsky
+rail_contributor_url: https://brooklynrail.org/contributor/eugene-ostashevsky
 ---
