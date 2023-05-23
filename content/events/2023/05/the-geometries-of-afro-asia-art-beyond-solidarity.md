@@ -1,5 +1,5 @@
 ---
-title: "The Geometries of Afro-Asia: Art Beyond Solidarity"
+title: "The Geometries of Afro Asia: Art Beyond Solidarity"
 deck: Featuring Joan Kee, Kodwo Eshun, and Anjalika Sagar
 summary: Rail Editor-at-Large Joan Kee joins writer Kodwo Eshun and artist
   Anjalika Sagar for a conversation. We conclude with a poetry reading.
@@ -18,4 +18,4 @@ event_id: rec4g1wW9b58ILr0D
 event_platform:
   - zoom
 ---
-[G﻿et your copy of *The Geometries of Afro-Asia: Art Beyond Solidarity* by Joan Kee (University of California Press, 2023) →](https://www.ucpress.edu/book/9780520392458/the-geometries-of-afro-asia)
+[G﻿et your copy of *The Geometries of Afro Asia: Art Beyond Solidarity* by Joan Kee (University of California Press, 2023) →](https://www.ucpress.edu/book/9780520392458/the-geometries-of-afro-asia)
