@@ -19,4 +19,4 @@ event_id: recMppHGLnKnGkzXD
 event_platform:
   - zoom
 ---
-[V﻿isit *Bright Sparks: Photography and the Talbot Archive* on viewatBodleian Libraries through June 18, 2023 →](https://visit.bodleian.ox.ac.uk/brightsparks)
+[V﻿isit *Bright Sparks: Photography and the Talbot Archive* on view at Bodleian Libraries through June 18, 2023 →](https://visit.bodleian.ox.ac.uk/brightsparks)
