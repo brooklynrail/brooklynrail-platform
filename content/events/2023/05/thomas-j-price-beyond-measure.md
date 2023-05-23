@@ -4,6 +4,7 @@ deck: Featuring Price and Jonathan T.D. Neil
 summary: Artist Thomas J Price joins Rail contributor Jonathan T.D. Neil for a
   conversation. We conclude with a poetry reading.
 people:
+  - person: thomas-j-price
   - person: jonathan-t-d-neil
 date: 2023-06-06T13:00:00-0500
 end_date: 2023-06-06T14:30:00-0500
