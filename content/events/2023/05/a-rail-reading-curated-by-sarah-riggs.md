@@ -1,5 +1,5 @@
 ---
-title: A Rail Reading curated by Sarah Riggs
+title: "Arcs-in-the-Sky: 5 Intercultural Poets: A Rail Reading curated by Sarah Riggs"
 deck: Featuring Riggs, Sara Elkamel, Safaa Fathy, Ghazal Mosadeq, and Aya Nabih
 summary: "Sarah Riggs curates our 138th Wednesday Poetry Reading with Sara
   Elkamel, Safaa Fathy, Ghazal Mosadeq, and Aya Nabih. "
