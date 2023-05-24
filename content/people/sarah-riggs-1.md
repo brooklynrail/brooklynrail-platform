@@ -16,5 +16,5 @@ short_bio: "**Sarah Riggs** is the author of seven books of poetry in English,
 portraits:
   - media: 2023/05/sarah-riggs
 rail_contributor_url: https://brooklynrail.org/contributor/Sarah-Riggs
-website: www.sarahriggs.org
+website: https://sarahriggs.org/
 ---
