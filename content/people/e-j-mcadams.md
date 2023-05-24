@@ -12,4 +12,6 @@ short_bio: "**E.J. McAdams** is a poet and artist, exploring language and
   International."
 portraits:
   - media: 2023/05/e-j-mcadams
+website: http://www.ejmcadams.com/
+instagram: https://www.instagram.com/ejmcadams/
 ---
