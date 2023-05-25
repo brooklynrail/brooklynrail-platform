@@ -6,8 +6,10 @@ summary: "Sarah Riggs curates our 138th Wednesday Poetry Reading with Sara
 people:
   - person: sara-elkamel-1
   - person: safaa-fathy-1
+  - person: ghazal-mosadeq
   - person: aya-nabih
   - person: sarah-riggs-1
+  - {}
 date: 2023-06-07T13:00:00-0500
 end_date: 2023-06-07T13:30:00-0500
 series: 827
