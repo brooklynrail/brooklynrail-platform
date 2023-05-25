@@ -4,6 +4,7 @@ deck: Featuring Tuymans and Jason Rosenfeld
 summary: Artist Luc Tuymans joins Rail Editor-at-Large Jason Rosenfeld for a
   conversation. We conclude with a poetry reading.
 people:
+  - person: luc-tuymans
   - person: jason-rosenfeld
 date: 2023-06-23T13:00:00-0500
 end_date: 2023-06-23T14:30:00-0500
