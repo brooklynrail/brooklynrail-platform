@@ -1,10 +1,11 @@
 ---
 title: "Maren Hassinger: Process"
-deck: Featuring Hassinger and Rail host to be announced
-summary: "Artist Maren Hassinger joins Rail host for a conversation. We conclude
-  with a poetry reading. "
+deck: Featuring Hassinger and Jessica Holmes, with Sahar Romani
+summary: Artist Maren Hassinger joins Rail ArTonic Editor Jessica Holmes for a
+  conversation. We conclude with a poetry reading by Sahar Romani.
 people:
   - person: maren-hassinger
+  - person: jessica-holmes
 date: 2023-06-02T13:00:00-0500
 end_date: 2023-06-02T14:30:00-0500
 series: 824
