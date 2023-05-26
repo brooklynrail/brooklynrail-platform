@@ -6,6 +6,8 @@ summary: Artist Maren Hassinger joins Rail ArTonic Editor Jessica Holmes for a
 people:
   - person: maren-hassinger
   - person: jessica-holmes
+poets:
+  - person: sahar-romani
 date: 2023-06-02T13:00:00-0500
 end_date: 2023-06-02T14:30:00-0500
 series: 824
