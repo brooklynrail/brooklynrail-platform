@@ -1,7 +1,7 @@
 ---
 title: "Transnational Feminism: Womxn Life Freedom is a Daily Practice"
-deck: Featuring Aytak Akbari-Dibavar, Shokoofeh Defuli, Katayoun Keshavarzi, and
-  Morehshin Allahyari, with Persis M. Karim
+deck: Featuring Aytak Akbari-Dibavar, Shokoofeh Dezfuli, Katayoun Keshavarzi,
+  and Morehshin Allahyari, with Persis M. Karim
 summary: Lawyer and educator Aytak Akbari-Dibavar, artist and writer Shokoofeh
   Dezfuli, and writer and translator Katayoun Keshavarzi join artist Morehshin
   Allahyari for the final installment of the WOMXN, LIFE, FREEDOM series. We
