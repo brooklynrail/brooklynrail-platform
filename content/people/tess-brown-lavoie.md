@@ -10,4 +10,6 @@ short_bio: "**Tess Brown-Lavoie** is author of _Lite Year_ (2019), winner of the
   Tess holds an MFA from Naropa University, and was the 2020-2022 Anne Waldman
   Fellow. Tess currently teaches writing to architecture students at the Pratt
   Institute in New York."
+portraits:
+  - media: 2023/05/tess-brown-lavoie
 ---
