@@ -1,11 +1,9 @@
 ---
 title: "A Word or Two on Art and Technology: A Critics Page Discussion"
 deck: Featuring Doreen Rios, Tina Rivers Ryan, Margaret Wertheim, Mashinka
-  Firunts Hakopian, Kay Watson, Clara Che Wei Peh, and Charlotte Kent, with
-  Emmalea Russo
+  Firunts Hakopian, Kay Watson, Clara Che Wei Peh, and Charlotte Kent.
 summary: Join the Rail's May 2023 Critics Page Contributors for a conversation
-  with guest critics Charlotte Kent. We conclude with a poetry reading by
-  Emmalea Russo.
+  with guest critics Charlotte Kent. We conclude with a poetry reading.
 people:
   - person: doreen-a-rios
   - person: tina-ryan
@@ -17,8 +15,7 @@ people:
   - person: kay-watson
   - person: clara-che-wei-peh
   - person: charlotte-kent
-poets:
-  - person: emmalea-russo
+poets: []
 date: 2023-05-30T13:00:00-0500
 end_date: 2023-05-30T14:30:00-0500
 series: 821
