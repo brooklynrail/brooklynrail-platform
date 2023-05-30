@@ -7,7 +7,7 @@ short_bio: "**Luc Tuymans** lives and works in Antwerp. His first major museum
   Ostend, Belgium, and the Vereniging voor het Museum van Hedendaagse Kunst,
   Ghent. One of the first artists to be represented by David Zwirner, Tuymans
   has had seventeen exhibitions with the gallery since joining its roster in
-  1994.. In 2001, the artist represented Belgium at the Venice Biennale to great
+  1994. In 2001, the artist represented Belgium at the Venice Biennale to great
   acclaim. Tuymans has been featured in numerous solo exhibitions at prestigious
   institutions worldwide, and his works are featured in museum collections
   worldwide. Tuymans has received numerous awards and honors, including the
