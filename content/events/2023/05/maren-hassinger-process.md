@@ -21,4 +21,4 @@ event_id: recofzQWSeNtBiSny
 event_platform:
   - zoom
 ---
-[V﻿isit Maren Hassinger: *Process*, on view at Susan Inglett Gallery through June 3, 2023 →](https://www.inglettgallery.com/exhibitions/198-maren-hassinger-process/overview/)
+[V﻿isit Maren Hassinger: *Process*, on view at Susan Inglett Gallery through June 10, 2023 →](https://www.inglettgallery.com/exhibitions/198-maren-hassinger-process/overview/)
