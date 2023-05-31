@@ -18,3 +18,4 @@ event_id: recXk3RlXchZCye7A
 event_platform:
   - zoom
 ---
+[V﻿isit Ebony G. Patterson *…things come to thrive…in the shedding…in the molting…* on view at the New York Botanical Garden through September 17→](https://www.nybg.org/event/ebony-g-patterson/)
