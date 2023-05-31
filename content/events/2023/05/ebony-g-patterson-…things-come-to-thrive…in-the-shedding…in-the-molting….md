@@ -3,6 +3,8 @@ title: Ebony G. Patterson:…things come to thrive…in the shedding…in the mo
 deck: Featuring Ebony G. Patterson and Rail Host to be announced.
 summary: "Artist Ebony G. Patterson joins the Rail for a conversation. We
   conclude with a poetry reading. "
+people:
+  - person: ebony-g-patterson
 date: 2023-06-09T13:00:00-0500
 end_date: 2023-06-09T14:30:00-0500
 series: 829
