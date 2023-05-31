@@ -7,7 +7,7 @@ summary: Svetlana Mintcheva, Elizabeth Larison, Christine Emeran, and Chris
   Finan of the National Coalition Against Censorship join Rev. Dr. Donna Schaper
   for a conversation. We conclude with a poetry reading.
 people:
-  - person: " christine-emeran"
+  - person: christine-emeran
   - person: rev-dr-dona-schaper
 date: 2023-06-08T13:00:00-0500
 end_date: 2023-06-08T14:30:00-0500
