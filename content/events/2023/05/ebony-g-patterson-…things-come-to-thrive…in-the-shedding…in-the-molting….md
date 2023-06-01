@@ -6,6 +6,8 @@ summary: "Artist Ebony G. Patterson joins Rail ArtSeen Editor Amanda Gluibizzi
 people:
   - person: ebony-g-patterson
   - person: amanda-gluibizzi
+poets:
+  - person: mimi-tempestt-1
 date: 2023-06-09T13:00:00-0500
 end_date: 2023-06-09T14:30:00-0500
 series: 829
