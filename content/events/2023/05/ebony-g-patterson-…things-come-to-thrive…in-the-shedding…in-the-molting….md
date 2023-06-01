@@ -1,6 +1,6 @@
 ---
 title: Ebony G. Patterson:…things come to thrive…in the shedding…in the molting…
-deck: Featuring Ebony G. Patterson and Amanda Gluibizzi
+deck: Featuring Patterson and Amanda Gluibizzi
 summary: "Artist Ebony G. Patterson joins Rail ArtSeen Editor Amanda Gluibizzi
   for a conversation. We conclude with a poetry reading. "
 people:
