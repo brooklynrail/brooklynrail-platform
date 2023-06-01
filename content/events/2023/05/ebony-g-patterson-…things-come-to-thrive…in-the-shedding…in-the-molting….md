@@ -1,8 +1,8 @@
 ---
 title: Ebony G. Patterson:…things come to thrive…in the shedding…in the molting…
-deck: Featuring Patterson and Amanda Gluibizzi
+deck: Featuring Patterson and Amanda Gluibizzi, with Mimi Tempestt
 summary: "Artist Ebony G. Patterson joins Rail ArtSeen Editor Amanda Gluibizzi
-  for a conversation. We conclude with a poetry reading. "
+  for a conversation. We conclude with a poetry reading by Mimi Tempestt. "
 people:
   - person: ebony-g-patterson
   - person: amanda-gluibizzi
