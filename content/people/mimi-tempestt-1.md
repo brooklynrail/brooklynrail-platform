@@ -17,4 +17,5 @@ portraits:
   - media: 2023/06/mimi-tempestt
 website: https://express.adobe.com/page/pPXmIBhFr2Fer/
 instagram: mimi.tempestt
+twitter: MimiTempestt
 ---
