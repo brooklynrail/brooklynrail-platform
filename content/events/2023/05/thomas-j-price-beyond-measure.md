@@ -7,7 +7,7 @@ people:
   - person: thomas-j-price
   - person: jonathan-t-d-neil
 poets:
-  - person: basie-allen-2
+  - person: basie-allen
 date: 2023-06-06T13:00:00-0500
 end_date: 2023-06-06T14:30:00-0500
 series: 826
