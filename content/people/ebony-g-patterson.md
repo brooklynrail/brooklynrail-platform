@@ -14,5 +14,5 @@ short_bio: "**Ebony G. Patterson** received her BFA in painting from Edna Manley
   Director, along with curator Miranda Lash, of Prospect.6 New Orleans. "
 portraits:
   - media: 2023/05/ebony-g-patterson
-website: https://ebonygpatterson.com/
+website: https://www.moniquemeloche.com/artists/49-ebony-g.-patterson/biography/
 ---
