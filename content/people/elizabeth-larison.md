@@ -14,5 +14,5 @@ short_bio: "**Elizabeth Larison** has worked in curatorial, programmatic, and
   cultural intermediaries, in how to address the presentation of controversial
   works."
 portraits:
-  - media: " 2023/06/elizabeth-larison"
+  - media: 2023/06/elizabeth-larison
 ---
