@@ -5,8 +5,8 @@ summary: "Artist Oscar yi Hou joins the Rail for a conversation. We conclude
   with a poetry reading. "
 people:
   - person: " oscar-yi-hou"
-date: 2023-06-01T14:38:00-0500
-end_date: 2023-06-01T14:38:00-0500
+date: 2023-06-16T13:00:00-0500
+end_date: 2023-06-16T14:30:00-0500
 collections:
   - the-new-social-environment
 event_organizer:
