@@ -1,6 +1,7 @@
 ---
 name: Oscar yi Hou
 first_name: Oscar
+last_name: yi Hou
 short_bio: "**Oscar yi Hou** is an artist and writer based in Brooklyn, NY. He
   was born and raised in Liverpool, England. He received his BA from Columbia
   University, New York. He has also studied at The Sorbonne Art School (École
@@ -9,4 +10,6 @@ short_bio: "**Oscar yi Hou** is an artist and writer based in Brooklyn, NY. He
   Museum."
 portraits:
   - media: 2023/06/oscar-yi-hou
+website: https://oscaryihou.com/
+instagram: oscyhou
 ---
