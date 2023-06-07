@@ -6,6 +6,8 @@ summary: Artist Ishmael Randall Weeks joins Rail Editor-at-Large Tom McGlynn for
 people:
   - person: ishmael-randall-weeks
   - person: tom-mcglynn
+poets:
+  - person: will-stanier
 date: 2023-06-12T13:00:00-0500
 end_date: 2023-06-12T14:30:00-0500
 series: 830
