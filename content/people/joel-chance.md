@@ -1,7 +1,7 @@
 ---
-name: Joel Chance
+name: Joel Chace
 first_name: Joel
-last_name: Chance
+last_name: Chace
 short_bio: "**Joel Chace** has published work in print and electronic magazines
   such as _Tip of the Knife, Eratio, Otoliths, Word For/Word, Golden Handcuffs
   Review,_ and the _Brooklyn Rail._ Most recent collections include
