@@ -1,5 +1,5 @@
 ---
-title: "Across Lines — Poets looking to Prose: A Rail Reading curated by Claire Hong"
+title: "Across Lines — Poets Looking to Prose: A Rail Reading curated by Claire Hong"
 deck: "Featuring Hong, Taneum Bambrick, Gabriel Dozal, and Sophia Terazawa "
 summary: Claire Hong curates our 139th Wednesday Reading featuring Taneum
   Bambrick, Gabriel Dozal, and Sophia Terazawa.
