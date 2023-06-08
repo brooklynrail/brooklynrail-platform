@@ -1,8 +1,8 @@
 ---
 title: "Bright Sparks: Photography and the Talbot Archive"
-deck: Featuring Geoffrey Batchen and Toby Kamps, with Joel Chance
+deck: Featuring Geoffrey Batchen and Toby Kamps, with Joel Chace
 summary: Art historian Geoffrey Batchen joins Rail Editor-at-Large Toby Kamps
-  for a conversation. We conclude with a poetry reading by Joel Chance.
+  for a conversation. We conclude with a poetry reading by Joel Chace.
 people:
   - person: geoffrey-batchen
   - person: toby-kamps
