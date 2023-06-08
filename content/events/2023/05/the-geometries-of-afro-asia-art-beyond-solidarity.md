@@ -1,10 +1,12 @@
 ---
 title: "The Geometries of Afro Asia: Art Beyond Solidarity"
-deck: Featuring Joan Kee, Kodwo Eshun, and Anjalika Sagar
+deck: Featuring Joan Kee, Kodwo Eshun, and Anjalika Sagar, with Jennifer Nelson
 summary: Rail Editor-at-Large Joan Kee joins writer Kodwo Eshun and artist
-  Anjalika Sagar for a conversation. We conclude with a poetry reading.
+  Anjalika Sagar for a conversation. We conclude with a poetry reading by
+  Jennifer Nelson.
 people:
   - person: joan-kee
+  - person: the-otolith-group
 date: 2023-06-15T13:00:00-0500
 end_date: 2023-06-15T14:30:00-0500
 series: 833
