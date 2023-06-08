@@ -18,4 +18,4 @@ event_id: rec2m09SQUM59ln5m
 event_platform:
   - zoom
 ---
-V﻿isi
+[V﻿isit Cordy Ryman: *Collecting Sparks,* on view at Walter Storms Galerie through June 30, 2023 →](https://www.storms-galerie.de/exhibition/cordy-ryman-2)
