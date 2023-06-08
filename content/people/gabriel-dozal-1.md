@@ -10,5 +10,6 @@ short_bio: "**Gabriel Dozal** is from El Paso, Texas. He received his MFA in
 portraits:
   - media: 2023/06/gabriel-dozal
 rail_contributor_url: https://brooklynrail.org/2019/10/poetry/eight
+instagram: gdozal
 twitter: gabbydozal
 ---
