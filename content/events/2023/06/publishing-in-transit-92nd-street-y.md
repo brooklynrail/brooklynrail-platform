@@ -6,6 +6,7 @@ summary: "Utenberg Poetry Center Director Bernard Schwartz and Co-Director
   reading. "
 people:
   - person: ricardo-alberto-maldonado
+  - person: cole-swensen
 date: 2023-07-13T13:00:00-0500
 end_date: 2023-07-13T14:30:00-0500
 series: 853
