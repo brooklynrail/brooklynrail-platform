@@ -21,4 +21,4 @@ event_id: recN8r49H4HYCllcm
 event_platform:
   - zoom
 ---
-[V﻿isit East of sun, west of moon, on view at the Brooklyn Museum through September 17, 2023](https://www.brooklynmuseum.org/exhibitions/oscar_yi_hou)→
+[V﻿isit *East of sun, west of moon*, on view at the Brooklyn Museum through September 17, 2023](https://www.brooklynmuseum.org/exhibitions/oscar_yi_hou)→
