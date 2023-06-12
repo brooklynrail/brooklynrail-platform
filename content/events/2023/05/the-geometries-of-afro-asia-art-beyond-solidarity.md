@@ -7,6 +7,8 @@ summary: Rail Editor-at-Large Joan Kee joins writer Kodwo Eshun and artist
 people:
   - person: joan-kee
   - person: the-otolith-group
+poets:
+  - person: jennifer-nelson
 date: 2023-06-15T13:00:00-0500
 end_date: 2023-06-15T14:30:00-0500
 series: 833
