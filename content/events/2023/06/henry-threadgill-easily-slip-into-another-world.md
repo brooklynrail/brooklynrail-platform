@@ -5,6 +5,7 @@ summary: Musician Henry Threadgill joins writer David Hershkovits for a
   conversation. We conclude with a poetry reading.
 people:
   - person: henry-threadgill
+  - person: david-hershkovits
 date: 2023-06-30T13:00:00-0500
 end_date: 2023-06-30T14:30:00-0500
 series: 844
