@@ -1,10 +1,11 @@
 ---
 title: "Beatriz Cortez: The Volcano That Left"
-deck: Featuring Cortez and Rail host to be announced
-summary: Artist Beatriz Cortez joins Rail host for a conversation. We conclude
-  with a poetry reading.
+deck: Featuring Cortez and Chloe Stagaman, with Laura Jaramillo
+summary: Artist Beatriz Cortez joins Rail Director of Programs Chloe Stagaman
+  for a conversation. We conclude with a poetry reading by Laura Jaramillo.
 people:
   - person: beatriz-cortez
+  - person: chloe-stagaman
 date: 2023-07-14T13:00:00-0500
 end_date: 2023-07-14T14:30:00-0500
 series: 854
