@@ -1,8 +1,7 @@
 ---
-media: /media/files/am.jpg
+media: /media/files/aditi-machado.jpg
 title: Aditi Machado
-alt: A black and white photograph of poet Aditi Machado, wearing glasses, in
-  front of palm leaves.
+alt: Photo of Aditi Machado
 caption: Courtesy Aditi Machado
 date: 2020-08-26T21:16:00-0500
 ---
