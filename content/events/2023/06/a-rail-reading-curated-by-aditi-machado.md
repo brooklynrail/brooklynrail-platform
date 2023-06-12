@@ -4,6 +4,7 @@ deck: Featuring Machado, Jahan Khajavi, Dong Li, and Sarah Maria Medina
 summary: "Aditi Machado curates our 140th Wednesday Poetry Reading with Jahan
   Khajavi, Dong Li, and Sarah Maria Medina. "
 people:
+  - person: " dong-li"
   - person: aditi-machado
 date: 2023-06-21T13:00:00-0500
 end_date: 2023-06-21T14:30:00-0500
