@@ -1,10 +1,11 @@
 ---
 title: "Cordy Ryman: Collecting Sparks"
-deck: Featuring Ryman and Rail host to be announced
-summary: Artist Cordy Ryman joins Rail host for a conversation. We conclude with
-  a poetry reading.
+deck: Featuring Ryman and Jeffrey Grunthaner
+summary: Artist Cordy Ryman joins Rail contributor Jeffrey Grunthaner for a
+  conversation. We conclude with a poetry reading.
 people:
   - person: cordy-ryman
+  - person: jeffrey-grunthaner
 date: 2023-06-20T13:00:00-0500
 end_date: 2023-06-20T14:30:00-0500
 series: 836
