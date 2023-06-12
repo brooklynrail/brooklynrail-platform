@@ -2,14 +2,14 @@
 name: Jeffrey Grunthaner
 first_name: Jeffrey
 last_name: Grunthaner
-short_bio: "Artist & writer Jeffrey Grunthaner is currently based in Berlin.
-  Their essays, articles, poems, and reviews have appeared via _BOMB_, _artnet
-  News_, _Hyperallergic_, _Drag City Books_, _American Art Catalogues_, and
-  other venues. Their poetry pamphlet, _Aphid Poems_, will be published in
-  October by The Creative Writing Department. Some recent curatorial projects
-  include the reading and discussion series Conversations in Contemporary
-  Poetics at Hauser & Wirth (NY), Sun Oil  for Open White Gallery (Berlin), and
-  FEELINGS for synthesis gallery (Berlin). "
+short_bio: "**Jeffrey Grunthaner** is a writer, artist, and curator based in
+  Brooklyn. Their articles, reviews, poems, and essays have appeared via Drag
+  City Books, _BOMB, American Art Catalogues, Folder, artnet News,
+  Hyperallergic,_ and other venues. Recent curatorial projects include the
+  reading and discussion series Conversations in Contemporary Poetics at Hauser
+  & Wirth Publishers, New York City, and Daniel Turner; Drawings and Sculpture,
+  at Spoonbill Studios, Brooklyn."
 portraits:
   - media: 2022/08/jeffrey-grunthaner
+rail_contributor_url: https://brooklynrail.org/contributor/Jeffrey-Grunthaner
 ---
