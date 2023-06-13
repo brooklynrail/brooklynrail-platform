@@ -13,4 +13,6 @@ short_bio: "**Dong Li** is a multilingual author who translates from the
   PEN/Heim Translation Fund, Yaddo, and others. His debut poetry collection _The
   Orange Tree_ (The University of Chicago Press, March 2023) is the inaugural
   winner of the Phoenix Emerging Poet Book Prize."
+portraits:
+  - media: 2023/06/dong-li
 ---
