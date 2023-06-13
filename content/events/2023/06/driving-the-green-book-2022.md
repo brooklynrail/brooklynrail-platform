@@ -24,4 +24,4 @@ event_platform:
 
 Broadcaster and author Alvin Hall and his two young mentees Chrissy and Jaron travel across Long Island (NY) looking for locations once listed in The Negro Motorist Green Book. They retrieve hidden stories about how Black travelers endured segregation during the years the Green Book was published (1936 - 1967) while also uncovering new subtle ways in which the issues continue today. Location after location, our road-trippers create an exciting, emotional and inspiring travelogue.
 
-{{< image media="2023/06/driving-the-green-book" size="md" >}}
+{{< image media="2023/06/driving-the-green-book" size="lg" >}}
