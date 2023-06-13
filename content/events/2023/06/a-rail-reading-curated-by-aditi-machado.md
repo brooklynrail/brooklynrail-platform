@@ -1,5 +1,5 @@
 ---
-title: A Rail Reading curated by Aditi Machado
+title: "The afternoon is the medium: A Rail Reading curated by Aditi Machado"
 deck: Featuring Machado, Jahan Khajavi, Dong Li, and Sarah Maria Medina
 summary: "Aditi Machado curates our 140th Wednesday Poetry Reading with Jahan
   Khajavi, Dong Li, and Sarah Maria Medina. "
