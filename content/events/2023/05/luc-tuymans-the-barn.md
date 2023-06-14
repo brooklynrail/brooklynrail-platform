@@ -1,11 +1,13 @@
 ---
 title: "Luc Tuymans: The Barn"
-deck: Featuring Tuymans and Jason Rosenfeld
+deck: Featuring Tuymans and Jason Rosenfeld, with Lewis Freedman
 summary: Artist Luc Tuymans joins Rail Editor-at-Large Jason Rosenfeld for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading by Lewis Freedman.
 people:
   - person: luc-tuymans
   - person: jason-rosenfeld
+poets:
+  - person: lewis-freedman-1
 date: 2023-06-23T13:00:00-0500
 end_date: 2023-06-23T14:30:00-0500
 series: 839
