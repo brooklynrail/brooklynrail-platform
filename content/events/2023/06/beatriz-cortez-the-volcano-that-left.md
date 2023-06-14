@@ -6,6 +6,8 @@ summary: Artist Beatriz Cortez joins Rail Director of Programs Chloe Stagaman
 people:
   - person: beatriz-cortez
   - person: chloe-stagaman
+poets:
+  - person: laura-jaramillo-1
 date: 2023-07-14T13:00:00-0500
 end_date: 2023-07-14T14:30:00-0500
 series: 854
