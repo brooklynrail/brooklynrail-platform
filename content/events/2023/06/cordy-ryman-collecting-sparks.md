@@ -1,11 +1,13 @@
 ---
 title: "Cordy Ryman: Collecting Sparks"
-deck: Featuring Ryman and Jeffrey Grunthaner
+deck: Featuring Ryman and Jeffrey Grunthaner, with John DeWitt
 summary: Artist Cordy Ryman joins Rail contributor Jeffrey Grunthaner for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading by John DeWitt.
 people:
   - person: cordy-ryman
   - person: jeffrey-grunthaner
+poets:
+  - person: john-dewitt
 date: 2023-06-20T13:00:00-0500
 end_date: 2023-06-20T14:30:00-0500
 series: 836
