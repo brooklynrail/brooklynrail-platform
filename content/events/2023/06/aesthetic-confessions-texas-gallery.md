@@ -1,9 +1,9 @@
 ---
 title: "Aesthetic Confessions: Texas Gallery"
-deck: Featuring Fredericka Hunter and Phyllis Tuchman
+deck: Featuring Fredericka Hunter and Phyllis Tuchman, with Elizabeth Threadgill
 summary: Texas Gallery Managing Partner Fredericka Hunter joins Rail
   Editor-at-Large Phyllis Tuchman for a conversation. We conclude with a poetry
-  reading.
+  reading by Elizabeth Threadgill.
 people:
   - person: phyllis-tuchman
 date: 2023-06-22T13:00:00-0500
