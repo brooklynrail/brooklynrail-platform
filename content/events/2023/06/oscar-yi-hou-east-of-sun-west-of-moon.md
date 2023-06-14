@@ -1,6 +1,6 @@
 ---
 title: "Oscar yi Hou: East of sun, west of moon "
-deck: Featuring yi Hou and Andrew Woolbright
+deck: Featuring yi Hou and Andrew Woolbright, with Morgan Võ
 summary: Artist Oscar yi Hou joins Rail Editor-at-Large Andrew Woolbright. We
   conclude with a poetry reading by Morgan Võ.
 people:
