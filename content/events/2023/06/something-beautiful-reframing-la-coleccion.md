@@ -1,7 +1,7 @@
 ---
 title: "Something Beautiful: Reframing La Colección"
 deck: Featuring Maria Gaspar, Rodrigo Moura, and Rail host to be announced
-summary: "Artist Maria Gaspar and author Rodrigo Moura join Rail host for a
+summary: "Artist Maria Gaspar and curator Rodrigo Moura join Rail host for a
   conversation. We conclude with a poetry reading. "
 people:
   - person: maria-gaspar-1
