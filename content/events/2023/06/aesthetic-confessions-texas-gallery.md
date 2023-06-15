@@ -5,8 +5,8 @@ summary: Texas Gallery Managing Partner Fredericka Hunter joins Rail
   Editor-at-Large Phyllis Tuchman for a conversation. We conclude with a poetry
   reading by Elizabeth Threadgill.
 people:
-  - person: phyllis-tuchman
   - person: fredericka-hunter
+  - person: phyllis-tuchman
 poets:
   - person: elizabeth-threadgill
 date: 2023-06-22T13:00:00-0500
