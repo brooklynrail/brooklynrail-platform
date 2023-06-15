@@ -6,6 +6,9 @@ summary: Texas Gallery Managing Partner Fredericka Hunter joins Rail
   reading by Elizabeth Threadgill.
 people:
   - person: phyllis-tuchman
+  - person: fredericka-hunter
+poets:
+  - person: elizabeth-threadgill
 date: 2023-06-22T13:00:00-0500
 end_date: 2023-06-22T14:30:00-0500
 series: 838
