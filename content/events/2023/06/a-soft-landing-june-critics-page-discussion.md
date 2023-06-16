@@ -1,5 +1,5 @@
 ---
-title: "A Soft Landing: June Critics Page Discussion"
+title: "New Worlds: June Critics Page Discussion"
 deck: "Featuring eunice bélidor, Melissa Cowley Wolf, Julia Hendrickson, Phyllis
   Hollis, James McAnally, Lise Ragbir, and Allison Glenn "
 summary: "Join the Rail's June 2023 Critics Page contributors for a conversation
