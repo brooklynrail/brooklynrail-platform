@@ -1,11 +1,11 @@
 ---
 title: Reading with Paul Maziar and Lorraine Lupo
 deck: Featuring Maziar and Lupo
-summary: "For the 141st Wednesday Poetry Reading, Paul Maziar and Lorraine join
-  us for a reading and conversation. "
+summary: "For the 141st Wednesday Poetry Reading, Paul Maziar and Lorraine Lupo
+  join us for a reading and conversation. "
 people:
-  - person: lorraine-lupo
   - person: paul-maziar
+  - person: lorraine-lupo
 date: 2023-06-28T13:00:00-0500
 end_date: 2023-06-28T14:30:00-0500
 series: 842
