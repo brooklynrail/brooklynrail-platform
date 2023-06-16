@@ -8,6 +8,7 @@ people:
   - person: cole-swensen
 date: 2023-06-29T13:00:00-0500
 end_date: 2023-06-29T14:30:00-0500
+series: 843
 collections:
   - common-ground
 event_organizer:
