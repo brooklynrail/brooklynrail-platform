@@ -18,5 +18,7 @@ event_producer:
 event_id: recXX1NVRYkd2iI5W
 event_platform:
   - zoom
+aliases:
+  - /events/2023/06/27/a-soft-landing-june-critics-page-discussion/
 ---
 [R﻿ead the *Brooklyn Rail*'s June 2023 Critics Page →](https://brooklynrail.org/2023/6/criticspage)
