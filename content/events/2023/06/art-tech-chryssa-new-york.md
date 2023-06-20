@@ -1,9 +1,11 @@
 ---
 title: "Art + Tech: Chryssa & New York"
-deck: Featuring Megan Witko, Michelle White, and Charlotte Kent
-summary: Curators Megan Witko and Michelle White join Rail Editor-at-Large
+deck: Featuring Megan Holly Witko, Michelle White, and Charlotte Kent
+summary: Curators Megan Holly Witko and Michelle White join Rail Editor-at-Large
   Charlotte Kent for a conversation. We conclude with a poetry reading.
 people:
+  - person: megan-holly-witko
+  - person: michelle-white
   - person: charlotte-kent
 date: 2023-07-07T13:00:00-0500
 end_date: 2023-07-07T14:30:00-0500
