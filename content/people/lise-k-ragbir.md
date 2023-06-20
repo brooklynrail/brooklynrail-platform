@@ -17,5 +17,6 @@ short_bio: "As Co-Founder and Managing Partner of Verge Agency, **Lise K.
 portraits:
   - media: 2023/06/lise-k-ragbir
 rail_contributor_url: https://brooklynrail.org/contributor/Lise-K-Ragbir
+website: https://www.liseragbir.com/
 instagram: noreallywhatru
 ---
