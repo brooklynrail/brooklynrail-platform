@@ -5,6 +5,7 @@ deck: "Featuring eunice bélidor, Melissa Cowley Wolf, Julia V. Hendrickson, Lis
 summary: "Join the Rail's June 2023 Critics Page contributors for a conversation
   with guest critic Allison Glenn. We conclude with a poetry reading. "
 people:
+  - person: eunice-belidor
   - person: melissa-cowley-wolf
   - person: julia-v-hendrickson
   - person: lise-k-ragbir
