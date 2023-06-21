@@ -5,6 +5,9 @@ summary: Noemi Press Co-Publishers Suzi F. Garcia and Anthony Cody and Executive
   Director Sarah Gzemski join Rail contributor Cole Swensen for a conversation
   and reading.
 people:
+  - person: suzi-f-garcia
+  - person: anthony-cody
+  - person: sarah-gzemski
   - person: cole-swensen
 date: 2023-06-29T13:00:00-0500
 end_date: 2023-06-29T14:30:00-0500
