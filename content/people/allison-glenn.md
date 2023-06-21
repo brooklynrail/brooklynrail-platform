@@ -11,7 +11,7 @@ short_bio: "**Allison Glenn** is a curator and writer deeply invested in working
   presenting new works by David Adjaye, Matthew Angelo Harrison, Mendi + Keith
   Obadike, and Maya Stovall."
 portraits:
-  - media: 2023/06/allison-glenn-portrait
+  - media: 2023/06/allison-glenn
 rail_contributor_url: https://brooklynrail.org/contributor/Allison-Glenn
 website: https://www.allisonglenn.com/
 instagram: msallisonglenn
