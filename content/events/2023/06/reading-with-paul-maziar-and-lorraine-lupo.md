@@ -1,5 +1,5 @@
 ---
-title: Reading with Paul Maziar and Lorraine Lupo
+title: "A reading and conversation with The Lazies: Lorraine Lupo and Paul Maziar"
 deck: Featuring Maziar and Lupo
 summary: "For the 141st Wednesday Poetry Reading, Paul Maziar and Lorraine Lupo
   join us for a reading and conversation. "
