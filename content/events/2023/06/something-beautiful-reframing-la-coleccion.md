@@ -5,6 +5,7 @@ summary: "Artist Maria Gaspar and curator Rodrigo Moura join Rail host for a
   conversation. We conclude with a poetry reading. "
 people:
   - person: maria-gaspar-1
+  - person: rodrigo-moura
 date: 2023-07-11T13:00:00-0500
 end_date: 2023-07-11T14:30:00-0500
 series: 851
