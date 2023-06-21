@@ -9,6 +9,7 @@ people:
   - person: melissa-cowley-wolf
   - person: julia-v-hendrickson
   - person: lise-k-ragbir
+  - person: phyllis-hollis
   - person: james-mcanally
   - person: allison-glenn
 date: 2023-06-27T13:00:00-0500
