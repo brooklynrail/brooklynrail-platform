@@ -11,7 +11,7 @@ date: 2023-06-19T00:00:00-0500
 end_date: 2023-06-19T23:59:00-0500
 series: 835
 collections:
-  - the-new-social-environment
+  - screening
 event_organizer:
   - the-brooklyn-rail
 event_producer:
@@ -21,7 +21,6 @@ event_platform:
   - zoom
 aliases:
   - /events/2023/06/19/driving-the-green-book-2022/
-
 ---
 
 {{< image media="2023/06/driving-the-green-book-1" size="lg" >}}
