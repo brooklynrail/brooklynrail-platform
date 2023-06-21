@@ -16,8 +16,7 @@ event_organizer:
 event_producer:
   - the-brooklyn-rail
 event_id: recGLN5fhaNoTHbNl
-event_platform:
-  - zoom
+event_platform: null
 ---
 {{< image media="2023/06/who-is-lun-na-menoh" size="lg" >}}
 
