@@ -1,7 +1,7 @@
 ---
 title: "David Byrne: Here Lies Love"
 deck: Featuring Byrne and Paul D. Miller, with Tyhe Cooper
-summary: World renowned musician and artist David Byrne joins Rail
+summary: World-renowned musician and artist David Byrne joins Rail
   Editor-at-Large Paul D. Miller for a conversation. We conclude with a poetry
   reading by Tyhe Cooper.
 people:
