@@ -2,7 +2,7 @@
 title: "Publishing-in-Transit: 92nd Street Y"
 deck: Featuring Bernard Schwartz, Ricardo Maldonado, and Cole Swensen
 summary: "Unterberg Poetry Center Director Bernard Schwartz and Co-Director
-  Ricardo Maldonad join Rail contributor Cole Swensen for a conversation and
+  Ricardo Maldonado join Rail contributor Cole Swensen for a conversation and
   reading. "
 people:
   - person: ricardo-alberto-maldonado
