@@ -1,6 +1,7 @@
 ---
 title: "Not Too Late: Changing the Climate Story from Despair to Possibility"
-deck: Featuring Rebecca Solnit, Thelma Young Lutunatabua, and Rev. Dr. Donna Schaper
+deck: Featuring Rebecca Solnit, Thelma Young Lutunatabua, and Rev. Dr. Donna
+  Schaper, with Anselm Berrigan
 summary: Writer Rebecca Solnit and activist Thelma Young Lutunatabua join Rail
   Editor-at-Large Rev. Dr. Donna Schaper for a conversation. We conclude with a
   poetry reading by Anselm Berrigan.
