@@ -11,8 +11,8 @@ people:
   - person: rev-dr-dona-schaper
 poets:
   - person: anselm-berrigan
-date: 2023-07-06T13:00:00-0500
-end_date: 2023-07-06T14:30:00-0500
+date: 2023-07-06T12:00:00-0500
+end_date: 2023-07-06T13:30:00-0500
 series: 848
 collections:
   - common-ground
