@@ -1,7 +1,7 @@
 ---
-name: Jaylen Strong
-first_name: Jaylen
-last_name: Strong
+name: jaylen strong
+first_name: jaylen
+last_name: strong
 short_bio: multi-hyphenate, slow-walking, seed-catching body **jaylen strong**
   is beneath the tree calculating how the shadows might reign. he is the former
   librarian curator for the playground annex. his work has been featured at moma
