@@ -1,12 +1,14 @@
 ---
 title: "Something Beautiful: Reframing La Colección"
-deck: Featuring Maria Gaspar, Rodrigo Moura, and Rail host to be announced, with
+deck: Featuring Maria Gaspar, Rodrigo Moura, and Gaby Collins-Fernandez, with
   Alexis Almeida
-summary: Artist Maria Gaspar and curator Rodrigo Moura join Rail host for a
-  conversation. We conclude with a poetry reading by Alexis Almeida.
+summary: Artist Maria Gaspar and curator Rodrigo Moura join Rail contributor
+  Gaby Collins-Fernandez for a conversation. We conclude with a poetry reading
+  by Alexis Almeida.
 people:
   - person: maria-gaspar-1
   - person: rodrigo-moura
+  - person: gaby-collins-fernandez
 poets:
   - person: alexis
 date: 2023-07-11T13:00:00-0500
