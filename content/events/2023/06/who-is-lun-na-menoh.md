@@ -1,5 +1,5 @@
 ---
-title: Who is Lun*na Menoh?
+title: Who is Lun*na Menoh? (2022)
 deck: Directed by Jeff Mizushima
 summary: Join us for a virtual screening. Register to receive a 24-hour access
   link and password to the film.
@@ -25,4 +25,6 @@ event_platform: null
 
 [M﻿ore on *Who is Lun*na Menoh?* (2022) →](https://www.whoislunna.com/)
 
-[](https://www.whoislunna.com/)
+[W﻿atch the YouTube series on *Who is Lu*na Menoh?* →](https://www.youtube.com/watch?v=N1MrR5Vo8kY&list=UULF6lULfV0CT4dxwbUmHqMPqw&index=16)
+
+[](https://www.youtube.com/watch?v=N1MrR5Vo8kY&list=UULF6lULfV0CT4dxwbUmHqMPqw&index=16)[](https://www.whoislunna.com/)
