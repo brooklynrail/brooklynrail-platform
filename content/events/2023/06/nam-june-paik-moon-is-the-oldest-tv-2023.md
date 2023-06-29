@@ -1,8 +1,8 @@
 ---
 title: "Nam June Paik: Moon is the Oldest TV (2023)"
 deck: Directed by Amanda Kim
-summary: Join us for a virtual screening. Register to receive a 24-hour access
-  link and password to the film.
+summary: Join us for a virtual screening hosted on Kinema. Click “Get Tickets”
+  at the Register button above to create a Kinema account and watch this film.
 people:
   - person: amanda-kim
 date: 2023-07-03T00:00:00-0500
