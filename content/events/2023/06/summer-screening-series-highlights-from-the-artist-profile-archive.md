@@ -15,9 +15,9 @@ event_producer:
 event_id: recY6p0JBBVShXSPu
 event_platform: null
 ---
-{{< image media="2023/06/charles-gaines-tapa" size="sm" >}}
+{{< image media="2023/06/charles-gaines-tapa" size="md" >}}
 
-{{< image media="2023/06/gary-simmons-tapa" size="sm" >}}
+{{< image media="2023/06/gary-simmons-tapa" size="md" >}}
 
 [V﻿isit *Gary Simmons: Public Enemy*, on view at the Museum of Contemporary Art Chicago through October 1, 2023 →](https://visit.mcachicago.org/exhibitions/gary-simmons-public-enemy/)
 
@@ -31,4 +31,4 @@ event_platform: null
 
  For more information please follow The Artist Profile Archive on Instagram ([@TheArtistProfileArchive](https://www.instagram.com/theartistprofilearchive/)), on Facebook ([@TheArtistProfileArchive](https://www.facebook.com/theartistprofilearchive)) or visit our website at [www.theartistprofilearchive.​com](http://www.theartistprofilearchive.com/).
 
-{{< image media="2023/06/the-artist-profile-archie" size="md" >}}
+{{< image media="2023/06/the-artist-profile-archie" size="sm" >}}
