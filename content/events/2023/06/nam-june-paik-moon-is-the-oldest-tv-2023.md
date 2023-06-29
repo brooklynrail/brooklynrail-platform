@@ -15,8 +15,9 @@ event_organizer:
 event_producer:
   - the-brooklyn-rail
 event_id: ""
+registration_url: https://kinema.com/events/nam-june-paik-moon-is-the-oldest-tv-fj10-f
 event_platform: null
-event_platform_url: https://kinema.com/events/nam-june-paik-moon-is-the-oldest-tv-fj10-f
+event_platform_url: ""
 ---
 {{< image media="2023/06/nam-june-paik-moon-is-the-oldest-tv-poster" size="md" >}}
 
