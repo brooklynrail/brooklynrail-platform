@@ -13,8 +13,7 @@ event_organizer:
 event_producer:
   - the-brooklyn-rail
 event_id: recxv6wX74MQ2ACYJ
-event_platform:
-  - zoom
+event_platform: null
 ---
 {{< image media="2023/06/joe-brainard-i-remember" size="lg" >}}
 
