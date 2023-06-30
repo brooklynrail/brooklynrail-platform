@@ -1,5 +1,6 @@
 ---
-title: A Rail Reading curated by jaylen strong
+title: "the shadow loom (shattering enemy time): A Rail Reading curated by
+  jaylen strong"
 deck: Featuring strong, S*an D. Henry Smith, and Jayson P. Smith
 summary: "jaylen strong curates our 141st Wednesday poetry reading with S*an D.
   Henry Smith and Jayson P. Smith "
