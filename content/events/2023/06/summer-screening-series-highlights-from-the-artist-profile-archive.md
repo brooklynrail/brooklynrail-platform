@@ -4,6 +4,9 @@ deck: Featuring Charles Gaines and Gary Simmons
 summary: Join us in watching two interviews from The Artist Profile Archive with
   Charles Gaines and Gary Simmons. Register to receive 24-hour access links and
   passwords to the films.
+people:
+  - person: charles-gaines-1
+  - person: gary-simmons
 date: 2023-07-21T00:00:00-0500
 end_date: 2023-07-21T23:59:00-0500
 series: 859
