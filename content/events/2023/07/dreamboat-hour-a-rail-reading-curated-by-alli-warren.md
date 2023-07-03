@@ -4,8 +4,9 @@ deck: featuring Warren, Ari Banias, Andrew Brooks, and Camille Roy
 summary: Alli Warren curates our 143rd poetry reading with Ari Banias, Andrew
   Brooks, and Camille Roy
 people:
-  - person: " alli-warren"
   - person: " ari-banias"
+  - person: " camille-roy"
+  - person: " alli-warren"
 date: 2023-07-12T13:00:00-0500
 end_date: 2023-07-12T14:00:00-0500
 series: 852
