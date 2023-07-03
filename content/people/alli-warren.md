@@ -10,6 +10,6 @@ short_bio: "**Alli Warren** is the author of _Sundial_ (Nion Editions, 2021),
   Critical Quarterly, Feminist Formations, Harper’s, and Poetry. Alli has lived
   and worked in the Bay Area since 2005."
 portraits:
-  - {}
+  - media: 2020/06/alli-warren-headshot
 rail_contributor_url: https://brooklynrail.org/contributor/alli-warren
 ---
