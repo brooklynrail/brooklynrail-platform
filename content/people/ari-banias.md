@@ -2,16 +2,12 @@
 name: Ari Banias
 first_name: Ari
 last_name: Banias
-short_bio: "Poet **Ari Banias** is the author of *A Symmetry* (Norton, 2021),
-  and *Anybody* (Norton, 2016), a finalist for the Kate Tufts Discovery Award
-  and the PEN Center USA Literary Award. His poems appear in *American Poetry
-  Review*, *Georgia Review*, *Hyperallergic*, *Kenyon Review*, *Poetry*
-  magazine, *A Public Space*, *The Nation*, *The New Republic*, *Triple Canopy*,
-  *The Yale Review*, and *We Want it All: An Anthology of Radical Trans Poetics*
-  (Nightboat, 2020). His work has been supported by Headlands Center for the
-  Arts, MacDowell, the New York Foundation for the Arts, the Fine Arts Work
-  Center in Provincetown, the Wisconsin Institute for Creative Writing, and
-  Stanford’s Stegner Fellowship program. Ari lives and teaches in the Bay Area."
+short_bio: "**Ari Banias** is the author of _A Symmetry_, which won the 2022
+  Publishing Triangle Award for Trans & Gender Variant Literature, and
+  _Anybody_, both from W. W. Norton. His work has been supported by numerous
+  fellowships and residencies, and has been published in _Triple Canopy, The
+  Nation, The New Republic, Hyperallergic, The Yale Review_, and _Bæst_, among
+  others. Ari lives in Chicago."
 portraits:
   - media: 2021/11/ari-banias
 ---
