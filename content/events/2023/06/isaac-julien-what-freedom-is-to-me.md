@@ -1,8 +1,8 @@
 ---
 title: "Isaac Julien: What Freedom Is To Me"
-deck: "Featuring Julien and Toby Kamps "
+deck: Featuring Julien and Toby Kamps, with JJJJerome Ellis
 summary: "Artist Isaac Julien joins Rail Editor-at-Large Toby Kamps for a
-  conversation. We conclude with a poetry reading. "
+  conversation. We conclude with a poetry reading by JJJJerome Ellis. "
 people:
   - person: isaac-julien
   - person: toby-kamps
