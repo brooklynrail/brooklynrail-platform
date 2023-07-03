@@ -1,11 +1,10 @@
 ---
 title: "the shadow loom (shattering enemy time): A Rail Reading curated by
   jaylen strong"
-deck: Featuring strong, S*an D. Henry Smith, and Jayson P. Smith
-summary: "jaylen strong curates our 141st Wednesday poetry reading with S*an D.
-  Henry Smith and Jayson P. Smith "
+deck: Featuring strong and Jayson P. Smith
+summary: "jaylen strong curates our 141st Wednesday poetry reading with Jayson
+  P. Smith "
 people:
-  - person: s-an-d-henry-smith
   - person: jayson-p-smith
     related_links:
       - url: https://www.nomadreadings.com/
