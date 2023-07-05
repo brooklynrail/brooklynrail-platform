@@ -5,6 +5,7 @@ summary: Alli Warren curates our 143rd poetry reading with Ari Banias, Andrew
   Brooks, and Camille Roy.
 people:
   - person: ari-banias
+  - person: andrew-brooks
   - person: camille-roy
   - person: alli-warren
 date: 2023-07-12T13:00:00-0500
