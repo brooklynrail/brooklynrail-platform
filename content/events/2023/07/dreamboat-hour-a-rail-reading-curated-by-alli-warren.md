@@ -1,8 +1,8 @@
 ---
 title: "Dreamboat Hour: A Rail Reading curated by Alli Warren"
-deck: featuring Warren, Ari Banias, Andrew Brooks, and Camille Roy
+deck: Featuring Warren, Ari Banias, Andrew Brooks, and Camille Roy
 summary: Alli Warren curates our 143rd poetry reading with Ari Banias, Andrew
-  Brooks, and Camille Roy
+  Brooks, and Camille Roy.
 people:
   - person: ari-banias
   - person: camille-roy
