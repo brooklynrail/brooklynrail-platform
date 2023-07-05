@@ -2,7 +2,7 @@
 name: matt dilling
 first_name: matt
 last_name: dilling
-short_bio: "matt dilling (they/them) is a partner at Lite Brite Neon Studio,
+short_bio: "**matt dilling** (they/them) is a partner at Lite Brite Neon Studio,
   located on the unceded lands of the Lenape peoples in what is currently
   referred to as New York. Lite Brite Neon Studio specializes in production,
   conservation and development of neon artworks and designs, with a focus on
