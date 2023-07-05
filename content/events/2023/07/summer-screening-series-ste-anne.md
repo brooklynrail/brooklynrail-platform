@@ -1,5 +1,5 @@
 ---
-title: Summer Screening Series | Ste. Anne
+title: Summer Screening Series | Ste. Anne (2021)
 deck: Directed by Rhayne Vermette
 summary: Join us for a virtual screening of Ste. Anne (2021). Register to
   receive a 24-hour access link and password to the film.
