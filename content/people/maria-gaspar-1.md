@@ -14,5 +14,6 @@ short_bio: "**Maria Gaspar** is an artist negotiating the politics of location
 portraits:
   - media: 2023/06/maria-gaspar-1
 website: https://mariagaspar.com/
+instagram: maria__gaspar
 twitter: maria_gaspar_0
 ---
