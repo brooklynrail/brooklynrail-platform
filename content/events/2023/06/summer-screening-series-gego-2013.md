@@ -7,7 +7,7 @@ people:
   - person: nathalie-david
 date: 2023-07-20T00:00:00-0500
 end_date: 2023-07-20T23:59:00-0500
-series: 860
+series: 858
 collections:
   - screening
 event_organizer:
