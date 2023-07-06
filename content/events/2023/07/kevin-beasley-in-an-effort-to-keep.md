@@ -4,6 +4,7 @@ deck: Featuring Beasley and Amanda Gluibizzi, with JJJJJerome Ellis
 summary: "Artist Kevin Beasley joins Rail ArtSeen Editor Amanda Gluibizzi for a
   conversation. We conclude with a poetry reading by JJJJJerome Ellis. "
 people:
+  - person: kevin-beasley
   - person: amanda-gluibizzi
 poets:
   - person: jjjjjerome-ellis
