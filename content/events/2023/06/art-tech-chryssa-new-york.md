@@ -14,7 +14,7 @@ poets:
   - person: zefyr-lisowski
 date: 2023-07-07T13:00:00-0500
 end_date: 2023-07-07T14:30:00-0500
-series: 846
+series: 849
 collections:
   - the-new-social-environment
 event_organizer:
