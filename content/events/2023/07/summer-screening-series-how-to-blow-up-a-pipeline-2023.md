@@ -21,7 +21,6 @@ event_platform: null
 
 [R﻿ead about *How to Blow Up a Pipeline* (2023) in the *Brooklyn Rail* →](https://brooklynrail.org/2023/05/film/How-to-Blow-Up-a-Pipeline)
 
-A crew of young environmental activists execute a daring mission to sabotage an oil pipeline in this taut\
-and timely thriller that is part high-stakes heist, part radical exploration of the climate crisis.
+A crew of young environmental activists execute a daring mission to sabotage an oil pipeline in this taut and timely thriller that is part high-stakes heist, part radical exploration of the climate crisis.
 
 {{< image media="2023/07/how-to-blow-up-a-pipeline-still" size="lg" >}}
