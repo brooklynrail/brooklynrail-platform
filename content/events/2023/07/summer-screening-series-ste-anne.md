@@ -1,13 +1,8 @@
 ---
 title: Summer Screening Series | Ste. Anne (2021)
 deck: Directed by Rhayne Vermette
-summary: Register to receive a 24-hour access link and password to the film. The
-  Brooklyn Rail’s Film section believes big questions are essential to
-  envisioning engaged and responsible cinema. From the environmental crisis to
-  spirituality, the films we cover embrace fraught scenarios, complex ideas, and
-  innovative practices of storytelling. From July 24-28, enjoy five films
-  selected by our Film Editors Laura Jane Valenza and Edward Charles Mendez.
-  Together, these stunning films celebrate and amplify unique approaches.
+summary: "Join us for a virtual screening of Ste. Anne (2021). Register to
+  receive a 24-hour access link and password to the film. "
 people:
   - person: rhayne-vermette
 date: 2023-07-25T00:00:00-0500
@@ -26,6 +21,8 @@ event_platform: null
 
 [R﻿ead about *Ste. Anne* (2021) in the *Brooklyn Rail* →](https://brooklynrail.org/2022/05/film/Rhayne-Vermettes-Ste-Anne)
 
-Renée is a single mother who has been missing for almost four years, and leaves her young daughter called Athene to the care of her brother and his girlfriend Elenore. When she arrives, everything changes for Athene, and their caretakers question what has Renée been up to alongside their family.
+The *Brooklyn Rail*’s Film section believes big questions are essential to envisioning engaged and responsible cinema. From the environmental crisis to spirituality, the films we cover embrace fraught scenarios, complex ideas, and innovative practices of storytelling. From July 24-28, enjoy five films selected by our Film Editors Laura Jane Valenza and Edward Charles Mendez. Together, these stunning films celebrate and amplify unique approaches.
+
+In *Ste. Anne*, Renée is a single mother who has been missing for almost four years, and leaves her young daughter called Athene to the care of her brother and his girlfriend Elenore. When she arrives, everything changes for Athene, and their caretakers question what has Renée been up to alongside their family. 
 
 {{< image media="2023/07/ste-anne-still" size="lg" >}}
