@@ -1,8 +1,13 @@
 ---
 title: Summer Screening Series | The Case of the Vanishing Gods (2021)
 deck: Directed by Ross Lipman
-summary: Join us for a screening of The Case of the Vanishing Gods (2021).
-  Register to receive a 24-hour access link and password to the film.
+summary: Register to receive a 24-hour access link and password to the film. The
+  Brooklyn Rail’s Film section believes big questions are essential to
+  envisioning engaged and responsible cinema. From the environmental crisis to
+  spirituality, the films we cover embrace fraught scenarios, complex ideas, and
+  innovative practices of storytelling. From July 24-28, enjoy five films
+  selected by our Film Editors Laura Jane Valenza and Edward Charles Mendez.
+  Together, these stunning films celebrate and amplify unique approaches.
 date: 2023-07-27T00:00:00-0500
 end_date: 2023-07-27T23:59:00-0500
 series: 863
