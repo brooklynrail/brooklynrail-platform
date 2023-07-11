@@ -21,4 +21,6 @@ event_platform: null
 
 [R﻿ead about *Ste. Anne* (2021) in the *Brooklyn Rail* →](https://brooklynrail.org/2022/05/film/Rhayne-Vermettes-Ste-Anne)
 
+Renée is a single mother who has been missing for almost four years, and leaves her young daughter called Athene to the care of her brother and his girlfriend Elenore. When she arrives, everything changes for Athene, and their caretakers question what has Renée been up to alongside their family.
+
 {{< image media="2023/07/ste-anne-still" size="lg" >}}
