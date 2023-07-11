@@ -1,13 +1,12 @@
 ---
 title: "Art + Tech: Chryssa & New York"
-deck: Featuring Megan Holly Witko, Michelle White, matt dilling, and Charlotte
-  Kent, with Zefyr Lisowski
-summary: Curators Megan Holly Witko and Michelle White and Partner at Lite Brite
-  Neon Studio matt dilling join Rail Editor-at-Large Charlotte Kent for a
-  conversation. We conclude with a poetry reading by Zefyr Lisowski.
+deck: Featuring Megan Holly Witko, matt dilling, and Charlotte Kent, with Zefyr
+  Lisowski
+summary: Curator Megan Holly Witko and Partner at Lite Brite Neon Studio matt
+  dilling join Rail Editor-at-Large Charlotte Kent for a conversation. We
+  conclude with a poetry reading by Zefyr Lisowski.
 people:
   - person: megan-holly-witko
-  - person: michelle-white
   - person: matt-dilling
   - person: charlotte-kent
 poets:
@@ -21,6 +20,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: j6pV8DuzDIU
 event_id: recOg6zsEnGs4MFn6
 event_platform:
   - zoom
