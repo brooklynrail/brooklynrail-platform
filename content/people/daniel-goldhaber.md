@@ -14,7 +14,7 @@ short_bio: '**Daniel Goldhaber** is a director, writer and producer based in Los
   premiered in the Platform Section of the 2022 Toronto Film Festival.'
 portraits:
   - media: 2023/07/daniel-goldhaber
-website: " https://www.danielgoldhaber.com/"
+website: "https://www.danielgoldhaber.com/"
 instagram: " chronopictures"
 twitter: chronopictures
 ---
