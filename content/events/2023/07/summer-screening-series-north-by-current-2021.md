@@ -1,8 +1,13 @@
 ---
 title: Summer Screening Series | North by Current (2021)
 deck: Directed by Angelo Madsen Minax
-summary: Join us for a virtual screening of North by Current (2021). Register to
-  receive a 24-hour access link and password to the film.
+summary: Register to receive a 24-hour access link and password to the film. The
+  Brooklyn Rail’s Film section believes big questions are essential to
+  envisioning engaged and responsible cinema. From the environmental crisis to
+  spirituality, the films we cover embrace fraught scenarios, complex ideas, and
+  innovative practices of storytelling. From July 24-28, enjoy five films
+  selected by our Film Editors Laura Jane Valenza and Edward Charles Mendez.
+  Together, these stunning films celebrate and amplify unique approaches.
 people:
   - person: angelo-madsen-minax
 date: 2023-07-28T00:00:00-0500
