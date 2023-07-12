@@ -3,6 +3,8 @@ title: Summer Screening Series | Today (2022)
 deck: Directed by Su Friedrich
 summary: Join us for a virtual screening of Today (2022). Register to receive a
   24-hour access link and password to the film.
+people:
+  - person: su-friedrich
 date: 2023-07-24T00:00:00-0500
 end_date: 2023-07-24T23:59:00-0500
 series: 860
