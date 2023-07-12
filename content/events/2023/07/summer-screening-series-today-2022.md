@@ -15,6 +15,10 @@ event_producer:
 event_id: recnlSq9N5U4pFRpD
 event_platform: null
 ---
+{{< image media="2023/07/today-poster" size="lg" >}}
+
 [R﻿ead about *Today* (2022) in the *Brooklyn Rail* →](https://brooklynrail.org/2023/05/film/Su-Friedrichs-Today)
 
 The *Brooklyn Rail*’s Film section believes big questions are essential to envisioning engaged and responsible cinema. From the environmental crisis to spirituality, the films we cover embrace fraught scenarios, complex ideas, and innovative practices of storytelling. From July 24-28, enjoy five films selected by our Film Editors Laura Jane Valenza and Edward Charles Mendez. Together, these stunning films celebrate and amplify unique approaches.
+
+*Today* is about what happens when you think that “living in the moment” will give you access to seeing the wonders of the world, and then you discover that it simply means you’ll see exactly what’s in front of you on any given day, whether that’s uplifting—or devastating.
