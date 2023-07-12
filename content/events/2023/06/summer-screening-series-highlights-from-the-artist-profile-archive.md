@@ -23,7 +23,11 @@ event_platform: null
 
 [V﻿isit *Gary Simmons: Public Enemy*, on view at the Museum of Contemporary Art Chicago through October 1, 2023 →](https://visit.mcachicago.org/exhibitions/gary-simmons-public-enemy/)
 
-[V﻿isit Charles Gaines: *Moving Chains* on Governor's Island through Summer 2023 →](https://creativetime.org/american-manifest-part-two/)
+[V﻿isit *Gary Simmons: This Must Be the Place*, on view at Hauser & Wirth, London through July 29, 2023 →](https://vip-hauserwirth.com/gallery-exhibitions/gary-simmons-this-must-be-the-place/)
+
+[](https://vip-hauserwirth.com/gallery-exhibitions/gary-simmons-this-must-be-the-place/)[V﻿isit Charles Gaines: *Moving Chains* on Governor's Island through Summer 2023 →](https://creativetime.org/american-manifest-part-two/)
+
+[V﻿isit *Charles Gaines: Numbers and Trees:* The Arizona Water Colors on view at Hauser & Wirth, Southhampton through July 30, 2023 →](https://vip-hauserwirth.com/gallery-exhibitions/charles-gaines-numbers-and-trees-the-arizona-watercolors/)
 
 [](https://brooklynrail.org/events/2022/08/12/charles-gaines-the-american-manifest/)[](https://creativetime.org/american-manifest-part-two/)The Artist Profile Archive is an ever-expanding online archive of short documentaries on contemporary artists. The videos profile artists in their own words and include multi-media content featuring biographies, exhibition photos, audio clips and behind-the-scenes images. They provide educational information and an historical record of some of the most important contemporary artists working today.
 
