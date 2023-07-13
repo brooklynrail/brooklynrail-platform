@@ -12,6 +12,8 @@ short_bio: "**Angelo Madsen Minax** is a multi-disciplinary artist, filmmaker,
   Spotlight award, Best Writing award from the IDA and numerous festival jury
   prizes. Madsen is currently an Associate Professor of Time-Based Media at the
   University of Vermont, a current USA Artists Fellow and a Guggenheim Fellow."
+portraits:
+  - media: 2023/07/angelo-madsen-minax
 website: https://www.angelomadsen.com/
 instagram: " angelomadsen"
 ---
