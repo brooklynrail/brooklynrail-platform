@@ -2,16 +2,12 @@
 name: Julia Bryan-Wilson
 first_name: Julia
 last_name: Bryan-Wilson
-short_bio: "Curator and critic **Julia Bryan-Wilson,** PhD, is Professor of
-  LGBTQ Art History at Columbia University. She is the author of multiple books,
-  including _Fray: Art and Textile Politics_ (University of Chicago, 2017, a
-  _New York Times_ best art book of the year and winner of the Frank Jewett
-  Mather Award, the Robert Motherwell Book Award, and the Association for the
-  Study of the Arts of the Present Book Prize). Her book on Louise Nevelson is
-  forthcoming from Yale University Press in 2023. She was a 2019-20 Guggenheim
-  Fellow, and her research has been supported by grants and fellowships from the
-  Center for Advanced Study in the Visual Arts at the National Gallery, the
-  Georgia O’Keeffe Museum Research Center, and others."
+short_bio: "**Julia Bryan-Wilson** is the author of _Louise Nevelson's
+  Sculpture: Drag, Color, Join, Face._ Her previous books include _Art Workers:
+  Radical Practice in the Vietnam War Era_ and _Fray: Art and Textile Politics,_
+  which won the ASAP Book Prize, the Frank Jewett Mather Award from CAA, and the
+  Robert Motherwell Book Award. She teaches at Columbia University and is
+  Curator-at-Large at the Museu de Arte de São Paulo.  "
 portraits:
   - media: 2022/10/julia-bryan-wilson
 website: https://arthistory.columbia.edu/content/julia-bryan-wilson
