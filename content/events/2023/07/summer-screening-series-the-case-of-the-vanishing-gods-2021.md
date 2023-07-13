@@ -23,6 +23,6 @@ event_platform: null
 
 The *Brooklyn Rail*’s Film section believes big questions are essential to envisioning engaged and responsible cinema. From the environmental crisis to spirituality, the films we cover embrace fraught scenarios, complex ideas, and innovative practices of storytelling. From July 24-28, enjoy five films selected by our Film Editors Laura Jane Valenza and Edward Charles Mendez. Together, these stunning films celebrate and amplify unique approaches.
 
-I﻿n *The Case of the Vanishing Gods*, Our host, Doctor Labyrinth encounters a ventriloquist’s dummy with a troubled past. Only through the Doctor’s most daring efforts can Hugo learn the nature of his troubles – a process that takes them on a rollercoaster journey through the history of ventriloquism, from the prophetic tradition to the present day. 
+I﻿n *The Case of the Vanishing Gods*, our host, Doctor Labyrinth encounters a ventriloquist’s dummy with a troubled past. Only through the Doctor’s most daring efforts can Hugo learn the nature of his troubles – a process that takes them on a rollercoaster journey through the history of ventriloquism, from the prophetic tradition to the present day. 
 
 {{< image media="2023/07/case-of-the-vanishing-gods-still" size="lg" >}}
