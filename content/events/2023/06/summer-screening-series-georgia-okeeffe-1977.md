@@ -20,3 +20,5 @@ event_platform: null
 [Visit *Georgia O'Keeffe: To See Takes Time* on view at MoMA through August 12, 2023 →](https://www.moma.org/calendar/exhibitions/5493)
 
 Directed by Perry Miller Adato, *Georgia O’Keeffe* (1977) is a film portrait in honor of the artist’s ninetieth birthday. Featuring O’Keeffe at her home in New Mexico and at her retrospective at MoMA, the film also includes rare home videos of the artist and her husband, photographer Alfred Stieglitz. The program was originally aired on PBS as part of a series highlighting American women artists.
+
+[M﻿ore information on the film and Perry Miller Adato →](https://perrymilleradato.com/films/georgia-o_keeffe/)
