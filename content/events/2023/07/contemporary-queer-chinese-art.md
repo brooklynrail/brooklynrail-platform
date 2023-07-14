@@ -1,9 +1,8 @@
 ---
 title: Contemporary Queer Chinese Art
-deck: Featuring Hongwei Bao, Diyi Mergenthaler, Jamie Zhao, and Paul Gladston
-summary: "Scholars Hongwei Bao, Diyi Mergenthaler, and Jamie Zhao join Rail
-  contributor Paul Gladston for a conversation. We conclude with a poetry
-  reading. "
+deck: Featuring Hongwei Bao, Diyi Mergenthaler, and Paul Gladston
+summary: "Scholars Hongwei Bao and Diyi Mergenthaler join Rail contributor Paul
+  Gladston for a conversation. We conclude with a poetry reading. "
 people:
   - person: paul-gladston
 date: 2023-07-31T17:00:00-0500
@@ -19,3 +18,4 @@ event_id: recVEygsKJqG0bm8p
 event_platform:
   - zoom
 ---
+[G﻿et your copy of *Contemporary Queer Chinese Art* edited by Hongwei Bao, Diyi Mergenthaler, and Jamie Zhao (Bloomsbury Publishing, 2023) →](https://www.bloomsbury.com/uk/contemporary-queer-chinese-art-9781350333536/)
