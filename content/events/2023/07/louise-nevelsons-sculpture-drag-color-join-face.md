@@ -1,10 +1,14 @@
 ---
 title: "Louise Nevelson's Sculpture: Drag, Color, Join, Face"
-deck: Featuring Julia Bryan-Wilson, Bridget Cooks, and Trevor Paglen
+deck: Featuring Julia Bryan-Wilson, Bridget Cooks, and Trevor Paglen, with
+  Hannah Treasure
 summary: Author Julia Bryan-Wilson and curator Bridget Cooks join artist Trevor
-  Paglen for a conversation. We conclude with a poetry reading.
+  Paglen for a conversation. We conclude with a poetry reading by Hannah
+  Treasure.
 people:
   - person: julia-bryan-wilson
+poets:
+  - person: hannah-treasure
 date: 2023-08-03T13:00:00-0500
 end_date: 2023-08-03T14:30:00-0500
 series: 868
