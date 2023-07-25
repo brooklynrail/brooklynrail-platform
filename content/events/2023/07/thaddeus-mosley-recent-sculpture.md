@@ -4,6 +4,7 @@ deck: Featuring Mosley and John Yau, with Mark He
 summary: Artist Thaddeus Mosley joins Rail contributor John Yau for a
   conversation. We conclude with a poetry reading by Mark He.
 people:
+  - person: thaddeus-mosley
   - person: john-yau-2
 poets:
   - person: mark-he
