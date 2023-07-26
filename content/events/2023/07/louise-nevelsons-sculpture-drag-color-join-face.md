@@ -7,6 +7,7 @@ summary: Author Julia Bryan-Wilson and curator Bridget Cooks join artist Trevor
   Treasure.
 people:
   - person: julia-bryan-wilson
+  - person: bridget-r-cooks
   - person: trevor-paglen
 poets:
   - person: hannah-treasure
