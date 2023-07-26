@@ -3,6 +3,8 @@ title: "Renée Cox: A Proof of Being"
 deck: Featuring Cox and Rail host to be announced
 summary: "Photographer Renée Cox joins Rail host for a conversation. We conclude
   with a poetry reading. "
+people:
+  - person: renee-cox-1
 date: 2023-08-11T13:00:00-0500
 end_date: 2023-08-11T14:30:00-0500
 series: 874
