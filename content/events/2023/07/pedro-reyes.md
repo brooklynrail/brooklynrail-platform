@@ -1,11 +1,13 @@
 ---
 title: Pedro Reyes
-deck: Featuring Reyes and José Falconi
+deck: Featuring Reyes and José Falconi, with Pierre Joris
 summary: Artist Pedro Reyes joins Rail contributor José Falconi for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading by Pierre Joris.
 people:
   - person: pedro-reyes
   - person: jose-falconi
+poets:
+  - person: pierre-joris
 date: 2023-08-04T13:00:00-0500
 end_date: 2023-08-04T14:30:00-0500
 series: 869
