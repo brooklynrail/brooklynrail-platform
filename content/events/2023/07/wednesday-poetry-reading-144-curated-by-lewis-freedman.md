@@ -1,7 +1,8 @@
 ---
 title: "Lake Whelm or The World: A Rail Reading curated by Lewis Freedman "
 deck: Featuring Freedman, Bryon Cherry, Naima Lowe, and Joey Yearous Algozin
-summary: Lewis Freedman curates our 144th Wednesday Poetry Reading.
+summary: Lewis Freedman curates our 144th Wednesday Poetry Reading with Bryon
+  Cherry, Naima Lowe, and Joey Yearous Algozin.
 people:
   - person: bryon-cherry
   - person: lewis-freedman-1
