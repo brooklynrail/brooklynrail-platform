@@ -4,6 +4,7 @@ deck: Featuring Shore and Jason Rosenfeld
 summary: Photographer Stephen Shore joins Rail Editor-at-Large Jason Rosenfeld
   for a conversation. We conclude with a poetry reading.
 people:
+  - person: stephen-shore
   - person: jason-rosenfeld
 date: 2023-08-07T13:00:00-0500
 end_date: 2023-08-07T14:30:00-0500
