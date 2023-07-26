@@ -5,6 +5,7 @@ deck: Featuring Raphael Rubinstein, Heather Bause Rubinstein, Mike Cloud, Joanne
 summary: Exhibition contributing artists join Gaby Collins-Fernandez for a
   conversation. We conclude with a poetry reading.
 people:
+  - person: mike-cloud-1
   - person: karla-knight
   - person: gaby-collins-fernandez
 date: 2023-08-08T13:00:00-0500
