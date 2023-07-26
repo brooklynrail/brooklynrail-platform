@@ -1,8 +1,8 @@
 ---
-name: Renee Cox
-first_name: Renee
+name: Renée Cox
+first_name: Renée
 last_name: Cox
-short_bio: "**Renee Cox** makes photographs, collages, and installations that
+short_bio: "**Renée Cox** makes photographs, collages, and installations that
   draw on art history, fashion photography and popular culture. Her work invokes
   a critical vision of female sexuality, beauty, power and heroism through
   nudity, religious imagery and symbolism that inform her interdisciplinary
