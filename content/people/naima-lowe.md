@@ -15,4 +15,6 @@ short_bio: "**Naima Lowe** is Black queer disabled writer and artist  who
   animals."
 portraits:
   - media: 2023/07/naima-lowe
+website: https://www.naimalowe.net/
+instagram: naimalowe
 ---
