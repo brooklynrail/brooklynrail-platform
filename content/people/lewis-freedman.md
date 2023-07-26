@@ -9,4 +9,6 @@ short_bio: "**Lewis Freedman** is a poet typing this bio on his laptop at a desk
   high today in Tulsa is said to be 104 degrees fahrenheit. Books of poems
   published under his name include _Residual Synonyms for the Name of God_ and
   _I Want Something Other Than Time._"
+portraits:
+  - media: 2023/06/lewis-freedman
 ---
