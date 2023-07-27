@@ -5,7 +5,7 @@ summary: Please join us August 18 and 19 for a staging of a new play!
 date: 2023-08-18T20:00:00-0500
 end_date: 2023-08-19T22:00:00-0500
 collections:
-  - community-listing
+  - rail-events
 event_organizer:
   - the-brooklyn-rail
 event_producer:
@@ -19,6 +19,6 @@ event_platform: null
 
 Admission will be free and open to the public. Space is limited—RSVPs and early arrivals are encouraged.
 
-* R﻿egister for August 18 at 8:00 p.m. EST →
-* R﻿egister for August 19 at 2:30 p.m. EST →
-* R﻿egister for August 19 at 8:00 p.m. EST →
+* [R﻿egister for August 18 at 8:00 p.m. EST →](https://brooklynrail.org/events/2023/08/18/how-to-make-a-revolution-without-giving-offense-or-arousing-resentment/)
+* [R﻿egister for August 19 at 2:30 p.m. EST →](https://brooklynrail.org/events/2023/08/19/how-to-make-a-revolution-without-giving-offense-or-arousing-resentment-1/)
+* [R﻿egister for August 19 at 8:00 p.m. EST →](https://brooklynrail.org/events/2023/08/19/how-to-make-a-revolution-without-giving-offense-or-arousing-resentment-2/)
