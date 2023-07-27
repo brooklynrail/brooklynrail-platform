@@ -19,6 +19,6 @@ event_platform: null
 
 Admission will be free and open to the public. Space is limited—RSVPs and early arrivals are encouraged.
 
-* R﻿egister for August 18 at 8:00 p.m. EST →
-* R﻿egister for August 19 at 2:30 p.m. EST →
-* R﻿egister for August 19 at 8:00 p.m. EST →
+* Scroll down to register for August 19 at 8:00 p.m.
+* [R﻿egister for August 18 at 8:00 p.m. EST →](https://brooklynrail.org/events/2023/08/18/how-to-make-a-revolution-without-giving-offense-or-arousing-resentment/)
+* [R﻿egister for August 19 at 2:30 p.m. EST →](https://brooklynrail.org/events/2023/08/19/how-to-make-a-revolution-without-giving-offense-or-arousing-resentment-1/)
