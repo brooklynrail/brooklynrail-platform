@@ -6,10 +6,6 @@ date: 2023-08-18T20:00:00-0500
 end_date: 2023-08-19T22:00:00-0500
 collections:
   - rail-events
-event_organizer:
-  - the-brooklyn-rail
-event_producer:
-  - the-brooklyn-rail
 event_id: rec78KjocuFhH9759
 event_platform: null
 ---
