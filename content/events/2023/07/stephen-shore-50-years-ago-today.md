@@ -1,11 +1,13 @@
 ---
 title: "Stephen Shore: 50 years ago today"
-deck: Featuring Shore and Jason Rosenfeld
+deck: Featuring Shore and Jason Rosenfeld, with Charles North
 summary: Photographer Stephen Shore joins Rail Editor-at-Large Jason Rosenfeld
-  for a conversation. We conclude with a poetry reading.
+  for a conversation. We conclude with a poetry reading by Charles North.
 people:
   - person: stephen-shore
   - person: jason-rosenfeld
+poets:
+  - person: charles-north-1
 date: 2023-08-07T13:00:00-0500
 end_date: 2023-08-07T14:30:00-0500
 series: 870
