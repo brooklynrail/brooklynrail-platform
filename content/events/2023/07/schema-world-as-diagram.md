@@ -1,13 +1,15 @@
 ---
 title: "Schema: World as Diagram"
 deck: Featuring Raphael Rubinstein, Heather Bause Rubinstein, Mike Cloud, Joanne
-  Greenbaum, Hilma's Ghost, Loren Munk, and Karla Knight
+  Greenbaum, Hilma's Ghost, Loren Munk, and Karla Knight, with Pareesa Pourian
 summary: Exhibition contributing artists join Gaby Collins-Fernandez for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading by Pareesa Pourian.
 people:
   - person: mike-cloud-1
   - person: karla-knight
   - person: gaby-collins-fernandez
+poets:
+  - person: pareesa-pourian-1
 date: 2023-08-08T13:00:00-0500
 end_date: 2023-08-08T14:30:00-0500
 series: 871
