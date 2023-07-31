@@ -1,8 +1,11 @@
 ---
-title: A Rail Reading curated by Patrick Hill
-deck: Featuring Hill and friends
-summary: "Patrick Hill curates our 145th Wednesday Poetry Reading. "
+title: "Hit the Lights: A Rail Reading curated by Patrick Hill"
+deck: Featuring Hill, Jordan Davis, Claire Devoogd, and Abby Romine
+summary: Patrick Hill curates our 145th Wednesday Poetry Reading with Jordan
+  Davis, Claire Devoogd, and Abby Romine
 people:
+  - person: jordan-davis
+  - person: abby-romine
   - person: patrick-hill
 date: 2023-08-09T13:00:00-0500
 end_date: 2023-08-09T14:30:00-0500
