@@ -1,6 +1,6 @@
 ---
 title: "Kathy Acker's The Birth of a Poet (1985): A Play Reading / Reading Play"
-deck: Sophia Giovannitti, Elliot Reed, and Ethan Philbrick
+deck: Featuring Sophia Giovannitti, Elliot Reed, and Ethan Philbrick
 summary: Ethan Philbrick curates our 146th Wednesday Reading with Sophia
   Giovannitti and Elliot Reed,
 people:
