@@ -12,7 +12,7 @@ short_bio: 'New York-based writer and art historian **Dr. Ksenia M. Soboleva**
   Galleria, and Assembly Room. Soboleva was the 2020-2021 Jan and Marica Vilcek
   Curatorial Fellow at the Guggenheim Museum. She is currently the Andrew W.
   Mellon Postdoctoral Fellow in Gender and LGBTQ+ History at the New York
-  Historical Society, and Adjunct Professor of Art History at NYU.'
+  Historical Society.'
 portraits:
   - media: 2021/11/ksenia-m-soboleva
 rail_contributor_url: https://brooklynrail.org/contributor/Ksenia-Soboleva
