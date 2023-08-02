@@ -6,6 +6,7 @@ summary: Exhibition contributing artists join Gaby Collins-Fernandez for a
   conversation. We conclude with a poetry reading by Pareesa Pourian.
 people:
   - person: mike-cloud-1
+  - person: joanne-greenbaum
   - person: karla-knight
   - person: gaby-collins-fernandez
 poets:
