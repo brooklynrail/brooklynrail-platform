@@ -2,8 +2,8 @@
 title: "Edvard Munch: Trembling Earth"
 deck: "Featuring Peter Acheson, Jay Clarke, David Carrier, and Sarah Jackson "
 summary: Artist Peter Acheson, curator Jay Clarke, and author David Carrier join
-  art historian Sarah Jackson for a conversation. We conclude with a poetry
-  reading.
+  visual artist and writer Sarah Jackson for a conversation. We conclude with a
+  poetry reading.
 people:
   - person: david-carrier
 date: 2023-08-14T13:00:00-0500
