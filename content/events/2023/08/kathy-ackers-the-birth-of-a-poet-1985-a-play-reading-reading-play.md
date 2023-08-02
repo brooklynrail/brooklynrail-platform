@@ -5,6 +5,7 @@ summary: Ethan Philbrick curates our 146th Wednesday Poetry Reading with Sophia
   Giovannitti and Elliot Reed
 people:
   - person: sophia-giovannitti
+  - person: elliot-reed
   - person: ethan-philbrick
 date: 2023-08-16T13:00:00-0500
 end_date: 2023-08-16T14:30:00-0500
