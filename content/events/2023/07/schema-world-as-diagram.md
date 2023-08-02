@@ -7,6 +7,7 @@ summary: Exhibition contributing artists join Gaby Collins-Fernandez for a
 people:
   - person: mike-cloud-1
   - person: joanne-greenbaum
+  - person: hilmas-ghost
   - person: karla-knight
   - person: gaby-collins-fernandez
 poets:
