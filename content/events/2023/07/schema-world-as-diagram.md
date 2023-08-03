@@ -5,9 +5,11 @@ deck: Featuring Raphael Rubinstein, Heather Bause Rubinstein, Mike Cloud, Joanne
 summary: Exhibition contributing artists join Gaby Collins-Fernandez for a
   conversation. We conclude with a poetry reading by Pareesa Pourian.
 people:
+  - person: raphael-rubinstein-1
   - person: mike-cloud-1
   - person: joanne-greenbaum
   - person: hilmas-ghost
+  - person: loren-munk
   - person: karla-knight
   - person: gaby-collins-fernandez
 poets:
