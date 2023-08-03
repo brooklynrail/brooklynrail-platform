@@ -6,6 +6,7 @@ summary: Exhibition contributing artists join Gaby Collins-Fernandez for a
   conversation. We conclude with a poetry reading by Pareesa Pourian.
 people:
   - person: raphael-rubinstein-1
+  - person: heather-bause-rubinstein
   - person: mike-cloud-1
   - person: joanne-greenbaum
   - person: hilmas-ghost
