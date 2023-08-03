@@ -7,6 +7,7 @@ summary: Bronx Museum Chief Curator Emeritus Sergio Bessa, photographer Allen
 people:
   - person: sergio-bessa
   - person: allen-frame
+  - person: leslie-cozzi
   - person: ksenia-m-soboleva
 date: 2023-08-22T13:00:00-0500
 end_date: 2023-08-22T14:30:00-0500
