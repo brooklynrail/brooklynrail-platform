@@ -1,11 +1,13 @@
 ---
 title: "Surreal Spaces: The Life and Art of Leonora Carrington"
-deck: Featuring Joanna Moorhead and Ann McCoy
+deck: Featuring Joanna Moorhead and Ann McCoy, with Amanda Deutch
 summary: Journalist and author Joanna Moorhead joins Rail Editor-at-Large Ann
-  McCoy for a conversation. We conclude with a poetry reading.
+  McCoy for a conversation. We conclude with a poetry reading by Amanda Deutch.
 people:
   - person: joanna-moorhead
   - person: ann-mccoy
+poets:
+  - person: amanda-deutch
 date: 2023-08-10T13:00:00-0500
 end_date: 2023-08-10T14:30:00-0500
 series: 873
