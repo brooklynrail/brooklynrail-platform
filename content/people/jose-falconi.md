@@ -13,4 +13,5 @@ short_bio: "Assistant Professor of Art and Human Rights at the University of
   Connecticut in the Spring of 2021. "
 portraits:
   - media: 2022/05/jose-falconi
+website: https://josefalconi.com/
 ---
