@@ -13,5 +13,6 @@ short_bio: "Assistant Professor of Art and Human Rights at the University of
   Connecticut in the Spring of 2021. "
 portraits:
   - media: 2022/05/jose-falconi
+rail_contributor_url: https://brooklynrail.org/contributor/Jose-Falconi
 website: https://josefalconi.com/
 ---
