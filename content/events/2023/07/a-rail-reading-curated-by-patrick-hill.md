@@ -2,7 +2,7 @@
 title: "Hit the Lights: A Rail Reading curated by Patrick Hill"
 deck: Featuring Hill, Jordan Davis, Claire DeVoogd, and Abby Romine
 summary: Patrick Hill curates our 145th Wednesday Poetry Reading with Jordan
-  Davis, Claire DeVoogd, and Abby Romine
+  Davis, Claire DeVoogd, and Abby Romine.
 people:
   - person: jordan-davis
   - person: claire-devoogd
