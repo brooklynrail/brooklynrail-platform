@@ -1,6 +1,6 @@
 ---
 title: How To Make A Revolution Without Giving Offense Or Arousing Resentment
-deck: A new play from Kimberly Golding, Jordan Jones, and Sam Myers
+deck: A new play by Kim Golding, Jordan Jones, and Sam Myers
 summary: Please join us August 18 and 19 for a staging of a new play!
 date: 2023-08-19T20:00:00-0500
 end_date: 2023-08-19T22:00:00-0500
