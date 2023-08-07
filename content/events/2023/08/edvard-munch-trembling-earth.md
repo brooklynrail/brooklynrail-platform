@@ -5,6 +5,7 @@ summary: Artist Peter Acheson, curator Jay Clarke, and author David Carrier join
   visual artist and writer Sarah Jackson for a conversation. We conclude with a
   poetry reading.
 people:
+  - person: peter-acheson
   - person: david-carrier
   - person: sarah-jackson
 date: 2023-08-14T13:00:00-0500
