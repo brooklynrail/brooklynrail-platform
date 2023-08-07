@@ -1,6 +1,7 @@
 ---
-name: Doris
-first_name: Salcedo
+name: Doris Salcedo
+first_name: Doris
+last_name: Salcedo
 short_bio: "**Doris Salcedo** describes her work as ‘a topology of mourning’; in
   each of her sculptures, installations and public projects Salcedo bears
   witness to life that has become the casualty of a political agenda. Living and
