@@ -13,6 +13,8 @@ event_producer:
 event_platform:
   - youtube
 ---
+[Saas-Fee Summer Institute of Art](https://sfsia.art/) (SFSIA) is a nomadic, intensive summer academy with shifting programs in contemporary critical theory that stresses an interdisciplinary approach to understanding the relationship between art and politics. The program consists of seminar-style lectures, deep readings, and experimental workshops. 
+
 A central feature of SFSIA is a Public Lecture Series, which is free and open to the public to invite conversation, debate, and inquiry across communities. This year the public lecture series will be held online in collaboration with the *Brooklyn Rail.*
 
 All times EST/New York City.\
@@ -21,7 +23,8 @@ All lectures will be streamed on [the *Brooklyn Rail*‘s YouTube page.](https:
 **M﻿ONDAY – AUGUST 7**\
 1﻿0am Anuradha Vikram
 
-**TUESDAY – AUGUST 8**10am Antonia Alampi with Suumil Móokt’aan
+**TUESDAY – AUGUST 8**\
+10am Antonia Alampi with Suumil Móokt’aan
 
 **WEDNESDAY – AUGUST 9**\
 10am Armen Avanessian
