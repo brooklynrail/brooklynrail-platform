@@ -2,7 +2,7 @@
 title: "Renée Cox: A Proof of Being"
 deck: Featuring Cox and Eleanor Heartney, with Dior J. Stephens
 summary: Photographer Renée Cox joins Rail Editor-at-Large Eleanor Heartney for
-  a conversation. We conclude with a poetry reading by Dior J. Stephens
+  a conversation. We conclude with a poetry reading by Dior J. Stephens.
 people:
   - person: renee-cox-1
   - person: eleanor-heartney
