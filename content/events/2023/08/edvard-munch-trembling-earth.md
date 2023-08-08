@@ -6,6 +6,7 @@ summary: Artist Peter Acheson, curator Jay Clarke, and author David Carrier join
   poetry reading.
 people:
   - person: peter-acheson
+  - person: jay-a-clarke
   - person: david-carrier
   - person: sarah-jackson
 date: 2023-08-14T13:00:00-0500
