@@ -1,10 +1,11 @@
 ---
 title: "Lotus L. Kang: Molt (New York-Lethbridge-Los Angeles-Toronto-Chicago- )"
-deck: Featuring Kang and Rail host to be announced, with Kaur Alia Ahmed
-summary: Artist Lotus L. Kang joins Rail host for a conversation. We conclude
-  with a poetry reading by Kaur Alia Ahmed.
+deck: Featuring Kang and CAConrad, with Kaur Alia Ahmed
+summary: Artist Lotus L. Kang joins poet and Rail contributor CAConrad for a
+  conversation. We conclude with a poetry reading by Kaur Alia Ahmed.
 people:
   - person: lotus-l-kang
+  - person: caconrad-1
 poets:
   - person: kaur-alia-ahmed
 date: 2023-08-15T13:00:00-0500
