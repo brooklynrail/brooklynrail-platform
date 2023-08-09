@@ -1,10 +1,12 @@
 ---
 title: "Gala Porras-Kim: The weight of a patina of time"
-deck: Featuring Porras-Kim and Jonathan T.D. Neil
+deck: Featuring Porras-Kim and Jonathan T.D. Neil, with Anna Maria Hong
 summary: Artist Gala Porras-Kim joins Rail contributor Jonathan T.D. Neil for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading by Anna Maria Hong.
 people:
   - person: jonathan-t-d-neil
+poets:
+  - person: anna-maria-hong-1
 date: 2023-08-18T13:00:00-0500
 end_date: 2023-08-18T14:30:00-0500
 series: 897
