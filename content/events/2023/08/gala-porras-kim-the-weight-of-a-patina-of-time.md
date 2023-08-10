@@ -4,6 +4,7 @@ deck: Featuring Porras-Kim and Jonathan T.D. Neil, with Anna Maria Hong
 summary: Artist Gala Porras-Kim joins Rail contributor Jonathan T.D. Neil for a
   conversation. We conclude with a poetry reading by Anna Maria Hong.
 people:
+  - person: gala-porras-kim
   - person: jonathan-t-d-neil
 poets:
   - person: anna-maria-hong-1
