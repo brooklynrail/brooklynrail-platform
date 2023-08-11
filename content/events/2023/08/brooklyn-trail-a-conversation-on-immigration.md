@@ -6,6 +6,7 @@ summary: Make the Road New York Co-Executive Director Theo Oshiro, Make the Road
   Montrevil join Rail Editor-at-Large Rev. Dr. Donna Schaper for a conversation.
   We conclude with a poetry reading.
 people:
+  - person: theo-oshiro
   - person: rev-dr-dona-schaper
 date: 2023-08-17T13:00:00-0500
 end_date: 2023-08-17T14:30:00-0500
