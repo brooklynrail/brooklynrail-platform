@@ -26,4 +26,4 @@ event_id: recTtPoOlagFyvYxl
 event_platform:
   - zoom
 ---
-[V﻿isit *Darrel Ellis: Regeneration*, on view at The Bronz Museum through September 10, 2023 →](https://bronxmuseum.org/exhibition/darrel-ellis-regeneration-2/)
+[V﻿isit *Darrel Ellis: Regeneration*, on view at The Bronx Museum through September 10, 2023 →](https://bronxmuseum.org/exhibition/darrel-ellis-regeneration-2/)
