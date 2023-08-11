@@ -1,7 +1,7 @@
 ---
-media: /media/files/allen-fisher-performance-shot-camden-people-s-theatre-170012.jpeg
+media: /media/files/allen-fisher-2022.jpeg
 title: Allen Fisher
-alt: A portrait of Allen Fisher performing at Camden People's Theatre
-caption: Performance shot at Camden People's Theatre
-date: 2021-08-12T19:26:00-0500
+alt: Photo of Allen Fisher
+caption: ""
+date: 2023-08-11T12:25:00-0500
 ---
