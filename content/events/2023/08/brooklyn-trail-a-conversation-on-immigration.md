@@ -8,6 +8,7 @@ summary: Make the Road New York Co-Executive Director Theo Oshiro, Make the Road
   We conclude with a poetry reading by Ae Hee Lee.
 people:
   - person: theo-oshiro
+  - person: harold-a-solis
   - person: rev-dr-dona-schaper
 poets:
   - person: ae-hee-lee
