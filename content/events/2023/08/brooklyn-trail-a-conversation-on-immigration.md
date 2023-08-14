@@ -9,6 +9,7 @@ summary: Make the Road New York Co-Executive Director Theo Oshiro, Make the Road
 people:
   - person: theo-oshiro
   - person: harold-a-solis
+  - person: jean-montrevil
   - person: rev-dr-dona-schaper
 poets:
   - person: ae-hee-lee
