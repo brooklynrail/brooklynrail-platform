@@ -7,6 +7,7 @@ summary: Make the Road New York Co-Executive Director Theo Oshiro, Make the Road
   We conclude with a poetry reading.
 people:
   - person: theo-oshiro
+  - person: harold-a-solis
   - person: rev-dr-dona-schaper
 date: 2023-08-17T13:00:00-0500
 end_date: 2023-08-17T14:30:00-0500
