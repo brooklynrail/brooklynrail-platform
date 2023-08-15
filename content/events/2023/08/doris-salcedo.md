@@ -1,11 +1,13 @@
 ---
 title: Doris Salcedo
-deck: Featuring Salcedo and Francesca Pietropaolo
+deck: Featuring Salcedo and Francesca Pietropaolo, with Susana Plotts-Pineda
 summary: Artist Doris Salcedo joins Rail Editor-at-Large Francesca Pietropaolo
-  for a conversation. We conclude with a poetry reading.
+  for a conversation. We conclude with a poetry reading by Susana Plotts-Pineda.
 people:
   - person: doris
   - person: francesca-pietropaolo
+poets:
+  - person: susana-plotts-pineda
 date: 2023-08-25T13:00:00-0500
 end_date: 2023-08-25T14:30:00-0500
 series: 884
