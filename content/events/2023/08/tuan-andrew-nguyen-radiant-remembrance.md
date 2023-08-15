@@ -5,6 +5,7 @@ summary: Artist Tuan Andrew Nguyen joins scholar and writer Tao Leigh Goffe for
   a conversation. We conclude with a poetry reading by Sarah Wang.
 people:
   - person: tuan-andrew-nguyen
+  - person: tao-leigh-goffe
 poets:
   - person: sarah-wang-1
 date: 2023-08-21T11:00:00-0500
