@@ -12,6 +12,7 @@ summary: "In January 2017, Hauser & Wirth presented a panel discussion,
   revisiting this important conversation."
 date: 2023-08-15T11:00:00-0500
 end_date: 2023-08-15T23:59:00-0500
+series: 876
 collections:
   - screening
 event_organizer:
