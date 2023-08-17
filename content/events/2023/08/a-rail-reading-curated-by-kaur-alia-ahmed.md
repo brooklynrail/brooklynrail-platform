@@ -1,7 +1,8 @@
 ---
-title: A Rail reading curated by Kaur Alia Ahmed
-deck: Featuring Ahmed and friends
-summary: Kaur Alia Ahmed curates our 147th Wednesday Poetry Reading.
+title: "I am path: A Rail reading curated by Kaur Alia Ahmed"
+deck: Featuring Ahmed, Ricky Sallay Zoker, and Adrien Howard
+summary: Kaur Alia Ahmed curates our 147th Wednesday Poetry Reading featuring
+  Ricky Sallay Zoker and Adrien Howard.
 people:
   - person: kaur-alia-ahmed
 date: 2023-08-23T13:00:00-0500
