@@ -1,8 +1,8 @@
 ---
 title: "'Post-West’ Arts and Visual Cultures: A conversation on Datong Dazhang"
-deck: Featuring Wang Chunchen and Paul Gladston, with Maw Shein Win
+deck: Featuring Wang Chunchen and Paul Gladston
 summary: Art historian Wang Chunchen joins Rail contributor Paul Gladston for a
-  conversation. We conclude with a poetry reading by Maw Shein Win.
+  conversation. We conclude with a poetry reading.
 people:
   - person: paul-gladston
 date: 2023-08-28T13:00:00-0500
