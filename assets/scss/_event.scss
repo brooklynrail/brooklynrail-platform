@@ -104,6 +104,23 @@
       }
     }
 
+    .soldout{
+      @include u-padding-x(3);
+      @include u-padding-y(1);
+      @include u-font('sans', 'sm');
+      @include at-media('tablet-lg') {
+        @include u-font('sans', 'md');
+      }
+      @include u-text('semibold');
+      @include u-text('orange-warm-50v');
+      @include u-display('inline-block');
+      @include u-bg('orange-warm-10v');
+      @include u-radius('pill');
+      span{
+        @include u-text('bold');
+      }
+    }
+
     .event_platforms{
       @include u-margin-top(2);
       @include u-text('normal');

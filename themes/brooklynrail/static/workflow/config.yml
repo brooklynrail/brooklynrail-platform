@@ -244,6 +244,12 @@ collections:
         hint: "Enter the URL where people can join"
         required: false
 
+      - label: "Sold out"
+        name: "soldout"
+        widget: "boolean"
+        default: false
+        required: false
+
       - label: "Redirects"
         name: "aliases"
         widget: "list"

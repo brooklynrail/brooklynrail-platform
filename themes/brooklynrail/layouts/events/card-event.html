@@ -99,6 +99,12 @@ The following variables transform dates and times for the event `start_date` and
             {{- end -}}
           </div>
           {{- end -}}
+          
+          {{- if .Params.soldout -}}
+            {{- if eq .Params.soldout true -}}
+              <p class="soldout">Sold out</p>
+            {{- end -}}
+          {{- end -}}
 
         </div>
 
