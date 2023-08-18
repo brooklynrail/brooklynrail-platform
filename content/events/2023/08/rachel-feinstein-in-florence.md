@@ -1,8 +1,8 @@
 ---
 title: Rachel Feinstein in Florence
 deck: Featuring Feinstein and Andrew Woolbright
-summary: "Artist Rachel Feinstein joins Rail Editor-at-Large for a conversation.
-  We conclude with a poetry reading. "
+summary: "Artist Rachel Feinstein joins Rail Editor-at-Large Andrew Woolbright
+  for a conversation. We conclude with a poetry reading. "
 people:
   - person: rachel-feinstein
   - person: andrew-paul-woolbright
