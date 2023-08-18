@@ -8,6 +8,7 @@ collections:
   - rail-events
 event_id: rechNaRLRtDlapoAe
 event_platform: null
+soldout: true
 aliases:
   - /events/2023/08/18/how-to-make-a-revolution-without-giving-offense-or-arousing-resentment/
 ---
