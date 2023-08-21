@@ -5,6 +5,8 @@ summary: Artist Dineo Seshee Bopape and curator Martha Joseph join Rail
   contributor Jill H. Casid for a conversation. We conclude with a poetry
   reading.
 people:
+  - person: dineo-seshee-bopape
+  - person: martha-joseph
   - person: jill-h-casid
 date: 2023-08-29T13:00:00-0500
 end_date: 2023-08-29T14:30:00-0500
