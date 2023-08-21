@@ -1,8 +1,9 @@
 ---
 title: "Projects: Dineo Seshee Bopape"
-deck: Featuring Martha Joseph and Jill H. Casid
-summary: Curator Martha Joseph joins Rail contributor Jill H. Casid for a
-  conversation. We conclude with a poetry reading.
+deck: Featuring Bopape, Martha Joseph and Jill H. Casid
+summary: Artist Dineo Seshee Bopape and curator Martha Joseph join Rail
+  contributor Jill H. Casid for a conversation. We conclude with a poetry
+  reading.
 people:
   - person: jill-h-casid
 date: 2023-08-29T13:00:00-0500
