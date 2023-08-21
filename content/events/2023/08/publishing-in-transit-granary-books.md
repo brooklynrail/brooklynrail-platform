@@ -6,6 +6,7 @@ summary: "Granary Books Director Mary Catherine Kinniburgh and artists Jen
   Bervin and Cecilia Vicuña join Rail contributor Cole Swensen for a
   conversation and reading. "
 people:
+  - person: mary-catherine-kinniburgh
   - person: cole-swensen
 date: 2023-08-31T13:00:00-0500
 end_date: 2023-08-31T14:30:00-0500
