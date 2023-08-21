@@ -14,4 +14,6 @@ short_bio: "Artist-poet **Cecilia Vicuña** created the concept of Precarious Ar
 portraits:
   - media: 2021/12/cecilia-vicuna
 website: http://www.ceciliavicuna.com/
+instagram: ceciliavicuna
+twitter: vicunacec
 ---
