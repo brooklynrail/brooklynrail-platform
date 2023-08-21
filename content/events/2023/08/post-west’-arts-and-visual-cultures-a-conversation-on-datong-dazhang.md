@@ -4,6 +4,7 @@ deck: Featuring Wang Chunchen and Paul Gladston
 summary: Art historian Wang Chunchen joins Rail contributor Paul Gladston for a
   conversation. We conclude with a poetry reading.
 people:
+  - person: chunchen-wang
   - person: paul-gladston
 date: 2023-08-28T19:00:00-0500
 end_date: 2023-08-28T20:30:00-0500
