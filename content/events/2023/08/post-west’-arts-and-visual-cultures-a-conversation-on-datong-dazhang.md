@@ -22,4 +22,4 @@ soldout: false
 ---
 Supported by the endowed funding of the Judith Neilson Chair in Contemporary Art, University of New South Wales, Sydney.
 
-{{< image media="2023/08/unsw" size="sm" >}}
+{{< image media="2023/08/unsw" size="md" >}}
