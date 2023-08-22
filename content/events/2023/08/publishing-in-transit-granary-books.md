@@ -7,6 +7,7 @@ summary: "Granary Books Director Mary Catherine Kinniburgh and artists Jen
   conversation and reading. "
 people:
   - person: mary-catherine-kinniburgh
+  - person: jen-bervin
   - person: cole-swensen
 date: 2023-08-31T13:00:00-0500
 end_date: 2023-08-31T14:30:00-0500
