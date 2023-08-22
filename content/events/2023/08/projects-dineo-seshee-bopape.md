@@ -1,13 +1,15 @@
 ---
 title: "Projects: Dineo Seshee Bopape"
-deck: Featuring Bopape, Martha Joseph and Jill H. Casid
+deck: Featuring Bopape, Martha Joseph and Jill H. Casid, with Gabriel Ramirez
 summary: Artist Dineo Seshee Bopape and curator Martha Joseph join Rail
   contributor Jill H. Casid for a conversation. We conclude with a poetry
-  reading.
+  reading by Gabriel Ramirez.
 people:
   - person: dineo-seshee-bopape
   - person: martha-joseph
   - person: jill-h-casid
+poets:
+  - person: gabriel-ramirez
 date: 2023-08-29T13:00:00-0500
 end_date: 2023-08-29T14:30:00-0500
 series: 886
