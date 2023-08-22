@@ -1,7 +1,7 @@
 ---
-media: /media/files/holycastings_gabriel_03-1-.jpg
-title: Gabriel Ramirez (2020-08)
-alt: A photograph of poet Gabriel Ramirez.
-caption: Brian Brigantti
+media: /media/files/img_3481.jpg
+title: Gabriel Ramirez
+alt: Photo of Gabriel Ramirez
+caption: ""
 date: 2020-08-15T10:16:00-0500
 ---
