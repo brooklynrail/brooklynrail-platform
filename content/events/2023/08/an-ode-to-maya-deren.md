@@ -21,7 +21,7 @@ soldout: false
 ---
 {{< image media="2023/08/meshes-of-the-afternoon" size="lg" >}}
 
-One of the most important American experimental filmmakers and entrepreneurial promoters of the avant-garde in the 1940s and 1950s, Maya Deren was also a choreographer, dancer, film theorist, poet, lecturer, writer and photographer. 
+> One of the most important American experimental filmmakers and entrepreneurial promoters of the avant-garde in the 1940s and 1950s, Maya Deren was also a choreographer, dancer, film theorist, poet, lecturer, writer and photographer. 
 
 ***Meshes of the Afternoon* (1943):** A large flower, the silhouette of a figure briskly walking away, a house key, a bread knife, a telephone receiver resting off the hook, and a spinning phonographic turntable define the shifting functional elements in *Meshes of the Afternoon* from which the film's evolving, malleable construct – the fragile and tenuously interconnected mesh of actual and perceived reality – is intriguingly (and ingenuously) mapped.
 
@@ -29,8 +29,8 @@ One of the most important American experimental filmmakers and entrepreneurial p
 
 ***A Study in Choreography for the Camera* (1945)** : In this project, Deren fully realized her vision of freeing the human body from the confines of theatrical — and actual — space. In *Study*, a dancer (Talley Beatty) moves effortlessly within and between different environments (forest, living room, museum gallery, etc.), an achievement arrived at through the careful matching of his precisely choreographed movements with the film's editing pattern. Deren's camera, in effect, becomes Beatty's partner. 
 
-***Ritual in Transfigured Time* (1946):** In this film, gestures  invite us to move into step with them, abandoning the comfort of the known and giving ourselves over to so many strange partners. This silent short begins in a domestic environment, moves to a party scene, and ends with modern dance performed in an outdoor setting. The film's continuity is established by an emphasis on gesture and/or dance throughout.
+***Ritual in Transfigured Time* (1946):** In this film, gestures  invite us to move into step with them, abandoning the comfort of the known and giving ourselves over to so many strange partners. This silent short begins in a domestic environment, moves to a party scene, and ends with modern dance performed in an outdoor setting. The film's continuity is established by an emphasis on gesture and/or dance throughout
 
-** *Meditation on Violence* (1948):** Just as the actual movements of Chinese boxing are a physical statement of certain metaphysical concepts, *Meditation on Violence* is, in filmic terms, a statement of those same concepts, employing the physical movements as only one of the visual means.
+***Meditation on Violence* (1948):** Just as the actual movements of Chinese boxing are a physical statement of certain metaphysical concepts, *Meditation on Violence* is, in filmic terms, a statement of those same concepts, employing the physical movements as only one of the visual means.
 
 {{< image media="2023/08/at-land" size="lg" >}}
