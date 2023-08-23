@@ -1,6 +1,6 @@
 ---
 title: An Ode to Maya Deren
-deck: A screening series curated by The Film-Makers' Cooperative
+deck: A screening series in collaboration with The Film-Makers' Cooperative
 summary: On Labor Day, join us for a screening of five short films Maya Deren,
   in collaboration with our friends at The Film-Makers' Cooperative. Register to
   receive 24-hour access links to the films.
@@ -21,7 +21,7 @@ soldout: false
 ---
 {{< image media="2023/08/meshes-of-the-afternoon" size="lg" >}}
 
-> One of the most important American experimental filmmakers and entrepreneurial promoters of the avant-garde in the 1940s and 1950s, Maya Deren was also a choreographer, dancer, film theorist, poet, lecturer, writer and photographer. 
+**One of the most important American experimental filmmakers and entrepreneurial promoters of the avant-garde in the 1940s and 1950s, Maya Deren was also a choreographer, dancer, film theorist, poet, lecturer, writer and photographer.** 
 
 ***Meshes of the Afternoon* (1943):** A large flower, the silhouette of a figure briskly walking away, a house key, a bread knife, a telephone receiver resting off the hook, and a spinning phonographic turntable define the shifting functional elements in *Meshes of the Afternoon* from which the film's evolving, malleable construct – the fragile and tenuously interconnected mesh of actual and perceived reality – is intriguingly (and ingenuously) mapped.
 
