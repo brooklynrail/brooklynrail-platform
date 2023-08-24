@@ -7,7 +7,7 @@ short_bio: Poet **Tenaya Nasser-Frederick** is the author of two chapbooks,
   and the aborted manuscript, _In The Realm of The Senses 2._ Poems have
   appeared in the _Brooklyn Rail, Castle Greyskull,_ and _EBB._
 portraits:
-  - media: 2022/04/tenaya-nasser-frederick
+  - media: 2023/08/tenaya-nasser-frederick
 rail_contributor_url: https://brooklynrail.org/contributor/Tenaya-Nasser-Frederick
 instagram: Tenayanf_
 twitter: NasserTenaya
