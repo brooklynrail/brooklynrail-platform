@@ -1,8 +1,8 @@
 ---
 title: "'Post-West’ Arts and Visual Cultures: A conversation on Datong Dazhang"
 deck: Featuring Wang Chunchen and Paul Gladston
-summary: Art historian Wang Chunchen joins Rail contributor Paul Gladston for a
-  conversation. We conclude with a poetry reading.
+summary: Art historian Wang Chunchen joins Rail Editor-at-Large Paul Gladston
+  for a conversation. We conclude with a poetry reading.
 people:
   - person: chunchen-wang
   - person: paul-gladston
