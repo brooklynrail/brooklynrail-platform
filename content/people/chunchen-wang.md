@@ -1,8 +1,8 @@
 ---
-name: Chunchen Wang
+name: Wang Chunchen
 first_name: Chunchen
 last_name: Wang
-short_bio: "**Chunchen Wang** is the Deputy Director and Chief Curator at CAFA
+short_bio: "**Wang Chunchen** is the Deputy Director and Chief Curator at CAFA
   Art Museum, Beijing. He was the adjunct curator at the Eli and Edythe Broad
   Art Museum at Michigan State University (2012-2016) and appointed as the
   curator of the Chinese Pavilion at the 55th Venice Biennale (2013). He is
