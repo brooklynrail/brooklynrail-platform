@@ -2,16 +2,13 @@
 name: Dineo Seshee Bopape
 first_name: Dineo
 last_name: Bopape
-short_bio: "**Dineo Seshee Bopape** lives and works in Johannesburg, South
-  Africa. She was a co-winner of the Artes Mundi 9 prize in 2021, the recipient
-  of a 2010 Columbia University Toby Fund Award, and the winner of 2008 MTN New
-  Contemporaries Award. Bopape is known for her use of soil and other organic
-  material as a base for multisensory, multidimensional work that connects
-  deeply with the earth. In addition to her packed earth installations, the
-  artist also works with drawing, video, and sound to create a rich practice
-  connecting to memory, belonging, and place. Bopape’s works have been shown in
-  numerous solo exhibitions around the world, most recently at MoMA, New York
-  (2023) and Pirelli HangarBicocca, Milan."
+short_bio: "**Dineo Seshee Bopape** was born in the year of the golden rooster,
+  1981 on a Sunday. If she were Ghanaian, her name would be akosua/akos for
+  short. Bopape lives in Southern Africa. She has shown her work internationally
+  in numerous solo exhibitions, most recently in 2022 at Pirelli HangarBicocca,
+  Milan; Ocean Space, Venice; and Secession, Vienna, and in 2021 at Institute
+  for Contemporary Art at Virginia Commonwealth University, Richmond. She
+  co-represented South Africa at the Venice Biennial in 2019. "
 portraits:
   - media: 2023/08/dineo-seshee-bopape
 website: https://seshee.blogspot.com/
