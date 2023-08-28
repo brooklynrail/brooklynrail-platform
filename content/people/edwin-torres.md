@@ -3,17 +3,18 @@ name: Edwin Torres
 first_name: Edwin
 last_name: Torres
 pronouns: he/his
-short_bio: "Poet **Edwin Torres** is author of many books, including _XoeteoX:
-  the infinite word object_ (Wave Books), _Ameriscopia_ (University of Arizona
-  Press), _The PoPedology of an Ambient Language_ (Atelos Books), and _The
-  Animal's Perception of Earth_ (Doublecross Press). He is editor of the
-  inter-genre anthology, _The Body In Language_ (Counterpath Press) and has
-  taught and performed his multi-disciplinary bodylingo poetics worldwide.
-  Anthologies include, _Fractured Ecologies_, _Who Will Speak For America_,
-  _American Poets In The 21st Century: Poetics Of Social Engagement_,
-  _Postmodern American Poetry Vol. 2_, and _Aloud: Voices From The Nuyorican
-  Poets Café_. "
+short_bio: '**Edwin Torres** is a NYC native and neo-lingualisualist. His books
+  of poetry include; _Quanundrum: i will be your many angled thing_ (Roof Books)
+  which received a 2022 American Book Award, _Xoeteox: the collected word
+  object_ (Wave Books), _The PoPedology of an Ambient Language_ (Atelos), and
+  editor of _The Body In Language: An Anthology_ (Counterpath Press).
+  Multi-disciplinary collaborations with a wide range of cultural nomads have
+  contributed to the development of his bodylingo poetics. Edwin will be
+  teaching "Brainlingo," his workshop on poetry and portals, as an adjunct this
+  semester at Columbia University.'
 portraits:
   - media: 2020/10/edwin-torres
 rail_contributor_url: https://brooklynrail.org/contributor/edwin-torres
+website: http://brainlingo.com/
+instagram: brainlingo_
 ---
