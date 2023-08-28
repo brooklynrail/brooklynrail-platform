@@ -7,6 +7,7 @@ summary: Elaine Equi curates our 150th Wednesday Poetry Reading featuring Amy
 people:
   - person: amy-gerstler
   - person: jerome-sala
+  - person: jack-skelley
   - person: elaine-equi
 date: 2023-09-13T13:00:00-0500
 end_date: 2023-09-13T14:30:00-0500
