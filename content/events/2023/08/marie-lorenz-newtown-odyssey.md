@@ -1,10 +1,12 @@
 ---
 title: "Marie Lorenz: Newtown Odyssey"
-deck: Featuring Lorenz and Gaby Collins-Fernandez, with Maw Shein Win
-summary: Artist Marie Lorenz joins Rail contributor Gaby Collins-Fernandez for a
-  conversation. We conclude with a poetry reading by Maw Shein Win.
+deck: Featuring Lorenz, Dana Spiotta, Gaby Collins-Fernandez, with Maw Shein Win
+summary: Artist Marie Lorenz and author Dana Spiotta join Rail contributor Gaby
+  Collins-Fernandez for a conversation. We conclude with a poetry reading by Maw
+  Shein Win.
 people:
   - person: marie-lorenz
+  - person: dana-spiotta
   - person: gaby-collins-fernandez
 poets:
   - person: maw-shein-win-1
