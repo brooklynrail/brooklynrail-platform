@@ -17,6 +17,8 @@ event_id: recY7ThiPG02zIJ5i
 event_platform: null
 soldout: false
 ---
+{{< image media="2023/08/new-york-school-symposium" size="lg" >}}
+
 October 28, 2023, 12 p.m. – 8 p.m.
 
 The Brooklyn Rail, Sunset Park\
