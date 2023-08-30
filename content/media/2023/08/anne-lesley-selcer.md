@@ -1,5 +1,5 @@
 ---
-media: /media/files/portrait.png
+media: /media/files/anne-lesley-portrai.png
 title: Anne Lesley Selcer
 alt: Photo of Anne Lesley Selcer
 date: 2023-08-29T17:00:00-0500
