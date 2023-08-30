@@ -6,6 +6,7 @@ summary: Ashley Escobar curates our 149th Wednesday Poetry Reading with Edwin
   Torres, Filip Marinovich, Julien Poirier and Matt Proctor.
 people:
   - person: edwin-torres
+  - person: filip-marinovich
   - person: julien-poirier-1
   - person: matt-proctor
   - person: ashley-d-escobar
