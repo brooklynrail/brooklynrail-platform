@@ -2,8 +2,8 @@
 title: "Publishing-in-Transit: Granary Books"
 deck: Featuring Mary Catherine Kinniburgh, Jen Bervin, Cecilia Vicuña, and Cole
   Swensen
-summary: "Granary Books Director Mary Catherine Kinniburgh and artists Jen
-  Bervin and Cecilia Vicuña join Rail contributor Cole Swensen for a
+summary: "Granary Books Co-Director Mary Catherine Kinniburgh and artists and
+  poets Jen Bervin and Cecilia Vicuña join Rail contributor Cole Swensen for a
   conversation and reading. "
 people:
   - person: mary-catherine-kinniburgh
