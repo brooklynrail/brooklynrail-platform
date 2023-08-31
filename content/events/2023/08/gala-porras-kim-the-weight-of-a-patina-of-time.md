@@ -10,7 +10,7 @@ poets:
   - person: anna-maria-hong-1
 date: 2023-08-18T13:00:00-0500
 end_date: 2023-08-18T14:30:00-0500
-series: 897
+series: 879
 collections:
   - the-new-social-environment
 event_organizer:
