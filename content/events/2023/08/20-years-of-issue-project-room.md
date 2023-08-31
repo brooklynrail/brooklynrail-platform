@@ -5,7 +5,7 @@ summary: ISSUE Project Room Executive Director & Chief Curator Zev Greenfield
   joins Rail host for a conversation. We conclude with a poetry reading.
 date: 2023-09-07T13:00:00-0500
 end_date: 2023-09-07T14:30:00-0500
-series: 890
+series: 893
 collections:
   - common-ground
 event_organizer:
