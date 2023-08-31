@@ -24,3 +24,5 @@ soldout: false
 {{< image media="2023/08/unsw" size="sm" >}}
 
 Supported by the endowed funding of the Judith Neilson Chair in Contemporary Art, University of New South Wales, Sydney.
+
+[R﻿ead "Datong Dazhang, Power Station of Art, Shanghai"by Paul Gladston and Lynne Howarth-Gladston in the *Journal for Cultural Research* →](https://www.tandfonline.com/doi/full/10.1080/14797585.2017.1308088?src=recsys)
