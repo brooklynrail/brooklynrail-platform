@@ -1,9 +1,9 @@
 ---
 title: An Ode to Maya Deren
 deck: A screening series in collaboration with The Film-Makers' Cooperative
-summary: On Labor Day, join us for a screening of five short films Maya Deren,
-  in collaboration with our friends at The Film-Makers' Cooperative. Register to
-  receive 24-hour access links to the films.
+summary: On Labor Day, join us for a screening of five short films by Maya
+  Deren, in collaboration with our friends at The Film-Makers' Cooperative.
+  Register to receive 24-hour access to the films.
 people:
   - person: film-makers-cooperative
 date: 2023-09-04T00:00:00-0500
