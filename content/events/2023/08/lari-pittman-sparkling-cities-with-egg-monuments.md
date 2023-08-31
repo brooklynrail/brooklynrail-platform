@@ -1,11 +1,13 @@
 ---
 title: "Lari Pittman: Sparkling Cities With Egg Monuments"
-deck: Featuring Pittman and Dan Cameron
+deck: Featuring Pittman and Dan Cameron, with Oliver Tompkins Ray
 summary: Artist Lari Pittman joins Rail Editor-at-Large Dan Cameron for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading by Oliver Tompkins Ray.
 people:
   - person: lari-pittman
   - person: dan-cameron
+poets:
+  - person: oliver-tompkins-ray
 date: 2023-09-11T13:00:00-0500
 end_date: 2023-09-11T14:30:00-0500
 series: 893
