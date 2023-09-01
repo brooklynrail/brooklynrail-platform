@@ -6,6 +6,9 @@ summary: ISSUE Project Room Executive Director & Chief Curator Zev Greenfield
   poetry reading by Theodore Kerr.
 people:
   - person: zev-greenfield
+  - person: bint
+  - person: david-farrow
+  - person: evil-dentist
   - person: william-corwin
 poets:
   - person: theodore-kerr
