@@ -1,9 +1,11 @@
 ---
 title: 20 Years of ISSUE Project Room
-deck: Featuring Zev Greenfield and William Corwin, with Theodore Kerr
-summary: ISSUE Project Room Executive Director & Chief Curator Zev Greenfield
-  joins Rail contributor William Corwin for a conversation. We conclude with a
-  poetry reading by Theodore Kerr.
+deck: Featuring Zev Greenfield, BINT, David Farrow and William Corwin, with
+  Theodore Kerr
+summary: ISSUE Project Room Executive Director & Chief Curator Zev Greenfield,
+  Artist-in-Residence BINT, and 2023 Suzanne Fiol Curatorial Fellow David Farrow
+  of evil dentist join Rail contributor William Corwin for a conversation. We
+  conclude with a poetry reading by Theodore Kerr.
 people:
   - person: zev-greenfield
   - person: bint
