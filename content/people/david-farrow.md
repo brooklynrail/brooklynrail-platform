@@ -13,5 +13,8 @@ short_bio: "**David Farrow** is an American sound artist, researcher, and
   installation work has been exhibited at the University of London. They perform
   experimental electronic music as “certain lives” within New York’s
   experimental, rave, and independent music scenes."
-portraits: []
+portraits:
+  - media: 2023/09/david-farrow
+website: https://certainlives.github.io/about/
+instagram: certain_lives
 ---
