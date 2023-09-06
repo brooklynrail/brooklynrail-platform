@@ -22,4 +22,4 @@ event_platform:
   - zoom
 soldout: false
 ---
-[V﻿isit Lari Pittman: *Sparkling Cities with Egg Monuments at Lehmann Maupin*, New York through November 4, 2023 →](https://www.lehmannmaupin.com/exhibitions/lari-pittman2)
+[V﻿isit Lari Pittman: *Sparkling Cities with Egg Monuments* at Lehmann Maupin, New York through November 4, 2023 →](https://www.lehmannmaupin.com/exhibitions/lari-pittman2)
