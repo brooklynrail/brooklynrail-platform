@@ -16,4 +16,5 @@ short_bio: "**Thomas Devaney** is the author of six books, including _Getting to
 portraits:
   - media: 2023/09/thomas-devaney
 website: https://www.thomasdevaney.net/
+instagram: the_blue_stoop
 ---
