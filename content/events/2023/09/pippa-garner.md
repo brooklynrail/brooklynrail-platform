@@ -1,11 +1,13 @@
 ---
 title: Pippa Garner
-deck: Featuring Garner and Fiona Duncan, with Laith Ayogu
+deck: Featuring Garner and Fiona Duncan, with Laith A. Ayogu
 summary: Artist Pippa Garner joins longtime collaborator and friend Fiona Duncan
-  for a conversation. We conclude with a poetry reading by Laith Ayogu.
+  for a conversation. We conclude with a poetry reading by Laith A. Ayogu.
 people:
   - person: pippa-garner
   - person: fiona-alison-duncan
+poets:
+  - person: laith-a-ayogu
 date: 2023-09-12T16:00:00-0500
 end_date: 2023-09-12T17:30:00-0500
 series: 896
@@ -20,7 +22,7 @@ event_platform:
   - zoom
 soldout: false
 ---
-P﻿ippa Garner's current and upcoming exhibitions:\
+**P﻿ippa Garner's current and upcoming exhibitions:**\
 \
 [*$﻿ELL YOUR $ELF* at Art Omi,G﻿hent (June 24 – October 29, 2023) →](https://artomi.org/exhibition/pippa-garner/)\
 \
@@ -29,7 +31,7 @@ P﻿ippa Garner's current and upcoming exhibitions:\
 [*A﻿ct Like You Know Me* at White Columns, NY (November 3 – December 16, 2023) → ](https://whitecolumns.org/exhibitions-programming/)
 
 \
-P﻿ippa Garner's current and upcoming publications:
+**P﻿ippa Garner's current and upcoming publications:**
 
 [*B﻿etter Living Catalog* (Primary Information, 2023) →](https://primaryinformation.org/product/better-living-catalog/)\
 \
