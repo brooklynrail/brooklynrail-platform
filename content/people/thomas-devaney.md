@@ -3,16 +3,17 @@ name: Thomas Devaney
 first_name: Thomas
 last_name: Devaney
 pronouns: he/him
-short_bio: "Poet and documentary filmmaker **Thomas Devaney** was featured in
-  Best American Poetry 2019 and his film _Bicentennial City_ was completed in
-  2020. The essay film is a portrait of struggle and stories from the 1976
-  Bicentennial in Philadelphia. Devaney is the author of _You Are the Battery_
-  (Black Square Editions 2019) and _Getting to Philadelphia_ (Hanging Loose
-  2019). Other books include the solo-opera _Calamity Jane_ and _The Picture
-  that Remains_ in collaboration with the photographer Will Brown. He is a Pew
-  Fellow in the Arts and the Engagement Manager for the Lindy Institute for
-  Urban Strategy at Drexel University. "
+short_bio: "**Thomas Devaney** is the author of six books, including _Getting to
+  Philadelphia_ (Hanging Loose Press, 2019), _You Are the Battery_ (Black Square
+  Editions, 2019), and _The Picture that Remains,_ a collaboration with
+  photographer Will Brown (The Print Center, 2014). He wrote and co-directed the
+  film _Bicentennial City_ (2020), which is an exploration of the legacy of
+  Philadelphia's 1976 Bicentennial celebration. Devaney is a Pew Fellow in the
+  Arts and published in _Best American Poetry_ and the _Brooklyn Rail._ The lit
+  hub Blue Stoop : A Home for Philly was named after his poem “The Blue Stoop.”
+  Devaney teaches creative writing at Haverford College and works at the Lindy
+  Institute for Urban Innovation at Drexel University."
 portraits:
-  - media: 2021/05/thomas-devaney
+  - media: 2023/09/thomas-devaney
 website: https://www.thomasdevaney.net/
 ---
