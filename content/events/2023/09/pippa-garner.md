@@ -21,14 +21,18 @@ event_platform:
 soldout: false
 ---
 P﻿ippa Garner's current and upcoming exhibitions:\
+\
 [*$﻿ELL YOUR $ELF* at Art Omi,G﻿hent (June 24 – October 29, 2023) →](https://artomi.org/exhibition/pippa-garner/)\
+\
 [*P﻿ippa Garner: I﻿'m With Me* at OCD Chinatown, NY (September 22 – October 22, 2023) →](https://ocdchinatown.com/Pippa-Garner-I-m-With-Me)\
+\
 [*A﻿ct Like You Know Me* at White Columns, NY (November 3 – December 16, 2023) → ](https://whitecolumns.org/exhibitions-programming/)
 
-
-
+\
 P﻿ippa Garner's current and upcoming publications:
 
-[*B﻿etter Living Catalog* (Primary Information, 2023) →](https://primaryinformation.org/product/better-living-catalog/)[*P﻿ippa Garner: $ELL YOUR $ELF* (Pioneer Works Press, forthcoming October 2023) →](https://store.pioneerworks.org/products/pippa-garner-sell-yourself)[*P﻿ippa Garner: Act Like You Know Me* (Bierke Verlag, forthcoming October 2023) →](https://www.bierke.de/product/pippa-garner-act-like-you-know-me/)
-
-[](https://www.bierke.de/product/pippa-garner-act-like-you-know-me/)[](https://whitecolumns.org/exhibitions-programming/)[](https://ocdchinatown.com/Pippa-Garner-I-m-With-Me)
+[*B﻿etter Living Catalog* (Primary Information, 2023) →](https://primaryinformation.org/product/better-living-catalog/)\
+\
+[*P﻿ippa Garner: $ELL YOUR $ELF* (Pioneer Works Press, forthcoming October 2023) →](https://store.pioneerworks.org/products/pippa-garner-sell-yourself)\
+\
+[*P﻿ippa Garner: Act Like You Know Me* (Bierke Verlag, forthcoming October 2023) →](https://www.bierke.de/product/pippa-garner-act-like-you-know-me/)[](https://www.bierke.de/product/pippa-garner-act-like-you-know-me/)[](https://whitecolumns.org/exhibitions-programming/)[](https://ocdchinatown.com/Pippa-Garner-I-m-With-Me)
