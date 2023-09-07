@@ -2,17 +2,7 @@
 name: Pippa Garner
 first_name: Pippa
 last_name: Garner
-short_bio: "**Pippa Garner** is an artist and author based in Long Beach,
-  California. For more than five decades her cross-disciplinary practice of
-  drawing, performance, sculpture, photography, video, and installation has
-  continued to push back against systems of consumerism, marketing, and waste.
-  Recent solo exhibitions include, _Act Like You Know Me_ at Kunstverein Munich
-  (2022), Kunsthalle Zúrich (2023), and FRAC Lorraine, Metz (2023); _Immaculate
-  Misconceptions_ at JOAN, Los Angeles (2021) and Verge Center for the Arts,
-  Sacramento (2022); _The Bowels of the Mind_ at STARS, Los Angeles and Jeffrey
-  Stark, New York (both 2021); and _A Shadow of My Future Self_ at O-Town House,
-  Los Angeles (2019). Her work will also be included in the Hammer's, Made in
-  L.A., 2023 Biennial, _Acts of Living_."
+short_bio: "Pippa Garner is an artist and author based in Long Beach, California. For more than five decades her cross-disciplinary practice of drawing, performance, sculpture, photography, video, and installation has continued to push back against systems of consumerism, marketing, and waste. Recent solo exhibitions include, *Act Like You Know Me* at Kunstverein Munich (2022), Kunsthalle Zúrich (2023), and FRAC Lorraine, Metz (2023); *Immaculate Misconceptions* at JOAN, Los Angeles (2021) and Verge Center for the Arts, Sacramento (2022); *The Bowels of the Mind* at STARS, Los Angeles and Jeffrey Stark, New York (both 2021); and *A Shadow of My Future Self* at O-Town House, Los Angeles (2019). Her solo exhibition *$ELL YOUR $ELF*, on view at Art Omi through October 29, 2023, premieres her latest conceptual car *Haulin' Ass!* (2023) and is accompanied by a fully-illustrated catalogue co-published with Pioneer Works Press. In collaboration with Art Omi, *Pippa Garner:* *I'm With Me* opens at OCD Chinatown on September 22, 2023: a tattoo parlor featuring queer/trans tattoo artists who have chosen texts and drawings by Garner to inject directly into the skin of her biggest fans, and sartorial fan art by fashion house Eckhaus Latta. Her work will also be included in the Hammer's *Made in L.A.*, 2023 Biennial, *Acts of Living*, and the Yokohama Triennale, 2023. For its fourth stop, *Act Like You Know Me* will take place at White Columns in New York, NY from November 3-December 16, 2023; timed with the release of an accompanying monograph published by Bierke Books. Garner is the author of several books, including the *Better Living Catalog*, republished by Primary Information this year."
 portraits:
   - media: 2023/09/pippa-garner
 instagram: misc.pippa
