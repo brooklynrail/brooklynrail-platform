@@ -10,5 +10,6 @@ short_bio: Artist and writer **Hearne Pardee** is based in New York and
   with Wayne Thiebaud.
 portraits:
   - media: 2022/01/hearne-pardee-headshot
+rail_contributor_url: https://brooklynrail.org/contributor/hearne-pardee
 website: http://www.hearnepardee.com/
 ---
