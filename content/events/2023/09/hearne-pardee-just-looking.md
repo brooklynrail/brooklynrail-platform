@@ -22,3 +22,4 @@ event_platform:
   - zoom
 soldout: false
 ---
+[V﻿isit Hearne Pardee: *Just Looking*, on view at Bowery Gallery, New York through September 30, 2023 →](https://bowerygallery.org/blog-3-1/just-looking-hearne-pardee)
