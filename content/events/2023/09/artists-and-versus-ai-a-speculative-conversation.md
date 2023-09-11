@@ -1,9 +1,13 @@
 ---
 title: "Artists and/versus AI: A Speculative Conversation"
 deck: Featuring Megan Noh, Sarah Odenkirk, and Yayoi Shionoiri
-summary: "September Critics Page Contributor Megan Noh and Sarah Odenkirk join
-  Guest Editor Yayoi Shionoiri for a conversation. We conclude with a poetry
+summary: "September Critics Page Contributors Megan Noh and Sarah Odenkirk join
+  Guest Critic Yayoi Shionoiri for a conversation. We conclude with a poetry
   reading. "
+people:
+  - person: megan-noh
+  - person: sarah-odenkirk
+  - person: yayoi-shionoiri-1
 date: 2023-09-26T13:00:00-0500
 end_date: 2023-09-26T14:30:00-0500
 series: 906
