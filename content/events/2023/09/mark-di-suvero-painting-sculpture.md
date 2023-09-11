@@ -7,6 +7,7 @@ summary: Nasher Sculpture Center Chief Curator Jed Morse, Paula Cooper Gallery
   ArTonic Editor Jessica Holmes for a conversation. We conclude with a poetry
   reading by Garrett Caples.
 people:
+  - person: jed-morse
   - person: jessica-holmes
 poets:
   - person: garrett-caples-1
