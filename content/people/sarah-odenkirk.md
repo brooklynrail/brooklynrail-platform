@@ -13,6 +13,7 @@ short_bio: "**Sarah Odenkirk** is partner at Cowan DeBaets Abrahams & Sheppard,
   Interesting Book About Contracts for Artists and Other Creatives._"
 portraits:
   - media: 2023/09/sarah-odenkirk
+rail_contributor_url: https://brooklynrail.org/contributor/Sarah-Conley-Odenkirk
 instagram: scodenkirk
 twitter: scodenkirk
 ---
