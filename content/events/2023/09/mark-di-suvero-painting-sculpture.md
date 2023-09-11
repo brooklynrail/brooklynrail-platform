@@ -25,4 +25,4 @@ event_platform:
   - zoom
 soldout: false
 ---
-[V﻿isit *Mark di Suvero: Painting and Sculpture*, on view at Paula Cooper Gallery, New York through October 21, 2023 →](https://www.paulacoopergallery.com/exhibitions/mark-di-suvero#tab:slideshow)
+[V﻿isit *Mark di Suvero: Painting and Sculpture*, on view at Paula Cooper Gallery, New York through October 21, 2023 →](https://www.paulacoopergallery.com/exhibitions/mark-di-suvero15#tab:slideshow;tab-1:thumbnails)
