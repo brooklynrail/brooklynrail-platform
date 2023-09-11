@@ -1,6 +1,6 @@
 ---
 title: "Charline von Heyl "
-deck: Featuring von Hayl and Raphael Rubinstein, with Judith Goldman
+deck: Featuring von Heyl and Raphael Rubinstein, with Judith Goldman
 summary: Artist Charline von Heyl joins Rail Editor-at-Large Raphael Rubinstein
   for a conversation. We conclude with a poetry reading by Judith Goldman.
 people:
