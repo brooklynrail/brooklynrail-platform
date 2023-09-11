@@ -14,4 +14,6 @@ short_bio: "**Megan Noh** co-chairs Pryor Cashman’s Art Law and Non-Fungible
 portraits:
   - media: 2023/09/megan-noh
 rail_contributor_url: https://brooklynrail.org/contributor/Megan-Noh
+instagram: gamene
+twitter: gamene
 ---
