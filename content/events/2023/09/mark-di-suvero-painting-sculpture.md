@@ -8,6 +8,7 @@ summary: Nasher Sculpture Center Chief Curator Jed Morse, Paula Cooper Gallery
   reading by Garrett Caples.
 people:
   - person: jed-morse
+  - person: ivana-mestrovic
   - person: jessica-holmes
 poets:
   - person: garrett-caples-1
