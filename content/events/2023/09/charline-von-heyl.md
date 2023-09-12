@@ -4,6 +4,7 @@ deck: Featuring von Heyl and Raphael Rubinstein, with Judith Goldman
 summary: Artist Charline von Heyl joins Rail Editor-at-Large Raphael Rubinstein
   for a conversation. We conclude with a poetry reading by Judith Goldman.
 people:
+  - person: charline-von-heyl
   - person: raphael-rubinstein-1
 date: 2023-09-22T13:00:00-0500
 end_date: 2023-09-22T14:30:00-0500
