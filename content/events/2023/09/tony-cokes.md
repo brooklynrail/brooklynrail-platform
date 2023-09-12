@@ -1,10 +1,11 @@
 ---
 title: Tony Cokes
-deck: Featuring Cokes and Rail host to be announced
-summary: Artist Tony Cokes joins Rail host for a conversation. We conclude with
-  a poetry reading.
+deck: Featuring Cokes and Zoë Hopkins
+summary: Artist Tony Cokes joins Rail contributor Zoë Hopkins for a
+  conversation. We conclude with a poetry reading.
 people:
   - person: tony-cokes
+  - person: zoe-hopkins
 date: 2023-10-02T13:00:00-0500
 end_date: 2023-10-02T14:30:00-0500
 series: 910
