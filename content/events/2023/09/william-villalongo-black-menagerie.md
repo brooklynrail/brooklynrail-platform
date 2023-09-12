@@ -4,6 +4,7 @@ deck: Featuring Villalongo and Allison Glenn
 summary: Artist William Villalongo joins Rail contributor Allison Glenn for a
   conversation. We conclude with a poetry reading.
 people:
+  - person: william-villalongo
   - person: allison-glenn
 date: 2023-09-19T13:00:00-0500
 end_date: 2023-09-19T14:30:00-0500
