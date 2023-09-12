@@ -1,11 +1,11 @@
 ---
 title: "Mark di Suvero: Painting & Sculpture"
-deck: Featuring Jed Morse, Steve Henry, Ivana Mestrovic, and Jessica Holmes,
+deck: Featuring Jed Morse, Steven Henry, Ivana Mestrovic, and Jessica Holmes,
   with Garrett Caples
 summary: Nasher Sculpture Center Chief Curator Jed Morse, Paula Cooper Gallery
-  Director Steve Henry, and Mark di Suvero Studio Manager Ivana Mestrovic join
-  ArTonic Editor Jessica Holmes for a conversation. We conclude with a poetry
-  reading by Garrett Caples.
+  Senior Partner Steven Henry, and Mark di Suvero Studio Manager Ivana Mestrovic
+  join ArTonic Editor Jessica Holmes for a conversation. We conclude with a
+  poetry reading by Garrett Caples.
 people:
   - person: jed-morse
   - person: steven-henry
