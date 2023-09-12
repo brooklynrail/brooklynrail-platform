@@ -2,8 +2,7 @@
 title: "Publishing-in-Transit: Nightboat Books"
 deck: Featuring Stephen Motika and Cole Swensen
 summary: Nightboat Books Director and Publisher Stephen Motika joins Rail
-  contributor Cole Swensen for a conversation. We conclude with a poetry
-  reading.
+  contributor Cole Swensen for a conversation and reading.
 people:
   - person: cole-swensen
 date: 2023-09-28T13:00:00-0500
