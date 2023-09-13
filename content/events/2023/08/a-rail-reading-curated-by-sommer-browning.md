@@ -6,6 +6,10 @@ summary: Sommer Browning curates our 151st Wednesday Poetry Reading with Gion
 people:
   - person: gion-davis
   - person: anne-lesley-selcer
+    related_links:
+      - url: https://www.spdbooks.org/Products/9780914946090/sun-cycle.aspx
+        text: Sun Cycle by Anne Lesley Selcer (Cleveland State University Poetry Center,
+          2019)
   - person: christine-shan-shan-hou
   - person: sommer-browning
 date: 2023-09-20T13:00:00-0500
