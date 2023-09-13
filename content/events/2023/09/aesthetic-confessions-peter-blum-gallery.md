@@ -5,6 +5,8 @@ summary: "Gallery Founder Peter Blum and Director David Blum join Rail
   Editor-at-Large Phyllis Tuchman for a conversation. We conclude with a poetry
   reading. "
 people:
+  - person: peter-blum
+  - person: david-blum
   - person: phyllis-tuchman
 date: 2023-09-21T13:00:00-0500
 end_date: 2023-09-21T14:30:00-0500
