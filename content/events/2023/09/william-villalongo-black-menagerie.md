@@ -1,11 +1,13 @@
 ---
 title: "William Villalongo: Black Menagerie"
-deck: Featuring Villalongo and Allison Glenn
+deck: Featuring Villalongo and Allison Glenn, with Tongo Eisen-Martin
 summary: Artist William Villalongo joins Rail contributor Allison Glenn for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading by Tongo Eisen-Martin.
 people:
   - person: william-villalongo
   - person: allison-glenn
+poets:
+  - person: tongo-eisen-martin
 date: 2023-09-19T13:00:00-0500
 end_date: 2023-09-19T14:30:00-0500
 series: 901
