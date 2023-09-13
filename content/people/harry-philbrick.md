@@ -14,5 +14,6 @@ short_bio: "**Harry Philbrick** has over 25 years of experience in museum
   Director of The Aldrich Contemporary Art Museum. "
 portraits:
   - media: 2023/09/harry-philbrick
+rail_contributor_url: https://brooklynrail.org/contributor/Harry-Philbrick
 instagram: harryphilbrick
 ---
