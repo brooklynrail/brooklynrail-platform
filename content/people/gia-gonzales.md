@@ -10,6 +10,6 @@ short_bio: "**Gia Gonzales** is a poet based in New York City, where she was
   published by Portable Press @ Yo-Yo Labs. She is the managing editor at
   Nightboat Books."
 portraits:
-  - media: 2021/12/gia-gonzales
+  - media: 2023/09/gia-gonzales
 website: https://www.giagonzales.com/
 ---
