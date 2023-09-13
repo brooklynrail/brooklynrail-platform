@@ -6,6 +6,8 @@ summary: Artist Charline von Heyl joins Rail Editor-at-Large Raphael Rubinstein
 people:
   - person: charline-von-heyl
   - person: raphael-rubinstein-1
+poets:
+  - person: judith-goldman
 date: 2023-09-22T13:00:00-0500
 end_date: 2023-09-22T14:30:00-0500
 series: 904
