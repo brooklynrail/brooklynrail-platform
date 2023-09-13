@@ -1,5 +1,5 @@
 ---
-title: A Rail Reading curated by Sommer Browning
+title: "The Revolutionary Costume: A Rail Reading curated by Sommer Browning"
 deck: Featuring Browning, Gion Davis, Anne Lesley Selcer, and Christine Shan Shan Hou
 summary: Sommer Browning curates our 151st Wednesday Poetry Reading with Gion
   Davis, Anne Lesley Selcer, and Christine Shan Shan Hou
