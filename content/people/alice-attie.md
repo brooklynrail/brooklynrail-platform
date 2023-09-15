@@ -15,5 +15,6 @@ short_bio: "Visual artist and poet **Alice Attie**  received an MFA in Poetry
 portraits:
   - media: 2023/08/alice-attie
 rail_contributor_url: https://brooklynrail.org/contributor/alice-attie
-website: aliceattieart
+website: ""
+instagram: aliceattieart
 ---
