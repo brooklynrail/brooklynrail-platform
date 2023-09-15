@@ -1,13 +1,15 @@
 ---
 title: "Aesthetic Confessions: Peter Blum Gallery"
-deck: Featuring Peter Blum, David Blum, and Phyllis Tuchman
-summary: "Gallery Founder Peter Blum and Director David Blum join Rail
+deck: Featuring Peter Blum, David Blum, and Phyllis Tuchman, with Seth Amos
+summary: Gallery Founder Peter Blum and Director David Blum join Rail
   Editor-at-Large Phyllis Tuchman for a conversation. We conclude with a poetry
-  reading. "
+  reading by Seth Amos.
 people:
   - person: peter-blum
   - person: david-blum
   - person: phyllis-tuchman
+poets:
+  - person: seth-amos
 date: 2023-09-21T13:00:00-0500
 end_date: 2023-09-21T14:30:00-0500
 series: 903
