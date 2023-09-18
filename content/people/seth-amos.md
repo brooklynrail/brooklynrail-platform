@@ -9,6 +9,6 @@ short_bio: "Writer and editor **Seth Amos** is cofounder and former poetry
   forthcoming from *Tin House*, *Cagibi*, *Blood Orange Review*, *The Fourth
   River*, *The Canopy Review*, and elsewhere. He lives in Brooklyn."
 portraits:
-  - media: 2021/07/seth-amos
+  - media: 2023/09/seth-amos
 website: https://www.redbridgepress.com/
 ---
