@@ -5,6 +5,7 @@ summary: Alice Attie curates our 153rd Wednesday Poetry Reading featuring
   Maureen N. McLane, Gideon Kahn, and Naveen Kishore.
 people:
   - person: maureen-n-mclane
+  - person: gideon-kahn
   - person: naveen-kishore
   - person: alice-attie
 date: 2023-10-04T13:00:00-0500
