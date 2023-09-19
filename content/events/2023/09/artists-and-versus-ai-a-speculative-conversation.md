@@ -1,13 +1,15 @@
 ---
 title: "Artists and/versus AI: A Speculative Conversation"
-deck: Featuring Megan Noh, Sarah Odenkirk, and Yayoi Shionoiri
-summary: "September Critics Page Contributors Megan Noh and Sarah Odenkirk join
+deck: Featuring Megan Noh, Sarah Odenkirk, and Yayoi Shionoiri, with Kimberly Kruge
+summary: September Critics Page Contributors Megan Noh and Sarah Odenkirk join
   Guest Critic Yayoi Shionoiri for a conversation. We conclude with a poetry
-  reading. "
+  reading by Kimberly Kruge.
 people:
   - person: megan-noh
   - person: sarah-odenkirk
   - person: yayoi-shionoiri-1
+poets:
+  - person: kimberly-kruge
 date: 2023-09-26T13:00:00-0500
 end_date: 2023-09-26T14:30:00-0500
 series: 906
