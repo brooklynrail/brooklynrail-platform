@@ -9,11 +9,10 @@ short_bio: "**Anne Lesley Selcer** is a poet making art. Keywords:
   Poems on Beauty,_ winner of the Gazing Grain award. Recent work has screened,
   exhibited and been performed at venues including Athens Film Festival,
   Berkeley Art Museum, and other spaces. They have written for numerous museums
-  or gallery catalogs, and a guest edited sound issue of _Tagvverk_ poetry
-  magazine will be released this Fall. Forthcoming in 2024 in _Writing on
-  Raving_ is an excerpt from CLUB SPACE, their current project."
+  or gallery catalogs. A guest edited sound issue of _Tagvverk_ poetry magazine
+  will be released this Fall. "
 portraits:
   - media: 2023/08/anne-lesley-selcer
 website: https://www.annelesleyselcer.com/
-instagram: end____less____lee
+instagram: ""
 ---
