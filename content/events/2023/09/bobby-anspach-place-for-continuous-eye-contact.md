@@ -1,9 +1,9 @@
 ---
 title: "Bobby Anspach: Place for Continuous Eye Contact"
-deck: Featuring Charlotte Kent, Ethan Bond Watts, and William Corwin
-summary: Rail Editor-at-Large Charlotte Kent, and artist Ethan Bond Watts join
-  Rail contributor William Corwin for a conversation. We conclude with a poetry
-  reading.
+deck: Featuring Charlotte Kent, Ethan Bond Watts, Saul Ostrow, and William Corwin
+summary: Rail Editor-at-Large Charlotte Kent, artist Ethan Bond Watts, and
+  curator Saul Ostrow join Rail contributor William Corwin for a conversation.
+  We conclude with a poetry reading.
 people:
   - person: charlotte-kent
   - person: saul-ostrow
