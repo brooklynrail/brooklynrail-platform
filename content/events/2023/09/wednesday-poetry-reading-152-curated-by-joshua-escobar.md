@@ -7,6 +7,7 @@ people:
   - person: vivian-storm
   - person: michelle-detorie
   - person: mel-elberg-1
+  - person: jodi-lin
   - person: joshua-escobar
 date: 2023-09-27T13:00:00-0500
 end_date: 2023-09-27T14:30:00-0500
