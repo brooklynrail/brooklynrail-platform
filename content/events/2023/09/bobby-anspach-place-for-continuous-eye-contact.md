@@ -6,6 +6,7 @@ summary: Rail Editor-at-Large Charlotte Kent, artist Ethan Bond Watts, and
   We conclude with a poetry reading.
 people:
   - person: charlotte-kent
+  - person: ethan-bond-watts
   - person: saul-ostrow
   - person: william-corwin
 date: 2023-09-29T13:00:00-0500
