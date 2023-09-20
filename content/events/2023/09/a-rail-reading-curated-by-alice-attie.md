@@ -1,5 +1,5 @@
 ---
-title: A Rail Reading curated by Alice Attie
+title: "INTO THE REACH OF LANGUAGE: A Rail Reading curated by Alice Attie"
 deck: Featuring Attie, Maureen N. McLane, Gideon Kahn, and Naveen Kishore
 summary: Alice Attie curates our 153rd Wednesday Poetry Reading featuring
   Maureen N. McLane, Gideon Kahn, and Naveen Kishore.
