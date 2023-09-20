@@ -1,5 +1,5 @@
 ---
-title: "Wednesday Poetry Reading #152 curated by Joshua Escobar"
+title: "Never Enough: Queer Poetic Unmaking: A Rail Reading curated by Joshua Escobar"
 deck: Featuring Escobar, Michelle Detorie, Mel Elberg, Jodi Lin, and Vivian Storm
 summary: Joshua Escobar curates our 152nd Wednesday Poetry Reading with Michelle
   Detorie, Mel Elberg, Jodi Lin, and Vivian Storm.
