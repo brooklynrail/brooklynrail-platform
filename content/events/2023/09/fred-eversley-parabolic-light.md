@@ -1,11 +1,13 @@
 ---
 title: "Fred Eversley: Parabolic Light"
-deck: Featuring Eversley and Amanda Gluibizzi
-summary: "Artist Fred Eversley joins Rail ArtSeen Editor Amanda Gluibizzi for a
-  conversation. We conclude with a poetry reading. "
+deck: Featuring Eversley and Amanda Gluibizzi, with Roberto Harrison
+summary: Artist Fred Eversley joins Rail ArtSeen Editor Amanda Gluibizzi for a
+  conversation. We conclude with a poetry reading by Roberto Harrison.
 people:
   - person: fred-eversley
   - person: amanda-gluibizzi
+poets:
+  - person: roberto-harrison
 date: 2023-09-25T13:00:00-0500
 end_date: 2023-09-25T14:30:00-0500
 series: 905
