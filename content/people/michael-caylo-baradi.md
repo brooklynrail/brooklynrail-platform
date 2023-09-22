@@ -8,5 +8,7 @@ short_bio: "**Michael Caylo-Baradi** is an alumnus of The Writers’ Institute a
   Galatea Resurrects, London Grip, New Pages, PopMatters,_ and elsewhere. His
   debut pamphlet _Hotel Pacoima_ came out in 2021 from Kelsey Books. In another
   name, he has been an editor’s pick for flash features at _Litro Magazine._ "
+portraits:
+  - media: 2023/09/michael-caylo-baradi
 website: http://mcaylo.blogspot.com/
 ---
