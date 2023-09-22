@@ -1,11 +1,13 @@
 ---
 title: "Michael Rakowitz: The Monument, The Monster, and The Maquette "
-deck: Featuring Rakowitz and Ann C. Collins
+deck: Featuring Rakowitz and Ann C. Collins, with Emily Jungmin Yoon
 summary: Artist Michael Rakowitz joins Rail contributor Ann C. Collins for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading by Emily Jungmin Yoon.
 people:
   - person: michael-rakowitz
   - person: ann-c-collins
+poets:
+  - person: emily-jungmin-yoon
 date: 2023-10-03T13:00:00-0500
 end_date: 2023-10-03T14:30:00-0500
 series: 911
