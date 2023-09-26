@@ -11,5 +11,7 @@ short_bio: "**Jose Padua’s** first book, _A Short History of Monsters,_ was
   This Rock festival, and many other venues. After spending the last twelve
   years in Washington DC and Virginia’s Shenandoah Valley, he and his family
   have moved slightly north to Lancaster, PA."
+portraits:
+  - media: 2023/09/jose-padua
 website: https://josepadua.com/
 ---
