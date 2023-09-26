@@ -1,11 +1,12 @@
 ---
 title: Ruth Asawa Through Line
-deck: "Featuring Kim Conaty and Edouard Kopp and Rail host to be announced "
-summary: "Curators Kim Conaty and Edouard Kopp join Rail host for a
-  conversation. We conclude with a poetry reading. "
+deck: Featuring Kim Conaty and Edouard Kopp and Christina Yang, with Cleo Abramian
+summary: Curators Kim Conaty and Edouard Kopp join scholar Christina Yang for a
+  conversation. We conclude with a poetry reading by Cleo Abramian.
 people:
   - person: kim-conaty
   - person: edouard-kopp
+  - person: christina-yang
 date: 2023-10-06T13:00:00-0500
 end_date: 2023-10-06T14:30:00-0500
 series: 914
