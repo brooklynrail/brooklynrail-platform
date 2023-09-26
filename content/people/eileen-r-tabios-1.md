@@ -9,5 +9,7 @@ short_bio: "**Eileen R. Tabios** has released over 70 collections of poetry,
   Our Times._ She invented the hay(na)ku, a 21st century diasporic poetic form;
   the MDR Poetry Generator that can create poems totaling theoretical infinity;
   and the “Flooid” poetry form that’s rooted in a good deed. "
+portraits:
+  - media: 2023/09/eileen-tabios
 website: https://eileenrtabios.com/
 ---
