@@ -21,4 +21,4 @@ event_platform:
   - zoom
 soldout: false
 ---
-[V﻿isit *Ruth Asawa Through Line*, on view at Whitney Museum of American Art through January 15, 2024 →](https://whitney.org/exhibitions/ruth-asawa-through-line)
+[V﻿isit *Ruth Asawa Through Line*, on view at the Whitney Museum of American Art through January 15, 2024 →](https://whitney.org/exhibitions/ruth-asawa-through-line)
