@@ -1,11 +1,14 @@
 ---
 title: "Brooklyn Trail: The Activist Angler"
-deck: Featuring Stephen Duncombe and Rev. Dr. Donna Schaper
+deck: Featuring Stephen Duncombe and Rev. Dr. Donna Schaper, with Elena Alexander
 summary: Activist and author Stephen Duncombe joins Rail Editor-at-Large Rev.
-  Dr. Donna Schaper for a conversation. We conclude with a poetry reading.
+  Dr. Donna Schaper for a conversation. We conclude with a poetry reading by
+  Elena Alexander.
 people:
   - person: stephen-duncombe
   - person: rev-dr-dona-schaper
+poets:
+  - person: elena-alexander
 date: 2023-10-05T13:00:00-0500
 end_date: 2023-10-05T14:30:00-0500
 series: 913
