@@ -1,11 +1,13 @@
 ---
 title: Tony Cokes
-deck: Featuring Cokes and Zoë Hopkins
+deck: Featuring Cokes and Zoë Hopkins, with Sasha Banks
 summary: Artist Tony Cokes joins Rail contributor Zoë Hopkins for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading by Sasha Banks.
 people:
   - person: tony-cokes
   - person: zoe-hopkins
+poets:
+  - person: sasha-banks
 date: 2023-10-02T13:00:00-0500
 end_date: 2023-10-02T14:30:00-0500
 series: 910
