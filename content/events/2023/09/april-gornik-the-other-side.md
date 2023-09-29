@@ -4,6 +4,7 @@ deck: Featuring Gornik and Jason Rosenfeld, with Kate Farrell
 summary: Artist April Gornik joins Rail Editor-at-Large Jason Rosenfeld for a
   conversation. We conclude with a poetry reading by Kate Farrell.
 people:
+  - person: april-gornik
   - person: jason-rosenfeld
 date: 2023-10-10T13:00:00-0500
 end_date: 2023-10-10T14:30:00-0500
