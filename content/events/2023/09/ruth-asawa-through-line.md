@@ -7,6 +7,8 @@ people:
   - person: kim-conaty
   - person: edouard-kopp
   - person: christina-yang
+poets:
+  - person: cleo-abramian
 date: 2023-10-06T13:00:00-0500
 end_date: 2023-10-06T14:30:00-0500
 series: 914
