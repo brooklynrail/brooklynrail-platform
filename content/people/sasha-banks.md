@@ -2,13 +2,11 @@
 name: Sasha Banks
 first_name: Sasha
 last_name: Banks
-short_bio: "**Sasha Banks** received her MFA from Pratt Institute in Brooklyn,
-  NY. She is a Pushcart-nominated poet whose work appears in _RHINO, The
-  Collagist, Poor Claudia, Kinfolks Quarterly, PBS Newshour, B O D Y Literature,
-  Austin IPF, OBSIDIAN,_ and has been performed in Tulane University’s _Vagina
-  Monologues._ Sasha is the creator of Poets for Ferguson. She lives in North
-  Carolina where she is learning to be Black and spectacular at the same damn
-  time."
+short_bio: "**Sasha Banks** is a Pushcart nominated poet whose work has been
+  published or is forthcoming in _The Atlantic, Vanity Fair, PBS Newshour,_ and
+  others. She received her MFA at Pratt Institute. She is a 2019 Rhode Island
+  Writers’ Colony Fellow and the creator of Poets for Ferguson. She is the
+  author of _america, MINE._"
 portraits:
   - media: 2020/11/sasha-banks
 website: https://thesashabanks.com/
