@@ -19,4 +19,4 @@ event_platform:
   - zoom
 soldout: false
 ---
-[V﻿isit *Willia Nasatir*, on view at Chapter NY through October 21, 2023 →](https://chapter-ny.com/exhibitions/willa-nasatir2023/)
+[V﻿isit *Willa Nasatir*, on view at Chapter NY through October 21, 2023 →](https://chapter-ny.com/exhibitions/willa-nasatir2023/)
