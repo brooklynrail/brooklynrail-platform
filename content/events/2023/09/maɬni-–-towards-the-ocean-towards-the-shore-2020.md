@@ -1,8 +1,8 @@
 ---
 title: maɬni – towards the ocean, towards the shore (2020)
-deck: A film by Sky Hopkina
+deck: A film by Sky Hopinka
 summary: On Indigenous Peoples' Day, join us for a screening of maɬni – towards
-  the ocean, towards the shore (2020) by Sky Hopkina. Register to receive a
+  the ocean, towards the shore (2020) by Sky Hopinka. Register to receive a
   24-hour access link to the film.
 date: 2023-10-09T00:00:00-0500
 end_date: 2023-10-09T23:59:00-0500
