@@ -6,6 +6,8 @@ summary: Artist April Gornik joins Rail Editor-at-Large Jason Rosenfeld for a
 people:
   - person: april-gornik
   - person: jason-rosenfeld
+poets:
+  - person: kate-farrell
 date: 2023-10-10T13:00:00-0500
 end_date: 2023-10-10T14:30:00-0500
 series: 916
