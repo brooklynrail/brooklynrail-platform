@@ -15,6 +15,6 @@ short_bio: "**Tony Cokes** lives and works in Providence, RI, where he serves as
   Art, New York, among others."
 portraits:
   - media: 2023/09/tony-cokes
-instagram: " tonycokes_"
+instagram: tonycokes_
 twitter: TonyCokes
 ---
