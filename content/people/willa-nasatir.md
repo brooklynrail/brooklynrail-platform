@@ -12,5 +12,7 @@ short_bio: "**Willa Nasatir’s** practice investigates varied approaches to
   American Art, New York; the Albright-Knox Art Gallery, Buffalo; Ghebaly
   Gallery, Los Angeles; Gaylord Apartments, Los Angeles; Chapter NY, New York;
   and White Columns, New York."
+portraits:
+  - media: 2023/10/willa-nasatir
 instagram: willa.3
 ---
