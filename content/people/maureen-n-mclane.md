@@ -3,8 +3,8 @@ name: Maureen N. McLane
 first_name: Maureen
 last_name: McLane
 short_bio: "**Maureen N. McLane** is a poet, memoirist, critic, and educator.
-  She has published eight books of poetry, including _This Blue, Finalist for
-  the National Book Award._ She is also the author of an experimental hybrid of
+  She has published eight books of poetry, including _This Blue_, Finalist for
+  the National Book Award. She is also the author of an experimental hybrid of
   memoir and criticism, _My Poets,_ a _New York Times_ Notable Book and Finalist
   for the National Book Critics Circle Award in Autobiography. Other works
   include two monographs on British romantic poetics and numerous essays on
