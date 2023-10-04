@@ -1,7 +1,7 @@
 ---
 title: Storefront for Art and Architecture
 deck: Featuring José Esparza Chong Cuy and Nile Greenberg, with Brittany Adames
-summary: Storefront for Art and Architecture Executive Director and and Chief
+summary: Storefront for Art and Architecture Executive Director and Chief
   Curator José Esparza Chong Cuy joins Rail Architecture Editor Nile Greenberg
   for a conversation. We conclude with a poetry reading by Brittany Adames.
 people:
