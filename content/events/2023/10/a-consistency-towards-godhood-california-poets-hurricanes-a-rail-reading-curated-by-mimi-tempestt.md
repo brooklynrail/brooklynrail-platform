@@ -1,5 +1,5 @@
 ---
-title: "A Consistency towards Godhood: California Poets & Hurricanes: A Rail
+title: "A Consistency Towards Godhood: California Poets & Hurricanes: A Rail
   Reading curated by Mimi Tempestt"
 deck: "Featuring Tempestt, Dr. Ayodele Nzingha, Jessica Hairston, Toya Groves
   and soledad con carne "
