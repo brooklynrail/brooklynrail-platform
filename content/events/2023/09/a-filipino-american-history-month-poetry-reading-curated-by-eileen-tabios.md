@@ -1,7 +1,7 @@
 ---
-title: A Filipino American History Month Poetry Reading curated by Eileen Tabios
+title: A Filipino American History Month Poetry Reading curated by Eileen R. Tabios
 deck: Featuring Tabios, JoAnn Balingit, Michael Caylo-Baradi, and Jose Padua
-summary: Eileen Tabios curates our 154th Wednesday Poetry reading featuring
+summary: Eileen R. Tabios curates our 154th Wednesday Poetry reading featuring
   JoAnn Balingit, Michael Caylo-Baradi, and Jose Padua.
 people:
   - person: joann-balingit
