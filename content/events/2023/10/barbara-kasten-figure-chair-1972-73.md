@@ -21,4 +21,4 @@ event_platform:
   - zoom
 soldout: false
 ---
-[V﻿isit Barbara Kasten: *Figure/Chair, 1972-73*, on view at Bortolami Gallery, New York through October 28, 2023 →](https://www.bortolamigallery.com/exhibitions/figure-chair-1972-73)
+[V﻿isit Barbara Kasten: *Figure/Chair, 1972-73*, on view at Bortolami Gallery, New York through November 4, 2023 →](https://www.bortolamigallery.com/exhibitions/figure-chair-1972-73)
