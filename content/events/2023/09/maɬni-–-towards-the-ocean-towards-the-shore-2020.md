@@ -22,7 +22,7 @@ soldout: false
 
 This film follows Sweetwater Sahme and Jordan Mercier's wanderings through each of their worlds as they wonder through and contemplate the afterlife, rebirth, and the place in-between. Spoken mostly in chinuk wawa, their stories are departures from the Chinookan origin of death myth, with its distant beginning and circular shape.
 
-[M﻿ore on *maɬni – towards the ocean*, towards the shore via Grasshopper Film →](https://grasshopperfilm.com/film/malni/)
+[M﻿ore on *maɬni – towards the ocean, towards the shore* via Grasshopper Film →](https://grasshopperfilm.com/film/malni/)
 
 [R﻿ead Sky Hopinka in conversation with Almudena Escobar López in the *Brooklyn Rail* (November 2017) →](https://brooklynrail.org/2017/11/film/Sky-Hopinka-and-belit-sa-with-Almudena-Escobar-Lopez)
 
