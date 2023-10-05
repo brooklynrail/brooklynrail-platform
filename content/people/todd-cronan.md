@@ -13,5 +13,6 @@ short_bio: "**Todd Cronan** is Professor of Art History at Emory University and
   Inquiry._"
 portraits:
   - media: 2023/10/todd-cronan
+rail_contributor_url: https://brooklynrail.org/contributor/Todd-Cronan
 website: https://arthistory.emory.edu/people/bios/cronan-todd.html
 ---
