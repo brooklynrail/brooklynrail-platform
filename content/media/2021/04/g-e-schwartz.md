@@ -1,5 +1,5 @@
 ---
-media: /media/files/credit_-c.-s.-schwartz.jpg
+media: /media/files/credit_-c.-s.-schwartz.jpeg
 title: G.E. Schwartz
 alt: G.E. Schwartz, by C.S. Schwartz
 caption: Photo by by C.S. Schwartz
