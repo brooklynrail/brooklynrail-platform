@@ -10,5 +10,6 @@ short_bio: "Independent curator  and critic, and co-founder of Critical
   Art, Theory and Culture_ (1996-2006) published by Francis & Taylor. "
 portraits:
   - media: 2023/09/saul-ostrow
+rail_contributor_url: https://brooklynrail.org/contributor/saul-ostrow
 instagram: saulostrow
 ---
