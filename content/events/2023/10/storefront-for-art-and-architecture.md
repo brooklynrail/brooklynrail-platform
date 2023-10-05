@@ -6,6 +6,8 @@ summary: Storefront for Art and Architecture Executive Director and Chief
   for a conversation. We conclude with a poetry reading by Brittany Adames.
 people:
   - person: nile-greenberg
+poets:
+  - person: brittany-adames
 date: 2023-10-12T13:00:00-0500
 end_date: 2023-10-12T14:30:00-0500
 series: 918
