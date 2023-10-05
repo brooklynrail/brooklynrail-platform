@@ -1,6 +1,6 @@
 ---
-name: W.J.T. Mitchell
-first_name: W.J.T.
+name: W. J. T. Mitchell
+first_name: W. J. T.
 last_name: Mitchell
 short_bio: "Scholar and theorist of media, visual art, and literature **W. J. T.
   Mitchell** is Senior Editor of the interdisciplinary journal _Critical
