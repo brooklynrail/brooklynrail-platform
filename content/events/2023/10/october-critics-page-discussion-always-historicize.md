@@ -9,6 +9,7 @@ people:
   - person: todd-cronan
   - person: joe-fyfe
   - person: w-j-t-mitchell
+  - person: joseph-north
   - person: saul-ostrow
   - person: lilly-wei
   - person: jeremy-gilbert-rolfe
