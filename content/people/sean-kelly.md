@@ -5,7 +5,7 @@ last_name: Kelly
 short_bio: Gallerist **Sean Kelly** began his career in England as an artist,
   before branching into work as a museum curator and director. After relocating
   to New York, he established his eponymous gallery in 1991. Under his
-  stewardship, the Gallery has become a symbol for high-quality,
+  stewardship, the gallery has become a symbol for high-quality,
   thought-provoking contemporary art and conversation. Kelly is equally
   committed to education, human rights, and social justice issues, making the
   gallery available free of charge to educational advocacy groups and school
