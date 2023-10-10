@@ -1,7 +1,7 @@
 ---
 title: "Barkley L. Hendricks: Portraits at the Frick"
 deck: Featuring Aimee Ng, Richard J. Powell, and Jason Rosenfeld
-summary: Curator Aimee Ng and art historian Richard J. Powell joins Rail
+summary: Curator Aimee Ng and art historian Richard J. Powell join Rail
   Editor-at-Large Jason Rosenfeld for a conversation. We conclude with a poetry
   reading.
 people:
