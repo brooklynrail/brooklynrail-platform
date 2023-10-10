@@ -20,7 +20,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
-event_id: recpoS0XmQj0KQOHd
+event_id: recez5H8Os52SY9uK
 event_platform:
   - zoom
 soldout: false
