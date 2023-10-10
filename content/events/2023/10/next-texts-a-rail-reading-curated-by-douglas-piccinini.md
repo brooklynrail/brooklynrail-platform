@@ -4,6 +4,7 @@ deck: "Featuring Piccinnini, Niina Pollari, and Ben Fama "
 summary: "Douglas Piccinnini curates our 155th Wednesday Poetry Reading
   featuring Niina Pollari and Ben Fama "
 people:
+  - person: niina-pollari
   - person: ben-fama
   - person: douglas-piccinnini
 date: 2023-10-18T13:00:00-0500
