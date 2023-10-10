@@ -7,6 +7,7 @@ summary: Join the Rail's October 2023 Critics Page contributors for a
   reading by G.E. Schwartz.
 people:
   - person: todd-cronan
+  - person: penny-florence
   - person: joe-fyfe
   - person: w-j-t-mitchell
   - person: joseph-north
