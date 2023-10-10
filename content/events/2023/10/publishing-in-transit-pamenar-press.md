@@ -11,14 +11,16 @@ people:
   - person: khashayar-kess-mohammadi
   - person: fran-lock
   - person: cole-swensen
-date: 2023-10-10T12:13:00-0500
-end_date: 2023-10-10T12:13:00-0500
+date: 2023-10-26T13:00:00-0500
+end_date: 2023-10-26T14:30:00-0500
+series: 928
 collections:
-  - the-new-social-environment
+  - common-ground
 event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+event_id: recpoS0XmQj0KQOHd
 event_platform:
   - zoom
 soldout: false
