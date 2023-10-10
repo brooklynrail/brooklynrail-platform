@@ -1,7 +1,7 @@
 ---
-name: Jessica Ke’mani
+name: Jessica Ke’mani Hairston
 first_name: Jessica
-last_name: Ke’mani
+last_name: Hairston
 short_bio: "**Jessica Ke’mani** (pronounced Keh-Mani) is an Oakland-born poet.
   Ke’mani is the author of the new poetry chapbook, _Power of Our Wombs_
   (Nomadic Press, February 2023). Recently, Ke’mani appeared on Susan Ruth’s
