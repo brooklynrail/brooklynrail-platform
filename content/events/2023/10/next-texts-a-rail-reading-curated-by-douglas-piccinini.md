@@ -1,8 +1,8 @@
 ---
-title: "NEXT TEXTS: A Rail Reading curated by Douglas Piccinini"
-deck: "Featuring Piccinini, Niina Pollari, and Ben Fama "
-summary: "Douglas Piccinini curates our 155th Wednesday Poetry Reading featuring
-  Niina Pollari and Ben Fama "
+title: "NEXT TEXTS: A Rail Reading curated by Douglas Piccinnini"
+deck: "Featuring Piccinnini, Niina Pollari, and Ben Fama "
+summary: "Douglas Piccinnini curates our 155th Wednesday Poetry Reading
+  featuring Niina Pollari and Ben Fama "
 people:
   - person: ben-fama
   - person: douglas-piccinnini
