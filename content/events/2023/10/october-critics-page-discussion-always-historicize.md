@@ -1,7 +1,8 @@
 ---
 title: "October Critics Page Discussion: Always Historicize?"
-deck: Featuring Todd Cronan, Penny Florence, Joe Fyfe, W. J. T. Mitchell, Joseph
-  North, Saul Ostrow, Lilly Wei, and Jeremy Gilbert-Rolfe, with G.E. Schwartz
+deck: Featuring Rex Butler, Todd Cronan, Penny Florence, Joe Fyfe, W. J. T.
+  Mitchell, Joseph North, Saul Ostrow, Lilly Wei, and Jeremy Gilbert-Rolfe, with
+  G.E. Schwartz
 summary: Join the Rail's October 2023 Critics Page contributors for a
   conversation with Guest Critic Jeremy Gilbert-Rolfe. We conclude with a poetry
   reading by G.E. Schwartz.
