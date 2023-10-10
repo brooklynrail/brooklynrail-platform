@@ -20,4 +20,6 @@ event_id: rec9AmIefoor1IinG
 event_platform:
   - zoom
 soldout: false
+aliases:
+  - /events/2023/10/18/next-texts-a-rail-reading-curated-by-douglas-piccinini/
 ---
