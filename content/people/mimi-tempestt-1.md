@@ -10,9 +10,9 @@ short_bio: "**Mimi Tempestt** (she/they) is a multidisciplinary artist, poet,
   was selected for participation in the Lambda Literary Writers Retreat for
   Emerging LGBTQ Voices & writers, and was a Creative Fellow at The Ruby in San
   Francisco. She is the 2023 recipient of the SFF/Nomadic Press Literary Prize
-  in Poetry. Her second book, _the delicacy of embracing spirals_, is
-  forthcoming with City Lights in the Fall. Her works can be found in Foglifter,
-  Interim Poetics, and The Studio Museum in Harlem."
+  in Poetry. Her second book, _the delicacy of embracing spirals_, is now
+  available from City Lights. Her works can be found in _Foglifter, Interim
+  Poetics,_ and The Studio Museum in Harlem."
 portraits:
   - media: 2023/06/mimi-tempestt
 website: https://express.adobe.com/page/pPXmIBhFr2Fer/
