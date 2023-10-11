@@ -15,6 +15,7 @@ short_bio: "**Nile Greenberg** is a founding partner of ANY, a New York City
   Kitchen."
 portraits:
   - media: 2023/10/nile-greenberg
+rail_contributor_url: https://brooklynrail.org/contributor/Nile-Greenberg
 website: https://nile.llc/
 instagram: nilegreenberg
 ---
