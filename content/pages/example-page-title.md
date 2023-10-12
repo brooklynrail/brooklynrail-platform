@@ -1,7 +1,7 @@
 ---
 title: Example Page title
 headline: Example Page Fooo
-deck: Things
+deck: Chloe
 summary: This is a summary
 weight: 1
 ---
