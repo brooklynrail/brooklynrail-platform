@@ -12,5 +12,6 @@ short_bio: "**Niina Pollari** is the author of two poetry collections, _Path of
 portraits:
   - media: 2023/10/niina-pollari
 website: https://www.niinapollari.com/
+instagram: niinausea
 twitter: heartbarf
 ---
