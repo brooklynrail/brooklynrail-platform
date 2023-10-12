@@ -1,9 +1,9 @@
 ---
 title: "Barbara Kasten: Figure/Chair, 1972-73"
-deck: Featuring Kasten and Martha Schwendener
+deck: Featuring Kasten and Martha Schwendener, with Zoe Brezsny
 summary: Artist Barbara Kasten joins Rail contributor Martha Schwendener for a
   conversation at a special time of 2 p.m. EST. We conclude with a poetry
-  reading.
+  reading by Zoe Brezsny.
 people:
   - person: barbara-kasten
   - person: martha-schwendener
