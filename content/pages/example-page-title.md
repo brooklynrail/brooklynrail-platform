@@ -1,6 +1,6 @@
 ---
 title: Example Page title
-headline: Example Page
+headline: Example Page Fooo
 deck: Things
 summary: This is a summary
 weight: 1
