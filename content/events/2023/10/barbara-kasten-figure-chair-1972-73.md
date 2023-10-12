@@ -7,6 +7,8 @@ summary: Artist Barbara Kasten joins Rail contributor Martha Schwendener for a
 people:
   - person: barbara-kasten
   - person: martha-schwendener
+poets:
+  - person: zoe-brezsny-1
 date: 2023-10-20T14:00:00-0500
 end_date: 2023-10-20T15:30:00-0500
 series: 924
