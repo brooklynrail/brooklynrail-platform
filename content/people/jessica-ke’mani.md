@@ -15,4 +15,6 @@ short_bio: "**Jessica Ke’mani** (pronounced Keh-Mani) is an Oakland-born poet.
   tutoring and hopes to pursue more work in this area."
 portraits:
   - media: 2023/10/jessica-ke’mani
+website: https://jhairstonwrites.com/
+instagram: kemaniii.j
 ---
