@@ -20,4 +20,4 @@ event_platform:
   - zoom
 soldout: false
 ---
-[V﻿isit Basel Abbas and Ruanne Abou-Rahme: *Only sounds that tremble through us*, on view at MIT List Visual Arts Center through March 3, 2023 →](https://listart.mit.edu/exhibitions/basel-abbas-ruanne-abou-rahme-only-sounds-tremble-through-us)
+[V﻿isit Basel Abbas and Ruanne Abou-Rahme: *Only sounds that tremble through us*, on view at MIT List Visual Arts Center through March 3, 2024 →](https://listart.mit.edu/exhibitions/basel-abbas-ruanne-abou-rahme-only-sounds-tremble-through-us)
