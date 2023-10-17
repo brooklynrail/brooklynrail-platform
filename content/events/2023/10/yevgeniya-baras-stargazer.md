@@ -4,6 +4,7 @@ deck: Featuring Baras and Amanda Millet-Sorsa, with Sophia Dahlin
 summary: Artist Yevgeniya Baras joins Rail contributor Amanda Millet-Sorsa for a
   conversation. We conclude with a poetry reading by Sophia Dahlin.
 people:
+  - person: yevgeniya-baras-1
   - person: amanda-millet-sorsa
 poets:
   - person: sophia-dahlin
