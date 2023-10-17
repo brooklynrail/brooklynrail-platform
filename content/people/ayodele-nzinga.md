@@ -7,7 +7,7 @@ short_bio: Cultural Architect **Dr. Ayodele Nzinga** is an arts and culture
   community development, and community well being to foster transformation in
   marginalized communities. Nzinga holds a Masters in Fine Arts in Writing and
   Consciousness and Doctorate of Philosophy in Transformative Education and
-  Change; she resides in Oakland CA. The author of _Incandescent,_ among other
+  Change; she resides in Oakland, CA. The author of _Incandescent,_ among other
   books, and her work can also be found in numerous journals and anthologies.
   Described as a renaissance woman, Ayodele is a producing director, playwright,
   poet, dramaturg, actress, performance consultant, arts educator, community
