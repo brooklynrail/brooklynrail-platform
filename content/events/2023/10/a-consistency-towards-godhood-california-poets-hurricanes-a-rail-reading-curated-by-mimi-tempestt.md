@@ -6,6 +6,7 @@ deck: "Featuring Tempestt, Dr. Ayodele Nzingha, Jessica Ke’mani Hairston, Toya
 summary: Mimi Tempestt curates our 156th Wednesday Poetry Reading with Dr.
   Ayodele Nzingha, Jessica Ke’mani Hairston, Toya Groves, and soledad con carne.
 people:
+  - person: ayodele-nzinga
   - person: jessica-ke’mani
   - person: soledad-con-carne
   - person: mimi-tempestt-1
