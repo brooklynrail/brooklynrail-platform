@@ -9,7 +9,7 @@ people:
   - person: douglas-piccinnini
 date: 2023-10-18T13:00:00-0500
 end_date: 2023-10-18T14:30:00-0500
-series: 919
+series: 922
 collections:
   - the-new-social-environment
 event_organizer:
