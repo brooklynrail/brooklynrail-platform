@@ -9,6 +9,7 @@ people:
   - person: ayodele-nzinga
   - person: jessica-ke’mani
   - person: soledad-con-carne
+  - person: toya-l-groves
   - person: mimi-tempestt-1
 date: 2023-10-25T13:00:00-0500
 end_date: 2023-10-25T14:30:00-0500
