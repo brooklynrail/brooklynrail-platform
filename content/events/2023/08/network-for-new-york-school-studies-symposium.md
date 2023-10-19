@@ -1,5 +1,5 @@
 ---
-title: '"these little oases": New York City ​Symposium and Poetry Reading, 2023'
+title: '"these little oases"'
 deck: A Symposium and Poetry Reading with the Network for New York School Studies
 summary: Join us for a day of poetry and conversation. Refreshments will be provided.
 people:
