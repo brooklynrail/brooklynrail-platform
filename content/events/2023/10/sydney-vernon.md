@@ -1,10 +1,15 @@
 ---
 title: Sydney Vernon
-deck: Featuring Vernon and Rail host to be announced
-summary: "Artist Sydney Vernon joins Rail host for a conversation. We conclude
-  with a poetry reading. "
+deck: "Featuring Vernon, Tyhe Cooper, and Chloe Stagaman, with Phong H. Bui "
+summary: "Artist Sydney Vernon joins Rail Production Editor Tyhe Cooper and Rail
+  Director of Programs Chloe Stagaman for a conversation. We conclude with a
+  poetry reading by Phong H. Bui. "
 people:
   - person: sydney-vernon
+  - person: tyhe-cooper
+  - person: chloe-stagaman
+poets:
+  - person: phong-h-bui
 date: 2023-10-27T13:00:00-0500
 end_date: 2023-10-27T14:30:00-0500
 series: 929
