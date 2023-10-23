@@ -1,8 +1,8 @@
 ---
-name: Hamed Jaberah
+name: Hamed Jaberha
 first_name: Hamed
-last_name: Jaberah
-short_bio: "**Hamed Jaberah** is an interdisciplinary artist whose works draw
+last_name: Jaberha
+short_bio: "**Hamed Jaberha** is an interdisciplinary artist whose works draw
   upon political, historical, and social themes and often incorporate natural
   and perishable materials. His works have been featured in over fifty group
   exhibitions, showcasing in countries across the globe, from Iran to Germany,
