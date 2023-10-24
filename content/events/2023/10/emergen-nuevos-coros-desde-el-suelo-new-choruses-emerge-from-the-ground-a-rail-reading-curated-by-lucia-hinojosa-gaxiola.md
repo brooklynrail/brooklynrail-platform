@@ -1,6 +1,6 @@
 ---
-title: "Emergen nuevos coros desde el suelo / New Choruses Emerge from the
-  Ground: A Rail Reading curated by Lucía Hinojosa Gaxiola"
+title: "emergen nuevos coros desde el suelo: A Rail Reading curated by Lucía
+  Hinojosa Gaxiola"
 deck: Featuring Gaxiola, Carolina Ebeid, Maritza N. Estrada, Tilsa Otta, and Jo
   Ying Peng
 summary: Lucía Hinojosa Gaxiola curates our 157th Wednesday Poetry reading with
@@ -9,6 +9,8 @@ people:
   - person: carolina-ebeid
   - person: maritza-n-estrada
   - person: tilsa-otta
+  - person: jo-ying-peng
+  - person: lucía-hinojosa-gaxiola
 date: 2023-11-01T13:00:00-0500
 end_date: 2023-11-01T14:30:00-0500
 series: 932
