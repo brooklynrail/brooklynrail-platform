@@ -24,4 +24,6 @@ event_id: reccQj77w652j7VNd
 event_platform:
   - zoom
 soldout: false
+aliases:
+  - /events/2023/11/01/emergen-nuevos-coros-desde-el-suelo-new-choruses-emerge-from-the-ground-a-rail-reading-curated-by-lucia-hinojosa-gaxiola/
 ---
