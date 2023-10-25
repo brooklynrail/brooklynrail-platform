@@ -2,8 +2,8 @@
 title: Perpetual Screw
 deck: Featuring Nate Heiges, Matt Taber, and Gaby Collins-Fernandez
 summary: "International Obejcts Founders Nate Hieges and Matt Taber join Rail
-  contributor Gaby Collins-Fernandez for a conversation. We conclude with a
-  poetry reading. "
+  contributor Gaby Collins-Fernandez for a conversation at a special time of
+  12:30 p.m. EST. We conclude with a poetry reading. "
 people:
   - person: gaby-collins-fernandez
 date: 2023-10-30T12:30:00-0500
