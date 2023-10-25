@@ -7,6 +7,7 @@ summary: Print Center New York Director of Exhibitions & Programs Jenn Bratovich
   reading.
 people:
   - person: jenn-bratovich
+  - person: lauren-rosenblum
   - person: christina-weyl
   - person: jennifer-field
 date: 2023-10-31T13:00:00-0500
