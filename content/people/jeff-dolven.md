@@ -7,7 +7,7 @@ short_bio: "**Jeff Dolven** teaches poetry and poetics at Princeton University,
   topics ranging from player pianos to quantitative meter to handle theory, and
   is the author of _Take Care,_ in _Cabinet_’s series of twenty-four hour books.
   He is also the editor of _Cabinet_’s forthcoming collection of psychedelic
-  grammar exercises, The Virtual Sentence. "
+  grammar exercises, _The Virtual Sentence._"
 portraits:
   - media: 2023/10/jeff-dolven
 ---
