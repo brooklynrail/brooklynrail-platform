@@ -23,4 +23,4 @@ event_platform:
   - zoom
 soldout: false
 ---
-[V﻿isit *Sydney Vernon*, on view at Kapp Kapp, New York through Novemebr 3, 2023 →  ](https://www.kappkapp.com/exhibitions/sydney-vernon/media/793)
+[V﻿isit *Sydney Vernon*, on view at Kapp Kapp, New York through November 3, 2023 →  ](https://www.kappkapp.com/exhibitions/sydney-vernon/media/793)
