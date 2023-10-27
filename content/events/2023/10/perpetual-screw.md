@@ -1,7 +1,7 @@
 ---
 title: Perpetual Screw
 deck: Featuring Matt Taber, Nate Heiges, Phyllis Baldino, and Gaby Collins-Fernandez
-summary: International Obejcts Founders Matt Taber and Nate Hieges and artist
+summary: International Objects founders Matt Taber and Nate Hieges and artist
   Phyllis Baldino join Rail contributor Gaby Collins-Fernandez for a
   conversation at a special time of 12:30 p.m. EST. We conclude with a poetry
   reading by a member of the Rail team.
