@@ -2,10 +2,10 @@
 name: Louis Block
 first_name: Louis
 last_name: Block
-short_bio: "**Louis Block** is a Brooklyn based painter and writer. His writing
+short_bio: "**Louis Block** is a Brooklyn-based painter and writer. His writing
   has appeared in the _Brooklyn Rail, Hyperallergic,_ and _Full Bleed Journal,_
-  and his work has been shown in Baltimore, Philadelphia, New Jersey, and
-  Venice."
+  and his work has been shown in New York, Baltimore, Philadelphia, New Jersey,
+  and Venice."
 portraits:
   - media: 2020/09/louis-block
 relationship:
