@@ -3,7 +3,8 @@ title: "A Model Workshop: Margaret Lowengrund and the Contemporaries"
 deck: Featuring Jenn Bratovich, Lauren Rosenblum, Christine Weyl, and Jennifer Field
 summary: Curators Christina Weyl and Lauren Rosenblum, and Print Center New York
   Director of Exhibitions & Programs Jenn Bratovich join Rail contributor
-  Jennifer Field for a conversation. We conclude with a poetry reading.
+  Jennifer Field for a conversation. We conclude with a poetry reading by a
+  member of the Rail team.
 people:
   - person: jenn-bratovich
   - person: lauren-rosenblum
