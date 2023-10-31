@@ -1,11 +1,13 @@
 ---
 title: "Steve DiBenedetto: Uncertainty Takes a Holiday"
-deck: Featuring DiBenedetto and Dan Nadel
+deck: Featuring DiBenedetto and Dan Nadel, with James Sherry
 summary: Artist Steve DiBenedetto joins Rail contributor Dan Nadel for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading by James Sherry.
 people:
   - person: steve-dibenedetto
   - person: dan-nadel
+poets:
+  - person: james-sherry
 date: 2023-11-06T13:00:00-0500
 end_date: 2023-11-06T14:30:00-0500
 series: 935
