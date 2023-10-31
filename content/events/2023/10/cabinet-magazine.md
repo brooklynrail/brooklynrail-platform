@@ -3,7 +3,7 @@ title: Cabinet
 deck: Featuring Sina Najafi, Jeff Dolven, and Louis Block
 summary: Cabinet magazine Editor-in-Chief Sina Najafi and Editor-at-Large Jeff
   Dolven join Rail Managing Director Louis Block for a conversation. We conclude
-  with a poetry reading by a member of the Rail team.
+  with a poetry reading Dolven.
 people:
   - person: sina-najafi
   - person: jeff-dolven
