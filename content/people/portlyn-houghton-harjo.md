@@ -1,5 +1,5 @@
 ---
-name: Portlyn Houghton Harjo
+name: Portlyn Houghton-Harjo
 first_name: Portlyn
 last_name: Houghton Harjo
 short_bio: "**Portlyn Houghton-Harjo** is a Mvskoke and Seminole writer from the
