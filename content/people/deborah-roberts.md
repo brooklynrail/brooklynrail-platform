@@ -2,9 +2,9 @@
 name: Deborah Roberts
 first_name: Deborah
 last_name: Roberts
-short_bio: Combining collage with mixed media, **Deborah Roberts’** figurative
+short_bio: Combining collage with mixed media, **Deborah Roberts’s** figurative
   works depict the complexity of Black subjecthood and explore themes of race,
-  identity and gender politics. Roberts’ use of collage reflects the challenges
+  identity and gender politics. Roberts’s use of collage reflects the challenges
   encountered by young Black children as they strive to build their identity,
   particularly as they respond to preconceived social constructs perpetuated by
   the Black community, the white gaze and visual culture at large. Combining a
