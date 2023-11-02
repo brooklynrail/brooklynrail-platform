@@ -6,6 +6,7 @@ summary: "Artist Deborah Roberts joins curators Zoraida Lopez-Diago and
 people:
   - person: deborah-roberts
   - person: zoraida-lopez-diago
+  - person: scheherazade-tillet
 date: 2023-11-07T13:00:00-0500
 end_date: 2023-11-07T14:30:00-0500
 series: 936
