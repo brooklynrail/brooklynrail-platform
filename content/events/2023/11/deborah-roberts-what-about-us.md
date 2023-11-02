@@ -1,8 +1,8 @@
 ---
 title: "Deborah Roberts: What About Us?"
 deck: Featuring Roberts and Zoraida Lopez-Diago
-summary: "Artist Deborah Roberts joins Zoraida Lopez-Diago for a conversation.
-  We conclude with a poetry reading. "
+summary: "Artist Deborah Roberts joins curator Zoraida Lopez-Diago for a
+  conversation. We conclude with a poetry reading. "
 people:
   - person: deborah-roberts
   - person: zoraida-lopez-diago
