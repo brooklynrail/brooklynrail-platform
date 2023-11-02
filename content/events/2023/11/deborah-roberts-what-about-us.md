@@ -1,10 +1,11 @@
 ---
 title: "Deborah Roberts: What About Us?"
-deck: Featuring Roberts and Rail host to be announced
-summary: "Artist Deborah Roberts joins Rail host for a conversation. We conclude
-  with a poetry reading. "
+deck: Featuring Roberts and Zoraida Lopez-Diago
+summary: "Artist Deborah Roberts joins Zoraida Lopez-Diago for a conversation.
+  We conclude with a poetry reading. "
 people:
   - person: deborah-roberts
+  - person: zoraida-lopez-diago
 date: 2023-11-07T13:00:00-0500
 end_date: 2023-11-07T14:30:00-0500
 series: 936
