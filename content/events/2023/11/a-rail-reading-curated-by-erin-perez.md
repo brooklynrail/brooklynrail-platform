@@ -1,10 +1,11 @@
 ---
-title: A Rail Reading curated by Erin Pérez
+title: "A Poem Called Poem: A Rail Reading curated by Erin Pérez"
 deck: Featuring Pérez, Portlyn Houghton-Harjo, Bailey Cohen-Vera and Abby Romine
 summary: Erin Pérez curates our 158th Wednesday Poetry Reading with Portlyn
   Houghton-Harjo, Bailey Cohen-Vera and Abby Romine.
 people:
   - person: portlyn-houghton-harjo
+  - person: bailey-cohen-vera
   - person: abby-romine
   - person: erin-perez
 date: 2023-11-08T13:00:00-0500
