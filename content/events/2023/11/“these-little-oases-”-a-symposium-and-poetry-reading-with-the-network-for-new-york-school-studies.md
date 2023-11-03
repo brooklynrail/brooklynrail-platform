@@ -2,9 +2,9 @@
 title: “these little oases:” A Symposium and Poetry Reading with the Network for
   New York School Studies
 deck: Audio Recording
-summary: On Veteran's Day, join us in listening to the recording of “these
+summary: On Veteran’s Day, join us in listening to the recording of “these
   little oases:” A Symposium and Poetry Reading with the Network for New York
-  School Studies.
+  School Studies, hosted by the Brooklyn Rail on October 28, 2023.
 date: 2023-11-10T00:00:00-0500
 end_date: 2023-11-10T23:59:00-0500
 series: 939
