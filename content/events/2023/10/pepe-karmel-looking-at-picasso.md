@@ -1,11 +1,13 @@
 ---
 title: "Pepe Karmel: Looking at Picasso"
-deck: Featuring Pepe Karmel and Joachim Pissarro
-summary: "Art historian Pepe Karmel joins Rail consulting editor Joachim
-  Pissarro for a conversation. We conclude with a poetry reading. "
+deck: Featuring Pepe Karmel and Joachim Pissarro, with Shin Yu Pai
+summary: Art historian Pepe Karmel joins Rail consulting editor Joachim Pissarro
+  for a conversation. We conclude with a poetry reading by Shin Yu Pai.
 people:
   - person: pepe-karmel-2
   - person: joachim-pissaro
+poets:
+  - person: shin-yu-pai
 date: 2023-11-09T13:00:00-0500
 end_date: 2023-11-09T14:30:00-0500
 series: 938
