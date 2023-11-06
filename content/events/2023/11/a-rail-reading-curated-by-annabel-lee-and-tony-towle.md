@@ -1,6 +1,6 @@
 ---
 title: A Rail Reading curated by Annabel Lee and Tony Towle
-deck: Featuring, Lee, Towle, and friends
+deck: Featuring Lee, Towle, and friends
 summary: Annabel Lee and Tony Towle curate our 159th Wednesday Poetry Reading.
 people:
   - person: annabel-lee
