@@ -14,4 +14,5 @@ short_bio: "**Pepe Karmel** is a Professor in the Department of Art History, New
 portraits:
   - media: 2023/10/pepe-karmel
 rail_contributor_url: https://brooklynrail.org/contributor/pepe-karmel
+website: https://as.nyu.edu/faculty/pepe-karmel.html
 ---
