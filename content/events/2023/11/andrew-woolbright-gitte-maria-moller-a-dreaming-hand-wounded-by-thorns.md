@@ -6,6 +6,7 @@ summary: "Artists Andrew Woolbright and Gitte Maria Möller join Rail
   reading. "
 people:
   - person: andrew-paul-woolbright
+  - person: gitte-maria-moller
   - person: tom-mcglynn
 date: 2023-11-13T13:00:00-0500
 end_date: 2023-11-13T14:30:00-0500
