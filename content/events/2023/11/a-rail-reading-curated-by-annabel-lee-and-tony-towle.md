@@ -1,7 +1,7 @@
 ---
-title: A Rail Reading curated by Annabel Lee and Tony Towle
-deck: Featuring Lee, Towle, and friends
-summary: Annabel Lee and Tony Towle curate our 159th Wednesday Poetry Reading.
+title: "Autumn Extension: A Rail Reading curated by Annabel Lee and Tony Towle"
+deck: Featuring Lee and Towle
+summary: Annabel Lee and Tony Towle read for our 159th Wednesday Poetry Reading.
 people:
   - person: annabel-lee
   - person: tony-towle
