@@ -8,6 +8,8 @@ people:
   - person: andrew-paul-woolbright
   - person: gitte-maria-moller
   - person: tom-mcglynn
+poets:
+  - person: katie-naughton
 date: 2023-11-13T13:00:00-0500
 end_date: 2023-11-13T14:30:00-0500
 series: 940
