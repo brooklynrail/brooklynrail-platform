@@ -1,10 +1,11 @@
 ---
 title: "Aesthetic Confessions: Miguel Abreu "
-deck: Featuring Abreu and Rail host to be announced, with David Blair
-summary: Gallerist Miguel Abreu joins Rail host for a conversation. We conclude
-  with a poetry reading by David Blair.
+deck: Featuring Abreu and Raphael Rubinstein, with David Blair
+summary: Gallerist Miguel Abreu joins Rail Editor-at-Large Raphael Rubinstein
+  for a conversation. We conclude with a poetry reading by David Blair.
 people:
   - person: miguel-abreu
+  - person: raphael-rubinstein-1
 poets:
   - person: david-blair
 date: 2023-11-16T13:00:00-0500
