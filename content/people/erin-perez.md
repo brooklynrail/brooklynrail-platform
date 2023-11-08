@@ -7,5 +7,6 @@ short_bio: "**Erin Pérez** is prone to cavities, writes poems, and is the
   in Brooklyn."
 portraits:
   - media: 2022/09/erin-perez
+instagram: e.e.p___
 twitter: e__e__p__
 ---
