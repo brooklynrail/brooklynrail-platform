@@ -1,9 +1,9 @@
 ---
 title: "Andrew Woolbright & Gitte Maria Möller: A dreaming hand, wounded by thorns"
-deck: Featuring Woolbright, Möller, and Tom McGlynn
-summary: "Artists Andrew Woolbright and Gitte Maria Möller join Rail
+deck: Featuring Woolbright, Möller, and Tom McGlynn, with Katie Naughton
+summary: Artists Andrew Woolbright and Gitte Maria Möller join Rail
   Editor-at-Large Tom McGlynn for a conversation. We conclude with a poetry
-  reading. "
+  reading by Katie Naughton.
 people:
   - person: andrew-paul-woolbright
   - person: gitte-maria-moller
