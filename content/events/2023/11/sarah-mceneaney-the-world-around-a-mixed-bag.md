@@ -1,5 +1,5 @@
 ---
-title: "Sarah McEneaney: The World Around: A Mixed Bag"
+title: "Sarah McEneaney: The World Around"
 deck: Featuring McEneaney and Rail host to be announced
 summary: Artist Sarah McEneaney joins Rail host for a conversation. We conclude
   with a poetry reading.
