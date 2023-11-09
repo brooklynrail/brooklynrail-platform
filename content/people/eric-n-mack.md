@@ -14,7 +14,7 @@ short_bio: "Using fabric and other found objects, **Eric N. Mack** (b. 1987,
   collections of Albright-Knox Art Gallery, The Studio Museum in Harlem and the
   Whitney. Mack lives and works in New York. "
 portraits:
-  - media: eric-n-mack
+  - media: 2023/11/eric-n-mack
 website: https://www.paulacoopergallery.com/artists/eric-n-mack
 instagram: ernatmack
 ---
