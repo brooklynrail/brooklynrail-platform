@@ -10,8 +10,9 @@ short_bio: Born in Munich, Germany, Philadelphia-based artist **Sarah
   medium in which she often paints. Sarah’s paintings are an invitation into the
   story of a life lived. McEneaney’s work is in numerous collections and she has
   had regular solo gallery exhibitions in New York since 2001 and Philadelphia
-  since 1979. She has been awarded artist residencies at Ballinglen Arts
-  Foundation, the Joan Mitchell Center, the Chinati Foundation, among others.
+  since 1979. She has been awarded artist residencies at Tyrone Guthrie Centre,
+  Ballinglen Arts Foundation, the Joan Mitchell Center, the Chinati Foundation,
+  among others.
 portraits:
   - media: 2023/11/sarah-mceneaney
 instagram: sarahmce
