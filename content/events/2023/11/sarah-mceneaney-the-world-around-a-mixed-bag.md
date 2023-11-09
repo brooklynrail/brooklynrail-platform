@@ -1,10 +1,11 @@
 ---
 title: "Sarah McEneaney: The World Around"
-deck: Featuring McEneaney and Rail host to be announced
-summary: Artist Sarah McEneaney joins Rail host for a conversation. We conclude
-  with a poetry reading.
+deck: "Featuring McEneaney and Amanda Millet-Sorsa. "
+summary: Artist Sarah McEneaney joins Rail contributor Amanda Millet-Sorsa for a
+  conversation. We conclude with a poetry reading.
 people:
   - person: sarah-mceneaney
+  - person: amanda-millet-sorsa
 date: 2023-11-17T13:00:00-0500
 end_date: 2023-11-17T14:30:00-0500
 series: 944
