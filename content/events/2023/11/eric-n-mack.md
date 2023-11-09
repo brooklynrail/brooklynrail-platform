@@ -5,6 +5,7 @@ summary: Artist Eric N. Mack joins Rail contributor William Corwin for a
   conversation. We conclude with a poetry reading.
 people:
   - person: william-corwin
+  - person: eric-n-mack
 date: 2023-11-14T13:00:00-0500
 end_date: 2023-11-14T14:30:00-0500
 series: 941
