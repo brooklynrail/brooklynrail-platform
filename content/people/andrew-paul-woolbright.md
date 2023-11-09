@@ -10,7 +10,7 @@ short_bio: Artist, curator, and critic **Andrew Woolbright** is based in
   the _Brooklyn Rail_. In 2021, Woolbright curated the show _Density Betrays Us_
   with Angela Dufresne and Cash Ragona at the Hole; and curated shows at
   Provincetown Fine Arts Work Center and Hesse Flatow in the summer or 2022. He
-  currently teaches at School of Visual Arts and Pratt Insititute and is a
+  currently teaches at School of Visual Arts and Pratt Institute and is a
   2021-2022 resident at the Sharpe Walentas Studio Program in Dumbo.
 portraits:
   - media: 2021/03/andrew-paul-woolbright
