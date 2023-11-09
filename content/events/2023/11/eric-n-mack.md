@@ -19,6 +19,6 @@ event_platform:
   - zoom
 soldout: false
 ---
-[V﻿isit *Eric N. Mack,*](https://www.paulacoopergallery.com/exhibitions/eric-n-mack3#tab:slideshow;tab-1:thumbnails)[V﻿isit *Eric N. Mack*, on view at Paula Cooper Gallery, New York through December 16, 2023 →](https://www.paulacoopergallery.com/exhibitions/eric-n-mack3#tab:slideshow;tab-1:thumbnails)
+[V﻿isit *Eric N. Mack*, on view at Paula Cooper Gallery, New York through December 16, 2023 →](https://www.paulacoopergallery.com/exhibitions/eric-n-mack3#tab:slideshow;tab-1:thumbnails)
 
 [](https://www.paulacoopergallery.com/exhibitions/eric-n-mack3#tab:slideshow;tab-1:thumbnails)
