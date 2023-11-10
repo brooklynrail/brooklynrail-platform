@@ -1,6 +1,6 @@
 ---
 title: "Sarah McEneaney: The World Around"
-deck: "Featuring McEneaney and Amanda Millet-Sorsa. "
+deck: Featuring McEneaney and Amanda Millet-Sorsa
 summary: Artist Sarah McEneaney joins Rail contributor Amanda Millet-Sorsa for a
   conversation. We conclude with a poetry reading.
 people:
