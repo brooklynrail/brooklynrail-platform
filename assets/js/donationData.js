@@ -16,7 +16,7 @@ jQuery(document).ready(function($) {
 			cache:false,
 			success: getDonationData,
 			error:function(jqXHR, textStatus, errorThrown){
-				console.log('error getting Hat Data');
+				console.log('error getting Donation Data');
 				console.log(errorThrown);
 			}
 		});
@@ -25,10 +25,11 @@ jQuery(document).ready(function($) {
 	
 
 	function getDonationData(data){
+		console.log("data", data);
 		// Get the Array of records
 		jQuery(data.records).each(function(i, item) {
-			var goal = 150000;
-			var currentAmount = item.fields['Total'];
+			var goal = 200000;
+			var currentAmount = item.fields['Gross'];
 			if (!!currentAmount && currentAmount != ""){
 				var percentComplete = (currentAmount/goal)*100;
 				var percentComplete = percentComplete > 10 ? (Math.round(percentComplete * 100) / 100)  : 15;
