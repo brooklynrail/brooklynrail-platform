@@ -1,11 +1,13 @@
 ---
 title: Eric N. Mack
-deck: Featuring Mack and William Corwin
+deck: Featuring Mack and William Corwin, with Mohammed Zenia
 summary: Artist Eric N. Mack joins Rail contributor William Corwin for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading by Mohammed Zenia.
 people:
   - person: eric-n-mack
   - person: william-corwin
+poets:
+  - person: mohammed-zenia
 date: 2023-11-14T13:00:00-0500
 end_date: 2023-11-14T14:30:00-0500
 series: 941
