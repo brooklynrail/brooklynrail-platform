@@ -1,11 +1,13 @@
 ---
 title: "Sarah McEneaney: The World Around"
-deck: Featuring McEneaney and Amanda Millet-Sorsa
+deck: Featuring McEneaney and Amanda Millet-Sorsa, with Rachel James
 summary: Artist Sarah McEneaney joins Rail contributor Amanda Millet-Sorsa for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading by Rachel James.
 people:
   - person: sarah-mceneaney
   - person: amanda-millet-sorsa
+poets:
+  - person: rachel-james
 date: 2023-11-17T13:00:00-0500
 end_date: 2023-11-17T14:30:00-0500
 series: 944
