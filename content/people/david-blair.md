@@ -11,4 +11,7 @@ short_bio: "**David Blair** was born in New York City and grew up in Pittsburgh,
   years."
 portraits:
   - media: 2022/11/david-blair
+rail_contributor_url: https://brooklynrail.org/contributor/David-Blair
+website: https://www.davidblairpoetry.com/
+twitter: BlairWalkAround
 ---
