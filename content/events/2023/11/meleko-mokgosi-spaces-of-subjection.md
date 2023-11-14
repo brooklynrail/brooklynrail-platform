@@ -19,4 +19,4 @@ event_platform:
   - zoom
 soldout: false
 ---
-V﻿isit *Spaces of Subjection: Parts 1 to 5*, on view at Jack Shainman Gallery  through December 22, 2023 →
+[V﻿isit *Spaces of Subjection: Parts 1 to 5*, on view at Jack Shainman Gallery  through December 22, 2023 →](https://jackshainman.com/exhibitions/meleko_mokgosi9)
