@@ -2,7 +2,7 @@
 title: Particular Waters (2023)
 deck: Directed by Su Yu Hsin
 summary: "Join us for a virtual screening curated by Alice, Nien-Pu Ko on the
-  occasion of Between Waves: Singing in Unison Pt. 8, an exhibition curated by
+  occasion of Singing in Unison Part 8: Between Waves, an exhibition curated by
   Ko that explores the Asia-Pacific region through the interconnectedness of
   islands and oceans linked by transformative technology. Register to receive a
   24-hour access link and password to Particular Waters (2023)."
