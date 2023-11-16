@@ -24,3 +24,5 @@ soldout: false
 {{< image media="2023/11/funeral-2018" size="lg" >}}
 
 *Funeral* is a story centered on a family of two; Thun and Deoun, the children of the dead, and a herb planter (an old lady). Deoun, a very young daughter possesses the natural power which allows her to see the mysteries happening around her, whereas Thun, the brother, feels normal about everything around him. The herb planter (old lady), a thinker type, could only imagine a future of an arrival of evil; she can’t do anything as she presumes that life is the mythical gestures in front of the gigantic empty mirror where every soul must pass by.
+
+[M﻿ore on *Between Waves* →](https://singing-in-unison.brooklynrail.org/)
