@@ -1,8 +1,8 @@
 ---
 title: "Meleko Mokgosi: Spaces of Subjection"
-deck: Featuring Mokgosi and Zoë Hopkins
+deck: Featuring Mokgosi and Zoë Hopkins, with Aristilde Kirby
 summary: Artist Meleko Mokgosi joins Rail contributor Zoë Hopkins for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading by Aristilde Kirby.
 people:
   - person: meleko-mokgosi
   - person: zoe-hopkins
