@@ -6,6 +6,8 @@ summary: Artist Meleko Mokgosi joins Rail contributor Zoë Hopkins for a
 people:
   - person: meleko-mokgosi
   - person: zoe-hopkins
+poets:
+  - person: aristilde-kirby
 date: 2023-11-20T13:00:00-0500
 end_date: 2023-11-20T14:30:00-0500
 series: 945
