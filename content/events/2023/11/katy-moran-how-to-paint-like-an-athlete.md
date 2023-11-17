@@ -1,11 +1,13 @@
 ---
 title: "Katy Moran: How to paint like an athlete"
-deck: Featuring Moran and Andrew Woolbright
+deck: Featuring Moran and Andrew Woolbright, with Mel Elberg
 summary: Artist Katy Moran joins Rail Editor-at-Large Andrew Woolbright for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading by Mel Elberg.
 people:
   - person: katy-moran
   - person: andrew-paul-woolbright
+poets:
+  - person: mel-elberg-1
 date: 2023-11-21T13:00:00-0500
 end_date: 2023-11-21T14:30:00-0500
 series: 946
