@@ -5,7 +5,9 @@ deck: "Featuring Terazawa, Sylvia Chan, Fatima-Ayan Malika Hirsi, Aria Pahari,
 summary: Sophia Terazawa curates our 160th Wednesday Poetry Reading with Sylvia
   Chan, Fatima-Ayan Malika Hirsi, Aria Pahari, and Leah Tieger.
 people:
+  - person: sylvia-chan
   - person: fatima-ayan-malika-hirsi
+  - person: aria-pahari
   - person: leah-tieger
   - person: sophia-terazawa-1
 date: 2023-11-29T13:00:00-0500
