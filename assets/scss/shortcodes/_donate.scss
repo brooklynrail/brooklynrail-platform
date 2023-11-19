@@ -145,13 +145,13 @@
             @include u-width("full");
           }
         }
-        #mailAddress {
+        #mailAddress, #wireAddress {
           @include u-display('none');
         }
       }
     }
   }
-  #mailAddress {
+  #mailAddress, #wireAddress {
     @include u-display('none');
     pre {
       @include u-margin(0);

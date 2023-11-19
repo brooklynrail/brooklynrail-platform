@@ -1,24 +1,22 @@
 ---
 title: Donate to the Brooklyn Rail
 headline: Donate to the Brooklyn Rail
-# deck: Help us raise $150,000 for our Winter Campaign
+blurb: Help us raise $200,000
+deck: We're expanding access to our free critical arts writing, daily live artist conversations, and cutting-edge curatorial projects.
 summary: Your generous support keeps the Rail independent, relevant, and free
 ---
 
-Dear Friends and Readers,
+For the last twenty-three years, the Brooklyn Rail has worked tirelessly to ensure that important, primary arts information is being spread around the world at no cost to readers. We publish reviews, interviews, and critical essays about fine art, music, dance, theater, books, art books, politics, and—as of this year—architecture, and publish original poetry, fiction, theater writings, and translations.
 
-For 22 years the Brooklyn Rail has remained free for all, and has been home to critical writing on art, dance, film, music, theater, art books, literature, and world politics. 
+“[**The New Social Environment**](https://www.youtube.com/playlist?list=PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY),” our daily Zoom conversation series, was an immediate reaction to the pandemic lockdowns that sought to keep people connected at a time where distance was a necessity. February 2024 will mark the thousandth episode of the series, which hosts artists, poets, activists, and other essential figures every weekday.
 
-In addition to our illustrious print journal, this December will mark [**700 live conversations**](https://www.youtube.com/playlist?list=PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY) on the New Social Environment, our daily Zoom conversation series. 
+In January, Rail Curatorial Projects celebrated the closing of [**Singing in Unison**](https://brooklynrail.org/2022/09/art/Singing-in-Unison-at-Industry-City), Part 7, a large-scale exhibition featuring over sixty artists in a newly renovated 16,000 square foot space. This fall, Rail Curatorial Projects returned to the venue to open Singing in Unison, Part 8, Between Waves, an exhibition encompassing contemporary images, stories, histories, and oceanic myths through the works of artists from the Asia-Pacific region.
 
-This year we also launched the first seven editions of [**Singing in Unison**](https://brooklynrail.org/2022/09/art/Singing-in-Unison-at-Industry-City), a multi-venue exhibition series that has brought together over 200 artists—young and old, taught and self-taught—as a celebration of the “Art of Joining” in our communities of the arts and humanities. 
-
-We are committed to making the arts accessible, which is why we’ve increased our distribution to over [**120 locations**](https://brooklynrail.org/where-to-find-us) throughout New York City and beyond, while now reaching a readership of nearly 3 million globally.
-
+We are committed to making the arts accessible, which is why we’ve increased our free distribution to over [**200 locations**](https://brooklynrail.org/where-to-find-us) throughout New York City and 29 states, while reaching a readership of nearly three million globally.
 
 ### As a small non-profit, we need your support  
 
-Your contribution allows us to support the writers, editors, and designers who produced over 1,000 articles in print this year, as well as the artists, performers, and interviewers who make possible our endless public programming—including daily installments of the New Social Environment, poetry, music and dance performances, panel discussions, and 7 exhibits this year.
+Your contribution allows us to support the writers, editors, and designers who produced over 1,000 articles in print this year, as well as the artists, performers, and interviewers who make possible our endless public programming—including daily installments of the “New Social Environment,” poetry, music and dance performances, panel discussions, and curatorial projects.
 
 - [Read through our archive of over 200 issues »](https://brooklynrail.org/archives)
 - [Explore our archive of the New Social Environment (700+ episodes) »](https://www.youtube.com/playlist?list=PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY)
