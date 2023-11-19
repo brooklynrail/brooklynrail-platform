@@ -68,7 +68,7 @@ jQuery(document).ready(function($) {
 	function getFee(current_val){
 		if (current_val == 0){ return 0 }
 
-		var _fee = { Percent: 2.9, Fixed: 1.50 }
+		var _fee = { Percent: 2.9, Fixed: 0.30 }
 		var amount = parseFloat(current_val);
 
 		// get the new Total
@@ -168,10 +168,18 @@ jQuery(document).ready(function($) {
 
 	// Mail a check
 	// =======================
-	$('#showAddress a').click(function(e){
+	$('#showAddress .mail').click(function(e){
 		e.preventDefault();
 		$('#mailAddress').toggle();
-		
+		$('#wireAddress').hide();
+	});
+
+	// Send a wire
+	// =======================
+	$('#showAddress .wire').click(function(e){
+		e.preventDefault();
+		$('#mailAddress').hide();
+		$('#wireAddress').toggle();
 	});
 
 
@@ -314,7 +322,7 @@ jQuery(document).ready(function($) {
 			document.getElementById('countdown').innerHTML = '<span>' + days + ' <span>days</span></span> ';
 			document.getElementById('countdown').innerHTML += '<span>' + hours + ' <span>hours</span></span> ';
 			document.getElementById('countdown').innerHTML += '<span>' + minutes + ' <span>mins</span></span> ';
-			document.getElementById('countdown').innerHTML += '<span>' + seconds + ' <span>secs</span></span>';
+			// document.getElementById('countdown').innerHTML += '<span>' + seconds + ' <span>secs</span></span>';
 		}
 	}
 
