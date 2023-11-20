@@ -37,8 +37,8 @@ rail_data(
     "items" : [
     {{- range $index, $page := $future_events -}}
     {
-      "title" : "{{- .Title | htmlEscape -}}",
-      "deck" : "{{- with .Params.deck -}}{{- . | htmlEscape -}}{{- end -}}",
+      "title" : "{{- .Title | markdownify | htmlEscape | jsonify -}}",
+      "deck" : "{{- with .Params.deck -}}{{- . | markdownify | htmlEscape | jsonify -}}{{- end -}}",
       "summary" : "{{ with .Summary -}}{{- .| markdownify -}}{{- end -}}",
       "date" : "{{ with .Date -}}{{ . | dateFormat "2006-01-02T15:04:05Z07:00" -}}{{- end -}}",
       "date_modified" : "{{ with .Lastmod -}}{{ . | dateFormat "2006-01-02T15:04:05Z07:00" -}}{{- end -}}",
