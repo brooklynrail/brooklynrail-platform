@@ -1,0 +1,9 @@
+---
+name: Pamela M. Lee
+first_name: Pamela
+last_name: Lee
+short_bio: "**Pamela M. Lee** teaches art history at Yale University. She is
+  currently writing a book on the concept of small war and contemporary art."
+website: https://arthistory.yale.edu/people/pamela-lee
+instagram: pamelam.lee
+---
