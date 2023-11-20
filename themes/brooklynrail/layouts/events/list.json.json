@@ -1,6 +1,11 @@
 {{/* Gets all events */}}
 {{- $events := where $.Site.RegularPages  "Section" "events" -}}
-{{- $length := (len $events) -}}
+{{/* Upcoming Events ==================== */}}
+{{/* Gets all $events with a date greater than or equal to today */}}
+{{- $future_events := where $events "Date" "ge" (now.AddDate 0 0 -1) -}}
+{{/* Reverses the order of the events, so the next event is at the top */}}
+{{- $future_events := $future_events.Reverse -}}
+{{- $length := (len $future_events) -}}
 {
     "version" : "https://jsonfeed.org/version/1",
     "content" : "{{- .Type -}}",
@@ -29,7 +34,7 @@
 
     {{/*  {{- dict "events" $events | jsonify -}}  */}}
     "items" : [
-    {{- range $index, $page := $events -}}
+    {{- range $index, $page := $future_events -}}
     {
       "title" : {{- .Title | jsonify -}},
       "deck" : "{{- with .Params.deck -}}{{- . | markdownify -}}{{- end -}}",
@@ -38,9 +43,9 @@
       "date_modified" : "{{ with .Lastmod -}}{{ . | dateFormat "2006-01-02T15:04:05Z07:00" -}}{{- end -}}",
       "start_date" : "{{- with .Date -}}{{ . | dateFormat "2006-01-02T15:04:05Z07:00" -}}{{- end -}}",
       "end_date" : "{{- with .Params.end_date -}}{{- . | dateFormat "2006-01-02T15:04:05Z07:00" -}}{{- end -}}",
-      {{ template "list_data" (dict "page" $page "key" "event_organizer" ) }}
-      {{ template "list_data" (dict "page" $page "key" "event_producer" ) }}
-      {{ template "list_data" (dict "page" $page "key" "collections" ) }}
+      {{/* template "list_data" (dict "page" $page "key" "event_organizer" ) */}}
+      {{/* template "list_data" (dict "page" $page "key" "event_producer" ) */}}
+      {{/* template "list_data" (dict "page" $page "key" "collections" ) */}}
       "registration_url" : "{{- with .Params.registration_url -}}{{- . -}}{{- end -}}",
       "branch" : {{ $.Scratch.Get "branch" | jsonify }},
       "filename" : {{- with .File -}}{{- .LogicalName | jsonify -}}{{- end -}},
