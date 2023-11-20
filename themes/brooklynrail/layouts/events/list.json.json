@@ -1,4 +1,3 @@
-rail_data(
 {{/* Gets all events */}}
 {{- $events := where $.Site.RegularPages  "Section" "events" -}}
 {{/* Upcoming Events ==================== */}}
@@ -37,8 +36,8 @@ rail_data(
     "items" : [
     {{- range $index, $page := $future_events -}}
     {
-      "title" : {{- .Title | markdownify | htmlEscape | jsonify -}},
-      "deck" : {{- with .Params.deck -}}{{- . | markdownify | htmlEscape | jsonify -}}{{- end -}},
+      "title" : {{- .Title | htmlEscape | jsonify -}},
+      "deck" : "{{- with .Params.deck -}}{{- . | urlEscape -}}{{- end -}}",
       "summary" : "{{ with .Summary -}}{{- .| markdownify -}}{{- end -}}",
       "date" : "{{ with .Date -}}{{ . | dateFormat "2006-01-02T15:04:05Z07:00" -}}{{- end -}}",
       "date_modified" : "{{ with .Lastmod -}}{{ . | dateFormat "2006-01-02T15:04:05Z07:00" -}}{{- end -}}",
@@ -84,7 +83,7 @@ rail_data(
     }{{- if ne (add $index 1) $length -}},{{- end -}}
     {{- end -}}
     ]
-})
+}
 
 
 {{/* Template: list_data ============================ */}}
