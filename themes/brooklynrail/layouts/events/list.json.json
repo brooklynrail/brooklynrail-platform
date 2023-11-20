@@ -1,3 +1,4 @@
+rail_data(
 {{/* Gets all events */}}
 {{- $events := where $.Site.RegularPages  "Section" "events" -}}
 {{/* Upcoming Events ==================== */}}
@@ -83,7 +84,7 @@
     }{{- if ne (add $index 1) $length -}},{{- end -}}
     {{- end -}}
     ]
-}
+})
 
 
 {{/* Template: list_data ============================ */}}
