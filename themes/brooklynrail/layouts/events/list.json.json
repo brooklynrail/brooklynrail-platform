@@ -37,7 +37,7 @@ rail_data(
     "items" : [
     {{- range $index, $page := $future_events -}}
     {
-      "title" : {{- .Title | htmlEscape -}},
+      "title" : "{{- .Title | htmlEscape -}}",
       "deck" : "{{- with .Params.deck -}}{{- . | htmlEscape -}}{{- end -}}",
       "summary" : "{{ with .Summary -}}{{- .| markdownify -}}{{- end -}}",
       "date" : "{{ with .Date -}}{{ . | dateFormat "2006-01-02T15:04:05Z07:00" -}}{{- end -}}",
