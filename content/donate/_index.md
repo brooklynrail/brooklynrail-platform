@@ -18,6 +18,6 @@ We are committed to making the arts accessible, which is why we’ve increased o
 
 Your contribution allows us to support the writers, editors, and designers who produced over 1,000 articles in print this year, as well as the artists, performers, and interviewers who make possible our endless public programming—including daily installments of the “New Social Environment,” poetry, music and dance performances, panel discussions, and curatorial projects.
 
-- [Read through our archive of over 200 issues »](https://brooklynrail.org/archives)
-- [Explore our archive of the New Social Environment (700+ episodes) »](https://www.youtube.com/playlist?list=PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY)
+- [Read through our archive of over 240 issues »](https://brooklynrail.org/archives)
+- [Explore our archive of the New Social Environment (940+ episodes) »](https://www.youtube.com/playlist?list=PLmQDwVpMadcLGDOX9VN3sGTh2VYT4RJGY?sub_confirmation=1)
 - [Visit Singing in Unison Part Seven »](https://brooklynrail.org/2022/09/art/Singing-in-Unison-at-Industry-City)
