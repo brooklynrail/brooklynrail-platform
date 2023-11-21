@@ -1,12 +1,13 @@
 ---
 title: "Publishing-in-Transit: The Flow Chart Foundation"
-deck: "Featuring Ryan Cook, Jeffrey Lependorf, and Cole Swensen "
-summary: "Flow Chart Foundation Programs Associate Ryan Cook and Executive
-  Director Jeffrey Lependorf join Rail contributor Cole Swensen for a
-  conversation and reading. "
+deck: "Featuring Jeffrey Lependorf, Ryan Cook, Dara Barrois/Dixon, and Cole Swensen "
+summary: "Flow Chart Foundation Executive Director Jeffrey Lependorf, Programs
+  Associate Ryan Cook, and writer Dara Barrois/Dixon join Rail contributor Cole
+  Swensen for a conversation and reading. "
 people:
-  - person: ryan-cook
   - person: jeffrey-lependorf
+  - person: ryan-cook
+  - person: dara-barrois-dixon
   - person: cole-swensen
 date: 2023-11-30T13:00:00-0500
 end_date: 2023-11-30T14:30:00-0500
