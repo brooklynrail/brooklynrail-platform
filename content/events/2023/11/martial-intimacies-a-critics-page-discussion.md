@@ -7,6 +7,7 @@ summary: Join the Rail’s November 2023 Critics Page contributors for a
   poetry reading.
 people:
   - person: pamela-m-lee
+  - person: joshua-aiken
   - person: charles-schultz
 date: 2023-11-27T13:00:00-0500
 end_date: 2023-11-27T14:30:00-0500
