@@ -4,7 +4,7 @@ first_name: Ilana
 last_name: Harris-Babou
 short_bio: "**Ilana Harris-Babou**’s work is interdisciplinary, spanning
   sculpture, installation, and video. Her work has been exhibited in solo
-  exhibitions throughout the US and Europe. In May 2023, Harris Babou's work
+  exhibitions throughout the US and Europe. In May 2023, Harris-Babou's work
   _Liquid Gold_ took over the screens of Times Square for the Midnight Moment
   program. She has been included in the Istanbul Design Biennial (2020) and The
   Whitney Biennial (2019). Group exhibitions include The Wellcome Collection;
