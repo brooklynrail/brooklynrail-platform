@@ -1,16 +1,18 @@
 ---
 title: "Martial Intimacies: A Critics Page Discussion"
 deck: Featuring Joshua Aiken, Mary Ellen Carroll, Joseph Mizhakiiyaasige Zordan,
-  Pamela M. Lee, and Charles M. Schultz
+  Pamela M. Lee, and Charles M. Schultz, with Anselm Berrigan.
 summary: Join the Rail’s November 2023 Critics Page contributors and Guest
   Critic Pamela M. Lee for a conversation with Rail Managing Editor Charles M.
-  Schultz. We conclude with a poetry reading.
+  Schultz. We conclude with a poetry reading by Anselm Berrigan.
 people:
   - person: joshua-aiken
   - person: mary-ellen-carroll
   - person: joseph-mizhakiiyaasige-zordan
   - person: pamela-m-lee
   - person: charles-schultz
+poets:
+  - person: anselm-berrigan
 date: 2023-11-27T13:00:00-0500
 end_date: 2023-11-27T14:30:00-0500
 series: 950
