@@ -4,6 +4,7 @@ deck: Featuring Burkhart and Jill H. Casid
 summary: Artist Kathe Burkhart joins Rail contributor Jill H. Casid for a
   conversation. We conclude with a poetry reading.
 people:
+  - person: kathe-burkhart-1
   - person: jill-h-casid
 date: 2023-12-04T13:00:00-0500
 end_date: 2023-12-04T14:30:00-0500
