@@ -1,6 +1,6 @@
 ---
-title: "Drawing as Practice: A conversation with Sara Reisman"
-deck: Featuring Reisman and Christina Yang
+title: Drawing as Practice
+deck: Featuring Sara Reisman and Christina Yang
 summary: Curator Sara Reisman joins scholar Christina Yang for a conversation.
   We conclude with a poetry reading.
 people:
@@ -19,4 +19,4 @@ event_platform:
   - zoom
 soldout: false
 ---
-[V﻿isit *Drawing as Practice,* on view at National Academy of Design, New York through December 16, 2023 →](https://nationalacademy.org/calendar/drawing-as-practice)
+[V﻿isit *Drawing as Practice,* on view at The National Academy of Design, New York through December 16, 2023 →](https://nationalacademy.org/calendar/drawing-as-practice)
