@@ -4,6 +4,7 @@ deck: Featuring Sara Reisman and Christina Yang
 summary: Curator Sara Reisman joins scholar Christina Yang for a conversation.
   We conclude with a poetry reading.
 people:
+  - person: sara-reisman
   - person: christina-yang
 date: 2023-12-08T13:00:00-0500
 end_date: 2023-12-08T14:30:00-0500
