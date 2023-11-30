@@ -12,6 +12,6 @@ short_bio: "**Ryan Cook** is a Brooklyn-based genderqueer poet and performer.
   event manager for Futurepoem books. "
 portraits:
   - media: 2023/11/ryan-cook
-instagram: ""
+instagram: ryan_patrick_cook
 twitter: RyanCookpoetry
 ---
