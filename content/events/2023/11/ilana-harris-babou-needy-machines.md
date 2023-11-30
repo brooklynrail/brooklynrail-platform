@@ -1,11 +1,13 @@
 ---
 title: "Ilana Harris-Babou: Needy Machines"
-deck: Featuring Harris-Babou and Charlotte Kent
+deck: Featuring Harris-Babou and Charlotte Kent, with Sissi LoveJoy
 summary: Artist Ilana Harris-Babou joins Rail Editor-at-Large Charlotte Kent for
-  a conversation. We conclude with a poetry reading.
+  a conversation. We conclude with a poetry reading by Sissi LoveJoy.
 people:
   - person: ilana-harris-babou
   - person: charlotte-kent
+poets:
+  - person: sissi-lovejoy
 date: 2023-12-01T11:30:00-0500
 end_date: 2023-12-01T13:00:00-0500
 series: 954
