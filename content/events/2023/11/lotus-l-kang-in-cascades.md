@@ -22,6 +22,6 @@ event_platform:
   - zoom
 soldout: false
 ---
-[V﻿isit *In Cascades*, on view at Contemporary Art Gallery, Vancover through January 7, 2024 →](https://cagvancouver.org/exhibition/lotus-l-kang-in-cascades)
+[V﻿isit *In Cascades*, on view at the Contemporary Art Gallery, Vancouver through January 7, 2024 →](https://cagvancouver.org/exhibition/lotus-l-kang-in-cascades)
 
-[](https://cagvancouver.org/exhibition/lotus-l-kang-in-cascades)
+[](https://cagvancouver.org/exhibition/lotus-l-kang-in-cascades)[](https://cagvancouver.org/exhibition/lotus-l-kang-in-cascades)
