@@ -2,7 +2,7 @@
 title: "A Motley Quintet: A Rail Reading curated by Filip Marinovich "
 deck: Featuring Marinovich, Leah Flax Barber, E. Briskin, Casper Lee, and Ali Pinkney
 summary: Filip Marinovich curates our 161st Wednesday Poetry Reading with  Leah
-  Flax Barber, E. Briskin, Casper Lee, and Ali Pinkney
+  Flax Barber, E. Briskin, Casper Lee, and Ali Pinkney.
 people:
   - person: leah-flax-barber
   - person: e-briskin
