@@ -1,11 +1,13 @@
 ---
 title: Kathe Burkhart
-deck: Featuring Burkhart and Jill H. Casid
+deck: Featuring Burkhart and Jill H. Casid, with Stephanie Young
 summary: Artist Kathe Burkhart joins Rail contributor Jill H. Casid for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading by Stephanie Young.
 people:
   - person: kathe-burkhart-1
   - person: jill-h-casid
+poets:
+  - person: stephanie-young
 date: 2023-12-04T13:00:00-0500
 end_date: 2023-12-04T14:30:00-0500
 series: 955
