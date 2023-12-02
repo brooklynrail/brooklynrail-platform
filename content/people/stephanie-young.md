@@ -13,5 +13,5 @@ short_bio: "**Stephanie Young**'s books of poetry and prose include _Pet Sounds,
   Practice, and Harriet. Young teaches writing at Mills College at Northeastern
   University. She is a member of the Krupskaya Books editorial collective. "
 portraits:
-  - media: " 2023/12/stephanie-young"
+  - media: 2023/12/stephanie-young
 ---
