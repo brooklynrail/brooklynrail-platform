@@ -1,11 +1,13 @@
 ---
 title: Drawing as Practice
-deck: Featuring Sara Reisman and Christina Yang
+deck: Featuring Sara Reisman and Christina Yang, with Sallie Fullerton
 summary: Curator Sara Reisman joins scholar Christina Yang for a conversation.
-  We conclude with a poetry reading.
+  We conclude with a poetry reading by Sallie Fullerton.
 people:
   - person: sara-reisman
   - person: christina-yang
+poets:
+  - person: sallie-fullerton
 date: 2023-12-08T13:00:00-0500
 end_date: 2023-12-08T14:30:00-0500
 series: 959
