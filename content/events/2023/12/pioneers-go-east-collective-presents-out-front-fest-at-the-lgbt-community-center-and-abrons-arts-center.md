@@ -12,8 +12,7 @@ event_organizer: null
 event_producer:
   - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/o/pioneers-go-east-collective-32986072425
-event_platform:
-  - zoom
+event_platform: null
 soldout: false
 ---
 A Radical Queer Art + Dance festival championing the voices of LGBTQ and Feminist artists for a lively exchange of art and culture. Curated by Gian Marco Riccardo Lo Forte, Daniel Diaz, Hilary Brown-Istrefi, and Philip Treviño. Presented at The LGBT Community Center from January 10- 15, 2024; and Abrons Arts Center from January 17-20, 2024. The festival features performances by Arthur Aviles and Collaborators, Joey Kipp with Pioneers Go East Collective, Christopher Unpezverde Núñez, Jason Anthony Rodriguez, Paz Tanjuaquio, Ogemdi Ude, and Annie MingHao Wang, as well as films by Fana Fraser, Omega X, and Tourmaline.
