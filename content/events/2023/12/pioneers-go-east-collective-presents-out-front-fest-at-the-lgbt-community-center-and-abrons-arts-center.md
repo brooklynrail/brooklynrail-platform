@@ -5,7 +5,7 @@ deck: January 10–20, 2024
 summary: Radical Queer Art + Dance Performances + films. Low-impact
   workshops. Free and by donation. All are welcome!
 date: 2024-01-10T20:00:00-0500
-end_date: 2023-12-20T20:00:00-0500
+end_date: 2024-01-20T20:00:00-0500
 collections:
   - sponsored-listing
 event_organizer: null
@@ -73,6 +73,8 @@ Christopher Unpezverde Núñez
 *BROOKLYN Papi* (World Premiere)
 Sunday and Monday, January 14-15, at 8pm
 The LGBT Community Center, Theatre 301
+
+{{< image media="2023/12/christopher-unpezverde-nunez" size="lg" >}}
 
 Created by Christopher Unpezverde Núñez and performed by Núñez, Mãr Galeano, and Alfonso "Poncho" Castro, *BROOKLYN Papi* is an ethnography on performative masculinity or “doing gender.” It is an embodied lecture of male iconography and discursive understandings of disability, violence, and trauma. Music is by Alfonso “Poncho” Castro. Design elements by Branden Charles Wallace.
 
