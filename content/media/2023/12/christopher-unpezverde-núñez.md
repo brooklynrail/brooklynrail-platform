@@ -1,7 +1,7 @@
 ---
-media: /media/files/christopher-unpezverde-núñez-by-cherylynn-tsushima.jpg
-title: Christopher Unpezverde Núñez
-alt: Photo of Christopher Unpezverde Núñez
-caption: Photo by Cherylynn Tsushima
-date: 2023-12-04T12:20:00-0500
+media: /media/files/jason-rodriguez-by-henry-kornaros-1.jpg
+title: Jason Rodriguez
+alt: Photo of Jason Rodriguez
+caption: Photo by Henry Kornaros
+date: 2023-12-04T12:21:00-0500
 ---
