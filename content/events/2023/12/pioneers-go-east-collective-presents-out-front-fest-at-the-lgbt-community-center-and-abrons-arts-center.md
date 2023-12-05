@@ -3,7 +3,7 @@ title: Pioneers Go East Collective Presents Out-FRONT! Fest at The LGBT
   Community Center and Abrons Arts Center
 deck: January 10–20, 2024
 summary: Radical Queer Art + Dance Performances + films. Low-impact
-  workshops. Free and by donation. All are welcome!
+  workshops. All are welcome!
 date: 2024-01-10T20:00:00-0500
 end_date: 2024-01-20T20:00:00-0500
 collections:
@@ -18,7 +18,7 @@ soldout: false
 A Radical Queer Art + Dance festival championing the voices of LGBTQ and Feminist artists for a lively exchange of art and culture. Curated by Gian Marco Riccardo Lo Forte, Daniel Diaz, Hilary Brown-Istrefi, and Philip Treviño. Presented at The LGBT Community Center from January 10- 15, 2024; and Abrons Arts Center from January 17-20, 2024. The festival features performances by Arthur Aviles and Collaborators, Joey Kipp with Pioneers Go East Collective, Christopher Unpezverde Núñez, Jason Anthony Rodriguez, Paz Tanjuaquio, Ogemdi Ude, and Annie MingHao Wang, as well as films by Fana Fraser, Omega X, and Tourmaline.
 
 The LGBT Community Center
-208 West 13th Street - New York, NY 10011\
+208 West 13th Street - New York, NY 10011
 
 Abrons Arts Center
 466 Grand St, New York, NY 10002
@@ -26,6 +26,8 @@ Abrons Arts Center
 **T﻿icketing**\
 – Reservations for events at The LGBT Community Center: <https://www.eventbrite.com/o/pioneers-go-east-collective-32986072425>\
 – Reservations for events at Abrons Arts Center: <https://web.ovationtix.com/trs/dept/2214>
+
+All festival events are free with a suggested donation of $25. Reservations are required.
 
 _﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -137,14 +139,14 @@ _﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 **F﻿ilm Screenings**
 
 Saturday, January 13, 5pm-6:30pm
-The LGBT Community Center, Gallery 101\
+The LGBT Community Center, Gallery 101
 
 Interdisciplinary artist Fana Fraser will present a new short film, originally commissioned by TBA21-Academy
 (Thyssen-Bornemisza Art Contemporary) for TBA21 on st_age.\
 \
 A new film by Omega X & Danni. Omega and Danni are trans and nonbinary artists and parents of two kids.
 As queer parents, their vision is to create visibility and possibility for people who look like them. This new
-work is an abstract portrait film exploring the experience of queer parenthood.\
+work is an abstract portrait film exploring the experience of queer parenthood.
 
 *The Personal Things* (2016) is an animated film by writer, filmmaker, and activist Tourmaline, whose practice
 highlights the experiences of Black, queer, and trans communities and their capacity to impact the world.
