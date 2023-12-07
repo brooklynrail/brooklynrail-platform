@@ -10,6 +10,7 @@ people:
   - person: jia-jen-lin
   - person: tita-salina-and-irwan-ahmett
   - person: maya-jeffereis
+  - person: alice-nien-pu-ko
 poets:
   - person: oki-sogumi
 date: 2023-12-15T13:00:00-0500
