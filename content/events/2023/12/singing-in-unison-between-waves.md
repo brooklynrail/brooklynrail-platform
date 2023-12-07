@@ -13,8 +13,8 @@ people:
   - person: alice-nien-pu-ko
 poets:
   - person: oki-sogumi
-date: 2023-12-15T13:00:00-0500
-end_date: 2023-12-15T14:30:00-0500
+date: 2023-12-15T11:00:00-0500
+end_date: 2023-12-15T12:30:00-0500
 series: 964
 collections:
   - the-new-social-environment
