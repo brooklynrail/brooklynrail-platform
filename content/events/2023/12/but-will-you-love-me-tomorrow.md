@@ -6,6 +6,7 @@ summary: Authors Laura Flam and Emily Sieu Liebowitz join Rail Publisher and
   reading.
 people:
   - person: emily-sieu-liebowitz
+  - person: laura-flam
   - person: phong-h-bui
 date: 2023-12-14T13:00:00-0500
 end_date: 2023-12-14T14:30:00-0500
