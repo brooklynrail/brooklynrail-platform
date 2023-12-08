@@ -25,4 +25,4 @@ event_platform:
   - zoom
 soldout: false
 ---
-[V﻿isit *Retinal Hysteria*, on view at Venus Over Manhattan, New York through January 13, 2024 →](https://www.venusovermanhattan.com/exhibitions/retinal-hysteria)
+[V﻿isit *Retinal Hysteria*, on view at Venus Over Manhattan, New York through January 13, 2024 →](https://viewingroom.venusovermanhattan.com/viewing-room/retinal-hysteria-curated-by-robert-storr#tab:thumbnails)
