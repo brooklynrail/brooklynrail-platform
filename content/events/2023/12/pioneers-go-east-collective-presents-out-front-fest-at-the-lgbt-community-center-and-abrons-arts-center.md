@@ -72,13 +72,13 @@ In *Hear*, choreographer Ogemdi Ude pulls from a bereft archive of video and sou
 \*﻿ \* *
 
 Christopher Unpezverde Núñez
-*BROOKLYN Papi* (World Premiere)
+*YO OBSOLETE*
 Sunday and Monday, January 14-15, at 8pm
 The LGBT Community Center, Theatre 301
 
 {{< image media="2023/12/christopher-unpezverde-nunez" size="lg" >}}
 
-Created by Christopher Unpezverde Núñez and performed by Núñez, Mãr Galeano, and Alfonso "Poncho" Castro, *BROOKLYN Papi* is an ethnography on performative masculinity or “doing gender.” It is an embodied lecture of male iconography and discursive understandings of disability, violence, and trauma. Music is by Alfonso “Poncho” Castro. Design elements by Branden Charles Wallace.
+Childhood memories intertwined with intergenerational trauma. Escapism from reality to worlds of fantasy and symbolism. Parallels between the mystical and embodied experiences. *YO OBSOLETE* meditates on imagination as a survival mechanism. The performance navigates through altered states of consciousness, reaching deep levels of ancestral memory embodied in the form of poetry, songs, movement, installation and story telling.
 
 \*﻿ \* *
 
