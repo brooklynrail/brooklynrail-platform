@@ -1,16 +1,18 @@
 ---
 title: Retinal Hysteria
-deck: "Featuring William Corwin, Eleanor Heartney, Amanda Millet-Sorsa, Saul
-  Ostrow, and Charles Schultz "
+deck: Featuring William Corwin, Eleanor Heartney, Amanda Millet-Sorsa, Saul
+  Ostrow, and Charles Schultz, with Samuel Breslin
 summary: Writers William Corwin, Eleanor Heartney, Amanda Millet-Sorsa, and Saul
   Ostrow, and join Rail Managing Editor Charles Schultz for a conversation. We
-  conclude with a poetry reading.
+  conclude with a poetry reading by Samuel Breslin.
 people:
   - person: william-corwin
   - person: eleanor-heartney
   - person: amanda-millet-sorsa
   - person: saul-ostrow
   - person: charles-schultz
+poets:
+  - person: samuel-breslin
 date: 2023-12-11T13:00:00-0500
 end_date: 2023-12-11T14:30:00-0500
 series: 960
