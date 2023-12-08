@@ -6,10 +6,10 @@ summary: Artists Irwan Ahmett, Jia-Jen Lin, Maya Jeffereis, Tita Salina, and
   Vandy Rattana, join curator Alice, Nien-Pu Ko for a conversation. We conclude
   with a poetry reading by Oki Sogumi.
 people:
-  - person: vandy-rattana
   - person: jia-jen-lin
   - person: tita-salina-and-irwan-ahmett
   - person: maya-jeffereis
+  - person: vandy-rattana
   - person: alice-nien-pu-ko
 poets:
   - person: oki-sogumi
