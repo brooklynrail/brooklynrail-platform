@@ -1,14 +1,17 @@
 ---
-title: A Rail Reading curated by Kamelya Omayma Youssef
-deck: Featuring Youssef, An Duplan, Cedar Sigo, Fargo Nissim Tbakhi, and
+title: '"See Fires Now": Against Genocidal Poetics: A Rail Reading curated by
+  Kamelya Omayma Youssef'
+deck: Featuring Youssef, Anaïs Duplan, Cedar Sigo, Fargo Nissim Tbakhi, and
   Mohammed Zenia
 summary: Kamelya Omayma Youssef curates our 161st Wednesday Poetry Reading with
-  An Duplan, Cedar Sigo, Fargo Nissim Tbakhi, and Mo Zenia.
+  Anaïs Duplan, Cedar Sigo, Fargo Nissim Tbakhi, and Mo Zenia.
 people:
+  - person: anais-duplan-1
   - person: cedar-sigo
   - person: fargo-nissim-tbakhi
   - person: mohammed-zenia
   - person: kamelya-omayma-youssef-1
+poets: []
 date: 2023-12-13T13:00:00-0500
 end_date: 2023-12-13T14:30:00-0500
 series: 962
