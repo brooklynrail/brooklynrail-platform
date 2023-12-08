@@ -2,7 +2,7 @@
 name: Jia-Jen Lin
 first_name: Jia-Jen
 last_name: Lin
-short_bio: "**Jia-Jen** Lin (b. Taichung, Taiwan) is a Taiwanese-American artist
+short_bio: "**Jia-Jen Lin** (b. Taichung, Taiwan) is a Taiwanese-American artist
   based in Brooklyn and Berlin. Lin’s practice explores human experiences and
   how they inhabit our bodies despite different space and time. With an
   interdisciplinary approach, her installations often span several media,
