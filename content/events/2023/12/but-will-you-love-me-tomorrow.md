@@ -3,7 +3,7 @@ title: But Will You Love Me Tomorrow?
 deck: Featuring Laura Flam, Emily Sieu Liebowitz, and Phong H. Bui
 summary: Authors Laura Flam and Emily Sieu Liebowitz join Rail Publisher and
   Artistic Director Phong H. Bui for a conversation. We conclude with a poetry
-  reading.
+  reading by Liebowitz.
 people:
   - person: emily-sieu-liebowitz
   - person: laura-flam
