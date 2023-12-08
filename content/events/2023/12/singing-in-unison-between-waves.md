@@ -1,10 +1,10 @@
 ---
 title: "Singing in Unison: Between Waves"
-deck: Featuring Vandy Rattana, Jia-Jen Lin, Tita Salina, Irwan Ahmett, Maya
-  Jeffereis, and Alice, Nien-Pu Ko, with Oki Sogumi
-summary: Artists Vandy Rattana, Jia-Jen Lin, Tita Salina, Irwan Ahmett, and Maya
-  Jeffereis join curator Alice, Nien-Pu Ko for a conversation. We conclude with
-  a poetry reading by Oki Sogumi.
+deck: Featuring Irwan Ahmett, Jia-Jen Lin, Maya Jeffereis, Tita Salina, Vandy
+  Rattana, and Alice, Nien-Pu Ko, with Oki Sogumi
+summary: Artists Irwan Ahmett, Jia-Jen Lin, Maya Jeffereis, Tita Salina, and
+  Vandy Rattana, join curator Alice, Nien-Pu Ko for a conversation. We conclude
+  with a poetry reading by Oki Sogumi.
 people:
   - person: vandy-rattana
   - person: jia-jen-lin
