@@ -7,6 +7,7 @@ summary: Kamelya Omayma Youssef curates our 161st Wednesday Poetry Reading with
   Anaïs Duplan, Daniel Maté, Cedar Sigo, Fargo Nissim Tbakhi, and Mo Zenia.
 people:
   - person: anais-duplan-1
+  - person: daniel-mate
   - person: cedar-sigo
   - person: fargo-nissim-tbakhi
   - person: mohammed-zenia
