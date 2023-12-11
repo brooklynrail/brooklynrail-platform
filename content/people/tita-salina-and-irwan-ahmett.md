@@ -8,5 +8,7 @@ short_bio: "**Tita Salina** (b. Palembang, Indonesia) and **Irwan Ahmett** (b.
   people, and amid large-scale contemporary political power struggles. They
   frequently deal with social issues in public space, translating them into
   spontaneously unfolding events."
+portraits:
+  - media: 2023/12/tita-salina-and-irwan-ahmett
 website: https://blindspotgallery.com/artist/irwan-ahmett-tita-salina/
 ---
