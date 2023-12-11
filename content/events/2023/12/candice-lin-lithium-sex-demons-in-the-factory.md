@@ -1,11 +1,13 @@
 ---
 title: "Candice Lin: Lithium Sex Demons in the Factory "
-deck: Featuring Lin and Andrew Woolbright
+deck: Featuring Lin and Andrew Woolbright, with Larissa Pham
 summary: Artist Candice Lin joins Rail Editor-at-Large Andrew Woolbright for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading by Larissa Pham.
 people:
   - person: candice-lin
   - person: andrew-paul-woolbright
+poets:
+  - person: larissa-pham
 date: 2023-12-12T18:00:00-0500
 end_date: 2023-12-12T19:30:00-0500
 series: 961
