@@ -4,6 +4,7 @@ deck: Featuring DeVoogd, Douglas Crase, Chris Nealon, and James Loop
 summary: "Claire DeVoogd curates our 163rd Wednesday Poetry Reading with Douglas
   Crase, Chris Nealon, and James Loop. "
 people:
+  - person: douglas-crase
   - person: james-loop
   - person: claire-devoogd
 date: 2023-12-20T13:00:00-0500
