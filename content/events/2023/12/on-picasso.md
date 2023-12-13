@@ -13,5 +13,7 @@ event_organizer:
 event_producer:
   - the-brooklyn-rail
 event_id: recEByuVM5oXlqRN2
+event_platform:
+  - zoom
 ---
 [V﻿isit *Within Reach*, on view at Susan Inglett Gallery, New York through January 27, 2023 →](https://www.inglettgallery.com/exhibitions/202-brendan-fernandes-within-reach-30-november-2023-27-january-2024/overview/)
