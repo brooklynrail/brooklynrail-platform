@@ -1,5 +1,5 @@
 ---
-title: "Why do I tell you these things: A Rail Reading curated by Claire DeVoogd"
+title: '"Why do I tell you these things": A Rail Reading curated by Claire DeVoogd'
 deck: Featuring DeVoogd, Douglas Crase, Chris Nealon, and James Loop
 summary: "Claire DeVoogd curates our 163rd Wednesday Poetry Reading with Douglas
   Crase, Chris Nealon, and James Loop. "
