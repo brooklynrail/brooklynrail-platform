@@ -1,7 +1,7 @@
 ---
 title: Radical Poetry Reading with Cole Swensen
 deck: Featuring political poetry read by Etel Adnan, Biswamit Dwibedy, Susan
-  Howe, and Ghazal Mosadeq.
+  Howe, and Ghazal Mosadeq
 summary: Poet Cole Swensen curates the 13th installment in a weekly series of
   Radical Poetry Readings, featuring Etel Adnan, Biswamit Dwibedy, Susan Howe,
   and Ghazal Mosadeq.
