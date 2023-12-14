@@ -7,9 +7,9 @@ summary: Writers Pepe Karmel, Emily Braun, Rebecca Schiffman, Mary Ann Caws,
   for a conversation. We conclude with a poetry reading.
 people:
   - person: pepe-karmel-2
-  - person: mary-ann-caws
-  - person: rebecca-schiffman
   - person: emily-braun
+  - person: rebecca-schiffman
+  - person: mary-ann-caws
   - person: saul-ostrow
   - person: amanda-gluibizzi
   - person: phyllis-tuchman
