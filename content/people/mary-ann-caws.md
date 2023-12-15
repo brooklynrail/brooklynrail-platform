@@ -14,4 +14,6 @@ short_bio: "Distinguished Professor Emerita of several Literature Ph.D. programs
   Poem,_ and _Beginnings: The Early Prose Poem_, and the _French Prose Poem_."
 portraits:
   - media: 2022/05/mary-ann-caws
+rail_contributor_url: https://brooklynrail.org/contributor/mary-ann-caws
+website: https://www.maryanncaws.com/
 ---
