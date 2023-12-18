@@ -1,10 +1,10 @@
 ---
 title: On Picasso
 deck: Featuring Pepe Karmel, Emily Braun, Rebecca Schiffman, Mary Ann Caws, Saul
-  Ostrow, Amanda Gluibizzi, and Phyllis Tuchman
+  Ostrow, Amanda Gluibizzi, and Phyllis Tuchman, with Ron Horning
 summary: Writers Pepe Karmel, Emily Braun, Rebecca Schiffman, Mary Ann Caws,
   Saul Ostrow, and Amanda Gluibizzi join Rail Editor-at-Large Phyllis Tuchman
-  for a conversation. We conclude with a poetry reading.
+  for a conversation. We conclude with a poetry reading by Ron Horning.
 people:
   - person: pepe-karmel-2
   - person: emily-braun
@@ -13,6 +13,8 @@ people:
   - person: saul-ostrow
   - person: amanda-gluibizzi
   - person: phyllis-tuchman
+poets:
+  - person: ron-horning
 date: 2023-12-18T13:00:00-0500
 end_date: 2023-12-18T14:30:00-0500
 series: 965
