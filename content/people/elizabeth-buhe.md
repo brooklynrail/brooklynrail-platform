@@ -3,7 +3,7 @@ name: Elizabeth Buhe
 first_name: Elizabeth
 last_name: Buhe
 short_bio: "**Elizabeth Buhe** is a widely-published critic and art historian
-  based in New York. Her writing addresses alternative modernisms and spatial
+  based in New York. Her writing addresses expanded modernisms and spatial
   ontologies in Europe and North America in the twentieth and twenty-first
   centuries. Elizabeth has taught at the Whitney Museum of American Art and at
   Fordham University, and is a contributing critic for the _Brooklyn Rail_ and
