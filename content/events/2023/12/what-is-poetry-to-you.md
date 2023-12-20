@@ -1,5 +1,5 @@
 ---
-title: What Is Poetry to You?
+title: What Is Poetry to You? (1980)
 deck: Directed by Cecilia Vicuña
 summary: Join us for a virtual screening of What Is Poetry to You?, directed by
   Cecilia Vicuña. Register to receive a 24-hour access link and password to the
@@ -19,6 +19,6 @@ event_id: recKWiptxJvBsjSyG
 event_platform: null
 soldout: false
 ---
-{{< image media="undefined" size="md" >}}
+{{< image media="2023/12/what-is-poetry-to-you" size="lg" >}}
 
 Vicuña asks passersby on the streets of Bogotá – including fellow artists and poets, sex workers, children, a police officer, and a scientist – the question: "What is poetry to you?" The surprising answers she elicits reveal the richness of oral culture in Colombia.
