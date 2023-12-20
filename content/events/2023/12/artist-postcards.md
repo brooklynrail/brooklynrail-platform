@@ -1,6 +1,6 @@
 ---
 title: Artist Postcards
-deck: Directed by An Arm & a Leg Productions
+deck: Directed by An Arm & A Leg Productions
 summary: Join us for a virtual screening of Artist Postcards, directed by An Arm
   & a Leg Productions. Register to receive a 24-hour access link and password to
   the film.
