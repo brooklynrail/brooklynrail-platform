@@ -1,9 +1,9 @@
 ---
 title: Artist Postcards
-deck: Directed by An Arm & A Leg Productions
-summary: Join us for a virtual screening of Artist Postcards, directed by An Arm
-  & a Leg Productions. Register to receive a 24-hour access link and password to
-  the film.
+deck: Directed by Paul Pissarro and Max Cox
+summary: Join us for a virtual screening of Artist Postcards, directed by Paul
+  Pissarro and Max Cox. Register to receive a 24-hour access link and password
+  to the film.
 people:
   - person: an-arm-a-leg
 date: 2024-01-04T00:00:00-0500
