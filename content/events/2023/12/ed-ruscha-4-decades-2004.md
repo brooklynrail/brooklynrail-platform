@@ -21,7 +21,7 @@ soldout: false
 ---
 {{< image media="2023/12/ed-ruscha-4-decades" size="lg" >}}
 
-Through his unique combination of blunt, compelling text and powerful background imagery, American Contemporary artist, Ed Ruscha, has created a body of work that evokes thought, theory and discourse. Curator Margit Rowell, who recently had the opportunity examine Ruscha’s extensive collection, has now created a brilliant exhibition of his seldom seen drawings. *Ed Ruscha: 4 Decades* shows Rowell visiting the artist in his studio, looking at new paintings, discussing his progress over the decades and asking him to comment on the many milestones in his large retrospective exhibition at MoCA in Los Angeles.
+Through his unique combination of blunt, compelling text and powerful background imagery, American Contemporary artist Ed Ruscha has created a body of work that evokes thought, theory and discourse. *Ed Ruscha: 4 Decades* shows curator Margit Rowell visiting the artist in his studio, looking at new paintings, discussing his progress over the decades and asking him to comment on the many milestones in his large retrospective exhibition at MoCA in Los Angeles.
 
 [Biography and significance of Ed Ruscha on The Art Story →](https://www.theartstory.org/artist/ruscha-ed/)
 
