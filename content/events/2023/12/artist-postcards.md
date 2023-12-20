@@ -28,5 +28,3 @@ Joel Baca’s work is an exploration of personal nostalgia and cultural iconogra
 Annabel Daou’s work takes form in paper-based constructions, sound, performance, and video. Daou suspends, carves out or records the language of daily life.
 
 Stefan Bondell is a New York painter and poet. He makes modern day  history paintings that create a dialogue between antiquity and contemporary issues.
-
-[M﻿ore on An Arm & A Leg Productions →](https://www.anarmandaleg.com/)
