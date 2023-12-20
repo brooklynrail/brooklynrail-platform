@@ -4,8 +4,11 @@ deck: Directed by An Arm & a Leg Productions
 summary: Join us for a virtual screening of Artist Postcards, directed by An Arm
   & a Leg Productions. Register to receive a 24-hour access link and password to
   the film.
+people:
+  - person: an-arm-a-leg
 date: 2024-01-04T00:00:00-0500
 end_date: 2024-01-04T23:59:00-0500
+series: 973
 collections:
   - screening
 event_organizer:
