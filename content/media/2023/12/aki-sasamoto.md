@@ -2,5 +2,6 @@
 media: /media/files/20190314_redbullxindependent_1725.jpg
 title: Aki Sasamoto
 alt: Photo of Aki Sasamoto
+caption: "Courtesy the artist and Bortolami, New York. Photo by Laurel Golio. "
 date: 2023-12-21T11:58:00-0500
 ---
