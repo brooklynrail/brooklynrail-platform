@@ -4,6 +4,7 @@ deck: Featuring Cholnoky and Gaby Collins-Fernandez
 summary: Artist Kari Cholnoky joins Rail contributor Gaby Collins-Fernandez for
   a conversation. We conclude with a poetry reading.
 people:
+  - person: kari-cholnoky
   - person: gaby-collins-fernandez
 date: 2024-01-05T13:00:00-0500
 end_date: 2024-01-05T14:30:00-0500
