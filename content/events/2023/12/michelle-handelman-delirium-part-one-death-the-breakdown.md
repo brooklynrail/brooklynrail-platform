@@ -4,6 +4,7 @@ deck: Featuring Handelman, Jill H. Casid, Ksenia M. Soboleva
 summary: Artist Michelle Handelman joins Rail contributors Jill H. Casid and
   Ksenia M. Soboleva for a conversation. We conclude with a poetry reading.
 people:
+  - person: michelle-handelman
   - person: jill-h-casid
   - person: ksenia-m-soboleva
 date: 2024-01-08T13:00:00-0500
