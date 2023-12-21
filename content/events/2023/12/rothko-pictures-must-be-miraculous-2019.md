@@ -1,9 +1,9 @@
 ---
 title: "Rothko: Pictures Must Be Miraculous (2019)"
 deck: Directed by Eric Slade
-summary: "Join us for a virtual screening of Rothko: Pictures Must Be Miraculous
-  (2019), directed by Eric Slade. Register to receive a 24-hour access link and
-  password to the film."
+summary: "Join us for a virtual screening of Rothko: Pictures Must Be
+  Miraculous, directed by Eric Slade. Register to receive a 24-hour access link
+  and password to the film."
 date: 2024-01-01T00:00:00-0500
 end_date: 2024-01-01T23:59:00-0500
 series: 970
