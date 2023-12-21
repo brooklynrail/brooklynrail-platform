@@ -9,9 +9,9 @@ people:
   - person: jonathan-t-d-neil
 date: 2024-01-11T12:00:00-0500
 end_date: 2024-01-11T13:30:00-0500
-series: 975
+series: 978
 collections:
-  - the-new-social-environment
+  - common-ground
 event_organizer:
   - the-brooklyn-rail
 event_producer:
