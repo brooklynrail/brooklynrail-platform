@@ -8,7 +8,7 @@ people:
   - person: ksenia-m-soboleva
 date: 2024-01-08T13:00:00-0500
 end_date: 2024-01-08T14:30:00-0500
-series: 973
+series: 975
 collections:
   - the-new-social-environment
 event_organizer:
