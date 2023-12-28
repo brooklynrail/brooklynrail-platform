@@ -1,10 +1,11 @@
 ---
 title: "Aki Sasamoto: Point Reflection "
-deck: Featuring Sasamoto and Rail host to be announced
-summary: Artist Aki Sasamoto joins Rail host for a conversation. We conclude
-  with a poetry reading.
+deck: "Featuring Sasamoto and Cassie Packard "
+summary: Artist Aki Sasamoto joins Rail contributor Cassie Packard for a
+  conversation. We conclude with a poetry reading.
 people:
   - person: aki-sasamoto
+  - person: cassie-packard
 date: 2024-01-09T13:00:00-0500
 end_date: 2024-01-09T14:30:00-0500
 series: 976
