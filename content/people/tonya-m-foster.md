@@ -2,17 +2,16 @@
 name: Tonya M. Foster
 first_name: Tonya
 last_name: Foster
-short_bio: "**Tonya M. Foster** is the author of _A Swarm of Bees in High
-  Court,_ and the bilingual chapbook _La Grammaire des Os_; the chapbook _A
-  History of the Bitch_ (Sputnik and Fizzle, 2020); and co-editor of _Third
-  Mind: Creative Writing through Visual Art._ Her poetry collection,
-  _Thingification_ was published by Ugly Duckling Presse in 2021. _Monkey Talk,_
-  a cross-genre series about race, paranoia, aesthetics and surveillance, was
-  supported by a 2020 Creative Capital Foundation grant. A 2020-2021 Lisa
-  Goldberg Fellow at the Radcliffe Institute of Harvard University, Tonya holds
-  the George and Judy Marcus Endowed Chair in Poetry at San Francisco State
-  University. She was raised in New Orleans, and her family goes generations
-  back in Louisiana."
+short_bio: "**Tonya M. Foster** is the author of _A Swarm of Bees in High Court;
+  La Grammaire des Os;_ and the forthcoming _Thingifications._ She is a
+  co-editor of _Third Mind: Teaching Creative Writing through Visual Arts;_ and
+  the forthcoming _Umbra Galaxy_ (Wesleyan University Press). A recipient of
+  awards and fellowships from the Foundation for Contemporary Arts (C.D. Wright
+  Award), SF MoAD, Headlands Center for the Arts, Radcliffe Institute, Creative
+  Capital Foundation, the Mellon and the Ford Foundations, among others, Dr.
+  Foster holds the George & Judy Marcus Endowed Chair at San Francisco State
+  University. She is the author of a host of yet-to-be-finished projects."
 portraits:
-  - media: 2020/07/tonya-m-foster
+  - media: 2024/01/tonya-m-foster
+website: https://tonyafosterpoet.com/
 ---
