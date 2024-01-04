@@ -1,5 +1,5 @@
 ---
-title: A Rail Reading curated by Pattie McCarthy
+title: "Grown Ass Women (G.A.W.): A Rail Reading curated by Pattie McCarthy"
 deck: Featuring McCarthy, Marcella Durand, Tonya Foster, and Karen Weiser
 summary: Pattie McCarthy curates our 164th Wednesday Poetry Reading with
   Marcella Durand, Tonya Foster, and Karen Weiser.
