@@ -7,9 +7,9 @@ people:
   - person: michelle-handelman
   - person: jill-h-casid
   - person: ksenia-m-soboleva
-date: 2024-01-08T13:00:00-0500
-end_date: 2024-01-08T14:30:00-0500
-series: 975
+date: 2024-01-12T13:00:00-0500
+end_date: 2024-01-12T14:30:00-0500
+series: 976
 collections:
   - the-new-social-environment
 event_organizer:
