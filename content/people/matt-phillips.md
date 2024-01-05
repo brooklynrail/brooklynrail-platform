@@ -12,7 +12,7 @@ short_bio: "**Matt Phillips** is a painter living in Brooklyn, NY. Recent
   meaningful. He is represented by The Landing Gallery (LA) and Mindy Solomon
   Gallery (Miami). "
 portraits:
-  - media: " 2024/01/matt-phillips"
+  - media: 2024/01/matt-phillips
 website: https://www.paintingpaintings.com/
 instagram: themattphillips
 ---
