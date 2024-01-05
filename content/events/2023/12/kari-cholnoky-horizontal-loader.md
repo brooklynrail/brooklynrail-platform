@@ -1,8 +1,8 @@
 ---
 title: "Kari Cholnoky: Horizontal Loader"
 deck: Featuring Cholnoky and Gaby Collins-Fernandez
-summary: Artist Kari Cholnoky joins Rail contributor Gaby Collins-Fernandez for
-  a conversation. We conclude with a poetry reading.
+summary: "Artist Kari Cholnoky joins Rail contributor Gaby Collins-Fernandez for
+  a conversation. "
 people:
   - person: kari-cholnoky
   - person: gaby-collins-fernandez
