@@ -1,9 +1,8 @@
 ---
 title: "The Entanglement: How Art and Philosophy Make Us What We Are"
 deck: Featuring Alva Noë and Jonathan T.D. Neil
-summary: Writer and philosopher Alva Noë joins Rail contributor Jonathan T.D.
-  Neil for a conversation at a special time of 12pm EST. We conclude with a
-  poetry reading.
+summary: "Writer and philosopher Alva Noë joins Rail contributor Jonathan T.D.
+  Neil for a conversation at a special time of 12pm EST. "
 people:
   - person: alva-noe
   - person: jonathan-t-d-neil
