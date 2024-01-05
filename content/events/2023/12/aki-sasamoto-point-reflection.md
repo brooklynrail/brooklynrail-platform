@@ -1,8 +1,8 @@
 ---
 title: "Aki Sasamoto: Point Reflection "
 deck: "Featuring Sasamoto and Cassie Packard "
-summary: Artist Aki Sasamoto joins Rail contributor Cassie Packard for a
-  conversation. We conclude with a poetry reading.
+summary: "Artist Aki Sasamoto joins Rail contributor Cassie Packard for a
+  conversation. "
 people:
   - person: aki-sasamoto
   - person: cassie-packard
