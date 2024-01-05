@@ -1,8 +1,8 @@
 ---
 title: "Michelle Handelman: DELIRIUM PART ONE: DEATH (The Breakdown)"
 deck: Featuring Handelman, Jill H. Casid, Ksenia M. Soboleva
-summary: Artist Michelle Handelman joins Rail contributors Jill H. Casid and
-  Ksenia M. Soboleva for a conversation. We conclude with a poetry reading.
+summary: "Artist Michelle Handelman joins Rail contributors Jill H. Casid and
+  Ksenia M. Soboleva for a conversation. "
 people:
   - person: michelle-handelman
   - person: jill-h-casid
