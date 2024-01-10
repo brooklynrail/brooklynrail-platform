@@ -14,6 +14,6 @@ short_bio: "Art critic, scholar, and curator **Michael Brenson** was an art
   Giroux in October 2022. He is the artistic director of the Jonathan and
   Barbara Silver Foundation."
 portraits:
-  - media: 2021/08/michael-brenson
+  - media: 2024/01/michael-brenson-1
 rail_contributor_url: https://brooklynrail.org/contributor/michael-brenson
 ---
