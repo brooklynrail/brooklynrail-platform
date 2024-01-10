@@ -8,9 +8,9 @@ people:
   - person: tonya-m-foster
   - person: karen-weiser
   - person: pattie-mccarthy
-date: 2024-01-10T13:00:00-0500
-end_date: 2024-01-10T14:30:00-0500
-series: 977
+date: 2024-01-17T13:00:00-0500
+end_date: 2024-01-17T14:30:00-0500
+series: 982
 collections:
   - the-new-social-environment
 event_organizer:
