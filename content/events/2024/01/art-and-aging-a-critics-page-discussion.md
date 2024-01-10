@@ -1,9 +1,16 @@
 ---
 title: "Art and Aging: A Critics Page Discussion"
-deck: Featuring Douglas Dreishpoon and friends
-summary: "The Rail's December 2023/January 2024 Critics Page contributors join
-  Guest Critic Douglas Dreishpoon for a conversation. "
+deck: Featuring Anna Raverat, Bob Stewart, Jeanne Silverthorne, Michael Brenson,
+  Nancy Princenthal, and Douglas Dreishpoon
+summary: Rail December 2023/January 2024 Critics Page contributors Anna Raverat,
+  Bob Stewart, Jeanne Silverthorne, Michael Brenson, and Nancy Princenthal join
+  Guest Critic Douglas Dreishpoon for a conversation.
 people:
+  - person: anna-raverat
+  - person: bob-stewart
+  - person: jeanne-silverthorne
+  - person: michael-brenson
+  - person: nancy-princenthal
   - person: dr-douglas-dreishpoon
 date: 2024-01-23T13:00:00-0500
 end_date: 2024-01-23T14:30:00-0500
