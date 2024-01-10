@@ -1,6 +1,6 @@
 ---
-media: /media/files/jeanne-silverthorne-fine-arts-2017.jpg
+media: /media/files/me-cropped.jpeg
 title: Jeanne Silverthorne
-alt: Jeanne Silverthorne
+alt: Photo of Jeanne Silverthorne
 date: 2020-11-18T13:26:00-0500
 ---
