@@ -3,6 +3,7 @@ title: "Glenn Kaino: Walking with a Tiger "
 deck: Featuring Kaino and Dan Cameron
 summary: Artist Glenn Kaino joins Rail Editor-at-Large Dan Cameron for a conversation.
 people:
+  - person: glenn-kaino
   - person: dan-cameron
 date: 2024-01-16T13:00:00-0500
 end_date: 2024-01-16T14:30:00-0500
