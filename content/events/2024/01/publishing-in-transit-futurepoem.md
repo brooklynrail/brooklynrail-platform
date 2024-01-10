@@ -4,6 +4,7 @@ deck: Featuring Daniel Machlin and Cole Swensen
 summary: "Futurepoem Founder and Executive Editor Dan Machlin joins Rail
   contributor Cole Swensen for a conversation and reading. "
 people:
+  - person: dan-machlin
   - person: cole-swensen
 date: 2024-01-25T13:00:00-0500
 end_date: 2024-01-25T14:30:00-0500
