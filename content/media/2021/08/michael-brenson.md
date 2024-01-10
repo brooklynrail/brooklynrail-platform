@@ -1,7 +1,7 @@
 ---
-media: /media/files/brenson.jpeg
+media: /media/files/1.-m-brenson__18.jpg
 title: Michael Brenson
-alt: A portrait of Michael Brenson
-caption: Photo by William Lamson
-date: 2021-08-19T12:15:00-0500
+alt: Photo of Michael Brenson
+caption: Photo by David Lackey
+date: 2024-01-10T14:35:00-0500
 ---
