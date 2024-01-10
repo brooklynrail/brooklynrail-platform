@@ -1,5 +1,5 @@
 ---
-media: /media/files/m-brenson__18.jpeg
+media: /media/files/screenshot-2024-01-10-at-3.08.16-pm.png
 title: Michael Brenson
 alt: Photo of Michael Brenson
 caption: Photo by David Lackey
