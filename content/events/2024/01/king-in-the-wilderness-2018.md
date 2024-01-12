@@ -27,4 +27,4 @@ Drawing on conversations with those who knew Dr. King well, including many fello
 
 [E﻿ducator resouces for *King in the Wilderness* (2018) →](https://www.lifestories.org/educator-resources/king-in-the-wilderness)
 
-> This film was generously provided by the Kunhardt Film Foundation.
+> **This film was generously provided by the Kunhardt Film Foundation.**
