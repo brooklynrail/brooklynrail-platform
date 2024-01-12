@@ -1,9 +1,11 @@
 ---
 title: "Billy McEntee: The Voices in Your Head"
-deck: Featuring McEntee and Rail host to be announced
-summary: Rail Theater Editor Billy McEntee joins Rail host for a conversation.
+deck: Featuring McEntee and Eulàlia Xavier Comas
+summary: "Rail Theater Editor Billy McEntee joins theater artist and writer
+  Eulàlia Xavier Comas for a conversation. "
 people:
   - person: billy-mcentee-1
+  - person: eulalia-xavier-comas
 date: 2024-01-18T13:00:00-0500
 end_date: 2024-01-18T14:30:00-0500
 series: 983
