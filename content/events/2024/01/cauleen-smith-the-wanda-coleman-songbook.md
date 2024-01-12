@@ -1,9 +1,10 @@
 ---
 title: "Cauleen Smith: The Wanda Coleman Songbook"
-deck: Featuring Smith and Rail host to be announced
-summary: "Artist Cauleen Smith joins Rail host for a conversation. "
+deck: Featuring Smith and Zoë Hopkins
+summary: Artist Cauleen Smith joins Rail contributor Zoë Hopkins for a conversation.
 people:
   - person: cauleen-smith
+  - person: zoe-hopkins
 date: 2024-01-26T13:00:00-0500
 end_date: 2024-01-26T14:30:00-0500
 series: 989
