@@ -1,7 +1,8 @@
 ---
 title: "Suneil Sanzgiri: Here the Earth Grows Gold"
 deck: Featuring Sanzgiri and Tausif Noor
-summary: "Artist Suneil Sanzgiri joins Rail host Tausif Noor for a conversation. "
+summary: "Artist Suneil Sanzgiri joins Rail contributor Tausif Noor for a
+  conversation. "
 people:
   - person: suneil-sanzgiri
   - person: tausif-noor
