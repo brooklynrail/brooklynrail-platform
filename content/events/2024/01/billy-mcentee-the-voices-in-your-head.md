@@ -20,6 +20,6 @@ event_platform:
   - zoom
 soldout: false
 ---
-[Get t﻿ickets to *The Voices in Your Head*, with performances at St. Lydia's through January 29, 2024 → ](https://www.eventbrite.com/e/the-voices-in-your-head-tickets-773184314097)
+[Get tickets to *The Voices in Your Head*, an hour-long, site-specific dark comedy, playing now through January 29 at St. Lydia’s, a storefront church → ](https://www.eventbrite.com/e/the-voices-in-your-head-tickets-773184314097)
 
 [](https://www.eventbrite.com/e/the-voices-in-your-head-tickets-773184314097)
