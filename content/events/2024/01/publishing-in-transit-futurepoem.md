@@ -1,12 +1,13 @@
 ---
 title: "Publishing-in-Transit: Futurepoem"
-deck: Featuring Aiden Farrell, Daniel Machlin, and Cole Swensen
-summary: "Futurepoem Managing Editor Aiden Farrell and Founder and Executive
-  Editor Dan Machlin join Rail contributor Cole Swensen for a conversation and
-  reading. "
+deck: Featuring Dan Machlin, Aiden Farrell, Isabel Sobral Campos, and Cole Swensen
+summary: "Futurepoem Founder and Executive Editor Dan Machlin, Managing Editor
+  Aiden Farrell, and writer Isabel Sobral Campos join Rail contributor Cole
+  Swensen for a conversation and reading. "
 people:
-  - person: aiden-farrell
   - person: dan-machlin
+  - person: aiden-farrell
+  - person: isabel-sobral-campos
   - person: cole-swensen
 date: 2024-01-25T13:00:00-0500
 end_date: 2024-01-25T14:30:00-0500
