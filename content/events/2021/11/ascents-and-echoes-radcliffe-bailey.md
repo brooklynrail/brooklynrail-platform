@@ -14,7 +14,7 @@ people:
       - url: https://brooklynrail.org/2006/06/art/richard-serra-with-phong-bui
         text: Richard Serra in conversation with Phong H. Bui (Brooklyn Rail, June 2006)
 poets:
-  - person: isabel-sobral-campos-1
+  - person: isabel-sobral-campos
 date: 2021-11-15T13:00:00-0500
 end_date: 2021-11-15T14:30:00-0500
 series: 429
