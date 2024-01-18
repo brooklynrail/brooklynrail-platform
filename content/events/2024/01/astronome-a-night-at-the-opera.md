@@ -5,8 +5,8 @@ summary: Richard Foreman's dynamic staging of John Zorn's opera Astronome
   premiered in February of 2009 at his Ontological-Hysteric Theatre in New York.
   For this video, ten performances were captured on film from hundreds of angles
   and edited by filmmaker Henry Hills.
-date: 2024-01-18T13:00:00-0500
-end_date: 2024-01-18T14:30:00-0500
+date: 2024-01-24T13:00:00-0500
+end_date: 2024-01-24T14:30:00-0500
 series: 987
 collections:
   - screening
