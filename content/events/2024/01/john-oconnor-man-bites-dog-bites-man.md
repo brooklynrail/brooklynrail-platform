@@ -1,7 +1,10 @@
 ---
 title: "John O'Connor: Man Bites Dog Bites Man"
-deck: Featuring John O'Connor and Rick Moody
+deck: Featuring O'Connor and Rick Moody
 summary: "Artist John O'Connor joins novelist Rick Moody for a conversation. "
+people:
+  - person: john-j-oconnor
+  - person: rick-moody
 date: 2024-01-22T13:00:00-0500
 end_date: 2024-01-22T14:30:00-0500
 series: 985
