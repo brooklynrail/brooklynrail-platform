@@ -4,6 +4,7 @@ deck: Featuring Holden and Charlotte Kent
 summary: Artist Andy Holden joins Rail Editor-at-Large Charlotte Kent for a
   conversation.
 people:
+  - person: andy-holden
   - person: charlotte-kent
 date: 2024-02-05T13:00:00-0500
 end_date: 2024-02-05T14:30:00-0500
