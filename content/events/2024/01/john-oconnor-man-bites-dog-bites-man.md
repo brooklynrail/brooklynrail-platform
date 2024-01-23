@@ -20,4 +20,4 @@ event_platform:
   - zoom
 soldout: false
 ---
-[V﻿isit *Man Bites Dog Bites Man*, on view at Pierogi through February 10, 2024 →](https://www.pierogi2000.com/2023/11/john-oconnor/)
+[Visit *Man Bites Dog Bites Man*, on view at Pierogi's pop-up exhibition in collaboration with L'Space at 524 West 19th St. New York, NY 10011 →](https://www.pierogi2000.com/2023/11/john-oconnor/)
