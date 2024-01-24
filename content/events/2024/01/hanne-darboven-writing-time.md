@@ -1,9 +1,11 @@
 ---
 title: "Hanne Darboven: Writing Time"
-deck: Featuring Kelly Montana and Rail host to be announced
-summary: Curator Kelly Montana joins Rail host for a conversation.
+deck: Featuring Kelly Montana and Raphael Rubinstein
+summary: Curator Kelly Montana joins Editor-at-Large Raphael Rubinstein for a
+  conversation.
 people:
   - person: kelly-montana
+  - person: raphael-rubinstein-1
 date: 2024-01-30T13:00:00-0500
 end_date: 2024-01-30T14:30:00-0500
 series: 991
