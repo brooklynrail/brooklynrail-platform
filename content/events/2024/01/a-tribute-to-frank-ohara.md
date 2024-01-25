@@ -17,3 +17,7 @@ event_platform: null
 soldout: false
 ---
 {{< image media="2024/01/frank-ohara" size="lg" >}}
+
+10 Year Memorial honoring Frank O’Hara, from the Ben Tripp Tapes, St. Mark’s Church, 1976 
+
+Featuring Joe LeSeuer, Patsy Southgate, Jane Freilicher (reading as [James Schuyler](https://writing.upenn.edu/pennsound/x/Schuyler.php)), [Anne Waldman](https://writing.upenn.edu/pennsound/x/Waldman.php) as MC, [Kenneth Koch](https://writing.upenn.edu/pennsound/x/Koch.php) (reading "Awake in Spain"), Carter Ratcliffe, Tony Towle, Patsy Southgate, [David Shapiro](https://writing.upenn.edu/pennsound/x/Shapiro.php), and Peter Schjedah.
