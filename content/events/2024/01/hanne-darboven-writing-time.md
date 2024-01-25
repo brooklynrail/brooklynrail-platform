@@ -1,8 +1,8 @@
 ---
 title: "Hanne Darboven: Writing Time"
 deck: Featuring Kelly Montana and Raphael Rubinstein
-summary: Curator Kelly Montana joins Editor-at-Large Raphael Rubinstein for a
-  conversation.
+summary: Curator Kelly Montana joins Rail Editor-at-Large Raphael Rubinstein for
+  a conversation.
 people:
   - person: kelly-montana
   - person: raphael-rubinstein-1
