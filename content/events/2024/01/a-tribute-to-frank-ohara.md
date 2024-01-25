@@ -1,8 +1,8 @@
 ---
 title: A Tribute to Frank O'Hara
 deck: Audio Recording
-summary: "Join us in listening to a recording of Frank O'Hara, presented in
-  collaboration with our friends at PennSound. "
+summary: "Join us in listening to a 10 Year Memorial of Frank O'Hara at St.
+  Mark's Church, presented in collaboration with our friends at PennSound. "
 date: 2024-01-31T13:00:00-0500
 end_date: 2024-01-31T14:30:00-0500
 series: 992
