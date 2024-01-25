@@ -6,6 +6,7 @@ summary: Artist Delcy Morelos joins Rail contributor Gaby Collins-Fernandez for
   English captioning.
 people:
   - person: delcy-morelos
+  - person: delcy-morelos-1
   - person: gaby-collins-fernandez
 date: 2024-02-02T13:00:00-0500
 end_date: 2024-02-02T14:30:00-0500
