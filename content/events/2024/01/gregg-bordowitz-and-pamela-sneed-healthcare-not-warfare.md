@@ -1,8 +1,8 @@
 ---
 title: "Gregg Bordowitz and Pamela Sneed: Healthcare Not Warfare"
 deck: Featuring Bordowitz, Sneed, and Jill H. Casid
-summary: "Artists and activists Gregg Bordowitz and Pamela Sneed join Rail
-  contributor Jill H. Casid for a conversation. "
+summary: Artists and activists Gregg Bordowitz and Pamela Sneed join Rail
+  contributor Jill H. Casid for a conversation at a special time of 12 p.m. EST.
 people:
   - person: gregg-bordowitz-1
   - person: pamela-sneed-1
