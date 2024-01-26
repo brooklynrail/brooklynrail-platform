@@ -1,7 +1,9 @@
 ---
 title: A Rail Reading curated by Leonard Schwartz
-deck: Featuring Schwartz and friends
-summary: Leonard Schwartz curated our 165th Wednesday Poetry Reading.
+deck: Featuring Schwartz, Nimrod Bena, Michel Delville, Genya Turovskaya, and
+  Nina Zivancevic
+summary: Leonard Schwartz curates our 165th Wednesday Poetry Reading with Nimrod
+  Bena, Michel Delville, Genya Turovskaya, and Nina Zivancevic.
 people:
   - person: leonard-schwartz
 date: 2024-02-07T13:00:00-0500
