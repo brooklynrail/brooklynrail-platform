@@ -24,4 +24,7 @@ soldout: false
 ---
 [V﻿isit *Delcy Morelos: El abrazo*, on view at Dia Chelsea through July 2024 →](https://www.diaart.org/exhibition/exhibitions-projects/delcy-morelos-el-abrazo-exhibition)
 
+\
+🌹 This conversation will take place in Spanish with English translation thanks to the generous sponsorship of our friends at Marian Goodman Gallery.
+
 [](https://www.diaart.org/exhibition/exhibitions-projects/delcy-morelos-el-abrazo-exhibition)
