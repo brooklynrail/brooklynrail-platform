@@ -20,4 +20,4 @@ soldout: false
 
 10 Year Memorial honoring Frank O’Hara, St. Mark’s Church, 1976 
 
-Featuring Joe LeSeuer, Patsy Southgate, Jane Freilicher (reading James Schuyler), Anne Waldman as MC, Kenneth Koch (reading "Awake in Spain"), Carter Ratcliffe, Tony Towle, Patsy Southgate, David Shapiro, and Peter Schjedahl.
+Featuring Joe LeSeuer, Patsy Southgate, Jane Freilicher (reading James Schuyler), Anne Waldman as MC, Kenneth Koch (reading "Awake in Spain"), Carter Ratcliffe, Tony Towle, Patsy Southgate, David Shapiro, and Peter Schjeldahl.
