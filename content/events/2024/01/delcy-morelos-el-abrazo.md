@@ -2,8 +2,7 @@
 title: "Delcy Morelos: El abrazo"
 deck: Featuring Morelos and Gaby Collins-Fernandez
 summary: Artist Delcy Morelos joins Rail contributor Gaby Collins-Fernandez for
-  a conversation. This conversation will be in Spanish with the option for
-  English captioning.
+  a conversation.
 people:
   - person: delcy-morelos
   - person: delcy-morelos-1
