@@ -13,5 +13,7 @@ short_bio: "**Michel Delville** is a poet, musician and essayist born in Liège,
   (2017). His recent publications include _The Edinburgh Companion to the Prose
   Poem_ (2021), _Beginnings of the Prose Poem_ (2021), both of which were
   co-edited with Mary Ann Caws."
+portraits:
+  - media: 2024/01/michel-delville
 website: http://www.micheldelville.com/
 ---
