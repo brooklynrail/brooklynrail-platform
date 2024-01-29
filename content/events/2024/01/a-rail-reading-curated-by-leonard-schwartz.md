@@ -5,6 +5,7 @@ deck: Featuring Schwartz, Nimrod Bena, Michel Delville, Genya Turovskaya, and
 summary: Leonard Schwartz curates our 165th Wednesday Poetry Reading with Nimrod
   Bena, Michel Delville, Genya Turovskaya, and Nina Zivancevic.
 people:
+  - person: nimrod-bena
   - person: michel-delville
   - person: genya-turovskaya
   - person: nina-zivancevic
