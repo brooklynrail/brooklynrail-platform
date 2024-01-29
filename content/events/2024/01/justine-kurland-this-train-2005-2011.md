@@ -1,7 +1,7 @@
 ---
 title: "Justine Kurland: This Train, 2005-2011"
-deck: Featuring Kurland and Rail host to be announced
-summary: Artist Justine Kurland joins Rail host for a conversation.
+deck: Featuring Kurland and Lynne Tillman
+summary: Artist Justine Kurland joins novelist Lynne Tillman for a conversation.
 people:
   - person: justine-kurland
 date: 2024-02-09T13:00:00-0500
