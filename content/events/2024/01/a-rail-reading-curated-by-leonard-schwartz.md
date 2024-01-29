@@ -1,10 +1,13 @@
 ---
-title: A Rail Reading curated by Leonard Schwartz
+title: "A Cross Cultural Poetics: A Rail Reading curated by Leonard Schwartz"
 deck: Featuring Schwartz, Nimrod Bena, Michel Delville, Genya Turovskaya, and
   Nina Zivancevic
 summary: Leonard Schwartz curates our 165th Wednesday Poetry Reading with Nimrod
   Bena, Michel Delville, Genya Turovskaya, and Nina Zivancevic.
 people:
+  - person: michel-delville
+  - person: genya-turovskaya
+  - person: nina-zivancevic
   - person: leonard-schwartz
 date: 2024-02-07T13:00:00-0500
 end_date: 2024-02-07T14:30:00-0500
