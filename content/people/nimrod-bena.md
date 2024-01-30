@@ -10,8 +10,8 @@ short_bio: Né au Tchad en 1959, **Nimrod Bena** est poète, romancier, essayist
   été couronnés entre autres par le Prix de la Vocation, le Prix Benjamin
   Fondane, le Prix Édouard Glissant, le Prix Ahmadou Kourouma, le Prix Max
   Jacob, le Prix Pierrette Micheloud, le Prix Guillaume Apollinaire. Parmi ses
-  derniers ouvrages, on compte Petit éloge de la lumière nature, poèmes
-  (Obsidiane/Le Manteau &amp; la Lyre, 2020) et Le temps liquide, récits,
+  derniers ouvrages, on compte _Petit éloge de la lumière nature, poèmes_
+  (Obsidiane/Le Manteau &amp; la Lyre, 2020) et _Le temps liquide, récits,_
   (Gallimard, coll. « Continents noirs », 2021).
 portraits:
   - media: 2024/01/nimrod-bena
