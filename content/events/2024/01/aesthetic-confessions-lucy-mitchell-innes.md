@@ -4,6 +4,7 @@ deck: Featuring Mitchell-Innes and Phyllis Tuchman
 summary: Gallerist Lucy Mitchell-Innes joins Rail Editor-at-Large Phyllis
   Tuchman for a conversation.
 people:
+  - person: lucy-mitchell-innes
   - person: phyllis-tuchman
 date: 2024-02-08T13:00:00-0500
 end_date: 2024-02-08T14:30:00-0500
