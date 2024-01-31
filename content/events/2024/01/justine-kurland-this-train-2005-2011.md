@@ -4,6 +4,7 @@ deck: Featuring Kurland and Lynne Tillman
 summary: Artist Justine Kurland joins novelist Lynne Tillman for a conversation.
 people:
   - person: justine-kurland
+  - person: lynne-tillman
 date: 2024-02-09T13:00:00-0500
 end_date: 2024-01-22T14:30:00-0500
 series: 999
