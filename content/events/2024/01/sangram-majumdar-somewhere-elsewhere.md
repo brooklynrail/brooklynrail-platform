@@ -1,5 +1,5 @@
 ---
-title: "Sangram Majumdar: Somewhere Elsewhere"
+title: "Sangram Majumdar: somewhere elsewhere"
 deck: Featuring Majumdar and Josephine Halvorson
 summary: "Artist Sangram Majumdar joins artist Josephine Halvorson for a conversation. "
 people:
