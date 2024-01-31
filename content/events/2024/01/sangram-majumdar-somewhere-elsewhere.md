@@ -3,6 +3,7 @@ title: "Sangram Majumdar: Somewhere Elsewhere"
 deck: Featuring Majumdar and Josephine Halvorson
 summary: "Artist Sangram Majumdar joins artist Josephine Halvorson for a conversation. "
 people:
+  - person: sangram-majumdar
   - person: josephine-halvorson
 date: 2024-02-13T13:00:00-0500
 end_date: 2024-02-13T14:30:00-0500
