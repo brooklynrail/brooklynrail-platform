@@ -16,6 +16,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: l7srnL5vJns
 event_id: rechxehQHoJhrsogG
 event_platform:
   - zoom
@@ -24,6 +25,6 @@ soldout: false
 [V﻿isit *Delcy Morelos: El abrazo*, on view at Dia Chelsea through July 2024 →](https://www.diaart.org/exhibition/exhibitions-projects/delcy-morelos-el-abrazo-exhibition)
 
 \
-🌹 This conversation will take place in Spanish with English translation thanks to the generous sponsorship of our friends at Marian Goodman Gallery.
+🌹 This conversation is available to watch [in English as well](https://www.youtube.com/watch?v=ZVq9W0Ejaiw) thanks to our friends at Marian Goodman Gallery. 
 
 [](https://www.diaart.org/exhibition/exhibitions-projects/delcy-morelos-el-abrazo-exhibition)
