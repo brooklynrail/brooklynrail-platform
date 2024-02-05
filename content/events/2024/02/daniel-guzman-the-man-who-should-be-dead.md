@@ -1,9 +1,10 @@
 ---
 title: "Daniel Guzmán: The Man Who Should be Dead"
-deck: "Featuring Guzmán and Rail host to be announced. "
-summary: Artist Daniel Guzmán joins Rail host for a conversation.
+deck: Featuring Guzmán and José Falconi
+summary: Artist Daniel Guzmán joins Rail contributor José Falconi for a conversation.
 people:
   - person: daniel-guzman
+  - person: jose-falconi
 date: 2024-02-12T13:00:00-0500
 end_date: 2024-02-12T14:30:00-0500
 series: 1000
