@@ -1,5 +1,5 @@
 ---
-title: "Heartbr(ache): A Critics Page Discussion"
+title: "Captives of Heartbr(ache): A Critics Page Discussion"
 deck: Featuring Ksenia M. Soboleva and friends
 summary: Rail February 2024 Critics Page contributors joins Guest Critic Ksenia
   M. Soboleva for a conversation.
