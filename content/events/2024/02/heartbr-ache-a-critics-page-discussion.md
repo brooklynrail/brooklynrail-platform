@@ -1,0 +1,22 @@
+---
+title: "Heartbr(ache): A Critics Page Discussion"
+deck: Featuring Ksenia M. Soboleva and friends
+summary: Rail February 2024 Critics Page contributors joins Guest Critic Ksenia
+  M. Soboleva for a conversation.
+people:
+  - person: ksenia-m-soboleva
+date: 2024-02-26T13:00:00-0500
+end_date: 2024-02-26T14:30:00-0500
+series: 1010
+collections:
+  - the-new-social-environment
+event_organizer:
+  - the-brooklyn-rail
+event_producer:
+  - the-brooklyn-rail
+event_id: recrRJROE0k2KGbIa
+event_platform:
+  - zoom
+soldout: false
+---
+[R﻿ead the *Brooklyn Rail*'s February 2024 Critics Page →](https://brooklynrail.org/2024/2/criticspage)
