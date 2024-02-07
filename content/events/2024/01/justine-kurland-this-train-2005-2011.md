@@ -1,7 +1,8 @@
 ---
 title: "Justine Kurland: This Train, 2005-2011"
 deck: Featuring Kurland and Lynne Tillman
-summary: Artist Justine Kurland joins novelist Lynne Tillman for a conversation.
+summary: Artist Justine Kurland joins novelist and cultural critic Lynne Tillman
+  for a conversation.
 people:
   - person: justine-kurland
   - person: lynne-tillman
