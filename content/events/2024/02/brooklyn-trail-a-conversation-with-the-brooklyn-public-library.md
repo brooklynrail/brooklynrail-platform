@@ -1,9 +1,10 @@
 ---
 title: "Brooklyn Trail: A conversation with the Brooklyn Public Library"
 deck: Featuring Robin Lester-Kenton, Damaris Olivo, and Rev. Dr. Donna Schaper
-summary: Brooklyn Public Library Vice President of Communications Robin
-  Lester-Kenton and Director of Communications Damaris Olivo join Rail
-  Editor-at-Large Rev. Dr. Donna Schaper for a conversation.
+summary: Brooklyn Public Library Executive Vice President Robin Lester-Kenton
+  and Vice President, Marketing and Communications Damaris Olivo join Rail
+  Editor-at-Large Rev. Dr. Donna Schaper for a conversation about one of the
+  nation’s most historic and most innovative library systems.
 people:
   - person: rev-dr-dona-schaper
 date: 2024-02-15T13:00:00-0500
