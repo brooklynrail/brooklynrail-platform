@@ -16,4 +16,5 @@ short_bio: "Poet **Genya Turovskaya** was born in Kyiv, Ukraine, and grew up in
   Residency at Santa Fe Art Institute, and a Whiting Award. "
 portraits:
   - media: 2022/04/genya-turovskaya
+website: https://www.genyaturovskaya.com/
 ---
