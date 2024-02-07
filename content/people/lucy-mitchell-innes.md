@@ -8,7 +8,7 @@ short_bio: "**Lucy Mitchell-Innes** co-founded Mitchell-Innes & Nash in 1996
   neighborhood. From acclaimed surveys of 20th century masters, such as Jean
   Arp, Anthony Caro, Jay DeFeo, Willem de Kooning, Leon Kossoff, Kenneth Noland
   and Roy Lichtenstein, to solo exhibitions of Sarah Braman, Keltie Ferris,
-  Daniel Lefcourt, Eddie Martinez, Pope L., Martha Rosler, and Jessica
+  Daniel Lefcourt, Eddie Martinez, Pope.L, Martha Rosler, and Jessica
   Stockholder, Mitchell-Innes & Nash has proven expertise in both advancing the
   careers of emerging artists and maintaining the superior standard set by
   established artists."
