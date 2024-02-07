@@ -1,8 +1,8 @@
 ---
 title: Donate to the Brooklyn Rail
 headline: Donate to the Brooklyn Rail
-blurb: Help us raise $200,000
-deck: We're expanding access to our free critical arts writing, daily live artist conversations, and cutting-edge curatorial projects.
+# blurb: Help us raise $200,000
+# deck: We're expanding access to our free critical arts writing, daily live artist conversations, and cutting-edge curatorial projects.
 summary: Your generous support keeps the Rail independent, relevant, and free
 ---
 
