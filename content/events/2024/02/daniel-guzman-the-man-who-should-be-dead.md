@@ -1,5 +1,5 @@
 ---
-title: "Daniel Guzmán: The Man Who Should be Dead"
+title: "Daniel Guzmán: The Man Who Should Be Dead"
 deck: Featuring Guzmán and José Falconi
 summary: Artist Daniel Guzmán joins Rail contributor José Falconi for a conversation.
 people:
