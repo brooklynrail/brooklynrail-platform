@@ -12,7 +12,7 @@ short_bio: "**Sacha Yanow** (they/them) is a Lenapehoking/NYC based performance
   Baryshnikov Arts Center, MASS MoCA, and Yaddo among others. Yanow served as
   Director of Art Matters Foundation for 12 years, and previously worked at The
   Kitchen as Director of Operations. They are a graduate of the William Esper
-  Studio Actor Training Program"
+  Studio Actor Training Program."
 portraits:
   - media: 2024/02/sacha-yanow-1
 website: https://www.sachayanow.com/
