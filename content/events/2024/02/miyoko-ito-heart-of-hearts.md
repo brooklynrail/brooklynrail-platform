@@ -4,6 +4,7 @@ deck: Featuring Jordan Stein and Chloe Stagaman
 summary: Curator and writer Jordan Stein joins Rail Director of Programs Chloe
   Stagaman for a conversation.
 people:
+  - person: jordan-stein
   - person: chloe-stagaman
 date: 2024-02-28T13:00:00-0500
 end_date: 2024-02-28T14:30:00-0500
