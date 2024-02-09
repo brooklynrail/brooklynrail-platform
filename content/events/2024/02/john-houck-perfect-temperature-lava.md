@@ -1,7 +1,7 @@
 ---
 title: "John Houck: Perfect Temperature Lava"
-deck: Featuring Houck and Rail host to be announced
-summary: "Artist John Houck joins Rail host for a conversation. "
+deck: Featuring Houck and Chris Wiley
+summary: "Artist John Houck joins artist and writer Chris Wiley for a conversation. "
 people:
   - person: john-houck
 date: 2024-02-20T13:00:00-0500
