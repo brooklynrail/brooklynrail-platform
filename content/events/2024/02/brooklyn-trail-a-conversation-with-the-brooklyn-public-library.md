@@ -1,11 +1,13 @@
 ---
 title: "Brooklyn Trail: A conversation with the Brooklyn Public Library"
-deck: Featuring Robin Lester-Kenton, Damaris Olivo, and Rev. Dr. Donna Schaper
-summary: Brooklyn Public Library Executive Vice President, External Affairs
-  Robin Lester-Kenton and Vice President, Marketing and Communications Damaris
-  Olivo join Rail Editor-at-Large Rev. Dr. Donna Schaper for a conversation
-  about one of the nation’s most historic and most innovative library systems.
+deck: Featuring Linda E. Johnson, Robin Lester-Kenton, Damaris Olivo, and Rev.
+  Dr. Donna Schaper
+summary: Brooklyn Public Library President and CEO Linda E. Johnson, Executive
+  Vice President, External Affairs Robin Lester-Kenton and Vice President,
+  Marketing and Communications Damaris Olivo join Rail Editor-at-Large Rev. Dr.
+  Donna Schaper for a conversation.
 people:
+  - person: linda-e-johnson
   - person: robin-lester-kenton
   - person: damaris-olivo
   - person: rev-dr-dona-schaper
