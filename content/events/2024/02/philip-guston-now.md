@@ -1,7 +1,7 @@
 ---
 title: Philip Guston Now
 deck: Featuring Harry Cooper and friends
-summary: Art historians join Harry Cooper for a conversation.
+summary: Artists and historians join Harry Cooper for a conversation.
 people:
   - person: harry-cooper
 date: 2024-02-21T13:00:00-0500
