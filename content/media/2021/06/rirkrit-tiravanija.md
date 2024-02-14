@@ -1,6 +1,7 @@
 ---
-media: /media/files/img_2077-986x720.jpeg
+media: /media/files/rirkrit-portrait_anette-aurell.jpg
 title: Rirkrit Tiravanija
-alt: A Photo of Rirkrit Tiravanija
-date: 2021-06-29T17:04:00-0500
+alt: Photo of Rirkrit Tiravanija
+caption: Photo by Anette Aurell
+date: 2024-02-14T15:26:00-0500
 ---
