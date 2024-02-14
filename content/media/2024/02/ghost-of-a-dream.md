@@ -1,5 +1,5 @@
 ---
-media: /media/files/wr6_9719-edit.jpg
+media: /media/files/wr6_9847-edit-1-.jpg
 title: Ghost of a Dream
 alt: Photo of Ghost of a Dream
 caption: Photo by Walker Esner
