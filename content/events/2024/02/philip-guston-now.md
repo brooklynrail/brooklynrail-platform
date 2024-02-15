@@ -1,8 +1,11 @@
 ---
 title: Philip Guston Now
-deck: Featuring Harry Cooper and friends
-summary: Artists and historians join Harry Cooper for a conversation.
+deck: Debra Bricker Balken, Mark Gibson, Mark Hudson, Steve Locke, and Harry Cooper
+summary: "Art historian Debra Bricker Balken writer Mark Hudson, and artists
+  Mark Gibson and Steve Locke join curator Harry Cooper for a conversation. "
 people:
+  - person: debra-bricker-balken
+  - person: mark-thomas-gibson
   - person: harry-cooper
 date: 2024-02-21T13:00:00-0500
 end_date: 2024-02-21T14:30:00-0500
