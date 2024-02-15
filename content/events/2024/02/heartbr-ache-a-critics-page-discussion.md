@@ -1,11 +1,18 @@
 ---
 title: "Captives of Heartbr(ache): A Critics Page Discussion"
-deck: Featuring Ksenia M. Soboleva, Le’Andra LeSeur, and friends
-summary: Rail February 2024 Critics Page contributors joins Guest Critic Ksenia
-  M. Soboleva and contributor Le’Andra LeSeur for a conversation.
+deck: Featuring Elliott Jerome Brown Jr., Jill H. Casid, Sean Fader, Wendy
+  Lotterman, Mev Luna, Cassie Packard, Rachel Stern, Le’Andra LeSeur, and Ksenia
+  M. Soboleva
+summary: Rail February 2024 Critics Page contributors Elliott Jerome Brown Jr.,
+  Jill H. Casid, Sean Fader, Wendy Lotterman, Mev Luna, Cassie Packard, and
+  Rachel Stern join contributor Le’Andra LeSeur and Guest Critic Ksenia M.
+  Soboleva for a conversation.
 people:
-  - person: ksenia-m-soboleva
+  - person: jill-h-casid
+  - person: rachel-stern
+  - person: cassie-packard
   - person: le’andra-leseur
+  - person: ksenia-m-soboleva
 date: 2024-02-26T13:00:00-0500
 end_date: 2024-02-26T14:30:00-0500
 series: 1010
