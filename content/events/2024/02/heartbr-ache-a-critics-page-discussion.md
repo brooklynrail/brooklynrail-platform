@@ -9,7 +9,6 @@ summary: Rail February 2024 Critics Page contributors Elliott Jerome Brown Jr.,
   Soboleva for a conversation.
 people:
   - person: jill-h-casid
-  - person: rachel-stern
   - person: cassie-packard
   - person: le’andra-leseur
   - person: ksenia-m-soboleva
