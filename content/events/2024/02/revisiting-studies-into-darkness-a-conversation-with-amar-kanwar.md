@@ -2,8 +2,8 @@
 title: "Revisiting Studies into Darkness: A conversation with Amar Kanwar"
 deck: Featuring Kanwar and Rattanamol Singh Johal
 summary: Artist Amar Kanwar joins curator and historian Rattanamol Singh Johal
-  for a conversation presented in partnership with the Vera List Center for Art
-  and Politics.
+  for a conversation presented in partnership with our friends at the Vera List
+  Center for Art and Politics.
 people:
   - person: rattanamol-singh-johal
   - person: vera-list-center-for-art-and-politics
