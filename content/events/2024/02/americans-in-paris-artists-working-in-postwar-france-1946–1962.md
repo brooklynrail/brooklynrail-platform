@@ -5,6 +5,7 @@ summary: Curators Debra Bricker Balken and Lynn Gumpert join Rail
   Editor-at-Large Eleanor Heartney for a conversation.
 people:
   - person: debra-bricker-balken
+  - person: lynn-gumpert
   - person: eleanor-heartney
 date: 2024-03-04T13:00:00-0500
 end_date: 2024-03-04T14:30:00-0500
