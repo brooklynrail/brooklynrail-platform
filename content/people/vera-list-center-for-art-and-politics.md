@@ -11,7 +11,7 @@ short_bio: The Vera List Center for Art and Politics is an artist-focused
   policymakers who take creative, intellectual, and political risks to bring
   about positive change.
 portraits:
-  - media: vera-list-center-for-art-and-politics
+  - media: 2024/02/vera-list-center-for-art-and-politics
 website: https://www.veralistcenter.org/
 instagram: veralistcenter
 ---
