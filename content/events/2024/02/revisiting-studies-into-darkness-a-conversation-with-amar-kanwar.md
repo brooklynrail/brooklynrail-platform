@@ -5,12 +5,13 @@ summary: Artist Amar Kanwar joins curator and historian Rattanamol Singh Johal
   for a conversation presented in partnership with the Vera List Center for Art
   and Politics.
 people:
-  - person: " rattanamol-singh-johal"
+  - person: rattanamol-singh-johal
+  - person: vera-list-center-for-art-and-politics
 date: 2024-02-22T11:00:00-0500
 end_date: 2024-02-22T12:30:00-0500
 series: 1008
 collections:
-  - the-new-social-environment
+  - common-ground
 event_organizer:
   - the-brooklyn-rail
 event_producer:
