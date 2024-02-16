@@ -21,4 +21,4 @@ event_platform:
   - zoom
 soldout: false
 ---
-[V﻿isit *Uncle!*, on view at The Kitchen, New York through March 2, 2024 → ](https://thekitchen.org/on-view/uncle/)
+[Get tickets to *Uncle!* at The Kitchen, New York through March 2, 2024 → ](https://thekitchen.org/on-view/uncle/)
