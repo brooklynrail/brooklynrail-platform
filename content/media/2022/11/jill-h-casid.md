@@ -1,6 +1,6 @@
 ---
-media: /media/files/jill_headshots_erikatownsleyphoto-6.jpg
+media: /media/files/casid-headshot-small.jpg
 title: Jill H. Casid
 alt: Photo of Jill H. Casid
-date: 2022-11-04T16:57:00-0500
+date: 2024-02-16T18:23:00-0500
 ---
