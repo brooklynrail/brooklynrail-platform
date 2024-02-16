@@ -8,7 +8,9 @@ summary: Rail February 2024 Critics Page contributors Elliott Jerome Brown Jr.,
   Rachel Stern join contributor Le’Andra LeSeur and Guest Critic Ksenia M.
   Soboleva for a conversation.
 people:
+  - person: elliott-jerome-brown-jr
   - person: jill-h-casid
+  - person: sean-fader
   - person: mev-luna
   - person: cassie-packard
   - person: le’andra-leseur
