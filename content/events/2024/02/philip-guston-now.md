@@ -1,7 +1,7 @@
 ---
 title: Philip Guston Now
 deck: Debra Bricker Balken, Mark Gibson, Mark Hudson, Steve Locke, and Harry Cooper
-summary: "Art historian Debra Bricker Balken writer Mark Hudson, and artists
+summary: "Art historian Debra Bricker Balken, writer Mark Hudson, and artists
   Mark Gibson and Steve Locke join curator Harry Cooper for a conversation. "
 people:
   - person: debra-bricker-balken
