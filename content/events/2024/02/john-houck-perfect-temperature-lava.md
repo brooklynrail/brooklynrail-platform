@@ -3,8 +3,8 @@ title: "John Houck: Perfect Temperature Lava"
 deck: Featuring Houck and Chris Wiley
 summary: "Artist John Houck joins artist and writer Chris Wiley for a conversation. "
 people:
-  - person: chris-wiley
   - person: john-houck
+  - person: chris-wiley
 date: 2024-02-20T13:00:00-0500
 end_date: 2024-02-20T14:30:00-0500
 series: 1006
