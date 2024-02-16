@@ -5,6 +5,7 @@ summary: "Art historian Debra Bricker Balken, writer Mark Hudson, and artists
   Mark Gibson and Steve Locke join curator Harry Cooper for a conversation. "
 people:
   - person: debra-bricker-balken
+  - person: mark-hudson
   - person: mark-thomas-gibson
   - person: harry-cooper
 date: 2024-02-21T13:00:00-0500
