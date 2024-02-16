@@ -7,7 +7,7 @@ people:
   - person: john-houck
 date: 2024-02-20T13:00:00-0500
 end_date: 2024-02-20T14:30:00-0500
-series: 1004
+series: 1006
 collections:
   - the-new-social-environment
 event_organizer:
