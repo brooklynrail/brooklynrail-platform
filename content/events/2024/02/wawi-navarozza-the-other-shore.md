@@ -1,0 +1,21 @@
+---
+title: "Wawi Navarozza: The Other Shore"
+deck: Featuring Wawi Navarroza and Rail host to be announced
+summary: "Artist Wawi Navarroza joins Rail host for a conversation. "
+people:
+  - person: wawi-navarroza
+date: 2024-02-27T13:00:00-0500
+end_date: 2024-02-27T14:30:00-0500
+series: 1011
+collections:
+  - the-new-social-environment
+event_organizer:
+  - the-brooklyn-rail
+event_producer:
+  - the-brooklyn-rail
+event_id: recIGdliHOJgkDLJ1
+event_platform:
+  - zoom
+soldout: false
+---
+[V﻿isit *The Other Shore*, on view at Silverlens, New York through March 2, 2024 →](https://www.silverlensgalleries.com/exhibitions/2024-01-11/the-other-shore)
