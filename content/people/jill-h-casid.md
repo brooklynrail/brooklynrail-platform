@@ -15,7 +15,7 @@ short_bio: "An artist-theorist and historian, **Jill H. Casid** holds the
   artwork has been exhibited nationally and internationally, most recently at
   the steirischerherbst ‘23 in Graz. "
 portraits:
-  - media: 2024/02/jill-h-casid
+  - media: 2024/02/jill-h-casid-1
 rail_contributor_url: https://brooklynrail.org/contributor/Jill-H-Casid
 website: http://jillhcasid.net/
 instagram: jillhcasid
