@@ -13,7 +13,7 @@ short_bio: "An artist-theorist and historian, **Jill H. Casid** holds the
   which is in Spanish translation (Metales Pesados, 2022), and the co-edited
   collection _Art History in the Wake of the Global Turn_ (Yale, 2014). Casid’s
   artwork has been exhibited nationally and internationally, most recently at
-  the Ford Foundation Gallery in New York. "
+  the steirischerherbst ‘23 in Graz. "
 portraits:
   - media: 2024/02/jill-h-casid
 rail_contributor_url: https://brooklynrail.org/contributor/Jill-H-Casid
