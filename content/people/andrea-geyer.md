@@ -13,6 +13,8 @@ short_bio: "**Andrea Geyer** is a multi-disciplinary artist engaging queer
   Gropiusbau, Berlin and Leslie Lohman Museum, New York. She is a 2023
   Guggenheim Fellow and the Associate Professor of New Genres at Parsons Fine
   Arts. "
+portraits:
+  - media: 2024/02/andrea-geyer
 rail_contributor_url: https://brooklynrail.org/contributor/Andrea-Geyer
 website: https://www.andreageyer.info/
 ---
