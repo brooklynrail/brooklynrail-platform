@@ -11,6 +11,7 @@ people:
   - person: elliott-jerome-brown-jr
   - person: jill-h-casid
   - person: sean-fader
+  - person: andrea-geyer
   - person: wendy-lotterman
   - person: mev-luna
   - person: cassie-packard
