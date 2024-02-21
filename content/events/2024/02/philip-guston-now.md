@@ -10,8 +10,8 @@ people:
   - person: mark-thomas-gibson
   - person: mark-hudson
   - person: steve-locke
-  - person: lisa-yuskavage
   - person: chris-martin-2
+  - person: lisa-yuskavage
   - person: harry-cooper
 date: 2024-02-21T13:00:00-0500
 end_date: 2024-02-21T14:30:00-0500
