@@ -1,7 +1,7 @@
 ---
 title: "Wawi Navarozza: The Other Shore"
-deck: Featuring Wawi Navarroza and Rail host to be announced
-summary: "Artist Wawi Navarroza joins Rail host for a conversation. "
+deck: Featuring Wawi Navarroza and CJ Salapare
+summary: "Artist Wawi Navarroza joins curator CJ Salapare for a conversation. "
 people:
   - person: wawi-navarroza
 date: 2024-02-27T13:00:00-0500
