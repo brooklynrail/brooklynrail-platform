@@ -4,6 +4,7 @@ deck: Featuring Wawi Navarroza and CJ Salapare
 summary: "Artist Wawi Navarroza joins curator CJ Salapare for a conversation. "
 people:
   - person: wawi-navarroza
+  - person: cj-salapare
 date: 2024-02-27T13:00:00-0500
 end_date: 2024-02-27T14:30:00-0500
 series: 1011
