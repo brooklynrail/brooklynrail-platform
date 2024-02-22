@@ -1,5 +1,5 @@
 ---
-title: "Wawi Navarozza: The Other Shore"
+title: "Wawi Navarroza: The Other Shore"
 deck: Featuring Wawi Navarroza and CJ Salapare
 summary: "Artist Wawi Navarroza joins curator CJ Salapare for a conversation. "
 people:
