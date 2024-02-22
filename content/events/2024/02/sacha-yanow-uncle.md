@@ -1,11 +1,10 @@
 ---
 title: "Sacha Yanow: Uncle!"
-deck: "Featuring Yanow, Svetlana Kitto, and Ksenia M. Soboleva "
-summary: "Artist Sacha Yanow joins Rail contributors Svetlana Kitto and Ksenia
-  M. Soboleva for a conversation. "
+deck: "Featuring Yanow and Ksenia M. Soboleva "
+summary: "Artist Sacha Yanow joins Rail contributor Ksenia M. Soboleva for a
+  conversation. "
 people:
   - person: sacha-yanow-1
-  - person: svetlana-kitto
   - person: ksenia-m-soboleva
 date: 2024-02-23T13:00:00-0500
 end_date: 2024-02-23T14:30:00-0500
