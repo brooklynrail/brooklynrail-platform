@@ -18,5 +18,7 @@ event_id: recIGdliHOJgkDLJ1
 event_platform:
   - zoom
 soldout: false
+aliases:
+  - /events/2024/02/27/wawi-navarozza-the-other-shore
 ---
-[V﻿isit *The Other Shore*, on view at Silverlens, New York through March 2, 2024 →](https://www.silverlensgalleries.com/exhibitions/2024-01-11/the-other-shore)
+[Visit *The Other Shore*, on view at Silverlens, New York through March 2, 2024 →](https://www.silverlensgalleries.com/exhibitions/2024-01-11/the-other-shore)
