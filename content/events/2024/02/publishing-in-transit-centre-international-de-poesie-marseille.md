@@ -12,7 +12,7 @@ date: 2024-02-29T13:00:00-0500
 end_date: 2024-02-29T14:30:00-0500
 series: 1013
 collections:
-  - the-new-social-environment
+  - common-ground
 event_organizer:
   - the-brooklyn-rail
 event_producer:
