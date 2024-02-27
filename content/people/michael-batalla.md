@@ -12,4 +12,5 @@ short_bio: Since the late 1990s, **Michaël Batalla** has been actively engaged
   various publishers.
 portraits:
   - media: 2024/02/michael-batalla
+website: https://cipmarseille.fr/auteurs/2106
 ---
