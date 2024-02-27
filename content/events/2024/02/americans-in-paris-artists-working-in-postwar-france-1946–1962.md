@@ -1,5 +1,5 @@
 ---
-title: "Americans In Paris: Artists Working in Postwar France, 1946–1962"
+title: "Americans in Paris: Artists Working in Postwar France, 1946–1962"
 deck: Featuring Debra Bricker Balken, Lynn Gumpert, and Eleanor Heartney
 summary: Curators Debra Bricker Balken and Lynn Gumpert join Rail
   Editor-at-Large Eleanor Heartney for a conversation.
