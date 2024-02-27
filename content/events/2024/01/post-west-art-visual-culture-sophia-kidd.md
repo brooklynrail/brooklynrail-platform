@@ -1,5 +1,6 @@
 ---
-title: "Post-West Art & Visual Culture: Sophia Kidd"
+title: "Post-West Arts & Visual Cultures: Sophia Kidd–Exhibiting Contemporary
+  Art in China"
 deck: Featuring Kidd and Paul Gladston
 summary: "Curator, publisher, and scholar Sophia Kidd joins Rail Editor-at-Large
   Paul Gladston for a conversation. "
