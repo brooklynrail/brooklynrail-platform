@@ -5,6 +5,7 @@ summary: Centre International de Poésie Marseille Director Michaël Batalla,
   curator Abigail Lang, and poet Alice Notley join Rail contributor Cole Swensen
   for a conversation and reading.
 people:
+  - person: michael-batalla
   - person: abigail-lang
   - person: alice-notley
   - person: cole-swensen
