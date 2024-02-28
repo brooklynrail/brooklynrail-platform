@@ -29,6 +29,12 @@
               {{- end -}}
             </h1>
 
+            {{- with .Params.Deck -}}
+            <p class="deck">
+              {{- . | markdownify -}}
+            </p>
+            {{- end -}}
+
           </div>
         </div>
       </div>
@@ -184,11 +190,6 @@ Mailbox 20</pre>
           </div>
 
           <div class="grid-col-12 tablet-lg:grid-col-6">
-            {{- with .Params.Deck -}}
-            <p class="deck">
-              {{- . | markdownify -}}
-            </p>
-            {{- end -}}
             <div class="content content-body">
               {{- .Content -}}
             </div>

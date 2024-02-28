@@ -23,47 +23,7 @@
   }
 
   .pagetitle {
-    // color: #5362F6;
     @include u-font('sans', '3xl');
-    
-    @include u-font('sans', '3xl');
-    @include at-media('desktop') {
-      font-size:72px;
-    }
-    @include u-padding-top(3);
-    @include u-padding-bottom(4);
-    @include u-text('green-cool-70v');
-    @include u-bg('green-cool-5v');
-    // text-shadow: textShadow(0.25, 6, #70e17b);
-    text-shadow: 
-    4px 4px 0px #b7f5bd,
-    8px 8px 0px #70e17b,
-    12px 12px 0px #21c834,
-    16px 16px 0px #00a91c;
-    // 6px 6px        #e3f5e1, 
-    // 5.75px 5.75px  #e3f5e1, 
-    // 5.5px 5.5px    #e3f5e1, 
-    // 5.25px 5.25px  #e3f5e1,
-    // 5px 5px        #b7f5bd, 
-    // 4.75px 4.75px  #b7f5bd, 
-    // 4.5px 4.5px    #b7f5bd, 
-    // 4.25px 4.25px  #b7f5bd,
-    // 4px 4px        #70e17b,
-    // 3.75px 3.75px  #70e17b,
-    // 3.5px 3.5px    #70e17b,
-    // 3.25px 3.25px  #70e17b,
-    // 3px 3px        #70e17b,
-    // 2.75px 2.75px  #70e17b,
-    // 2.5px 2.5px    #70e17b,
-    // 2.25px 2.25px  #70e17b,
-    // 2px 2px        #b7f5bd,
-    // 1.75px 1.75px  #b7f5bd,
-    // 1.5px 1.5px    #b7f5bd,
-    // 1.25px 1.25px  #b7f5bd,
-    // 1px 1px        #e3f5e1,
-    // 0.75px 0.75px  #e3f5e1,
-    // 0.5px 0.5px    #e3f5e1,
-    // 0.25px 0.25px  #e3f5e1;
   }
 
   // Deck
