@@ -1,9 +1,11 @@
 ---
 title: "Jennifer Tee: Ancestral Beginnings, Sessile Beings"
-deck: Featuring Jennifer Tee and Rail host to be announced
-summary: "Artist Jennifer Tee joins Rail host for a conversation. "
+deck: Featuring Jennifer Tee and Barbara Pollack
+summary: "Artist Jennifer Tee joins Rail contributor Barbara Pollack for a
+  conversation. "
 people:
   - person: jennifer-tee
+  - person: barbara-pollack
 date: 2024-03-06T13:00:00-0500
 end_date: 2024-03-06T14:30:00-0500
 series: 1017
