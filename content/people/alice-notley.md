@@ -14,5 +14,6 @@ short_bio: "**Alice Notley** has published over forty books of poetry, including
   three poetry journals: CHICAGO, SCARLET, and _Gare du Nord_."
 portraits:
   - media: 2023/03/alice-notley
+rail_contributor_url: https://brooklynrail.org/contributor/alice-notley
 twitter: alice_notley
 ---
