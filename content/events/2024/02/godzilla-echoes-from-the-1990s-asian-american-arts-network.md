@@ -1,7 +1,6 @@
 ---
 title: "Godzilla: Echoes from the 1990s Asian American Arts Network"
-deck: Featuring Emily Cheng, Mel Chin, Bing Lee, Jennifer Samet, Tom
-  Finkelpearl, and Eugenie Tsai
+deck: Featuring Emily Cheng, Mel Chin, Bing Lee, Jennifer Samet, and Eugenie Tsai
 summary: "Artists Emily Cheng, Mel Chin, and Bing Lee and Eric Firestone Gallery
   Director Jennifer Samet join curator Eugenie Tsai for a conversation. "
 people:
