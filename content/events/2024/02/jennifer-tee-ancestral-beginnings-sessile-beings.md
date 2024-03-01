@@ -1,6 +1,6 @@
 ---
 title: "Jennifer Tee: Ancestral Beginnings, Sessile Beings"
-deck: Featuring Jennifer Tee and Barbara Pollack
+deck: Featuring Tee and Barbara Pollack
 summary: "Artist Jennifer Tee joins Rail contributor Barbara Pollack for a
   conversation. "
 people:
