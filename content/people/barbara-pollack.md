@@ -13,6 +13,7 @@ short_bio: "**Barbara Pollack**  is cofounder and co-director of Art at a Time
   Foundation Arts Writer Grant in 2008. Pollack teaches at SVA."
 portraits:
   - media: 2021/04/barbara-pollack
+rail_contributor_url: https://brooklynrail.org/contributor/barbara-pollack
 website: https://artatatimelikethis.com/
 instagram: bxpollack
 twitter: bxpollack
