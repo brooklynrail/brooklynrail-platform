@@ -14,5 +14,5 @@ portraits:
   - media: 2024/02/julie-reiss
 rail_contributor_url: https://brooklynrail.org/contributor/Julie-Reiss
 website: https://juliereiss.com/
-instagram: " julie.reiss"
+instagram: julie.reiss
 ---
