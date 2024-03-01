@@ -15,5 +15,5 @@ short_bio: "**Wawi Navarroza** is a renowned Filipina lens-based artist known
 portraits:
   - media: 2024/02/wawi-navarroza
 website: https://www.wawinavarroza.com/
-instagram: studiowawinavarroza
+instagram: wawinavarroza
 ---
