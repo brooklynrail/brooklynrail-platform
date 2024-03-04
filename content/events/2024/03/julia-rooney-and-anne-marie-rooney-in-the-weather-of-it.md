@@ -1,10 +1,8 @@
 ---
 title: "Julia Rooney and Anne Marie Rooney: In the weather of it"
-deck: Featuring Rooney, Rooney, Amanda Millet-Sorsa, and Rail host to be announced
-summary: "Artists Julia Rooney and Anne Marie Rooney and curator Amanda
-  Millet-Sorsa join us for a conversation. "
-people:
-  - person: amanda-millet-sorsa
+deck: Featuring Rooney, Rooney, and Rail host to be announced
+summary: "Artists Julia Rooney and Anne Marie Rooney join the Rail for a conversation. "
+people: []
 date: 2024-03-11T13:00:00-0500
 end_date: 2024-03-11T14:30:00-0500
 series: 1020
