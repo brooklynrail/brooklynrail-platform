@@ -1,7 +1,8 @@
 ---
 title: "Julia Rooney and Anne Marie Rooney: In the weather of it"
-deck: Featuring Rooney, Rooney, and Rail host to be announced
-summary: "Artists Julia Rooney and Anne Marie Rooney join the Rail for a conversation. "
+deck: Featuring Rooney, Rooney, and Ginevra de Blasio
+summary: Artists Julia Rooney and Anne Marie Rooney join Rail contributor
+  Ginevra de Blasio for a conversation.
 people:
   - person: julia-rooney
 date: 2024-03-11T13:00:00-0500
