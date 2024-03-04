@@ -2,7 +2,8 @@
 title: "Julia Rooney and Anne Marie Rooney: In the weather of it"
 deck: Featuring Rooney, Rooney, and Rail host to be announced
 summary: "Artists Julia Rooney and Anne Marie Rooney join the Rail for a conversation. "
-people: []
+people:
+  - person: julia-rooney
 date: 2024-03-11T13:00:00-0500
 end_date: 2024-03-11T14:30:00-0500
 series: 1020
