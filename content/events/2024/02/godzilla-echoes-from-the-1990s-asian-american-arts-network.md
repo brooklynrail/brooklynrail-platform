@@ -8,7 +8,7 @@ people:
   - person: mel-chin
   - person: bing-lee
   - person: jennifer-samet-1
-  - {}
+  - person: eugenie-tsai
 date: 2024-03-05T13:00:00-0500
 end_date: 2024-03-05T14:30:00-0500
 series: 1016
