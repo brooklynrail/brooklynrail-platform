@@ -1,10 +1,11 @@
 ---
 title: Department of Transformation
-deck: Featuring Prem Krishnamurthy and Rail host to be announced
-summary: "Designer, author, and educator Prem Krishnamurthy join us for a
-  conversation. "
+deck: Featuring Prem Krishnamurthy and Jonathan T.D. Neil
+summary: Designer, author, and educator Prem Krishnamurthy joins Rail
+  contributor Jonathan T.D. Neil for a conversation.
 people:
   - person: prem-krishnamurthy
+  - person: jonathan-t-d-neil
 date: 2024-03-13T13:00:00-0500
 end_date: 2024-03-13T14:30:00-0500
 series: 1022
