@@ -5,8 +5,8 @@ summary: "Designer, author, and educator Prem Krishnamurthy join us for a
   conversation. "
 people:
   - person: prem-krishnamurthy
-date: 2024-03-11T13:00:00-0500
-end_date: 2024-03-11T14:30:00-0500
+date: 2024-03-13T13:00:00-0500
+end_date: 2024-03-13T14:30:00-0500
 series: 1022
 collections:
   - the-new-social-environment
