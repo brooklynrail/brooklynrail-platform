@@ -4,6 +4,7 @@ deck: Featuring Rooney, Rooney, and Ginevra de Blasio
 summary: Artists Julia Rooney and Anne Marie Rooney join Rail contributor
   Ginevra de Blasio for a conversation.
 people:
+  - person: anne-marie-rooney
   - person: julia-rooney
   - person: ginevra-de-blasio
 date: 2024-03-11T13:00:00-0500
