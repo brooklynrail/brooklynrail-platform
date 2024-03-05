@@ -1,7 +1,7 @@
 ---
 title: "Peter Nadin: The Invisible World"
 deck: Featuring Nadin and Jessica Holmes
-summary: Aritst Peter Nadin joins Rail ArTonic Editor Jessica Holmes for a conversation.
+summary: Artist Peter Nadin joins Rail ArTonic Editor Jessica Holmes for a conversation.
 people:
   - person: jessica-holmes
 date: 2024-03-18T13:00:00-0500
