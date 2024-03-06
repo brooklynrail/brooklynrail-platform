@@ -4,7 +4,7 @@ deck: Featuring El Khoury
 summary: Artist Tania El Khoury joins the Rail for a conversation.
 date: 2024-03-15T13:00:00-0500
 end_date: 2024-03-15T14:30:00-0500
-series: 1025
+series: 1026
 collections:
   - the-new-social-environment
 event_organizer:
