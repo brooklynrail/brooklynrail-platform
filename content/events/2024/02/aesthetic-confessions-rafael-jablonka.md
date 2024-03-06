@@ -1,8 +1,8 @@
 ---
 title: "Aesthetic Confessions: Rafael Jablonka"
 deck: Featuring Jablonka and Phong H. Bui
-summary: Gallerist Rafael Jablonka joins Rail Publisher and Artistic Director
-  Phong H. Bui for a conversation.
+summary: Collector and former gallerist Rafael Jablonka joins Rail Publisher and
+  Artistic Director Phong H. Bui for a conversation.
 people:
   - person: rafael-jablonka
   - person: phong-h-bui
