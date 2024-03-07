@@ -5,6 +5,7 @@ summary: Artist Michelle Grabner joins Rail Editor-at-Large Andrew Woolbright
   for a conversation.
 people:
   - person: michelle-grabner
+  - person: poor-farm
   - person: andrew-paul-woolbright
 date: 2024-03-14T13:00:00-0500
 end_date: 2024-03-14T14:30:00-0500
