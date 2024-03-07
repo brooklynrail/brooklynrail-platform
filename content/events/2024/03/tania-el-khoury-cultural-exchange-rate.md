@@ -3,6 +3,8 @@ title: "Tania El Khoury: Cultural Exchange Rate"
 deck: Featuring El Khoury and Laurel V. McLaughlin
 summary: Artist Tania El Khoury joins the Rail contributor Laurel V. McLaughlin
   for a conversation.
+people:
+  - person: tania-el-khoury
 date: 2024-03-15T13:00:00-0500
 end_date: 2024-03-15T14:30:00-0500
 series: 1024
