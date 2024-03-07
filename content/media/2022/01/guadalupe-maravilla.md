@@ -1,7 +1,7 @@
 ---
-media: /media/files/2021_guadalupe-maravilla_photo-by-steve-benisty_5c.jpeg
+media: /media/files/_guadalupe_maravilla20231218_03.jpg
 title: Guadalupe Maravilla
 alt: "Photo of Guadalupe Maravilla. "
-caption: Photo by Steve Benisty
+caption: Courtesy of the Artist and P·P·O·W, New York, Photo credit Rowan Renee
 date: 2022-01-18T14:03:00-0500
 ---
