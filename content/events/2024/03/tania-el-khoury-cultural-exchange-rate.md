@@ -19,4 +19,4 @@ soldout: false
 ---
 [L﻿earn more about *Cultural Exchange Rate*, on view at Prior Performing Arts Center in Worcester, MA through March 16, 2024 →](https://priorperformingartscenter.holycross.edu/2023-2024-season/cultural-exchange-rate/)\
 \
-[Read and purchase *Tania El Khoury's Live Art: Collaborative Knowledge Production* (Amherst College Press, 2024)→](https://www.fulcrum.org/concern/monographs/tb09j892w?locale=en)
+[Read and purchase *Tania El Khoury's Live Art: Collaborative Knowledge Production* (Amherst College Press, 2024) →](https://www.fulcrum.org/concern/monographs/tb09j892w?locale=en)
