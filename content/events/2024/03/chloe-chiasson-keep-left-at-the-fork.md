@@ -4,6 +4,7 @@ deck: Featuring Chiasson and Madison Ford
 summary: Artist Chloe Chiasson joins Rail Editorial Assistant Madison Ford for a
   conversation.
 people:
+  - person: chloe-chiasson
   - person: madison-ford
 date: 2024-03-12T13:00:00-0500
 end_date: 2024-03-12T14:30:00-0500
