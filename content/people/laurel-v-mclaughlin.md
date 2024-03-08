@@ -6,7 +6,7 @@ short_bio: "**Laurel V. McLaughlin**, PhD, is a curator, art historian, writer,
   and educator whose work explores research-based sculpture, installation, new
   media, and social practice. She is a Curator and the Director of the
   Collective Futures Fund at Tufts University Art Galleries, Boston. Her work
-  has been published in Art Papers, BOMB Magazine, The Brooklyn Rail and many
+  has been published in _Art Papers, BOMB Magazine, The Brooklyn Rail_ and many
   other journals. She co-edited the interdisciplinary reader _Tania El Khoury's
   Live Art: Collaborative Knowledge Production_ with Carrie Robbins (Amherst
   College Press, 2024). McLaughlin is currently undertaking research for a
