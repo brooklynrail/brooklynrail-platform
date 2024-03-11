@@ -4,6 +4,7 @@ deck: Featuring Lord and Jill H. Casid
 summary: Artist and writer Catherine Lord joins artist-theorist and historian
   Jill H. Casid for a conversation.
 people:
+  - person: catherine-lord
   - person: jill-h-casid
 date: 2024-03-20T13:00:00-0500
 end_date: 2024-03-20T14:30:00-0500
