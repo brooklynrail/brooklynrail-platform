@@ -20,4 +20,4 @@ event_platform:
   - zoom
 soldout: false
 ---
-[Learn more about *The Effect of Tropical Light on White Men* (MIT Press, 2023) by Catherine Lord →](https://mitpress.mit.edu/9781949484106/the-effect-of-tropical-light-on-white-men/)
+[Learn more about *The Effect of Tropical Light on White Men* (no, 2023) by Catherine Lo](https://mitpress.mit.edu/9781949484106/the-effect-of-tropical-light-on-white-men/)[*The Effect of Tropical Light on White Men,* by Catherine Lord (no place press, 2023)→ ](https://mitpress.mit.edu/9781949484106/the-effect-of-tropical-light-on-white-men/)
