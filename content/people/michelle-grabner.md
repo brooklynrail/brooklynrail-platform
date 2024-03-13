@@ -14,6 +14,7 @@ short_bio: "Wisconsin-born and based artist **Michelle Grabner** is known for
   husband, artist Brad Killam.  "
 portraits:
   - media: 2024/03/michelle-grabner
+rail_contributor_url: https://brooklynrail.org/contributor/michelle-grabner
 website: https://www.jamescohan.com/artists/michelle-grabner
 instagram: michelleagrabner
 ---
