@@ -1,5 +1,5 @@
 ---
-name: Darryl Brown, Jr
+name: Darryl Brown, Jr.
 first_name: Darryl
 last_name: Brown
 short_bio: "**Darryl Brown, Jr.** is a nationally recognized author, sexual
