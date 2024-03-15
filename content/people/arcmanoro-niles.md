@@ -12,7 +12,7 @@ short_bio: Artist **Arcmanoro Niles** makes vivid, brightly-hued paintings that
   Washington D.C. and born in 1989, Niles attended the Duke Ellington School for
   the Arts. He earned a BFA from Pennsylvania Academy of Fine Arts and an MFA
   from the New York Academy of Art. He currently works and lives in Brooklyn,
-  New York, where he shows with Rachel Uffner Gallery on the Lower East Side.
+  New York.
 portraits:
   - media: 2021/08/arcmanoro-niles
 website: http://www.arcmanoro.com/
