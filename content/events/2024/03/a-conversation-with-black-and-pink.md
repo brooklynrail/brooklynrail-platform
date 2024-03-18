@@ -1,8 +1,8 @@
 ---
-title: A conversation with Black and Pink
+title: A conversation with Black & Pink
 deck: Featuring Jasmine Tasaki, Darryl Brown, Jr., and Theodore Kerr
-summary: Black and Pink Interim Co-Managing Executive Director Jasmine Tasaki
-  and Senior Director of Programs and Advocacy Darryl Brown, Jr. join Rail
+summary: Black & Pink Interim Co-Managing Executive Director Jasmine Tasaki and
+  Senior Director of Programs and Advocacy Darryl Brown, Jr. join Rail
   contributor Theodore Kerr for a conversation.
 people:
   - person: jasmine-tasaki
@@ -22,4 +22,4 @@ event_platform:
   - zoom
 soldout: false
 ---
-[M﻿ore on Black and Pink →](https://www.blackandpink.org/)
+[M﻿ore on Black & Pink →](https://www.blackandpink.org/)
