@@ -1,10 +1,10 @@
 ---
 title: "Guadalupe Maravilla: Si no sanas hoy, sanarás mañana"
-deck: Featuring Maravilla and Rail host
-summary: Artist Guadalupe Maravilla joins Rail host, to be announced, for a
-  conversation.
+deck: Featuring Maravilla and Eugenie Tsai
+summary: Artist Guadalupe Maravilla joins curator Eugenie Tsai for a conversation.
 people:
   - person: guadalupe-maravilla
+  - person: eugenie-tsai
 date: 2024-03-26T13:00:00-0500
 end_date: 2024-03-26T14:30:00-0500
 series: 1031
