@@ -2,6 +2,8 @@
 title: "Julianne Swartz: Tenderness"
 deck: Featuring Swartz and Rail host to be announced
 summary: Artist Julianne Swartz joins the Rail for a conversation.
+people:
+  - person: julianne-swartz
 date: 2024-03-27T13:00:00-0500
 end_date: 2024-03-27T14:30:00-0500
 series: 1032
