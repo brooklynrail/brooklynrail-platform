@@ -5,6 +5,7 @@ summary: Translators Tess Lewis, Mira Rosenthal, and Richard Sieburth join Rail
   contributor Cole Swensen for a conversation and reading.
 people:
   - person: tess-lewis
+  - person: mira-rosenthal
   - person: richard-sieburth
   - person: cole-swensen
 date: 2024-03-28T13:00:00-0500
