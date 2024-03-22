@@ -9,6 +9,7 @@ people:
   - person: nile-greenberg
 date: 2024-03-22T13:00:00-0500
 end_date: 2024-03-22T14:30:00-0500
+series: 1029
 collections:
   - the-new-social-environment
 event_organizer:
