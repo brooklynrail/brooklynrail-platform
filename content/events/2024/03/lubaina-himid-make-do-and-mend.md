@@ -5,6 +5,7 @@ summary: Artist Lubaina Himid joins curator and Rail contributor Dr. Omar
   Kholeif for a conversation.
 people:
   - person: lubaina-himid
+  - person: dr-omar-kholeif
 date: 2024-04-02T13:00:00-0500
 end_date: 2024-04-02T14:30:00-0500
 series: 1036
