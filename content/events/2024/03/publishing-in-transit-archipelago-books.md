@@ -8,8 +8,8 @@ people:
   - person: mira-rosenthal
   - person: richard-sieburth
   - person: cole-swensen
-date: 2024-03-28T13:00:00-0500
-end_date: 2024-03-28T14:30:00-0500
+date: 2024-03-28T12:30:00-0500
+end_date: 2024-03-28T14:00:00-0500
 series: 1033
 collections:
   - the-new-social-environment
