@@ -8,4 +8,5 @@ short_bio: "**Joel Danilewitz** is a critic based in New York. His writing on
 portraits:
   - media: 2024/03/joel-danilewitz
 rail_contributor_url: https://brooklynrail.org/contributor/Joel-Danilewitz
+instagram: joelicannoli
 ---
