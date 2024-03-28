@@ -5,6 +5,7 @@ summary: Artist Florian Pumhösl joins Rail contributor Yuki Higashino for a
   conversation.
 people:
   - person: florian-pumhosl
+  - person: yuki-higashino
 date: 2024-04-03T13:00:00-0500
 end_date: 2024-04-03T14:30:00-0500
 series: 1037
