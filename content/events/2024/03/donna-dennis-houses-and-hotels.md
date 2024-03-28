@@ -4,6 +4,7 @@ deck: Featuring Dennis and Andrew Woolbright
 summary: "Artist Donna Dennis joins Rail Editor-at-Large Andrew Woolbright for a
   conversation. "
 people:
+  - person: donna-dennis
   - person: andrew-paul-woolbright
 date: 2024-04-05T13:00:00-0500
 end_date: 2024-04-05T14:30:00-0500
