@@ -1,7 +1,7 @@
 ---
-title: "Aesthetic Confessions: CANADA "
+title: "Aesthetic Confessions: Canada "
 deck: Featuring Wallace Whitney, Phil Grauer, and Lilly Wei
-summary: "Artists and CANADA founders Wallace Whitney and Phil Grauer join Rail
+summary: "Artists and Canada founders Wallace Whitney and Phil Grauer join Rail
   contributor Lilly Wei for a conversation. "
 people:
   - person: lilly-wei
@@ -19,4 +19,4 @@ event_platform:
   - zoom
 soldout: false
 ---
-[M﻿ore on CANADA →](https://www.canadanewyork.com/)
+[M﻿ore on Canada →](https://www.canadanewyork.com/)
