@@ -3,6 +3,8 @@ title: "John Giorno: Jasmine Burn"
 deck: Featuring Anthony Huberman and Kay Larson
 summary: "Curator Anthony Huberman joins art critic, author, editor, and
   ⁠Buddhist practitioner Kay Larson for a conversation. "
+people:
+  - person: anthony-huberman
 date: 2024-04-01T13:00:00-0500
 end_date: 2024-04-01T14:30:00-0500
 series: 1035
