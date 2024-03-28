@@ -6,8 +6,8 @@ summary: "Writer Olivia Kan-Sperling joins Rail Production Assistant Joel
 people:
   - person: joel-danilewitz
   - person: olivia-kan-sperling
-date: 2024-03-28T14:12:00-0500
-end_date: 2024-03-28T14:12:00-0500
+date: 2024-04-10T14:00:00-0500
+end_date: 2024-04-10T15:30:00-0500
 series: 1042
 collections:
   - the-new-social-environment
