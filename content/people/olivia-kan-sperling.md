@@ -13,5 +13,5 @@ short_bio: "**Olivia Kan-Sperling** works on/in popular prose, criticism as
 portraits:
   - media: 2024/03/olivia-kan-sperling
 website: https://oliviaks.page/
-instagram: " dianadiagram"
+instagram: dianadiagram
 ---
