@@ -1,7 +1,7 @@
 ---
 title: "Aesthetic Confessions: Canada "
 deck: Featuring Sarah Braman, Phil Grauer, Wallace Whitney, Joe DeNardo, Stuart
-  Lorimer, Kari Cholnoky, Micheal Mahalchick, Xylor Jane and Lilly Wei
+  Lorimer, Kari Cholnoky, Micheal Mahalchick, Xylor Jane, and Lilly Wei
 summary: "Canada founders Sarah Braman, Wallace Whitney, and Phil Grauer and
   artists who work or show at the gallery Joe DeNardo, Stuart Lorimer, Kari
   Cholnoky, Micheal Mahalchick and Xylor Jane join Rail contributor Lilly Wei
