@@ -12,4 +12,6 @@ short_bio: "**Chrissie Iles** is the Anne and Joel Ehrenkranz Curator at the
   addressing ideas of re-mapping, migration, Black and Indigenous geographies,
   and conceptualizations of time and knowledge, including Korakrit
   Arunanondchai, Tourmaline, Clarissa Tossin."
+portraits:
+  - media: 2024/04/chrissie-iles
 ---
