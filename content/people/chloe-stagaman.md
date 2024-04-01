@@ -7,5 +7,6 @@ short_bio: "**Chloe Stagaman** is a Brooklyn-based curator. She is Director of
   conversation series The New Social Environment. "
 portraits:
   - media: 2022/06/chloe-stagaman
+rail_contributor_url: https://brooklynrail.org/contributor/Chloe-Stagaman
 instagram: chloestagagram
 ---
