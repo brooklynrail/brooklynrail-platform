@@ -3,6 +3,8 @@ title: Even Better Than the Real Thing
 deck: Meg Onli, Chrissie Iles, and Amber Jamilla Musser
 summary: Curators Meg Onli and Chrissie Iles join Rail contributor Amber Jamilla Musser
 people:
+  - person: meg-onli
+  - person: chrissie-iles
   - person: amber-musser
 date: 2024-04-12T13:00:00-0500
 end_date: 2024-04-12T14:30:00-0500
