@@ -12,5 +12,7 @@ short_bio: "**Meg Onli** is Curator-at-Large at the Whitney. In addition to the
   Pasts, Banal Presents_ (2019), _Jessica Vaughn: Our Primary Focus is to be
   Successful_ (2021), and co-curated _Ulysses Jenkins: Without Your
   Interpretation_ (2021)."
+portraits:
+  - media: 2024/04/meg-onli
 instagram: monastictrio
 ---
