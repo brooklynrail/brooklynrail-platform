@@ -1,8 +1,8 @@
 ---
 title: "Raven Chacon: A Worm’s Eye View from a Bird’s Beak"
-deck: Featuring Raven Chacon, Alison Coplan, and Rail host to be announced
-summary: "Artist Raven Chacon and curator Alison Coplan join the Rail for a
-  conversation. "
+deck: Featuring Raven Chacon, Alison Coplan, and Re'al Christian
+summary: Artist Raven Chacon and curator Alison Coplan join Rail contributor
+  Re'al Christian for a conversation.
 people:
   - person: raven-chacon
   - person: alison-coplan
