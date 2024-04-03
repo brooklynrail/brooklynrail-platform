@@ -6,6 +6,7 @@ summary: Artist Raven Chacon and curator Alison Coplan join Rail contributor
 people:
   - person: raven-chacon
   - person: alison-coplan
+  - person: re’al-christian
 date: 2024-04-08T17:00:00-0500
 end_date: 2024-04-08T18:30:00-0500
 series: 1040
