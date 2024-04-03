@@ -1,9 +1,10 @@
 ---
 title: "Helen Tworkov: Lotus Girl"
-deck: Featuring Tworkov and Rail host to be announced
-summary: Author Helen Tworkov joins the Rail for a conversation.
+deck: Featuring Tworkov and Jared Bland
+summary: Author Helen Tworkov joins writer and editor Jared Bland for a conversation.
 people:
   - person: helen-tworkov
+  - person: jared-bland
 date: 2024-04-24T13:00:00-0500
 end_date: 2024-04-24T14:30:00-0500
 series: 1052
