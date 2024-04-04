@@ -4,6 +4,7 @@ deck: Featuring Alcalá and Ksenia M. Soboleva
 summary: Artist Marcel Alcalá joins Rail contributor Ksenia M. Soboleva for a
   conversation.
 people:
+  - person: marcel-alcala
   - person: ksenia-m-soboleva
 date: 2024-04-16T13:00:00-0500
 end_date: 2024-04-16T14:30:00-0500
