@@ -9,7 +9,7 @@ people:
   - person: amber-musser
 date: 2024-04-12T13:00:00-0500
 end_date: 2024-04-12T14:30:00-0500
-series: 1043
+series: 1044
 collections:
   - the-new-social-environment
 event_organizer:
