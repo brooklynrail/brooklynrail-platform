@@ -6,7 +6,10 @@ summary: "The Art Students League Artistic/Executive Director Michael Hall,
   of Research and Archives Stephanie Cassidy join Rail Architecture Editor
   William Corwin for a conversation. "
 people:
+  - person: michael-hall
   - person: ksenia-nouril
+  - person: stephanie-cassidy
+  - person: william-corwin
 date: 2024-04-11T13:00:00-0500
 end_date: 2024-04-11T14:30:00-0500
 series: 1043
