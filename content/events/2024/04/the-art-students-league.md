@@ -1,0 +1,19 @@
+---
+title: The Art Students League
+deck: Featuring Michael Hall, Ksenia Nouril, and Rail host to be announced
+summary: The Art Students League joins the Rail for a conversation.
+date: 2024-04-11T13:00:00-0500
+end_date: 2024-04-11T14:30:00-0500
+series: 1043
+collections:
+  - the-new-social-environment
+event_organizer:
+  - the-brooklyn-rail
+event_producer:
+  - the-brooklyn-rail
+event_id: recudqahARxMTcJ9C
+event_platform:
+  - zoom
+soldout: false
+---
+[M﻿ore on The Art Students League →](https://www.artstudentsleague.org/)
