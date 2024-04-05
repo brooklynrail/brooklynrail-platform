@@ -1,8 +1,8 @@
 ---
 title: "Toshiko Takaezu: Worlds Within"
-deck: Featuring Glenn Adamson, Leilehua Lanzilotti, Kate Wiener, and Christina Yang
-summary: "Curators Glenn Adamson, Leilehua Lanzilotti, and Kate Wiener join
-  scholar Christina Yang for a conversation. "
+deck: Featuring Glenn Adamson, Kate Wiener, Leilehua Lanzilotti, and Christina Yang
+summary: "Curators Glenn Adamson and Kate Wiener and composer Leilehua
+  Lanzilotti join scholar Christina Yang for a conversation. "
 people:
   - person: glenn-adamson
   - person: leilehua-lanzilotti
