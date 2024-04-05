@@ -20,4 +20,4 @@ event_platform:
   - zoom
 soldout: false
 ---
-[G﻿et a copy of *Island Time* by Olivia Kan-Sperling (Expat Press, 2021) →](https://expatpress.com/product/island-time-olivia-kan-sperling/)
+[G﻿et a copy of *Island Time: White Tee Edition* by Olivia Kan-Sperling (Expat Press, 2023) →](https://expatpress.com/product/island-time-olivia-kan-sperling/)
