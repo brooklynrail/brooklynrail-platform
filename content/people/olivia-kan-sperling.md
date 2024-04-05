@@ -14,4 +14,5 @@ portraits:
   - media: 2024/03/olivia-kan-sperling
 website: https://oliviaks.page/
 instagram: dianadiagram
+twitter: diamonddustpaw
 ---
