@@ -4,6 +4,8 @@ deck: Featuring Mary Newell, Charles Pigott, Stephen Collis, and Cole Swensen
 summary: Writers Mary Newell, Charles Pigott, and Stephen Collis join Rail
   contributor Cole Swensen for a conversation.
 people:
+  - person: mary-newell
+  - person: stephen-collis
   - person: cole-swensen
 date: 2024-04-18T13:30:00-0500
 end_date: 2024-04-18T14:30:00-0500
