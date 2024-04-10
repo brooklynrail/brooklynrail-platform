@@ -4,6 +4,7 @@ deck: Featuring O'Neal and Jessica Holmes
 summary: "Artist Mary Lovelace O'Neal joins Rail ArTonic Editor Jessica Holmes
   for a conversation. "
 people:
+  - person: mary-lovelace-o’neal
   - person: jessica-holmes
 date: 2024-04-19T13:00:00-0500
 end_date: 2024-04-19T14:30:00-0500
