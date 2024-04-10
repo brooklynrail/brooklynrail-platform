@@ -5,6 +5,7 @@ summary: Writers Mary Newell, Charles Pigott, and Stephen Collis join Rail
   contributor Cole Swensen for a conversation.
 people:
   - person: mary-newell
+  - person: charles-pigott
   - person: stephen-collis
   - person: cole-swensen
 date: 2024-04-18T13:30:00-0500
