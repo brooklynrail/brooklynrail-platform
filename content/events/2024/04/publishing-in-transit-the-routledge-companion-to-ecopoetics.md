@@ -8,7 +8,7 @@ people:
   - person: charles-pigott
   - person: stephen-collis
   - person: cole-swensen
-date: 2024-04-18T13:30:00-0500
+date: 2024-04-18T13:00:00-0500
 end_date: 2024-04-18T14:30:00-0500
 series: 1048
 collections:
