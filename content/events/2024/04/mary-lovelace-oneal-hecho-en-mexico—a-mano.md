@@ -20,4 +20,4 @@ event_platform:
   - zoom
 soldout: false
 ---
-[V﻿isit *HECHO EN MÉXICO—a mano,* on view atMarianne Boesky Gallery, New York through May 4, 2024 →](https://marianneboeskygallery.com/mary-lovelace-oneal-hecho-en-mexico/)
+[V﻿isit *HECHO EN MÉXICO—a mano,* on view at Marianne Boesky Gallery, New York through May 4, 2024 →](https://marianneboeskygallery.com/mary-lovelace-oneal-hecho-en-mexico/)
