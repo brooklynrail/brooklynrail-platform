@@ -4,6 +4,7 @@ title: "Stephanie Syjuco: Dodge + Burn, A Survey Exhibition Of Work From 2004 -
 deck: Featuring Syjuco and Tausif Noor
 summary: Artist Stephanie Syjuco joins Rail contributor Tausif Noor for a conversation.
 people:
+  - person: stephanie-syjuco
   - person: tausif-noor
 date: 2024-04-29T13:00:00-0500
 end_date: 2024-04-29T14:30:00-0500
