@@ -4,6 +4,7 @@ deck: Featuring Treiber and Andrew Woolbright
 summary: "Artist Fabian Treiber joins Rail Editor-at-Large Andrew Woolbright for
   a conversation. "
 people:
+  - person: fabian-treiber
   - person: andrew-paul-woolbright
 date: 2024-04-17T13:00:00-0500
 end_date: 2024-04-17T14:30:00-0500
