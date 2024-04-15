@@ -3,6 +3,7 @@ title: "Idris Khan: Repeat After Me "
 deck: Featuring Khan and Tom McGlynn
 summary: Artist Idris Khan joins Rail Editor-at-Large Tom McGlynn for a conversation.
 people:
+  - person: idris-khan
   - person: tom-mcglynn
 date: 2024-04-23T13:00:00-0500
 end_date: 2024-04-23T14:30:00-0500
