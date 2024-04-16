@@ -20,3 +20,5 @@ event_platform:
 soldout: false
 ---
 [V﻿isit *Idris Khan: Repeat After Me*, on view at the Milwaukee Art Museum through August 11, 2024 →](https://mam.org/exhibitions/repeat-after-me/)
+
+[V﻿isit *After…*, on view at Sean Kelly, New York through May 4, 2024 →](https://www.skny.com/exhibitions/idris-khan4?view=slider#2)
