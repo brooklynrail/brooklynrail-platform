@@ -4,6 +4,7 @@ deck: Featuring Heidi Zuckerman, Courtenay Finn, George Adams, and Hearne Pardee
 summary: Curators Heidi Zuckerman, Courtenay Finn, and George Adams join Rail
   contributor Hearne Pardee for a conversation.
 people:
+  - person: heidi-zuckerman
   - person: courtenay-finn
   - person: hearne-pardee
 date: 2024-05-06T13:00:00-0500
