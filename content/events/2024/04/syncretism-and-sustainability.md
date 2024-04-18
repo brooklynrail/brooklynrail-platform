@@ -1,8 +1,11 @@
 ---
 title: Syncretism and Sustainability
-deck: ""
-summary: Featuring Sanford Biggers, Willie Cole, and Mel Kendrick, moderated by
-  William Corwin
+deck: Featuring Sanford Biggers, Willie Cole, and Mel Kendrick, and William Corwin
+summary: National Academicians Sanford Biggers, Willie Cole, and Mel
+  Kendrick will participate in a moderated discussion about formal innovation
+  through the use and reuse of materials, hybridity, and the melding of
+  different traditions of making. The discussion is presented in partnership
+  with the Brooklyn Rail, and moderated by William Corwin.
 people:
   - person: national-academy-of-design
 date: 2024-04-25T18:00:00-0500
