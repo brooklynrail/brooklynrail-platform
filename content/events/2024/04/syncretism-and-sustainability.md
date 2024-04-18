@@ -12,8 +12,7 @@ date: 2024-04-25T18:00:00-0500
 end_date: 2024-04-25T20:00:00-0500
 collections:
   - sponsored-listing
-event_organizer:
-  - the-brooklyn-rail
+event_organizer: null
 event_producer:
   - the-brooklyn-rail
 registration_url: https://www.eventbrite.com/e/syncretism-sustainability-sanford-biggers-willie-cole-mel-kendrick-tickets-810617367367
