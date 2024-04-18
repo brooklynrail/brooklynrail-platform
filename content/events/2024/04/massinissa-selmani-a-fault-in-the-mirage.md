@@ -4,6 +4,7 @@ deck: Featuring Selmani and CJ Salapare
 summary: "Artist Massinissa Selmani joins Rail contributor CJ Salapare for a
   conversation. "
 people:
+  - person: massinissa-selmani
   - person: cj-salapare
 date: 2024-04-22T13:00:00-0500
 end_date: 2024-04-22T14:30:00-0500
