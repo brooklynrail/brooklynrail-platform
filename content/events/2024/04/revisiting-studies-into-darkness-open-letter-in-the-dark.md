@@ -1,5 +1,5 @@
 ---
-title: "Revisiting / Studies Into Darkness: Open Letter in the Dark"
+title: "Revisiting Studies into Darkness: Open Letter in the Dark"
 deck: Featuring Michael Rakowitz, Emily Jacir, and Jill H. Casid
 summary: Artists Michael Rakowitz and Emily Jacir join Rail contributor Jill H.
   Casid for a conversation presented in partnership with our friends at the Vera
