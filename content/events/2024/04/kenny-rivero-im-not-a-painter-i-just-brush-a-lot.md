@@ -3,6 +3,7 @@ title: "Kenny Rivero: I'm Not a Painter, I Just Brush a Lot "
 deck: Featuring Rivero and Onnesha Roychoudhuri
 summary: "Artist Kenny Rivero joins writer Onnesha Roychoudhuri for a conversation. "
 people:
+  - person: onnesha-roychoudhuri
   - person: kenny-rivero
 date: 2024-04-25T13:00:00-0500
 end_date: 2024-04-25T14:30:00-0500
