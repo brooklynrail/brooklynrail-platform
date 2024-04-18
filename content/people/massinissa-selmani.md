@@ -15,4 +15,6 @@ short_bio: "**Massinissa Selmani** (b. 1980, Algiers) constructs dreamlike
   2023."
 portraits:
   - media: 2024/04/massinissa-selmani
+website: https://massinissa-selmani.com/
+instagram: massinissaselmani
 ---
