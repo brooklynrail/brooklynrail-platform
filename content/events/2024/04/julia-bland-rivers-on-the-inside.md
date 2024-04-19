@@ -4,6 +4,7 @@ deck: "Featuring Bland and Gaby Collins-Fernandez "
 summary: "Artist Julia Bland joins Rail contributor Gaby Collins-Fernandez for a
   conversation. "
 people:
+  - person: julia-bland
   - person: gaby-collins-fernandez
 date: 2024-04-30T13:00:00-0500
 end_date: 2024-04-30T14:30:00-0500
