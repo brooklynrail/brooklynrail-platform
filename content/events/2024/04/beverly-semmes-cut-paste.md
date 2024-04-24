@@ -1,9 +1,11 @@
 ---
 title: "Beverly Semmes: Cut Paste"
-deck: Featuring Semmes and Rail host to be announced
-summary: "Artist Beverly Semmes joins the Rail for a conversation. "
+deck: Featuring Semmes and Amanda Gluibizzi
+summary: "Artist Beverly Semmes joins Rail ArtSeen editor Amanda Gluibizzi for a
+  conversation. "
 people:
   - person: beverly-semmes
+  - person: amanda-gluibizzi
 date: 2024-05-01T13:00:00-0500
 end_date: 2024-05-01T14:30:00-0500
 series: 1057
