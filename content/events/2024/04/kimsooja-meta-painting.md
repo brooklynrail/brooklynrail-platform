@@ -2,6 +2,8 @@
 title: "Kimsooja: Meta-Painting"
 deck: Featuring Kimsooja and Rail host to be announced
 summary: Artist Kimsooja joins the Rail for a conversation.
+people:
+  - person: kimsooja
 date: 2024-05-03T13:00:00-0500
 end_date: 2024-05-03T14:30:00-0500
 series: 1059
