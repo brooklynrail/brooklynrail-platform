@@ -12,6 +12,8 @@ short_bio: "Throughout the past forty years, **Kimsooja’s** conceptual practic
   fabric of a place and its people. Metaphorically referring to the way the
   moving body weaves connections with new contexts and new situations, this
   concept reoccurs throughout Kimsooja’s practice. "
+portraits:
+  - media: 2024/04/kimsooja
 website: http://www.kimsooja.com/
 instagram: kimsoojastudio
 ---
