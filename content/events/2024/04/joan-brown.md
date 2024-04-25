@@ -6,6 +6,7 @@ summary: Curators Heidi Zuckerman, Courtenay Finn, and George Adams join Rail
 people:
   - person: heidi-zuckerman
   - person: courtenay-finn
+  - person: george-adams
   - person: hearne-pardee
 date: 2024-05-06T13:00:00-0500
 end_date: 2024-05-06T14:30:00-0500
