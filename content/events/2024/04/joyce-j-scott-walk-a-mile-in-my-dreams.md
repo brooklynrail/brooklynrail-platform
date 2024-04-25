@@ -4,6 +4,7 @@ deck: Featuring Joyce J. Scott and Angela N. Carroll
 summary: Artist Joyce J. Scott joins art historian Angela N. Carroll for a conversation.
 people:
   - person: joyce-j-scott
+  - person: angela-n-carroll
 date: 2024-05-07T13:00:00-0500
 end_date: 2024-05-07T14:30:00-0500
 series: 1061
