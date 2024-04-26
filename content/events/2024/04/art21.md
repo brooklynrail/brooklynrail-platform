@@ -1,10 +1,12 @@
 ---
 title: Art21
-deck: Featuring Tina Kukielski, Nick Ravich, Ian Forster, and Rail host to be
-  announced
+deck: Featuring Tina Kukielski, Nick Ravich, and Rail host to be announced
 summary: "Art21 Susan Sollins Executive Director and Chief Curator Tina
-  Kukielski, Director of Production Nick Ravich, and Senior Producer Ian Forster
-  join the Rail for a conversation. "
+  Kukielski and Director of Production Nick Ravich join the Rail for a
+  conversation. "
+people:
+  - person: tina-kukielski
+  - person: nick-ravich
 date: 2024-05-02T13:00:00-0500
 end_date: 2024-05-02T14:30:00-0500
 series: 1058
