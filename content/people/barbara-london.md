@@ -13,4 +13,7 @@ short_bio: "**Barbara London’s** curatorial projects focus on sound art and ne
   University, and in the Graduate Art Department at Yale. "
 portraits:
   - media: 2023/01/barbara-london
+rail_contributor_url: https://brooklynrail.org/contributor/barbara-london
+website: https://www.barbaralondon.net/
+instagram: barbara_london_calling
 ---
