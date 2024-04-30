@@ -10,6 +10,7 @@ people:
   - person: john-newman
 date: 2024-05-13T13:00:00-0500
 end_date: 2024-05-13T14:30:00-0500
+series: 1065
 collections:
   - the-new-social-environment
 event_organizer:
