@@ -8,7 +8,7 @@ people:
   - person: gaby-collins-fernandez
 date: 2024-04-30T13:00:00-0500
 end_date: 2024-04-30T14:30:00-0500
-series: 1053
+series: 1056
 collections:
   - the-new-social-environment
 event_organizer:
