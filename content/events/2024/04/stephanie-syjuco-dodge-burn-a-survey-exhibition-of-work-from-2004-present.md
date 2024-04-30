@@ -15,6 +15,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: MHsdxk-63zI
 event_id: recbH2yrLJd6FfwWu
 event_platform:
   - zoom
