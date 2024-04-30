@@ -9,9 +9,8 @@ short_bio: Having worked at Art21 since 2006, **Nick Ravich** is currently the
   Close Up,_ which he also co-created. As a director, series producer, and
   consulting producer for Art21, Nick has been directly involved in the
   production of 300 (and counting) digital shorts which have been screened over
-  75 times at over 30 film festivals across the world—including DOC NYC,
-  BlackStar, and Newfest—and have been honored with a Vimeo Staff Pick and Video
-  Consortium New York screenings.
+  125 times at over 70 film festivals across the world—including BlackStar, DOC
+  NYC, Full Frame, and Newfest—and have been honored multiple Vimeo Staff Picks.
 portraits:
   - media: 2024/04/nick-ravich
 instagram: nickyravich
