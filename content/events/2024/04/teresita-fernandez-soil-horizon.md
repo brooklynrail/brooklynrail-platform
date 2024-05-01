@@ -4,6 +4,7 @@ deck: Featuring Fernández and Allison Glenn
 summary: Artist Teresita Fernández joins Rail contributor Allison Glenn for a
   conversation.
 people:
+  - person: teresita-fernandez
   - person: allison-glenn
 date: 2024-05-14T13:00:00-0500
 end_date: 2024-05-14T14:30:00-0500
