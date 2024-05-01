@@ -8,6 +8,7 @@ summary: "Cutrator Dieter Schwarz, Rail Editor-at-Large Barbara MacAdam, and
 people:
   - person: dieter-schwarz
   - person: john-newman
+  - person: roger-white
   - person: will-heinrich
 date: 2024-05-13T13:00:00-0500
 end_date: 2024-05-13T14:30:00-0500
