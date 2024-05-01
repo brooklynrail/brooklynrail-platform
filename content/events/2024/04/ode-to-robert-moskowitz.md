@@ -7,6 +7,7 @@ summary: "Cutrator Dieter Schwarz, Rail Editor-at-Large Barbara MacAdam, and
   conversation. "
 people:
   - person: dieter-schwarz
+  - person: barbara-macadam
   - person: john-newman
   - person: roger-white
   - person: will-heinrich
