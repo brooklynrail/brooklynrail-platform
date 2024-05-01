@@ -6,6 +6,7 @@ summary: Artists Michael Rakowitz and Emily Jacir join Rail contributor Jill H.
   List Center for Art and Politics.
 people:
   - person: michael-rakowitz
+  - person: emily-jacir
   - person: jill-h-casid
 date: 2024-05-09T13:00:00-0500
 end_date: 2024-05-09T14:30:00-0500
