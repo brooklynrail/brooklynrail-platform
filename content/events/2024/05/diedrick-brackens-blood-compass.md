@@ -1,5 +1,5 @@
 ---
-title: "Diedrick Brackens: Blood Compass "
+title: "Diedrick Brackens: blood compass "
 deck: Featuring Brackens and Glenn Adamson
 summary: "Artist Diedrick Brackens joins Rail contributor Glenn Adamson for a
   conversation. "
