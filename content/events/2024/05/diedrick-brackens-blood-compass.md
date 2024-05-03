@@ -4,6 +4,7 @@ deck: Featuring Brackens and Glenn Adamson
 summary: "Artist Diedrick Brackens joins Rail contributor Glenn Adamson for a
   conversation. "
 people:
+  - person: diedrick-brackens
   - person: glenn-adamson
 date: 2024-05-10T13:00:00-0500
 end_date: 2024-05-10T14:30:00-0500
