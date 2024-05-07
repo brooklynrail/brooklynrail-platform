@@ -8,8 +8,8 @@ summary: Monira Foundation Executive Director and Chief Curator Ysabel Pinyol
   contributor Ginevra de Blasio for a conversation.
 people:
   - person: ginevra-de-blasio
-date: 2024-05-16T13:00:00-0500
-end_date: 2024-05-16T14:30:00-0500
+date: 2024-05-16T11:00:00-0500
+end_date: 2024-05-16T12:30:00-0500
 series: 1068
 collections:
   - the-new-social-environment
