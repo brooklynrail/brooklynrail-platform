@@ -1,6 +1,6 @@
 ---
 title: "Joyce J. Scott: Walk a Mile in My Dreams"
-deck: Featuring Joyce J. Scott and Angela N. Carroll
+deck: Scott and Angela N. Carroll
 summary: Artist Joyce J. Scott joins art historian Angela N. Carroll for a conversation.
 people:
   - person: joyce-j-scott
@@ -14,6 +14,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: cZruLVxR1y4
 event_id: recpnR0LFr5bRnaJZ
 event_platform:
   - zoom
