@@ -16,4 +16,5 @@ short_bio: "**John Newman** is an artist  living and working in New York City.
 portraits:
   - media: 2024/04/john-newman
 website: https://www.johnnewmanstudio.com/
+instagram: johnnewmanstudio
 ---
