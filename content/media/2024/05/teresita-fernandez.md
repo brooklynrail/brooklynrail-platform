@@ -1,5 +1,5 @@
 ---
-media: /media/files/tf-portrait-2023-by-axel-dupeux-02.jpg
+media: /media/files/tf-portrait-2023-by-axel-dupeux-07-b_w-.jpg
 title: Teresita Fernández
 alt: Photo of Teresita Fernández
 caption: Photo by Axel Dupeux
