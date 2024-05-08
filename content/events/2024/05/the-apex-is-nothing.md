@@ -4,6 +4,7 @@ deck: Featuring Bruce Pearson, John O'Connor, Ken Weathersby, and Amanda Millet-
 summary: "Artist Bruce Pearson and curators John O'Connor and Ken Weathersby
   join Rail contributor Amanda Millet-Sorsa for a conversation. "
 people:
+  - person: ken-weathersby
   - person: amanda-millet-sorsa
 date: 2024-05-15T13:00:00-0500
 end_date: 2024-05-15T14:30:00-0500
