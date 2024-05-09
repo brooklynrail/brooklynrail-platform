@@ -1,9 +1,11 @@
 ---
 title: The Apex is Nothing
-deck: Featuring Bruce Pearson, John O'Connor, Ken Weathersby, and Amanda Millet-Sorsa
-summary: "Artist Bruce Pearson and curators John O'Connor and Ken Weathersby
-  join Rail contributor Amanda Millet-Sorsa for a conversation. "
+deck: Featuring Bruce Pearson, Chris Martin, John O'Connor, Ken Weathersby, and
+  Amanda Millet-Sorsa
+summary: "Artists Bruce Pearson and Chris Martin and curators John O'Connor and
+  Ken Weathersby join Rail contributor Amanda Millet-Sorsa for a conversation. "
 people:
+  - person: chris-martin-2
   - person: ken-weathersby
   - person: amanda-millet-sorsa
 date: 2024-05-15T13:00:00-0500
