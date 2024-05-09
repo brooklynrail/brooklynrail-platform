@@ -7,6 +7,7 @@ summary: "Artists Bruce Pearson and Chris Martin and curators John O'Connor and
 people:
   - person: chris-martin-2
   - person: ken-weathersby
+  - person: john-j-oconnor
   - person: amanda-millet-sorsa
 date: 2024-05-15T13:00:00-0500
 end_date: 2024-05-15T14:30:00-0500
