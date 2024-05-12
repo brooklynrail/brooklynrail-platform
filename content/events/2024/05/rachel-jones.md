@@ -1,9 +1,11 @@
 ---
 title: "Rachel Jones: !!!!!"
-deck: Featuring Jones and Rail host to be announced
-summary: Artist Rachel Jones joins the Rail for a conversation
+deck: Featuring Jones and Chloe Stagaman
+summary: Artist Rachel Jones joins the Rail Director of Programs Chloe Stagaman
+  for a conversation.
 people:
   - person: rachel-jones
+  - person: chloe-stagaman
 date: 2024-05-17T13:00:00-0500
 end_date: 2024-05-17T14:30:00-0500
 series: 1069
