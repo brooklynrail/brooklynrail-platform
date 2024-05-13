@@ -7,7 +7,9 @@ summary: Monira Foundation Executive Director and Chief Curator Ysabel Pinyol
   of Public Programs Lidia Costa, and Art Frankly CEO Karline Moeller join Rail
   contributor Ginevra de Blasio for a conversation.
 people:
+  - person: ysabel-pinyol-blasi
   - person: anne-muntges
+  - person: lidia-costa
   - person: ginevra-de-blasio
 date: 2024-05-16T11:00:00-0500
 end_date: 2024-05-16T12:30:00-0500
