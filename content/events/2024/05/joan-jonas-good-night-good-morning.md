@@ -5,8 +5,8 @@ summary: "Curator Ana Janevski, Rail Editor-at-Large Barry Schwabsky, and artist
   Zoe Leonard join Rail contributor Lynne Tillman for a conversation. "
 people:
   - person: ana-janevski
+  - person: zoe-leonard
   - person: barry-schwabsky
-  - person: zoe-leonard-1
   - person: lynne-tillman
 date: 2024-05-21T13:00:00-0500
 end_date: 2024-05-21T14:30:00-0500
