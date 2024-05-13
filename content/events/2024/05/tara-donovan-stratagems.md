@@ -4,6 +4,7 @@ deck: Featuring Donovan and Jason Rosenfeld
 summary: Artist Tara Donovan joins Rail Editor-at-Large Jason Rosenfeld for a
   conversation.
 people:
+  - person: tara-donovan
   - person: jason-rosenfeld
 date: 2024-05-28T13:00:00-0500
 end_date: 2024-05-28T14:30:00-0500
