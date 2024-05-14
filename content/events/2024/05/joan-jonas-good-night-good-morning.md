@@ -1,9 +1,12 @@
 ---
 title: "Joan Jonas: Good Night Good Morning"
-deck: Featuring Ana Janevski, Barry Schwabsky, Zoe Leonard, and Lynne Tillman
-summary: "Curator Ana Janevski, Rail Editor-at-Large Barry Schwabsky, and artist
-  Zoe Leonard join Rail contributor Lynne Tillman for a conversation. "
+deck: Featuring RoseLee Goldberg,  Ana Janevski, Zoe Leonard, Barry Schwabsky,
+  and Lynne Tillman
+summary: "Performa Founder and Director RoseLee Goldberg, Curator Ana Janevski,
+  artist Zoe Leonard, and Rail Editor-at-Large Barry Schwabsky join Rail
+  contributor Lynne Tillman for a conversation. "
 people:
+  - person: roselee-goldberg
   - person: ana-janevski
   - person: zoe-leonard
   - person: barry-schwabsky
