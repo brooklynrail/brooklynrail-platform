@@ -1,5 +1,5 @@
 ---
-name: Pol
+name: Pol Morton
 first_name: Pol
 last_name: Morton
 short_bio: "**Pol Morton** is a chronically ill non-binary artist with an
