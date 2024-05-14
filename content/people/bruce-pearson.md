@@ -15,6 +15,6 @@ short_bio: "**Bruce Pearson** makes distinctive and hypnotic works that push the
   lives and works in New York."
 portraits:
   - media: 2024/05/bruce-pearson
-website: https://www.brucepearson.net/
-instagram: brucepearsonartist
+website: https://brucepearsonstudio.com/
+instagram: bruce.pearsonstudio
 ---
