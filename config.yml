@@ -83,7 +83,7 @@ markup:
 sitemap:
   changefreq: "daily"
   priority: 1
-  filename: "sitemap.xml"
+  filename: "events/sitemap.xml"
 
 caches:
   getjson:
