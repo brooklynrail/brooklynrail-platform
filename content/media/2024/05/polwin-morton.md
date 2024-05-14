@@ -1,6 +1,6 @@
 ---
 media: /media/files/pol-morton_r4.jpg
-title: Polwin Morton
-alt: Photo of Polwin Morton
+title: Pol Morton
+alt: Photo of Pol Morton
 date: 2024-05-14T16:56:00-0500
 ---
