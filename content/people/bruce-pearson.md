@@ -8,7 +8,7 @@ short_bio: "**Bruce Pearson** makes distinctive and hypnotic works that push the
   optical effects. His seamlessly constructed, intricately layered images are
   unique investigations in which text is the basis of image and image
   reverberates with meaning. Pearson has been exhibiting professionally for over
-  15 years, and his work is in the collections of the Whitney Museum of American
+  35 years, and his work is in the collections of the Whitney Museum of American
   Art and the Museum of Modern Art, New York. He was awarded a Skowhegan
   Residency in 2001 and has lectured and critiqued at many institutions,
   including the School of Visual Arts and Parsons School of Design. He currently
