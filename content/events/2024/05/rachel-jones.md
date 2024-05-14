@@ -21,4 +21,4 @@ event_platform:
   - zoom
 soldout: false
 ---
-[V﻿isit *!!!!!*, on view at The Museum of the African Diaspora, San Francisco through September 1, 2024→](https://www.moadsf.org/exhibitions/rachel-jones)
+[V﻿isit *!!!!!*, curated by Erin Jenoa Gilbert, on view at The Museum of the African Diaspora, San Francisco through September 1, 2024→](https://www.moadsf.org/exhibitions/rachel-jones)
