@@ -5,6 +5,7 @@ summary: Litmus Press President Omar Berrada, Executive Director E. Tracy
   Grinnell, and poet Safaa Fathy join Rail contributor Cole Swensen for a
   conversation.
 people:
+  - person: safaa-fathy-2
   - person: cole-swensen
 date: 2024-05-30T13:00:00-0500
 end_date: 2024-05-30T14:30:00-0500
