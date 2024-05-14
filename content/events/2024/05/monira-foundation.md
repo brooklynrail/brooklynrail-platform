@@ -1,11 +1,11 @@
 ---
 title: Monira Foundation
 deck: Featuring Ysabel Pinyol Blasi, Lidia Costa, Anne Muntges, Karline Moeller,
-  Kevin Quiles Bonilla, Polwin Morton, Rashad Wright, and Ginevra de Blasio
+  Kevin Quiles Bonilla, Pol Morton, Rashad Wright, and Ginevra de Blasio
 summary: Monira Foundation Executive Director and Chief Curator Ysabel Pinyol
   Blasi, Director of Public Programs Lidia Costa, Director of Residencies and
   Grants Development Anne Muntges, Art Frankly CEO Karline Moeller, artists
-  Kevin Quiles Bonilla and Polwin Morton, and poet Rashad Wright join Rail
+  Kevin Quiles Bonilla and Pol Morton, and poet Rashad Wright join Rail
   contributor Ginevra de Blasio for a conversation.
 people:
   - person: ysabel-pinyol-blasi
