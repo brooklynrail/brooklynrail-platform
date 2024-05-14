@@ -4,6 +4,7 @@ deck: Featuring Kern and Phyllis Tuchman
 summary: "Gallerist Anton Kern joins Rail Editor-at-Large Phyllis Tuchman for a
   conversation. "
 people:
+  - person: anton-kern
   - person: phyllis-tuchman
 date: 2024-05-23T13:00:00-0500
 end_date: 2024-05-23T14:30:00-0500
