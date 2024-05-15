@@ -2,7 +2,7 @@
 title: " Jordan Belson: Hidden Formations"
 deck: Featuring Raymond Foye, Andrew Lampert, and Charles Stein
 summary: Curator Raymond Foye and artist Andrew Lampert join Rail contributor
-  Charles Stein
+  Charles Stein for a conversation.
 people:
   - person: raymond-foye
   - person: charles-stein
