@@ -1,9 +1,11 @@
 ---
 title: " Jordan Belson: Hidden Formations"
-deck: Featuring Raymond Foye and Rail host to be announced
-summary: Curator Raymond Foye joins the Rail for a conversation.
+deck: Featuring Raymond Foye, Andrew Lampert, and Charles Stein
+summary: Curator Raymond Foye and artist Andrew Lampert join Rail contributor
+  Charles Stein
 people:
   - person: raymond-foye
+  - person: charles-stein
 date: 2024-05-22T13:00:00-0500
 end_date: 2024-05-22T14:30:00-0500
 series: 1072
