@@ -8,7 +8,7 @@ short_bio: "**Pol Morton** is a chronically ill non-binary artist with an
   trapped, whether in a bed, in the home, or even within the body itself. Born
   in Palo Alto, California, they received their BFA from the Maryland Institute
   College of Art in Baltimore (2009) and their MFA at Hunter College in New York
-  City (2022). Their work has been exhibited in at White Columns, New York; Bass
+  City (2022). Their work has been exhibited at White Columns, New York; Bass
   and Reiner, San Francisco; and The Beijing American Center, among others."
 portraits:
   - media: 2024/05/polwin-morton
