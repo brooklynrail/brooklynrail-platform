@@ -18,4 +18,4 @@ event_platform:
   - zoom
 soldout: false
 ---
-[V﻿isit *Jordan Belson: Hidden Formations*, view at Matthew Marks Gallery, New York through June 29, 2024 →](https://www.matthewmarks.com/exhibitions/jordan-belson-hidden-formations-05-2024)
+[V﻿isit *Jordan Belson: Hidden Formations*, on view at Matthew Marks Gallery, New York through June 29, 2024 →](https://www.matthewmarks.com/exhibitions/jordan-belson-hidden-formations-05-2024)
