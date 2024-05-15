@@ -9,8 +9,9 @@ people:
   - person: ayanna-dozier
 date: 2024-05-29T13:00:00-0500
 end_date: 2024-05-29T14:30:00-0500
+series: 1077
 collections:
-  - common-ground
+  - the-new-social-environment
 event_organizer:
   - the-brooklyn-rail
 event_producer:
