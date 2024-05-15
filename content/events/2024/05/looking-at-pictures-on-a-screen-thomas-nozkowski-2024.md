@@ -16,8 +16,6 @@ event_id: recCL1A4kZICZ4rXG
 event_platform: null
 soldout: false
 ---
-{{< image media="2024/05/thomas-nozkowski-still" size="lg" >}}
+{{< image media="2024/05/thomas-nozkowski-poster" size="lg" >}}
 
 From the early 1970s until his passing in 2019, Thomas Nozkowski made elegant and puzzling abstract paintings scaled to fit in his friends’ apartments. Each painting was different than the last, a unique invention that begs to be watched as much as looked at. This film enters the homes of Tom’s friends, family members, collectors, and critical champions to explore how his paintings behave in the present tense and what they’re like to spend a life alongside.
-
-{{< image media="2024/05/thomas-nozkowski-poster" size="lg" >}}
