@@ -1,8 +1,8 @@
 ---
 title: "Paul Klee: Psychic Improvisation"
-deck: Featuring Dr. Fabienne Eggelhöfer and Pepe Karmel
-summary: "Curator Dr. Fabienne Eggelhöfer joins art historian Pepe Karmel for a
-  conversation. "
+deck: Featuring Dr. Fabienne Eggelhöfer and Dr. Pepe Karmel
+summary: "Curator Dr. Fabienne Eggelhöfer joins art historian Dr. Pepe Karmel
+  for a conversation. "
 people:
   - person: pepe-karmel-2
 date: 2024-05-24T13:00:00-0500
