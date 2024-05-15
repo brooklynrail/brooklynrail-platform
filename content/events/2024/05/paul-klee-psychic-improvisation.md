@@ -1,0 +1,22 @@
+---
+title: "Paul Klee: Psychic Improvisation"
+deck: Featuring Dr. Fabienne Eggelhöfer and Pepe Karmel
+summary: "Curator Dr. Fabienne Eggelhöfer joins art historian Pepe Karmel for a
+  conversation. "
+people:
+  - person: pepe-karmel-2
+date: 2024-05-24T13:00:00-0500
+end_date: 2024-05-24T14:30:00-0500
+series: 1074
+collections:
+  - the-new-social-environment
+event_organizer:
+  - the-brooklyn-rail
+event_producer:
+  - the-brooklyn-rail
+event_id: recECVAtRmBSTaFnJ
+event_platform:
+  - zoom
+soldout: false
+---
+[V﻿isit *Psychic Improvisation*, on view at David Zwirner, New York through June 15, 2024 →](https://www.davidzwirner.com/exhibitions/2024/paul-klee-psychic-improvisation)
