@@ -10,8 +10,7 @@ short_bio: "**Yique's** research runs through classical Marxism, the Frankfurt
   Guardian, The New York Times, CNN, Reuters,_ and many other media.
   Unapologetically self-identifying as both a critic and a \"troublemaker,\"
   Yique unceasingly challenges conventions, pushing the boundaries of artistic
-  and intellectual discourse. Through his multifaceted contributions, Yique
-  continues to influence society with his art, shapi"
+  and intellectual discourse."
 portraits:
   - media: 2024/05/yique
 website: https://www.yique.studio/
