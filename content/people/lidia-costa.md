@@ -14,5 +14,5 @@ short_bio: "**Lidia Costa** is the Director of Public Programs at Monira
   originally from."
 portraits:
   - media: 2024/05/lidia-costa
-instagram: "@lidia_costaf"
+instagram: lidia_costaf
 ---
