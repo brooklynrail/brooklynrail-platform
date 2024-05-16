@@ -6,7 +6,7 @@ people:
   - person: emmanuel-iduma
 date: 2024-05-28T13:00:00-0500
 end_date: 2024-05-28T14:30:00-0500
-series: 1072
+series: 1076
 collections:
   - the-new-social-environment
 event_organizer:
