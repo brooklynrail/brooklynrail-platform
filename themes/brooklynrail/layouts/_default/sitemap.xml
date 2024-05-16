@@ -37,7 +37,7 @@
         {{- $tagsArray := split "Interview, live conversation, artist, artist talk, artists, poetry, poetry reading, The Brooklyn Rail, Brooklyn Rail, Phong Bui, The New Social Environment, Art, contemporary art, poet, poetry reading" ", " }}
 
         {{- range $tag := $tagsArray -}}
-          {{- $newtag := printf "<video:tag>%s</video:tag>" ($tag) -}}
+          {{- $newtag := printf "<video:tag>%s</video:tag>" ($tag | safeHTML) -}}
           {{- $tags = $tags | append $newtag "" -}}
         {{- end -}}
         <image:image>
