@@ -23,14 +23,14 @@
         {{ if .Params.people -}}
           {{- range $people := .Params.people -}}
             {{- $person := $.Site.GetPage (printf "/%s/%s" "people" $people.person) -}}
-            {{- $tag := printf "<video:tag>%s</video:tag>" ($person.Params.name | plainify) -}}
+            {{- $tag := printf "<video:tag>%s</video:tag>" ($person.Params.name | safeHTML) -}}
             {{- $tags = $tags | append $tag "" }}
           {{- end -}}
         {{ end -}}
         {{- if .Params.poets -}}
           {{- range $people := .Params.poets -}}
             {{- $person := $.Site.GetPage (printf "/%s/%s" "people" $people.person) -}}
-            {{- $tag := printf "<video:tag>%s</video:tag>" ($person.Params.name | plainify) -}}
+            {{- $tag := printf "<video:tag>%s</video:tag>" ($person.Params.name | safeHTML) -}}
             {{- $tags = $tags | append $tag "" -}}
           {{- end -}}
         {{- end -}}
