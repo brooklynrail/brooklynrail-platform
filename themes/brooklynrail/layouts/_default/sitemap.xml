@@ -8,7 +8,7 @@
     {{- if .Permalink }}
       <url>
         <loc>{{ .Permalink }}</loc>
-        {{ if not .Lastmod.IsZero -}} <lastmod>{{- safeHTML ( .Lastmod.Format "2006-01-02T15:04:05-07:00" ) -}}</lastmod> {{- end }}
+        {{ if not .Lastmod.IsZero -}} <lastmod>{{- safeHTML ( .Lastmod.Format "2006-01-02T15:04:05-00:00" ) -}}</lastmod> {{- end }}
         {{ with .Sitemap.ChangeFreq -}} <changefreq>{{- . -}}</changefreq> {{- end }}
         {{ if ge .Sitemap.Priority 0.0 -}} <priority>{{- .Sitemap.Priority -}}</priority> {{- end }}
         
@@ -50,7 +50,7 @@
           <video:description>{{- $videoDesc -}}</video:description>
           <video:content_loc>{{- $watchUrl -}}</video:content_loc>
           <video:player_loc>{{- $embedUrl -}}</video:player_loc>
-          <video:publication_date>{{- .Date -}}</video:publication_date>{{- delimit $tags "\n" -}}
+          <video:publication_date>{{- safeHTML ( .Lastmod.Format "2006-01-02T15:04:05-00:00" ) -}}</video:publication_date>{{- delimit $tags "\n" -}}
         </video:video>
         {{- end -}}
       </url>
