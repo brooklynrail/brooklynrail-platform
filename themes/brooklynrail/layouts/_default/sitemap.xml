@@ -12,15 +12,46 @@
         {{ if ge .Sitemap.Priority 0.0 -}} <priority>{{- .Sitemap.Priority -}}</priority> {{- end }}
         
         {{- if .Params.youtube_id -}}
+        {{- $watchUrl := printf "https://www.youtube.com/watch?v=%s" .Params.youtube_id -}}
+        {{- $embedUrl := printf "https://www.youtube.com/embed/%s" .Params.youtube_id -}}
         {{- $thumb := printf "https://i.ytimg.com/vi/%s/mqdefault.jpg" .Params.youtube_id | safeHTML -}}
-        {{- $caption := printf "<![CDATA[ %s — %s ]]>" .Title .Params.deck | safeHTML }}
+        {{- $caption := printf "<![CDATA[%s — %s]]>" .Title .Params.deck | safeHTML -}}
+        {{- $videoDesc := printf "<![CDATA[%s]]>" .Summary | safeHTML -}}
+
+        {{- $tags := slice "" -}}
+        {{ if .Params.people -}}
+          {{- range $people := .Params.people -}}
+            {{- $person := $.Site.GetPage (printf "/%s/%s" "people" $people.person) -}}
+            {{- $tag := printf "<video:tag>%s</video:tag>" ($person.Params.name | plainify) -}}
+            {{- $tags = $tags | append $tag "" }}
+          {{- end -}}
+        {{ end -}}
+        {{- if .Params.poets -}}
+          {{- range $people := .Params.poets -}}
+            {{- $person := $.Site.GetPage (printf "/%s/%s" "people" $people.person) -}}
+            {{- $tag := printf "<video:tag>%s</video:tag>" ($person.Params.name | plainify) -}}
+            {{- $tags = $tags | append $tag "" -}}
+          {{- end -}}
+        {{- end -}}
+        {{- $tagsArray := split "Interview, live conversation, artist, artist talk, artists, poetry, poetry reading, The Brooklyn Rail, Brooklyn Rail, Phong Bui, The New Social Environment, Art, contemporary art, poet, poetry reading" ", " }}
+
+        {{- range $tag := $tagsArray -}}
+          {{- $newtag := printf "<video:tag>%s</video:tag>" ($tag) -}}
+          {{- $tags = $tags | append $newtag "" -}}
+        {{- end -}}
         <image:image>
           <image:loc>{{- $thumb -}}</image:loc>
-          <image:caption>
-          {{ $caption }}
-          </image:caption>
+          <image:caption>{{- $caption -}}</image:caption>
         </image:image>
-        {{- end }}
+        <video:video>
+          <video:thumbnail_loc>{{- $thumb -}}</video:thumbnail_loc>
+          <video:title>{{- $caption -}}</video:title>
+          <video:description>{{- $videoDesc -}}</video:description>
+          <video:content_loc>{{- $watchUrl -}}</video:content_loc>
+          <video:player_loc>{{- $embedUrl -}}</video:player_loc>
+          <video:publication_date>{{- .Date -}}</video:publication_date>{{ delimit $tags "" }}
+          {{- end -}}
+        </video:video>
       </url>
     {{ end -}}
   {{ end -}}
