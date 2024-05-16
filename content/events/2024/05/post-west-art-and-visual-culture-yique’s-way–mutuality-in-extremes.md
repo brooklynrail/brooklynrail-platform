@@ -1,7 +1,7 @@
 ---
 title: "Post-West Art and Visual Culture: Yique’s Way–Mutuality in Extremes"
 deck: Featuring Yique, Tatiana Martinez Collevati, and Paul Gladston
-summary: "Artist Yique and curator Tatiana Martinez Collevati, join Rail
+summary: "Artist Yique and curator Tatiana Martinez Collevati join Rail
   contributor Paul Gladston for a conversation. "
 people:
   - person: yique
