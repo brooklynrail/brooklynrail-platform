@@ -86,7 +86,7 @@
 
 section.past_events {
     @include u-margin-top(5);
-    @include u-padding-y(5);
+    // @include u-padding-y(5);
     @include u-bg("gray-90");
 
     .heading {

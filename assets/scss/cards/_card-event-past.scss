@@ -2,10 +2,13 @@ section.card-event-past{
   @extend .event;
   @include u-margin(0);
   @include u-padding(0);
-  @include u-margin-bottom(4);
+  @include u-margin-bottom(0);
 
   .overlay *{
-    @include u-text('white');
+    @include u-text('black');
+    .kicker, .kicker .collection, .kicker .series span{
+      @include u-text('indigo-warm-70v');
+    }
   }
   header {
     @include u-padding-top(1);
@@ -19,6 +22,7 @@ section.card-event-past{
       @include u-margin-bottom('05');
       @include u-text('left');
       @include u-font('sans', 'xs');
+      @include u-text('indigo-warm-70v');
       @include at-media('tablet-lg') {
         @include u-font('sans', '2xs');
       }
@@ -40,6 +44,7 @@ section.card-event-past{
     }
     .event-details{
       @include u-margin-top(2);
+      @include u-margin-bottom(0);
       @include u-font('sans', '2xs');
       @include u-text('left');
       time{
@@ -60,7 +65,7 @@ section.card-event-past{
   }
 
   .card_cover{
-    @include u-margin-bottom('105');
+    @include u-margin-bottom(1);
     @include u-height('card');
 
     @include u-bg('gray-cool-70');
