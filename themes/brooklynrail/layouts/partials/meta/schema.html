@@ -13,9 +13,12 @@
   {{ end }}
 {{- end }}
 
-{{- $thumb := printf "https://i.ytimg.com/vi/%s/mqdefault.jpg" .Params.youtube_id -}}
-{{- $embedUrl := printf "https://www.youtube.com/embed/%s" .Params.youtube_id -}}
-<script type="application/ld+json"> { "@context": "http://schema.org", "@type": "VideoObject", "name": {{ .Title | markdownify }}, "description": {{ .Summary | markdownify }}, "thumbnailUrl": {{ $thumb }}, "uploadDate": {{ .Date }}, "embedUrl": {{ $embedUrl }} } </script>
+{{- if .Params.youtube_id -}}
+  {{- $thumb := printf "https://i.ytimg.com/vi/%s/mqdefault.jpg" .Params.youtube_id -}}
+  {{- $embedUrl := printf "https://www.youtube.com/embed/%s" .Params.youtube_id -}}
+  <script type="application/ld+json"> { "@context": "http://schema.org", "@type": "VideoObject", "name": {{ .Title | markdownify }}, "description": {{ .Summary | markdownify }}, "thumbnailUrl": {{ $thumb }}, "uploadDate": {{ .Date }}, "embedUrl": {{ $embedUrl }} } </script>
+{{- end -}}
+
 {{- "<!-- END Schema.org -->" | safeHTML }}
 
 
