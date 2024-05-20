@@ -4,6 +4,7 @@ deck: Featuring Smith, Daisy Desrosiers, and Emmanuel Iduma
 summary: Artist Ming Smith and curator Daisy Desrosiers join Rail contributor
   Emmanuel Iduma for a conversation.
 people:
+  - person: daisy-desrosiers-1
   - person: emmanuel-iduma
 date: 2024-05-28T13:00:00-0500
 end_date: 2024-05-28T14:30:00-0500
