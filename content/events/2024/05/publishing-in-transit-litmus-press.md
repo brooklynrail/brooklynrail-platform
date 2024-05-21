@@ -1,11 +1,12 @@
 ---
 title: "Publishing-in-Transit: Litmus Press"
 deck: Featuring Omar Berrada, E. Tracy Grinnell, Safaa Fathy, and Cole Swensen
-summary: Litmus Press President Omar Berrada, Executive Director E. Tracy
-  Grinnell, and poet Safaa Fathy join Rail contributor Cole Swensen for a
-  conversation.
+summary: Litmus Press Board President Omar Berrada, Executive and Artistic
+  Director E. Tracy Grinnell, and poet Safaa Fathy join Rail contributor Cole
+  Swensen for a conversation.
 people:
   - person: omar-berrada
+  - person: e-tracy-grinnell
   - person: safaa-fathy-2
   - person: cole-swensen
 date: 2024-05-30T13:00:00-0500
