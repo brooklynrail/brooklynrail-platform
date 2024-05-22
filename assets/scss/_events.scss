@@ -112,23 +112,40 @@
       @include u-text('light');
       @include u-font('sans', 'md');
     }
-    .year-heading{
-      @include u-font('sans', '2xl');
-      @include u-text('light');
-    }
-    .years{
-      // @include u-text('center');
-      a{
-        @include u-text('indigo-warm-60v');
-        @include u-text('no-underline');
+    .year-separator{
+      @include u-margin-y(4);
+      @include u-display("flex");
+      @include u-flex("align-center");
+      .year-heading{
+        @include u-margin(0);
+        @include u-font('sans', '2xl');
+        @include u-text('light');
+      }
+      .years{
+        @include u-margin-top('2px');
+        @include u-padding-left(2);
+        @include u-line-height("sans", 5);
         @include u-text('normal');
-        @include u-font('sans', 'md');
-        @include u-margin-x(1);
-        &:hover{
+        @include u-font('sans', 'sm');
+        .separator{
+          @include u-margin-x("2px");
+          @include u-border-left('1px', 'gray-40', 'solid');
+        }
+        a{
+          @include u-text('indigo-warm-60v');
+          @include u-text('no-underline');
+          @include u-margin-x(1);
+          @include u-display("inline-block");
+          &:hover{
+            @include u-text('underline');
+          }
+        }
+        .current{
           @include u-text('underline');
         }
       }
     }
+    
     
   }
 }

@@ -39,7 +39,7 @@
       <div class="grid-col-12">
         {{- partialCached "divider" . -}}
         <div class="head">
-          <h2 class="heading">Our Past Events </h2>
+          <h2 class="heading">Past Events </h2>
           <p class="sub-heading">In-depth conversations with artists, filmmakers, writers, poets, and cultural leaders.</p>
           
         </div>
@@ -49,14 +49,16 @@
     {{ range $i, $year := $years }}
       <div class="grid-row">
         <div class="grid-col-12">
-          <h3 class="year-heading" id="{{ $year }}">{{ $year }}</h3>
-          <div class="years">
-            {{ range $e, $yearID := $years }}
-              {{ if ne $e 0 }}
-                <span> | </span>
-              {{ end }}
-              <a href="#{{ $yearID }}">{{ $yearID }}</a>
-            {{ end }}
+          <div class="year-separator">
+            <h3 class="year-heading" id="{{ $year }}">{{ $year }}</h3>
+            <div class="years">
+              {{- range $e, $yearID := $years -}}
+                {{- if ne $e 0 -}}
+                  <span class="separator"></span>
+                {{- end -}}
+                <a href="#{{- $yearID -}}" class="{{- if eq $year $yearID -}}current{{- end -}}">{{- $yearID -}}</a>
+              {{- end -}}
+            </div>
           </div>
         </div>
       </div>
