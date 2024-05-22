@@ -9,7 +9,7 @@
 
   {{/* Upcoming Events ==================== */}}
   {{/* Gets all $events with a date greater than or equal to today */}}
-  {{- $future_events := where $events "Date" "ge" (now.AddDate 0 0 12) -}}
+  {{- $future_events := where $events "Date" "ge" (now.AddDate 0 0 -1) -}}
   {{/* Reverses the order of the events, so the next event is at the top */}}
   {{- $future_events := $future_events.Reverse -}}
 
