@@ -1,5 +1,6 @@
 ---
-title: Revisiting Studies into Darkness, Pt. III
+title: "Revisiting Studies into Darkness: Aberrating the Image, Archives as
+  Surveillance"
 deck: Featuring Maya Jeffereis and Ayanna Dozier
 summary: Artist Maya Jeffereis joins Rail contributor Ayanna Dozier for a
   conversation presented in partnership with our friends at the Vera List Center
