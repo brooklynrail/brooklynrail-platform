@@ -21,3 +21,5 @@ event_platform:
 soldout: false
 ---
 [V﻿isit *Meta-Painting,* on view at Tanya Bonakdar Gallery, New York through June 14, 2024 →](https://www.tanyabonakdargallery.com/exhibitions/790-kimsooja-meta-painting-tanya-bonakdar-gallery-new-york/)
+
+This conversation was recorded for the NSE archive on Wednesday, May 22, 2024.
