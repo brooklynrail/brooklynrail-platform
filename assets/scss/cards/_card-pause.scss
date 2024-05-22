@@ -4,7 +4,7 @@
   @include at-media('tablet-lg') {
     @include u-padding-y(3);
   }
-  @include u-border-top('1px','gray-40', 'dotted');
+  // @include u-border-top('1px','gray-40', 'dotted');
 
   .details{
     @include u-padding-x(8);
@@ -21,7 +21,6 @@
       @include u-text('light');
       strong{
         @include u-text('medium');
-        @include u-text('indigo-warm-60v');
       }
       a{
         @include u-margin-top(4);
