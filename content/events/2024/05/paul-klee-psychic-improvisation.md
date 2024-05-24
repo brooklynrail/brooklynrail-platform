@@ -1,8 +1,8 @@
 ---
 title: "Paul Klee: Psychic Improvisation"
 deck: Featuring Dr. Fabienne Eggelhöfer, Dr. Max Rosenberg, and Dr. Pepe Karmel
-summary: "Curator Dr. Fabienne Eggelhöfer and art historian Max Rosenberg join
-  art historian Dr. Pepe Karmel for a conversation. "
+summary: "Curator Dr. Fabienne Eggelhöfer and art historian Dr. Max Rosenberg
+  join art historian Dr. Pepe Karmel for a conversation. "
 people:
   - person: fabienne-eggelhofer
   - person: max-rosenberg
