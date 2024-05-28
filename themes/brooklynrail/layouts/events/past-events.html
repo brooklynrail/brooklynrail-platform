@@ -12,23 +12,65 @@
 {{/* Gets only the $past_events with a youtube_id */}}
 {{/* {{- $past_events := where $past_events ".Params.youtube_id" "!=" nil -}} */}}
 
-{{- if $past_events -}}
+{{/* Sort the past events by date in descending order */}}
+{{- $past_events := sort $past_events "Date" "desc" -}}
+
+{{/* Initialize the dictionary */}}
+{{- $events_by_year := dict -}}
+
+{{/* Group past events by year */}}
+{{- range $past_events -}}
+  {{- $year := .Date.Format "2006" -}}
+  {{- $year_events := index $events_by_year $year | default (slice) -}}
+  {{- $year_events = $year_events | append . -}}
+  {{- $events_by_year = merge $events_by_year (dict $year $year_events) -}}
+{{- end -}}
+
+{{/* Manually specify the order of years in descending order */}}
+{{- $years := (slice "2024" "2023" "2022" "2021" "2020") -}}
+
+
+{{- if $events_by_year -}}
 <section id="past" name="past" class="past_events">
   <div class="grid-container grid-container-widescreen">
 
+    
     <div class="grid-row">
       <div class="grid-col-12">
-        <h2 class="heading">Past Events</h2>
+        {{- partialCached "divider" . -}}
+        <div class="head">
+          <h2 class="heading">Past Events </h2>
+          <p class="sub-heading">In-depth conversations with artists, filmmakers, writers, poets, and cultural leaders.</p>
+          
+        </div>
       </div>
     </div>
 
-    <div class="grid-row mobile-lg:grid-gap-2 tablet:grid-gap-4">
-      {{- range $past_events -}}
-        <div class="grid-col-12 mobile-lg:grid-col-6 tablet-lg:grid-col-4 desktop-lg:grid-col-3">
-          {{- .Render "card-event-past" -}}
+    {{ range $i, $year := $years }}
+      <div class="grid-row">
+        <div class="grid-col-12">
+          <div class="year-separator">
+            <h3 class="year-heading" id="{{ $year }}">{{ $year }}</h3>
+            <div class="years">
+              {{- range $e, $yearID := $years -}}
+                {{- if ne $e 0 -}}
+                  <span class="separator"></span>
+                {{- end -}}
+                <a href="#{{- $yearID -}}" class="{{- if eq $year $yearID -}}current{{- end -}}">{{- $yearID -}}</a>
+              {{- end -}}
+            </div>
+          </div>
         </div>
-      {{- end -}}
-    </div>
+      </div>
+      <div class="grid-row mobile-lg:grid-gap-2 tablet:grid-gap-4">
+        {{- range index $events_by_year $year -}}
+          <div class="grid-col-12 mobile-lg:grid-col-6 tablet-lg:grid-col-4 desktop-lg:grid-col-3">
+            {{- .Render "card-event-past" -}}
+          </div>
+        {{- end -}}
+      </div>
+    {{- end -}}
+    
   </div>
 </section>
 {{- end -}}

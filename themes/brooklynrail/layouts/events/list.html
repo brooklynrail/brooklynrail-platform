@@ -16,7 +16,7 @@
 
 <main class="events" id="main-content" role="main">
 
-  {{- if $future_events -}}
+  
   <section>
     <div class="grid-container">
       <div class="grid-row grid-gap-4">
@@ -29,12 +29,19 @@
         </div>
       </div>
 
+      {{- if $future_events -}}
+
       {{/* Paginates the events if there are more than X (set in config.yml) */}}
       <div class="stream">
         {{- range (.Paginate ( $future_events )).Pages -}}
           {{- .Render "card-event" -}}
         {{- end -}}
+        
       </div>
+
+      {{- end -}}
+
+      {{- .Render "card-pause" -}}
 
       <div class="grid-row">
         <div class="grid-col-12 tablet:grid-col-8 tablet:grid-offset-2">
@@ -47,8 +54,6 @@
 
     </div>
   </section>
-
-  {{- end -}}
 
   {{- .Render "past-events" -}}
 
