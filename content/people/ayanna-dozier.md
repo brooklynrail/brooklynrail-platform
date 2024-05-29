@@ -2,16 +2,16 @@
 name: Ayanna Dozier
 first_name: Ayanna
 last_name: Dozier
-short_bio: Brooklyn-based artist and writer **Ayanna Dozier** (PhD) centers
-  film, performance, and installation in her artistic work, with a specific
-  concentration on surrealist, conceptual, and feminist practices. Her films
-  have screened at festivals across the US and the UK including at Alchemy Film
-  and Moving Image Festival (2021), Prismatic Ground (2022) and Aesthetica Film
-  Festival. Among other recognitions, she was a 2022 Wave Hill Winter Workspace
-  Resident. Her work has been exhibited at Microscope Gallery and the Block
-  Museum amongst other venues. She is the author of Janet Jackson’s _The Velvet
-  Rope_ (2020) and is currently working on a manuscript on the life of abstract
-  film artist Camille Billops.
+short_bio: "**Ayanna Dozier** (PhD) is a Brooklyn-based artist-writer. Her art
+  practice centers performance, experimental film, printmaking and photography,
+  using auto-fiction, surrealist, conceptual, and feminist methods. Her research
+  on film navigates the history of distribution, archaeology, and radical work
+  of Black feminist experimental filmmakers. While her current research and
+  artwork is dedicated to examining how transactional intimacy (like sex work)
+  redistributes care from the private sector into the public, social politics of
+  relations. She is currently an assistant professor in communication, emphasis
+  in film, at University Massachusetts, Amherst and is the author of _Janet
+  Jackson’s The Velvet Rope_ (2020)."
 portraits:
   - media: 2022/08/ayanna-dozier
 rail_contributor_url: https://brooklynrail.org/contributor/Ayanna-Dozier
