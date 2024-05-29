@@ -8,6 +8,7 @@ people:
   - person: michael-rakowitz
   - person: emily-jacir
   - person: jill-h-casid
+  - person: vera-list-center-for-art-and-politics
 date: 2024-05-09T13:00:00-0500
 end_date: 2024-05-09T14:30:00-0500
 series: 1063
