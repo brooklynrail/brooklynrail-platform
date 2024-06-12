@@ -2,7 +2,7 @@
 title: "Sunil Gupta: The New Pre-Raphaelites"
 deck: Featuring Gupta and Ksenia M. Soboleva, with Teline Trần
 summary: Artist Sunil Gupta joins Rail contributor Ksenia M. Soboleva for a
-  conversation. We conclude with a poetry reading by Teline Trần..
+  conversation. We conclude with a poetry reading by Teline Trần.
 people:
   - person: sunil-gupta
   - person: ksenia-m-soboleva
