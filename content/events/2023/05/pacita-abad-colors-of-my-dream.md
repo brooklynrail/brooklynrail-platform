@@ -4,7 +4,7 @@ deck: Featuring Pio Abad, Camille Hoffman, Emmy Catedral, and Jessamine Batario,
   with Lehua M. Taitano
 summary: Artists Pio Abad, Camille Hoffman, and Emmy Catedral join Rail
   contributor Jessamine Batario for a conversation. We conclude with a poetry
-  reading by Lehua M. Taitano
+  reading by Lehua M. Taitano.
 people:
   - person: pio-abad
   - person: camille-hoffman
