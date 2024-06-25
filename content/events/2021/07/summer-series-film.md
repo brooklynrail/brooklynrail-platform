@@ -16,6 +16,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: d4G0uSkf_AQ
 event_id: rec8ikfRs4ax2ZfRM
 portraits:
   - media: 2021/07/daniel-lopilato
