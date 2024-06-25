@@ -15,6 +15,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: 533_9lgfv-Q
 event_id: rec5vb1NAzZ9YgCYr
 portraits:
   - media: 2021/07/gillian-jakab
