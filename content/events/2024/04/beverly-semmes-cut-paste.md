@@ -21,4 +21,4 @@ event_platform:
   - zoom
 soldout: false
 ---
-[V﻿isit *Cut Paste*, on view at Susan Inglett Gallery, New York through June 1, 2024 →](https://www.inglettgallery.com/exhibitions/)
+[V﻿isit *Cut Paste*, on view at Susan Inglett Gallery, New York through June 1, 2024 →](https://www.inglettgallery.com/exhibitions/205-beverly-semmes-cut-paste/overview/)
