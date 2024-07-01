@@ -19,8 +19,3 @@ youtube_id: 0K-Cm0_tD7o
 event_platform:
   - zoom
 ---
-
-
-**EJ Hauser** is a Brooklyn-based painter. In today's New Social Environment she discusses the significance of text and writing in her art, how she came to incorporate technology into her practice, advice she’s received from fellow artists Chris Martin and Tamara Gonzales, and beyond.
-
-**Phong Bui** is Publisher and Artistic Director of the *Brooklyn Rail*.
