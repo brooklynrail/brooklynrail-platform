@@ -1,8 +1,9 @@
 ---
 title: Shirin Neshat and Shoja Azari with Phong H. Bui
-summary: Artist and filmmakers Shirin Neshat and Shoja Azari join Rail publisher
-  and artistic director Phong H. Bui. We conclude with a poetry reading from
-  Rail staff member and poet, Madeleine Cravens.
+deck: Featuring Neshat, Azari, and Bui
+summary: Artist and filmmakers Shirin Neshat and Shoja Azari join Rail Publisher
+  and Artistic Director Phong H. Bui for a conversation. We conclude with a
+  poetry reading by Madeleine Cravens.
 people:
   - person: shirin-neshat
     event_bio: >-
