@@ -1,7 +1,11 @@
 ---
-title: EJ Hauser with Phong Bui
-summary: Artist EJ Hauser and the *Brooklyn Rail*'s publisher Phong Bui discuss
-  creative life in the context of our new social reality.
+title: EJ Hauser with Phong H. Bui
+deck: Featuring Hauser and Bui
+summary: "Artist EJ Hauser joins Rail Publisher and Artistic Director Phong H.
+  Bui for a conversation. "
+people:
+  - person: ej-hauser
+  - person: phong-h-bui
 date: 2020-03-18T13:00:00-0500
 end_date: 2020-03-18T14:00:00-0500
 series: 2
