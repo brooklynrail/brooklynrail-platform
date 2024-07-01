@@ -1,7 +1,7 @@
 ---
 title: Candida Alvarez with Terry R. Myers
 deck: Featuring Alvarez and Myers
-summary: "Artist Candida Alvarez joins Rail contributor Terry R. Myers for a
+summary: "Artist Candida Alvarez joins Rail Editor-at-Large Terry R. Myers for a
   conversation. "
 people:
   - person: candida-alvarez
