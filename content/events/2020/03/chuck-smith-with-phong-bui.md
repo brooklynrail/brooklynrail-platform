@@ -1,14 +1,18 @@
 ---
-summary: Filmmaker Chuck Smith and the _Brooklyn Rail's_ publisher Phong Bui
-  discuss creative life in the context of our new social reality.
+deck: Featuring Smith and Bui
+summary: "Filmmaker Chuck Smith joins Rail Publisher and Artistic Director Phong
+  H. Bui for a conversation. "
+people:
+  - person: chuck-smith
+  - person: phong-h-bui
+date: 2020-03-20T13:00:00-0500
+series: 4
 event_organizer:
   - the-brooklyn-rail
 youtube_playlist_id:
   - the-new-social-environment
 title: Chuck Smith with Phong Bui
-date: 2020-03-20T13:00:00-0500
 end_date: 2020-03-20T14:00:00-0500
-series: 4
 collections:
   - the-new-social-environment
 event_producer:
@@ -18,10 +22,3 @@ event_platform:
   - zoom
 speaker_images: []
 ---
-**Chuck Smith** is the filmmaker behind Barbara *Rubin & the Exploding NY Underground* and *Forrest Bess: Key to the Riddle*.
-
-**Phong Bui** is Publisher and Artistic Director of the *Brooklyn Rail*.
-
-**In the *Rail***
-
-* [The Rebirth of DJ Spooky](https://brooklynrail.org/2004/09/music/the-rebirth-of-dj-spooky) (Sept 2004)
