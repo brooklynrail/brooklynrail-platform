@@ -1,11 +1,13 @@
 ---
 title: "Brendan Fernandes: Within Reach"
-deck: Featuring Fernandes and Elizabeth Buhe
+deck: Featuring Fernandes and Elizabeth Buhe, with Bob Holman
 summary: Artist Brendan Fernandes joins Rail contributor Elizabeth Buhe for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading by Bob Holman.
 people:
   - person: brendan-fernandes
   - person: elizabeth-buhe
+poets:
+  - person: bob-holman
 date: 2023-12-19T13:00:00-0500
 end_date: 2023-12-19T14:30:00-0500
 series: 966
