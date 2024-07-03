@@ -1,6 +1,6 @@
 ---
 title: Julian Schnabel with Phong H. Bui
-deck: Featuring Schnabel Bui
+deck: Featuring Schnabel and Bui
 summary: "Artist Julian Schnabel joins Rail Publisher and Artistic Director
   Phong H. Bui for a conversation. "
 people:
