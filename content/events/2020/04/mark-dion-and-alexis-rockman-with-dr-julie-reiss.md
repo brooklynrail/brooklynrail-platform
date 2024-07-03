@@ -1,7 +1,12 @@
 ---
 title: Mark Dion and Alexis Rockman with Dr. Julie Reiss
-summary: Artists Mark Dion and Alexis Rockman and art historian Dr. Julie Reiss
-  discuss creative life in the context of our new social reality.
+deck: Featuring Dion, Rockman, and Reiss
+summary: Artists Mark Dion and Alexis Rockman join art historian Dr. Julie Reiss
+  for a conversation.
+people:
+  - person: mark-dion
+  - person: alexis-rockman
+  - person: dr-julie-reiss
 date: 2020-04-10T13:00:00-0500
 end_date: 2020-04-10T14:00:00-0500
 series: 19
@@ -17,18 +22,3 @@ youtube_id: VK_KILcCD-U
 event_platform:
   - zoom
 ---
-This Social Environment is supported by  [Sperone Westwater Gallery](https://www.speronewestwater.com/). We are deeply grateful for their support of the *Brooklyn Rail* and our community.
-
-**Mark Dion** is an artist whose work examines the ways in which dominant ideologies and public institutions shape our understanding of history, knowledge, and the natural world. His work has been exhibited widely, solo exhibitions include *Mark Dion: Follies*, at Storm King Sculpture Park (2019), *Misadventures of a 21st Century Naturalist* at the Institute of Contemporary Art Boston (2017), *Mark Dion: The Academy of Things* at The Academy of Fine Arts Design in Dresden, Germany (2014), *The Macabre Treasury* at Museum Het Domein in Sittard, The Netherlands (2013), among others. Dion has received numerous awards, including the ninth annual Larry Aldrich Foundation Award (2001) The Joan Mitchell Foundation Award (2007) and the Smithsonian American Art Museum's Lucida Art Award (2008). He is a professor at Columbia University.
-
-{{< image media="2020/05/alexis-rockman-portrait" size="sm" >}}
-
-**Alexis Rockman**  is a painter of landscapes and ecological concerns. His work has been shown widely, Notable solo museum exhibitions include the recent touring exhibition *Alexis Rockman: The Great Lakes Cycle* at Grand Rapids Art Museum (2018) and *Alexis Rockman: Manifest Destiny* at the Brooklyn Museum (2004).
-
-**Dr. Julie Reiss** is an art historian who directs a Master's program at Christie's Education. Julie has presented papers and chaired panels on issues related to art and climate change at conferences including the College Art Association and the Conference for the Council for European Studies. She is the author of  *From Margin to Center: The Spaces of Installation Art*  (1999) and the editor of  *Art, Theory and Practice in the Anthropocene*  (2018).
-
-**In the Rail:**
-
-* [MARK DION with Yasi Alipour](https://brooklynrail.org/2019/10/art/MARK-DION-with-Yasi-Alipour) (Oct 2019)
-* [ALEXIS ROCKMAN with Jonathan T.D. Neil](https://brooklynrail.org/2013/10/art/alexis-rockman-with-jonathan-t-d-neil) (Oct 2013)
-* [Art in the Climate Crisis](https://brooklynrail.org/2019/06/editorsmessage/Art-in-the-Climate-Crisis), by Dr. Julie Reiss (June 2019)
