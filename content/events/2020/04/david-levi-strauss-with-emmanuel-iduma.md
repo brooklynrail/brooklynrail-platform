@@ -1,6 +1,6 @@
 ---
 title: " Co-Illusion: Dispatches from the End of Communication"
-deck: Featuring David Levi Strauss with Emmanuel Iduma
+deck: Featuring David Levi Strauss and Emmanuel Iduma
 summary: "Rail Consulting Editor David Levi Strauss joins Rail contributor
   Emmanual Iduma for a conversation. "
 people:
