@@ -24,4 +24,6 @@ event_id: recO6q4mwfbOux93a
 event_platform:
   - zoom
 ---
-[Visit *Yee I-Lann: At the Roof of the Mouth* and *Martha Atienza: The Protectors*, on view Silverlens through November 5, 2022 →](https://www.silverlensgalleries.com/exhibitions/current/new-york)
+[V﻿isit Yee I-Lann: *At the Roof of the Mouth*, on view at Silverlens, New York through November 5, 2022 →](https://www.silverlensgalleries.com/exhibitions/2022-09-08/at-the-roof-of-the-mouth)
+
+[V﻿isit Martha Atienza: *The Protectors*, on view at Silverlens, New York through November 5, 2022 →](https://www.silverlensgalleries.com/exhibitions/2022-09-08/the-protectors)
