@@ -19,4 +19,4 @@ soldout: false
 
 Join us in person on Wednesday, July 24, at 5:30 p.m. for a conversation on golf and painting featuring artist and golf aficionado Beto De Volder and Alejandra Seeber. Then, during the awards ceremony, two ceramic trophies created by Seeber will be announced: one to the winner of a lucky draw during the event and the other to the best mini-golf score of the whole exhibition.
 
-{{< image media="2024/07/beto-de-volder-and-alejandra-seeber" size="md" >}}
+{{< image media="2024/07/beto-de-volder-and-alejandra-seeber" size="lg" >}}
