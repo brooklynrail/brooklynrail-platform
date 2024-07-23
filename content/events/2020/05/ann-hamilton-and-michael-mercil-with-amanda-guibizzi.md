@@ -1,8 +1,8 @@
 ---
-title: Ann Hamilton and Michael Mercil with Amanda Guibizzi
-summary: Artists Ann Hamilton and Michael Mercil, with art historian and the
-  *Rail*'s ArtSeen editor Amanda Gluibizzi, discuss creative life in the context
-  of our new social reality.
+title: Ann Hamilton and Michael Mercil with Amanda Gluibizzi
+deck: Featuring Hamilton, Mercil, and Gluibizzi
+summary: "Artists Ann Hamilton and Michael Mercil join Rail ArtSeen Editor
+  Amanda Gluibizzi for a conversation. "
 people:
   - person: ann-hamilton
   - person: michael-mercil
