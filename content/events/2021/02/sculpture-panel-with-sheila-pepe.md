@@ -1,10 +1,10 @@
 ---
 title: Sculpture in Space & Time
-deck: With Sheila Pepe, Yasue Maetake, Mary Mattingly, Abigail DeVille, and Lisi
-  Raskin
-summary: "Artist and educator Sheila Pepe sits down with Yasue Maetake, Mary
-  Mattingly, Abigail DeVille, and Lisi Raskin for a conversation on contemporary
-  sculpture. We’ll conclude with a poetry reading from Jennifer Soong. "
+deck: Featuring Yasue Maetake, Mary Mattingly, Abigail DeVille, Lisi Raskin, and
+  Sheila Pepe
+summary: "Artists Yasue Maetake, Mary Mattingly, Abigail DeVille, and Lisi
+  Raskin join artist Sheila Pepe for a conversation. We conclude with a poetry
+  reading by Jennifer Soong. "
 people:
   - person: sheila-pepe
   - person: yasue-maetake
