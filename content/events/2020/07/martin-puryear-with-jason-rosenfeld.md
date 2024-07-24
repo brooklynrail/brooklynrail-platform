@@ -1,8 +1,8 @@
 ---
 title: Martin Puryear with Jason Rosenfeld
-summary: "Artist and sculptor Martin Puryear will discuss their work with art
-  historian, curator, and Rail Editor-at-Large, Jason Rosenfeld. We'll close
-  with a poetry reading from Kwame Opoku-Duku. "
+deck: Featuring Puryear and Rosenfeld
+summary: "Artist Martin Puryear joins Rail Editor-at-Large Jason Rosenfeld for a
+  conversation. We conclude with a poetry reading by Kwame Opoku-Duku. "
 people:
   - person: martin-puryear
     event_bio: Over the last five decades Martin Puryear has created a body of work
