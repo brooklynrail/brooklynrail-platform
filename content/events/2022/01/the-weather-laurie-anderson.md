@@ -1,6 +1,6 @@
 ---
-title: "The Weather: Laurie Anderson"
-deck: Featuring Laurie Anderson and Paul D. Miller
+title: "Laurie Anderson: The Weather"
+deck: Featuring Anderson and Paul D. Miller
 summary: "Artist Laurie Anderson joins Rail Editor-at-Large Paul D. Miller for a
   conversation. We conclude with a poetry reading by Charles Theonia. "
 people:
