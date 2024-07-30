@@ -2,7 +2,7 @@
 title: "Robin Coste Lewis: Intimacy"
 deck: Featuring Lewis and Joan Kee
 summary: Artist Robin Coste Lewis joins Rail Editor-at-Large Joan Kee for a
-  conversation. We conclude with a poetry reading.
+  conversation. We conclude with a poetry reading by Lewis.
 people:
   - person: robin-coste-lewis
   - person: joan-kee
