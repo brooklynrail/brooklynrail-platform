@@ -1,8 +1,8 @@
 ---
 title: Jacolby Satterwhite with Sara Roffino
-summary: Artist Jacolby Satterwhite will be in conversation with editor, writer,
-  and researcher Sara Roffino. We'll conclude with a poetry reading from Jen
-  Fisher.
+deck: Featuring Satterwhite and Roffino
+summary: Artist Jacolby Satterwhite joins Rail contributor Sara Roffino. We
+  conclude with a poetry reading by Jen Fisher.
 people:
   - person: jacolby-satterwhite
     event_bio: Jacolby Satterwhite was born in 1986 in Columbia, South Carolina and
