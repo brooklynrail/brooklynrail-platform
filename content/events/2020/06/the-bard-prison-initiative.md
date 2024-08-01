@@ -7,6 +7,8 @@ summary: "Bard Prison Initiative Founder Max Kenner, poet Christopher Rey Pérez
   Pousette-Dart Foundation Executive Director Charles Duncan join historian
   Craig Steven Wilder for a conversation. "
 people:
+  - person: max-kenner
+  - person: christopher-rey-perez
   - person: erica-mateo
   - person: charles-duncan
   - person: craig-steven-wilder
