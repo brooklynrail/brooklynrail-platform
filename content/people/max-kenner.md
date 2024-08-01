@@ -1,17 +1,18 @@
 ---
-name: Christopher Rey Pérez
-first_name: Christopher
-last_name: Rey Pérez
-short_bio: "**Christopher Rey Pérez** is a poet from the Rio Grande Valley of
-  Texas. Among his published creative works is his book,_gauguin’s
-  notebook_(&Now Books, 2017), which received the 2015 Madeleine P. Plonsker
-  Prize from Lake Forest College, and _Aliens Beyond Paradise / Alienígenas más
-  allá del paraíso_ (Wendy’s Subway/ Queens Museum, 2019). His work in higher
-  education includes teaching at al-Quds Bard College for Arts & Sciences in
-  Palestine. He has also taught in the Language & Thinking program of Bard
-  College and is a faculty associate of Bard’s Institute for Writing & Thinking.
-  Currently, he is Program Director of the Bard Microcollege at Brooklyn Public
-  Library."
-rail_contributor_url: https://brooklynrail.org/contributor/Christopher-Rey-Perez
-website: http://christopherreyperez.com/
+name: Max Kenner
+first_name: Max
+last_name: Kenner
+short_bio: "**Max Kenner** is Founder and Executive Director of the Bard Prison
+  Initiative (BPI) – among the largest, longest-standing, and most influential
+  college-in-prison institutions in the United States. A leading advocate for
+  the restoration of college-in-prison, Kenner is also co-founder of the
+  Consortium for the Liberal Arts in Prison, which supports colleges and
+  universities in establishing college-in-prison projects nationwide, and also
+  of the Bard Microcollege, which establishes rigorous, tuition-free college
+  opportunity within urban areas in partnership with community-based
+  institutions. He has served on Governor Andrew Cuomo’s New York State Council
+  on Community Re-Entry and Reintegration since its inception. "
+rail_contributor_url: ""
+website: ""
+instagram: maxkenner
 ---
