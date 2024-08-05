@@ -11,4 +11,6 @@ short_bio: "**JoAnne Page** has more than 45 years of experience in criminal
   Leaders across New York State. A graduate of Yale Law School, and a former
   defense attorney, JoAnne Page is a frequent speaker at conferences about
   alternatives to incarceration, housing, and criminal justice issues."
+portraits:
+  - media: joanne-page-1
 ---
