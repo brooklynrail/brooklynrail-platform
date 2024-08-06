@@ -1,8 +1,8 @@
 ---
 title: "Brandon Ndife: Shade Tree"
 deck: Featuring Ndife and Andrew Woolbright
-summary: "Artist Brandon Ndife joins Rail contributor Andrew Woolbright for a
-  conversation. We conclude with a poetry reading by Miko Revereza. "
+summary: "Artist Brandon Ndife joins Rail Editor-at-Large Andrew Woolbright for
+  a conversation. We conclude with a poetry reading by Miko Revereza. "
 people:
   - person: brandon-ndife
   - person: andrew-paul-woolbright
