@@ -1,9 +1,12 @@
 ---
 title: Do We Still Need Monuments?
-summary: Curators, writers, and critics Brooke Kamin Rapaport, Lauren Haynes,
-  and Ken Lum will be in conversation with Rail consulting editor, Joachim
-  Pissarro and Rail board member, Helen Lee. We'll conclude with a poetry
-  reading from Kimberly Alidio.
+deck: Featuring Brooke Kamin Rapaport, Lauren Haynes, Ken Lum, Helen Lee, and
+  Joachim Pissarro
+summary: Madison Square Park Conservancy Deputy Director and Chief Curator
+  Brooke Kamin Rapaport, Governors Island Arts Vice President and Head Curator
+  Lauren Haynes, and curator Ken Lum join Rail contributor Helen Lee and Rail
+  Editor-at-Large Joachim Pissarro for a conversation. We conclude with a poetry
+  reading by Kimberly Alidio.
 people:
   - person: brooke-kamin-rapaport
     event_bio: "Brooke Kamin Rapaport is Deputy Director and Martin Friedman Chief
