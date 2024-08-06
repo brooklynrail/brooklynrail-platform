@@ -1,9 +1,11 @@
 ---
 title: "Art + Technology: Midnight Moment"
-deck: ""
-summary: Featuring Nancy Baker Cahill, Jean Cooney, Joan Jonas, Kilo Kish,
-  LaJuné McMillian, and Charlotte Kent. We conclude with a poetry reading from
-  Maxine Chernoff.
+deck: Featuring Nancy Baker Cahill, Jean Cooney, Joan Jonas, Kilo Kish, LaJuné
+  McMillian, and Charlotte Kent. We conclude with a poetry reading from Maxine
+  Chernoff.
+summary: Artists Nancy Baker Cahill, Jean Cooney, Joan Jonas, Kilo Kish, and
+  LaJuné McMillian join Rail Editor-at-Large Charlotte Kent for a conversation.
+  We conclude with a poetry reading by Maxine Chernoff.
 people:
   - person: nancy-baker-cahill
   - person: joan-jonas
@@ -27,3 +29,4 @@ event_id: recegeUVwhwtCRX2J
 event_platform:
   - zoom
 ---
+[M﻿ore on Midnight Moment →](http://arts.timessquarenyc.org/times-square-arts/projects/midnight-moment/index.aspx)
