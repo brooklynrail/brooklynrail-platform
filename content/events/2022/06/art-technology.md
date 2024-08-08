@@ -1,14 +1,12 @@
 ---
 title: "Art + Technology: Midnight Moment"
-deck: Featuring Nancy Baker Cahill, Jean Cooney, Joan Jonas, Kilo Kish, LaJuné
-  McMillian, and Charlotte Kent. We conclude with a poetry reading from Maxine
-  Chernoff.
-summary: Artists Nancy Baker Cahill, Jean Cooney, Joan Jonas, Kilo Kish, and
-  LaJuné McMillian join Rail Editor-at-Large Charlotte Kent for a conversation.
-  We conclude with a poetry reading by Maxine Chernoff.
+deck: Featuring Nancy Baker Cahill, Jean Cooney, Kilo Kish, LaJuné McMillian,
+  and Charlotte Kent. We conclude with a poetry reading from Maxine Chernoff.
+summary: Artists Nancy Baker Cahill, Jean Cooney, Kilo Kish, and LaJuné
+  McMillian join Rail Editor-at-Large Charlotte Kent for a conversation. We
+  conclude with a poetry reading by Maxine Chernoff.
 people:
   - person: nancy-baker-cahill
-  - person: joan-jonas
   - person: kilo-kish
   - person: lajune-mcmillian
   - person: charlotte-kent
