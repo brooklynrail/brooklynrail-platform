@@ -9,7 +9,7 @@ short_bio: "**Ben Jones** is the Creative Director for the Unskippable Labs team
   major global advertisers and the top advertising agencies, helping shape them
   for this digital/mobile age. Prior to that, Ben was the Dean of Admissions at
   Bennington College, building a network of early stage venture funds, and
-  publishing_The Rope Eater_, a novel, with Doubleday."
+  publishing _The Rope Eater_, a novel, with Doubleday."
 portraits:
   - media: 2020/06/ben-jones
 ---
