@@ -1,20 +1,9 @@
 ---
-title: Radical Poetry Reading with Cole Swensen
-deck: Featuring political poetry read by Etel Adnan, Biswamit Dwibedy, Susan
-  Howe, and Ghazal Mosadeq
-summary: Poet Cole Swensen curates the 13th installment in a weekly series of
-  Radical Poetry Readings, featuring Etel Adnan, Biswamit Dwibedy, Susan Howe,
-  and Ghazal Mosadeq.
+title: A Rail Reading curated by Cole Swensen
+deck: Featuring Etel Adnan, Biswamit Dwibedy, Susan Howe, Ghazal Mosadeq, and Swensen
+summary: Poet Cole Swensen curates our 13th Wednesday Poetry Reading featuring
+  Etel Adnan, Biswamit Dwibedy, Susan Howe, and Ghazal Mosadeq.
 people:
-  - person: cole-swensen
-    event_bio: Cole Swensen has published 17 volumes of poetry and a collection of
-      critical essays, Noise That Stays Noise. A book of hybrid poem-essays, Art
-      in Time, is coming out from Nightboat in the spring. A former Guggenheim
-      Fellow, she has been a finalist for the National Book Award and has been
-      awarded the Iowa Poetry Prize, the SF State Poetry Center Book Award, and
-      the National Poetry Series. She has also translated over 20 volumes of
-      poetry, prose, and art criticism from French and won the 2004 PEN USA
-      Award in Literary Translation.
   - person: etel-adnan
     event_bio: Etel Adnan was born on February 24, 1925, in Beirut, Lebanon. She
       studied philosophy at the Sorbonne in Paris, France, as well as at the
@@ -46,6 +35,15 @@ people:
     event_bio: "Ghazal Mosadeq is a poet and translator. She is the founder of
       Pamenar Press, an independent cross-cultural, multi-lingual publisher
       based in UK, Canada and Iran. "
+  - person: cole-swensen
+    event_bio: Cole Swensen has published 17 volumes of poetry and a collection of
+      critical essays, Noise That Stays Noise. A book of hybrid poem-essays, Art
+      in Time, is coming out from Nightboat in the spring. A former Guggenheim
+      Fellow, she has been a finalist for the National Book Award and has been
+      awarded the Iowa Poetry Prize, the SF State Poetry Center Book Award, and
+      the National Poetry Series. She has also translated over 20 volumes of
+      poetry, prose, and art criticism from French and won the 2004 PEN USA
+      Award in Literary Translation.
 date: 2020-11-11T13:00:00-0500
 end_date: 2020-11-11T14:00:00-0500
 series: 171
