@@ -3,12 +3,14 @@ name: Ama Birch
 first_name: Ama
 last_name: Birch
 pronouns: she/hers
-short_bio: "Poet **Ama Birch** has been published by Grove Atlantic, Great
-  Weather for Media, Autonomedia, A Gathering of the Tribes, Vail/Vale, Vitrine,
-  Insert Blanc Press, Live Mag!, Fellswoop, Apricity, Belladonna*, and The
-  Brooklyn Rail. She did a residency at the Atlantic Center of the Arts. "
+short_bio: "**Ama Birch** was born during a blizzard on the Lower East Side.
+  Some recent work has appeared in _Hanging Loose Magazine,_ Lonesome Press, and
+  The Poetry Project Newsletter. Listen to the _Ferguson Interview Project_
+  recordings on Spotify and YouTube. She teaches undergraduates writing at
+  Hunter College in New York City. "
 portraits:
   - media: 2020/10/ama-birch
 rail_contributor_url: https://brooklynrail.org/contributor/Ama-Birch
-twitter: amabirch
+instagram: amabirch
+twitter: ""
 ---
