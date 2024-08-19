@@ -1,7 +1,7 @@
 ---
-media: /media/files/ama-birch-headshot-2022.jpeg
+media: /media/files/ama_birch.jpg
 title: Ama Birch
-alt: "A photograph of poet Ama Birch in front of a multi-colored wall.  "
-caption: Calvin Lee
+alt: Photo of Ama Birtch
+caption: ""
 date: 2020-10-15T21:14:00-0500
 ---
