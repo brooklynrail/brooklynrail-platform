@@ -1,8 +1,13 @@
 ---
 title: Michael Armitage with Toby Kamps
-summary: Painter Michael Armitage will discuss their work and creative life in
-  the context of our new social reality with Toby Kamps, Editor-At-Large of the
-  Brooklyn Rail. The event will conclude with a reading by poet Rindon Johnson.
+deck: Featuring Armitage and Kamps
+summary: Artist Michael Armitage joins Rail Editor-at-Large Toby Kamps for a
+  conversation. We conclude with a poetry reading by Rindon Johnson.
+people:
+  - person: michael-armitage
+  - person: toby-kamps
+poets:
+  - person: rindon-johnson
 date: 2020-06-26T13:00:00-0500
 end_date: 2020-06-26T14:00:00-0500
 series: 73
@@ -17,16 +22,3 @@ registration_url: https://www.eventbrite.com/e/the-new-social-environment-73-mic
 event_platform:
   - zoom
 ---
-{{< image media="2020/06/michael-armitage" size="sm" >}}
-
-**[Michael Armitage](https://whitecube.com/artists/artist/michael_armitage)** was born in 1984 in Nairobi, Kenya and lives and works in London. He received his BA in Fine Art from the Slade School of Fine Art, London (2007) and has a Postgraduate Diploma from the Royal Academy Schools, London (2010). His paintings weave multiple narratives that are drawn from historical and current news media, internet gossip, and his own ongoing recollections of Kenya, his country of birth. The visual iconography of East Africa lies at the heart of his practice: its urban and rural landscape, colonial and modern vernacular architecture, advertising hoardings, lush vegetation and varied animal life. Undermining this rich colour palette and dream-like imagery, however, is a quiet exposition of Kenya’s sometimes harsh reality: its politics, social inequalities, violence and extreme disparities in wealth. In turn, Armitage reflects on the more absurd aspects of the everyday, commenting on both society and the surrounding natural environment – evoked with a lyrical and phantasmagorical vision.
-
-{{< image media="2020/06/toby-kamps" size="sm" >}}
-
-**Toby Kamps** is former director of Blaffer Museum of Art, and curator of modern and contemporary art at the Menil Collection. He is now the director of external projects at White Cube Gallery and is an Editor-at-Large for the *Brooklyn Rail*.
-
-For a full list of Toby's contributions to the Rail visit <https://brooklynrail.org/contributor/Toby-Kamps>
-
-{{< image media="2020/06/rin-johnson-headshot" size="sm" >}}
-
-**Rindon Johnson i**s an artist and writer. He is the author of Nobody Sleeps Better Than White People (Inpatient, 2016), the VR book, Meet in the Corner (Publishing-House.Me, 2017) and Shade the King (Capricious, 2017). He lives in Berlin where he is an Associate Fellow at the Universität der Künste Berlin. He studies VR.
