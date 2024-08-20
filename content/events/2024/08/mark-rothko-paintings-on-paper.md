@@ -21,4 +21,4 @@ event_platform:
   - zoom
 soldout: false
 ---
-[V﻿isit *Mark Rothko. Paintings on Paper* at the National Museum, Oslo through September 22, 2024 →](https://www.nasjonalmuseet.no/en/exhibitions-and-events/national-museum/exhibitions/2024/mark-rothko/)
+[V﻿isit *Mark Rothko. Paintings on Paper,* on view at the National Museum, Oslo through September 22, 2024 →](https://www.nasjonalmuseet.no/en/exhibitions-and-events/national-museum/exhibitions/2024/mark-rothko/)
