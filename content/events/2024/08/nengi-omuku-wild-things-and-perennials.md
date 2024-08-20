@@ -18,4 +18,4 @@ event_platform:
   - zoom
 soldout: false
 ---
-[V﻿isit *Nengi Omuku: Wild Things and Perennials* at Kasmin, New York through October 24, 2024 →](https://www.kasmingallery.com/exhibitions/367-nengi-omuku-wild-things-and-perennials/)[](https://www.kasmingallery.com/exhibitions/367-nengi-omuku-wild-things-and-perennials/)
+V﻿isit *Wild Things and Perennials,* on view at Kasmin, New York through October 24, 2024 →[](https://www.kasmingallery.com/exhibitions/367-nengi-omuku-wild-things-and-perennials/)
