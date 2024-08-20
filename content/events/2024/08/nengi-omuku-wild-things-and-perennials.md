@@ -3,6 +3,7 @@ title: "Nengi Omuku: Wild Things and Perennials"
 deck: "Featuring Omuku and Lilly Wei "
 summary: Artist Nengi Omuku joins Rail contributor Lilly Wei for a conversation.
 people:
+  - person: nengi-omuku
   - person: lilly-wei
 date: 2024-09-16T13:00:00-0500
 end_date: 2024-09-16T14:30:00-0500
