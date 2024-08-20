@@ -19,4 +19,4 @@ event_platform:
   - zoom
 soldout: false
 ---
-[V﻿isit Leilah Babirye: *We Have a History*, on view at the Fine Arts Museum of San Francisco through October 26, 2025 →](https://www.famsf.org/exhibitions/leilah-babirye#)
+[V﻿isit *Leilah Babirye:* *We Have a History*, on view at de Young Museum, San Francisco through October 26, 2025 →](https://www.famsf.org/exhibitions/leilah-babirye#)
