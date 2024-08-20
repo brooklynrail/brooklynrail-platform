@@ -30,6 +30,8 @@
         </div>
       </div>
 
+      {{- .Render "card-pause" -}}
+
       {{- if $future_events -}}
 
       {{/* Paginates the events if there are more than X (set in config.yml) */}}
@@ -41,8 +43,6 @@
       </div>
 
       {{- end -}}
-
-      {{- .Render "card-pause" -}}
 
       <div class="grid-row">
         <div class="grid-col-12 tablet:grid-col-8 tablet:grid-offset-2">
