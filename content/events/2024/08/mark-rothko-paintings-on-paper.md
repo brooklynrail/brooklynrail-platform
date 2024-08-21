@@ -1,11 +1,12 @@
 ---
 title: "Mark Rothko: Paintings on Paper  "
-deck: Featuring Christopher Rothko, Adam Greenhalgh, Karianne Ommundsen, Øystein
-  Ustvedt, and Harry Cooper
-summary: "Artist Christopher Rothko and curators Adam Greenhalgh, Karianne
-  Ommundsen, and Øystein Ustved join Rail contributor Harry Cooper for a
+deck: Featuring  Adam Greenhalgh, Karianne Ommundsen, Christopher Rothko,
+  Øystein Ustvedt, and Harry Cooper
+summary: "Curators Adam Greenhalgh, Karianne Ommundsen, and Øystein Ustved and
+  artist Christopher Rothko and join Rail contributor Harry Cooper for a
   conversation. "
 people:
+  - person: christopher-rothko
   - person: harry-cooper
 date: 2024-09-17T13:00:00-0500
 end_date: 2024-09-17T14:30:00-0500
