@@ -1,11 +1,11 @@
 ---
 title: "Al Held: About Space "
-deck: Featuring Chris Martin, Anna Kunz, Judy Pfaff, and Pepe Karmel
-summary: "Artists Chris Martin, Anna Kunz, and Judy Pfaff join Rail contributor
+deck: Featuring Anna Kunz, Chris Martin, Judy Pfaff, and Pepe Karmel
+summary: "Artists Anna Kunz, Chris Martin, and Judy Pfaff join Rail contributor
   Pepe Karmel for a conversation. "
 people:
-  - person: chris-martin-2
   - person: anna-kunz
+  - person: chris-martin-2
   - person: judy-pfaff
   - person: pepe-karmel-2
 date: 2024-09-03T13:00:00-0500
