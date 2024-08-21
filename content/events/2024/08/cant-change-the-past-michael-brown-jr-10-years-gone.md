@@ -4,6 +4,7 @@ deck: Featuring Quincy Troupe, Alexis Rivierre, Nicole Sealey, and Ama Birch
 summary: Poets Quincy Troupe, Alexis Rivierre, Nicole Sealey join poet Ama Birch
   for a conversation and reading.
 people:
+  - person: quincy-troupe
   - person: alexis-rivierre
   - person: ama-birch
 date: 2024-09-04T13:00:00-0500
