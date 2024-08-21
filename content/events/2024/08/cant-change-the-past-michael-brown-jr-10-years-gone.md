@@ -1,11 +1,11 @@
 ---
 title: Can't Change the Past Michael Brown Jr. 10 Years Gone
-deck: Featuring Quincy Troupe, Alexis Rivierre, Nicole Sealey, and Ama Birch
-summary: Poets Quincy Troupe, Alexis Rivierre, Nicole Sealey join poet Ama Birch
-  for a conversation and reading.
+deck: Featuring Alexis Rivierre, Nicole Sealey, Quincy Troupe, and Ama Birch
+summary: Poets Alexis Rivierre, Nicole Sealey, and Quincy Troupe join poet Ama
+  Birch for a conversation and reading.
 people:
-  - person: quincy-troupe
   - person: alexis-rivierre
+  - person: quincy-troupe
   - person: ama-birch
 date: 2024-09-04T13:00:00-0500
 end_date: 2024-09-04T14:30:00-0500
