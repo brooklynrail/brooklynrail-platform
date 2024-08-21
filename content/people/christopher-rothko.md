@@ -13,5 +13,5 @@ short_bio: "**Christopher Rothko**, the second of Mark and Mary Alice Rothko's
   Chair of the Rothko Chapel Board and currently head of the Opening Spaces
   Campaign."
 portraits:
-  - media: " 2024/08/christopher-rothko"
+  - media: 2024/08/christopher-rothko
 ---
