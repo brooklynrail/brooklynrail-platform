@@ -14,7 +14,7 @@ short_bio: "**Jenny Kendler** is an interdisciplinary artist, naturalist and
   member of Artists Commit, an artist-led effort to raise climate-consciousness
   in the art world."
 portraits:
-  - {}
+  - media: 2024/08/jenny-kendler
 website: https://jennykendler.com/home.html
 instagram: jennykendler
 ---
