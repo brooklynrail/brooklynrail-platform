@@ -3,8 +3,8 @@ title: "Jenny Kendler: Other of Pearl"
 deck: Featuring Kendler and Julie Reiss
 summary: Artist Jenny Kendler joins Rail contributor Julie Reiss for a conversation.
 people:
-  - person: julie-reiss
   - person: jenny-kendler
+  - person: julie-reiss
 date: 2024-09-24T13:00:00-0500
 end_date: 2024-09-24T14:30:00-0500
 series: 1095
