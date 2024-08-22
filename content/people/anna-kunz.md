@@ -16,4 +16,6 @@ short_bio: Chicago-based artist **Anna Kunz** creates work grounded in a
   and The Joan Mitchell Foundation.
 portraits:
   - media: 2021/10/anna-kunz
+website: https://www.annakunz.net/
+instagram: annakunzchicago
 ---
