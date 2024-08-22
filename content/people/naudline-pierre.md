@@ -2,8 +2,8 @@
 name: Naudline Pierre
 first_name: Naudline
 last_name: Pierre
-short_bio: "Naudline Pierre (b. 1989, Leominster, MA) received an MFA from New
-  York Academy of Art, NY, and a BFA from Andrews University, MI. Pierre has
+short_bio: "**Naudline Pierre** (b. 1989, Leominster, MA) received an MFA from
+  New York Academy of Art, NY, and a BFA from Andrews University, MI. Pierre has
   been the subject of major solo exhibitions at The Drawing Center (2023) and
   the Dallas Museum of Art (2021). Pierre participated in the 2019–2020 Studio
   Museum’s Artist Residency and, as a culmination of the program, exhibited in a
