@@ -11,6 +11,7 @@ short_bio: "**Ama Birch** was born during a blizzard on the Lower East Side.
 portraits:
   - media: 2020/10/ama-birch
 rail_contributor_url: https://brooklynrail.org/contributor/Ama-Birch
+website: https://amabirch.hearnow.com/
 instagram: amabirch
 twitter: ""
 ---
