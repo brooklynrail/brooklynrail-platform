@@ -1,7 +1,7 @@
 ---
 title: "Gaby Collins-Fernandez: Art in Love"
-deck: "Featuring Collins-Fernandez and Rail host to be announced. "
-summary: "Artist Gaby Collins-Fernandez joins the Rail for a conversation. "
+deck: Featuring Collins-Fernandez and Rail host to be announced
+summary: Artist Gaby Collins-Fernandez joins the Rail for a conversation.
 people:
   - person: gaby-collins-fernandez
 date: 2024-09-27T13:00:00-0500
