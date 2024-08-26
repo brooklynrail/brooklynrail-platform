@@ -6,6 +6,7 @@ summary: "Curators Adam Greenhalgh, Karianne Ommundsen, and Øystein Ustved and
   artist Christopher Rothko and join Rail contributor Harry Cooper for a
   conversation. "
 people:
+  - person: adam-greenhalgh
   - person: karianne-ommundsen
   - person: christopher-rothko
   - person: harry-cooper
