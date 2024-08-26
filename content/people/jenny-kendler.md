@@ -10,9 +10,8 @@ short_bio: "**Jenny Kendler** is an interdisciplinary artist, naturalist and
   History, the MCA Chicago and public locations as diverse as urban riverwalks,
   remote deserts and tropical forests. From 2014 to 2024 she was
   artist-in-residence with environmental nonprofit NRDC. She sits on Boards for
-  [350.org](http://350.org/) and the artist residency ACRE and is a founding
-  member of Artists Commit, an artist-led effort to raise climate-consciousness
-  in the art world."
+  350.org and the artist residency ACRE and is a founding member of Artists
+  Commit, an artist-led effort to raise climate-consciousness in the art world."
 portraits:
   - media: 2024/08/jenny-kendler
 website: https://jennykendler.com/home.html
