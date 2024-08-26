@@ -1,7 +1,7 @@
 ---
 title: "Hanne Friis "
 deck: Featuring Friis and Amanda Gluibizzi
-summary: Artist Hanne Friis  joins Rail Artseen editor Amanda Gluibizzi for a
+summary: Artist Hanne Friis  joins Rail ArtSeen Editor Amanda Gluibizzi for a
   conversation.
 people:
   - person: hanne-friis
