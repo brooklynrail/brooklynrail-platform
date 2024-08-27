@@ -5,6 +5,7 @@ summary: Poets Alexis Rivierre, Nicole Sealey, and Quincy Troupe join poet Ama
   Birch for a conversation and reading.
 people:
   - person: alexis-rivierre
+  - person: nicole-sealey
   - person: quincy-troupe
   - person: ama-birch
 date: 2024-09-04T13:00:00-0500
