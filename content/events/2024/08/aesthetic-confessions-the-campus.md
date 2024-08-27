@@ -1,6 +1,6 @@
 ---
 title: "Aesthetic Confessions: The Campus"
-deck: Featuring Timo Kappeller, Jesse Willenbring, and Andrew Woolbright.
+deck: Featuring Timo Kappeller, Jesse Willenbring, and Andrew Woolbright
 summary: Curator Timo Kappeller, artist Jesse Willenbring, and a group of The
   Campus’s co-founders join Rail Editor-at-Large Andrew Woolbright for a
   conversation.
