@@ -1,7 +1,7 @@
 ---
 title: "Erin Shirreff: Sunset Palace "
 deck: "Featuring Shirreff and Christina Yang "
-summary: Artist Erin Shirreff joins Rail Contributor Christina Yang  for a conversation.
+summary: Artist Erin Shirreff joins Rail contributor Christina Yang for a conversation.
 people:
   - person: erin-shirreff
   - person: christina-yang
@@ -19,4 +19,4 @@ event_platform:
   - zoom
 soldout: false
 ---
-[V﻿isit Sunset Palace, on view at Sikkema Jenkins, New York through October 19, 2024 →](https://www.sikkemajenkinsco.com/ex20240906erinshirreff)
+[V﻿isit *Sunset Palace*, on view at Sikkema Jenkins, New York through October 19, 2024 →](https://www.sikkemajenkinsco.com/ex20240906erinshirreff)
