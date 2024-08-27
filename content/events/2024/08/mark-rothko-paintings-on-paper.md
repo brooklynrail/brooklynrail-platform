@@ -9,6 +9,7 @@ people:
   - person: adam-greenhalgh
   - person: karianne-ommundsen
   - person: christopher-rothko
+  - person: oystein-ustvedt
   - person: harry-cooper
 date: 2024-09-17T13:00:00-0500
 end_date: 2024-09-17T14:30:00-0500
