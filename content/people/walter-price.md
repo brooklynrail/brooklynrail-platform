@@ -13,4 +13,6 @@ short_bio: "**Walter Price** lives and works in Brooklyn, New York. Recent solo
   Museet, Oslo; Fondation Louis Vuitton, Paris; Hessel Museum of Art,
   Annandale-on-Hudson, New York; Aïshti Foundation, Lebanon; and Rollins Museum
   of Art, Orlando, among others."
+portraits:
+  - media: 2024/08/walter-price
 ---
