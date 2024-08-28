@@ -5,6 +5,7 @@ summary: "Editors Alice Centamore and James Hoff join Rail contributor Jennie
   Waldow for a conversation. "
 people:
   - person: alice-centamore
+  - person: james-hoff
 date: 2024-09-11T13:00:00-0500
 end_date: 2024-09-11T14:30:00-0500
 series: 1086
