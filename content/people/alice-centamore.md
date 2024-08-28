@@ -12,6 +12,6 @@ short_bio: "**Alice Centamore** is PhD student in the Department of Art History
   Kate Millett’s Farm. Her other projects include the republication of Monique
   Wittig’s work in English and a book on Judith Arcana and the Chicago Janes."
 portraits:
-  - media: " 2024/08/alice-centamore"
+  - media: 2024/08/alice-centamore
 instagram: " alice.centamore"
 ---
