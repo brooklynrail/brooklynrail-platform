@@ -4,6 +4,7 @@ deck: "Featuring Price and Michelle Grabner "
 summary: "Artist Walter Price joins Rail contributor Michelle Grabner for a
   conversation. "
 people:
+  - person: " walter-price"
   - person: michelle-grabner
 date: 2024-09-13T13:00:00-0500
 end_date: 2024-09-13T14:30:00-0500
