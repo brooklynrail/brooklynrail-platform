@@ -12,4 +12,7 @@ short_bio: "**Øystein Ustvedt** is an art historian from University of Oslo.
   Thames & Hudson, 2020) and is currently working on _Else Hagen. Between
   people, _ a traveling exhibition on the Norwegian post-war artist Else Hagen,
   which will be on display at the National Museum. "
+portraits:
+  - media: 2024/08/oystein-ustvedt
+instagram: " oystein.ustvedt"
 ---
