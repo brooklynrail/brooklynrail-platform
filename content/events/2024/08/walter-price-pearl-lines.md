@@ -1,8 +1,7 @@
 ---
 title: "Walter Price: Pearl Lines "
 deck: "Featuring Price and Michelle Grabner "
-summary: "Artist Walter Price joins Rail contributor Michelle Grabner for a
-  conversation. "
+summary: "Artist Walter Price joins artist Michelle Grabner for a conversation. "
 people:
   - person: walter-price
   - person: michelle-grabner
