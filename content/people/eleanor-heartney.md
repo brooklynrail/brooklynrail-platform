@@ -14,6 +14,6 @@ short_bio: "New York-based art critic **Eleanor Heartney** is the author of
   Feminist Roots of Contemporary Art_  (2024). She is an Editor-at-Large for the
   _Rail._"
 portraits:
-  - media: 2020/10/eleanor-heartney
+  - media: 2024/08/eleanor-heartney
 rail_contributor_url: https://brooklynrail.org/contributor/eleanor-heartney
 ---
