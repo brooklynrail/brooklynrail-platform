@@ -1,9 +1,11 @@
 ---
 title: "Gaby Collins-Fernandez: Art in Love"
-deck: Featuring Collins-Fernandez and Rail host to be announced
-summary: Artist Gaby Collins-Fernandez joins the Rail for a conversation.
+deck: Featuring Collins-Fernandez and Jarrett Earnest
+summary: "Artist Gaby Collins-Fernandez joins Rail contributor Jarrett Earnest
+  for a conversation. "
 people:
   - person: gaby-collins-fernandez
+  - person: jarrett-earnest
 date: 2024-09-27T13:00:00-0500
 end_date: 2024-09-27T14:30:00-0500
 series: 1098
