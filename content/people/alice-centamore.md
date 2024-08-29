@@ -14,5 +14,5 @@ short_bio: "**Alice Centamore** is a PhD student in the Department of Art
   Janes."
 portraits:
   - media: 2024/08/alice-centamore
-instagram: " alice.centamore"
+instagram: alice.centamore
 ---
