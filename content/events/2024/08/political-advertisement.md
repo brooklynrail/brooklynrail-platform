@@ -5,6 +5,7 @@ summary: "Artists Antoni Muntadas and Marshall Reese join Rail Editor-at-Large
   Eleanor Heartney for a conversation. "
 people:
   - person: antoni-muntadas
+  - person: marshall-reese
   - person: eleanor-heartney
 date: 2024-09-26T13:00:00-0500
 end_date: 2024-09-26T14:30:00-0500
