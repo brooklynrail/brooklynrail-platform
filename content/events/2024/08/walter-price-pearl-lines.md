@@ -19,4 +19,4 @@ event_platform:
   - zoom
 soldout: false
 ---
-[V﻿isit *Pearl Lines,* on view at the Walker Art Center, New York through December 8, 2024 →](https://walkerart.org/calendar/2024/walter-price-pearl-lines)
+[V﻿isit *Pearl Lines,* on view at the Walker Art Center, Minneapolis through December 8, 2024 →](https://walkerart.org/calendar/2024/walter-price-pearl-lines)
