@@ -6,6 +6,7 @@ summary: Counterpath Co-Founder and Associate Director Julie Carr and Co-Founder
   and reading.
 people:
   - person: cole-swensen
+  - person: julie-carr
 date: 2024-09-25T13:00:00-0500
 end_date: 2024-09-25T14:30:00-0500
 series: 1096
