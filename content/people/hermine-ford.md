@@ -11,6 +11,8 @@ short_bio: "**Hermine Ford** (b. 1939, New York, NY) works and lives in New
   include JJ Murphy Gallery, James Barron Art, and Cincinnati Museum of Art.
   Ford was the 2023 recipient of the Murray Reich Distinguished Artist Award
   presented by The New York Foundation for the Arts."
+portraits:
+  - media: 2024/08/hermine-ford
 website: https://www.hermineford.com/
 instagram: " herminefordstudio"
 ---
