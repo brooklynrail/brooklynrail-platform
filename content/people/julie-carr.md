@@ -12,7 +12,7 @@ short_bio: "**Julie Carr’s** most recent books are *Underscore*; *Mud, Blood,
   she is the co-founder of Counterpath Press, Counterpath Gallery, and
   Counterpath Community Garden in Denver."
 portraits:
-  - media: " 2024/08/julie-carr"
+  - media: 2024/08/julie-carr
 website: https://www.juliecarrpoet.com/
 instagram: juliecarr3308
 ---
