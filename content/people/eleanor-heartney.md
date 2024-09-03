@@ -2,17 +2,15 @@
 name: Eleanor Heartney
 first_name: Eleanor
 last_name: Heartney
-short_bio: "New York-based art critic **Eleanor Heartney** is the author of
-  numerous books on contemporary art. Heartney is a contributor to _Art in
-  America, Artpress_ and _Artnet_ and has written extensively for publications
-  including _Artnews, The New Art Examiner, The Washington Post,_ and _The New
-  York Times._ Her books include _Art & Today_ (2008), _Postmodern Heretics: The
-  Catholic Imagination in Contemporary Art_ (2004) and _Doomsday Dreams: The
-  Apocalyptic Imagination in Contemporary Art_ (2019). She is co-author of
-  _After the Revolution: Women who Transformed Contemporary Art, The Reckoning:
-  Women Artists in the New Millennium_ (2013) and _Mothers of Invention: The
-  Feminist Roots of Contemporary Art_  (2024). She is an Editor-at-Large for the
-  _Rail._"
+short_bio: "**Eleanor Heartney** has been writing about art since 1981. She is a
+  longtime contributor to _Art in America_, Contributing Editor to _Artpress_,
+  Editor at Large for _the Brooklyn Rail,_  and has written extensively on
+  contemporary art issues for _Artnews,_ _Artnet, Art and Auction,_ _the
+  Washington Post_ and the _New York Times_. Heartney was the 1992 recipient of
+  the College Art Association’s Frank Jewett Mather Award for distinction in art
+  criticism and was honored in 2008 by the French government as a Chevalier dans
+  l’Ordre des Arts et des Lettres. Her most recent book is the co-authored
+  _Mothers of Invention: the Feminist Roots of Contemporary Art_."
 portraits:
   - media: 2024/08/eleanor-heartney
 rail_contributor_url: https://brooklynrail.org/contributor/eleanor-heartney
