@@ -1,9 +1,9 @@
 ---
 title: "Publishing-in-Transit: Counterpath"
-deck: Featuring Julie Carr, Tim Roberts, Cole Swensen
-summary: Counterpath Co-Founder and Associate Director Julie Carr and Co-Founder
-  and Director Tim Roberts join Rail contributor Cole Swensen for a conversation
-  and reading.
+deck: Featuring Julie Carr, Tim Roberts, Edwin Torres, and Cole Swensen
+summary: Counterpath Co-Founder and Associate Director Julie Carrm Co-Founder
+  and Director Tim Roberts, and poet Edwin Torres join Rail contributor Cole
+  Swensen for a conversation and reading.
 people:
   - person: julie-carr
   - person: cole-swensen
