@@ -19,7 +19,7 @@ soldout: false
 David Zwirner \
 537 West 20th Street, New York 
 
-Curated by **Jeffrey Weiss** and organized in collaboration with the Ad Reinhardt Foundation, \_Ad Reinhardt: Print—Painting—Maquette\_ explores Reinhardt’s screenprints and his interest in translating the subtleties of his painted work into the print medium. Join the curator for a guided walkthrough of this special exhibition.
+Curated by **Jeffrey Weiss** and organized in collaboration with the Ad Reinhardt Foundation, *Ad Reinhardt: Print—Painting—Maquette* explores Reinhardt’s screenprints and his interest in translating the subtleties of his painted work into the print medium. Join the curator for a guided walkthrough of this special exhibition.
 
 **Wednesday, September 18, 2024** \
 **6:00 PM Doors open** \
