@@ -6,6 +6,7 @@ summary: Counterpath Co-Founder and Associate Director Julie Carr, Co-Founder
   Swensen for a conversation and reading.
 people:
   - person: julie-carr
+  - person: tim-roberts
   - person: edwin-torres-1
   - person: cole-swensen
 date: 2024-09-25T13:00:00-0500
