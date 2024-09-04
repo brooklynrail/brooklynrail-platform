@@ -6,8 +6,8 @@ summary: Curator Timo Kappeller, artist Jesse Willenbring, and a group of The
   Campus’s co-founders join Rail Editor-at-Large Andrew Woolbright for a
   conversation.
 people:
-  - person: andrew-paul-woolbright
   - person: chiara-repetto
+  - person: andrew-paul-woolbright
 date: 2024-09-12T13:00:00-0500
 end_date: 2024-09-12T14:30:00-0500
 series: 1087
