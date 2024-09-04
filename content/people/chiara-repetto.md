@@ -13,6 +13,6 @@ short_bio: "**Chiara Repetto** co-owns Kaufmann Repetto, a contemporary art
   Chiara moved to New York to open Kaufmann Repetto’s American outpost and
   second space in Chelsea. The gallery now proudly resides in Tribeca. "
 portraits:
-  - media: " 2024/09/chiara-repetto"
+  - media: 2024/09/chiara-repetto
 instagram: chiararepetto
 ---
