@@ -19,4 +19,4 @@ event_platform:
   - zoom
 soldout: false
 ---
-[V﻿isit *Sunset Palace*, on view at Sikkema Jenkins, New York through October 19, 2024 →](https://www.sikkemajenkinsco.com/ex20240906erinshirreff)
+[V﻿isit *Sunset Palace*, on view at Sikkema Jenkins & Co., New York through October 19, 2024 →](https://www.sikkemajenkinsco.com/ex20240906erinshirreff)
