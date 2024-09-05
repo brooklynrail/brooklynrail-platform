@@ -2,9 +2,8 @@
 title: "Aesthetic Confessions: The Campus"
 deck: Featuring Timo Kappeller, Chiara Repetto, Jesse Willenbring, and Andrew
   Woolbright
-summary: Curator Timo Kappeller, artist Jesse Willenbring, and a group of The
-  Campus’s co-founders join Rail Editor-at-Large Andrew Woolbright for a
-  conversation.
+summary: Curator Timo Kappeller, artist Jesse Willenbring, and Chiara Repetto
+  join Rail Editor-at-Large Andrew Woolbright for a conversation.
 people:
   - person: chiara-repetto
   - person: andrew-paul-woolbright
