@@ -11,7 +11,7 @@ short_bio: Artist, curator, and critic **Andrew Woolbright** is based in
   with Angela Dufresne and Cash Ragona at the Hole; and curated shows at
   Provincetown Fine Arts Work Center and Hesse Flatow in the summer or 2022. He
   currently teaches at School of Visual Arts and Pratt Institute and is a
-  2021-2022 resident at the Sharpe Walentas Studio Program in Dumbo.
+  2021-2022 resident at the Sharpe-Walentas Studio Program in Dumbo.
 portraits:
   - media: 2021/03/andrew-paul-woolbright
 rail_contributor_url: https://brooklynrail.org/contributor/Andrew-Paul-Woolbright
