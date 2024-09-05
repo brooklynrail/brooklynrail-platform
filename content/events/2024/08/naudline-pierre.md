@@ -18,4 +18,4 @@ event_platform:
   - zoom
 soldout: false
 ---
-[V﻿isit *Naudline Pierre*, on view at James Cohan Gallery, New York through October 19, 2024 →](https://www.jamescohan.com/exhibitions/naudline-pierre2)
+[V﻿isit *The Mythic Age*, on view at James Cohan Gallery, New York through October 19, 2024 →](https://www.jamescohan.com/exhibitions/naudline-pierre2)
