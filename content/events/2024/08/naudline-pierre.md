@@ -1,5 +1,5 @@
 ---
-title: Naudline Pierre
+title: "Naudline Pierre: The Mythic Age"
 deck: Featuring Pierre and Rail host to be announced
 summary: "Artist Naudline Pierre joins the Rail for a conversation. "
 people:
