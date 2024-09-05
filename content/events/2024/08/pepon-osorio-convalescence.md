@@ -19,4 +19,4 @@ event_platform:
   - zoom
 soldout: false
 ---
-[V﻿isit *Convalescence,* on view at Thomas Jefferson University, Philadelphia through November 1, 2024 → ](https://philadelphiacontemporary.org/projects/convalescence-pepon-osorio)
+[V﻿isit *Convalescence,* on view at Thomas Jefferson University, Philadelphia through November 1, 2024 → ](https://convalescencetju.org/)
