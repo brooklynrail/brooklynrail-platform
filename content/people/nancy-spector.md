@@ -13,6 +13,6 @@ short_bio: Widely recognized as a leading curator of her generation, **Nancy
 portraits:
   - media: 2022/11/nancy-spector
 website: http://www.nancyspector.org/
-instagram: " nespector"
+instagram: "nespector"
 twitter: nespector
 ---

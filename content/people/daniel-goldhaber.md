@@ -15,6 +15,6 @@ short_bio: '**Daniel Goldhaber** is a director, writer and producer based in Los
 portraits:
   - media: 2023/07/daniel-goldhaber
 website: "https://www.danielgoldhaber.com/"
-instagram: " chronopictures"
+instagram: "chronopictures"
 twitter: chronopictures
 ---

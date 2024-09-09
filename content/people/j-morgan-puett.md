@@ -16,5 +16,5 @@ short_bio: Trans-disciplinary creative producer **J. Morgan Puett** works with
 portraits:
   - media: 2021/09/j-morgan-puett
 website: http://www.jmorganpuett.com/about
-instagram: " jmorganpuett"
+instagram: "jmorganpuett"
 ---

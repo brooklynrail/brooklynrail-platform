@@ -10,5 +10,5 @@ short_bio: "**JJJJJerome Ellis** is an animal, artist, and proud stutterer.
 portraits:
   - media: 2023/07/jerome-ellis
 website: https://jjjjjerome.com/
-instagram: " jjjjjeromeellis"
+instagram: "jjjjjeromeellis"
 ---

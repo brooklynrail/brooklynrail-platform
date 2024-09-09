@@ -16,5 +16,5 @@ short_bio: Artist **Ron Nagle** was born in San Francisco, where he currently
 portraits:
   - media: 2021/09/ron-nagle
 website: http://ronnagle.net/
-instagram: " ronnagle"
+instagram: "ronnagle"
 ---

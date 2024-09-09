@@ -15,5 +15,5 @@ short_bio: "**Tau Lewis** (b. 1993, Toronto Canada) was most recently on
 portraits:
   - media: 2023/02/tau-lewis
 website: https://taulewis.com/
-instagram: " taulewis"
+instagram: "taulewis"
 ---

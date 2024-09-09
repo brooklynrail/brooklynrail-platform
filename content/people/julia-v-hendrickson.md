@@ -17,5 +17,5 @@ portraits:
   - media: 2023/06/julia-v-hendrickson
 rail_contributor_url: https://brooklynrail.org/contributor/Julia-V-Hendrickson
 website: https://juliavhendrickson.com/home.html
-instagram: " jayveeaitch"
+instagram: "jayveeaitch"
 ---

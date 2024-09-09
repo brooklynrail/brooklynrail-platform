@@ -1,7 +1,7 @@
 ---
 name: Anthony Hawley
 first_name: Anthony
-last_name: " Hawley"
+last_name: "Hawley"
 pronouns: he/him
 short_bio: Born in 1977, **Anthony Hawley** is a New York-based
   multidisciplinary artist, poet, and writer. His solo exhibitions, films, and

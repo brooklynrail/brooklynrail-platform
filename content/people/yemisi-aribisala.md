@@ -12,6 +12,6 @@ short_bio: "Nigerian-born writer and painter **Yemisi Aribisala** is currently
   through which the complex entity of Nigeria can be observed."
 portraits:
   - media: 2022/11/yemisi-aribisala
-instagram: " longthroatmemoirs"
+instagram: "longthroatmemoirs"
 twitter: yemisiAA
 ---

@@ -1,7 +1,7 @@
 ---
 name: Lisa Le Feuvre
 first_name: Lisa
-last_name: " Le Feuvre"
+last_name: "Le Feuvre"
 pronouns: she/hers
 short_bio: Curator, writer, editor, and public speaker **Lisa Le Feuvre** is the
   inaugural Executive Director of Holt/Smithson Foundation. Committed to

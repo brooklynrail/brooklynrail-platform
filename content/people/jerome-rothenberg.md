@@ -10,7 +10,7 @@ short_bio: 'Internationally celebrated poet, translator, anthologist, and
   Field on Mars_ (in English and French), _The President of Desolation_, _The
   Mystery of False Attachments_, and _Eye of Witness: A Jerome Rothenberg
   Reader_. He is currently assembling a transnational anthology of North and
-  South American poetry "from origins to present." He will be launching two
+  South American poetry \"from origins to present.\" He will be launching two
   titles at The Poetry Project on October 9: _The President of Desolation_(Black
   Widow Press) and _The Mystery of False Attachments_ (Word Palace).'
 portraits:

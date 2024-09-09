@@ -1,5 +1,5 @@
 ---
-name: " Yee I-Lann"
+name: "Yee I-Lann"
 first_name: Yee
 last_name: I-Lann
 short_bio: "Photomedia-based artist **Yee I-Lann**  (b.1971, Kota Kinabalu)

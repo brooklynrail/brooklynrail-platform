@@ -16,6 +16,6 @@ short_bio: "**Jeanetta Rich**, poet and filmmaker, holds a mirror to desperation
   published in 2021 by _Deluge Books_. "
 portraits:
   - media: 2023/03/jeanetta-rich
-email: " "
+email: ""
 website: https://jeanettarich.cargo.site/
 ---

@@ -11,6 +11,6 @@ short_bio: Historian and poet **Jennifer Michael Hecht** is the award-winning
 portraits:
   - media: 2023/01/jennifer-michael-hecht
 website: http://www.jennifermichaelhecht.com/
-instagram: " jennifer_michael_hecht"
+instagram: "jennifer_michael_hecht"
 twitter: Freudeinstein
 ---

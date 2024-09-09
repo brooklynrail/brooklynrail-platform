@@ -2,7 +2,7 @@
 name: Kemi Faldoun
 first_name: Kemi
 last_name: Faldoun
-short_bio: "  **Kemi Falodun** (b. 1993) is a Nigerian writer, journalist and
+short_bio: " **Kemi Falodun** (b. 1993) is a Nigerian writer, journalist and
   editor exploring mental health, intergenerational complexities, social
   justice, and culture, especially photography and film. A finalist of Awele
   Creative Trust Short Story Prize (2016), Kemi was a Writer-in-Residence at

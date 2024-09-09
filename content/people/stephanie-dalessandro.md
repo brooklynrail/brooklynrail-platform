@@ -1,7 +1,7 @@
 ---
 name: Stephanie D'Alessandro
 first_name: Stephanie
-last_name: " D'Alessandro"
+last_name: "D'Alessandro"
 short_bio: "Curator **Stephanie D’Alessandro** is the Leonard A. Lauder Curator
   for Modern Art and Senior Research Coordinator at the Met and co-curator of
   Surrealism Beyond Borders. She received her M.A. and Ph.D. in Art History from

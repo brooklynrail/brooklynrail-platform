@@ -8,7 +8,7 @@ short_bio: '**Diyi Mergenthaler** is a Ph.D candidate at the Institute of Art
   current research project investigates queer artworks created by artists,
   activists, curators and critics in mainland China and the Chinese diaspora in
   Europe from the 1980s to the present. In May 2021, she organised the Zoom
-  workshop, titled "Queering the Boundaries of the Arts in the Sinosphere," to
+  workshop, titled \"Queering the Boundaries of the Arts in the Sinosphere,\" to
   amplify the voices of Chinese queer and feminist artists with her colleagues.
   She coedits the publication _Contemporary Queer Chinese Art._'
 portraits:

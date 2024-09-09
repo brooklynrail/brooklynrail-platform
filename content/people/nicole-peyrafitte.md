@@ -16,6 +16,6 @@ short_bio: "**Nicole Peyrafitte's** work – in the form of paintings, drawings,
 portraits:
   - media: 2023/05/nicole-peyrafitte
 website: https://www.nicolepeyrafitte.com/
-instagram: " peirahitta"
+instagram: "peirahitta"
 twitter: peyrafitte
 ---

@@ -2,7 +2,7 @@
 name: Katy Rogers
 first_name: Katy
 last_name: Rogers
-short_bio: " **Katy Rogers** is the Programs Director and Director of the Robert
+short_bio: "**Katy Rogers** is the Programs Director and Director of the Robert
   Motherwell Catalogue Raisonné Project at the Dedalus Foundation, where she has
   worked since 2003. She is the author of the catalogue raisonné of Motherwell’s
   drawings, published by Yale University Press in fall 2022, and a co-author of

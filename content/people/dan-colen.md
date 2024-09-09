@@ -14,5 +14,5 @@ short_bio: Internationally recognized artist **Daniel Colen** has exhibited work
   the Rhode Island School of Art and Design.
 portraits:
   - media: 2022/10/dan-colen-portrait
-instagram: " hellhillel"
+instagram: "hellhillel"
 ---

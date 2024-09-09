@@ -2,7 +2,7 @@
 name: Tunji Adeniyi-Jones
 first_name: Tunji
 last_name: Adeniyi-Jones
-short_bio: " The paintings of **Tunji Adeniyi-Jones** emerge from a perspective
+short_bio: "The paintings of **Tunji Adeniyi-Jones** emerge from a perspective
   of what the artist describes as ‘cultural addition, combination and
   collaboration’. Born and educated in the UK and now living and working in the
   USA, his practice is inspired by the ancient history of West Africa and its

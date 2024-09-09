@@ -8,6 +8,6 @@ short_bio: "**Sahar Romani** is author of the forthcoming chapbook, _The
   of American Poets_, the _Believer, Guernica_, the _Margins_, the Yale
   _Review_, the _Brooklyn Rail_ and elsewhere. She teaches writing at NYU."
 portraits:
-  - media: " 2023/05/sahar-romani"
+  - media: "2023/05/sahar-romani"
 rail_contributor_url: https://brooklynrail.org/contributor/Sahar-Romani
 ---

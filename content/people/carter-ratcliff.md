@@ -14,6 +14,6 @@ short_bio: "Critic, poet, and author **Carter Ratcliff** has written books on
   Annual T-Space Poetry Award."
 portraits:
   - media: 2021/07/carter-ratcliff
-rail_contributor_url: " https://brooklynrail.org/contributor/carter-ratcliff"
+rail_contributor_url: "https://brooklynrail.org/contributor/carter-ratcliff"
 twitter: carterratcliff
 ---

@@ -8,7 +8,7 @@ short_bio: 'Peruvian writer, visual artist, and educator **Alonso Llerena**
   of the remains. He is a Tin House alumnus and has received fellowships from
   The Martha’s Vineyard Institute of Creative Writing and Brooklyn Poets. His
   work has appeared in _Prairie Schooner_, _The Offing_, _FENCE_, and elsewhere.
-  His manuscript in progress, "La Casa Roja," was an honorable mention and
+  His manuscript in progress, \"La Casa Roja,\" was an honorable mention and
   finalist for the Andres Montoya Poetry Prize, a finalist for The National
   Poetry Series 2021, the Prairie Schooner Raz-Shumaker Prize for poetry, the
   YesYes Books open reading series, and a semi-finalist for the Felix Pollack

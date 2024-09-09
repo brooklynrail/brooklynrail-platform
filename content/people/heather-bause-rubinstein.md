@@ -16,5 +16,5 @@ short_bio: Until recently, **Heather Bause Rubinstein’s** painting practice
 portraits:
   - media: 2023/08/heather-bause-rubinstein
 website: https://heatherbause.com
-instagram: " heather_rubinstein"
+instagram: "heather_rubinstein"
 ---

@@ -1,6 +1,6 @@
 ---
-name: " Christian Camacho-Light"
-first_name: " Christian"
+name: "Christian Camacho-Light"
+first_name: "Christian"
 last_name: Camacho-Light
 short_bio: Curator and writer based in New York, **Christian Camacho-Light**'s
   research deals with the relationships between difference and identity,

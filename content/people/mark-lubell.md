@@ -9,7 +9,7 @@ short_bio: '**Mark Lubell** was served as Executive Director of the
   The Global Fund to Fight AIDS, Tuberculosis and Malaria. It has successfully
   raised $1 billion to provide anti-retroviral medicines for HIV-positive people
   around the world. Prior to his work at Magnum, Lubell was chief operating
-  officer of "Here is New York: A Democracy of Photographs," which was formed in
+  officer of \"Here is New York: A Democracy of Photographs,\" which was formed in
   the aftermath of the events of September 11, 2001. He was also a founding
   principal of software company Visual Edge Systems, Inc.'
 portraits:

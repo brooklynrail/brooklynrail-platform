@@ -13,6 +13,6 @@ short_bio: Writer **Catherine Fatima** was born, raised, and currently lives in
 portraits:
   - media: 2021/09/catherine-fatima
 website: http://www.catherinefatima.com/
-instagram: " catherinefatima"
+instagram: "catherinefatima"
 twitter: catherinefatima
 ---

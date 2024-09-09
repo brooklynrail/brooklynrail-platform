@@ -1,6 +1,6 @@
 ---
-name: " Wanda Nanibush"
-first_name: " Wanda"
+name: "Wanda Nanibush"
+first_name: "Wanda"
 last_name: Nanibush
 short_bio: Prior to joining the Art Gallery of Ontario in 2016, **Wanda
   Nanibush** held various curatorial and academic roles across Canada since

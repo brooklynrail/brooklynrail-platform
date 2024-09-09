@@ -16,6 +16,6 @@ short_bio: "**Yaara Bou Melhem** is a journalist and filmmaker whose work has
 portraits:
   - media: 2023/06/yaara-bou-melhem
 website: https://www.illuminate-films.com.au/
-instagram: " yaaraboumelhem"
+instagram: "yaaraboumelhem"
 twitter: YaaraBou
 ---

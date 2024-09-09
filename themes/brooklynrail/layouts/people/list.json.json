@@ -1,0 +1,89 @@
+
+
+{{- $people := where $.Site.RegularPages  "Section" "people" -}}
+{{- $length := (len $people) -}}
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "content" : "{{- .Type -}}",
+    "type" : "list",
+    "title" : "{{- if eq  .Title  .Site.Title -}}{{- .Site.Title -}}{{- else -}}{{- with .Title -}} {{.}} |  {{- end -}} {{- .Site.Title -}} {{- end -}}",
+    "description": "{{- if ne  .Title  .Site.Title -}}{{- with .Title -}}{{.}}{{- end -}}{{- end -}}",
+    "home_page_url" : "{{- .Site.BaseURL -}}",
+    "count" : "{{- $length -}}",
+    {{- with .OutputFormats.Get "JSON" -}}
+    "feed_url" : "{{- .Permalink -}}",
+    {{- end -}}
+    {{- with $.Param "icon" -}}
+    "icon" : "{{- . | absURL -}}",
+    {{- end -}}
+    {{- with $.Param "favicon" -}}
+    "favicon" : "{{- . | absURL -}}",
+    {{- end -}}
+    {{ with .Section }}
+    "section" : "{{ . }}",
+    {{ end }}
+    {{ with eq .Kind  "taxonomy"}}
+    "taxonomy" : "{{ $.Data.Singular }}",
+    "term" : "{{ $.Data.Term }}",
+    {{ end }}
+
+
+    {{/*  {{- dict "events" $events | jsonify -}}  */}}
+    "items" : [ 
+    {{- range $index, $page := $people -}}
+
+    {
+      "name" : {{- with .Params.name -}}{{- . | jsonify -}}{{- else -}}null{{- end -}},
+      "first_name" : {{- with .Params.first_name -}}{{- . | jsonify -}}{{- else -}}null{{- end -}},
+      "last_name" : {{- with .Params.last_name -}}{{- . | jsonify -}}{{- else -}}null{{- end -}},
+      "slug" : {{- with .File.BaseFileName -}}{{- . | jsonify -}}{{- else -}}null{{- end -}},
+      "short_bio" : {{- with .Params.short_bio -}}{{-  ( . | markdownify) | jsonify -}}{{- else -}}null{{- end -}},
+      "portrait" : {{- with .Params.portraits -}}
+          {{- $media := (index . 0).media -}}
+          {{- $image := $page.GetPage (print "media/" $media) -}}
+          {{- with $image -}}
+            {{- template "mediaAPI" (dict "image" $image) -}}
+          {{- else -}}
+            null
+          {{- end -}}
+      {{- else -}}null{{- end -}},
+      "pronouns" : {{- with .Params.pronouns -}}{{- . | jsonify -}}{{- else -}}null{{- end -}},
+      "email" : {{- with .Params.email -}}{{- . | jsonify -}}{{- else -}}null{{- end -}},
+      "job_title" : {{- with .Params.job_title -}}{{- . | jsonify -}}{{- else -}}null{{- end -}},
+      "rail_contributor_url" : {{- with .Params.rail_contributor_url -}}{{- . | jsonify -}}{{- else -}}null{{- end -}},
+      "website" : {{- with .Params.website -}}{{- . | jsonify -}}{{- else -}}null{{- end -}},
+      "instagram" : {{- with .Params.instagram -}}{{- . | jsonify -}}{{- else -}}null{{- end -}},
+      "twitter" : {{- with .Params.twitter -}}{{- . | jsonify -}}{{- else -}}null{{- end -}},
+      "linkedin" : {{- with .Params.linkedin -}}{{- . | jsonify -}}{{- else -}}null{{- end -}},
+      
+      {{- if .Permalink -}}
+      "url" : "{{- .Permalink -}}"
+      {{- end -}}
+
+    }{{- if ne (add $index 1) $length -}},{{- end -}}
+    {{- end -}}
+    ]
+}
+
+
+{{/* Template: list_media ============================ */}}
+{{- define "list_media" -}}
+  
+{{- $page := .page -}}
+  {{- $key := .key -}}
+
+  "{{- $key -}}": {{- ($page.Param $key) | jsonify -}},
+
+{{- end -}}
+
+{{/* Template: media */}}
+{{- define "mediaAPI" -}}
+
+  {{- $image := .image -}}
+
+  {{- with $image -}}
+    {{- $image.Params | jsonify -}}
+  {{- end -}}
+
+
+{{- end -}}

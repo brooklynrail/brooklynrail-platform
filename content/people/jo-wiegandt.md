@@ -12,5 +12,5 @@ short_bio: "**Jo Wiegandt** (they/them) is a creative director, producer, and
   Programming Liaison. "
 portraits:
   - media: 2023/01/jo-wiegandt
-instagram: " josiewiegandt"
+instagram: "josiewiegandt"
 ---

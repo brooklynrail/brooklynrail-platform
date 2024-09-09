@@ -10,7 +10,7 @@ short_bio: 'Scholar **Kateryna Ruban** is a PhD candidate in history at New York
   part of the Visual Culture Research Center in Kyiv. Working and living in
   Ukraine and the US, she has published numerous short articles on current
   political events in both Ukrainian and English. In Fall 2022, Kateryna will be
-  teaching the course "Ukraine in Wartime" at Arizona State University. '
+  teaching the course \"Ukraine in Wartime\" at Arizona State University. '
 portraits:
   - media: 2022/04/kateryna-ruban
 website: https://wp.nyu.edu/katerynaruban/

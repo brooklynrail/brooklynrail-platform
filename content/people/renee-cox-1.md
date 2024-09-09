@@ -14,5 +14,5 @@ short_bio: "**Renée Cox** makes photographs, collages, and installations that
 portraits:
   - media: 2023/07/renee-cox
 website: https://www.reneecox.org/
-instagram: " reneecoxstudio"
+instagram: "reneecoxstudio"
 ---

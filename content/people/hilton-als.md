@@ -14,5 +14,5 @@ short_bio: "**Hilton Als** (b. 1960) is associate professor of writing at the
 portraits:
   - media: 2023/01/hilton-als
 rail_contributor_url: https://brooklynrail.org/contributor/Hilton-Als
-instagram: " hilton.als"
+instagram: "hilton.als"
 ---

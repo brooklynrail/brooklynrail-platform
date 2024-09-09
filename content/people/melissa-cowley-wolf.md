@@ -16,5 +16,5 @@ portraits:
   - media: 2023/06/melissa-cowley-wolf
 rail_contributor_url: https://brooklynrail.org/contributor/Melissa-Cowley-Wolf
 website: https://www.mcw-projects.com/
-instagram: " melissacowleywolf"
+instagram: "melissacowleywolf"
 ---

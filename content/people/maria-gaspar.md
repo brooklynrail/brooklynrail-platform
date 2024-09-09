@@ -12,5 +12,5 @@ short_bio: "**Maria Gaspar** is an artist negotiating the politics of location
   Chicago, holds an MFA in Studio Arts from University of Illinois at Chicago,
   and a BFA from Pratt Institute in Brooklyn, NY."
 portraits:
-  - media: " 2023/06/maria-gaspar"
+  - media: "2023/06/maria-gaspar"
 ---
