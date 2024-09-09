@@ -1,8 +1,8 @@
 ---
-name: 'Khashayar "Kess" Mohammadi '
+name: 'Khashayar \"Kess\" Mohammadi '
 first_name: Khashayar
 last_name: Mohammadi
-short_bio: '**Khashayar "Kess" Mohammadi** (They/Them) is a queer, Iranian born,
+short_bio: '**Khashayar \"Kess\" Mohammadi** (They/Them) is a queer, Iranian born,
   Toronto-based Poet, Writer, and Translator. They were shortlisted for the 2021
   Austin Clarke poetry prize, 2022’s Arc Poem of the year award, The Malahat
   Review’s 2023 Open Season awards for poetry, and they are the winner of the

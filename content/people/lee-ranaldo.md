@@ -2,7 +2,7 @@
 name: Lee Ranaldo
 first_name: Lee
 last_name: Ranaldo
-short_bio: " Musician, visual artist, and writer **Lee Ranaldo** co-founded
+short_bio: "Musician, visual artist, and writer **Lee Ranaldo** co-founded
   Sonic Youth in 1981, and has been active on the New York and International
   music and art scenes for the past 40+ years as composer, performer and
   producer. He also exhibits visual art and has published several books of

@@ -1,6 +1,6 @@
 ---
-name: " Bernardo Wade"
-first_name: " Bernardo"
+name: "Bernardo Wade"
+first_name: "Bernardo"
 last_name: Wade
 short_bio: Writer and artist from New Orleans, **Bernardo Wade** tries at poems
   & rides his bike around Bloomington, IN, because IU funds his present period

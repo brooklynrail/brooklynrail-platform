@@ -14,5 +14,5 @@ short_bio: "**Øystein Ustvedt** is an art historian from University of Oslo.
   which will be on display at the National Museum. "
 portraits:
   - media: 2024/08/oystein-ustvedt
-instagram: " oystein.ustvedt"
+instagram: "oystein.ustvedt"
 ---

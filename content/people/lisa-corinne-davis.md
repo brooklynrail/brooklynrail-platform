@@ -1,7 +1,7 @@
 ---
 name: Lisa Corinne Davis
 first_name: Lisa
-last_name: " Davis"
+last_name: "Davis"
 short_bio: Based in Brooklyn, **Lisa Corinne Davis** is a painter exploring the
   complex relationship between race, culture, classification and contingency.
   Born in Baltimore, Davis received a BFA from Pratt Institute, and an MFA from

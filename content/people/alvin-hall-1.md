@@ -6,7 +6,7 @@ short_bio: '**Alvin Hall** is an award-winning broadcaster, best-selling author,
   and financial educator. Alvin created, produced, and hosted the podcast
   series, _Driving the Green Book_ by Macmillan Podcasts, which received the
   2021 Ambie Award for the “Best History Podcast” and the 2021 New York
-  Festivals Gold Award for" Best Narrative Documentary Podcast.” His book, also
+  Festivals Gold Award for \"Best Narrative Documentary Podcast.\" His book, also
   called _Driving the Green Book,_ was published by HarperOne (January 2023).
   His work in radio includes _The Green Book_ (BBC Radio 4), _Alvin Hall Goes
   Back to School_ (The Takeaway, PRI with WNYC, winner of a New York Association

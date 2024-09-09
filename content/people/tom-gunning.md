@@ -10,7 +10,7 @@ short_bio: 'Professor Emeritus of Art History, Cinema and Media Studies at
   which cinema arose (relating it to still photography, stage melodrama, magic
   lantern shows, as well as wider cultural concerns such as the tracking of
   criminals, the World Expositions, and Spiritualism). His concept of the
-  "cinema of attractions" has tried to relate the development of cinema to other
+  \"cinema of attractions\" has tried to relate the development of cinema to other
   forces than storytelling, such as new experiences of space and time in
   modernity, and an emerging modern visual culture. '
 portraits:

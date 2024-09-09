@@ -2,7 +2,7 @@
 name: Audrey Flack
 first_name: Audrey
 last_name: Flack
-short_bio: " Acclaimed painter and sculptor **Audrey Flack** is a pioneer of
+short_bio: "Acclaimed painter and sculptor **Audrey Flack** is a pioneer of
   photorealism, and the first Photorealist painter whose work was purchased by
   the Museum of Modern Art for its permanent collection. Among many major
   museums around the world, her work also resides in The Metropolitan Museum of

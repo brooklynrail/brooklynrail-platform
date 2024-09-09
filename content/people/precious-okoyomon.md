@@ -15,5 +15,5 @@ short_bio: "**Precious Okoyomon** (b. 1993, UK) - poet, artist, and chef –
   author of _But Did You Die_ (Wonder, 2022)."
 portraits:
   - media: 2023/03/precious-okoyomon
-instagram: " devilintraining_"
+instagram: "devilintraining_"
 ---

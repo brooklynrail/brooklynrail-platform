@@ -5,7 +5,7 @@ last_name: Kaur
 short_bio: A writer, illustrator and poet living on unceded Sto:lo First Nations
   territory. Her writing, which explores themes of feminism, womanhood, social
   justice and love, acts as a means of healing and reclaiming identity. Named a
-  "rising star" by Vogue Magazine and a "Writer to Watch" by CBC Books, she has
+  \"rising star\" by Vogue Magazine and a \"Writer to Watch\" by CBC Books, she has
   toured across North America, the UK and Australia to connect with youth
   through the power of artistic expression. Her debut poetry and prose
   collection, _When You Ask Me Where I'm Going_ was shortlisted for the

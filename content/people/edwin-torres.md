@@ -10,7 +10,7 @@ short_bio: '**Edwin Torres** is a NYC native and neo-lingualisualist. His books
   editor of _The Body In Language: An Anthology_ (Counterpath Press).
   Multi-disciplinary collaborations with a wide range of cultural nomads have
   contributed to the development of his bodylingo poetics. Edwin will be
-  teaching "Brainlingo," his workshop on poetry and portals, as an adjunct this
+  teaching \"Brainlingo,\" his workshop on poetry and portals, as an adjunct this
   semester at Columbia University.'
 portraits:
   - media: 2020/10/edwin-torres

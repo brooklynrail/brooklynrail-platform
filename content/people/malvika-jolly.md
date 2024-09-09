@@ -2,7 +2,7 @@
 name: Malvika Jolly
 first_name: Malvika
 last_name: Jolly
-short_bio: " Artist, writer, and translator **Malvika Jolly** (she/her) lives on
+short_bio: "Artist, writer, and translator **Malvika Jolly** (she/her) lives on
   occupied Munsee, Lenape, and Wappinger land in New York City. Her essays,
   interviews, and criticism have appeared or are forthcoming in *Chicago*
   magazine, *The Margins*, and the *South Side Weekly*, where she is a regular

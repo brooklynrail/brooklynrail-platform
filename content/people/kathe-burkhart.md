@@ -12,7 +12,7 @@ short_bio: 'Writer and artist based in New York City and Amsterdam, **Kathe
   Hyperallergic, Evergreen Review, Esopus_, among many others. Regency Arts
   Press published a monograph of her paintings, _The Liz Taylor Series: The
   First Twenty Five Years_ in 2007. She is currently at work on a forthcoming
-  book of stories, "Almost Heaven". '
+  book of stories, \"Almost Heaven\". '
 portraits:
   - media: 2021/04/kathe-burkhart
 ---

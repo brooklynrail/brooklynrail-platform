@@ -14,5 +14,5 @@ short_bio: "**Zoe Darsee** was born about noon on a Tuesday. Later they founded
 portraits:
   - media: 2023/04/zoe-darsee
 website: https://zoedarsee.com/
-instagram: " katypablo_"
+instagram: "katypablo_"
 ---

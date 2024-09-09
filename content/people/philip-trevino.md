@@ -13,5 +13,5 @@ short_bio: "**Philip Treviño** has been artist-in-residence and curator with
   Lumberyard (Catskill, NY); Collar Works gallery (Troy, NY)."
 portraits:
   - media: 2023/01/philip-trevino
-instagram: " philiptrevino"
+instagram: "philiptrevino"
 ---

@@ -1,5 +1,5 @@
 ---
-name: Michal "MJ" Jones
+name: Michal \"MJ\" Jones
 first_name: Michal
 last_name: Jones
 pronouns: they/theirs

@@ -1,6 +1,6 @@
 ---
-name: " Lun*na Menoh"
-first_name: " Lun*na"
+name: "Lun*na Menoh"
+first_name: "Lun*na"
 last_name: Menoh
 short_bio: "**Lun*na Menoh** is a Japanese-born Renaissance artist who lives in
   Los Angeles. Her work deals with garments that expose the invisible thread

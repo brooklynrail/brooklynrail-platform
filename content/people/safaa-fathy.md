@@ -11,8 +11,8 @@ short_bio: Poet, filmmaker, and essayist **Safaa Fathy** was born in Egypt and
   through walls_ (SplitLevel ed.) and _A name to the sea_ (Dar Al Nahda). Her
   last play is _Aquarius, in Sillas en la frontera_. Her last films are
   _Mohammad saved from the waters_, _Derrida’s elsewhere_, and _Nom à la mer_.
-  Her most recent essays are "Au nom de la Mural" (Europe N. 1053-1053) and "De
-  mur en mur" (rue Descartes N.92).
+  Her most recent essays are \"Au nom de la Mural\" (Europe N. 1053-1053) and \"De
+  mur en mur\" (rue Descartes N.92).
 portraits:
   - media: 2021/11/safaa-fathy
 rail_contributor_url: ""

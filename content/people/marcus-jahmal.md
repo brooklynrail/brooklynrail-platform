@@ -15,5 +15,5 @@ short_bio: Born in 1990, **Marcus Jahmal**  lives and works in New York. He was
   France.
 portraits:
   - media: 2022/02/marcus-jahmal
-instagram: " marcusjahmal"
+instagram: "marcusjahmal"
 ---

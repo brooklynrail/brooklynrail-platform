@@ -1,7 +1,7 @@
 ---
 name: Dominique Fung
 first_name: Dominique
-last_name: " Fung"
+last_name: "Fung"
 pronouns: she/her
 short_bio: New York-based artist **Dominique Fung** was born in 1987 in Ottawa,
   Canada. She received her BAA from Sheridan College Institute of Technology and

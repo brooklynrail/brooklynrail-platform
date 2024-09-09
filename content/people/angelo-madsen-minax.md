@@ -15,5 +15,5 @@ short_bio: "**Angelo Madsen Minax** is a multi-disciplinary artist, filmmaker,
 portraits:
   - media: 2023/07/angelo-madsen-minax
 website: https://www.angelomadsen.com/
-instagram: " angelomadsen"
+instagram: "angelomadsen"
 ---

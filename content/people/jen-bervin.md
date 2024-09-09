@@ -16,5 +16,5 @@ short_bio: "**Jen Bervin** is a visual artist and poet whose multidisciplinary
 portraits:
   - media: 2023/08/jen-bervin
 website: https://www.jenbervin.com/
-instagram: " jenbervin"
+instagram: "jenbervin"
 ---

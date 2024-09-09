@@ -2,7 +2,7 @@
 name: Debra Gwartney
 first_name: Debra
 last_name: Gwartney
-short_bio: " Born in Salmon, Idaho, a fifth generation Idahoan, **Debra
+short_bio: "Born in Salmon, Idaho, a fifth generation Idahoan, **Debra
   Gwartney** is the winner of the 2018 RiverTeeth Nonfiction Prize, among other
   awards and fellowships. Her first book, _Live Through This,_ (Houghton Mifflin
   Harcourt, 2009) was a finalist for the National Book Critics Circle Award, the

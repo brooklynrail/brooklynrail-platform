@@ -3,7 +3,7 @@ name: Eleni Sikelianos
 first_name: Eleni
 last_name: Sikelianos
 short_bio: Born in California on Walt Whitman’s birthday, **Eleni Sikelianos**
-  is a poet, writer, and "a master of mixing genres." She grew up in earshot of
+  is a poet, writer, and \"a master of mixing genres.\" She grew up in earshot of
   the ocean, in small coastal towns near Santa Barbara, and has since lived in
   San Francisco, New York, Paris, Athens (Greece), Boulder (Colorado), and
   Providence. Deeply engaged with ecopoetics, her work takes up urgent concerns

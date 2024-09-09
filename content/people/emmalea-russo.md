@@ -11,5 +11,5 @@ portraits:
   - media: 2023/05/emmalea-russo
 rail_contributor_url: https://brooklynrail.org/contributor/Emmalea-Russo
 website: https://emmalearusso.com/
-instagram: " emmalea.russo"
+instagram: "emmalea.russo"
 ---

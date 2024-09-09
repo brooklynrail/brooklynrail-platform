@@ -12,5 +12,5 @@ short_bio: "Cynthia Hazen Polsky and Leon Polsky Curator of Contemporary Art,
   Katy Siegel in 2018, _Nobody’s Property: Art, Land, Space 2000-2010_, _Felix
   Gonzalez-Torres: Untitled_; and _New Jersey as Non-Site_. "
 portraits:
-  - media: " 2021/05/kelly-baum"
+  - media: "2021/05/kelly-baum"
 ---

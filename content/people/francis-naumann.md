@@ -2,7 +2,7 @@
 name: Francis Naumann
 first_name: Francis
 last_name: Naumann
-short_bio: " Independent scholar, curator, and art dealer **Francis M. Naumann**
+short_bio: "Independent scholar, curator, and art dealer **Francis M. Naumann**
   specializes in the art of the Dada and Surrealist periods. He is author of
   numerous articles and exhibition catalogues and has organized multiple
   exhibitions, including _Conversion to Modernism: The Early Work of Man Ray_

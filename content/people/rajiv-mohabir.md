@@ -2,7 +2,7 @@
 name: Rajiv Mohabir
 first_name: Rajiv
 last_name: Mohabir
-short_bio: " Indo-Caribbean American poet **Rajiv Mohabir** is the author of
+short_bio: "Indo-Caribbean American poet **Rajiv Mohabir** is the author of
   three acclaimed poetry collections, *The Taxidermist’s Cut* (Four Way Books,
   2016),  *Cowherd’s Son* (Tupelo Press, 2017), and *Cutlish* (Four Way Books,
   September 2021). He is the author of a book of translations *I Even Regret

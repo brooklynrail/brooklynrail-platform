@@ -2,7 +2,7 @@
 name: Laynie Browne
 first_name: Laynie
 last_name: Browne
-short_bio: " Poet, prose writer, teacher and editor **Laynie Browne** is the
+short_bio: "Poet, prose writer, teacher and editor **Laynie Browne** is the
   author of fourteen collections of poems and four books of fiction. Recent
   publications include _Translation of the Lilies Back into Lists_ (forthcoming
   May 2022, Wave Books) and a book of poems, _In Garments Worn by Lindens_

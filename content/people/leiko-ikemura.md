@@ -16,5 +16,5 @@ short_bio: "Born in Tsu, Mie Prefecture, Japan, **Leiko Ikemura** emigrated to
 portraits:
   - media: 2022/12/leiko-ikemura
 website: https://leiko.info/
-instagram: " studioleikoikemura"
+instagram: "studioleikoikemura"
 ---

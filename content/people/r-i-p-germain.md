@@ -16,5 +16,5 @@ short_bio: "**R.I.P. Germain’s** practice traffics in double meanings, deep
 portraits:
   - media: 2023/03/r-i-p-germain
 website: https://ripgermain.com/
-instagram: " ripgermain"
+instagram: "ripgermain"
 ---

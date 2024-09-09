@@ -9,7 +9,7 @@ short_bio: Artist **Wes Lang** was born in Chatham, New Jersey in 1972. Many of
   totems of the American West, and painters and sculptors from middle of last
   century such as Twombly, Guston, Kline, Mitchell, and Bacon dovetailing on up
   to the more contemporary such as Basquiat, Kippenberger, and Mike Kelley. In
-  2014, Lang made his institutional debut with "The Studio" @ aRoS Aarhus Museum
+  2014, Lang made his institutional debut with \"The Studio\" @ aRoS Aarhus Museum
   of Art. His pieces are included in many notable international collections
   including MOMA and Murderme and is represented worldwide by Almine Rech. Lang
   currently lives and works in Los Angeles.

@@ -2,7 +2,7 @@
 name: Karen Wilkin
 first_name: Karen
 last_name: Wilkin
-short_bio: " Independent curator and critic **Karen Wilkin** is an art
+short_bio: "Independent curator and critic **Karen Wilkin** is an art
   historian, curator, and critic, educated at the High School of Music and Art,
   Barnard College, and Columbia University. After living and working in Italy
   and Canada for some years, Ms. Wilkin returned to her native Manhattan in

@@ -14,5 +14,5 @@ short_bio: "**Adger Cowans** (b. 1936) was one of the first African American
 portraits:
   - media: 2023/01/adger-cowans
 website: https://www.brucesilverstein.com/
-instagram: " adger1641"
+instagram: "adger1641"
 ---

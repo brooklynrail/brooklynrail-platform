@@ -15,5 +15,5 @@ short_bio: "**Billy Gerard Frank,** born in Grenada, West Indies, is an Artist,
 portraits:
   - media: 2023/01/billy-gerard-frank
 website: https://www.billygerardfrank.com/
-instagram: " billygerardfrank"
+instagram: "billygerardfrank"
 ---

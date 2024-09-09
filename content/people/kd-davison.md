@@ -16,6 +16,6 @@ short_bio: "**KD Davison** is an award-winning director. Her third documentary
 portraits:
   - media: 2023/05/kd-davidson
 website: https://www.kddavison.com/
-instagram: " kddavison333"
+instagram: "kddavison333"
 twitter: kddavison20
 ---

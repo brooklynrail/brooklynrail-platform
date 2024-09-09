@@ -7,7 +7,7 @@ short_bio: '**Rachel Blau DuPlessis** is a poet, critic, and collagist. Just
   Forthcoming are _A Long Essay on the Long Poem_ from University of Alabama
   Press, the collage poem _Life in Handkerchiefs_, from Materialist Press, and
   _Daykeeping_ (2020) from Selva Oscura—all in 2023. Her work in poetry includes
-  the multi-volume long poem "Drafts" (1986- 2012).'
+  the multi-volume long poem \"Drafts\" (1986- 2012).'
 portraits:
   - media: 2023/01/rachel-blau-duplessis-1
 ---

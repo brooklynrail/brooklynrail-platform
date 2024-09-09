@@ -5,7 +5,7 @@ last_name: Olujimi
 short_bio: Artist **Kambui Olujimi** was born and raised in Bedford-Stuyvesant,
   Brooklyn. He received his MFA from Columbia University and attended Skowhegan
   School of Painting and Sculpture. His work challenges established modes of
-  thinking that commonly function as "inevitabilities." This pursuit takes shape
+  thinking that commonly function as \"inevitabilities.\" This pursuit takes shape
   through interdisciplinary bodies of work spanning sculpture, installation,
   photography, writing, video and performance. His works have premiered
   nationally and internationally at Sundance Film Festival, Museum of Modern
