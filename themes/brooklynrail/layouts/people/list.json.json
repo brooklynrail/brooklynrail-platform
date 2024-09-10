@@ -31,6 +31,7 @@
     "items" : [ 
     {{- range $index, $page := $people -}}
 
+    {{- $bio := .Params.short_bio | markdownify -}}
 
     {
       "name" : {{- with .Params.name -}}{{- . | jsonify -}}{{- else -}}null{{- end -}},
@@ -38,7 +39,7 @@
       "last_name" : {{- with .Params.last_name -}}{{- . | jsonify -}}{{- else -}}null{{- end -}},
       "slug" : {{- with .File.BaseFileName -}}{{- . | jsonify -}}{{- else -}}null{{- end -}},
       "content" : {{- with .Content -}}{{- . | jsonify -}}{{- else -}}null{{- end -}},
-      "short_bio" : {{ with .Params.short_bio -}}{{- . | markdownify | jsonify (dict "noHTMLEscape" true) -}}{{- else -}}null{{- end -}},
+      "short_bio" : {{- $bio | jsonify (dict "noHTMLEscape" true) -}},
       "portrait" : {{- with .Params.portraits -}}
           {{- $media := (index . 0).media -}}
           {{- $image := $page.GetPage (print "media/" $media) -}}
