@@ -1,6 +1,6 @@
 
 
-{{- $people := where $.Site.RegularPages  "Section" "people" -}}
+{{- $people := (where $.Site.RegularPages  "Section" "people") -}}
 {{- $length := (len $people) -}}
 {
     "version" : "https://jsonfeed.org/version/1",
@@ -28,16 +28,17 @@
     {{ end }}
 
 
-    {{/*  {{- dict "events" $events | jsonify -}}  */}}
     "items" : [ 
     {{- range $index, $page := $people -}}
+
 
     {
       "name" : {{- with .Params.name -}}{{- . | jsonify -}}{{- else -}}null{{- end -}},
       "first_name" : {{- with .Params.first_name -}}{{- . | jsonify -}}{{- else -}}null{{- end -}},
       "last_name" : {{- with .Params.last_name -}}{{- . | jsonify -}}{{- else -}}null{{- end -}},
       "slug" : {{- with .File.BaseFileName -}}{{- . | jsonify -}}{{- else -}}null{{- end -}},
-      "short_bio" : {{- with .Params.short_bio -}}{{-  ( . | markdownify) | jsonify -}}{{- else -}}null{{- end -}},
+      "content" : {{- with .Content -}}{{- . | jsonify -}}{{- else -}}null{{- end -}},
+      "short_bio" : {{ with .Params.short_bio -}}{{- . | markdownify | jsonify (dict "noHTMLEscape" true) -}}{{- else -}}null{{- end -}},
       "portrait" : {{- with .Params.portraits -}}
           {{- $media := (index . 0).media -}}
           {{- $image := $page.GetPage (print "media/" $media) -}}
@@ -55,12 +56,7 @@
       "instagram" : {{- with .Params.instagram -}}{{- . | jsonify -}}{{- else -}}null{{- end -}},
       "twitter" : {{- with .Params.twitter -}}{{- . | jsonify -}}{{- else -}}null{{- end -}},
       "linkedin" : {{- with .Params.linkedin -}}{{- . | jsonify -}}{{- else -}}null{{- end -}},
-      "date_modified" : "{{ with .Lastmod -}}{{ . | dateFormat "2006-01-02T15:04:05Z07:00" -}}{{- end -}}",
-      
-      {{- if .Permalink -}}
-      "url" : "{{- .Permalink -}}"
-      {{- end -}}
-
+      "date_modified" : "{{ with .Lastmod -}}{{ . | dateFormat "2006-01-02T15:04:05Z07:00" -}}{{- end -}}"
     }{{- if ne (add $index 1) $length -}},{{- end -}}
     {{- end -}}
     ]
