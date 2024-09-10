@@ -32,14 +32,15 @@
     {{- range $index, $page := $people -}}
 
     {{- $bio := .Params.short_bio | markdownify -}}
+    {{- $escapedBio := replaceRE `(<a href=)(\")([^\"]*)(\")` "$1\\$2$3\\$4" $bio -}}
 
     {
-      "name" : {{- with .Params.name -}}{{- . | jsonify -}}{{- else -}}null{{- end -}},
-      "first_name" : {{- with .Params.first_name -}}{{- . | jsonify -}}{{- else -}}null{{- end -}},
-      "last_name" : {{- with .Params.last_name -}}{{- . | jsonify -}}{{- else -}}null{{- end -}},
-      "slug" : {{- with .File.BaseFileName -}}{{- . | jsonify -}}{{- else -}}null{{- end -}},
-      "content" : {{- with .Content -}}{{- . | jsonify -}}{{- else -}}null{{- end -}},
-      "short_bio" : {{- $bio | jsonify (dict "noHTMLEscape" true) -}},
+      "name" : {{- with .Params.name -}}{{- . | jsonify (dict "noHTMLEscape" true) -}}{{- else -}}null{{- end -}},
+      "first_name" : {{- with .Params.first_name -}}{{- . | jsonify (dict "noHTMLEscape" true) -}}{{- else -}}null{{- end -}},
+      "last_name" : {{- with .Params.last_name -}}{{- . | jsonify (dict "noHTMLEscape" true) -}}{{- else -}}null{{- end -}},
+      "slug" : {{- with .File.BaseFileName -}}{{- . | jsonify (dict "noHTMLEscape" true) -}}{{- else -}}null{{- end -}},
+      "content" : {{- with .Content -}}{{- . | jsonify (dict "noHTMLEscape" true) -}}{{- else -}}null{{- end -}},
+      "short_bio" : "{{- $escapedBio -}}",
       "portrait" : {{- with .Params.portraits -}}
           {{- $media := (index . 0).media -}}
           {{- $image := $page.GetPage (print "media/" $media) -}}
@@ -49,14 +50,14 @@
             null
           {{- end -}}
       {{- else -}}null{{- end -}},
-      "pronouns" : {{- with .Params.pronouns -}}{{- . | jsonify -}}{{- else -}}null{{- end -}},
-      "email" : {{- with .Params.email -}}{{- . | jsonify -}}{{- else -}}null{{- end -}},
-      "job_title" : {{- with .Params.job_title -}}{{- . | jsonify -}}{{- else -}}null{{- end -}},
-      "rail_contributor_url" : {{- with .Params.rail_contributor_url -}}{{- . | jsonify -}}{{- else -}}null{{- end -}},
-      "website" : {{- with .Params.website -}}{{- . | jsonify -}}{{- else -}}null{{- end -}},
-      "instagram" : {{- with .Params.instagram -}}{{- . | jsonify -}}{{- else -}}null{{- end -}},
-      "twitter" : {{- with .Params.twitter -}}{{- . | jsonify -}}{{- else -}}null{{- end -}},
-      "linkedin" : {{- with .Params.linkedin -}}{{- . | jsonify -}}{{- else -}}null{{- end -}},
+      "pronouns" : {{- with .Params.pronouns -}}{{- . | jsonify (dict "noHTMLEscape" true) -}}{{- else -}}null{{- end -}},
+      "email" : {{- with .Params.email -}}{{- . | jsonify (dict "noHTMLEscape" true) -}}{{- else -}}null{{- end -}},
+      "job_title" : {{- with .Params.job_title -}}{{- . | jsonify (dict "noHTMLEscape" true) -}}{{- else -}}null{{- end -}},
+      "rail_contributor_url" : {{- with .Params.rail_contributor_url -}}{{- . | jsonify (dict "noHTMLEscape" true) -}}{{- else -}}null{{- end -}},
+      "website" : {{- with .Params.website -}}{{- . | jsonify (dict "noHTMLEscape" true) -}}{{- else -}}null{{- end -}},
+      "instagram" : {{- with .Params.instagram -}}{{- . | jsonify (dict "noHTMLEscape" true) -}}{{- else -}}null{{- end -}},
+      "twitter" : {{- with .Params.twitter -}}{{- . | jsonify (dict "noHTMLEscape" true) -}}{{- else -}}null{{- end -}},
+      "linkedin" : {{- with .Params.linkedin -}}{{- . | jsonify (dict "noHTMLEscape" true) -}}{{- else -}}null{{- end -}},
       "date_modified" : "{{ with .Lastmod -}}{{ . | dateFormat "2006-01-02T15:04:05Z07:00" -}}{{- end -}}"
     }{{- if ne (add $index 1) $length -}},{{- end -}}
     {{- end -}}
@@ -80,7 +81,7 @@
   {{- $image := .image -}}
 
   {{- with $image -}}
-    {{- $image.Params | jsonify -}}
+    {{- $image.Params | jsonify (dict "noHTMLEscape" true) -}}
   {{- end -}}
 
 
