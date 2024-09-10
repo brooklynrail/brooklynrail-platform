@@ -1,34 +1,8 @@
 
 
-{{- $people := (where $.Site.RegularPages  "Section" "people") -}}
+{{- $people :=  (where $.Site.RegularPages  "Section" "people") -}}
 {{- $length := (len $people) -}}
-{
-    "version" : "https://jsonfeed.org/version/1",
-    "content" : "{{- .Type -}}",
-    "type" : "list",
-    "title" : "{{- if eq  .Title  .Site.Title -}}{{- .Site.Title -}}{{- else -}}{{- with .Title -}} {{.}} |  {{- end -}} {{- .Site.Title -}} {{- end -}}",
-    "description": "{{- if ne  .Title  .Site.Title -}}{{- with .Title -}}{{.}}{{- end -}}{{- end -}}",
-    "home_page_url" : "{{- .Site.BaseURL -}}",
-    "count" : "{{- $length -}}",
-    {{- with .OutputFormats.Get "JSON" -}}
-    "feed_url" : "{{- .Permalink -}}",
-    {{- end -}}
-    {{- with $.Param "icon" -}}
-    "icon" : "{{- . | absURL -}}",
-    {{- end -}}
-    {{- with $.Param "favicon" -}}
-    "favicon" : "{{- . | absURL -}}",
-    {{- end -}}
-    {{ with .Section }}
-    "section" : "{{ . }}",
-    {{ end }}
-    {{ with eq .Kind  "taxonomy"}}
-    "taxonomy" : "{{ $.Data.Singular }}",
-    "term" : "{{ $.Data.Term }}",
-    {{ end }}
-
-
-    "items" : [ 
+[ 
     {{- range $index, $page := $people -}}
 
     {{- $bio := .Params.short_bio | markdownify -}}
@@ -62,7 +36,7 @@
     }{{- if ne (add $index 1) $length -}},{{- end -}}
     {{- end -}}
     ]
-}
+
 
 
 {{/* Template: list_media ============================ */}}
@@ -72,6 +46,7 @@
   {{- $key := .key -}}
 
   "{{- $key -}}": {{- ($page.Param $key) | jsonify -}},
+  
 
 {{- end -}}
 
@@ -81,7 +56,11 @@
   {{- $image := .image -}}
 
   {{- with $image -}}
-    {{- $image.Params | jsonify (dict "noHTMLEscape" true) -}}
+  {
+    "path" : "{{- with $image.Params.media -}}{{- . | markdownify -}}{{- end -}}",
+    "old_path" : "{{- with $image.Params.media -}}{{- . | markdownify -}}{{- end -}}",
+    "caption" : "{{- with $image.Params.caption -}}{{- . | markdownify -}}{{- end -}}"
+  }
   {{- end -}}
 
 
