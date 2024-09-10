@@ -35,12 +35,12 @@
     {{- $escapedBio := replaceRE `(<a href=)(\")([^\"]*)(\")` "$1\\$2$3\\$4" $bio -}}
 
     {
-      "name" : {{- with .Params.name -}}{{- . | jsonify (dict "noHTMLEscape" true) -}}{{- else -}}null{{- end -}},
+      "display_name" : {{- with .Params.name -}}{{- . | jsonify (dict "noHTMLEscape" true) -}}{{- else -}}null{{- end -}},
       "first_name" : {{- with .Params.first_name -}}{{- . | jsonify (dict "noHTMLEscape" true) -}}{{- else -}}null{{- end -}},
       "last_name" : {{- with .Params.last_name -}}{{- . | jsonify (dict "noHTMLEscape" true) -}}{{- else -}}null{{- end -}},
       "slug" : {{- with .File.BaseFileName -}}{{- . | jsonify (dict "noHTMLEscape" true) -}}{{- else -}}null{{- end -}},
       "content" : {{- with .Content -}}{{- . | jsonify (dict "noHTMLEscape" true) -}}{{- else -}}null{{- end -}},
-      "short_bio" : "{{- $escapedBio -}}",
+      "bio" : "{{- $escapedBio -}}",
       "portrait" : {{- with .Params.portraits -}}
           {{- $media := (index . 0).media -}}
           {{- $image := $page.GetPage (print "media/" $media) -}}
