@@ -8,4 +8,6 @@ short_bio: "**Timo Kappeller** is a curator and gallerist based in Brooklyn, NY,
   & Wirth. Currently Kappeller is the Director and Curator of The Campus, a new
   exhibition space founded by six NYC galleries in upstate NY, where he curated
   the inaugural show in June 2024. He is also the Founder of Artists Advisory."
+portraits:
+  - media: 2024/09/timo-kappeller
 ---
