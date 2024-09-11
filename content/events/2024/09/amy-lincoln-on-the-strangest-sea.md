@@ -1,6 +1,6 @@
 ---
 title: "Amy Lincoln: On the Strangest Sea"
-deck: Featuring Lincoln and Rail host to be announced.
+deck: Featuring Lincoln and Rail host to be announced
 summary: Artist Amy Lincoln joins the Rail for a conversation.
 people:
   - person: amy-lincoln
