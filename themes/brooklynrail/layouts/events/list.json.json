@@ -51,6 +51,7 @@
       "soldout" : {{- with .Params.soldout -}}{{- . -}}{{- else -}}false{{- end -}},
       "registration_url" : "{{- with .Params.registration_url -}}{{- . -}}{{- end -}}",
       {{- if .Params.source -}}
+      "content" : {{- with .Content -}}{{- . | jsonify (dict "noHTMLEscape" true) -}}{{- else -}}null{{- end -}},
       "source" : "{{- .Params.source -}}",
       {{- end -}}
       {{- if .Params.source_url -}}
