@@ -45,6 +45,7 @@
       {{ template "list_data" (dict "page" $page "key" "event_producer" ) }}
       {{ template "list_data" (dict "page" $page "key" "collections" ) }}
       "people" : {{- with .Params.people -}}{{- . | jsonify -}}{{- else -}}null{{- end -}},
+      "poets" : {{- with .Params.poets -}}{{- . | jsonify -}}{{- else -}}null{{- end -}},
       "series" : "{{- with .Params.series -}}{{- . -}}{{- end -}}",
       "youtube_id" : "{{- with .Params.youtube_id -}}{{- . -}}{{- end -}}",
       "event_id" : "{{- with .Params.event_id -}}{{- . -}}{{- end -}}",
