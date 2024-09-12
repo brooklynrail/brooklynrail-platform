@@ -36,6 +36,7 @@
       "title" : {{- .Title | jsonify -}},
       "deck" : "{{- with .Params.deck -}}{{- . | markdownify -}}{{- end -}}",
       "summary" : "{{ with .Summary -}}{{- .| markdownify -}}{{- end -}}",
+      "slug" : {{- with .File.BaseFileName -}}{{- . | jsonify (dict "noHTMLEscape" true) -}}{{- else -}}null{{- end -}},
       "date" : "{{ with .Date -}}{{ . | dateFormat "2006-01-02T15:04:05Z07:00" -}}{{- end -}}",
       "date_modified" : "{{ with .Lastmod -}}{{ . | dateFormat "2006-01-02T15:04:05Z07:00" -}}{{- end -}}",
       "start_date" : "{{- with .Date -}}{{ . | dateFormat "2006-01-02T15:04:05Z07:00" -}}{{- end -}}",
