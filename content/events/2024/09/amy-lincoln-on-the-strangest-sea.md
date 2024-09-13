@@ -4,6 +4,7 @@ deck: Featuring Lincoln and Rail host to be announced
 summary: Artist Amy Lincoln joins the Rail for a conversation.
 people:
   - person: amy-lincoln
+  - person: amanda-millet-sorsa
 date: 2024-09-19T13:00:00-0500
 end_date: 2024-09-19T14:30:00-0500
 series: 1092
