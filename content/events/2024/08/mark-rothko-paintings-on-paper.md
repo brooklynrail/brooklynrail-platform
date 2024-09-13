@@ -2,9 +2,9 @@
 title: "Mark Rothko: Paintings on Paper  "
 deck: Featuring  Adam Greenhalgh, Karianne Ommundsen, Christopher Rothko,
   Øystein Ustvedt, and Harry Cooper
-summary: "Curators Adam Greenhalgh, Karianne Ommundsen, and Øystein Ustved and
-  artist Christopher Rothko join Rail contributor Harry Cooper for a
-  conversation. "
+summary: "Curators Adam Greenhalgh, Karianne Ommundsen, and Øystein Ustved, and
+  writer and psychologist Christopher Rothko join Rail contributor Harry Cooper
+  for a conversation. "
 people:
   - person: adam-greenhalgh
   - person: karianne-ommundsen
