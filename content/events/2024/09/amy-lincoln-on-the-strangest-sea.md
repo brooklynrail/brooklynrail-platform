@@ -1,7 +1,8 @@
 ---
 title: "Amy Lincoln: On the Strangest Sea"
-deck: Featuring Lincoln and Rail host to be announced
-summary: Artist Amy Lincoln joins the Rail for a conversation.
+deck: Featuring Lincoln and Amanda Millet-Sorsa
+summary: Artist Amy Lincoln joins Rail contributor Amanda Millet-Sorsa for a
+  conversation
 people:
   - person: amy-lincoln
   - person: amanda-millet-sorsa
