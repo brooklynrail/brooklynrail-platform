@@ -1,9 +1,11 @@
 ---
 title: "Naudline Pierre: The Mythic Age"
-deck: Featuring Pierre and Rail host to be announced
-summary: "Artist Naudline Pierre joins the Rail for a conversation. "
+deck: Featuring Pierre and Amber Jamilla Musser
+summary: Artist Naudline Pierre joins Rail contributor Amber Jamilla Musser for
+  a conversation.
 people:
   - person: naudline-pierre
+  - person: amber-musser
 date: 2024-09-23T13:00:00-0500
 end_date: 2024-09-23T14:30:00-0500
 series: 1094
