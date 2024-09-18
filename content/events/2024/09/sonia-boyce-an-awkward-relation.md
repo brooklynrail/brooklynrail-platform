@@ -4,6 +4,7 @@ deck: Featuring Boyce and Mark Hudson
 summary: Artist Sonia Boyce joins Rail contributor Mark Hudson for a conversation.
 people:
   - person: sonia-boyce
+  - person: mark-hudson-1
 date: 2024-10-04T13:00:00-0500
 end_date: 2024-10-04T14:30:00-0500
 collections:
