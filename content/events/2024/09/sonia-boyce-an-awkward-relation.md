@@ -7,6 +7,7 @@ people:
   - person: mark-hudson-1
 date: 2024-10-04T13:00:00-0500
 end_date: 2024-10-04T14:30:00-0500
+series: 1103
 collections:
   - the-new-social-environment
 event_organizer:
@@ -18,4 +19,4 @@ event_platform:
   - zoom
 soldout: false
 ---
-[V﻿isit Sonia Boyce: An Awkward Relation, on view at Whitechapel Gallery, London through January 12, 2025→](https://www.whitechapelgallery.org/exhibitions/sonia-boyce-an-awkward-relation/)
+[V﻿isit *Sonia Boyce: An Awkward Relation*, on view at Whitechapel Gallery, London through January 12, 2025→](https://www.whitechapelgallery.org/exhibitions/sonia-boyce-an-awkward-relation/)
