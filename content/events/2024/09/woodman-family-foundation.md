@@ -4,8 +4,8 @@ deck: Featuring Ann Agee, Gordon Knox, Charles Woodman, and Glenn Adamson
 summary: Ann Agee, Gordon Knox, and Charles Woodman join *Rail* contributor
   Glenn Adamson for a conversation.
 people:
-  - person: glenn-adamson
   - person: ann-agee
+  - person: glenn-adamson
 date: 2024-10-03T13:00:00-0500
 end_date: 2024-10-03T14:30:00-0500
 series: 1102
