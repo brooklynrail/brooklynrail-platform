@@ -11,5 +11,7 @@ short_bio: "**Jessica Farrell** is a painter who grew up in the Midwest. She
   art practice, Farrell manages the David Byrd Catalogue Raisonné. Knowing Byrd
   inspired her to create paintings about her family, mental illness, and peer
   recovery advocates in her community."
+portraits:
+  - media: 2024/09/jessica-farrell
 website: http://jessicafarrell.com/
 ---
