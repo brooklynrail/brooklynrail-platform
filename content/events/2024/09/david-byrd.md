@@ -2,7 +2,7 @@
 title: David Byrd
 deck: Featuring Jason Andrew, Robert Cozzolino, Jessica Farrell, Jody Isaacson,
   and Lyle Rexer
-summary: Curators Jason Andrew and Robert Cozzolino join Lyle Rexer  for a conversation
+summary: Curators Jason Andrew and Robert Cozzolino join Lyle Rexer for a conversation
 people:
   - person: jason-andrew-1
   - person: robert-cozzolino
