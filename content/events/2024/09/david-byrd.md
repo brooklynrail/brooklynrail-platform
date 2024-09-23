@@ -7,8 +7,8 @@ summary: Curators Jason Andrew and Robert Cozzolino join the Brooklyn Rail for a
 people:
   - person: jason-andrew-1
   - person: robert-cozzolino
-date: 2024-09-23T11:07:00-0500
-end_date: 2024-09-23T11:07:00-0500
+date: 2024-10-01T13:00:00-0500
+end_date: 2024-10-01T14:30:00-0500
 collections:
   - the-new-social-environment
 event_organizer:
