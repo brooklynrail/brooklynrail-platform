@@ -27,3 +27,5 @@ event_platform:
 soldout: false
 ---
 [M﻿ore on the David Byrd Estate →](https://www.davidbyrdestate.com/)
+
+[L﻿earn more about the David Byrd Catalogue Raisonné project →](https://www.davidbyrdcatalogue.org/)
