@@ -1,8 +1,8 @@
 ---
 title: "Charles Simonds: About Time "
 deck: "Featuring Simonds and Ksenia M. Soboleva "
-summary: Sculptor Charles Simonds joins Rail contributor Ksenia M. Soboleva for
-  a conversation.
+summary: Artist Charles Simonds joins Rail contributor Ksenia M. Soboleva for a
+  conversation.
 people:
   - person: charles-simonds
   - person: ksenia-m-soboleva
