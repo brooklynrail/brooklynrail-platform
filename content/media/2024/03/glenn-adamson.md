@@ -1,5 +1,5 @@
 ---
-media: /media/files/glenn-adamson-credit-john-michael-kohler-arts-center.jpg
+media: /media/files/glenn-adamson-credit-john-michael-kohler-arts-center-5mb.jpg
 title: Glenn Adamson
 alt: Photo of Glenn Adamson
 caption: "Image credit: John Michael Kohler Arts Center"
