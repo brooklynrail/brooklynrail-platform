@@ -1,7 +1,7 @@
 ---
 title: "Sonia Boyce: An Awkward Relation "
 deck: Featuring Boyce and Mark Hudson
-summary: Artist Sonia Boyce joins Rail contributor Mark Hudson for a conversation.
+summary: Artist Sonia Boyce joins Editor-at-Large Mark Hudson for a conversation.
 people:
   - person: sonia-boyce
   - person: mark-hudson-1
