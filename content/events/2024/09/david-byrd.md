@@ -10,6 +10,7 @@ people:
   - person: lyle-rexer
 date: 2024-10-01T13:00:00-0500
 end_date: 2024-10-01T14:30:00-0500
+series: 1100
 collections:
   - the-new-social-environment
 event_organizer:
