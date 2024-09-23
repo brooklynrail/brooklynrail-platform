@@ -5,6 +5,7 @@ summary: Ann Agee, Gordon Knox, and Charles Woodman join *Rail* contributor
   Glenn Adamson for a conversation.
 people:
   - person: ann-agee
+  - person: gordon-knox-1
   - person: charles-woodman
   - person: glenn-adamson
 date: 2024-10-03T13:00:00-0500
