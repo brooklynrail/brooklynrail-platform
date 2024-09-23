@@ -12,4 +12,6 @@ short_bio: "**Charles Woodman**, is the Founder of the Woodman Artist Residency
   Contemporary Art, the Museum of Modern Art in New York, and others. Woodman
   was a professor in the School or Art at the University of Cincinnati for 20
   years, he currently lives in Oakland, CA."
+portraits:
+  - media: 2024/09/charles-woodman
 ---
