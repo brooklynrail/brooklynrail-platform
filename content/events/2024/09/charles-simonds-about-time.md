@@ -19,4 +19,4 @@ event_platform:
   - zoom
 soldout: false
 ---
-[G﻿et your copy of *About Time (*Walther König, Köln, 2024)→](https://www.artbook.com/9783753305455.html)
+[G﻿et your copy of *About Time* (Walther König, Köln, 2024)→](https://www.artbook.com/9783753305455.html)
