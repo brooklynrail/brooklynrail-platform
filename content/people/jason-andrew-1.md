@@ -14,4 +14,6 @@ short_bio: "**Jason Andrew** is a Founding Partner at Artist Estate Studio—a
   and Edith Schloss among others."
 portraits:
   - media: 2024/09/jason-andrew
+website: artistestatestudio.com
+instagram: jandrewarts
 ---
