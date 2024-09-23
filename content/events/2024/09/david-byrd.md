@@ -9,8 +9,10 @@ summary: Founding Partner at Artist Estate Studio Jason Andrew, curator Robert
 people:
   - person: jason-andrew-1
   - person: robert-cozzolino
-  - person: lyle-rexer
+  - person: jessica-farrell
   - person: jody-isaacson
+  - person: lyle-rexer
+  - {}
   - {}
 date: 2024-10-01T13:00:00-0500
 end_date: 2024-10-01T14:30:00-0500
