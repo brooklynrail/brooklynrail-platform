@@ -1,5 +1,5 @@
 ---
-title: "Woodman Family Foundation "
+title: "Woodman Residency Foundation "
 deck: Featuring Ann Agee, Gordon Knox, Charles Woodman, and Glenn Adamson
 summary: Ann Agee, Gordon Knox, and Charles Woodman join *Rail* contributor
   Glenn Adamson for a conversation.
@@ -20,4 +20,4 @@ event_platform:
   - zoom
 soldout: false
 ---
-[M﻿ore on the Woodman Family Foundation →](https://woodmanfoundation.org/)
+[M﻿ore on the Woodman Residency Foundation →](https://wrf-art.org/)
