@@ -2,9 +2,10 @@
 title: David Byrd
 deck: Featuring Jason Andrew, Robert Cozzolino, Jessica Farrell, Jody Isaacson,
   and Lyle Rexer
-summary: Curators Jason Andrew and Robert Cozzolino, artist and David Byrd
-  Catalogue Raisonné Manager Jessica Farrell, and executor of the David Byrd
-  Estate Jody Isaacson join Rail Editor-at-Large Lyle Rexer for a conversation.
+summary: Founding Partner at Artist Estate Studio Jason Andrew, curator Robert
+  Cozzolino, artist and David Byrd Catalogue Raisonné Manager Jessica Farrell,
+  and executor of the David Byrd Estate Jody Isaacson join Rail Editor-at-Large
+  Lyle Rexer for a conversation.
 people:
   - person: jason-andrew-1
   - person: robert-cozzolino
