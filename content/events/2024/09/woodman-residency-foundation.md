@@ -21,5 +21,8 @@ event_id: recJcE5sLBJttFwqm
 event_platform:
   - zoom
 soldout: false
+aliases:
+  - /events/2024/10/03/woodman-family-foundation/
+
 ---
 [M﻿ore on the Woodman Residency Foundation →](https://wrf-art.org/)
