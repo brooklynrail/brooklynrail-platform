@@ -2,16 +2,17 @@
 name: Gordon Knox
 first_name: Gordon
 last_name: Knox
-short_bio: Gordon Knox is an educator, cultural innovator, and institution
-  builder. Knox's work relocates the critical, disciplined investigation and
-  knowledge production of art and art-making back to the core of social
-  interpretation and cultural transformation. His primary means of accomplishing
-  this is by conceptualizing and building effective cultural institutions that
-  support artists as agents of social change suspended in a global network of
-  public intellectuals, educators, and creative practitioners of all sorts. Knox
-  has served as president of the San Francisco Art Institute, Director of the
-  Arizona State University Art Museum, and as a core collaborator at the
-  Stanford Humanities Lab.
+short_bio: "**Gordon Knox** is a cultural innovator, institution builder,
+  educator and arts-program designer. He has envisioned and established groups,
+  residencies and institutions that support exploratory artists from across
+  cultures and disciplines. Starting with the simple truth that humans are
+  social beings, and that culture is the result of their interaction, he builds
+  organizations grounded on interdependence and recognition. Gordon Knox was
+  president of the San Francisco Art Institute, director of the Arizona State
+  University Art Museum, core collaborator at the Stanford Humanities Lab,
+  Civitella Ranieri in Italy, the Lucas Artists Programs in California, the
+  Combine Artist Residency in Arizona, and the Woodman Artist Residency in
+  Florence, Italy."
 portraits:
   - media: 2020/08/gordon-knox-headshot
 ---
