@@ -4,6 +4,7 @@ deck: Featuring Smith and Andrew Woolbright
 summary: Artist Ray Smith joins Rail Editor-at-Large Andrew Woolbright for a
   conversation.
 people:
+  - person: ray-smith-1
   - person: andrew-paul-woolbright
 date: 2024-10-02T13:00:00-0500
 end_date: 2024-10-02T14:30:00-0500
