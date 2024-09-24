@@ -1,8 +1,10 @@
 ---
 title: "Ray Smith: Nepantla "
-deck: Featuring Smith and Rail host to be announced
-summary: Artist Ray Smith joins the Rail for a conversation
-people: []
+deck: Featuring Smith and Andrew Woolbright
+summary: Artist Ray Smith joins Rail Editor-at-Large Andrew Woolbright for a
+  conversation.
+people:
+  - person: andrew-paul-woolbright
 date: 2024-10-02T13:00:00-0500
 end_date: 2024-10-02T14:30:00-0500
 series: 1101
