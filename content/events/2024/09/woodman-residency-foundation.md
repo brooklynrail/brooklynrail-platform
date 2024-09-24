@@ -1,8 +1,7 @@
 ---
 title: "Woodman Residency Foundation "
 deck: Featuring Ann Agee, Gordon Knox, Charles Woodman, and Glenn Adamson
-summary: Ann Agee, Gordon Knox, and Charles Woodman join *Rail* contributor
-  Glenn Adamson for a conversation.
+summary: Artist Ann Agee, educator and arts-program designer Gordon Knox, and Founder of the Woodman Artist Residency Charles Woodman join Rail contributor Glenn Adamson for a conversation.
 people:
   - person: ann-agee
   - person: gordon-knox-1
@@ -25,4 +24,4 @@ aliases:
   - /events/2024/10/03/woodman-family-foundation/
 
 ---
-[M﻿ore on the Woodman Residency Foundation →](https://wrf-art.org/)
+[More on the Woodman Residency Foundation →](https://wrf-art.org/)
