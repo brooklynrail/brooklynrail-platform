@@ -1,5 +1,5 @@
 ---
-title: Hermine Ford
+title: "Hermine Ford: Follow Me"
 deck: Featuring Ford and Tom McGlynn
 summary: "Artist Hermine Ford joins Rail Editor-at-Large Tom McGlynn for a
   conversation. "
@@ -20,4 +20,4 @@ event_platform:
   - zoom
 soldout: false
 ---
-[V﻿isit *Hermine Ford*, on view at Nathalie Karg Gallery, New York through October 12, 2024 →](https://nathaliekarg.com/exhibitions/)
+[V﻿isit *Hermine Ford: Follow Me*, on view at Nathalie Karg Gallery, New York through October 12, 2024 →](https://nathaliekarg.com/exhibitions/)
