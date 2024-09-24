@@ -12,6 +12,8 @@ short_bio: "**Ray Smith** (American, b.1959) Born in Brownsville, TX, and raised
   politically daring Mexican muralists. Through these varied beings, Smith
   reflects upon the complexities and absurdities of society, family, politics,
   culture, war, and the human condition itself, framed by birth and death."
+portraits:
+  - media: 2024/09/ray-smith
 website: https://www.raysmithstudio.com/
 instagram: raysmithstudio
 ---
