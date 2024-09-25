@@ -21,4 +21,4 @@ event_platform:
   - zoom
 soldout: false
 ---
-[G﻿et your copy of Contemporary Art Underground: MTA Arts & Design New York (Monacelli Press, 2024) here →](https://www.phaidon.com/monacelli/art-and-photography/contemporary-art-underground-mta-arts-and-design-new-york-9781580936422/)
+[G﻿et your copy of *Contemporary Art Underground: MTA Arts & Design New York* (Monacelli Press, 2024) here →](https://www.phaidon.com/monacelli/art-and-photography/contemporary-art-underground-mta-arts-and-design-new-york-9781580936422/)
