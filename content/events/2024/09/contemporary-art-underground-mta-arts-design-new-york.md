@@ -8,7 +8,7 @@ people:
   - person: cheryl-hageman
   - person: jessica-holmes
 date: 2024-10-10T13:00:00-0500
-end_date: 2024-10-10T14:30:00-0500
+end_date: 2024-10-10T14:31:00-0500
 series: 1107
 collections:
   - the-new-social-environment
