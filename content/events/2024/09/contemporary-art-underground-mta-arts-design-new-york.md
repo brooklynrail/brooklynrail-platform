@@ -1,6 +1,6 @@
 ---
 title: "Contemporary Art Underground: MTA Arts & Design New York"
-deck: "Featuring Sandra Bloodworth, Cheryl Hageman and Jessica Holmes "
+deck: "Featuring Sandra Bloodworth, Cheryl Hageman, and Jessica Holmes "
 summary: Former Director of MTA Arts & Design Sandra Bloodworth and Deputy
   Director of MTA Arts & Design Cheryl Hageman join Rail ArtSeen Editor Jessica
   Holmes for a conversation.
@@ -16,7 +16,8 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
-registration_url: rec0y5EUDayLRF55l
+event_id: rec0y5EUDayLRF55l
+registration_url: ""
 event_platform:
   - zoom
 soldout: false
