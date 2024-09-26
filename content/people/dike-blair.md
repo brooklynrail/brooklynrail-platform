@@ -11,7 +11,8 @@ short_bio: "**Dike Blair** (b. 1952, New Castle, Pennsylvania) uses gouache,
   trends toward Neo-Expressionism, he began rendering scenes from his life in
   gouache on paper. These ongoing diaristic paintings are devoid of human
   figures but nonetheless evoke the specter of the artist whose daily life plays
-  out at a remove across their finely-wrought surfaces. "
+  out at a remove across their finely-wrought surfaces. Blair lives in New York
+  and Sullivan County."
 portraits:
   - media: 2024/09/dike-blair
 website: https://blair.thing.net/index.html
