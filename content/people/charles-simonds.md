@@ -11,6 +11,6 @@ short_bio: "Since 1970 **Charles Simonds** has made dwelling places for an
   future. He served on the Board of the Lower East Side Coalition for Human
   Housing as a community advocate in the 1970’s. "
 portraits:
-  - media: 2024/09/charles-simonds
+  - media: 2024/09/charles-simmonds
 website: https://www.charles-simonds.com/
 ---
