@@ -14,4 +14,5 @@ short_bio: "Since 2013, **Brooke Kamin Rapaport** has been responsible for the
   Jewish Museum.  In 2022, she was awarded an honorary degree from Amherst."
 portraits:
   - media: 2020/07/brooke-kamin-rapaport-headshot
+instagram: brookekaminrapaport
 ---
