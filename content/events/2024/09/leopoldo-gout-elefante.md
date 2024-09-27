@@ -19,4 +19,4 @@ event_platform:
   - zoom
 soldout: false
 ---
-[V﻿isit Elefante, on view at Povos Gallery, Chicago through December 31, 2024 →](https://povoschicago.com/exhibitions/)
+[V﻿isit *Elefante*, on view at Povos Gallery, Chicago through December 31, 2024 →](https://povoschicago.com/exhibitions/)
