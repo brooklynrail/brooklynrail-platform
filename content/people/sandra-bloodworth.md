@@ -15,5 +15,5 @@ short_bio: "**Sandra Bloodworth** is former Director of MTA Arts & Design, the
 portraits:
   - media: 2024/09/sandra-bloodworth
 website: http://www.sandrabloodworth.com/
-instagram: https://www.instagram.com/sandrabloodworth/
+instagram: sandrabloodworth
 ---
