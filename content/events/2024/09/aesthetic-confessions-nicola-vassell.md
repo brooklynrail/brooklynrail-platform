@@ -1,7 +1,8 @@
 ---
 title: "Aesthetic Confessions: Nicola Vassell "
 deck: "Featuring Vassell and Ginevra de Blasio "
-summary: "Nicola Vassell joins Rail contributor Ginevra de Blasio for a conversation. "
+summary: "Gallerist Nicola Vassell joins Rail contributor Ginevra de Blasio for
+  a conversation. "
 people:
   - person: nicola-vassell
   - person: ginevra-de-blasio
@@ -19,4 +20,4 @@ event_platform:
   - zoom
 soldout: false
 ---
-[M﻿ore on Nicola Vassell →](https://www.nicolavassell.com/)
+[M﻿ore on Nicola Vassell Gallery→](https://www.nicolavassell.com/)[](https://www.nicolavassell.com/)
