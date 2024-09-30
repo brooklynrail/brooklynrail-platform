@@ -11,4 +11,6 @@ short_bio: "**Cheryl Hageman** is deputy director of MTA Arts & Design,
   administrator."
 portraits:
   - media: 2024/09/cheryl-hageman
+website: https://new.mta.info/agency/arts-design
+instagram: MTAartsdesign
 ---
