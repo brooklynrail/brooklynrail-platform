@@ -13,6 +13,6 @@ short_bio: "Since 2013, **Brooke Kamin Rapaport** has been responsible for the
   contemporary art department at the Brooklyn Museum and a guest curator at The
   Jewish Museum.  In 2022, she was awarded an honorary degree from Amherst."
 portraits:
-  - media: 2020/07/brooke-kamin-rapaport-headshot
+  - media: 2024/09/brooke-kamin-rapaport
 instagram: brookekaminrapaport
 ---
