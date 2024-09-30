@@ -20,4 +20,4 @@ event_platform:
   - zoom
 soldout: false
 ---
-[V﻿isit *Dike Blair* on view at Karma, through October, October 26, 2024 →](https://karmakarma.org/exhibitions/dike-blair-ny-2024/)
+[V﻿isit *Dike Blair* on view at Karma, through October 26, 2024 →](https://karmakarma.org/exhibitions/dike-blair-ny-2024/)
