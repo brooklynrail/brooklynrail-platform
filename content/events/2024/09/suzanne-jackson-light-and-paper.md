@@ -6,7 +6,7 @@ people:
   - person: suzanne-jackson
 date: 2024-10-08T13:00:00-0500
 end_date: 2024-10-08T14:30:00-0500
-series: 1106
+series: 1105
 collections:
   - the-new-social-environment
 event_organizer:
