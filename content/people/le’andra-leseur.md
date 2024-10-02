@@ -12,7 +12,7 @@ short_bio: "**Le’Andra LeSeur** is an artist whose work delves into the
   Fellowship (2019), among others. Her work has been shown in solo and group
   exhibitions at LMCC, NY; The Shed, NY; Atlanta Contemporary, A.I.R. Gallery,
   Brooklyn, and others. Her work is in the collection at The Whitney Museum of
-  American Art and she is represented by Marlborough Gallery in New York."
+  American Art."
 portraits:
   - media: 2024/02/le’andra-leseur
 rail_contributor_url: https://brooklynrail.org/contributor/LeAndra-LeSeur
