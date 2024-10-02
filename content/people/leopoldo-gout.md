@@ -1,8 +1,8 @@
 ---
-name: Leopoldo Gout
+name: Leopoldo Goût
 first_name: Leopoldo
-last_name: Gout
-short_bio: "**Leopoldo Gout** is an artist, writer, and filmmaker who works
+last_name: Goût
+short_bio: "**Leopoldo Goût** is an artist, writer, and filmmaker who works
   across mediums to capture the ephemeral: an abstract and figurative clash with
   memory and humanity, with chaos. Born in Mexico City, he embarked on numerous
   artistic pursuits: painting, drawing, sculpture, filmmaking, digital art,
