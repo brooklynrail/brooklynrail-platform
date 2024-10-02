@@ -1,9 +1,10 @@
 ---
 title: "Suzanne Jackson: light and paper"
 deck: Featuring Jackson and Rail host to be announced
-summary: Suzanne Jackson joins The Brooklyn Rail for a conversation.
+summary: Suzanne Jackson joins Rail contributor Lilly Wei for a conversation.
 people:
   - person: suzanne-jackson
+  - person: lilly-wei
 date: 2024-10-08T13:00:00-0500
 end_date: 2024-10-08T14:30:00-0500
 series: 1105
