@@ -1,6 +1,6 @@
 ---
 title: "Suzanne Jackson: light and paper"
-deck: Featuring Jackson and Rail host to be announced
+deck: Featuring Jackson and Lilly Wei
 summary: Suzanne Jackson joins Rail contributor Lilly Wei for a conversation.
 people:
   - person: suzanne-jackson
