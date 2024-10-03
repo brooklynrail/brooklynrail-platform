@@ -1,7 +1,7 @@
 ---
 title: "Leopoldo Goût: Elefante"
 deck: Featuring Gout and Andrew Woolbright
-summary: Film director and painter Leopoldo Goût joins Rail Editor-at-Large
+summary: Visual artist and filmmaker Leopoldo Goût joins Rail Editor-at-Large
   Andrew Woolbright for a conversation.
 people:
   - person: leopoldo-gout
