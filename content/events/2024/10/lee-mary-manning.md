@@ -1,7 +1,7 @@
 ---
 title: "Lee Mary Manning "
 deck: Featuring Manning and Jean Dykstra
-summary: "Artist Lee Mary Manning joins Rail contributor Jean Dykstra  for a
+summary: "Artist Lee Mary Manning joins Rail contributor Jean Dykstra for a
   conversation. "
 people:
   - person: jean-dykstra
