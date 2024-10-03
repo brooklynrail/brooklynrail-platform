@@ -19,3 +19,4 @@ event_platform:
   - zoom
 soldout: false
 ---
+[V﻿isit *In Praise of Limestone,* on view at Nathalie Karg Gallery, through November 22, 2024*→*](https://nathaliekarg.com/)
