@@ -4,6 +4,7 @@ deck: Featuring LeSeur and Jenée-Daria Strand
 summary: Artist Le'Andra LeSeur joins curator Jenée-Daria Strand for a conversation.
 people:
   - person: le’andra-leseur
+  - person: jenee-daria-strand
 date: 2024-10-15T13:00:00-0500
 end_date: 2024-10-15T14:30:00-0500
 series: 1110
