@@ -1,7 +1,7 @@
 ---
 title: "Le'Andra LeSeur: Monument Eternal"
-deck: Featuring LeSeur and Rail host to be announced
-summary: "Artist Le'Andra LeSeur joins The Brooklyn Rail for a conversation. "
+deck: Featuring LeSeur and Jenée-Daria Strand
+summary: Artist Le'Andra LeSeur joins curator Jenée-Daria Strand for a conversation.
 people:
   - person: le’andra-leseur
 date: 2024-10-15T13:00:00-0500
