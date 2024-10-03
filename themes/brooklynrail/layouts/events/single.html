@@ -147,12 +147,12 @@ The class `h-event` is a root class name, `p-name`, `dt-start`, `dt-end`, `p-loc
 
             {{- $event_producer := "" -}}
             {{- if .Params.event_producer -}}
-            {{- $event_producer = ($.Site.GetPage (printf "/%s/%s" "organizations" (index (.Params.event_producer) 0))) -}}
+            {{- $event_producers = ($.Site.GetPage (printf "/%s/%s" "organizations" (index (.Params.event_producer) 0))) -}}
             {{- end -}}
 
             {{- $event_organizer := "" -}}
             {{- if .Params.event_organizer -}}
-            {{- $event_organizer = ($.Site.GetPage (printf "/%s/%s" "organizations" (index (.Params.event_organizer) 0))) -}}
+            {{- $event_organizers = ($.Site.GetPage (printf "/%s/%s" "organizations" (index (.Params.event_organizer) 0))) -}}
             {{- end -}}
 
 
