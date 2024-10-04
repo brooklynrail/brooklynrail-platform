@@ -2,16 +2,16 @@
 name: Tacita Dean
 first_name: Tacita
 last_name: Dean
-short_bio: "**Tacita Dean** works primarily in film. She lives and works in
-  Berlin and Los Angeles, where she was the Artist in Residence at the Getty
-  Research Institute in 2014- 2015. Dean has been the recipient of numerous
-  prizes including the Kurt Schwitters Prize in 2009 and the Hugo Boss Prize at
-  the Solomon R. Guggenheim Museum, New York, in 2006. Solo exhibitions were
-  most recently held in 2022 at MUDAM, Luxembourg, the J. Paul Getty Museum, Los
-  Angeles. Dean designed the sets and costumes for The Dante Project, a
-  collaborative production with the Royal Ballet. In 2011 Dean’s work _FILM,_ a
-  part of the Unilever Series of Tate Modern and shown in the Turbine Hall,
-  marked the beginning of the campaign to preserve photochemical film."
+short_bio: "**Tacita Dean** is a British European artist. Recent solo
+  exhibitions include The Menil Collection, Houston (2024); Bourse de Commerce,
+  Pinault Collection, Paris and Museum of Contemporary Art, Sydney (2023). In
+  2018, a trilogy of solo exhibitions was held simultaneously at the National
+  Portrait Gallery, the National Gallery and the Royal Academy of Arts in
+  London. In 2021, she designed the sets and costumes for the ballet The Dante
+  Project, a collaborative production with Wayne McGregor and Thomas Adès, which
+  premiered at the Royal Opera House in London. In 2011, Dean’s work _FILM_,
+  shown in the Turbine Hall at Tate Modern, marked the beginning of a campaign
+  to preserve photochemical film."
 portraits:
   - media: 2023/03/tacita-dean
 ---
