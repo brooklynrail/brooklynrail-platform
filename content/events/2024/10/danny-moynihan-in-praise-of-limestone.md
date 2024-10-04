@@ -4,6 +4,7 @@ deck: "Featuring Moynihan and Jason Rosenfeld "
 summary: Artist Danny Moynihan joins Rail Editor-at-Large Jason Rosenfeld  for a
   conversation.
 people:
+  - person: danny-moynihan
   - person: jason-rosenfeld
 date: 2024-10-29T13:00:00-0500
 end_date: 2024-10-29T14:30:00-0500
