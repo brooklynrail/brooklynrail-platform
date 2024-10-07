@@ -11,7 +11,7 @@ exports.handler = function(event, context, callback) {
   base('tbl9k6L9O6PrTtWDc').select({
     maxRecords: 1,
     // This ID should match the view that is named to the current year
-    view: "viwvOf3TJixFFjjkn",
+    view: "viwKVL99hyMNGeEct",
   }).eachPage(function page(records, fetchNextPage) {
     
     records.forEach(function(record) {
