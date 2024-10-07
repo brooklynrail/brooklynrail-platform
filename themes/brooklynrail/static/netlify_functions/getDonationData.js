@@ -24,7 +24,7 @@ exports.handler = function(event, context, callback) {
     if (err) {
       callback(err)
     } else {
-      const body = "rail_donations(" + JSON.stringify({ records: allRecords })+ ")";
+      const body = JSON.stringify({ records: allRecords });
       
       const response = {
         headers: {
