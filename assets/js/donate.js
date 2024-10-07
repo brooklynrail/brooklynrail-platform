@@ -1,13 +1,3 @@
-// Serverless Stripe Dontate form
-// https://www.deanmontgomery.com/2019/09/18/building-a-serverless-donate-form/
-// Example: https://github.com/monty5811/donate-form
-
-// Environment variables:
-// - STRIPE_PUBLISHABLE
-// - STRIPE_PUBLISHABLE_TEST
-// - STRIPE_SECRET
-// - STRIPE_SECRET_TEST
-
 jQuery(document).ready(function($) {
 	var errorText = "Failed. You have not been charged.";
 
@@ -26,7 +16,21 @@ jQuery(document).ready(function($) {
 	// var apiURL = "http://localhost:8888/.netlify/functions/stripe_test"
 	// var apiURL = "http://localhost:8888/.netlify/functions/stripe"
 
+	// Function to get URL parameters
+	function getUrlParameter(name) {
+		name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
+		var regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
+		var results = regex.exec(location.search);
+		return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+	}
 
+	// Pre-populate the donate amount if "amt" parameter is present
+	var amt = getUrlParameter('amt');
+	if (amt) {
+		$(amountInput).val(amt);
+		update_fee(amt);
+		check_donateReady();
+	}
 
 	// Check if the amountInput field has a value on keyup
 	// If it is empty, make it disabled, otherwise make it enabled and ready to submit
@@ -73,7 +77,7 @@ jQuery(document).ready(function($) {
 
 		// get the new Total
 		var total = (amount + parseFloat(_fee.Fixed)) / (1 - parseFloat(_fee.Percent) / 100);
-    var fee = total - amount;
+	var fee = total - amount;
 		
 		// save the original fee as a data-fee
 		$(amountInput).data('fee', fee);
@@ -213,24 +217,24 @@ jQuery(document).ready(function($) {
 
   if(validation) {
   
-    $.get("https://www.instagram.com/"+a+"/?__a=1")
-    .done(function(data) { 
+	$.get("https://www.instagram.com/"+a+"/?__a=1")
+	.done(function(data) { 
 
-      // getting the url
-      var photoURL = data["graphql"]["user"]["profile_pic_url_hd"];
+	  // getting the url
+	  var photoURL = data["graphql"]["user"]["profile_pic_url_hd"];
 
-      // update img element
-      $("#photoReturn").attr("src",photoURL)
-     
-     })
-    .fail(function() { 
-      // code for 404 error 
-      alert('Username was not found!')
-    })
+	  // update img element
+	  $("#photoReturn").attr("src",photoURL)
+	 
+	 })
+	.fail(function() { 
+	  // code for 404 error 
+	  alert('Username was not found!')
+	})
   
   } else {
   
-    alert('The username is invalid!')
+	alert('The username is invalid!')
   }
 
 }
@@ -241,8 +245,8 @@ jQuery(document).ready(function($) {
 		submitButton.innerText = "Working...";
 
 		var transaction_type = document.getElementById("transaction-type").value
-		var name = transaction_type == "donation" ? "2023 Winter Campaign Donation" : "Brooklyn Rail Endowment"
-		var description = transaction_type == "donation" ? "Thank you for making a donation to the Brooklyn Rail's 2023 Winter Campaign" : "Thank you for making a donation to the Brooklyn Rail's Endowment"
+		var name = transaction_type == "donation" ? "2024 Winter Campaign Donation" : "Brooklyn Rail Endowment"
+		var description = transaction_type == "donation" ? "Thank you for making a donation to the Brooklyn Rail's 2024 Winter Campaign" : "Thank you for making a donation to the Brooklyn Rail's Endowment"
 		var donationName = !!document.getElementById("donorName") ? document.getElementById("donorName").value : ""
 		var donationInstagram = !!document.getElementById("instagramHandle") ? document.getElementById("instagramHandle").value : ""
 		var consent = transaction_type == "donation" ? consentGiven() : "false"
@@ -271,8 +275,8 @@ jQuery(document).ready(function($) {
 			url: apiURL,
 			data: dataJson,
 			error: function(e) {
-    		console.log(e);
-  		},
+			console.log(e);
+		},
 			success: function(data) {
 				// we got a response from our netlify function:
 				switch (data.status) {
@@ -294,7 +298,7 @@ jQuery(document).ready(function($) {
 		});
 	});
 
-	var end = new Date('12/31/2023 11:59 PM');
+	var end = new Date('12/31/2024 11:59 PM');
 	var _second = 1000;
 	var _minute = _second * 60;
 	var _hour = _minute * 60;
