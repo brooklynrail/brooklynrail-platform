@@ -1,5 +1,10 @@
 const Airtable = require('airtable')
 
+const headers = {
+  "Access-Control-Allow-Origin": "*",
+  "Access-Control-Allow-Headers": "Content-Type"
+};
+
 exports.handler = function(event, context, callback) {
   
   var Airtable = require('airtable');
