@@ -1,10 +1,5 @@
 const Airtable = require('airtable')
 
-const headers = {
-  "Access-Control-Allow-Origin": "*",
-  "Access-Control-Allow-Headers": "Content-Type"
-};
-
 exports.handler = function(event, context, callback) {
   
   var Airtable = require('airtable');
@@ -29,7 +24,7 @@ exports.handler = function(event, context, callback) {
     if (err) {
       callback(err)
     } else {
-      const body = JSON.stringify({ records: allRecords });
+      const body = "rail_donations(" + JSON.stringify({ records: allRecords })+ ")";
       
       const response = {
         headers: {
