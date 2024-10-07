@@ -9,7 +9,7 @@ summary: Your annual winter support keeps the Rail independent, relevant, and fr
 On behalf of the entire Brooklyn Rail staff and community, we extend our
 heartfelt thanks for your generous contribution to our year end fundraising drive.
 
-This is our 23rd year as a non-profit arts organization & independent publication, your support is a vote of confidence in our mission, and stakes our shared claim to a space that will always stand for inclusive and critical voices.
+This is our 24th year as a non-profit arts organization & independent publication, your support is a vote of confidence in our mission, and stakes our shared claim to a space that will always stand for inclusive and critical voices.
 
 Individual contributions like yours are a huge part of our support system, and will allow us to innovate and launch timely projects such as The New Social Environment, We The Immigrants, and our Singing in Unison exhibition series while compensating the artists & poets who do the work.
 
