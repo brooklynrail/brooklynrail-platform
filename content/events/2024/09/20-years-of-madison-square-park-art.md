@@ -1,5 +1,5 @@
 ---
-title: "20 Years of Madison Square Park Art "
+title: 20 Years of Public Art in Madison Square Park
 deck: Featuring Brooke Kamin Rapaport and Lilly Wei
 summary: "Artistic Director & Martin Friedman Chief Curator of Madison Square
   Park Conservancy Brooke Kamin Rapaport joins Rail contributor Lilly Wei for a
