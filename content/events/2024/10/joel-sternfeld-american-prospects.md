@@ -4,6 +4,7 @@ deck: Featuring Sternfeld and Geoffrey Batchen
 summary: Photographer Joel Sternfeld joins Rail contributor Geoffrey Batchen for
   a conversation.
 people:
+  - person: joel-sternfeld
   - person: geoffrey-batchen
 date: 2024-10-30T13:00:00-0500
 end_date: 2024-10-30T14:30:00-0500
