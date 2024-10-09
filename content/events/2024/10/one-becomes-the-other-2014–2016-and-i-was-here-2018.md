@@ -1,7 +1,10 @@
 ---
 title: "one becomes the other (2014–2016) and I Was Here (2018) "
-deck: Directed by Jeffrey Gibson
-summary: Join us for a virtual screening of two films by artist Jeffrey Gibson
+deck: Films by Jeffrey Gibson
+summary: As we observe Indigenous Peoples’ Day, we invite you to join us for
+  virtual screenings of one becomes the other (2014–2016) and I Was Here (2018)
+  by artist Jeffrey Gibson. Register to receive a 24-hour access link to the
+  films.
 people:
   - person: jeffrey-gibson
 date: 2024-10-14T00:00:00-0500
