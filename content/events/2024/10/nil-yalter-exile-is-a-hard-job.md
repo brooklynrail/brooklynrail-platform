@@ -1,6 +1,6 @@
 ---
-title: "Nil Yalter: Exile Is a Hard Job"
-deck: "Featuring Yalter, Övül Ö. Durmusoglu, and Jill H. Casid "
+title: Nil Yalter and Övül Ö. Durmusoglu
+deck: "Featuring Durmusoglu, Yalter, and Jill H. Casid "
 summary: "Curator Övül Ö. Durmusoglu and artist Nil Yalter join artist-theorist
   and Rail contributor Jill H. Casid for a conversation. "
 people:
@@ -19,3 +19,4 @@ event_platform:
   - zoom
 soldout: false
 ---
+[V﻿isit Nil Yalter's work, on view at La Biennale di Venezia, Venice through November 24, 2024 →](https://www.labiennale.org/en/art/2024/nucleo-contemporaneo/nil-yalter)
