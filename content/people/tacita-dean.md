@@ -14,4 +14,5 @@ short_bio: "**Tacita Dean** is a British European artist. Recent solo
   to preserve photochemical film."
 portraits:
   - media: 2023/03/tacita-dean
+instagram: tacita_dean
 ---
