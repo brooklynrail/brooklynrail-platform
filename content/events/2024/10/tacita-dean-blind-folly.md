@@ -20,4 +20,4 @@ event_platform:
   - zoom
 soldout: false
 ---
-[V﻿isit *Blind Folly* on view at Menil Collection, Texas through April 19, 2025 *→*](https://www.menil.org/exhibitions/379-tacita-dean-blind-folly)
+[V﻿isit *Blind Folly* on view at The Menil Collection, Texas through April 19, 2025 *→*](https://www.menil.org/exhibitions/379-tacita-dean-blind-folly)
