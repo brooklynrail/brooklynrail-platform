@@ -1,5 +1,5 @@
 ---
-title: "one becomes the other (2014–2016) and I Was Here (2018) "
+title: "One Becomes the Other (2014–2016) and I Was Here (2018) "
 deck: Films by Jeffrey Gibson
 summary: As we observe Indigenous Peoples’ Day, we invite you to join us for
   virtual screenings of one becomes the other (2014–2016) and I Was Here (2018)
@@ -22,14 +22,13 @@ soldout: false
 ---
 {{< image media="2024/10/jeffrey-gibson-one-becomes-the-other-film-still" size="lg" >}}
 
-**Jeffrey Gibson, *one becomes the other,* 2014-16. Single channel video,19:25 minutes.** 
+**Jeffrey Gibson, *one becomes the other,* 2014-16.  Single channel video. 19:25 minutes.** 
 
 Jeffrey Gibson's ***one becomes the other*** (2014–2016) is set in the Native American archives and art storage of the Denver Art Museum. We see a man speaking Kiowa pick up a hand drum from a shelf and begin to play. A woman in a long, white dress with colorful patterns enters the halls, dancing in time. There is an improvised moment where an art handler asks to participate in the filming. He opens a drawer, and finds a Navajo weaving comb like his grandmother’s. He talks to the comb as if it is his deceased grandmother, bringing himself to tears. The sleeping objects are understood as living. 
 
 {{< image media="2024/10/jeffrey-gibson-i-was-here-still-2018" size="lg" >}}
 
-**Jeffrey Gibson, *I Was Here*, 2018.Single channel video, with original music by Tanya Tagaq, 08:40 minutes.**\
-\
+**Jeffrey Gibson, *I Was Here*, 2018.** **Single channel video with original music by Tanya Tagaq. 08:40 minutes.**\
 Vocals: Tanya Tagaq. Director of Photography and Editor: Brett Novak. Camera Operator: Maxwell Flick. 
 
 Jeffrey Gibson's ***I Was Here*** (2018) mixes documentary and dramatic styles and centers on Macy, a transgender woman and a member of the Choctaw Nation. Blurring the lines between a mystical, natural setting and Macy's daily reality, Gibson's film examines the private and personal routines of transformation and self. The film's location, the Choctaw reservation in central Mississippi where Gibson's family is from, plays a significant role in the film's blend of spirituality, ritual, and the fantastical. The film was commissioned by the Ruth and Elmer Wellin Museum of Art at Hamilton College for Gibson's 2018 exhibition *This Is the Day*.\
