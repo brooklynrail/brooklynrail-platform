@@ -8,8 +8,8 @@ short_bio: "Since 2013, **Brooke Kamin Rapaport** has been responsible for the
   MSPC, she served as Commissioner and Curator of the United States Pavilion at
   the Venice Biennale with the exhibition Martin Puryear: _Liberty_ / _Libertà_
   (2019). The exhibition marked the first time in the history of the Venice
-  Biennale that the U.S. Pavilion was organized by an institution whose visual
-  art program focused exclusively on public art. Rapaport was a curator in the
+  Biennale that the US Pavilion was organized by an institution whose visual art
+  program focused exclusively on public art. Rapaport was a curator in the
   contemporary art department at the Brooklyn Museum and a guest curator at The
   Jewish Museum.  In 2022, she was awarded an honorary degree from Amherst."
 portraits:
