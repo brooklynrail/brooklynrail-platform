@@ -20,4 +20,4 @@ event_platform:
   - zoom
 soldout: false
 ---
-[V﻿isit *Andrea Geyer: a promise of lightning* on view at Leslie Lohman Museum, New York through January 12, 2025 →](https://leslielohman.org/exhibitions/andrea-geyer-a-promise-of-lightning)
+[V﻿isit *Andrea Geyer: a promise of lightning* on view at Leslie-Lohman Museum, New York through January 12, 2025 →](https://leslielohman.org/exhibitions/andrea-geyer-a-promise-of-lightning)
