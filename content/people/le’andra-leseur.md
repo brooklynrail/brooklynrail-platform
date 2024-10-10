@@ -8,10 +8,10 @@ short_bio: "**Le’Andra LeSeur** is an artist whose work delves into the
   opportunity to contemplate themes such as identity, grief, and how the
   experience of invisibility and debility exist within the frameworks of our
   day-to-day lives. LeSeur has received several notable awards including the
-  Tulsa Artist Fellowship (2024-2026)and the Leslie-Lohman Museum Artists
+  Tulsa Artist Fellowship (2024-2026) and the Leslie-Lohman Museum Artists
   Fellowship (2019), among others. Her work has been shown in solo and group
-  exhibitions at LMCC, NY; The Shed, NY; Atlanta Contemporary, A.I.R. Gallery,
-  Brooklyn, and others. Her work is in the collection at The Whitney Museum of
+  exhibitions at LMCC, NY; The Shed, NY; Atlanta Contemporary; A.I.R. Gallery,
+  Brooklyn, and others. Her work is in the collection at the Whitney Museum of
   American Art."
 portraits:
   - media: 2024/02/le’andra-leseur
