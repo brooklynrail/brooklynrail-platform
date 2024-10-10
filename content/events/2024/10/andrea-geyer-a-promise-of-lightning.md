@@ -1,7 +1,8 @@
 ---
 title: "Andrea Geyer: a promise of lightning"
 deck: Featuring Geyer and Ksenia M. Soboleva
-summary: "Andrea Geyer joins Ksenia M. Soboleva for a conversation. "
+summary: "Artist Andrea Geyer joins Rail contributor Ksenia M. Soboleva for a
+  conversation. "
 people:
   - person: andrea-geyer
   - person: ksenia-m-soboleva
