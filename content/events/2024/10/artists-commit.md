@@ -5,6 +5,7 @@ summary: Artists Deville Cohen, Jessica Gath, Jenny Kendler, Laura Lupton, and
   friends join Rail contributor Julie Reiss for a conversation.
 people:
   - person: jenny-kendler
+  - person: laura-lupton
   - person: dr-julie-reiss
 date: 2024-10-31T13:00:00-0500
 end_date: 2024-10-31T14:30:00-0500
