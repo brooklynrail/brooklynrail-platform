@@ -1,10 +1,9 @@
 ---
 title: "One Becomes the Other (2014–2016) and I Was Here (2018) "
 deck: Films by Jeffrey Gibson
-summary: As we observe Indigenous Peoples’ Day, we invite you to join us for
-  virtual screenings of one becomes the other (2014–2016) and I Was Here (2018)
-  by artist Jeffrey Gibson. Register to receive a 24-hour access link to the
-  films.
+summary: The Rail invites you to join us for virtual screenings of one becomes
+  the other (2014–2016) and I Was Here (2018) by artist Jeffrey Gibson. Register
+  to receive a 24-hour access link to the films.
 people:
   - person: jeffrey-gibson
 date: 2024-10-14T00:00:00-0500
