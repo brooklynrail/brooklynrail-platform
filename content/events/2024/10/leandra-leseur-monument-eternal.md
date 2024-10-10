@@ -19,4 +19,4 @@ event_platform:
   - zoom
 soldout: false
 ---
-[V﻿isit *Monument Eternal,* on view at Pioneer Works, New York through December 15, 2024](https://pioneerworks.org/exhibitions/le-andra-leseur-monument-eternal)
+[V﻿isit *Monument Eternal,* on view at Pioneer Works, New York through December 15, 2024→](https://pioneerworks.org/exhibitions/le-andra-leseur-monument-eternal)
