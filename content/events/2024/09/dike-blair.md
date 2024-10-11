@@ -7,7 +7,7 @@ people:
   - person: dike-blair
   - person: jonathan-t-d-neil
 date: 2024-10-11T13:00:00-0500
-end_date: 2024-10-11T13:30:00-0500
+end_date: 2024-10-11T14:30:00-0500
 series: 1108
 collections:
   - the-new-social-environment
@@ -15,6 +15,7 @@ event_organizer:
   - the-brooklyn-rail
 event_producer:
   - the-brooklyn-rail
+youtube_id: 26TJyO-MXnI
 event_id: recL79VlJRB9LFEh2
 event_platform:
   - zoom
