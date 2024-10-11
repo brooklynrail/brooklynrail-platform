@@ -1,6 +1,7 @@
 ---
 title: Artists Commit
-deck: Featuring Deville Cohen, Jessica Gath, Jenny Kendler, Laura Lupton, and friends
+deck: Featuring Deville Cohen, Jessica Gath, Jenny Kendler, Laura Lupton, and
+  Julie Reiss
 summary: Artists Deville Cohen, Jessica Gath, Jenny Kendler, Laura Lupton, and
   friends join Rail contributor Julie Reiss for a conversation.
 people:
