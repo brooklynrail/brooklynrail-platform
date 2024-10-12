@@ -44,7 +44,8 @@
       {{ template "list_data" (dict "page" $page "key" "event_organizer" ) }}
       {{ template "list_data" (dict "page" $page "key" "event_producer" ) }}
       {{ template "list_data" (dict "page" $page "key" "collections" ) }}
-      "content" : {{- with .Content -}}{{- . | jsonify (dict "noHTMLEscape" true) -}}{{- else -}}null{{- end -}},
+      "body_text" : {{- with .Content -}}{{- . | jsonify (dict "noHTMLEscape" true) -}}{{- else -}}null{{- end -}},
+      "body" : {{- with .RawContent -}}{{- . | jsonify -}}{{- else -}}null{{- end -}},
       "people" : {{- with .Params.people -}}{{- . | jsonify -}}{{- else -}}null{{- end -}},
       "poets" : {{- with .Params.poets -}}{{- . | jsonify -}}{{- else -}}null{{- end -}},
       "series" : "{{- with .Params.series -}}{{- . -}}{{- end -}}",
