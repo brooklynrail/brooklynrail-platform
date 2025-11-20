@@ -2,7 +2,7 @@
 // Donate
 
 .shortcode-donateProgress {
-  @include u-display('none');
+  // @include u-display('none');
   @include u-margin-bottom(0);
   @include at-media("tablet-lg") {
     @include u-margin-bottom(3);
