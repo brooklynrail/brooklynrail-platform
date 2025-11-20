@@ -46,9 +46,13 @@ const createArticlePath = result => {
 };
 
 const getFrontmatter = article => {
+  const date = article.created_at;
   const title = striptags(article.title);
+  const summary = striptags(article.excerpt);
   return yaml.dump({
-    title
+    date,
+    title,
+    summary
   });
 };
 
