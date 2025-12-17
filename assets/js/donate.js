@@ -32,227 +32,195 @@ jQuery(document).ready(function($) {
 		check_donateReady();
 	}
 
-	// Check if the amountInput field has a value on keyup
-	// If it is empty, make it disabled, otherwise make it enabled and ready to submit
-	// This also accounts for people who enter a value then deleted it
-	$(amountInput).keyup(function(){
-		setTimeout(function (){
-			check_donateReady();
-			var current_value = $(amountInput).val();
-			if (showFee() === false){
-				if (current_value != 0){
-					update_fee(+current_value);
-					// largeDonation(+current_value);
-				}
-			} else {
-				var current_fee = $(amountInput).data("fee");
-				if (current_value != 0){
-					update_donateAmount(+current_value - +current_fee);
-					update_fee(+current_value - +current_fee);
-					// largeDonation(+current_value - +current_fee);
-				}
-			}
-		}, 0);
+	// Handle input changes
+	// When the user types, only update the fee display, don't modify their input
+	$(amountInput).on('input', function() {
+		check_donateReady();
+		var current_value = $(amountInput).val();
+		
+		if (current_value && current_value != 0) {
+			// Always calculate fee based on the raw input value
+			// Don't modify the input field while the user is typing
+			update_fee(+current_value);
+		}
 	});
 
-
-	function check_donateReady(){
+	function check_donateReady() {
 		var value = $(amountInput).val();
-		if (!value){
-			submitButton.disabled = true; // adds the disabled attribute
+		if (!value) {
+			submitButton.disabled = true;
 			addHelper("Please enter an amount");
 		} else {
-			submitButton.disabled = false; // removes the disabled attribute
+			submitButton.disabled = false;
+			removeHelper();
 		}
 	}
 
-	// If the donate amount is over $1,000
-	// Show the transaction fees
-	// Prompt them to send in a check or money transfer
-	function getFee(current_val){
-		if (current_val == 0){ return 0 }
+	// Calculate the Stripe processing fee for a given donation amount
+	// Stripe charges 2.9% + $0.30 per transaction
+	function getFee(donationAmount) {
+		if (donationAmount == 0) { 
+			return 0;
+		}
 
-		var _fee = { Percent: 2.9, Fixed: 0.30 }
-		var amount = parseFloat(current_val);
+		var feePercent = 2.9;
+		var feeFixed = 0.30;
+		var amount = parseFloat(donationAmount);
 
-		// get the new Total
-		var total = (amount + parseFloat(_fee.Fixed)) / (1 - parseFloat(_fee.Percent) / 100);
-	var fee = total - amount;
+		// Calculate total charge needed to cover donation + fees
+		var totalCharge = (amount + feeFixed) / (1 - feePercent / 100);
+		var fee = totalCharge - amount;
 		
-		// save the original fee as a data-fee
+		// Store the fee for later use
 		$(amountInput).data('fee', fee);
-		return (Math.round(fee*Math.pow(10,2))/Math.pow(10,2)).toFixed(2)
+		return (Math.round(fee * 100) / 100).toFixed(2);
 	}
 
+	function update_fee(donationAmount) {
+		var fee = getFee(donationAmount);
+		$('.transaction-fee-checkbox label .fee').text(`$${fee}`);
+	}
 
-	function calc_donateAmount(amount){
-		// update the amount
-		switch (showFee()) {
-			case true:
-				var fee = getFee(amount);
-				$(amountInput).data("fee", fee);
-				var newAmount = (Math.round((+amount + +fee)*Math.pow(10,2))/Math.pow(10,2)).toFixed(2)
-				return newAmount
-			default:
-				var fee = getFee(amount);
-				$(amountInput).data("fee", fee);
-				var newAmount = (Math.round(+amount*Math.pow(10,2))/Math.pow(10,2)).toFixed(2) 
-				return newAmount
+	function showFee() {
+		return $('#transaction-fee').prop("checked");
+	}
+
+	// Handle the processing fee checkbox
+	$('#transaction-fee').change(function() {
+		var current_value = parseFloat($(amountInput).val());
+		
+		if (!current_value || current_value == 0) {
+			return;
 		}
-	}
 
-	function update_donateAmount(newAmount){
-		var donation = calc_donateAmount(newAmount)
-		return $(amountInput).val(donation);
-	}
-
-	function update_fee(newAmount){
-		var fee = getFee(newAmount);
-		// update the transaction cost
-		$('.transaction-fee-checkbox label .fee').text(`$${fee}`)
-		return 
-	}
-
-	function largeDonation(newAmount){
-		var fee = getFee(newAmount);
-		// update the transaction cost
-		addHelper("");
-		return 
-	}
-
-	function showFee(){
-		return $('#transaction-fee').prop("checked")
-	}
-
-	$('#transaction-fee').click(function(e){
-		var current_value = $(amountInput).val();
-		if (showFee() === true){
-			if (current_value != 0){
-				update_donateAmount(+current_value);
-				update_fee(+current_value);
-			}
+		if (showFee()) {
+			// Checkbox was just checked - add the fee to the current amount
+			var fee = parseFloat(getFee(current_value));
+			var newTotal = (Math.round((current_value + fee) * 100) / 100).toFixed(2);
+			$(amountInput).val(newTotal);
 		} else {
-			var current_fee = $(amountInput).data("fee");
-			if (current_value != 0){
-				update_donateAmount(+current_value - +current_fee);
-				update_fee(+current_value - +current_fee);
-			}
+			// Checkbox was just unchecked - subtract the fee from the current amount
+			var current_fee = parseFloat($(amountInput).data("fee"));
+			var newAmount = (Math.round((current_value - current_fee) * 100) / 100).toFixed(2);
+			$(amountInput).val(newAmount);
+			update_fee(newAmount);
 		}
 	});
 
-	
-	// Donation buttons
-	// Select the amount and auto-fill the input field
-	$('.amount').click(function(e){
+	// Donation amount buttons
+	// Select a preset amount and auto-fill the input field
+	$('.amount').click(function(e) {
 		e.preventDefault();
 		confetti({
 			particleCount: 100,
 			spread: 180
 		});
-		var selected_amount = $(this).data("amount")
-		update_donateAmount(selected_amount);
+		
+		var selected_amount = $(this).data("amount");
+		var fee = parseFloat(getFee(selected_amount));
+		
+		// If fee checkbox is checked, add fee to the amount
+		if (showFee()) {
+			var total = (Math.round((selected_amount + fee) * 100) / 100).toFixed(2);
+			$(amountInput).val(total);
+		} else {
+			$(amountInput).val(selected_amount);
+		}
+		
 		update_fee(selected_amount);
 		check_donateReady();
 	});
 
+	// Helper text functions
+	function addHelper(text) {
+		$('.helper').text(text).fadeIn('fast');
+	}
+	
+	function removeHelper() {
+		$('.helper').text('').fadeOut('fast');
+	}
+
 	// btn-helper
-	if (submitButton.disabled == true){
-		$('.btn-helper').click(function(e){
+	if (submitButton.disabled == true) {
+		$('.btn-helper').click(function(e) {
 			var text = "Please enter an amount";
 			addHelper(text);
 		});
 	}
-	
-	function addHelper(text){
-		$('.helper').text(text).fadeIn('fast');
-	}
-	function removeHelper(){
-		$('.helper').text('').fadeOut('fast');
-	}
 
 	// Mail a check
-	// =======================
-	$('#showAddress .mail').click(function(e){
+	$('#showAddress .mail').click(function(e) {
 		e.preventDefault();
 		$('#mailAddress').toggle();
 		$('#wireAddress').hide();
 	});
 
-	// Send a wire
-	// =======================
-	$('#showAddress .wire').click(function(e){
+	// Send a wire transfer
+	$('#showAddress .wire').click(function(e) {
 		e.preventDefault();
 		$('#mailAddress').hide();
 		$('#wireAddress').toggle();
 	});
 
-
 	// Share Prompt
 	// Check if the person has given consent to share their info in the donations list
-	// =======================
-	function consentGiven(){
-		if($('#consent').is(":checked")){
+	function consentGiven() {
+		if ($('#consent').is(":checked")) {
 			$('#donorName').prop("disabled", true);
 			$('#instagramHandle').prop("disabled", true);
 			$('.shareDetails').addClass('disabled');
 			return "false";
-		} else{
+		} else {
 			$('#donorName').prop("disabled", false);
 			$('#instagramHandle').prop("disabled", false);
 			$('.shareDetails').removeClass('disabled');
 			return "true";
 		}
 	}
-	consentGiven()
+	consentGiven();
 
-	$('#consent').click(function(e){
-		consentGiven()
+	$('#consent').click(function(e) {
+		consentGiven();
 	});
 	
-	//get the instagram photo
-	function getPhoto(a) {
-  // validation for instagram usernames
-  var regex = new RegExp(/^(?!.*\.\.)(?!.*\.$)[^\W][\w.]{0,29}$/);
-  var validation = regex.test(a);
+	// Get Instagram photo (Note: Instagram API changes may break this)
+	function getPhoto(username) {
+		// Validation for instagram usernames
+		var regex = new RegExp(/^(?!.*\.\.)(?!.*\.$)[^\W][\w.]{0,29}$/);
+		var validation = regex.test(username);
 
-  if(validation) {
-  
-	$.get("https://www.instagram.com/"+a+"/?__a=1")
-	.done(function(data) { 
+		if (validation) {
+			$.get("https://www.instagram.com/" + username + "/?__a=1")
+				.done(function(data) {
+					var photoURL = data["graphql"]["user"]["profile_pic_url_hd"];
+					$("#photoReturn").attr("src", photoURL);
+				})
+				.fail(function() {
+					alert('Username was not found!');
+				});
+		} else {
+			alert('The username is invalid!');
+		}
+	}
 
-	  // getting the url
-	  var photoURL = data["graphql"]["user"]["profile_pic_url_hd"];
-
-	  // update img element
-	  $("#photoReturn").attr("src",photoURL)
-	 
-	 })
-	.fail(function() { 
-	  // code for 404 error 
-	  alert('Username was not found!')
-	})
-  
-  } else {
-  
-	alert('The username is invalid!')
-  }
-
-}
-
-	$('#btn-donate').click(function(e){
+	// Handle donation form submission
+	$('#btn-donate').click(function(e) {
 		e.preventDefault();
 		const buttonText = submitButton.innerText;
 		submitButton.innerText = "Working...";
 
-		var transaction_type = document.getElementById("transaction-type").value
-		var name = transaction_type == "donation" ? "2025 Winter Campaign Donation" : "Brooklyn Rail Endowment"
-		var description = transaction_type == "donation" ? "Thank you for making a donation to the Brooklyn Rail's 2025 Winter Campaign" : "Thank you for making a donation to the Brooklyn Rail's Endowment"
-		var donationName = !!document.getElementById("donorName") ? document.getElementById("donorName").value : ""
-		var donationInstagram = !!document.getElementById("instagramHandle") ? document.getElementById("instagramHandle").value : ""
-		var consent = transaction_type == "donation" ? consentGiven() : "false"
-		var success_url = transaction_type == "donation" ? "https://brooklynrail.org/thank-you" : "https://brooklynrail.org/thank-you-endowment"
+		var transaction_type = document.getElementById("transaction-type").value;
+		var name = transaction_type == "donation" ? "2025 Winter Campaign Donation" : "Brooklyn Rail Endowment";
+		var description = transaction_type == "donation" 
+			? "Thank you for making a donation to the Brooklyn Rail's 2025 Winter Campaign" 
+			: "Thank you for making a donation to the Brooklyn Rail's Endowment";
+		var donationName = !!document.getElementById("donorName") ? document.getElementById("donorName").value : "";
+		var donationInstagram = !!document.getElementById("instagramHandle") ? document.getElementById("instagramHandle").value : "";
+		var consent = transaction_type == "donation" ? consentGiven() : "false";
+		var success_url = transaction_type == "donation" 
+			? "https://brooklynrail.org/thank-you" 
+			: "https://brooklynrail.org/thank-you-endowment";
 
-		// get the current value in the input
 		// The data object we're passing to the Stripe session
 		// NOTE: the amount needs to be calculated as cents!
 		var data = {
@@ -260,7 +228,7 @@ jQuery(document).ready(function($) {
 			name: name,
 			description: description,
 			success_url: success_url,
-			metadata: { 
+			metadata: {
 				payment_type: "online donation",
 				consentGiven: consent,
 				donationName: donationName,
@@ -269,26 +237,25 @@ jQuery(document).ready(function($) {
 		};
 		var dataJson = JSON.stringify(data);
 
-		// create a stripe session by talking to our netlify function
+		// Create a Stripe session by talking to our Netlify function
 		$.ajax({
 			type: "POST",
 			url: apiURL,
 			data: dataJson,
 			error: function(e) {
-			console.log(e);
-		},
+				console.log(e);
+				submitButton.innerText = errorText;
+			},
 			success: function(data) {
-				// we got a response from our netlify function:
+				// We got a response from our Netlify function
 				switch (data.status) {
 					case "session-created":
-						// it worked - send the user to checkout:
-						stripe
-							.redirectToCheckout({
-								sessionId: data.sessionId
-							})
-							.then(function(result) {
-								submitButton.innerText = result.error.message;
-							});
+						// It worked - send the user to Stripe checkout
+						stripe.redirectToCheckout({
+							sessionId: data.sessionId
+						}).then(function(result) {
+							submitButton.innerText = result.error.message;
+						});
 						break;
 					default:
 						submitButton.innerText = errorText;
@@ -298,7 +265,8 @@ jQuery(document).ready(function($) {
 		});
 	});
 
-	var end = new Date('12/31/2024 11:59 PM');
+	// Countdown timer
+	var end = new Date('12/31/2025 11:59 PM');
 	var _second = 1000;
 	var _minute = _second * 60;
 	var _hour = _minute * 60;
@@ -306,15 +274,14 @@ jQuery(document).ready(function($) {
 	var timer;
 
 	function showRemaining() {
-		var countdown = document.getElementById('countdown')
-		if (!!countdown){
+		var countdown = document.getElementById('countdown');
+		if (!!countdown) {
 			var now = new Date();
 			var distance = end - now;
+			
 			if (distance < 0) {
-
 				clearInterval(timer);
-				document.getElementById('countdown').remove()
-
+				document.getElementById('countdown').remove();
 				return;
 			}
 
@@ -331,4 +298,4 @@ jQuery(document).ready(function($) {
 	}
 
 	timer = setInterval(showRemaining, 1000);
-})
+});
